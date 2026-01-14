@@ -4,18 +4,55 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>🗞️ My Daily Briefings</title>
+        <title>🗞️ Daily Briefing Center</title>
         <style>
             :root { --bg: #121212; --card: #1e1e1e; --text: #e0e0e0; --accent: #3498db; }
-            body { font-family: sans-serif; background: var(--bg); color: var(--text); max-width: 700px; margin: auto; padding: 20px; }
-            h1 { text-align: center; color: var(--accent); }
-            .card { background: var(--card); padding: 15px; margin: 10px 0; border-radius: 8px; border-left: 4px solid var(--accent); text-decoration: none; color: inherit; display: flex; justify-content: space-between; }
+            body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); max-width: 650px; margin: auto; padding: 20px; line-height: 1.6; }
+            h1 { text-align: center; font-weight: 300; margin-bottom: 5px; }
+            .subtitle { text-align: center; color: #666; font-size: 0.8em; margin-bottom: 25px; }
+            .card { background: var(--card); padding: 20px; margin: 12px 0; border-radius: 12px; display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; border: 1px solid #222; transition: 0.2s; }
+            .card:hover { border-color: var(--accent); background: #222; }
+            .card-title { font-weight: 600; font-size: 1.05em; }
+            .card-arrow { color: var(--accent); font-weight: bold; }
         </style>
     </head>
     <body>
         <h1>🗞️ Briefing Center</h1>
-        <p style="text-align:center">Actualizado: 14/01/2026 16:10</p>
-        <a href="noticias-2026-01-14.html" class="card"><span>noticias-2026-01-14</span><span>→</span></a><a href="noticias-2026-01-13.html" class="card"><span>noticias-2026-01-13</span><span>→</span></a><a href="noticias-2026-01-12.html" class="card"><span>noticias-2026-01-12</span><span>→</span></a><a href="noticias-2026-01-11.html" class="card"><span>noticias-2026-01-11</span><span>→</span></a>
+        <div class="subtitle">Actualizado: 14/01/2026 16:19</div>
+        
+        
+    <div style="margin-bottom: 25px; background: #1e1e1e; padding: 15px; border-radius: 12px; border: 1px solid #333;">
+        <h3 style="color: #3498db; margin-top: 0; font-size: 0.9em; text-align: center;">🌍 GLOBAL WEATHER</h3>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 10px; text-align: center; font-size: 0.8em;">
+            <div><strong>Murcia</strong><br><img src="https://img.icons8.com/color/48/000000/sun.png" width="20"><br>Soleado</div>
+            <div><strong>Madrid</strong><br><img src="https://img.icons8.com/color/48/000000/partly-cloudy-day.png" width="20"><br>Nubes</div>
+            <div><strong>Santoña</strong><br><img src="https://img.icons8.com/color/48/000000/rain.png" width="20"><br>Lluvia</div>
+            <div><strong>Gold Coast</strong><br><img src="https://img.icons8.com/color/48/000000/tropical-fish.png" width="20"><br>Verano</div>
+            <div><strong>Santa Fe</strong><br><img src="https://img.icons8.com/color/48/000000/hot-springs.png" width="20"><br>Calor</div>
+        </div>
+    </div>
+    
+
+        <div class="list">
+    
+            <a href="noticias-2026-01-14.html" class="card">
+                <span class="card-title">Edición 2026/01/14</span>
+                <span class="card-arrow">Leer →</span>
+            </a>
+            <a href="noticias-2026-01-13.html" class="card">
+                <span class="card-title">Edición 2026/01/13</span>
+                <span class="card-arrow">Leer →</span>
+            </a>
+            <a href="noticias-2026-01-12.html" class="card">
+                <span class="card-title">Edición 2026/01/12</span>
+                <span class="card-arrow">Leer →</span>
+            </a>
+            <a href="noticias-2026-01-11.html" class="card">
+                <span class="card-title">Edición 2026/01/11</span>
+                <span class="card-arrow">Leer →</span>
+            </a>
+        </div>
+        <footer style="text-align:center; margin-top:50px; color:#444; font-size:0.7em;">mcasrom personal hub | Odroid C2 Powered</footer>
     </body>
     </html>
     
