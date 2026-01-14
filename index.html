@@ -1,95 +1,46 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Índice de Briefings</title>
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: #1a1a2e;
-            color: #e6e6e6;
-            padding: 20px;
-            line-height: 1.5;
-        }
-        .container { max-width: 700px; margin: 0 auto; }
-        h1 { 
-            color: #3498db; 
-            text-align: center; 
-            margin-bottom: 25px;
-            font-size: 1.5em;
-        }
-        .briefing-list {
-            list-style: none;
-            padding: 0;
-        }
-        .briefing-item {
-            margin: 10px 0;
-        }
-        .briefing-link {
-            display: block;
-            padding: 12px 15px;
-            background: #2c3e50;
-            border-radius: 6px;
-            color: #ecf0f1;
-            text-decoration: none;
-            border-left: 4px solid #3498db;
-            transition: background 0.2s;
-        }
-        .briefing-link:hover {
-            background: #34495e;
-        }
-        .briefing-date {
-            color: #95a5a6;
-            font-size: 0.85em;
-            margin-left: 8px;
-        }
-        .footer {
-            text-align: center;
-            margin-top: 30px;
-            color: #7f8c8d;
-            font-size: 0.8em;
-            border-top: 1px solid #34495e;
-            padding-top: 15px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>📰 Índice de Briefings</h1>
-        
-        <ul class="briefing-list">
-<li class='briefing-item'>
-  <a href='noticias-2026-01-14.html' class='briefing-link'>
-    📅 14/01/2026
-    <span class='briefing-date'>(2026-01-14)</span>
-  </a>
-</li>
-<li class='briefing-item'>
-  <a href='noticias-2026-01-13.html' class='briefing-link'>
-    📅 13/01/2026
-    <span class='briefing-date'>(2026-01-13)</span>
-  </a>
-</li>
-<li class='briefing-item'>
-  <a href='noticias-2026-01-12.html' class='briefing-link'>
-    📅 12/01/2026
-    <span class='briefing-date'>(2026-01-12)</span>
-  </a>
-</li>
-<li class='briefing-item'>
-  <a href='noticias-2026-01-11.html' class='briefing-link'>
-    📅 11/01/2026
-    <span class='briefing-date'>(2026-01-11)</span>
-  </a>
-</li>
-        </ul>
-        
-        <div class="footer">
-            <p>Sistema automatizado • Odroid C2 • DietPi</p>
-            <p>Total de briefings: 4</p>
-            <p>Última actualización: 14/01/2026 06:30</p>
+
+    <!DOCTYPE html>
+    <html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>🗞️ My Daily Briefings</title>
+        <style>
+            :root { --bg: #121212; --card: #1e1e1e; --text: #e0e0e0; --accent: #3498db; }
+            body { font-family: 'Segoe UI', Roboto, sans-serif; background: var(--bg); color: var(--text); max-width: 700px; margin: auto; padding: 20px; }
+            h1 { text-align: center; color: var(--accent); letter-spacing: 1px; margin-bottom: 5px; }
+            .subtitle { text-align: center; color: #888; font-size: 0.9em; margin-bottom: 30px; }
+            .briefing-list { display: flex; flex-direction: column; gap: 12px; }
+            .card { background: var(--card); padding: 18px; border-radius: 10px; border-left: 4px solid var(--accent); transition: 0.2s; text-decoration: none; color: inherit; display: flex; justify-content: space-between; align-items: center; }
+            .card:hover { background: #252525; transform: translateX(5px); }
+            .card-title { font-weight: bold; font-size: 1.1em; }
+            .card-date { color: #777; font-size: 0.85em; }
+            .footer { text-align: center; margin-top: 40px; font-size: 0.7em; color: #444; }
+        </style>
+    </head>
+    <body>
+        <h1>🗞️ Briefing Center</h1>
+        <div class="subtitle">Última actualización: 14/01/2026 15:53</div>
+        <div class="briefing-list">
+    
+            <a href="noticias-2026-01-14.html" class="card">
+                <span class="card-title">Edición 2026/01/14</span>
+                <span class="card-date">Ver Reporte →</span>
+            </a>
+            <a href="noticias-2026-01-13.html" class="card">
+                <span class="card-title">Edición 2026/01/13</span>
+                <span class="card-date">Ver Reporte →</span>
+            </a>
+            <a href="noticias-2026-01-12.html" class="card">
+                <span class="card-title">Edición 2026/01/12</span>
+                <span class="card-date">Ver Reporte →</span>
+            </a>
+            <a href="noticias-2026-01-11.html" class="card">
+                <span class="card-title">Edición 2026/01/11</span>
+                <span class="card-date">Ver Reporte →</span>
+            </a>
         </div>
-    </div>
-</body>
-</html>
+        <div class="footer">Generado automáticamente por Odroid C2</div>
+    </body>
+    </html>
+    
