@@ -5,24 +5,53 @@
 <title>🗞 Daily Briefing Center</title>
 <style>
 body { background:#121212;color:#e0e0e0;font-family:sans-serif;max-width:650px;margin:auto;padding:20px; }
-.card { background:#1e1e1e;padding:18px;margin:10px 0;border-radius:12px;border:1px solid #222;display:flex;justify-content:space-between; }
+h1 { text-align:center;font-weight:300; }
+.card { background:#1e1e1e;padding:18px;margin:14px 0;border-radius:14px;border:1px solid #2a2a2a; }
+.grid { display:grid;grid-template-columns:repeat(auto-fit,minmax(90px,1fr));gap:8px;font-size:.8em;text-align:center; }
 a { color:#3498db;text-decoration:none; }
+.news { display:flex;justify-content:space-between; }
 </style>
 </head>
 <body>
 
-<h1 style="text-align:center;font-weight:300;">🗞 Briefing Center</h1>
+<h1>🗞 Briefing Center</h1>
 <p style="text-align:center;font-size:.8em;color:#777;">
-Resumen diario · Actualizado 17/01/2026 14:41
+Resumen diario · Actualizado 17/01/2026 14:50
 </p>
 
+
+<div class="card">
+<h3>🌍 Estado global</h3>
+<div class="grid">
+<div>☀ Murcia</div>
+<div>⛅ Madrid</div>
+<div>🌧 Santoña</div>
+<div>🔥 Santa Fe</div>
+<div>🐠 Gold Coast</div>
+</div>
+</div>
+
+
+<div class="card">
 <h3>📰 Resumen de Noticias Diario</h3>
-<div class='card'><span>Edición 2026/01/17</span><a href='noticias-2026-01-17.html'>Leer →</a></div><div class='card'><span>Edición 2026/01/16</span><a href='noticias-2026-01-16.html'>Leer →</a></div><div class='card'><span>Edición 2026/01/15</span><a href='noticias-2026-01-15.html'>Leer →</a></div><div class='card'><span>Edición 2026/01/14</span><a href='noticias-2026-01-14.html'>Leer →</a></div><div class='card'><span>Edición 2026/01/13</span><a href='noticias-2026-01-13.html'>Leer →</a></div><div class='card'><span>Edición 2026/01/12</span><a href='noticias-2026-01-12.html'>Leer →</a></div><div class='card'><span>Edición 2026/01/11</span><a href='noticias-2026-01-11.html'>Leer →</a></div><div class='card'><span>index</span><a href='index.html'>Leer →</a></div>
+<div class='news'><span>Edición 2026/01/17</span><a href='noticias-2026-01-17.html'>Leer →</a></div><div class='news'><span>Edición 2026/01/16</span><a href='noticias-2026-01-16.html'>Leer →</a></div><div class='news'><span>Edición 2026/01/15</span><a href='noticias-2026-01-15.html'>Leer →</a></div><div class='news'><span>Edición 2026/01/14</span><a href='noticias-2026-01-14.html'>Leer →</a></div><div class='news'><span>Edición 2026/01/13</span><a href='noticias-2026-01-13.html'>Leer →</a></div><div class='news'><span>Edición 2026/01/12</span><a href='noticias-2026-01-12.html'>Leer →</a></div><div class='news'><span>Edición 2026/01/11</span><a href='noticias-2026-01-11.html'>Leer →</a></div><div class='news'><span>index</span><a href='index.html'>Leer →</a></div>
+</div>
+
+<div class="card">
+<h3>🗓 Digest semanal</h3>
+<p style="font-size:.85em;color:#aaa;">
+Resumen automático de los últimos 7 días
+</p>
+<a href="weekly.html">→ Ver digest semanal</a>
+</div>
+
+<div class="card">
 <h3>✍️ Blog del autor · <em>El Mapa y el Código</em></h3>
-<ul>
+<ul style="font-size:.85em;">
 
 </ul>
 <a href="https://elmapayelcodigo.netlify.app/">→ Visitar el blog completo</a>
+</div>
 
 <footer style="text-align:center;margin-top:40px;font-size:.7em;color:#555;">
 mcasrom personal hub · Odroid C2
