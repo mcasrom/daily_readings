@@ -1,68 +1,145 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>🗞 Daily Briefing Center</title>
+<style>
+:root { --bg:#121212; --card:#1e1e1e; --text:#e0e0e0; --accent:#3498db; }
+body { font-family:sans-serif;background:var(--bg);color:var(--text);max-width:650px;margin:auto;padding:20px;line-height:1.6; }
+h1 { text-align:center;font-weight:300; }
+.subtitle { text-align:center;color:#666;font-size:.8em;margin-bottom:25px; }
+.card { background:var(--card);padding:20px;margin:12px 0;border-radius:12px;display:flex;justify-content:space-between;align-items:center;text-decoration:none;color:inherit;border:1px solid #222; }
+.card:hover { border-color:var(--accent); }
+.card-title { font-weight:600; }
+.card-arrow { color:var(--accent); }
+</style>
+</head>
+<body>
 
-    <!DOCTYPE html>
-    <html lang="es">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>🗞 Daily Briefing Center</title>
-        <style>
-            :root { --bg: #121212; --card: #1e1e1e; --text: #e0e0e0; --accent: #3498db; }
-            body { font-family: sans-serif; background: var(--bg); color: var(--text); max-width: 650px; margin: auto; padding: 20px; line-height: 1.6; }
-            h1 { text-align: center; font-weight: 300; }
-            .subtitle { text-align: center; color: #666; font-size: 0.8em; margin-bottom: 25px; }
-            .card { background: var(--card); padding: 20px; margin: 12px 0; border-radius: 12px; display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; border: 1px solid #222; }
-            .card:hover { border-color: var(--accent); }
-            .card-title { font-weight: 600; }
-            .card-arrow { color: var(--accent); }
-        </style>
-    </head>
-    <body>
-        <h1>🗞 Briefing Center</h1>
-        <div class="subtitle">Actualizado: 17/01/2026 10:30</div>
-        
-    <div style="margin-bottom: 25px; background: #1e1e1e; padding: 15px; border-radius: 12px; border: 1px solid #333;">
-        <h3 style="color: #3498db; margin-top: 0; font-size: 0.9em; text-align: center;">🌍 GLOBAL WEATHER</h3>
-        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 10px; text-align: center; font-size: 0.8em;">
-            <div><strong>Murcia</strong><br>☀️<br>Soleado</div>
+<h1>🗞 Briefing Center</h1>
+<div class="subtitle">Resumen diario automatizado · Última actualización: 17/01/2026 14:29</div>
+
+
+    <div style="margin-bottom:25px;background:#1e1e1e;padding:15px;border-radius:12px;border:1px solid #333;">
+        <h3 style="color:#3498db;margin-top:0;font-size:.9em;text-align:center;">🌍 GLOBAL WEATHER</h3>
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(100px,1fr));gap:10px;text-align:center;font-size:.8em;">
+            <div><strong>Murcia</strong><br>☀<br>Soleado</div>
             <div><strong>Madrid</strong><br>⛅<br>Nubes</div>
-            <div><strong>Santoña</strong><br>🌧️<br>Lluvia</div>
+            <div><strong>Santoña</strong><br>🌧<br>Lluvia</div>
             <div><strong>Gold Coast</strong><br>🐠<br>Verano</div>
             <div><strong>Santa Fe</strong><br>🔥<br>Calor</div>
         </div>
     </div>
     
-        <div class="list">
-    
-            <a href="noticias-2026-01-17.html" class="card">
-                <span class="card-title">Edición 2026/01/17</span>
-                <span class="card-arrow">Leer →</span>
-            </a>
-            <a href="noticias-2026-01-16.html" class="card">
-                <span class="card-title">Edición 2026/01/16</span>
-                <span class="card-arrow">Leer →</span>
-            </a>
-            <a href="noticias-2026-01-15.html" class="card">
-                <span class="card-title">Edición 2026/01/15</span>
-                <span class="card-arrow">Leer →</span>
-            </a>
-            <a href="noticias-2026-01-14.html" class="card">
-                <span class="card-title">Edición 2026/01/14</span>
-                <span class="card-arrow">Leer →</span>
-            </a>
-            <a href="noticias-2026-01-13.html" class="card">
-                <span class="card-title">Edición 2026/01/13</span>
-                <span class="card-arrow">Leer →</span>
-            </a>
-            <a href="noticias-2026-01-12.html" class="card">
-                <span class="card-title">Edición 2026/01/12</span>
-                <span class="card-arrow">Leer →</span>
-            </a>
-            <a href="noticias-2026-01-11.html" class="card">
-                <span class="card-title">Edición 2026/01/11</span>
-                <span class="card-arrow">Leer →</span>
-            </a>
+
+    <div style="margin-bottom:30px;background:#161616;padding:18px;border-radius:14px;border:1px solid #2a2a2a;">
+        <h3 style="color:#8ab4f8;margin-top:0;">📊 Intensidad informativa · Últimos 7 días</h3>
+        
+        <div style="margin-bottom:6px;">
+            <span style="font-size:.75em;color:#aaa;">2026/01/11</span>
+            <div style="background:#222;border-radius:6px;height:8px;">
+                <div style="width:100%;background:#3498db;height:8px;border-radius:6px;"></div>
+            </div>
         </div>
-        <footer style="text-align:center; margin-top:50px; color:#444; font-size:0.7em;">mcasrom personal hub | Odroid C2 Powered</footer>
-    </body>
-    </html>
+        
+        <div style="margin-bottom:6px;">
+            <span style="font-size:.75em;color:#aaa;">2026/01/12</span>
+            <div style="background:#222;border-radius:6px;height:8px;">
+                <div style="width:100%;background:#3498db;height:8px;border-radius:6px;"></div>
+            </div>
+        </div>
+        
+        <div style="margin-bottom:6px;">
+            <span style="font-size:.75em;color:#aaa;">2026/01/13</span>
+            <div style="background:#222;border-radius:6px;height:8px;">
+                <div style="width:100%;background:#3498db;height:8px;border-radius:6px;"></div>
+            </div>
+        </div>
+        
+        <div style="margin-bottom:6px;">
+            <span style="font-size:.75em;color:#aaa;">2026/01/14</span>
+            <div style="background:#222;border-radius:6px;height:8px;">
+                <div style="width:100%;background:#3498db;height:8px;border-radius:6px;"></div>
+            </div>
+        </div>
+        
+        <div style="margin-bottom:6px;">
+            <span style="font-size:.75em;color:#aaa;">2026/01/15</span>
+            <div style="background:#222;border-radius:6px;height:8px;">
+                <div style="width:100%;background:#3498db;height:8px;border-radius:6px;"></div>
+            </div>
+        </div>
+        
+        <div style="margin-bottom:6px;">
+            <span style="font-size:.75em;color:#aaa;">2026/01/16</span>
+            <div style="background:#222;border-radius:6px;height:8px;">
+                <div style="width:100%;background:#3498db;height:8px;border-radius:6px;"></div>
+            </div>
+        </div>
+        
+        <div style="margin-bottom:6px;">
+            <span style="font-size:.75em;color:#aaa;">2026/01/17</span>
+            <div style="background:#222;border-radius:6px;height:8px;">
+                <div style="width:100%;background:#3498db;height:8px;border-radius:6px;"></div>
+            </div>
+        </div>
+        
+    </div>
     
+
+    <div style="margin-bottom:30px;background:#1a1a1a;padding:18px;border-radius:14px;border:1px solid #2a2a2a;">
+        <h3 style="color:#9cdcfe;margin-top:0;">✍️ Blog del autor · <em>El Mapa y el Código</em></h3>
+        <ul style="font-size:.85em;padding-left:18px;">
+    
+        </ul>
+        <a href="https://elmapayelcodigo.netlify.app/" style="font-size:.85em;color:#3498db;">
+            → Visitar el blog completo
+        </a>
+    </div>
+    
+
+<div class="list">
+
+<a href="noticias-2026-01-17.html" class="card">
+  <span class="card-title">Edición 2026/01/17</span>
+  <span class="card-arrow">Leer →</span>
+</a>
+
+<a href="noticias-2026-01-16.html" class="card">
+  <span class="card-title">Edición 2026/01/16</span>
+  <span class="card-arrow">Leer →</span>
+</a>
+
+<a href="noticias-2026-01-15.html" class="card">
+  <span class="card-title">Edición 2026/01/15</span>
+  <span class="card-arrow">Leer →</span>
+</a>
+
+<a href="noticias-2026-01-14.html" class="card">
+  <span class="card-title">Edición 2026/01/14</span>
+  <span class="card-arrow">Leer →</span>
+</a>
+
+<a href="noticias-2026-01-13.html" class="card">
+  <span class="card-title">Edición 2026/01/13</span>
+  <span class="card-arrow">Leer →</span>
+</a>
+
+<a href="noticias-2026-01-12.html" class="card">
+  <span class="card-title">Edición 2026/01/12</span>
+  <span class="card-arrow">Leer →</span>
+</a>
+
+<a href="noticias-2026-01-11.html" class="card">
+  <span class="card-title">Edición 2026/01/11</span>
+  <span class="card-arrow">Leer →</span>
+</a>
+
+</div>
+<footer style="text-align:center;margin-top:50px;color:#444;font-size:.7em;">
+mcasrom personal hub · Odroid C2 Powered
+</footer>
+
+</body>
+</html>
