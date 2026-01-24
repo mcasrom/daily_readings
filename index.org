@@ -1,0 +1,25 @@
+#+TITLE: Intelligence Hub — El Mapa y El Código
+#+OPTIONS: toc:nil num:nil html-postamble:nil
+#+HTML_HEAD: <style>body { font-family: sans-serif; background: #0d1117; color: #c9d1d9; max-width: 800px; margin: auto; padding: 20px; } .hero { text-align: center; padding: 40px 0; border-bottom: 1px solid #30363d; } .quote { font-style: italic; color: #8b949e; font-size: 0.9em; } h1 { color: #58a6ff; text-align: center; } .briefing-item { background: #161b22; border: 1px solid #30363d; border-radius: 8px; margin: 12px 0; padding: 15px; transition: 0.2s; text-align: center; } .briefing-item:hover { border-color: #58a6ff; } .briefing-item a { color: #58a6ff; text-decoration: none; font-weight: bold; font-size: 1.1em; } .cta-blog { background: linear-gradient(90deg, #1f6feb, #482ff7); padding: 25px; border-radius: 12px; text-align: center; margin-top: 40px; color: white; } .cta-button { display: inline-block; margin-top: 15px; background: white; color: #1f6feb; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; } .footer { margin-top: 50px; border-top: 1px solid #30363d; padding-top: 20px; text-align: center; font-size: 0.9em; color: #8b949e; }</style>
+
+#+HTML: <div class="hero">
+#+HTML: <h1>Strategic Intel Archive</h1>
+#+HTML: <p class="quote">«El espacio es la prisión de la estrategia». — Napoleón</p>
+#+HTML: </div>
+
+* 🗂️ Últimos Briefings Generados
+
+#+HTML: <div class="briefing-item">
+- [[file:260124_day_briefing.html][⚡ Edición Especial: 260124]]
+#+HTML: </div>
+
+#+HTML: <div class="cta-blog">
+#+HTML: <h3>🗺️📜 El Mapa y El Código</h3>
+#+HTML: <p>Un blog de Geopolítica por el mismo autor.</p>
+#+HTML: <a href="https://elmapayelcodigo.netlify.app/" class="cta-button">Visitar Blog Oficial →</a>
+#+HTML: </div>
+
+#+HTML: <div class="footer">
+#+HTML: <p>Autor: mcasrom@gmail.com | DietPi Intel Hub</p>
+#+HTML: <p>Copyright 2026 IE - El Mapa y El Código</p>
+#+HTML: </div>
