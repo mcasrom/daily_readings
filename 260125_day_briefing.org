@@ -1,17 +1,20 @@
-#+TITLE: Briefing 25-01-2026
-
+#+TITLE: Daily Briefing - 25 Jan 2026
+#+SUBTITLE: Edición generada el 2026-01-25 18:00
+#+OPTIONS: toc:2 num:nil
+#+HTML_HEAD: <link rel="icon" type="image/png" href="favicon.png">
 #+HTML_HEAD: <style>
-    body { font-family: sans-serif; background: #0d1117; color: #c9d1d9; max-width: 900px; margin: auto; padding: 20px; text-align: justify; }
-    h1, h2, h3 { color: #58a6ff; text-align: center; }
-    .nav-menu { display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; border-bottom: 1px solid #30363d; padding-bottom: 15px; }
-    .nav-menu a { color: #f0883e; text-decoration: none; font-weight: bold; }
-    .nav-menu a:hover { border-bottom: 2px solid #f0883e; }
-    .outline-2 { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px; margin-bottom: 20px; }
-    a { color: #58a6ff; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    .footer { margin-top: 50px; border-top: 1px solid #30363d; padding-top: 20px; text-align: center; font-size: 0.9em; color: #8b949e; }
-    .briefing-item { background: #161b22; border: 1px solid #30363d; border-radius: 8px; margin: 12px 0; padding: 15px; text-align: center; }
-</style>
+#+HTML_HEAD:  body { font-family: sans-serif; background: #0d1117; color: #c9d1d9; max-width: 900px; margin: auto; padding: 20px; }
+#+HTML_HEAD:  h1, h2, h3 { color: #58a6ff; text-align: center; }
+#+HTML_HEAD:  .nav-menu { display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; border-bottom: 1px solid #30363d; padding-bottom: 15px; }
+#+HTML_HEAD:  .nav-menu a { color: #f0883e; text-decoration: none; font-weight: bold; }
+#+HTML_HEAD:  .outline-2 { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px; margin-bottom: 20px; }
+#+HTML_HEAD:  a { color: #58a6ff; text-decoration: none; }
+#+HTML_HEAD:  a:hover { text-decoration: underline; }
+#+HTML_HEAD:  .footer { margin-top: 50px; border-top: 1px solid #30363d; padding-top: 20px; text-align: center; font-size: 0.9em; color: #8b949e; }
+#+HTML_HEAD:  .briefing-item { background: #161b22; border: 1px solid #30363d; border-radius: 8px; margin: 12px 0; padding: 15px; text-align: center; }
+#+HTML_HEAD:  .cta-blog { background: linear-gradient(90deg, #1f6feb, #482ff7); padding: 20px; border-radius: 12px; text-align: center; margin-top: 30px; color: white; }
+#+HTML_HEAD:  .cta-button { display: inline-block; margin-top: 10px; background: white; color: #1f6feb; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: bold; }
+#+HTML_HEAD: </style>
 
 
 #+HTML: <div class="nav-menu">
@@ -21,28 +24,89 @@
 #+HTML: </div>
 
 #+BEGIN_CENTER
-@@html:<small style='color:#8b949e;'>Node Health: 🌡 37.0°C | 💾 SD: 7% | 🧠 RAM: 101MB</small>@@
+#+HTML: <small style='color:#8b949e;'>Node Health: 🌡 40.8°C | ⚖ Carga: 0.419921875 | 🌐 Ping: 10.2ms | 💾 SD: 7% | 🧠 RAM: 156MB</small>
 #+END_CENTER
 
-* 🧠 Think Tanks
+* 🧠 Think Tanks de Referencia
 - *🇪🇸 España* :: [[https://www.realinstitutoelcano.org][Real Instituto Elcano]]
-- *🇺🇸 Estados Unidos* :: [[https://www.rand.org][RAND Corporation]]
+- *🇫🇷 Francia* :: [[https://www.ifri.org][IFRI]]
 - *🇬🇧 Reino Unido* :: [[https://www.chathamhouse.org][Chatham House]]
+- *🇮🇹 Italia* :: [[https://www.ispionline.it][ISPI]]
+- *🇩🇪 Alemania* :: [[https://www.swp-berlin.org][SWP]]
+- *🇺🇸 Estados Unidos* :: [[https://www.rand.org][RAND Corporation]]
 
-* 🗞️ Titulares Seleccionados
+* 🗞️ Titulares por País
 ** 🇪🇸 España
 *** El País
+- [[https://elpais.com/us/migracion/2026-01-25/el-gobierno-de-trump-difunde-mentiras-para-justificar-la-muerte-de-alex-pretti-en-minneapolis.html][Los vídeos contradicen la versión del Gobierno de Trump sobre la muerte a tiros de un manifestante en Minneapolis]]
+- [[https://elpais.com/us/migracion/2026-01-25/la-muerte-a-tiros-de-un-manifestante-a-manos-de-la-policia-migratoria-de-trump-dispara-la-tension-en-minneapolis.html][La muerte a tiros de un manifestante a manos de la policía migratoria de Trump inflama la tensión en Minneapolis]]
+- [[https://elpais.com/videos/2026-01-25/la-secuencia-del-asesinato-de-alex-pretti-por-el-ice-en-minneapolis-desde-diferentes-angulos.html][La secuencia del asesinato de Alex Pretti por el ICE en Minneapolis, desde diferentes ángulos]]
+- [[https://elpais.com/us/migracion/2026-01-25/gregory-bovino-el-rostro-de-las-tacticas-mas-violentas-en-la-cruzada-de-trump-contra-la-inmigracion.html][Gregory Bovino, el rostro de las tácticas más violentas en la cruzada de Trump contra la inmigración]]
 - [[https://elpais.com/espana/2026-01-25/los-nueve-segundos-que-acabaron-con-45-vidas-reconstruccion-vagon-a-vagon-segun-los-testigos-y-la-investigacion.html][Los nueve segundos que acabaron con 45 vidas: reconstrucción vagón a vagón, según los testigos y la investigación]]
-- [[https://elpais.com/espana/2026-01-24/la-interventora-del-alvia-es-un-golpe-superimportante-he-perdido-el-conocimiento-renfe-no-te-preocupes-te-voy-mandar-sanitarios.html][La interventora del Alvia: “Es un golpe superimportante. He perdido el conocimiento”; Renfe: “No te preocupes, te voy a mandar sanitarios”]]
-- [[https://elpais.com/espana/2026-01-25/oscar-puente-cualquier-comparacion-con-mazon-es-ofensiva-yo-estaba-en-mi-puesto.html][Óscar Puente: “Cualquier comparación con Mazón es ofensiva. Yo estaba en mi puesto”]]
-- [[https://elpais.com/espana/2026-01-25/sanchez-reivindica-a-puente-por-su-gestion-de-la-crisis-ferroviaria-desgraciadamente-en-la-vida-las-tragedias-suceden-pero-no-es-igual-como-se-responde.html][Sánchez reivindica a Puente por su gestión de la crisis ferroviaria: “Desgraciadamente, en la vida las tragedias suceden, pero no es igual cómo se responde”]]
-- [[https://elpais.com/espana/2026-01-25/las-debilidades-de-la-alta-velocidad-que-afloran-tras-el-accidente-de-adamuz.html][Las debilidades de la alta velocidad que afloran tras el accidente de Adamuz]]
 *** El Mundo
 - [[https://www.elmundo.es/economia/2026/01/24/69751757e85ecebc3e8b4577.html][El Iryo empezó a descarrilar desde un tramo de la vía sin renovar y fabricado en 1989]]
 - [[https://www.elmundo.es/economia/2026/01/25/6974ac0afdddff69738b459f.html][Una investigación a contrarreloj y bajo ruido político: "Aquí lo tenemos todos claro, el ministro va a ver la grieta en la vía"]]
 - [[https://www.elmundo.es/espana/2026/01/25/6975f17321efa0d70f8b4582.html][El PP pide la dimisión o cese de Óscar Puente por "mentir" sobre la renovación de la vía en Adamuz]]
 - [[https://www.elmundo.es/elecciones/elecciones-aragon/2026/01/25/6975d6f0fdddffc14f8b4574.html][Sánchez alaba a Puente por "dar la cara desde el primer momento" en la gestión del accidente de Adamuz: "Desgraciadamente, las tragedias suceden, pero no es igual cómo se responde"]]
 - [[https://www.elmundo.es/cronica/2026/01/24/6973d2cd21efa09c358b45ce.html][El carril roto de Adamuz no se auscultó en los 58 días previos al accidente y los sindicatos critican el "despropósito" del tren 'Séneca' y el 'Doctor Avril']]
+*** La Vanguardia
+- [[https://www.lavanguardia.com/politica/20260125/11448933/sanchez-blinda-puente-demandas-dimision-resalta-gestion-esta-dando-cara.html][Sánchez blinda a Puente de las demandas de dimisión por la crisis ferroviaria]]
+- [[https://www.lavanguardia.com/politica/20260125/11448923/pp-pide-dimision-inmediata-puente-mentir-sobre-accidente-adamuz.html][El PP pide la dimisión inmediata de Puente por “mentir” sobre el accidente de Adamuz]]
+- [[https://www.lavanguardia.com/politica/20260125/11448865/esquerra-eleva-presion-sobre-govern-reclama-dimisiones-caos-rodalies.html][Esquerra eleva la presión sobre el Govern y reclama dimisiones por el caos de Rodalies]]
+- [[https://www.lavanguardia.com/opinion/20260125/11448616/sanchez-quiere-repetir.html][Si Sánchez quiere repetir...]]
+- [[https://www.lavanguardia.com/local/catalunya/20260125/11448607/rodalies-seguira-paralizado-hasta-resolver-21-puntos-riesgo.html][Uno de los 21 puntos negros de Rodalies: un pilar sin nada que lo sustente junto al mar]]
+** 🇫🇷 Francia
+*** Le Monde
+- [[https://www.lemonde.fr/international/video/2026/01/25/le-recit-en-images-de-la-mort-d-alex-pretti-tue-par-la-police-de-l-immigration-a-minneapolis_6664046_3210.html][Le récit en images de la mort d’Alex Pretti, tué par la police de l’immigration américaine à Minneapolis]]
+- [[https://www.lemonde.fr/politique/article/2026/01/25/presidentielle-2027-gabriel-attal-compte-accelerer-sa-candidature-peu-importent-les-doutes-de-son-camp_6664068_823448.html][Présidentielle 2027 : Gabriel Attal compte accélérer sa candidature, peu importent les doutes de son camp]]
+- [[https://www.lemonde.fr/international/article/2026/01/25/comment-donald-trump-remodele-l-histoire-des-etats-unis_6664006_3210.html][Comment Donald Trump remodèle l’histoire des Etats-Unis]]
+- [[https://www.lemonde.fr/economie/article/2026/01/25/la-curieuse-cabale-de-patrons-de-la-silicon-valley-contre-l-enseignement-superieur_6664013_3234.html][La curieuse cabale de la Silicon Valley contre les études supérieures et les universités]]
+- [[https://www.lemonde.fr/international/live/2026/01/25/en-direct-guerre-en-ukraine-le-grinch-petrolier-soupconne-d-appartenir-a-la-flotte-fantome-russe-est-a-la-disposition-de-la-justice-francaise_6663004_3210.html][EN DIRECT, guerre en Ukraine : le « Grinch », pétrolier soupçonné d’appartenir à la flotte fantôme russe, est à la disposition de la justice française]]
+*** Le Figaro
+- [[https://www.lefigaro.fr/actualite-france/ensemble-contre-le-harcelement-scolaire-une-marche-blanche-rassemble-2200-personnes-apres-le-suicide-de-camelia-17-ans-20260125][«Ensemble contre le harcèlement scolaire» : une marche blanche rassemble 2200 personnes après le suicide de Camélia, 17 ans]]
+- [[https://www.lefigaro.fr/economie/jean-pierre-robin-ce-sont-desormais-les-enfants-qui-financent-les-repas-dans-les-familles-francaises-20260125][Jean-Pierre Robin : «Ce sont désormais les enfants qui financent les repas dans les familles françaises»]]
+- [[https://www.lefigaro.fr/actualite-france/trains-no-kids-la-porte-parole-du-gouvernement-denonce-un-signal-deletere-pour-les-familles-20260125][Trains «no kids» : la porte-parole du gouvernement dénonce un signal «délétère» pour les familles]]
+- [[https://www.lefigaro.fr/actualite-france/caroline-goldman-la-proliferation-des-espaces-no-kids-est-la-consequence-du-laxisme-educatif-20260123][Caroline Goldman : «La prolifération des espaces ‘‘no kids’’ est la conséquence du laxisme éducatif»]]
+- [[https://madame.lefigaro.fr/enfants/a-quoi-ressemblaient-les-wagons-sncf-dedies-aux-enfants-dans-les-annees-1980-20260124][À quoi ressemblaient les wagons SNCF dédiés aux enfants dans les années 1980 ?]]
+** 🇬🇧 Reino Unido
+*** BBC News
+- [[https://www.bbc.com/news/videos/cp372pqq2rlo?at_medium=RSS&at_campaign=rss][Video shows moments around fatal shooting of Alex Pretti in Minneapolis]]
+- [[https://www.bbc.com/news/articles/czr4e7ep468o?at_medium=RSS&at_campaign=rss][Andy Burnham's bid to return as MP blocked by Labour's ruling body]]
+- [[https://www.bbc.com/news/videos/cpqyxlqwqqlo?at_medium=RSS&at_campaign=rss][Watch: Winter storm grips US as millions face power outages and disruption]]
+- [[https://www.bbc.com/news/articles/ce9y1747z3go?at_medium=RSS&at_campaign=rss][Knitwear, jumpsuits and Cluedo: Traitors fashion explained]]
+- [[https://www.bbc.com/news/articles/cm2yr95md71o?at_medium=RSS&at_campaign=rss]['British FBI' will free up forces to tackle everyday crime, home secretary says]]
+*** The Guardian
+- [[https://www.theguardian.com/world/2026/jan/23/guinea-bissau-hepatitis-b-vaccine-study][‘It’s the sovereignty of the country’: Guinea-Bissau says US vaccine study suspended]]
+- [[https://www.theguardian.com/global-development/2026/jan/22/actionaid-rethink-child-sponsorship-decolonise-funding][ActionAid to rethink child sponsorship as part of plan to ‘decolonise’ its work]]
+- [[https://www.theguardian.com/us-news/2026/jan/20/us-diplomats-urged-to-remind-african-leaders-of-us-generosity-despite-usaid-closing][Head of US Africa bureau urges staff to highlight US ‘generosity’ despite aid cuts]]
+- [[https://www.theguardian.com/global-development/2026/jan/19/brazen-political-influence-rich-laid-bare-wealth-billionaires-inequality-poverty-instability-oxfam][‘Brazen’ political influence of rich laid bare as wealth of billionaires reaches $18.3tn, says Oxfam]]
+- [[https://www.theguardian.com/world/2026/jan/18/ugandas-president-calls-opponents-terrorists-in-victory-speech][Uganda’s president calls opponents 'terrorists' in victory speech]]
+** 🇮🇹 Italia
+*** Corriere della Sera
+- [[https://www.corriere.it/dataroom-milena-gabanelli/codice-strada-ecco-cosa-cambia-perche-non-ridurra-numero-vittime/a9ec82f6-0fb3-11ef-a8f0-a1f7c0d711f2-va.shtml][Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime]]
+- [[https://www.corriere.it/politica/24_maggio_13/toti-spinelli-elezioni-9eac3140-71d7-4523-b980-142b573d5xlk.shtml][Toti a Spinelli: «Ti vengo a trovare prima delle elezioni. Ti chiedo un po’ di robe» Ecco le immagini degli incontri sullo yacht]]
+- [[https://www.corriere.it/politica/24_maggio_12/inchiesta-liguria-marco-bucci-gioco-al-massacro-non-ci-sto-chiedo-chiarezza-su-di-me-sono-pronto-a-parlare-con-i-pm-57e1da92-5b6c-4d81-94f6-321a522abxlk.shtml][IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»]]
+- [[https://www.corriere.it/cronache/24_maggio_12/toti-arrestato-gli-incontri-sullo-yacht-di-spinelli-e-i-telefonini-lasciati-all-esterno-per-blindare-i-colloqui-riservati-e99c3dad-0cea-46a5-9b3a-8e728c4c3xlk.shtml][LE FOTO SULLO YACHT Le immagini degli incontri e i telefonini lasciati all’esterno per blindare i colloqui riservati]]
+- [[https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml][I DATI DEL COVID «Io avevo già truccato»: così, secondo i pm, in Liguria manipolavano i numeri sulla pandemia]]
+*** La Repubblica
+- [[https://www.repubblica.it/cronaca/2026/01/25/news/anguillara_vicina_genitori_carlomagno-425117446/][La vicina di casa dei Carlomagno: “Ho sentito le urla della sorella e ho capito che si erano uccisi”]]
+- [[https://www.repubblica.it/politica/2026/01/25/news/regeni_mattarella_10_anni_scomparsa-425117358/][Regeni, 10 anni dalla scomparsa. Mattarella: “Vita ignobilmente spezzata, luce sulle responsabilità”]]
+- [[https://www.repubblica.it/sport/calcio/serie-a/2026/01/25/news/sassuolo_cremonese_gol_fadera-425117332/][Fadera colpisce subito, il Sassuolo stende la Cremonese e torna alla vittoria: 1-0]]
+- [[https://www.repubblica.it/sport/sci/2026/01/25/news/shiffrin_slalom_spindleruv_mlyn_coppa_del_mondo_sci-425117322/][Shiffrin padrona dello slalom, vince anche a Spindleruv Mlyn e conquista la coppa di specialità]]
+- [[https://www.repubblica.it/sport/rubriche/monday-s-net/2026/01/25/news/bublik_australian_open-425117308/][Fenomenologia di Bublik, l’ex genio intermittente]]
+** 🇩🇪 Alemania
+*** Der Spiegel
+- [[https://www.spiegel.de/international/zeitgeist/injections-makeup-stress-the-new-religion-of-beauty-a-37cdcea5-d847-44f2-aa49-847e10c2c1d0#ref=rss][Injections, Makeup, Stress: The New Religion of Beauty]]
+- [[https://www.spiegel.de/international/world/former-u-s-security-adviser-john-bolton-we-have-passed-peak-trump-a-f7758dba-db37-4e53-9944-5437b40fcef2#ref=rss][Former U.S. Security Adviser John Bolton: "We Have Passed Peak Trump"]]
+- [[https://www.spiegel.de/international/europe/former-austrian-chancellor-sebastian-kurz-an-alliance-of-the-illiberal-right-with-tech-a-ca32e983-6ef8-49c0-8ccf-f34d74f0ade8#ref=rss][Former Austrian Chancellor Sebastian Kurz: An Alliance of the Illiberal Right with Tech?]]
+- [[https://www.spiegel.de/international/europe/fast-fashion-exploitation-how-the-clothes-hanger-wars-escalated-in-italy-a-a9a0d238-03ab-484d-b7a7-b90567646ac7#ref=rss][Fast Fashion Exploitation: How the Clothes-Hanger Wars Escalated in Italy]]
+- [[https://www.spiegel.de/international/zeitgeist/the-public-uprising-bernhard-poerksens-critique-of-der-spiegels-debate-culture-a-fb086101-400e-4326-9ee3-b8b6f6356b80#ref=rss][The Public Uprising: Bernhard Poerksen's Critique of DER SPIEGEL's Debate Culture]]
+*** Deutsche Welle
+- [[https://www.dw.com/en/minneapolis-alex-pretti-s-family-slams-trump-admin-lies/live-75641710?maca=en-rss-en-top-1022-xml-mrss][Minneapolis: Alex Pretti's family slams Trump admin 'lies']]
+- [[https://www.dw.com/en/saudi-defense-deals-could-change-middle-east-security/a-75628843?maca=en-rss-en-top-1022-xml-mrss][Saudi defense deals could change Middle East security]]
+- [[https://www.dw.com/en/what-you-can-do-to-bypass-authoritarian-surveillance/a-75632325?maca=en-rss-en-top-1022-xml-mrss][What you can do to bypass authoritarian surveillance]]
+- [[https://www.dw.com/en/alex-honnold-us-man-free-climbs-taiwan-s-101-story-tower/a-75647548?maca=en-rss-en-top-1022-xml-mrss][Alex Honnold: US man free climbs Taiwan's 101-story tower]]
+- [[https://www.dw.com/en/eu-india-set-for-historic-trade-deal-amid-us-tariffs/a-75638454?maca=en-rss-en-top-1022-xml-mrss][EU, India set for historic trade deal amid US tariffs]]
 ** 🇺🇸 Estados Unidos
 *** The Washington Post
 - [[https://www.washingtonpost.com/world/2026/01/25/trump-british-troops-afghanistan-charles/][Trump, in retreat, praises U.K. troops after royal family expresses hurt]]
@@ -50,22 +114,8 @@
 - [[https://www.washingtonpost.com/world/2026/01/25/britain-smartphones-school-ban-children/][U.K. lawsuit seeks ban on smartphones in schools to protect children]]
 - [[https://www.washingtonpost.com/world/2026/01/25/india-pollution-winter-toxic-air/][How bad is Delhi’s air? Like smoking half a pack of cigarettes.]]
 - [[https://www.washingtonpost.com/world/2026/01/25/greenland-deal-trump-history-denmark-europe/][Trump tells one history of Greenland. Historians tell another.]]
-*** Wall Street Journal
-- [[https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db][Palestinians Stream Back to Northern Gaza on Foot]]
-- [[https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863][Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes]]
-- [[https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e][Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack]]
-- [[https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba][Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response]]
-- [[https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8][Rwanda-Backed Rebels Enter Congo's Safe-Haven City]]
-** 🇬🇧 Reino Unido
-*** BBC News
-- [[https://www.bbc.com/news/articles/czr4e7ep468o?at_medium=RSS&at_campaign=rss][Andy Burnham's bid to return as MP blocked by Labour's ruling body]]
-- [[https://www.bbc.com/news/videos/cp372pqq2rlo?at_medium=RSS&at_campaign=rss][Video shows moments around fatal shooting in Minneapolis]]
-- [[https://www.bbc.com/news/articles/cm2yr95md71o?at_medium=RSS&at_campaign=rss]['British FBI' will free up forces to tackle everyday crime, home secretary says]]
-- [[https://www.bbc.com/news/articles/c99kkerr93ko?at_medium=RSS&at_campaign=rss][As the world inches back to a pre-WW2 order, the 'middle powers' face a grave new challenge]]
-- [[https://www.bbc.com/news/articles/cj6wy85l3x5o?at_medium=RSS&at_campaign=rss][How weight-loss jabs are changing our spending habits]]
-*** The Guardian
-- [[https://www.theguardian.com/world/2026/jan/23/guinea-bissau-hepatitis-b-vaccine-study][‘It’s the sovereignty of the country’: Guinea-Bissau says US vaccine study suspended]]
-- [[https://www.theguardian.com/global-development/2026/jan/22/actionaid-rethink-child-sponsorship-decolonise-funding][ActionAid to rethink child sponsorship as part of plan to ‘decolonise’ its work]]
-- [[https://www.theguardian.com/us-news/2026/jan/20/us-diplomats-urged-to-remind-african-leaders-of-us-generosity-despite-usaid-closing][Head of US Africa bureau urges staff to highlight US ‘generosity’ despite aid cuts]]
-- [[https://www.theguardian.com/global-development/2026/jan/19/brazen-political-influence-rich-laid-bare-wealth-billionaires-inequality-poverty-instability-oxfam][‘Brazen’ political influence of rich laid bare as wealth of billionaires reaches $18.3tn, says Oxfam]]
-- [[https://www.theguardian.com/world/2026/jan/18/ugandas-president-calls-opponents-terrorists-in-victory-speech][Uganda’s president calls opponents 'terrorists' in victory speech]]
+
+#+HTML: <div class="footer">
+#+HTML: <p>Autor: mcasrom@gmail.com | DietPi Intel Hub</p>
+#+HTML: <p>Copyright 2026 IE - El Mapa y El Código</p>
+#+HTML: </div>

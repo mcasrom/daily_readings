@@ -1,17 +1,19 @@
 #+TITLE: Sobre El Mapa y El Código
-
+#+OPTIONS: toc:nil num:nil
+#+HTML_HEAD: <link rel="icon" type="image/png" href="favicon.png">
 #+HTML_HEAD: <style>
-    body { font-family: sans-serif; background: #0d1117; color: #c9d1d9; max-width: 900px; margin: auto; padding: 20px; text-align: justify; }
-    h1, h2, h3 { color: #58a6ff; text-align: center; }
-    .nav-menu { display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; border-bottom: 1px solid #30363d; padding-bottom: 15px; }
-    .nav-menu a { color: #f0883e; text-decoration: none; font-weight: bold; }
-    .nav-menu a:hover { border-bottom: 2px solid #f0883e; }
-    .outline-2 { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px; margin-bottom: 20px; }
-    a { color: #58a6ff; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    .footer { margin-top: 50px; border-top: 1px solid #30363d; padding-top: 20px; text-align: center; font-size: 0.9em; color: #8b949e; }
-    .briefing-item { background: #161b22; border: 1px solid #30363d; border-radius: 8px; margin: 12px 0; padding: 15px; text-align: center; }
-</style>
+#+HTML_HEAD:  body { font-family: sans-serif; background: #0d1117; color: #c9d1d9; max-width: 900px; margin: auto; padding: 20px; }
+#+HTML_HEAD:  h1, h2, h3 { color: #58a6ff; text-align: center; }
+#+HTML_HEAD:  .nav-menu { display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; border-bottom: 1px solid #30363d; padding-bottom: 15px; }
+#+HTML_HEAD:  .nav-menu a { color: #f0883e; text-decoration: none; font-weight: bold; }
+#+HTML_HEAD:  .outline-2 { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px; margin-bottom: 20px; }
+#+HTML_HEAD:  a { color: #58a6ff; text-decoration: none; }
+#+HTML_HEAD:  a:hover { text-decoration: underline; }
+#+HTML_HEAD:  .footer { margin-top: 50px; border-top: 1px solid #30363d; padding-top: 20px; text-align: center; font-size: 0.9em; color: #8b949e; }
+#+HTML_HEAD:  .briefing-item { background: #161b22; border: 1px solid #30363d; border-radius: 8px; margin: 12px 0; padding: 15px; text-align: center; }
+#+HTML_HEAD:  .cta-blog { background: linear-gradient(90deg, #1f6feb, #482ff7); padding: 20px; border-radius: 12px; text-align: center; margin-top: 30px; color: white; }
+#+HTML_HEAD:  .cta-button { display: inline-block; margin-top: 10px; background: white; color: #1f6feb; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: bold; }
+#+HTML_HEAD: </style>
 
 
 #+HTML: <div class="nav-menu">
@@ -20,5 +22,10 @@
 #+HTML: <a href="contact.html">Contacto</a>
 #+HTML: </div>
 
-* Perfil Geopolítico
-Este es un nodo de inteligencia automatizado corriendo en DietPi.
+* Sobre El Mapa y El Código
+Este hub es un sistema de agregación de inteligencia geopolítica diseñado para DietPi.
+
+#+HTML: <div class="footer">
+#+HTML: <p>Autor: mcasrom@gmail.com | DietPi Intel Hub</p>
+#+HTML: <p>Copyright 2026 IE - El Mapa y El Código</p>
+#+HTML: </div>
