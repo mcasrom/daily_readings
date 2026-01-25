@@ -1,23 +1,35 @@
-#+TITLE: Daily News Briefing – 25 January 2026
-#+SUBTITLE: Edición generada el 2026-01-25 15:10
-#+AUTHOR: El Mapa y El Código
-#+OPTIONS: toc:2 num:nil html-postamble:nil
+#+TITLE: Briefing 25-01-2026
+
+#+HTML_HEAD: <style>
+    body { font-family: sans-serif; background: #0d1117; color: #c9d1d9; max-width: 900px; margin: auto; padding: 20px; text-align: justify; }
+    h1, h2, h3 { color: #58a6ff; text-align: center; }
+    .nav-menu { display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; border-bottom: 1px solid #30363d; padding-bottom: 15px; }
+    .nav-menu a { color: #f0883e; text-decoration: none; font-weight: bold; }
+    .nav-menu a:hover { border-bottom: 2px solid #f0883e; }
+    .outline-2 { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px; margin-bottom: 20px; }
+    a { color: #58a6ff; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .footer { margin-top: 50px; border-top: 1px solid #30363d; padding-top: 20px; text-align: center; font-size: 0.9em; color: #8b949e; }
+    .briefing-item { background: #161b22; border: 1px solid #30363d; border-radius: 8px; margin: 12px 0; padding: 15px; text-align: center; }
+</style>
+
+
+#+HTML: <div class="nav-menu">
+#+HTML: <a href="index.html">Inicio</a>
+#+HTML: <a href="about.html">Sobre mí</a>
+#+HTML: <a href="contact.html">Contacto</a>
+#+HTML: </div>
 
 #+BEGIN_CENTER
-@@html:<small style='color:#8b949e;'>Node Health: 🌡 CPU: 36.5°C | 💾 SD: 7% | 🧠 RAM Libre: 102MB</small>@@
+@@html:<small style='color:#8b949e;'>Node Health: 🌡 37.0°C | 💾 SD: 7% | 🧠 RAM: 101MB</small>@@
 #+END_CENTER
 
-#+HTML_HEAD: <link rel="icon" type="image/png" href="favicon.png">
-#+HTML_HEAD: <style>body { font-family: sans-serif; background: #0d1117; color: #c9d1d9; max-width: 900px; margin: auto; padding: 20px; text-align: justify; } h1, h2, h3 { color: #58a6ff; text-align: center; } .outline-2 { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px; margin-bottom: 20px; } a { color: #58a6ff; text-decoration: none; } a:hover { text-decoration: underline; } .footer { margin-top: 50px; border-top: 1px solid #30363d; padding-top: 20px; text-align: center; font-size: 0.9em; color: #8b949e; } .back-link { margin-bottom: 15px; display: block; font-weight: bold; color: #f0883e !important; }</style>
-* 🧠 Think Tanks de Referencia
+* 🧠 Think Tanks
 - *🇪🇸 España* :: [[https://www.realinstitutoelcano.org][Real Instituto Elcano]]
-- *🇫🇷 Francia* :: [[https://www.ifri.org][IFRI]]
-- *🇬🇧 Reino Unido* :: [[https://www.chathamhouse.org][Chatham House]]
-- *🇮🇹 Italia* :: [[https://www.ispionline.it][ISPI]]
-- *🇩🇪 Alemania* :: [[https://www.swp-berlin.org][SWP]]
 - *🇺🇸 Estados Unidos* :: [[https://www.rand.org][RAND Corporation]]
+- *🇬🇧 Reino Unido* :: [[https://www.chathamhouse.org][Chatham House]]
 
-* 🗞️ Titulares por País
+* 🗞️ Titulares Seleccionados
 ** 🇪🇸 España
 *** El País
 - [[https://elpais.com/espana/2026-01-25/los-nueve-segundos-que-acabaron-con-45-vidas-reconstruccion-vagon-a-vagon-segun-los-testigos-y-la-investigacion.html][Los nueve segundos que acabaron con 45 vidas: reconstrucción vagón a vagón, según los testigos y la investigación]]
@@ -28,28 +40,22 @@
 *** El Mundo
 - [[https://www.elmundo.es/economia/2026/01/24/69751757e85ecebc3e8b4577.html][El Iryo empezó a descarrilar desde un tramo de la vía sin renovar y fabricado en 1989]]
 - [[https://www.elmundo.es/economia/2026/01/25/6974ac0afdddff69738b459f.html][Una investigación a contrarreloj y bajo ruido político: "Aquí lo tenemos todos claro, el ministro va a ver la grieta en la vía"]]
-- [[https://www.elmundo.es/espana/2026/01/24/6975081c21efa0cf4c8b4580.html][La reconstrucción del último viaje de las 45 víctimas mortales de Adamuz: "Pedían ayuda y médicos desde el vagón 6 y yo pensé que nos matábamos. Era como un escenario de guerra"]]
+- [[https://www.elmundo.es/espana/2026/01/25/6975f17321efa0d70f8b4582.html][El PP pide la dimisión o cese de Óscar Puente por "mentir" sobre la renovación de la vía en Adamuz]]
 - [[https://www.elmundo.es/elecciones/elecciones-aragon/2026/01/25/6975d6f0fdddffc14f8b4574.html][Sánchez alaba a Puente por "dar la cara desde el primer momento" en la gestión del accidente de Adamuz: "Desgraciadamente, las tragedias suceden, pero no es igual cómo se responde"]]
 - [[https://www.elmundo.es/cronica/2026/01/24/6973d2cd21efa09c358b45ce.html][El carril roto de Adamuz no se auscultó en los 58 días previos al accidente y los sindicatos critican el "despropósito" del tren 'Séneca' y el 'Doctor Avril']]
-*** La Vanguardia
-- [[https://www.lavanguardia.com/politica/20260125/11448933/sanchez-blinda-puente-demandas-dimision-resalta-gestion-esta-dando-cara.html][Sánchez blinda a Puente y resalta su gestión]]
-- [[https://www.lavanguardia.com/politica/20260125/11448923/pp-pide-dimision-inmediata-puente-mentir-sobre-accidente-adamuz.html][El PP pide la dimisión inmediata de Puente por “mentir” sobre el accidente de Adamuz]]
-- [[https://www.lavanguardia.com/politica/20260125/11448865/esquerra-eleva-presion-sobre-govern-reclama-dimisiones-caos-rodalies.html][Esquerra eleva la presión sobre el Govern y reclama dimisiones por el caos de Rodalies]]
-- [[https://www.lavanguardia.com/opinion/20260125/11448616/sanchez-quiere-repetir.html][Si Sánchez quiere repetir...]]
-- [[https://www.lavanguardia.com/local/catalunya/20260125/11448607/rodalies-seguira-paralizado-hasta-resolver-21-puntos-riesgo.html][Uno de los 21 puntos negros de Rodalies: un pilar sin nada que lo sustente junto al mar]]
-** 🇫🇷 Francia
-*** Le Monde
-- [[https://www.lemonde.fr/international/video/2026/01/25/le-recit-en-images-de-la-mort-d-alex-pretti-tue-par-la-police-de-l-immigration-a-minneapolis_6664046_3210.html][Le récit en images de la mort d’Alex Pretti, tué par la police de l’immigration américaine à Minneapolis]]
-- [[https://www.lemonde.fr/politique/article/2026/01/25/municipales-2026-au-rassemblement-national-l-insoluble-question-des-brebis-galeuses_6664003_823448.html][Municipales 2026 : pour le RN, l’insoluble question des « brebis galeuses », ces candidats ayant tenu des propos racistes, antisémites ou sexistes]]
-- [[https://www.lemonde.fr/la-matinale/article/2026/01/25/ces-fautes-d-orthographe-qui-sont-devenues-la-regle_6664008_4866763.html][Ces fautes d’orthographe qui sont devenues la règle]]
-- [[https://www.lemonde.fr/afrique/article/2026/01/25/nouvelle-crispation-entre-alger-et-paris-apres-la-diffusion-d-un-programme-conteste-sur-france-2_6664037_3212.html][Nouvelle crispation entre l’Algérie et la France après la diffusion d’une émission de « Complément d’enquête »]]
-- [[https://www.lemonde.fr/societe/article/2026/01/25/a-mitry-mory-une-foule-compacte-defile-en-hommage-a-camelia-qui-s-est-suicidee-a-17-ans-victime-presumee-de-harcelement-scolaire_6664045_3224.html][A Mitry-Mory, une foule compacte défile en hommage à Camélia, qui s’est suicidée à 17 ans, victime présumée de harcèlement scolaire]]
-*** Le Figaro
-- [[https://www.lefigaro.fr/politique/municipales-a-paris-pour-rachida-dati-emmanuel-gregoire-s-est-allie-avec-les-promoteurs-de-l-antisemitisme-20260125][Municipales à Paris : pour Rachida Dati, Emmanuel Grégoire s’est «allié avec les promoteurs de l’antisémitisme»]]
-- [[https://www.lefigaro.fr/elections/municipales/municipales-a-paris-derriere-gregoire-et-dati-deux-ou-trois-autres-candidats-pourraient-se-maintenir-au-second-tour-selon-un-sondage-20260125][Municipales à Paris : derrière Grégoire et Dati, deux ou trois autres candidats pourraient se maintenir au second tour, selon un sondage]]
-- [[https://www.lefigaro.fr/international/le-petrolier-grinch-soupconne-d-appartenir-a-la-flotte-fantome-russe-arraisonne-pres-de-marseille-et-mis-a-la-disposition-de-la-justice-francaise-20260125][Le pétrolier soupçonné d’appartenir à la flotte fantôme russe a été arraisonné près de Marseille, et son capitaine placé en garde à vue]]
-- [[https://www.lefigaro.fr/secteur/high-tech/le-personnage-me-fait-peur-larry-ellison-le-puissant-magnat-de-la-tech-qui-murmure-a-l-oreille-de-donald-trump-20260125][«Le personnage me fait peur» : Larry Ellison, le puissant magnat de la tech qui murmure à l’oreille de Donald Trump]]
-- [[https://www.lefigaro.fr/international/en-direct-des-agents-federaux-tuent-un-homme-arme-a-minneapolis-durant-des-manifestations-contre-la-police-anti-immigration-20260124][EN DIRECT - Trump rejette la faute sur les élus démocrates locaux après la mort d’un Américain à Minneapolis]]
+** 🇺🇸 Estados Unidos
+*** The Washington Post
+- [[https://www.washingtonpost.com/world/2026/01/25/trump-british-troops-afghanistan-charles/][Trump, in retreat, praises U.K. troops after royal family expresses hurt]]
+- [[https://www.washingtonpost.com/world/2026/01/24/myanmar-election-china-junta/][Myanmar’s military choreographs an election, with Beijing’s help]]
+- [[https://www.washingtonpost.com/world/2026/01/25/britain-smartphones-school-ban-children/][U.K. lawsuit seeks ban on smartphones in schools to protect children]]
+- [[https://www.washingtonpost.com/world/2026/01/25/india-pollution-winter-toxic-air/][How bad is Delhi’s air? Like smoking half a pack of cigarettes.]]
+- [[https://www.washingtonpost.com/world/2026/01/25/greenland-deal-trump-history-denmark-europe/][Trump tells one history of Greenland. Historians tell another.]]
+*** Wall Street Journal
+- [[https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db][Palestinians Stream Back to Northern Gaza on Foot]]
+- [[https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863][Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes]]
+- [[https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e][Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack]]
+- [[https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba][Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response]]
+- [[https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8][Rwanda-Backed Rebels Enter Congo's Safe-Haven City]]
 ** 🇬🇧 Reino Unido
 *** BBC News
 - [[https://www.bbc.com/news/articles/czr4e7ep468o?at_medium=RSS&at_campaign=rss][Andy Burnham's bid to return as MP blocked by Labour's ruling body]]
@@ -63,42 +69,3 @@
 - [[https://www.theguardian.com/us-news/2026/jan/20/us-diplomats-urged-to-remind-african-leaders-of-us-generosity-despite-usaid-closing][Head of US Africa bureau urges staff to highlight US ‘generosity’ despite aid cuts]]
 - [[https://www.theguardian.com/global-development/2026/jan/19/brazen-political-influence-rich-laid-bare-wealth-billionaires-inequality-poverty-instability-oxfam][‘Brazen’ political influence of rich laid bare as wealth of billionaires reaches $18.3tn, says Oxfam]]
 - [[https://www.theguardian.com/world/2026/jan/18/ugandas-president-calls-opponents-terrorists-in-victory-speech][Uganda’s president calls opponents 'terrorists' in victory speech]]
-** 🇮🇹 Italia
-*** Corriere della Sera
-- [[https://www.corriere.it/dataroom-milena-gabanelli/codice-strada-ecco-cosa-cambia-perche-non-ridurra-numero-vittime/a9ec82f6-0fb3-11ef-a8f0-a1f7c0d711f2-va.shtml][Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime]]
-- [[https://www.corriere.it/politica/24_maggio_13/toti-spinelli-elezioni-9eac3140-71d7-4523-b980-142b573d5xlk.shtml][Toti a Spinelli: «Ti vengo a trovare prima delle elezioni. Ti chiedo un po’ di robe» Ecco le immagini degli incontri sullo yacht]]
-- [[https://www.corriere.it/politica/24_maggio_12/inchiesta-liguria-marco-bucci-gioco-al-massacro-non-ci-sto-chiedo-chiarezza-su-di-me-sono-pronto-a-parlare-con-i-pm-57e1da92-5b6c-4d81-94f6-321a522abxlk.shtml][IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»]]
-- [[https://www.corriere.it/cronache/24_maggio_12/toti-arrestato-gli-incontri-sullo-yacht-di-spinelli-e-i-telefonini-lasciati-all-esterno-per-blindare-i-colloqui-riservati-e99c3dad-0cea-46a5-9b3a-8e728c4c3xlk.shtml][LE FOTO SULLO YACHT Le immagini degli incontri e i telefonini lasciati all’esterno per blindare i colloqui riservati]]
-- [[https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml][I DATI DEL COVID «Io avevo già truccato»: così, secondo i pm, in Liguria manipolavano i numeri sulla pandemia]]
-*** La Repubblica
-- [[https://www.repubblica.it/sport/calcio/serie-a/2026/01/25/news/sassuolo_cremonese_gol_fadera-425117332/][Fadera colpisce subito, il Sassuolo stende la Cremonese e torna alla vittoria: 1-0]]
-- [[https://www.repubblica.it/sport/sci/2026/01/25/news/shiffrin_slalom_spindleruv_mlyn_coppa_del_mondo_sci-425117322/][Shiffrin padrona dello slalom, vince anche a Spindleruv Mlyn e conquista la coppa di specialità]]
-- [[https://www.repubblica.it/sport/rubriche/monday-s-net/2026/01/25/news/bublik_australian_open-425117308/][Fenomenologia di Bublik, l’ex genio intermittente]]
-- [[https://www.repubblica.it/sport/tennis/2026/01/25/news/alcaraz_braccialetto_smart_australian_open-425117280/][Whoop, cos’è il braccialetto che Alcaraz è stato costretto a togliersi e perché è vietato]]
-- [[https://www.repubblica.it/sport/calcio/serie-a/2026/01/25/news/neres_infortunio_tempi_di_recupero-425117270/][Neres vola in Inghilterra, sarà operato alla caviglia: il Napoli lo perde per almeno due mesi]]
-** 🇩🇪 Alemania
-*** Der Spiegel
-- [[https://www.spiegel.de/international/zeitgeist/injections-makeup-stress-the-new-religion-of-beauty-a-37cdcea5-d847-44f2-aa49-847e10c2c1d0#ref=rss][Injections, Makeup, Stress: The New Religion of Beauty]]
-- [[https://www.spiegel.de/international/world/former-u-s-security-adviser-john-bolton-we-have-passed-peak-trump-a-f7758dba-db37-4e53-9944-5437b40fcef2#ref=rss][Former U.S. Security Adviser John Bolton: "We Have Passed Peak Trump"]]
-- [[https://www.spiegel.de/international/europe/former-austrian-chancellor-sebastian-kurz-an-alliance-of-the-illiberal-right-with-tech-a-ca32e983-6ef8-49c0-8ccf-f34d74f0ade8#ref=rss][Former Austrian Chancellor Sebastian Kurz: An Alliance of the Illiberal Right with Tech?]]
-- [[https://www.spiegel.de/international/europe/fast-fashion-exploitation-how-the-clothes-hanger-wars-escalated-in-italy-a-a9a0d238-03ab-484d-b7a7-b90567646ac7#ref=rss][Fast Fashion Exploitation: How the Clothes-Hanger Wars Escalated in Italy]]
-- [[https://www.spiegel.de/international/zeitgeist/the-public-uprising-bernhard-poerksens-critique-of-der-spiegels-debate-culture-a-fb086101-400e-4326-9ee3-b8b6f6356b80#ref=rss][The Public Uprising: Bernhard Poerksen's Critique of DER SPIEGEL's Debate Culture]]
-*** Deutsche Welle
-- [[https://www.dw.com/en/what-you-can-do-to-bypass-authoritarian-surveillance/a-75632325?maca=en-rss-en-top-1022-xml-mrss][What you can do to bypass authoritarian surveillance]]
-- [[https://www.dw.com/en/alex-honnold-us-man-free-climbs-taiwan-s-101-story-tower/a-75647548?maca=en-rss-en-top-1022-xml-mrss][Alex Honnold: US man free climbs Taiwan's 101-story tower]]
-- [[https://www.dw.com/en/eu-india-set-for-historic-trade-deal-amid-us-tariffs/a-75638454?maca=en-rss-en-top-1022-xml-mrss][EU, India set for historic trade deal amid US tariffs]]
-- [[https://www.dw.com/en/germany-news-majority-see-trump-as-threat-to-nation/live-75639462?maca=en-rss-en-top-1022-xml-mrss][Germany news: Majority see Trump as threat to nation]]
-- [[https://www.dw.com/en/japan-returns-last-2-pandas-to-china-amid-strained-ties/a-75647554?maca=en-rss-en-top-1022-xml-mrss][Japan returns last 2 pandas to China amid strained ties]]
-** 🇺🇸 Estados Unidos
-*** The Washington Post
-- [[https://www.washingtonpost.com/world/2026/01/25/trump-british-troops-afghanistan-charles/][Trump, in retreat, praises U.K. troops after royal family expresses hurt]]
-- [[https://www.washingtonpost.com/world/2026/01/24/myanmar-election-china-junta/][Myanmar’s military choreographs an election, with Beijing’s help]]
-- [[https://www.washingtonpost.com/world/2026/01/25/britain-smartphones-school-ban-children/][U.K. lawsuit seeks ban on smartphones in schools to protect children]]
-- [[https://www.washingtonpost.com/world/2026/01/25/india-pollution-winter-toxic-air/][How bad is Delhi’s air? Like smoking half a pack of cigarettes.]]
-- [[https://www.washingtonpost.com/world/2026/01/25/greenland-deal-trump-history-denmark-europe/][Trump tells one history of Greenland. Historians tell another.]]
-
-#+HTML: <div class="footer">
-#+HTML: <a href="index.html" class="back-link">← Volver al Archivo Histórico</a>
-#+HTML: <p>Autor: mcasrom@gmail.com | DietPi Intel Hub</p>
-#+HTML: <p>Copyright 2026 IE - El Mapa y El Código</p>
-#+HTML: </div>
