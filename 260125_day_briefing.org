@@ -9,10 +9,11 @@
 #+HTML_HEAD:  .telemetry { text-align: center; color: #58a6ff; font-family: monospace; font-size: 0.9em; margin-bottom: 20px; }
 #+HTML_HEAD:  .briefing-item { background: #161b22; border: 1px solid #30363d; border-radius: 8px; margin: 10px 0; padding: 15px; text-align: center; }
 #+HTML_HEAD:  .cta-blog { background: #1c2128; border: 2px solid #58a6ff; padding: 20px; border-radius: 12px; text-align: center; margin-top: 40px; }
+#+HTML_HEAD:  .footer-hub { margin-top: 50px; border-top: 1px solid #30363d; padding-top: 20px; text-align: center; font-size: 0.8em; color: #8b949e; line-height: 1.4; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">Inicio</a><a href="about.html">Sobre mí</a><a href="contact.html">Contacto</a></div>
-#+HTML: <div class='timestamp'>Actualizado el: 25-01-2026 22:44:58</div>
-#+HTML: <div class='telemetry'>🌡 37.6°C | ⚖ Load: 0.00341796875 | 🌐 Ping: 9.54ms</div>
+#+HTML: <div class='timestamp'>Actualizado el: 25-01-2026 22:49:07</div>
+#+HTML: <div class='telemetry'>🌡 37.6°C | ⚖ Load: 0.0380859375 | 🌐 Ping: 28.3ms</div>
 #+TOC: headlines 2
 
 * 🧠 Think Tanks
@@ -78,4 +79,8 @@
 - [[https://www.spiegel.de/international/europe/former-austrian-chancellor-sebastian-kurz-an-alliance-of-the-illiberal-right-with-tech-a-ca32e983-6ef8-49c0-8ccf-f34d74f0ade8#ref=rss][Former Austrian Chancellor Sebastian Kurz: An Alliance of the Illiberal Right with Tech?]]
 - [[https://www.spiegel.de/international/europe/fast-fashion-exploitation-how-the-clothes-hanger-wars-escalated-in-italy-a-a9a0d238-03ab-484d-b7a7-b90567646ac7#ref=rss][Fast Fashion Exploitation: How the Clothes-Hanger Wars Escalated in Italy]]
 - [[https://www.spiegel.de/international/zeitgeist/the-public-uprising-bernhard-poerksens-critique-of-der-spiegels-debate-culture-a-fb086101-400e-4326-9ee3-b8b6f6356b80#ref=rss][The Public Uprising: Bernhard Poerksen's Critique of DER SPIEGEL's Debate Culture]]
-#+HTML: <div style='text-align:center; margin-top:50px; border-top:1px solid #30363d; padding-top:20px; color:#8b949e;'>Autor: mcasrom@gmail.com</div>
+
+#+HTML: <div class="footer-hub">
+#+HTML:   <p><strong>Autor:</strong> El Mapa y El Código | <a href="mailto:mcasrom@gmail.com" style="color:#8b949e;">mcasrom@gmail.com</a></p>
+#+HTML:   <p>© 2026 Todos los derechos reservados | 🚀 DietPi Intel Hub</p>
+#+HTML: </div>
