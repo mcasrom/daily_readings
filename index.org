@@ -13,13 +13,15 @@
 #+HTML_HEAD:  .footer-hub { margin-top: 50px; border-top: 1px solid #30363d; padding-top: 20px; text-align: center; font-size: 0.8em; color: #8b949e; line-height: 1.4; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">Inicio</a><a href="about.html">Sobre mí</a><a href="contact.html">Contacto</a></div>
-#+HTML: <div class='timestamp'>Sincronizado: 25-01-2026 23:00:11</div>
+#+HTML: <div class='timestamp'>Sincronizado: 26-01-2026 00:00:02</div>
 * 🗂️ Archivo de Noticias (Última Semana)
+#+HTML: <div class='briefing-item'><a href='260126_day_briefing.html'>⚡ Edición: 260126</a></div>
 #+HTML: <div class='briefing-item'><a href='260125_day_briefing.html'>⚡ Edición: 260125</a></div>
 #+HTML: <div class='briefing-item'><a href='260124_day_briefing.html'>⚡ Edición: 260124</a></div>
 
 * 🗓️ Sumario Mensual
 ** January 2026
+- [[file:260126_day_briefing.html][Día 26]]
 - [[file:260125_day_briefing.html][Día 25]]
 - [[file:260124_day_briefing.html][Día 24]]
 #+HTML: <div class="cta-blog"><h3>🗺️📜 El Mapa y El Código</h3><p>Análisis geopolítico.</p><a href="https://elmapayelcodigo.netlify.app/" style="color:#58a6ff; font-weight:bold; text-decoration:none;">Visitar Blog →</a></div>
