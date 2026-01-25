@@ -1,11 +1,11 @@
-#+TITLE: Strategic Intel Hub
-#+OPTIONS: toc:nil num:nil
+#+TITLE: Intelligence Hub
 #+HTML_HEAD: <link rel="icon" type="image/png" href="favicon.png">
 #+HTML_HEAD: <style>
-#+HTML_HEAD:  body { font-family: sans-serif; background: #0d1117; color: #c9d1d9; max-width: 900px; margin: auto; padding: 20px; }
+#+HTML_HEAD:  body { font-family: sans-serif; background: #0d1117; color: #c9d1d9; max-width: 900px; margin: auto; padding: 20px; line-height: 1.6; }
 #+HTML_HEAD:  h1, h2, h3 { color: #58a6ff; text-align: center; }
 #+HTML_HEAD:  .nav-menu { display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; border-bottom: 1px solid #30363d; padding-bottom: 15px; }
 #+HTML_HEAD:  .nav-menu a { color: #f0883e; text-decoration: none; font-weight: bold; }
+#+HTML_HEAD:  .nav-menu a:hover { border-bottom: 2px solid #f0883e; }
 #+HTML_HEAD:  .outline-2 { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px; margin-bottom: 20px; }
 #+HTML_HEAD:  a { color: #58a6ff; text-decoration: none; }
 #+HTML_HEAD:  a:hover { text-decoration: underline; }
@@ -22,17 +22,10 @@
 #+HTML: <a href="contact.html">Contacto</a>
 #+HTML: </div>
 
-#+HTML: <div style='text-align:center; font-style:italic; color:#8b949e; margin-bottom:20px;'>«En geopolítica, no hay amistades permanentes, solo intereses permanentes».</div>
-* 🗂️ Últimos Briefings
-#+HTML: <div class='briefing-item'><a href='260125_day_briefing.html'>⚡ Edición Especial: 260125</a></div>
-#+HTML: <div class='briefing-item'><a href='260124_day_briefing.html'>⚡ Edición Especial: 260124</a></div>
-
-#+HTML: <div class="cta-blog">
-#+HTML: <h3>🗺️📜 El Mapa y El Código</h3>
-#+HTML: <p>Un blog de Geopolítica por el mismo autor.</p>
-#+HTML: <a href="https://elmapayelcodigo.netlify.app/" class="cta-button">Visitar Blog Oficial →</a>
-#+HTML: </div>
-
+* 🗂️ Archivo
+#+HTML: <div class='briefing-item'><a href='260125_day_briefing.html'>⚡ Edición: 260125</a></div>
+#+HTML: <div class='briefing-item'><a href='260124_day_briefing.html'>⚡ Edición: 260124</a></div>
+#+HTML: <div class="cta-blog"><h3>🗺️📜 El Mapa y El Código</h3><a href="https://elmapayelcodigo.netlify.app/" class="cta-button">Blog →</a></div>
 #+HTML: <div class="footer">
 #+HTML: <p>Autor: mcasrom@gmail.com | DietPi Intel Hub</p>
 #+HTML: <p>Copyright 2026 IE - El Mapa y El Código</p>
