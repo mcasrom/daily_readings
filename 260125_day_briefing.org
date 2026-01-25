@@ -1,7 +1,11 @@
 #+TITLE: Daily News Briefing – 25 January 2026
-#+SUBTITLE: Edición generada el 2026-01-25 13:50
+#+SUBTITLE: Edición generada el 2026-01-25 14:31
 #+AUTHOR: El Mapa y El Código
 #+OPTIONS: toc:2 num:nil html-postamble:nil
+
+#+BEGIN_CENTER
+@@html:<small style='color:#8b949e;'>Node Health: ⚠️ Telemetría de hardware no disponible</small>@@
+#+END_CENTER
 
 #+HTML_HEAD: <link rel="icon" type="image/png" href="favicon.png">
 #+HTML_HEAD: <style>body { font-family: sans-serif; background: #0d1117; color: #c9d1d9; max-width: 900px; margin: auto; padding: 20px; text-align: justify; } h1, h2, h3 { color: #58a6ff; text-align: center; } .outline-2 { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px; margin-bottom: 20px; } a { color: #58a6ff; text-decoration: none; } a:hover { text-decoration: underline; } .footer { margin-top: 50px; border-top: 1px solid #30363d; padding-top: 20px; text-align: center; font-size: 0.9em; color: #8b949e; } .back-link { margin-bottom: 15px; display: block; font-weight: bold; color: #f0883e !important; }</style>
@@ -19,7 +23,7 @@
 - [[https://elpais.com/espana/2026-01-25/los-nueve-segundos-que-acabaron-con-45-vidas-reconstruccion-vagon-a-vagon-segun-los-testigos-y-la-investigacion.html][Los nueve segundos que acabaron con 45 vidas: reconstrucción vagón a vagón, según los testigos y la investigación]]
 - [[https://elpais.com/espana/2026-01-24/la-interventora-del-alvia-es-un-golpe-superimportante-he-perdido-el-conocimiento-renfe-no-te-preocupes-te-voy-mandar-sanitarios.html][La interventora del Alvia: “Es un golpe superimportante. He perdido el conocimiento”; Renfe: “No te preocupes, te voy a mandar sanitarios”]]
 - [[https://elpais.com/espana/2026-01-25/oscar-puente-cualquier-comparacion-con-mazon-es-ofensiva-yo-estaba-en-mi-puesto.html][Óscar Puente: “Cualquier comparación con Mazón es ofensiva. Yo estaba en mi puesto”]]
-- [[https://elpais.com/espana/2026-01-25/ultima-hora-del-accidente-de-tren-en-cordoba-y-del-choque-de-rodalies-en-barcelona.html][Última hora del accidente de tren en Córdoba, y del choque de Rodalies en Barcelona | Sánchez reivindica a Puente por su gestión: “Desgraciadamente, las tragedias suceden, pero no es igual cómo se responde”]]
+- [[https://elpais.com/espana/2026-01-25/sanchez-reivindica-a-puente-por-su-gestion-de-la-crisis-ferroviaria-desgraciadamente-en-la-vida-las-tragedias-suceden-pero-no-es-igual-como-se-responde.html][Sánchez reivindica a Puente por su gestión de la crisis ferroviaria: “Desgraciadamente, en la vida las tragedias suceden, pero no es igual cómo se responde”]]
 - [[https://elpais.com/espana/2026-01-25/las-debilidades-de-la-alta-velocidad-que-afloran-tras-el-accidente-de-adamuz.html][Las debilidades de la alta velocidad que afloran tras el accidente de Adamuz]]
 *** El Mundo
 - [[https://www.elmundo.es/economia/2026/01/24/69751757e85ecebc3e8b4577.html][El Iryo empezó a descarrilar desde un tramo de la vía sin renovar y fabricado en 1989]]
@@ -35,17 +39,17 @@
 - [[https://www.lavanguardia.com/local/catalunya/20260125/11448862/govern-reune-renfe-adif-transportes-valorar-habra-trenes-manana-lunes.html][El Govern ratifica que no habrá Rodalies este domingo y que será gratis cuando se reanude]]
 ** 🇫🇷 Francia
 *** Le Monde
-- [[https://www.lemonde.fr/international/article/2026/01/25/que-sait-on-de-la-mort-d-alex-pretti-tue-par-la-police-de-l-immigration-a-minneapolis_6663980_3211.html][Que sait-on de la mort d’Alex Pretti, cet infirmier de 37 ans tué par la police fédérale de l’immigration à Minneapolis ?]]
+- [[https://www.lemonde.fr/international/video/2026/01/25/le-recit-en-images-de-la-mort-d-alex-pretti-tue-par-la-police-de-l-immigration-a-minneapolis_6664046_3210.html][Le récit en images de la mort d’Alex Pretti, tué par la police de l’immigration américaine à Minneapolis]]
 - [[https://www.lemonde.fr/politique/article/2026/01/25/municipales-2026-au-rassemblement-national-l-insoluble-question-des-brebis-galeuses_6664003_823448.html][Municipales 2026 : pour le RN, l’insoluble question des « brebis galeuses », ces candidats ayant tenu des propos racistes, antisémites ou sexistes]]
-- [[https://www.lemonde.fr/afrique/article/2026/01/25/nouvelle-crispation-entre-alger-et-paris-apres-la-diffusion-d-un-programme-conteste-sur-france-2_6664037_3212.html][Nouvelle crispation entre l’Algérie et la France après la diffusion d’une émission contestée de « Complément d’enquête »]]
+- [[https://www.lemonde.fr/afrique/article/2026/01/25/nouvelle-crispation-entre-alger-et-paris-apres-la-diffusion-d-un-programme-conteste-sur-france-2_6664037_3212.html][Nouvelle crispation entre l’Algérie et la France après la diffusion d’une émission de « Complément d’enquête »]]
 - [[https://www.lemonde.fr/international/live/2026/01/25/en-direct-guerre-en-ukraine-les-dernieres-informations_6663004_3210.html][EN DIRECT, guerre en Ukraine : les dernières informations]]
-- [[https://www.lemonde.fr/international/article/2026/01/25/gaza-pourquoi-l-armee-israelienne-ne-croit-pas-au-desarmement-du-hamas_6664015_3210.html][Gaza : pourquoi l’armée israélienne ne croit pas au désarmement du Hamas]]
+- [[https://www.lemonde.fr/la-matinale/article/2026/01/25/ces-fautes-d-orthographe-qui-sont-devenues-la-regle_6664008_4866763.html][Ces fautes d’orthographe qui sont devenues la règle]]
 *** Le Figaro
+- [[https://www.lefigaro.fr/international/le-petrolier-grinch-soupconne-d-appartenir-a-la-flotte-fantome-russe-arraisonne-pres-de-marseille-et-mis-a-la-disposition-de-la-justice-francaise-20260125][Le pétrolier soupçonné d’appartenir à la flotte fantôme russe a été arraisonné près de Marseille, et son capitaine en garde à vue]]
 - [[https://www.lefigaro.fr/international/accidents-de-la-route-vols-annules-supermarches-vides-la-tempete-hivernale-fern-provoque-le-chaos-aux-etats-unis-20260125][Accidents de la route, vols annulés, supermarchés vides... La tempête hivernale Fern provoque le chaos aux États-Unis]]
-- [[https://www.lefigaro.fr/politique/sebastien-lecornu-envisage-un-ajustement-de-son-gouvernement-apres-la-sequence-budgetaire-20260125][Sébastien Lecornu envisage un «ajustement» de son gouvernement après la séquence budgétaire]]
 - [[https://www.lefigaro.fr/secteur/high-tech/le-personnage-me-fait-peur-larry-ellison-le-puissant-magnat-de-la-tech-qui-murmure-a-l-oreille-de-donald-trump-20260125][«Le personnage me fait peur» : Larry Ellison, le puissant magnat de la tech qui murmure à l’oreille de Donald Trump]]
 - [[https://www.lefigaro.fr/international/en-direct-des-agents-federaux-tuent-un-homme-arme-a-minneapolis-durant-des-manifestations-contre-la-police-anti-immigration-20260124][EN DIRECT - Trump rejette la faute sur les élus démocrates locaux après la mort d’un Américain à Minneapolis]]
-- [[https://www.lefigaro.fr/international/etats-unis-la-situation-a-minneapolis-augmente-le-risque-de-shutdown-20260125][États-Unis: la situation à Minneapolis augmente le risque de shutdown]]
+- [[https://www.lefigaro.fr/international/apres-une-nouvelle-fusillade-mortelle-impliquant-la-police-de-l-immigration-minneapolis-au-bord-de-l-insurrection-20260124][Après une nouvelle fusillade mortelle impliquant la police de l’immigration, Minneapolis au bord de l’insurrection]]
 ** 🇬🇧 Reino Unido
 *** BBC News
 - [[https://www.bbc.com/news/articles/czr4e7ep468o?at_medium=RSS&at_campaign=rss][Andy Burnham's bid to return as MP blocked by Labour's ruling body]]
@@ -67,11 +71,11 @@
 - [[https://www.corriere.it/cronache/24_maggio_12/toti-arrestato-gli-incontri-sullo-yacht-di-spinelli-e-i-telefonini-lasciati-all-esterno-per-blindare-i-colloqui-riservati-e99c3dad-0cea-46a5-9b3a-8e728c4c3xlk.shtml][LE FOTO SULLO YACHT Le immagini degli incontri e i telefonini lasciati all’esterno per blindare i colloqui riservati]]
 - [[https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml][I DATI DEL COVID «Io avevo già truccato»: così, secondo i pm, in Liguria manipolavano i numeri sulla pandemia]]
 *** La Repubblica
+- [[https://www.repubblica.it/sport/tennis/2026/01/25/news/alcaraz_braccialetto_smart_australian_open-425117280/][Whoop, cos’è il braccialetto che Alcaraz è stato costretto a togliersi e perché è vietato]]
+- [[https://www.repubblica.it/sport/calcio/serie-a/2026/01/25/news/neres_infortunio_tempi_di_recupero-425117270/][Neres vola in Inghilterra, sarà operato alla caviglia: il Napoli lo perde per almeno due mesi]]
 - [[https://www.repubblica.it/politica/2026/01/25/news/salvini_lega_abruzzo_vannacci_piantedosi_agenti-425117242/][Salvini avverte: “Chi esce dalla Lega finisce nel nulla”. L’incontro con Robinson? “Vedo chi voglio”]]
 - [[https://www.repubblica.it/sport/tennis/2026/01/25/news/sinner_allenamento_australian_open-425117226/][Sinner snobbato dagli organizzatori? Niente Rod Laver Arena per il derby con Darderi]]
 - [[https://www.repubblica.it/cronaca/2026/01/25/news/morte_valentino_brunello_cucinelli_sconto_giammetti-425117204/][Cucinelli: “Valentino mi chiedeva lo sconto”. E Giammetti lo attacca: “Non si conoscevano”]]
-- [[https://www.repubblica.it/politica/2026/01/25/news/fdi_referendum_campagna_social_pd-425117200/][Referendum, FdI attacca la campagna social del Pd. Effetto autogol, molti utenti: io voto no]]
-- [[https://www.repubblica.it/esteri/2026/01/25/news/iran_bilancio_proteste_time_30_mila_morti-425117051/][Iran, Time: “Trentamila morti nei primi due giorni di proteste”]]
 ** 🇩🇪 Alemania
 *** Der Spiegel
 - [[https://www.spiegel.de/international/zeitgeist/injections-makeup-stress-the-new-religion-of-beauty-a-37cdcea5-d847-44f2-aa49-847e10c2c1d0#ref=rss][Injections, Makeup, Stress: The New Religion of Beauty]]
