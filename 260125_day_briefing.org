@@ -1,21 +1,25 @@
 #+TITLE: Daily Briefing - 2026-01-25
+#+OPTIONS: toc:2 num:nil
 #+HTML_HEAD: <style>
 #+HTML_HEAD:  body { font-family: sans-serif; background: #0d1117; color: #c9d1d9; max-width: 900px; margin: auto; padding: 20px; line-height: 1.6; }
 #+HTML_HEAD:  h1, h2, h3 { color: #58a6ff; text-align: center; }
-#+HTML_HEAD:  .nav-menu { display: flex; justify-content: center; gap: 20px; margin: 20px 0; border-bottom: 1px solid #30363d; padding-bottom: 15px; }
-#+HTML_HEAD:  .nav-menu a { color: #f0883e; text-decoration: none; font-weight: bold; }
+#+HTML_HEAD:  .nav-menu { display: flex; justify-content: center; gap: 20px; margin: 20px 0; border-bottom: 1px solid #30363d; padding-bottom: 15px; font-weight: bold; }
+#+HTML_HEAD:  .nav-menu a { color: #f0883e; text-decoration: none; }
 #+HTML_HEAD:  .briefing-item { background: #161b22; border: 1px solid #30363d; border-radius: 8px; margin: 10px 0; padding: 15px; text-align: center; }
 #+HTML_HEAD:  .cta-blog { background: #1c2128; border: 2px solid #58a6ff; padding: 20px; border-radius: 12px; text-align: center; margin-top: 40px; }
 #+HTML_HEAD:  .footer { margin-top: 50px; border-top: 1px solid #30363d; padding-top: 20px; text-align: center; font-size: 0.8em; color: #8b949e; }
 #+HTML_HEAD: </style>
+#+HTML: <div class="nav-menu"><a href="index.html">Inicio</a><a href="about.html">Sobre mí</a><a href="contact.html">Contacto</a></div>
 #+BEGIN_CENTER
-#+HTML: <small>Telemetría activa (Modo Seguro)</small>
+#+HTML: <small style='color:#8b949e;'>🌡 37.6°C | ⚖ Load: 0.06689453125 | 🌐 Ping: 26.5ms</small>
 #+END_CENTER
 
-#+OPTIONS: toc:2 num:nil
-#+HTML: <div class="nav-menu"><a href="index.html">Inicio</a><a href="about.html">Sobre mí</a><a href="contact.html">Contacto</a></div>
 * 🧠 Think Tanks
 - [[https://www.realinstitutoelcano.org][Real Instituto Elcano]] (🇪🇸 España)
+- [[https://www.ifri.org][IFRI]] (🇫🇷 Francia)
+- [[https://www.chathamhouse.org][Chatham House]] (🇬🇧 Reino Unido)
+- [[https://www.ispionline.it][ISPI]] (🇮🇹 Italia)
+- [[https://www.swp-berlin.org][SWP]] (🇩🇪 Alemania)
 - [[https://www.rand.org][RAND Corporation]] (🇺🇸 Estados Unidos)
 
 * 🗞️ Titulares
