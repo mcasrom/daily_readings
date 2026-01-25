@@ -11,8 +11,13 @@
 #+HTML_HEAD:  .cta-blog { background: #1c2128; border: 2px solid #58a6ff; padding: 20px; border-radius: 12px; text-align: center; margin-top: 40px; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">Inicio</a><a href="about.html">Sobre mí</a><a href="contact.html">Contacto</a></div>
-#+HTML: <div class='timestamp' style='margin-bottom:20px;'>Último acceso: 25-01-2026 22:40:38</div>
-* Archivo de Noticias
+#+HTML: <div class='timestamp' style='margin-bottom:20px;'>Sincronizado: 25-01-2026 22:44:58</div>
+* 🗂️ Archivo de Noticias (Última Semana)
 #+HTML: <div class='briefing-item'><a href='260125_day_briefing.html'>⚡ Edición: 260125</a></div>
 #+HTML: <div class='briefing-item'><a href='260124_day_briefing.html'>⚡ Edición: 260124</a></div>
+
+* 🗓️ Sumario Mensual
+** January 2026
+- [[file:260125_day_briefing.html][Día 25]]
+- [[file:260124_day_briefing.html][Día 24]]
 #+HTML: <div class="cta-blog"><h3 style="margin-top:0;">🗺️📜 El Mapa y El Código</h3><p>Análisis geopolítico del mismo autor.</p><a href="https://elmapayelcodigo.netlify.app/" style="color:#58a6ff; font-weight:bold; text-decoration:none;">Visitar Blog →</a></div>
