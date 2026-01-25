@@ -3,7 +3,7 @@
 #+HTML_HEAD: <style>
 #+HTML_HEAD:  body { font-family: sans-serif; background: #0d1117; color: #c9d1d9; max-width: 900px; margin: auto; padding: 20px; line-height: 1.6; }
 #+HTML_HEAD:  h1, h2, h3 { color: #58a6ff; text-align: center; }
-#+HTML_HEAD:  .nav-menu { display: flex; justify-content: center; gap: 20px; margin: 20px 0; border-bottom: 1px solid #30363d; padding-bottom: 15px; font-weight: bold; }
+#+HTML_HEAD:  .nav-menu { display: flex; justify-content: center; gap: 20px; margin: 10px 0 30px 0; border-bottom: 1px solid #30363d; padding-bottom: 15px; font-weight: bold; }
 #+HTML_HEAD:  .nav-menu a { color: #f0883e; text-decoration: none; }
 #+HTML_HEAD:  .briefing-item { background: #161b22; border: 1px solid #30363d; border-radius: 8px; margin: 10px 0; padding: 15px; text-align: center; }
 #+HTML_HEAD:  .cta-blog { background: #1c2128; border: 2px solid #58a6ff; padding: 20px; border-radius: 12px; text-align: center; margin-top: 40px; }
@@ -13,10 +13,4 @@
 * Archivo de Noticias
 #+HTML: <div class='briefing-item'><a href='260125_day_briefing.html'>⚡ Edición: 260125</a></div>
 #+HTML: <div class='briefing-item'><a href='260124_day_briefing.html'>⚡ Edición: 260124</a></div>
-
-#+HTML: <div class="cta-blog">
-#+HTML:   <h3 style="margin-top:0;">🗺️📜 El Mapa y El Código</h3>
-#+HTML:   <p>Blog sobre Geopolítica y análisis estratégico del mismo autor.</p>
-#+HTML:   <a href="https://elmapayelcodigo.netlify.app/" style="color:#58a6ff; font-weight:bold; text-decoration:none;">Visitar El Mapa y El Código →</a>
-#+HTML: </div>
-#+HTML: <div class="footer"><p>Autor: mcasrom@gmail.com | DietPi Intel Hub</p><p>Copyright 2026 IE - El Mapa y El Código</p></div>
+#+HTML: <div class="cta-blog"><h3 style="margin-top:0;">🗺️📜 El Mapa y El Código</h3><p>Blog sobre Geopolítica del mismo autor.</p><a href="https://elmapayelcodigo.netlify.app/" style="color:#58a6ff; font-weight:bold; text-decoration:none;">Visitar →</a></div>

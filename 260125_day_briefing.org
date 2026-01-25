@@ -1,17 +1,17 @@
 #+TITLE: Daily Briefing - 2026-01-25
-#+HTML: <div class="nav-menu"><a href="index.html">Inicio</a><a href="about.html">Sobre mí</a><a href="contact.html">Contacto</a></div>
 #+OPTIONS: toc:2 num:nil
 #+HTML_HEAD: <style>
 #+HTML_HEAD:  body { font-family: sans-serif; background: #0d1117; color: #c9d1d9; max-width: 900px; margin: auto; padding: 20px; line-height: 1.6; }
 #+HTML_HEAD:  h1, h2, h3 { color: #58a6ff; text-align: center; }
-#+HTML_HEAD:  .nav-menu { display: flex; justify-content: center; gap: 20px; margin: 20px 0; border-bottom: 1px solid #30363d; padding-bottom: 15px; font-weight: bold; }
+#+HTML_HEAD:  .nav-menu { display: flex; justify-content: center; gap: 20px; margin: 10px 0 30px 0; border-bottom: 1px solid #30363d; padding-bottom: 15px; font-weight: bold; }
 #+HTML_HEAD:  .nav-menu a { color: #f0883e; text-decoration: none; }
 #+HTML_HEAD:  .briefing-item { background: #161b22; border: 1px solid #30363d; border-radius: 8px; margin: 10px 0; padding: 15px; text-align: center; }
 #+HTML_HEAD:  .cta-blog { background: #1c2128; border: 2px solid #58a6ff; padding: 20px; border-radius: 12px; text-align: center; margin-top: 40px; }
 #+HTML_HEAD:  .footer { margin-top: 50px; border-top: 1px solid #30363d; padding-top: 20px; text-align: center; font-size: 0.8em; color: #8b949e; }
 #+HTML_HEAD: </style>
+#+HTML: <div class="nav-menu"><a href="index.html">Inicio</a><a href="about.html">Sobre mí</a><a href="contact.html">Contacto</a></div>
 #+BEGIN_CENTER
-#+HTML: <small style='color:#8b949e;'>🌡 37.0°C | ⚖ Load: 0.0771484375 | 🌐 Ping: 78.6ms</small>
+#+HTML: <div style='margin-bottom:20px;'><small style='color:#8b949e;'>🌡 38.1°C | ⚖ Load: 0.11962890625 | 🌐 Ping: 9.50ms</small></div>
 #+END_CENTER
 
 * 🧠 Think Tanks
@@ -77,4 +77,4 @@
 - [[https://www.spiegel.de/international/europe/former-austrian-chancellor-sebastian-kurz-an-alliance-of-the-illiberal-right-with-tech-a-ca32e983-6ef8-49c0-8ccf-f34d74f0ade8#ref=rss][Former Austrian Chancellor Sebastian Kurz: An Alliance of the Illiberal Right with Tech?]]
 - [[https://www.spiegel.de/international/europe/fast-fashion-exploitation-how-the-clothes-hanger-wars-escalated-in-italy-a-a9a0d238-03ab-484d-b7a7-b90567646ac7#ref=rss][Fast Fashion Exploitation: How the Clothes-Hanger Wars Escalated in Italy]]
 - [[https://www.spiegel.de/international/zeitgeist/the-public-uprising-bernhard-poerksens-critique-of-der-spiegels-debate-culture-a-fb086101-400e-4326-9ee3-b8b6f6356b80#ref=rss][The Public Uprising: Bernhard Poerksen's Critique of DER SPIEGEL's Debate Culture]]
-#+HTML: <div class="footer"><p>Autor: mcasrom@gmail.com | DietPi Intel Hub</p><p>Copyright 2026 IE - El Mapa y El Código</p></div>
+#+HTML: <div class='footer'><p>Autor: mcasrom@gmail.com | DietPi Intel Hub</p><p>Copyright 2026 IE - El Mapa y El Código</p></div>
