@@ -1,47 +1,99 @@
-#+TITLE: Daily Briefing - 25-01-2026
-#+HTML_HEAD: <link rel="icon" type="image/png" href="favicon.png">
+#+TITLE: Daily Briefing - 2026-01-25
 #+HTML_HEAD: <style>
 #+HTML_HEAD:  body { font-family: sans-serif; background: #0d1117; color: #c9d1d9; max-width: 900px; margin: auto; padding: 20px; line-height: 1.6; }
 #+HTML_HEAD:  h1, h2, h3 { color: #58a6ff; text-align: center; }
 #+HTML_HEAD:  .nav-menu { display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; border-bottom: 1px solid #30363d; padding-bottom: 15px; }
 #+HTML_HEAD:  .nav-menu a { color: #f0883e; text-decoration: none; font-weight: bold; }
-#+HTML_HEAD:  .nav-menu a:hover { border-bottom: 2px solid #f0883e; }
 #+HTML_HEAD:  .outline-2 { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px; margin-bottom: 20px; }
 #+HTML_HEAD:  a { color: #58a6ff; text-decoration: none; }
-#+HTML_HEAD:  a:hover { text-decoration: underline; }
 #+HTML_HEAD:  .footer { margin-top: 50px; border-top: 1px solid #30363d; padding-top: 20px; text-align: center; font-size: 0.9em; color: #8b949e; }
 #+HTML_HEAD:  .briefing-item { background: #161b22; border: 1px solid #30363d; border-radius: 8px; margin: 12px 0; padding: 15px; text-align: center; }
-#+HTML_HEAD:  .cta-blog { background: linear-gradient(90deg, #1f6feb, #482ff7); padding: 20px; border-radius: 12px; text-align: center; margin-top: 30px; color: white; }
-#+HTML_HEAD:  .cta-button { display: inline-block; margin-top: 10px; background: white; color: #1f6feb; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: bold; }
 #+HTML_HEAD: </style>
 
-
-#+HTML: <div class="nav-menu">
-#+HTML: <a href="index.html">Inicio</a>
-#+HTML: <a href="about.html">Sobre mí</a>
-#+HTML: <a href="contact.html">Contacto</a>
-#+HTML: </div>
-
+#+HTML: <div class="nav-menu"><a href="index.html">Inicio</a><a href="about.html">Sobre mí</a><a href="contact.html">Contacto</a></div>
 #+BEGIN_CENTER
-#+HTML: <small>Telemetría N/A</small>
+#+HTML: <small>Telemetría parcial o no disponible</small>
 #+END_CENTER
 
-* 🇪🇸 España
-** El País
+* 🧠 Think Tanks
+- *🇪🇸 España* :: [[https://www.realinstitutoelcano.org][Real Instituto Elcano]]
+- *🇫🇷 Francia* :: [[https://www.ifri.org][IFRI]]
+- *🇬🇧 Reino Unido* :: [[https://www.chathamhouse.org][Chatham House]]
+- *🇮🇹 Italia* :: [[https://www.ispionline.it][ISPI]]
+- *🇩🇪 Alemania* :: [[https://www.swp-berlin.org][SWP]]
+- *🇺🇸 Estados Unidos* :: [[https://www.rand.org][RAND Corporation]]
+
+* 🗞️ Titulares Internacionales
+** 🇪🇸 España
+*** El País
 - [[https://elpais.com/us/migracion/2026-01-25/el-gobierno-de-trump-difunde-mentiras-para-justificar-la-muerte-de-alex-pretti-en-minneapolis.html][Los vídeos contradicen la versión del Gobierno de Trump sobre la muerte a tiros de un manifestante en Minneapolis]]
 - [[https://elpais.com/us/migracion/2026-01-25/la-muerte-a-tiros-de-un-manifestante-a-manos-de-la-policia-migratoria-de-trump-dispara-la-tension-en-minneapolis.html][La muerte a tiros de un manifestante a manos de la policía migratoria de Trump inflama la tensión en Minneapolis]]
 - [[https://elpais.com/videos/2026-01-25/la-secuencia-del-asesinato-de-alex-pretti-por-el-ice-en-minneapolis-desde-diferentes-angulos.html][La secuencia del asesinato de Alex Pretti por el ICE en Minneapolis, desde diferentes ángulos]]
 - [[https://elpais.com/us/migracion/2026-01-25/gregory-bovino-el-rostro-de-las-tacticas-mas-violentas-en-la-cruzada-de-trump-contra-la-inmigracion.html][Gregory Bovino, el rostro de las tácticas más violentas en la cruzada de Trump contra la inmigración]]
 - [[https://elpais.com/espana/2026-01-25/los-nueve-segundos-que-acabaron-con-45-vidas-reconstruccion-vagon-a-vagon-segun-los-testigos-y-la-investigacion.html][Los nueve segundos que acabaron con 45 vidas: reconstrucción vagón a vagón, según los testigos y la investigación]]
-** El Mundo
+*** El Mundo
 - [[https://www.elmundo.es/economia/2026/01/24/69751757e85ecebc3e8b4577.html][El Iryo empezó a descarrilar desde un tramo de la vía sin renovar y fabricado en 1989]]
 - [[https://www.elmundo.es/economia/2026/01/25/697635e8fc6c83c42f8b4588.html][Puente publica documentación sesgada para desmentir en falso que el accidente fue en un tramo con vías de 1989 y de 2023, como reconoce hasta Adif]]
 - [[https://www.elmundo.es/espana/2026/01/25/6975f17321efa0d70f8b4582.html][El PP pide la dimisión o cese de Óscar Puente por "mentir" sobre la renovación de la vía en Adamuz]]
 - [[https://www.elmundo.es/elecciones/elecciones-aragon/2026/01/25/6975d6f0fdddffc14f8b4574.html][Sánchez alaba a Puente por "dar la cara desde el primer momento" en la gestión del accidente de Adamuz: "Desgraciadamente, las tragedias suceden, pero no es igual cómo se responde"]]
 - [[https://www.elmundo.es/cronica/2026/01/24/6973d2cd21efa09c358b45ce.html][El carril roto de Adamuz no se auscultó en los 58 días previos al accidente y los sindicatos critican el "despropósito" del tren 'Séneca' y el 'Doctor Avril']]
-* 🇺🇸 Estados Unidos
-
-#+HTML: <div class="footer">
-#+HTML: <p>Autor: mcasrom@gmail.com | DietPi Intel Hub</p>
-#+HTML: <p>Copyright 2026 IE - El Mapa y El Código</p>
-#+HTML: </div>
+** 🇫🇷 Francia
+*** Le Monde
+- [[https://www.lemonde.fr/international/article/2026/01/25/barack-obama-appelle-a-un-sursaut-contre-les-atteintes-aux-valeurs-americaines-apres-la-mort-d-alex-pretti-a-minneapolis_6664079_3210.html][Barack Obama appelle à un « sursaut » contre les atteintes aux valeurs américaines à la suite de la mort d’Alex Pretti à Minneapolis]]
+- [[https://www.lemonde.fr/politique/article/2026/01/25/presidentielle-2027-gabriel-attal-compte-accelerer-sa-candidature-peu-importent-les-doutes-de-son-camp_6664068_823448.html][Présidentielle 2027 : Gabriel Attal compte accélérer sa candidature, peu importent les doutes de son camp]]
+- [[https://www.lemonde.fr/international/article/2026/01/25/comment-donald-trump-remodele-l-histoire-des-etats-unis_6664006_3210.html][Comment Donald Trump remodèle l’histoire des Etats-Unis]]
+- [[https://www.lemonde.fr/economie/article/2026/01/25/la-curieuse-cabale-de-patrons-de-la-silicon-valley-contre-l-enseignement-superieur_6664013_3234.html][La curieuse cabale de la Silicon Valley contre les études supérieures et les universités]]
+- [[https://www.lemonde.fr/international/live/2026/01/25/en-direct-guerre-en-ukraine-un-accord-sur-les-garanties-de-securite-est-pret-a-etre-signe-avec-les-etats-unis-affirme-volodymyr-zelensky_6663004_3210.html][EN DIRECT, guerre en Ukraine : un accord sur les garanties de sécurité est prêt à être signé avec les Etats-Unis, affirme Volodymyr Zelensky]]
+*** Le Figaro
+- [[https://www.lefigaro.fr/actualite-france/intelligence-artificielle-et-terrorisme-la-mise-en-garde-d-experts-chinois-et-americains-20260115][Intelligence artificielle et terrorisme : la mise en garde d’experts chinois et américains]]
+- [[https://www.lefigaro.fr/economie/les-agences-immobilieres-accusees-de-fortes-discriminations-raciales-selon-sos-racisme-20260125][Les agences immobilières accusées de fortes discriminations raciales, selon SOS Racisme]]
+- [[https://www.lefigaro.fr/economie/jean-pierre-robin-ce-sont-desormais-les-enfants-qui-financent-les-repas-dans-les-familles-francaises-20260125][Jean-Pierre Robin : «Ce sont désormais les enfants qui financent les repas dans les familles françaises»]]
+- [[https://www.lefigaro.fr/international/champagne-hotel-de-luxe-et-jet-prive-scandale-en-russie-apres-un-voyage-de-celebrites-russes-a-courchevel-20260125][Champagne, hôtel de luxe et jet privé : scandale en Russie après un voyage de célébrités russes à Courchevel]]
+- [[https://www.lefigaro.fr/conjoncture/budget-ces-economies-de-derniere-minute-qui-permettent-de-financer-pres-de-3-milliards-d-euros-de-concessions-20260125][Budget : ces économies de dernière minute qui permettent de financer près de 3 milliards d’euros de concessions]]
+** 🇬🇧 Reino Unido
+*** BBC News
+- [[https://www.bbc.com/news/videos/cp372pqq2rlo?at_medium=RSS&at_campaign=rss][Video shows moments around fatal shooting of Alex Pretti in Minneapolis]]
+- [[https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss][Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?]]
+- [[https://www.bbc.com/news/articles/clymr3pz2kxo?at_medium=RSS&at_campaign=rss][Venezuela frees dozens of political prisoners, human rights group says]]
+- [[https://www.bbc.com/news/articles/c62vke5dly2o?at_medium=RSS&at_campaign=rss][Captain of suspected Russian shadow tanker in French custody]]
+- [[https://www.bbc.com/news/articles/c4gl0njzxjdo?at_medium=RSS&at_campaign=rss][Climber Alex Honnold scales 101-floor skyscraper without safety gear]]
+*** The Guardian
+- [[https://www.theguardian.com/world/2026/jan/23/guinea-bissau-hepatitis-b-vaccine-study][‘It’s the sovereignty of the country’: Guinea-Bissau says US vaccine study suspended]]
+- [[https://www.theguardian.com/global-development/2026/jan/22/actionaid-rethink-child-sponsorship-decolonise-funding][ActionAid to rethink child sponsorship as part of plan to ‘decolonise’ its work]]
+- [[https://www.theguardian.com/us-news/2026/jan/20/us-diplomats-urged-to-remind-african-leaders-of-us-generosity-despite-usaid-closing][Head of US Africa bureau urges staff to highlight US ‘generosity’ despite aid cuts]]
+- [[https://www.theguardian.com/global-development/2026/jan/19/brazen-political-influence-rich-laid-bare-wealth-billionaires-inequality-poverty-instability-oxfam][‘Brazen’ political influence of rich laid bare as wealth of billionaires reaches $18.3tn, says Oxfam]]
+- [[https://www.theguardian.com/world/2026/jan/18/ugandas-president-calls-opponents-terrorists-in-victory-speech][Uganda’s president calls opponents 'terrorists' in victory speech]]
+** 🇮🇹 Italia
+*** Corriere della Sera
+- [[https://www.corriere.it/dataroom-milena-gabanelli/codice-strada-ecco-cosa-cambia-perche-non-ridurra-numero-vittime/a9ec82f6-0fb3-11ef-a8f0-a1f7c0d711f2-va.shtml][Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime]]
+- [[https://www.corriere.it/politica/24_maggio_13/toti-spinelli-elezioni-9eac3140-71d7-4523-b980-142b573d5xlk.shtml][Toti a Spinelli: «Ti vengo a trovare prima delle elezioni. Ti chiedo un po’ di robe» Ecco le immagini degli incontri sullo yacht]]
+- [[https://www.corriere.it/politica/24_maggio_12/inchiesta-liguria-marco-bucci-gioco-al-massacro-non-ci-sto-chiedo-chiarezza-su-di-me-sono-pronto-a-parlare-con-i-pm-57e1da92-5b6c-4d81-94f6-321a522abxlk.shtml][IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»]]
+- [[https://www.corriere.it/cronache/24_maggio_12/toti-arrestato-gli-incontri-sullo-yacht-di-spinelli-e-i-telefonini-lasciati-all-esterno-per-blindare-i-colloqui-riservati-e99c3dad-0cea-46a5-9b3a-8e728c4c3xlk.shtml][LE FOTO SULLO YACHT Le immagini degli incontri e i telefonini lasciati all’esterno per blindare i colloqui riservati]]
+- [[https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml][I DATI DEL COVID «Io avevo già truccato»: così, secondo i pm, in Liguria manipolavano i numeri sulla pandemia]]
+*** La Repubblica
+- [[https://www.repubblica.it/spettacoli/cinema/2026/01/26/news/natalie_portman_sundance_festival_protesta_ice_film_arco_intervista-425117628/][Natalie Portman, le lacrime al Sundance: “Stop alla brutalità dell’Ice”]]
+- [[https://www.repubblica.it/sport/calcio/2026/01/25/news/audero_dimenticato_pullman_cremonese-425117836/][Audero, che giornataccia: perde la partita con il Sassuolo e la Cremonese lo lascia giù dal pullman]]
+- [[https://www.repubblica.it/esteri/2026/01/25/news/fulmine_brasile_corteo_bolsonaro_72_colpiti-425117795/][Fulmine sul corteo pro-Bolsonaro a Brasilia, 72 persone colpite]]
+- [[https://www.repubblica.it/sport/calcio/serie-a/juventus/2026/01/25/news/juventus_esultanza_caffe_gol_david-425117689/][Juve, nuova esultanza: dopo il gol di David tutti a bere il caffè. Thuram: “Perché? Siamo in Italia”]]
+- [[https://www.repubblica.it/cronaca/2026/01/25/news/william_foege_morto_medico_vaiolo-425117596/][È morto William Foege, il medico che debellò il vaiolo]]
+** 🇩🇪 Alemania
+*** Der Spiegel
+- [[https://www.spiegel.de/international/zeitgeist/injections-makeup-stress-the-new-religion-of-beauty-a-37cdcea5-d847-44f2-aa49-847e10c2c1d0#ref=rss][Injections, Makeup, Stress: The New Religion of Beauty]]
+- [[https://www.spiegel.de/international/world/former-u-s-security-adviser-john-bolton-we-have-passed-peak-trump-a-f7758dba-db37-4e53-9944-5437b40fcef2#ref=rss][Former U.S. Security Adviser John Bolton: "We Have Passed Peak Trump"]]
+- [[https://www.spiegel.de/international/europe/former-austrian-chancellor-sebastian-kurz-an-alliance-of-the-illiberal-right-with-tech-a-ca32e983-6ef8-49c0-8ccf-f34d74f0ade8#ref=rss][Former Austrian Chancellor Sebastian Kurz: An Alliance of the Illiberal Right with Tech?]]
+- [[https://www.spiegel.de/international/europe/fast-fashion-exploitation-how-the-clothes-hanger-wars-escalated-in-italy-a-a9a0d238-03ab-484d-b7a7-b90567646ac7#ref=rss][Fast Fashion Exploitation: How the Clothes-Hanger Wars Escalated in Italy]]
+- [[https://www.spiegel.de/international/zeitgeist/the-public-uprising-bernhard-poerksens-critique-of-der-spiegels-debate-culture-a-fb086101-400e-4326-9ee3-b8b6f6356b80#ref=rss][The Public Uprising: Bernhard Poerksen's Critique of DER SPIEGEL's Debate Culture]]
+*** Deutsche Welle
+- [[https://www.dw.com/en/ukraine-says-us-security-guarantees-deal-100-ready/a-75653357?maca=en-rss-en-top-1022-xml-mrss][Ukraine says US security guarantees deal '100% ready']]
+- [[https://www.dw.com/en/russia-looks-to-india-to-fill-labor-shortage/a-75598015?maca=en-rss-en-top-1022-xml-mrss][Russia looks to India to fill labor shortage]]
+- [[https://www.dw.com/en/syria-life-saving-aid-reaches-kurdish-city-of-kobane/a-75652409?maca=en-rss-en-top-1022-xml-mrss][Syria: Life-saving aid reaches Kurdish city of Kobane]]
+- [[https://www.dw.com/en/us-officials-netanyahu-discuss-2nd-phase-of-gaza-peace-plan/a-75651926?maca=en-rss-en-top-1022-xml-mrss][US officials, Netanyahu discuss 2nd phase of Gaza peace plan]]
+- [[https://www.dw.com/en/minneapolis-alex-pretti-s-family-slams-trump-admin-lies/live-75641710?maca=en-rss-en-top-1022-xml-mrss][Minneapolis: Alex Pretti's family slams Trump admin 'lies']]
+** 🇺🇸 Estados Unidos
+*** WP World
+- [[https://www.washingtonpost.com/world/2026/01/25/trump-british-troops-afghanistan-charles/][Trump, in retreat, praises U.K. troops after royal family expresses hurt]]
+- [[https://www.washingtonpost.com/world/2026/01/24/myanmar-election-china-junta/][Myanmar’s military choreographs an election, with Beijing’s help]]
+- [[https://www.washingtonpost.com/world/2026/01/25/britain-smartphones-school-ban-children/][U.K. lawsuit seeks ban on smartphones in schools to protect children]]
+- [[https://www.washingtonpost.com/world/2026/01/25/india-pollution-winter-toxic-air/][How bad is Delhi’s air? Like smoking half a pack of cigarettes.]]
+- [[https://www.washingtonpost.com/world/2026/01/25/greenland-deal-trump-history-denmark-europe/][Trump tells one history of Greenland. Historians tell another.]]
+#+HTML: <div class="footer"><p>Autor: mcasrom@gmail.com | DietPi Intel Hub</p><p>Copyright 2026 IE - El Mapa y El Código</p></div>
