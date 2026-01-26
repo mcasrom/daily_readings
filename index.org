@@ -7,28 +7,31 @@
 #+HTML_HEAD: <meta property="og:url" content="https://mcasrom.github.io/daily_readings/index.html">
 #+HTML_HEAD: <meta property="og:type" content="website">
 #+HTML_HEAD: <meta name="twitter:card" content="summary_large_image">
+#+HTML_HEAD: <script src="https://unpkg.com/@lyket/widget@latest/dist/lyket.js" async></script>
+#+HTML_HEAD: <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 #+HTML_HEAD: <style>
-#+HTML_HEAD:   :root { --bg: #05070a; --surface: #0f141d; --primary: #00f2ff; --secondary: #7000ff; --text: #e2e8f0; --gold: #ffd700; --muted: #64748b; }
-#+HTML_HEAD:   body { font-family: 'Inter', -apple-system, sans-serif; background: var(--bg); color: var(--text); max-width: 900px; margin: auto; padding: 25px; line-height: 1.8; }
-#+HTML_HEAD:   h1, h2, h3 { color: var(--primary); text-transform: uppercase; letter-spacing: 1px; text-align: center; }
-#+HTML_HEAD:   .nav-menu { display: flex; justify-content: center; gap: 30px; margin-bottom: 40px; border-bottom: 2px solid var(--surface); padding-bottom: 20px; }
-#+HTML_HEAD:   .nav-menu a { color: var(--text); text-decoration: none; font-weight: bold; transition: 0.3s; font-size: 0.9em; }
-#+HTML_HEAD:   .nav-menu a:hover { color: var(--primary); text-shadow: 0 0 8px var(--primary); }
-#+HTML_HEAD:   .timestamp { text-align: center; color: var(--muted); font-size: 0.8em; margin-bottom: 10px; }
-#+HTML_HEAD:   .telemetry { text-align: center; color: var(--gold); font-family: monospace; font-size: 0.9em; background: var(--surface); padding: 10px; border-radius: 4px; border-left: 3px solid var(--gold); margin-bottom: 30px; }
-#+HTML_HEAD:   .quote-box { text-align: center; font-style: italic; color: var(--primary); margin: 25px 0; padding: 15px; border-top: 1px solid var(--surface); border-bottom: 1px solid var(--surface); font-size: 1.15em; }
-#+HTML_HEAD:   ul { list-style: none; padding: 0; }
-#+HTML_HEAD:   li { background: var(--surface); margin-bottom: 12px; padding: 15px; border-radius: 8px; border: 1px solid #1e293b; transition: all 0.2s ease; }
-#+HTML_HEAD:   li:hover { border-color: var(--primary); transform: translateX(5px); }
-#+HTML_HEAD:   li a { color: var(--text); text-decoration: none; display: block; font-weight: 500; }
-#+HTML_HEAD:   .briefing-item { background: var(--surface); border: 1px solid var(--primary); border-radius: 10px; margin: 15px 0; padding: 20px; text-align: center; }
-#+HTML_HEAD:   .briefing-item a { color: var(--primary); text-decoration: none; font-weight: bold; font-size: 1.1em; }
-#+HTML_HEAD:   .cta-blog { background: linear-gradient(135deg, #0f141d 0%, #05070a 100%); border: 2px solid var(--primary); padding: 30px; border-radius: 15px; text-align: center; margin-top: 50px; }
-#+HTML_HEAD:   .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
+#+HTML_HEAD:    :root { --bg: #05070a; --surface: #0f141d; --primary: #00f2ff; --secondary: #7000ff; --text: #e2e8f0; --gold: #ffd700; --muted: #64748b; }
+#+HTML_HEAD:    body { font-family: 'Inter', -apple-system, sans-serif; background: var(--bg); color: var(--text); max-width: 900px; margin: auto; padding: 25px; line-height: 1.8; }
+#+HTML_HEAD:    h1, h2, h3 { color: var(--primary); text-transform: uppercase; letter-spacing: 1px; text-align: center; }
+#+HTML_HEAD:    .nav-menu { display: flex; justify-content: center; gap: 30px; margin-bottom: 40px; border-bottom: 2px solid var(--surface); padding-bottom: 20px; }
+#+HTML_HEAD:    .nav-menu a { color: var(--text); text-decoration: none; font-weight: bold; transition: 0.3s; font-size: 0.9em; }
+#+HTML_HEAD:    .nav-menu a:hover { color: var(--primary); text-shadow: 0 0 8px var(--primary); }
+#+HTML_HEAD:    .timestamp { text-align: center; color: var(--muted); font-size: 0.8em; margin-bottom: 10px; }
+#+HTML_HEAD:    .telemetry { text-align: center; color: var(--gold); font-family: monospace; font-size: 0.9em; background: var(--surface); padding: 10px; border-radius: 4px; border-left: 3px solid var(--gold); margin-bottom: 30px; }
+#+HTML_HEAD:    .quote-box { text-align: center; font-style: italic; color: var(--primary); margin: 25px 0; padding: 15px; border-top: 1px solid var(--surface); border-bottom: 1px solid var(--surface); font-size: 1.15em; }
+#+HTML_HEAD:    ul { list-style: none; padding: 0; }
+#+HTML_HEAD:    li { background: var(--surface); margin-bottom: 12px; padding: 15px; border-radius: 8px; border: 1px solid #1e293b; transition: all 0.2s ease; }
+#+HTML_HEAD:    li:hover { border-color: var(--primary); transform: translateX(5px); }
+#+HTML_HEAD:    li a { color: var(--text); text-decoration: none; display: block; font-weight: 500; }
+#+HTML_HEAD:    .briefing-item { background: var(--surface); border: 1px solid var(--primary); border-radius: 10px; margin: 15px 0; padding: 20px; text-align: center; }
+#+HTML_HEAD:    .briefing-item a { color: var(--primary); text-decoration: none; font-weight: bold; font-size: 1.1em; }
+#+HTML_HEAD:    .cta-blog { background: linear-gradient(135deg, #0f141d 0%, #05070a 100%); border: 2px solid var(--primary); padding: 30px; border-radius: 15px; text-align: center; margin-top: 50px; }
+#+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='timestamp'>Sincronizado: 26-01-2026 12:44:26</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='timestamp'>Sincronizado: 26-01-2026 13:58:55</div>
+#+HTML: <div style='text-align:center; margin-bottom:25px;'><img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmcasrom.github.io%2Fdaily_readings_index&count_bg=%2300f2ff&title_bg=%230f141d&icon=world.svg&icon_color=%23e2e8f0&title=VISITAS_TOTALES&edge_flat=false' /></div>
 * 🗂 Archivo de Noticias
 #+HTML: <div class='briefing-item'><a href='260126_day_briefing.html'>⚡ Edición: 260126</a></div>
 #+HTML: <div class='briefing-item'><a href='260125_day_briefing.html'>⚡ Edición: 260125</a></div>
