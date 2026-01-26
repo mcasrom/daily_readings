@@ -29,14 +29,20 @@
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
 * Sobre mí
-Contenido personalizable.
 
 
-** Test Test 
-* Test 
+* 🧠 Sobre el Intelligence Hub
+Este nodo de información es un proyecto personal diseñado para centralizar la inteligencia geopolítica y el análisis global en tiempo real.
 
+** 🛠 Tecnología
+El sistema opera sobre una infraestructura ligera pero robusta:
+- **Hardware:** Raspberry Pi gestionada con *DietPi OS*.
+- **Software:** Motor de sincronización en Python 3.
+- **Exportación:** Documentación estructurada mediante *Emacs Org-mode*.
+- **Despliegue:** Automatización mediante Git y GitHub Pages.
 
-
+** 🗺 Propósito
+En un mundo saturado de ruido, este hub filtra los titulares de las principales capitales del mundo y los combina con la visión profunda de los Think Tanks más influyentes, ofreciendo una perspectiva técnica y estratégica del tablero internacional.
 
 
 
