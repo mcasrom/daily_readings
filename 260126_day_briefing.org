@@ -1,43 +1,38 @@
-#+TITLE: Daily Briefing - 2026-01-26
+#+TITLE: Daily Intel - 2026-01-26
 #+OPTIONS: toc:nil num:nil
 #+HTML_HEAD: <link rel="icon" type="image/png" href="favicon.png">
 #+HTML_HEAD: <style>
-#+HTML_HEAD:   :root { --bg: #0f172a; --card: #1e293b; --text: #f1f5f9; --accent: #38bdf8; --links: #fbbf24; --muted: #94a3b8; }
-#+HTML_HEAD:   body { font-family: 'Inter', system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); max-width: 850px; margin: auto; padding: 30px; line-height: 1.7; }
-#+HTML_HEAD:   h1, h2, h3 { color: var(--accent); text-align: center; letter-spacing: -0.025em; }
-#+HTML_HEAD:   .nav-menu { display: flex; justify-content: center; gap: 25px; margin-bottom: 30px; border-bottom: 1px solid #334155; padding-bottom: 20px; }
-#+HTML_HEAD:   .nav-menu a { color: var(--links); text-decoration: none; font-weight: 600; font-size: 1.1em; }
-#+HTML_HEAD:   .nav-menu a:hover { border-bottom: 2px solid var(--links); }
-#+HTML_HEAD:   .timestamp { text-align: center; color: var(--muted); font-size: 0.85em; margin-bottom: 8px; font-weight: 500; text-transform: uppercase; }
-#+HTML_HEAD:   .telemetry { text-align: center; color: var(--accent); font-family: 'JetBrains Mono', monospace; font-size: 0.95em; margin-bottom: 30px; background: #1e293b; padding: 8px; border-radius: 8px; border: 1px solid #334155; }
-#+HTML_HEAD:   ul { list-style: none; padding-left: 0; }
-#+HTML_HEAD:   li { background: var(--card); margin-bottom: 12px; padding: 14px; border-radius: 8px; border: 1px solid #334155; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); transition: 0.2s ease; }
-#+HTML_HEAD:   li:hover { border-color: var(--accent); transform: translateY(-2px); }
-#+HTML_HEAD:   li a { color: var(--text); text-decoration: none; display: block; }
-#+HTML_HEAD:   .briefing-item { background: var(--card); border: 1px solid var(--accent); border-radius: 10px; margin: 15px 0; padding: 20px; text-align: center; }
-#+HTML_HEAD:   .briefing-item a { color: var(--accent); text-decoration: none; font-weight: bold; font-size: 1.15em; }
-#+HTML_HEAD:   .cta-blog { background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 2px solid var(--accent); padding: 30px; border-radius: 15px; text-align: center; margin-top: 50px; }
-#+HTML_HEAD:   .footer-hub { margin-top: 60px; border-top: 1px solid #334155; padding-top: 25px; text-align: center; font-size: 0.9em; color: var(--muted); line-height: 1.6; }
-#+HTML_HEAD:   .footer-hub a { color: var(--muted); }
+#+HTML_HEAD:   :root { --bg: #05070a; --surface: #0f141d; --primary: #00f2ff; --secondary: #7000ff; --text: #e2e8f0; --gold: #ffd700; --muted: #64748b; }
+#+HTML_HEAD:   body { font-family: 'Inter', -apple-system, sans-serif; background: var(--bg); color: var(--text); max-width: 800px; margin: auto; padding: 20px; line-height: 1.8; }
+#+HTML_HEAD:   h1, h2, h3 { color: var(--primary); text-transform: uppercase; letter-spacing: 1px; text-align: center; }
+#+HTML_HEAD:   .nav-menu { display: flex; justify-content: center; gap: 30px; margin-bottom: 40px; border-bottom: 2px solid var(--surface); padding-bottom: 20px; }
+#+HTML_HEAD:   .nav-menu a { color: var(--text); text-decoration: none; font-weight: bold; transition: 0.3s; font-size: 0.9em; }
+#+HTML_HEAD:   .nav-menu a:hover { color: var(--primary); text-shadow: 0 0 8px var(--primary); }
+#+HTML_HEAD:   .timestamp { text-align: center; color: var(--muted); font-size: 0.8em; margin-bottom: 10px; }
+#+HTML_HEAD:   .telemetry { text-align: center; color: var(--gold); font-family: monospace; font-size: 0.9em; background: var(--surface); padding: 10px; border-radius: 4px; border-left: 3px solid var(--gold); margin-bottom: 30px; }
+#+HTML_HEAD:   .quote-box { text-align: center; font-style: italic; color: var(--primary); margin: 20px 0; padding: 15px; border-top: 1px solid var(--surface); border-bottom: 1px solid var(--surface); font-size: 1.1em; }
+#+HTML_HEAD:   ul { list-style: none; padding: 0; }
+#+HTML_HEAD:   li { background: var(--surface); margin-bottom: 15px; padding: 18px; border-radius: 8px; border: 1px solid #1e293b; transition: all 0.3s ease; position: relative; overflow: hidden; }
+#+HTML_HEAD:   li:hover { border-color: var(--primary); transform: scale(1.01); box-shadow: 0 5px 15px rgba(0,0,0,0.5); }
+#+HTML_HEAD:   li a { color: var(--text); text-decoration: none; display: block; font-weight: 500; }
+#+HTML_HEAD:   .briefing-item { background: var(--surface); border: 1px solid var(--accent); border-radius: 10px; margin: 15px 0; padding: 20px; text-align: center; }
+#+HTML_HEAD:   .briefing-item a { color: var(--primary); text-decoration: none; font-weight: bold; font-size: 1.1em; }
+#+HTML_HEAD:   .cta-blog { background: linear-gradient(135deg, #0f141d 0%, #05070a 100%); border: 2px solid var(--primary); padding: 30px; border-radius: 15px; text-align: center; margin-top: 50px; }
+#+HTML_HEAD:   .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
-#+HTML: <div class="nav-menu"><a href="index.html">Inicio</a><a href="about.html">Sobre mí</a><a href="contact.html">Contacto</a></div>
-#+HTML: <div class='timestamp'>Actualizado el: 26-01-2026 09:56:23</div>
-#+HTML: <div class='telemetry'>🌡 38.1°C | ⚖ Load: 0.05126953125 | 🌐 Ping: 9.94ms</div>
-#+TOC: headlines 2
-
+#+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
+#+HTML: <div class='quote-box'>«La geopolítica es el arte de mirar el mapa para entender el poder».</div>
+#+HTML: <div class='telemetry'>🌡 37.6°C | ⚖ LOAD: 0.0078125 | 🛡 SEGURIDAD: OK</div>
 * 🧠 Think Tanks
-- [[https://www.realinstitutoelcano.org][Real Instituto Elcano]] (🇪🇸 España)
-- [[https://www.ifri.org][IFRI]] (🇫🇷 Francia)
-- [[https://www.chathamhouse.org][Chatham House]] (🇬🇧 Reino Unido)
-- [[https://www.ispionline.it][ISPI]] (🇮🇹 Italia)
-- [[https://www.swp-berlin.org][SWP]] (🇩🇪 Alemania)
-- [[https://www.rand.org][RAND Corporation]] (🇺🇸 Estados Unidos)
+- [[https://www.realinstitutoelcano.org][Real Instituto Elcano]]
+- [[https://www.chathamhouse.org][Chatham House]]
+- [[https://www.rand.org][RAND Corp]]
 
 * 🗞 Titulares
 ** 🇪🇸 España
 *** El País
 - [[https://elpais.com/espana/catalunya/2026-01-26/una-incidencia-en-el-centro-de-control-de-adif-vuelve-a-dejar-cataluna-sin-rodalies.html][Caos en el restablecimiento del servicio de Rodalies en Cataluña: dos parones totales en menos de dos horas]]
-- [[https://elpais.com/espana/catalunya/2026-01-26/una-semana-aciaga-golpea-al-govern-y-complica-la-aprobacion-de-los-presupuestos-catalanes.html][Una semana aciaga golpea al Govern y complica la aprobación de los presupuestos catalanes]]
+- [[https://elpais.com/espana/2026-01-26/ultima-hora-del-accidente-de-tren-en-cordoba-y-del-choque-de-rodalies-en-barcelona-en-directo.html][Última hora del accidente de tren en Córdoba y de las incidencias en Rodalies, en directo | Transportes y Adif no descartan que la doble incidencia en Rodalies se deba a un ciberataque]]
 - [[https://elpais.com/espana/catalunya/2026-01-26/oriol-junqueras-quien-diga-que-no-a-la-nueva-financiacion-es-porque-no-usa-el-tren.html][Oriol Junqueras: “Quien diga que no a la nueva financiación es porque no usa el tren”]]
 - [[https://elpais.com/espana/2026-01-26/algunas-certezas-tecnicas-y-muchas-incognitas-aun-en-torno-al-descarrilamiento-del-iryo.html][Algunas certezas técnicas y muchas incógnitas en torno al descarrilamiento del Iryo]]
 - [[https://elpais.com/espana/2026-01-26/los-investigadores-analizan-el-sistema-de-seguridad-lzb-para-hallar-el-punto-exacto-del-descarrilamiento-del-tren.html][Los investigadores analizan el sistema de seguridad LZB para hallar el punto exacto del descarrilamiento del tren]]
@@ -53,43 +48,21 @@
 - [[https://www.lavanguardia.com/vida/20260125/11449044/servicio-rodalies-restablecera-parcialmente-lunes.html][Rodalies restablece las líneas con más usuarios este lunes y pasa a ser gratuito durante un mes]]
 - [[https://www.lavanguardia.com/vida/20260126/11449286/tren-iryo-descarrilo-romperse-soldadura-unia-carril-preexistente-nuevo.html][El tren Iryo descarriló al romperse la soldadura que unía el carril preexistente con el nuevo]]
 - [[https://www.lavanguardia.com/local/catalunya/20260126/11449051/claves-resolver-desastre-rodalies.html][Claves para resolver el desastre de Rodalies]]
-** 🇺🇸 Estados Unidos
-*** The Washington Post
-- [[https://www.washingtonpost.com/world/2026/01/26/trump-new-world-order-board-of-peace/][Looking for signs of Trump’s new world order after Davos]]
-- [[https://www.washingtonpost.com/world/2026/01/25/trump-british-troops-afghanistan-charles/][Trump, in retreat, praises U.K. troops after royal family expresses hurt]]
-- [[https://www.washingtonpost.com/world/2026/01/24/myanmar-election-china-junta/][Myanmar’s military choreographs an election, with Beijing’s help]]
-- [[https://www.washingtonpost.com/world/2026/01/25/britain-smartphones-school-ban-children/][U.K. lawsuit seeks ban on smartphones in schools to protect children]]
-- [[https://www.washingtonpost.com/world/2026/01/25/india-pollution-winter-toxic-air/][How bad is Delhi’s air? Like smoking half a pack of cigarettes.]]
-** 🇫🇷 Francia
-*** Le Monde
-- [[https://www.lemonde.fr/societe/article/2026/01/26/traversees-de-la-manche-la-defenseure-des-droits-critique-l-emploi-d-armes-pour-empecher-les-departs-de-migrants_6664112_3224.html][Traversées de la Manche : la Défenseure des droits critique l’emploi d’armes pour empêcher les départs de migrants]]
-- [[https://www.lemonde.fr/international/article/2026/01/26/apres-la-mort-d-alex-pretti-a-minneapolis-la-politique-d-immigration-de-donald-trump-plus-contestee-que-jamais_6664098_3210.html][Après la mort d’Alex Pretti à Minneapolis, la stratégie de la tension de Donald Trump en question]]
-- [[https://www.lemonde.fr/economie/article/2026/01/26/daniel-kretinsky-lance-une-opa-sur-fnac-darty_6664116_3234.html][Fnac Darty fait l’objet d’une OPA du milliardaire tchèque Daniel Kretinsky]]
-- [[https://www.lemonde.fr/idees/article/2026/01/26/la-communaute-internationale-doit-defendre-les-kurdes-de-syrie_6664106_3232.html][« La communauté internationale doit défendre les Kurdes de Syrie »]]
-- [[https://www.lemonde.fr/planete/article/2026/01/26/pollution-de-l-air-l-etat-attaque-en-justice-pour-manquement-apres-la-suppression-annoncee-des-zfe_6664104_3244.html][Pollution de l’air : l’Etat attaqué en justice pour « manquement » après la suppression annoncée des ZFE]]
-** 🇬🇧 Reino Unido
+** 🌍 Internacional
 *** BBC News
 - [[https://www.bbc.com/news/articles/cr571qg4m61o?at_medium=RSS&at_campaign=rss][Trump says administration 'reviewing everything' after shooting of Alex Pretti]]
 - [[https://www.bbc.com/news/articles/cvg50vv1ezko?at_medium=RSS&at_campaign=rss]['This is horrifying' - Minneapolis residents reel from second deadly shooting]]
 - [[https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss][Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?]]
 - [[https://www.bbc.com/news/articles/c1klrmz90yjo?at_medium=RSS&at_campaign=rss][At least seven dead and 800,000 without power as major winter storm hits US]]
 - [[https://www.bbc.com/news/articles/c20gg729y1yo?at_medium=RSS&at_campaign=rss][Russia using Interpol's wanted list to target critics abroad, leak reveals]]
-** 🇮🇹 Italia
-*** Corriere della Sera
-- [[https://www.corriere.it/dataroom-milena-gabanelli/codice-strada-ecco-cosa-cambia-perche-non-ridurra-numero-vittime/a9ec82f6-0fb3-11ef-a8f0-a1f7c0d711f2-va.shtml][Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime]]
-- [[https://www.corriere.it/politica/24_maggio_13/toti-spinelli-elezioni-9eac3140-71d7-4523-b980-142b573d5xlk.shtml][Toti a Spinelli: «Ti vengo a trovare prima delle elezioni. Ti chiedo un po’ di robe» Ecco le immagini degli incontri sullo yacht]]
-- [[https://www.corriere.it/politica/24_maggio_12/inchiesta-liguria-marco-bucci-gioco-al-massacro-non-ci-sto-chiedo-chiarezza-su-di-me-sono-pronto-a-parlare-con-i-pm-57e1da92-5b6c-4d81-94f6-321a522abxlk.shtml][IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»]]
-- [[https://www.corriere.it/cronache/24_maggio_12/toti-arrestato-gli-incontri-sullo-yacht-di-spinelli-e-i-telefonini-lasciati-all-esterno-per-blindare-i-colloqui-riservati-e99c3dad-0cea-46a5-9b3a-8e728c4c3xlk.shtml][LE FOTO SULLO YACHT Le immagini degli incontri e i telefonini lasciati all’esterno per blindare i colloqui riservati]]
-- [[https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml][I DATI DEL COVID «Io avevo già truccato»: così, secondo i pm, in Liguria manipolavano i numeri sulla pandemia]]
-** 🇩🇪 Alemania
-*** Der Spiegel
-- [[https://www.spiegel.de/international/zeitgeist/injections-makeup-stress-the-new-religion-of-beauty-a-37cdcea5-d847-44f2-aa49-847e10c2c1d0#ref=rss][Injections, Makeup, Stress: The New Religion of Beauty]]
-- [[https://www.spiegel.de/international/world/former-u-s-security-adviser-john-bolton-we-have-passed-peak-trump-a-f7758dba-db37-4e53-9944-5437b40fcef2#ref=rss][Former U.S. Security Adviser John Bolton: "We Have Passed Peak Trump"]]
-- [[https://www.spiegel.de/international/europe/former-austrian-chancellor-sebastian-kurz-an-alliance-of-the-illiberal-right-with-tech-a-ca32e983-6ef8-49c0-8ccf-f34d74f0ade8#ref=rss][Former Austrian Chancellor Sebastian Kurz: An Alliance of the Illiberal Right with Tech?]]
-- [[https://www.spiegel.de/international/europe/fast-fashion-exploitation-how-the-clothes-hanger-wars-escalated-in-italy-a-a9a0d238-03ab-484d-b7a7-b90567646ac7#ref=rss][Fast Fashion Exploitation: How the Clothes-Hanger Wars Escalated in Italy]]
-- [[https://www.spiegel.de/international/zeitgeist/the-public-uprising-bernhard-poerksens-critique-of-der-spiegels-debate-culture-a-fb086101-400e-4326-9ee3-b8b6f6356b80#ref=rss][The Public Uprising: Bernhard Poerksen's Critique of DER SPIEGEL's Debate Culture]]
+*** Le Monde
+- [[https://www.lemonde.fr/international/article/2026/01/26/apres-la-mort-d-alex-pretti-a-minneapolis-la-politique-d-immigration-de-donald-trump-plus-contestee-que-jamais_6664098_3210.html][Après la mort d’Alex Pretti à Minneapolis, la stratégie de la tension de Donald Trump en question]]
+- [[https://www.lemonde.fr/societe/article/2026/01/26/traversees-de-la-manche-la-defenseure-des-droits-critique-l-emploi-d-armes-pour-empecher-les-departs-de-migrants_6664112_3224.html][Traversées de la Manche : la Défenseure des droits critique l’emploi d’armes pour empêcher les départs de migrants]]
+- [[https://www.lemonde.fr/economie/article/2026/01/26/daniel-kretinsky-lance-une-opa-sur-fnac-darty_6664116_3234.html][Fnac Darty fait l’objet d’une OPA du milliardaire tchèque Daniel Kretinsky]]
+- [[https://www.lemonde.fr/idees/article/2026/01/26/la-communaute-internationale-doit-defendre-les-kurdes-de-syrie_6664106_3232.html][« La communauté internationale doit défendre les Kurdes de Syrie »]]
+- [[https://www.lemonde.fr/planete/article/2026/01/26/pollution-de-l-air-l-etat-attaque-en-justice-pour-manquement-apres-la-suppression-annoncee-des-zfe_6664104_3244.html][Pollution de l’air : l’Etat attaqué en justice pour « manquement » après la suppression annoncée des ZFE]]
 
 #+HTML: <div class="footer-hub">
-#+HTML:   <p><strong>Autor:</strong> El Mapa y El Código | <a href="mailto:mcasrom@gmail.com">mcasrom@gmail.com</a></p>
-#+HTML:   <p>© 2026 Todos los derechos reservados | 🚀 DietPi Intel Hub</p>
+#+HTML:   <p><strong>Autor:</strong> El Mapa y El Código | <a href="mailto:mcasrom@gmail.com" style="color:var(--primary);">mcasrom@gmail.com</a></p>
+#+HTML:   <p>© 2026 Inteligencia Geopolítica | 🚀 DietPi Node</p>
 #+HTML: </div>
