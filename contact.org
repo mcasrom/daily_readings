@@ -7,7 +7,6 @@
 #+HTML_HEAD: <meta property="og:url" content="https://mcasrom.github.io/daily_readings/index.html">
 #+HTML_HEAD: <meta property="og:type" content="website">
 #+HTML_HEAD: <meta name="twitter:card" content="summary_large_image">
-#+HTML_HEAD: <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 #+HTML_HEAD: <style>
 #+HTML_HEAD:    :root { --bg: #05070a; --surface: #0f141d; --primary: #00f2ff; --secondary: #7000ff; --text: #e2e8f0; --gold: #ffd700; --muted: #64748b; }
 #+HTML_HEAD:    body { font-family: 'Inter', -apple-system, sans-serif; background: var(--bg); color: var(--text); max-width: 900px; margin: auto; padding: 25px; line-height: 1.8; }
@@ -29,25 +28,7 @@
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
 * Contacto
-Email: mcasrom@gmail.com
-
-Blog: [[https://elmapayelcodigo.netlify.app/][El Mapa y El Código]]
-
-#+HTML: <div class="footer">
-#+HTML: <p>Autor: mcasrom@gmail.com | DietPi Intel Hub</p>
-#+HTML: <p>Copyright 2026 IE - El Mapa y El Código</p>
-#+HTML: </div>
-
-
-
-
-
-
-
-
-
-
-
+Contenido personalizable.
 
 
 #+HTML: <div class="footer-hub">
