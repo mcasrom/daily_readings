@@ -1,19 +1,271 @@
 {
-  "timestamp": "2026-01-26T16:20:07.506043",
+  "timestamp": "2026-01-26T16:27:26.088724",
   "data": {
-    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada": [],
-    "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml": [],
-    "https://www.lavanguardia.com/rss/home.xml": [],
-    "https://eldiariocantabria.publico.es/rss/": [],
+    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada": [
+      {
+        "title": "El presidente de la investigación de Adamuz: “Todo parece evidenciar que la causa ha sido la rotura de una soldadura”",
+        "link": "https://elpais.com/espana/2026-01-26/el-presidente-de-la-investigacion-de-adamuz-todo-parece-evidenciar-que-la-causa-principal-de-la-tragedia-ha-sido-la-rotura-de-una-soldadura.html"
+      },
+      {
+        "title": "Caos en el restablecimiento del servicio de Rodalies en Cataluña: dos parones totales en menos de dos horas",
+        "link": "https://elpais.com/espana/catalunya/2026-01-26/una-incidencia-en-el-centro-de-control-de-adif-vuelve-a-dejar-cataluna-sin-rodalies.html"
+      },
+      {
+        "title": "Última hora del accidente de tren en Córdoba y de las incidencias en Rodalies, en directo | El Gobierno catalán exige dimisiones en Adif y Renfe por el caos de Rodalies",
+        "link": "https://elpais.com/espana/2026-01-26/ultima-hora-del-accidente-de-tren-en-cordoba-y-del-choque-de-rodalies-en-barcelona-en-directo.html"
+      },
+      {
+        "title": "“Todos los semáforos quedaron en rojo”: la caída del sistema o el ciberataque que ha vuelto a interrumpir Rodalies",
+        "link": "https://elpais.com/espana/catalunya/2026-01-26/todos-los-semaforos-quedaron-en-rojo-la-caida-del-sistema-o-el-ciberataque-que-ha-vuelto-a-interrumpir-rodalies.html"
+      },
+      {
+        "title": "Oriol Junqueras: “Quien diga que no a la nueva financiación es porque no usa el tren”",
+        "link": "https://elpais.com/espana/catalunya/2026-01-26/oriol-junqueras-quien-diga-que-no-a-la-nueva-financiacion-es-porque-no-usa-el-tren.html"
+      }
+    ],
+    "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml": [
+      {
+        "title": "El presidente de la investigación ya sólo señala una hipótesis: \"Todo parece evidenciar que la causa principal, el origen, ha sido la rotura, no tanto del carril, como de una soldadura\"",
+        "link": "https://www.elmundo.es/economia/2026/01/26/697779a5e9cf4afe378b459b.html"
+      },
+      {
+        "title": "Una rotura en una vía del AVE Barcelona-Madrid suma retrasos hoy mientras Adif confirma que detectó otra rotura en el eje Madrid-Sevilla \"hace días\"",
+        "link": "https://www.elmundo.es/economia/2026/01/26/697753bfe85ecedb058b459e.html"
+      },
+      {
+        "title": "Puente dice ahora que \"se equivocó\" al dar datos falsos sobre la soldadura clave en el accidente de Adamuz y que la auscultación se realizó dos meses antes de lo que anunció",
+        "link": "https://www.elmundo.es/economia/2026/01/26/6977519ae9cf4a90538b4571.html"
+      },
+      {
+        "title": "Hatfield, el escándalo que mató a Robert, Steve, Leslie y Peter y cambió para siempre los trenes en el Reino Unido",
+        "link": "https://www.elmundo.es/cronica/2026/01/26/6973bfaee85ece2c468b4590.html"
+      },
+      {
+        "title": "Isabel Díaz Ayuso: \"Óscar Puente debe dimitir. La España desastrada la provocan la corrupción y la falta de inversión de Sánchez\"",
+        "link": "https://www.elmundo.es/madrid/2026/01/25/6975def8e85ece781a8b4581.html"
+      }
+    ],
+    "https://www.lavanguardia.com/rss/home.xml": [
+      {
+        "title": "Jornada de caos en Rodalies: el servicio se reanuda con retrasos e incidencias tras sufrir dos parones",
+        "link": "https://www.lavanguardia.com/vida/20260126/11449291/rodalies-catalunya-ultima-hora-servicio-trenes-funcionamiento-lineas-crisis-en-directo.html"
+      },
+      {
+        "title": "Ambiente en Badalona: “Lo peor es que quienes están informando no disponen de ninguna información”",
+        "link": "https://www.lavanguardia.com/local/barcelones-nord/20260126/11449413/peor-quienes-informando-ninguna-informacion.html"
+      },
+      {
+        "title": "Sánchez comparecerá en el Congreso el 11 de febrero para informar de los últimos accidentes",
+        "link": "https://www.lavanguardia.com/politica/20260126/11449785/sanchez-comparecera-congreso-11-febrero-informar-ultimos-accidentes.html"
+      },
+      {
+        "title": "Rodalies, otra vez parada, colapsa la movilidad en el área de Barcelona.",
+        "link": "https://www.lavanguardia.com/fotos/20260126/11449407/rodalies-vez-parada-colapsa-movilidad-area-barcelona.html"
+      },
+      {
+        "title": "Puente apunta a un ciberataque como una hipótesis de la caída del servicio en Rodalies",
+        "link": "https://www.lavanguardia.com/vida/20260126/11449342/sigue-caos-rodalies-fallos-informaticos-centro-control-adif-obligan-cortar-circulacion-dos-ocasiones.html"
+      }
+    ],
+    "https://eldiariocantabria.publico.es/rss/": [
+      {
+        "title": "Un fuerte temporal se asentará en buena parte del país hasta el jueves",
+        "link": "https://eldiariocantabria.publico.es/articulo/cantabria/fuerte-temporal-asentara-buena-parte-pais-jueves/20260126161621187724.html"
+      },
+      {
+        "title": "El despido de un trabajador en la central de Aguayo provoca una concentración de protesta en varios centros de trabajo de la cadena",
+        "link": "https://eldiariocantabria.publico.es/articulo/laboral/despido-trabajador-aguayo-provoca-protesta/20260126155954187722.html"
+      },
+      {
+        "title": "Golpea en la cabeza a un hombre con una defensa extensible en Santander",
+        "link": "https://eldiariocantabria.publico.es/articulo/santander/golpea-cabeza-hombre-defensa-extensible-santander-niega-rotundamente-realizar-prueba-alcoholemia/20260126135814187721.html"
+      },
+      {
+        "title": "El Bathco BM Torrelavega renueva a Álex Rubiño hasta 2027",
+        "link": "https://eldiariocantabria.publico.es/articulo/cantabria/bathco-bm-torrelavega-renueva-alex-rubino-2027/20260126134432187719.html"
+      },
+      {
+        "title": "El Ministerio de Cultura licita por casi 417.000 euros el mantenimiento del Museo de Altamira",
+        "link": "https://eldiariocantabria.publico.es/articulo/cantabria/ministerio-cultura-licita-417000-E-mantenimiento-museo-altamira/20260126132447187717.html"
+      }
+    ],
     "https://rss.nytimes.com/services/xml/nyt/World.xml": [],
-    "https://feeds.washingtonpost.com/rss/world": [],
-    "https://www.lemonde.fr/rss/une.xml": [],
-    "https://www.lefigaro.fr/rss/figaro_actualites.xml": [],
-    "https://feeds.bbci.co.uk/news/world/rss.xml": [],
-    "https://www.theguardian.com/world/rss": [],
-    "https://www.corriere.it/rss/homepage.xml": [],
+    "https://feeds.washingtonpost.com/rss/world": [
+      {
+        "title": "Israel confirms remains of last hostage, Rani Gvili, returned from Gaza",
+        "link": "https://www.washingtonpost.com/world/2026/01/26/israel-gaza-hostage-return/"
+      },
+      {
+        "title": "After 80-year bond, Germans find breaking up with the U.S. is hard to do",
+        "link": "https://www.washingtonpost.com/world/2026/01/26/germany-trump-nato-greenland/"
+      },
+      {
+        "title": "Amid botched procedures, China is cracking down on cosmetic surgery",
+        "link": "https://www.washingtonpost.com/world/2026/01/11/china-cosmetic-surgery-boom/"
+      },
+      {
+        "title": "Iraqi spy chief warns of reemerging threat from ISIS as its ranks swell",
+        "link": "https://www.washingtonpost.com/world/2026/01/26/islamic-state-isis-syria-iraq-threat/"
+      },
+      {
+        "title": "Looking for signs of Trump’s new world order after Davos",
+        "link": "https://www.washingtonpost.com/world/2026/01/26/trump-new-world-order-board-of-peace/"
+      }
+    ],
+    "https://www.lemonde.fr/rss/une.xml": [
+      {
+        "title": "Gaza : l’armée israélienne annonce avoir identifié le corps de Ran Gvili, dernier otage qui restait dans l’enclave",
+        "link": "https://www.lemonde.fr/international/article/2026/01/26/gaza-l-armee-israelienne-annonce-avoir-identifie-le-corps-de-ran-gvili-dernier-otage-qui-restait-dans-l-enclave_6664168_3210.html"
+      },
+      {
+        "title": "La Chine accuse son plus haut général d’avoir cherché à saper le pouvoir de Xi Jinping",
+        "link": "https://www.lemonde.fr/international/article/2026/01/26/la-chine-accuse-son-plus-haut-general-d-avoir-cherche-a-saper-le-pouvoir-de-xi-jinping_6664144_3210.html"
+      },
+      {
+        "title": "EN DIRECT, mort d’Alex Pretti à Minneapolis : « L’administration Trump peut dire ce qu’elle veut, les images pénètrent dans le pays »",
+        "link": "https://www.lemonde.fr/international/live/2026/01/26/en-direct-minneapolis-posez-vos-questions-a-notre-journaliste-apres-la-mort-d-alex-pretti-dans-le-minnesota_6664172_3210.html"
+      },
+      {
+        "title": "Peter Thiel à l’Académie des sciences morales et politiques pour parler de l’Antéchrist devant un groupe de travail sur la démocratie",
+        "link": "https://www.lemonde.fr/politique/article/2026/01/26/peter-thiel-a-l-academie-des-sciences-morales-et-politiques-pour-parler-de-l-antechrist-devant-un-groupe-de-travail-sur-la-democratie_6664141_823448.html"
+      },
+      {
+        "title": "Orange coupe définitivement l’ADSL et le téléphone de 763 communes, dont le 6ᵉ arrondissement de Lyon et Ajaccio",
+        "link": "https://www.lemonde.fr/economie/article/2026/01/26/orange-coupe-definitivement-l-adsl-et-le-telephone-de-763-communes-dont-lyon-et-ajaccio_6664151_3234.html"
+      }
+    ],
+    "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
+      {
+        "title": "«Dites au monde l’enfer que nous sommes en train de vivre» : en Iran, l’ampleur du massacre apparaît peu à peu",
+        "link": "https://www.lefigaro.fr/international/dites-au-monde-l-enfer-que-nous-sommes-en-train-de-vivre-en-iran-l-ampleur-du-massacre-peu-a-peu-apparait-20260126"
+      },
+      {
+        "title": "« Les Iraniens écrivent l’Histoire, le monde libre doit leur venir en aide »",
+        "link": "https://www.lefigaro.fr/vox/monde/les-iraniens-ecrivent-l-histoire-le-monde-libre-doit-leur-venir-en-aide-20260126"
+      },
+      {
+        "title": "Les Émirats arabes unis n'autoriseront pas d'attaques contre l'Iran depuis leur sol",
+        "link": "https://www.lefigaro.fr/international/les-emirats-arabes-unis-n-autoriseront-pas-d-attaques-contre-l-iran-depuis-leur-sol-20260126"
+      },
+      {
+        "title": "Israël affirme avoir identifié le corps de Ran Gvili, dernier otage à Gaza",
+        "link": "https://www.lefigaro.fr/international/israel-affirme-avoir-identifie-le-corps-de-ran-gvili-dernier-otage-a-gaza-20260126"
+      },
+      {
+        "title": "«Chaque matin, j’espère que les blocs ont été retirés» : à Gaza, l’armée israélienne repousse la «ligne jaune» malgré la trêve",
+        "link": "https://www.lefigaro.fr/international/chaque-matin-j-espere-que-les-blocs-ont-ete-retires-a-gaza-l-armee-israelienne-repousse-la-ligne-jaune-malgre-la-treve-20260123"
+      }
+    ],
+    "https://feeds.bbci.co.uk/news/world/rss.xml": [
+      {
+        "title": "Israel says it has retrieved remains of final Gaza hostage",
+        "link": "https://www.bbc.com/news/articles/c5ydvz7nz4mo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'This is horrifying' - Minneapolis residents reel from second deadly shooting",
+        "link": "https://www.bbc.com/news/articles/cvg50vv1ezko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "France debates under-15s social media ban endorsed by Macron",
+        "link": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Gunmen storm Mexico football pitch and kill at least 11 people",
+        "link": "https://www.bbc.com/news/articles/cp80419gggro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Spain slashes speed limit on popular train route after fault found",
+        "link": "https://www.bbc.com/news/articles/ckgy049ypd5o?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "https://www.theguardian.com/world/rss": [
+      {
+        "title": "Hundreds feared dead in attempt to cross Mediterranean during cyclone",
+        "link": "https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry"
+      },
+      {
+        "title": "Crocodile warnings as floods devastate southern Africa",
+        "link": "https://www.theguardian.com/world/2026/jan/26/crocodile-warnings-floods-devastate-southern-africa"
+      },
+      {
+        "title": "‘It’s the sovereignty of the country’: Guinea-Bissau says US vaccine study suspended",
+        "link": "https://www.theguardian.com/world/2026/jan/23/guinea-bissau-hepatitis-b-vaccine-study"
+      },
+      {
+        "title": "ActionAid to rethink child sponsorship as part of plan to ‘decolonise’ its work",
+        "link": "https://www.theguardian.com/global-development/2026/jan/22/actionaid-rethink-child-sponsorship-decolonise-funding"
+      },
+      {
+        "title": "Head of US Africa bureau urges staff to highlight US ‘generosity’ despite aid cuts",
+        "link": "https://www.theguardian.com/us-news/2026/jan/20/us-diplomats-urged-to-remind-african-leaders-of-us-generosity-despite-usaid-closing"
+      }
+    ],
+    "https://www.corriere.it/rss/homepage.xml": [
+      {
+        "title": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
+        "link": "https://www.corriere.it/dataroom-milena-gabanelli/codice-strada-ecco-cosa-cambia-perche-non-ridurra-numero-vittime/a9ec82f6-0fb3-11ef-a8f0-a1f7c0d711f2-va.shtml"
+      },
+      {
+        "title": "Toti a Spinelli: «Ti vengo a trovare prima delle elezioni. Ti chiedo un po’ di robe» Ecco le immagini degli incontri sullo yacht",
+        "link": "https://www.corriere.it/politica/24_maggio_13/toti-spinelli-elezioni-9eac3140-71d7-4523-b980-142b573d5xlk.shtml"
+      },
+      {
+        "title": "IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»",
+        "link": "https://www.corriere.it/politica/24_maggio_12/inchiesta-liguria-marco-bucci-gioco-al-massacro-non-ci-sto-chiedo-chiarezza-su-di-me-sono-pronto-a-parlare-con-i-pm-57e1da92-5b6c-4d81-94f6-321a522abxlk.shtml"
+      },
+      {
+        "title": "LE FOTO SULLO YACHT Le immagini degli incontri e i telefonini lasciati all’esterno per blindare i colloqui riservati",
+        "link": "https://www.corriere.it/cronache/24_maggio_12/toti-arrestato-gli-incontri-sullo-yacht-di-spinelli-e-i-telefonini-lasciati-all-esterno-per-blindare-i-colloqui-riservati-e99c3dad-0cea-46a5-9b3a-8e728c4c3xlk.shtml"
+      },
+      {
+        "title": "I DATI DEL COVID «Io avevo già truccato»: così, secondo i pm, in Liguria manipolavano i numeri sulla pandemia",
+        "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml"
+      }
+    ],
     "https://www.repubblica.it/rss/home/rss2.0.xml": [],
-    "https://www.spiegel.de/international/index.rss": [],
-    "https://rss.dw.com/rdf/rss-en-world": []
+    "https://www.spiegel.de/international/index.rss": [
+      {
+        "title": "Injections, Makeup, Stress: The New Religion of Beauty",
+        "link": "https://www.spiegel.de/international/zeitgeist/injections-makeup-stress-the-new-religion-of-beauty-a-37cdcea5-d847-44f2-aa49-847e10c2c1d0#ref=rss"
+      },
+      {
+        "title": "Former U.S. Security Adviser John Bolton: \"We Have Passed Peak Trump\"",
+        "link": "https://www.spiegel.de/international/world/former-u-s-security-adviser-john-bolton-we-have-passed-peak-trump-a-f7758dba-db37-4e53-9944-5437b40fcef2#ref=rss"
+      },
+      {
+        "title": "Former Austrian Chancellor Sebastian Kurz: An Alliance of the Illiberal Right with Tech?",
+        "link": "https://www.spiegel.de/international/europe/former-austrian-chancellor-sebastian-kurz-an-alliance-of-the-illiberal-right-with-tech-a-ca32e983-6ef8-49c0-8ccf-f34d74f0ade8#ref=rss"
+      },
+      {
+        "title": "Fast Fashion Exploitation: How the Clothes-Hanger Wars Escalated in Italy",
+        "link": "https://www.spiegel.de/international/europe/fast-fashion-exploitation-how-the-clothes-hanger-wars-escalated-in-italy-a-a9a0d238-03ab-484d-b7a7-b90567646ac7#ref=rss"
+      },
+      {
+        "title": "The Public Uprising: Bernhard Poerksen's Critique of DER SPIEGEL's Debate Culture",
+        "link": "https://www.spiegel.de/international/zeitgeist/the-public-uprising-bernhard-poerksens-critique-of-der-spiegels-debate-culture-a-fb086101-400e-4326-9ee3-b8b6f6356b80#ref=rss"
+      }
+    ],
+    "https://rss.dw.com/rdf/rss-en-world": [
+      {
+        "title": "UK: Suella Braverman defects from Conservatives to Reform",
+        "link": "https://www.dw.com/en/uk-suella-braverman-defects-from-conservatives-to-reform/a-75664224?maca=en-rss-en-world-4025-rdf"
+      },
+      {
+        "title": "Terror in the trees: Why extremists take cover in Nigeria's forests",
+        "link": "https://www.dw.com/en/terror-in-the-trees-why-extremists-take-cover-in-nigeria-s-forests/a-75661454?maca=en-rss-en-world-4025-rdf"
+      },
+      {
+        "title": "Vietnam bets big on To Lam's power and growth strategy",
+        "link": "https://www.dw.com/en/vietnam-bets-big-on-to-lam-s-power-and-growth-strategy/a-75664156?maca=en-rss-en-world-4025-rdf"
+      },
+      {
+        "title": "EU opens probe into Musk's Grok chatbot",
+        "link": "https://www.dw.com/en/eu-opens-probe-into-musk-s-grok-chatbot/a-75663255?maca=en-rss-en-world-4025-rdf"
+      },
+      {
+        "title": "EU agrees on complete ban of Russian gas imports by 2027",
+        "link": "https://www.dw.com/en/eu-agrees-on-complete-ban-of-russian-gas-imports-by-2027/a-75660043?maca=en-rss-en-world-4025-rdf"
+      }
+    ]
   }
 }
