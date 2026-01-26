@@ -21,8 +21,8 @@
 #+HTML_HEAD:   .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Quien controla el flujo de los datos, controla la narrativa del territorio».</div>
-#+HTML: <div class='telemetry'>🌡 36.5°C | ⚖ Load: 0.48046875 | 🌐 Ping: 13.2ms</div>
+#+HTML: <div class='quote-box'>«La geopolítica es el arte de mirar el mapa para entender el poder».</div>
+#+HTML: <div class='telemetry'>🌡 37.0°C | ⚖ Load: 0.04296875 | 🌐 Ping: 9.44ms</div>
 
 * 🧠 Think Tanks
 - [[https://www.realinstitutoelcano.org][Real Instituto Elcano]] (🇪🇸 España)
@@ -36,16 +36,16 @@
 ** 🇪🇸 España
 *** El País
 - [[https://elpais.com/espana/catalunya/2026-01-26/una-incidencia-en-el-centro-de-control-de-adif-vuelve-a-dejar-cataluna-sin-rodalies.html][Caos en el restablecimiento del servicio de Rodalies en Cataluña: dos parones totales en menos de dos horas]]
-- [[https://elpais.com/espana/2026-01-26/ultima-hora-del-accidente-de-tren-en-cordoba-y-del-choque-de-rodalies-en-barcelona-en-directo.html][Última hora del accidente de tren en Córdoba y de las incidencias en Rodalies, en directo | Transportes y Adif no descartan que la doble incidencia en Rodalies se deba a un ciberataque]]
 - [[https://elpais.com/espana/catalunya/2026-01-26/oriol-junqueras-quien-diga-que-no-a-la-nueva-financiacion-es-porque-no-usa-el-tren.html][Oriol Junqueras: “Quien diga que no a la nueva financiación es porque no usa el tren”]]
+- [[https://elpais.com/espana/2026-01-26/ultima-hora-del-accidente-de-tren-en-cordoba-y-del-choque-de-rodalies-en-barcelona-en-directo.html][Última hora del accidente de tren en Córdoba y de las incidencias en Rodalies, en directo | Una fisura en una vía del AVE en Tarragona obliga a limitar a 80 kilómetros por hora la velocidad]]
 - [[https://elpais.com/espana/2026-01-26/algunas-certezas-tecnicas-y-muchas-incognitas-aun-en-torno-al-descarrilamiento-del-iryo.html][Algunas certezas técnicas y muchas incógnitas en torno al descarrilamiento del Iryo]]
 - [[https://elpais.com/espana/2026-01-26/los-investigadores-analizan-el-sistema-de-seguridad-lzb-para-hallar-el-punto-exacto-del-descarrilamiento-del-tren.html][Los investigadores analizan el sistema de seguridad LZB para hallar el punto exacto del descarrilamiento del tren]]
 *** El Mundo
 - [[https://www.elmundo.es/economia/empresas/2026/01/26/69768987fc6c830b298b45b1.html][Puente y Adif difieren con la fecha de la prueba clave a la vía: el ministro aseguró que fue en noviembre pero el informe oficial dice que se hizo en septiembre]]
 - [[https://www.elmundo.es/espana/2026/01/26/69773270fdddff3d558b457a.html][Feijóo acusa a Puente de "decir medias verdades" sobre la vía del accidente: "El mantenimiento es absolutamente insuficiente"]]
-- [[https://www.elmundo.es/cronica/2026/01/26/6973d2ade85ece11378b45a6.html][El precedente mediático de la juez Cristina Pastor: la 'novata' puntual que investigará Adamuz ya tuvo que lidiar con Juana Rivas]]
 - [[https://www.elmundo.es/madrid/2026/01/25/6975def8e85ece781a8b4581.html][Isabel Díaz Ayuso: "Óscar Puente debe dimitir. La España desastrada la provocan la corrupción y la falta de inversión de Sánchez"]]
-- [[https://www.elmundo.es/espana/2026/01/26/697556a6e85ecedb058b457c.html][La frase que hace descarrilar a un país: "Hasta que un día pase algo"]]
+- [[https://www.elmundo.es/cronica/2026/01/26/6973d2ade85ece11378b45a6.html][El precedente mediático de la juez Cristina Pastor: la 'novata' puntual que investigará Adamuz ya tuvo que lidiar con Juana Rivas]]
+- [[https://www.elmundo.es/cataluna/2026/01/26/6977026fe4d4d819188b4584.html][Sexto día de parón y caos en Rodalies: Puente no descarta que sea un "ciberataque" a Adif]]
 *** La Vanguardia
 - [[https://www.lavanguardia.com/vida/20260126/11449291/rodalies-catalunya-ultima-hora-servicio-trenes-funcionamiento-lineas-crisis-en-directo.html][Nueva mañana de caos en Rodalies: el servicio se reanuda con retrasos tras sufrir dos parones totales]]
 - [[https://www.lavanguardia.com/fotos/20260126/11449407/rodalies-vez-parada-colapsa-movilidad-area-barcelona.html][Rodalies, otra vez parada, colapsa la movilidad en el área de Barcelona.]]
@@ -61,18 +61,30 @@
 - [[https://www.washingtonpost.com/world/2026/01/24/myanmar-election-china-junta/][Myanmar’s military choreographs an election, with Beijing’s help]]
 ** 🇫🇷 Francia
 *** Le Monde
-- [[https://www.lemonde.fr/international/article/2026/01/26/apres-la-mort-d-alex-pretti-a-minneapolis-la-politique-d-immigration-de-donald-trump-plus-contestee-que-jamais_6664098_3210.html][Après la mort d’Alex Pretti à Minneapolis, la stratégie de la tension de Donald Trump en question]]
 - [[https://www.lemonde.fr/international/article/2026/01/26/mai-sato-rapporteure-de-l-onu-sur-l-iran-il-pourrait-y-avoir-des-dizaines-de-milliers-de-victimes_6664108_3210.html][Mai Sato, rapporteuse de l’ONU sur l’Iran : « Il pourrait y avoir des dizaines de milliers de victimes »]]
+- [[https://www.lemonde.fr/international/article/2026/01/26/apres-la-mort-d-alex-pretti-a-minneapolis-la-politique-d-immigration-de-donald-trump-plus-contestee-que-jamais_6664098_3210.html][Après la mort d’Alex Pretti à Minneapolis, la stratégie de la tension de Donald Trump en question]]
 - [[https://www.lemonde.fr/economie/article/2026/01/26/daniel-kretinsky-lance-une-opa-sur-fnac-darty_6664116_3234.html][Le milliardaire tchèque Daniel Kretinsky lance une OPA sur Fnac Darty]]
 - [[https://www.lemonde.fr/idees/article/2026/01/26/l-urgence-serait-a-preparer-nos-esprits-a-des-temps-difficiles-le-budget-2026-fait-exactement-l-inverse_6664105_3232.html][« L’urgence serait à préparer nos esprits à des temps difficiles. Le budget 2026 fait exactement l’inverse »]]
 - [[https://www.lemonde.fr/campus/article/2026/01/26/laura-26-ans-chanteuse-lyrique-entre-1-700-et-3-000-euros-c-est-vraiment-un-metier-ou-on-est-dans-les-extremes-tout-le-temps_6664110_4401467.html][Laura, 26 ans, chanteuse lyrique, entre 1 700 et 3 000 euros : « C’est vraiment un métier où on est dans les extrêmes tout le temps »]]
+*** Le Figaro
+- [[https://www.lefigaro.fr/secteur/high-tech/ia-bruxelles-ouvre-une-enquete-sur-grok-apres-le-scandale-des-deshabillages-virtuels-sur-le-reseau-social-x-20260126][IA : Bruxelles ouvre une enquête sur Grok après le scandale des déshabillages virtuels sur le réseau social X]]
+- [[https://www.lefigaro.fr/secteur/high-tech/en-europe-l-interdiction-des-reseaux-sociaux-aux-mineurs-fait-son-chemin-parmi-les-etats-membres-20260126][En Europe, l’interdiction des réseaux sociaux aux mineurs fait son chemin parmi les États membres]]
+- [[https://www.lefigaro.fr/secteur/high-tech/comment-fonctionnerait-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-examinee-lundi-a-l-assemblee-nationale-20260124][Comment fonctionnerait l’interdiction des réseaux sociaux aux moins de 15 ans, examinée lundi à l’Assemblée nationale?]]
+- [[https://www.lefigaro.fr/actualite-france/une-vie-sans-tiktok-instagram-ou-snapchat-ce-que-les-ados-pensent-de-l-interdiction-des-reseaux-sociaux-20251224][Une vie sans TikTok, Instagram ou Snapchat ? Ce que les ados pensent de l’interdiction des réseaux sociaux]]
+- [[https://www.lefigaro.fr/secteur/high-tech/menaces-d-etre-interdits-aux-ados-les-reseaux-sociaux-se-bousculent-pour-muscler-leurs-options-de-controle-parental-20260114][Menacés d’être interdits aux ados, les réseaux sociaux se bousculent pour muscler leurs options de contrôle parental]]
 ** 🇬🇧 Reino Unido
 *** BBC News
 - [[https://www.bbc.com/news/articles/cvg50vv1ezko?at_medium=RSS&at_campaign=rss]['This is horrifying' - Minneapolis residents reel from second deadly shooting]]
-- [[https://www.bbc.com/news/articles/c1klrmz90yjo?at_medium=RSS&at_campaign=rss][At least seven dead and 800,000 without power as major winter storm hits US]]
 - [[https://www.bbc.com/news/articles/c801mj1n04lo?at_medium=RSS&at_campaign=rss][Israel to reopen Gaza crossing after search for last dead hostage's body ends]]
 - [[https://www.bbc.com/news/articles/c8d0l778dero?at_medium=RSS&at_campaign=rss][Tearful goodbyes as Japan returns pandas to China amid worsening ties]]
 - [[https://www.bbc.com/news/articles/c20zdj8n7vgo?at_medium=RSS&at_campaign=rss][Uganda's military chief denies army assaulted Bobi Wine's wife]]
+- [[https://www.bbc.com/news/articles/cwy1vpqpy23o?at_medium=RSS&at_campaign=rss][Eighteen dead after Philippines ferry with 300 passengers sinks]]
+*** The Guardian
+- [[https://www.theguardian.com/world/2026/jan/23/guinea-bissau-hepatitis-b-vaccine-study][‘It’s the sovereignty of the country’: Guinea-Bissau says US vaccine study suspended]]
+- [[https://www.theguardian.com/global-development/2026/jan/22/actionaid-rethink-child-sponsorship-decolonise-funding][ActionAid to rethink child sponsorship as part of plan to ‘decolonise’ its work]]
+- [[https://www.theguardian.com/us-news/2026/jan/20/us-diplomats-urged-to-remind-african-leaders-of-us-generosity-despite-usaid-closing][Head of US Africa bureau urges staff to highlight US ‘generosity’ despite aid cuts]]
+- [[https://www.theguardian.com/global-development/2026/jan/19/brazen-political-influence-rich-laid-bare-wealth-billionaires-inequality-poverty-instability-oxfam][‘Brazen’ political influence of rich laid bare as wealth of billionaires reaches $18.3tn, says Oxfam]]
+- [[https://www.theguardian.com/world/2026/jan/18/ugandas-president-calls-opponents-terrorists-in-victory-speech][Uganda’s president calls opponents 'terrorists' in victory speech]]
 ** 🇮🇹 Italia
 *** Corriere della Sera
 - [[https://www.corriere.it/dataroom-milena-gabanelli/codice-strada-ecco-cosa-cambia-perche-non-ridurra-numero-vittime/a9ec82f6-0fb3-11ef-a8f0-a1f7c0d711f2-va.shtml][Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime]]
@@ -87,6 +99,12 @@
 - [[https://www.spiegel.de/international/europe/former-austrian-chancellor-sebastian-kurz-an-alliance-of-the-illiberal-right-with-tech-a-ca32e983-6ef8-49c0-8ccf-f34d74f0ade8#ref=rss][Former Austrian Chancellor Sebastian Kurz: An Alliance of the Illiberal Right with Tech?]]
 - [[https://www.spiegel.de/international/europe/fast-fashion-exploitation-how-the-clothes-hanger-wars-escalated-in-italy-a-a9a0d238-03ab-484d-b7a7-b90567646ac7#ref=rss][Fast Fashion Exploitation: How the Clothes-Hanger Wars Escalated in Italy]]
 - [[https://www.spiegel.de/international/zeitgeist/the-public-uprising-bernhard-poerksens-critique-of-der-spiegels-debate-culture-a-fb086101-400e-4326-9ee3-b8b6f6356b80#ref=rss][The Public Uprising: Bernhard Poerksen's Critique of DER SPIEGEL's Debate Culture]]
+*** Deutsche Welle
+- [[https://www.dw.com/en/media-freedom-in-the-spotlight-as-kuciak-murder-case-reopens/a-75623291?maca=en-rss-en-world-4025-rdf][Media freedom in the spotlight as Kuciak murder case reopens]]
+- [[https://www.dw.com/en/deadly-indonesian-landslide-leaves-dozens-missing/a-75657596?maca=en-rss-en-world-4025-rdf][Deadly Indonesian landslide leaves dozens missing]]
+- [[https://www.dw.com/en/venezuela-releases-over-100-political-prisoners-ngo/a-75654650?maca=en-rss-en-world-4025-rdf][Venezuela releases over 100 political prisoners — NGO]]
+- [[https://www.dw.com/en/philippines-several-killed-many-missing-after-ferry-sinks/a-75654647?maca=en-rss-en-world-4025-rdf][Philippines: Several killed, many missing after ferry sinks]]
+- [[https://www.dw.com/en/minneapolis-protests-clampdown-killings-by-federal-agents/a-75654166?maca=en-rss-en-world-4025-rdf][Minneapolis protests clampdown, killings by federal agents]]
 
 #+HTML: <div class="footer-hub">
 #+HTML:   <p><strong>Autor:</strong> El Mapa y El Código | <a href="mailto:mcasrom@gmail.com" style="color:var(--primary);">mcasrom@gmail.com</a></p>
