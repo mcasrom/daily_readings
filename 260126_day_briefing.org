@@ -1,50 +1,28 @@
-#+TITLE: Daily Briefing - 2026-01-26
-#+OPTIONS: html-scripts:nil html-postamble:nil toc:nil num:nil
-#+HTML_HEAD: <link rel="icon" type="image/png" href="favicon.png">
-#+HTML_HEAD: <meta property="og:title" content="Daily Briefing - Intelligence Hub">
-#+HTML_HEAD: <meta property="og:description" content="Análisis geopolítico y titulares globales actualizados.">
+#+TITLE: Daily Briefing 2026-01-26
 #+HTML_HEAD: <meta property="og:image" content="https://mcasrom.github.io/daily_readings/preview.jpg">
 #+HTML_HEAD: <meta property="og:url" content="https://mcasrom.github.io/daily_readings/index.html">
-#+HTML_HEAD: <meta property="og:type" content="website">
-#+HTML_HEAD: <meta name="twitter:card" content="summary_large_image">
 #+HTML_HEAD: <style>
-#+HTML_HEAD: :root { --bg:#05070a; --surface:#0f141d; --primary:#00f2ff; --secondary:#7000ff; --text:#e2e8f0; --gold:#ffd700; --muted:#64748b; }
-#+HTML_HEAD: body { font-family:Inter,-apple-system,sans-serif;background:var(--bg);color:var(--text);max-width:900px;margin:auto;padding:25px;line-height:1.8; }
-#+HTML_HEAD: h1,h2,h3 { color:var(--primary);text-transform:uppercase;letter-spacing:1px;text-align:center; }
-#+HTML_HEAD: .nav-menu { display:flex;justify-content:center;gap:30px;margin-bottom:40px;border-bottom:2px solid var(--surface);padding-bottom:20px; }
-#+HTML_HEAD: .nav-menu a { color:var(--text);text-decoration:none;font-weight:bold;font-size:.9em; }
-#+HTML_HEAD: .nav-menu a:hover { color:var(--primary);text-shadow:0 0 8px var(--primary); }
-#+HTML_HEAD: .timestamp { text-align:center;color:var(--muted);font-size:.8em;margin-bottom:10px; }
-#+HTML_HEAD: .telemetry { text-align:center;color:var(--gold);font-family:monospace;font-size:.9em;background:var(--surface);padding:10px;border-radius:4px;border-left:3px solid var(--gold);margin-bottom:30px; }
-#+HTML_HEAD: .quote-box { text-align:center;font-style:italic;color:var(--primary);margin:25px 0;padding:15px;border-top:1px solid var(--surface);border-bottom:1px solid var(--surface);font-size:1.15em; }
-#+HTML_HEAD: ul { list-style:none;padding:0; }
-#+HTML_HEAD: li { background:var(--surface);margin-bottom:12px;padding:15px;border-radius:8px;border:1px solid #1e293b; }
-#+HTML_HEAD: li:hover { border-color:var(--primary);transform:translateX(5px); }
-#+HTML_HEAD: li a { color:var(--text);text-decoration:none;display:block;font-weight:500; }
-#+HTML_HEAD: .briefing-item { background:var(--surface);border:1px solid var(--primary);border-radius:10px;margin:15px 0;padding:20px;text-align:center; }
-#+HTML_HEAD: .briefing-item a { color:var(--primary);text-decoration:none;font-weight:bold;font-size:1.1em; }
-#+HTML_HEAD: .cta-blog { background:linear-gradient(135deg,#0f141d,#05070a);border:2px solid var(--primary);padding:30px;border-radius:15px;text-align:center;margin-top:50px; }
-#+HTML_HEAD: .footer-hub { margin-top:80px;text-align:center;border-top:1px solid var(--surface);padding-top:30px;color:var(--muted);font-size:.85em; }
+#+HTML_HEAD: body { background:#05070a; color:#e2e8f0; font-family:sans-serif; max-width:900px; margin:auto; padding:25px; }
+#+HTML_HEAD: h1,h2,h3 { color:#00f2ff; text-align:center; }
+#+HTML_HEAD: li { margin:8px 0; }
+#+HTML_HEAD: .cta { border:2px solid #00f2ff; padding:25px; border-radius:12px; margin-top:40px; text-align:center; }
 #+HTML_HEAD: </style>
-
-#+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«La geografía no cambia, pero el código que la gobierna se escribe cada día».</div>
-#+HTML: <div class='telemetry'>🌡 37.6°C | ⚖ Load: 0.00 | 🌐 Ping: 9.36ms</div>
-
-* 🗞 Titulares
+#+HTML: <p style="text-align:center;"><a href="index.html">Inicio</a> | <a href="about.html">Sobre mí</a> | <a href="contact.html">Contacto</a></p>
+#+HTML: <p style='text-align:center;'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</p>
+* Titulares
 ** 🇪🇸 España
 *** El País
-- [[https://elpais.com/economia/2026-01-26/el-pp-anuncia-que-votara-en-contra-del-decreto-que-incluye-la-revalorizacion-de-las-pensiones.html][El PP anuncia que votará en contra del decreto que incluye la revalorización de las pensiones]]
-- [[https://elpais.com/economia/2026-01-26/el-gobierno-ofrece-incentivos-en-el-impuesto-de-sociedades-para-atraer-a-la-patronal-al-acuerdo-del-salario-minimo.html][El Gobierno ofrece incentivos en el impuesto de sociedades para atraer a la patronal al acuerdo del salario mínimo]]
+- [[https://elpais.com/espana/2026-01-26/el-presidente-de-la-investigacion-de-adamuz-todo-parece-evidenciar-que-la-causa-principal-de-la-tragedia-ha-sido-la-rotura-de-una-soldadura.html][El presidente de la investigación de Adamuz: “Todo parece evidenciar que la causa principal de la tragedia ha sido la rotura de una soldadura”]]
+- [[https://elpais.com/espana/2026-01-26/algunas-certezas-tecnicas-y-muchas-incognitas-aun-en-torno-al-descarrilamiento-del-iryo.html][Algunas certezas técnicas y muchas incógnitas en torno al descarrilamiento del Iryo]]
 - [[https://elpais.com/espana/catalunya/2026-01-26/una-incidencia-en-el-centro-de-control-de-adif-vuelve-a-dejar-cataluna-sin-rodalies.html][Caos en el restablecimiento del servicio de Rodalies en Cataluña: dos parones totales en menos de dos horas]]
 - [[https://elpais.com/espana/catalunya/2026-01-26/todos-los-semaforos-quedaron-en-rojo-la-caida-del-sistema-o-el-ciberataque-que-ha-vuelto-a-interrumpir-rodalies.html][“Todos los semáforos quedaron en rojo”: la caída del sistema o el ciberataque que ha vuelto a interrumpir Rodalies]]
 - [[https://elpais.com/espana/2026-01-26/ultima-hora-del-accidente-de-tren-en-cordoba-y-del-choque-de-rodalies-en-barcelona-en-directo.html][Última hora del accidente de tren en Córdoba y de las incidencias en Rodalies, en directo | El Gobierno catalán exige dimisiones en Adif y Renfe por el caos de Rodalies]]
 *** El Mundo
+- [[https://www.elmundo.es/economia/2026/01/26/697779a5e9cf4afe378b459b.html][El presidente de la investigación ya sólo señala una hipótesis: "Todo parece evidenciar que la causa principal, el origen, ha sido la rotura, no tanto del carril, como de una soldadura"]]
 - [[https://www.elmundo.es/economia/2026/01/26/697753bfe85ecedb058b459e.html][Una rotura en una vía del AVE entre Barcelona y Madrid obliga a reducir la velocidad a 80 kilómetros y suma nuevos retrasos]]
 - [[https://www.elmundo.es/economia/2026/01/26/6977519ae9cf4a90538b4571.html][Puente dice ahora que "se equivocó" al dar datos falsos sobre la soldadura clave en el accidente de Adamuz y que la auscultación se realizó dos meses antes de lo que anunció]]
-- [[https://www.elmundo.es/espana/2026/01/26/69773270fdddff3d558b457a.html][Sánchez comparecerá en el Congreso el 11 de febrero por el accidente de Adamuz, pero rechaza hacerlo en el Senado como exigía el PP]]
+- [[https://www.elmundo.es/cronica/2026/01/26/6973bfaee85ece2c468b4590.html][Hatfield, el escándalo que mató a Robert, Steve, Leslie y Peter y cambió para siempre los trenes en el Reino Unido]]
 - [[https://www.elmundo.es/madrid/2026/01/25/6975def8e85ece781a8b4581.html][Isabel Díaz Ayuso: "Óscar Puente debe dimitir. La España desastrada la provocan la corrupción y la falta de inversión de Sánchez"]]
-- [[https://www.elmundo.es/economia/2026/01/26/69776ba9e4d4d8905f8b458d.html][Bruselas confía en que España realice una investigación "muy, muy minuciosa" del accidente de Adamuz y ofrece su ayuda: "Estamos preparados si se nos solicita"]]
 *** La Vanguardia
 - [[https://www.lavanguardia.com/vida/20260126/11449291/rodalies-catalunya-ultima-hora-servicio-trenes-funcionamiento-lineas-crisis-en-directo.html][Jornada de caos en Rodalies: el servicio se reanuda con retrasos e incidencias tras sufrir dos parones]]
 - [[https://www.lavanguardia.com/local/barcelones-nord/20260126/11449413/peor-quienes-informando-ninguna-informacion.html][Ambiente en Badalona: “Lo peor es que quienes están informando no disponen de ninguna información”]]
@@ -52,25 +30,25 @@
 - [[https://www.lavanguardia.com/fotos/20260126/11449407/rodalies-vez-parada-colapsa-movilidad-area-barcelona.html][Rodalies, otra vez parada, colapsa la movilidad en el área de Barcelona.]]
 - [[https://www.lavanguardia.com/vida/20260126/11449342/sigue-caos-rodalies-fallos-informaticos-centro-control-adif-obligan-cortar-circulacion-dos-ocasiones.html][Puente apunta a un ciberataque como una hipótesis de la caída del servicio en Rodalies]]
 *** El Diario de Cantabria
+- [[https://eldiariocantabria.publico.es/articulo/laboral/despido-trabajador-aguayo-provoca-protesta/20260126155954187722.html][El despido de un trabajador en la central de Aguayo provoca una concentración de protesta en varios centros de trabajo de la cadena]]
 - [[https://eldiariocantabria.publico.es/articulo/santander/golpea-cabeza-hombre-defensa-extensible-santander-niega-rotundamente-realizar-prueba-alcoholemia/20260126135814187721.html][Golpea en la cabeza a un hombre con una defensa extensible en Santander]]
 - [[https://eldiariocantabria.publico.es/articulo/cantabria/bathco-bm-torrelavega-renueva-alex-rubino-2027/20260126134432187719.html][El Bathco BM Torrelavega renueva a Álex Rubiño hasta 2027]]
 - [[https://eldiariocantabria.publico.es/articulo/cantabria/ministerio-cultura-licita-417000-E-mantenimiento-museo-altamira/20260126132447187717.html][El Ministerio de Cultura licita por casi 417.000 euros el mantenimiento del Museo de Altamira]]
 - [[https://eldiariocantabria.publico.es/articulo/cantabria/alertan-salvaje-reestructuracion-correos-que-afectara-540-carteros-cantabria-amenaza-servicio-postal-publico/20260126130936187715.html][Alertan de la “salvaje” reestructuración de Correos que afectará a 540 carteros en Cantabria y amenaza el servicio postal público]]
-- [[https://eldiariocantabria.publico.es/articulo/politica/reinosa-puede-ser-abandonada-suerte/20260126125418187714.html]["Reinosa no puede ser abandonada a su suerte como pretende el PP"]]
 ** 🇺🇸 Estados Unidos
 *** The Washington Post
+- [[https://www.washingtonpost.com/world/2026/01/26/israel-gaza-hostage-return/][Israel confirms remains of last hostage, Rani Gvili, returned from Gaza]]
 - [[https://www.washingtonpost.com/world/2026/01/26/germany-trump-nato-greenland/][After 80-year bond, Germans find breaking up with the U.S. is hard to do]]
 - [[https://www.washingtonpost.com/world/2026/01/11/china-cosmetic-surgery-boom/][Amid botched procedures, China is cracking down on cosmetic surgery]]
 - [[https://www.washingtonpost.com/world/2026/01/26/islamic-state-isis-syria-iraq-threat/][Iraqi spy chief warns of reemerging threat from ISIS as its ranks swell]]
 - [[https://www.washingtonpost.com/world/2026/01/26/trump-new-world-order-board-of-peace/][Looking for signs of Trump’s new world order after Davos]]
-- [[https://www.washingtonpost.com/world/2026/01/25/trump-british-troops-afghanistan-charles/][Trump, in retreat, praises U.K. troops after royal family expresses hurt]]
 ** 🇫🇷 Francia
 *** Le Monde
 - [[https://www.lemonde.fr/international/article/2026/01/26/la-chine-accuse-son-plus-haut-general-d-avoir-cherche-a-saper-le-pouvoir-de-xi-jinping_6664144_3210.html][La Chine accuse son plus haut général d’avoir cherché à saper le pouvoir de Xi Jinping]]
-- [[https://www.lemonde.fr/international/article/2026/01/26/mai-sato-rapporteure-de-l-onu-sur-l-iran-il-pourrait-y-avoir-des-dizaines-de-milliers-de-victimes_6664108_3210.html][Mai Sato, rapporteuse de l’ONU sur l’Iran : « Il pourrait y avoir des dizaines de milliers de victimes »]]
+- [[https://www.lemonde.fr/international/live/2026/01/26/en-direct-minneapolis-posez-vos-questions-a-notre-journaliste-apres-la-mort-d-alex-pretti-dans-le-minnesota_6664172_3210.html][EN DIRECT, Minneapolis : posez vos questions à notre journaliste après la mort d’Alex Pretti dans le Minnesota]]
 - [[https://www.lemonde.fr/international/article/2026/01/26/gaza-l-armee-israelienne-annonce-avoir-identifie-le-corps-de-ran-gvili-dernier-otage-qui-restait-dans-l-enclave_6664168_3210.html][Gaza : l’armée israélienne annonce avoir identifié le corps de Ran Gvili, dernier otage qui restait dans l’enclave]]
 - [[https://www.lemonde.fr/politique/article/2026/01/26/peter-thiel-a-l-academie-des-sciences-morales-et-politiques-pour-parler-de-l-antechrist-devant-un-groupe-de-travail-sur-la-democratie_6664141_823448.html][Peter Thiel à l’Académie des sciences morales et politiques pour parler de l’Antéchrist devant un groupe de travail sur la démocratie]]
-- [[https://www.lemonde.fr/idees/article/2026/01/26/immigration-la-dangereuse-strategie-de-la-tension-de-donald-trump_6664143_3232.html][Immigration : la dangereuse stratégie de la tension de Donald Trump]]
+- [[https://www.lemonde.fr/economie/article/2026/01/26/orange-coupe-definitivement-l-adsl-et-le-telephone-de-763-communes-dont-lyon-et-ajaccio_6664151_3234.html][Orange coupe définitivement l’ADSL et le téléphone de 763 communes, dont le 6ᵉ arrondissement de Lyon et Ajaccio]]
 *** Le Figaro
 - [[https://www.lefigaro.fr/international/israel-affirme-avoir-identifie-le-corps-de-ran-gvili-dernier-otage-a-gaza-20260126][Israël affirme avoir identifié le corps de Ran Gvili, dernier otage à Gaza]]
 - [[https://www.lefigaro.fr/international/chaque-matin-j-espere-que-les-blocs-ont-ete-retires-a-gaza-l-armee-israelienne-repousse-la-ligne-jaune-malgre-la-treve-20260123][«Chaque matin, j’espère que les blocs ont été retirés» : à Gaza, l’armée israélienne repousse la «ligne jaune» malgré la trêve]]
@@ -79,11 +57,11 @@
 - [[https://www.lefigaro.fr/societes/fnac-darty-au-defi-de-vivre-avec-l-e-commercant-chinois-jd-com-a-son-capital-20251126][Fnac Darty au défi de vivre avec l’e-commerçant chinois JD.com à son capital]]
 ** 🇬🇧 Reino Unido
 *** BBC News
+- [[https://www.bbc.com/news/articles/c5ydvz7nz4mo?at_medium=RSS&at_campaign=rss][Israel says it has retrieved remains of final Gaza hostage]]
 - [[https://www.bbc.com/news/articles/cvg50vv1ezko?at_medium=RSS&at_campaign=rss]['This is horrifying' - Minneapolis residents reel from second deadly shooting]]
 - [[https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss][France debates under-15s social media ban endorsed by Macron]]
 - [[https://www.bbc.com/news/articles/cp80419gggro?at_medium=RSS&at_campaign=rss][Gunmen storm Mexico football pitch and kill at least 11 people]]
-- [[https://www.bbc.com/news/articles/clye99wg0y8o?at_medium=RSS&at_campaign=rss][EU investigates Elon Musk's X over Grok AI sexual deepfakes]]
-- [[https://www.bbc.com/news/articles/cddgqqd0peno?at_medium=RSS&at_campaign=rss][Private jet carrying eight people crashes in Maine]]
+- [[https://www.bbc.com/news/articles/ckgy049ypd5o?at_medium=RSS&at_campaign=rss][Spain slashes speed limit on popular train route after fault found]]
 *** The Guardian
 - [[https://www.theguardian.com/world/2026/jan/26/crocodile-warnings-floods-devastate-southern-africa][Crocodile warnings as floods devastate southern Africa]]
 - [[https://www.theguardian.com/world/2026/jan/23/guinea-bissau-hepatitis-b-vaccine-study][‘It’s the sovereignty of the country’: Guinea-Bissau says US vaccine study suspended]]
@@ -106,12 +84,11 @@
 - [[https://www.spiegel.de/international/zeitgeist/the-public-uprising-bernhard-poerksens-critique-of-der-spiegels-debate-culture-a-fb086101-400e-4326-9ee3-b8b6f6356b80#ref=rss][The Public Uprising: Bernhard Poerksen's Critique of DER SPIEGEL's Debate Culture]]
 *** Deutsche Welle
 - [[https://www.dw.com/en/terror-in-the-trees-why-extremists-take-cover-in-nigeria-s-forests/a-75661454?maca=en-rss-en-world-4025-rdf][Terror in the trees: Why extremists take cover in Nigeria's forests]]
-- [[https://www.dw.com/en/vietnam-bets-big-on-to-lam-s-power-and-growth/a-75664156?maca=en-rss-en-world-4025-rdf][Vietnam bets big on To Lam's power and growth]]
+- [[https://www.dw.com/en/vietnam-bets-big-on-to-lam-s-power-and-growth-strategy/a-75664156?maca=en-rss-en-world-4025-rdf][Vietnam bets big on To Lam's power and growth strategy]]
 - [[https://www.dw.com/en/eu-opens-probe-into-musk-s-grok-chatbot/a-75663255?maca=en-rss-en-world-4025-rdf][EU opens probe into Musk's Grok chatbot]]
 - [[https://www.dw.com/en/eu-agrees-on-complete-ban-of-russian-gas-imports-by-2027/a-75660043?maca=en-rss-en-world-4025-rdf][EU agrees on complete ban of Russian gas imports by 2027]]
 - [[https://www.dw.com/en/media-freedom-in-the-spotlight-as-kuciak-murder-case-reopens/a-75623291?maca=en-rss-en-world-4025-rdf][Media freedom in the spotlight as Kuciak murder case reopens]]
-
-* 🧠 Think Tanks
+* Think Tanks
 - [[https://www.realinstitutoelcano.org][Real Instituto Elcano]] (🇪🇸 España)
 - [[https://www.ifri.org][IFRI]] (🇫🇷 Francia)
 - [[https://www.chathamhouse.org][Chatham House]] (🇬🇧 Reino Unido)
@@ -119,7 +96,5 @@
 - [[https://www.swp-berlin.org][SWP]] (🇩🇪 Alemania)
 - [[https://www.rand.org][RAND Corporation]] (🇺🇸 Estados Unidos)
 
-#+HTML: <div class="footer-hub">
-#+HTML: <p><strong>Autor:</strong> El Mapa y El Código | <a href="mailto:mcasrom@gmail.com" style="color:var(--primary);">mcasrom@gmail.com</a></p>
-#+HTML: <p>© 2026 Inteligencia Geopolítica | 🚀 Operado desde DietPi OS</p>
-#+HTML: </div>
+#+HTML: <hr>
+#+HTML: <p style="text-align:center;">El Mapa y El Código · <a href="mailto:mcasrom@gmail.com">mcasrom@gmail.com</a></p>
