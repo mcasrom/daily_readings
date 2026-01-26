@@ -1,6 +1,12 @@
 #+TITLE: Daily Briefing - 2026-01-26
 #+OPTIONS: toc:nil num:nil
 #+HTML_HEAD: <link rel="icon" type="image/png" href="favicon.png">
+#+HTML_HEAD: <meta property="og:title" content="Daily Briefing - Intelligence Hub">
+#+HTML_HEAD: <meta property="og:description" content="Análisis geopolítico y titulares globales actualizados.">
+#+HTML_HEAD: <meta property="og:image" content="https://mcasrom.github.io/daily_readings/preview.jpg">
+#+HTML_HEAD: <meta property="og:url" content="https://mcasrom.github.io/daily_readings/index.html">
+#+HTML_HEAD: <meta property="og:type" content="website">
+#+HTML_HEAD: <meta name="twitter:card" content="summary_large_image">
 #+HTML_HEAD: <style>
 #+HTML_HEAD:   :root { --bg: #05070a; --surface: #0f141d; --primary: #00f2ff; --secondary: #7000ff; --text: #e2e8f0; --gold: #ffd700; --muted: #64748b; }
 #+HTML_HEAD:   body { font-family: 'Inter', -apple-system, sans-serif; background: var(--bg); color: var(--text); max-width: 900px; margin: auto; padding: 25px; line-height: 1.8; }
@@ -21,8 +27,8 @@
 #+HTML_HEAD:   .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«La geopolítica es el arte de mirar el mapa para entender el poder».</div>
-#+HTML: <div class='telemetry'>🌡 37.0°C | ⚖ Load: 0.04296875 | 🌐 Ping: 9.44ms</div>
+#+HTML: <div class='quote-box'>«La geografía no cambia, pero el código que la gobierna se escribe cada día».</div>
+#+HTML: <div class='telemetry'>🌡 37.0°C | ⚖ Load: 0.0615234375 | 🌐 Ping: 9.83ms</div>
 
 * 🧠 Think Tanks
 - [[https://www.realinstitutoelcano.org][Real Instituto Elcano]] (🇪🇸 España)
@@ -42,7 +48,7 @@
 - [[https://elpais.com/espana/2026-01-26/los-investigadores-analizan-el-sistema-de-seguridad-lzb-para-hallar-el-punto-exacto-del-descarrilamiento-del-tren.html][Los investigadores analizan el sistema de seguridad LZB para hallar el punto exacto del descarrilamiento del tren]]
 *** El Mundo
 - [[https://www.elmundo.es/economia/empresas/2026/01/26/69768987fc6c830b298b45b1.html][Puente y Adif difieren con la fecha de la prueba clave a la vía: el ministro aseguró que fue en noviembre pero el informe oficial dice que se hizo en septiembre]]
-- [[https://www.elmundo.es/espana/2026/01/26/69773270fdddff3d558b457a.html][Feijóo acusa a Puente de "decir medias verdades" sobre la vía del accidente: "El mantenimiento es absolutamente insuficiente"]]
+- [[https://www.elmundo.es/espana/2026/01/26/69773270fdddff3d558b457a.html][Feijóo acusa a Puente de "decir medias verdades" sobre la vía del accidente y Ayuso pide la dimisión de Sánchez: "Es el responsable, por eso no va a Huelva"]]
 - [[https://www.elmundo.es/madrid/2026/01/25/6975def8e85ece781a8b4581.html][Isabel Díaz Ayuso: "Óscar Puente debe dimitir. La España desastrada la provocan la corrupción y la falta de inversión de Sánchez"]]
 - [[https://www.elmundo.es/cronica/2026/01/26/6973d2ade85ece11378b45a6.html][El precedente mediático de la juez Cristina Pastor: la 'novata' puntual que investigará Adamuz ya tuvo que lidiar con Juana Rivas]]
 - [[https://www.elmundo.es/cataluna/2026/01/26/6977026fe4d4d819188b4584.html][Sexto día de parón y caos en Rodalies: Puente no descarta que sea un "ciberataque" a Adif]]
@@ -54,18 +60,18 @@
 - [[https://www.lavanguardia.com/vida/20260126/11449371/usuarios-tren-catalunya-saldran-manifestarse-caos-ferroviario-7-f.html][Los usuarios del tren de Catalunya saldrán a manifestarse por el caos ferroviario el 7-F]]
 ** 🇺🇸 Estados Unidos
 *** The Washington Post
+- [[https://www.washingtonpost.com/world/2026/01/26/germany-trump-nato-greenland/][After 80-year bond, Germans find breaking up with the U.S. is hard to do]]
 - [[https://www.washingtonpost.com/world/2026/01/11/china-cosmetic-surgery-boom/][Amid botched procedures, China is cracking down on cosmetic surgery]]
 - [[https://www.washingtonpost.com/world/2026/01/26/islamic-state-isis-syria-iraq-threat/][Iraqi spy chief warns of reemerging threat from ISIS as its ranks swell]]
 - [[https://www.washingtonpost.com/world/2026/01/26/trump-new-world-order-board-of-peace/][Looking for signs of Trump’s new world order after Davos]]
 - [[https://www.washingtonpost.com/world/2026/01/25/trump-british-troops-afghanistan-charles/][Trump, in retreat, praises U.K. troops after royal family expresses hurt]]
-- [[https://www.washingtonpost.com/world/2026/01/24/myanmar-election-china-junta/][Myanmar’s military choreographs an election, with Beijing’s help]]
 ** 🇫🇷 Francia
 *** Le Monde
-- [[https://www.lemonde.fr/international/article/2026/01/26/mai-sato-rapporteure-de-l-onu-sur-l-iran-il-pourrait-y-avoir-des-dizaines-de-milliers-de-victimes_6664108_3210.html][Mai Sato, rapporteuse de l’ONU sur l’Iran : « Il pourrait y avoir des dizaines de milliers de victimes »]]
 - [[https://www.lemonde.fr/international/article/2026/01/26/apres-la-mort-d-alex-pretti-a-minneapolis-la-politique-d-immigration-de-donald-trump-plus-contestee-que-jamais_6664098_3210.html][Après la mort d’Alex Pretti à Minneapolis, la stratégie de la tension de Donald Trump en question]]
-- [[https://www.lemonde.fr/economie/article/2026/01/26/daniel-kretinsky-lance-une-opa-sur-fnac-darty_6664116_3234.html][Le milliardaire tchèque Daniel Kretinsky lance une OPA sur Fnac Darty]]
+- [[https://www.lemonde.fr/international/article/2026/01/26/mai-sato-rapporteure-de-l-onu-sur-l-iran-il-pourrait-y-avoir-des-dizaines-de-milliers-de-victimes_6664108_3210.html][Mai Sato, rapporteuse de l’ONU sur l’Iran : « Il pourrait y avoir des dizaines de milliers de victimes »]]
+- [[https://www.lemonde.fr/economie/article/2026/01/26/en-volant-au-secours-de-fnac-darty-l-une-des-marques-les-plus-connues-des-francais-daniel-kretinsky-emportera-t-il-tous-les-c-urs_6664145_3234.html][« En volant au secours de Fnac Darty, l’une des marques les plus connues des Français, Daniel Kretinsky emportera-t-il tous les cœurs ? »]]
 - [[https://www.lemonde.fr/idees/article/2026/01/26/l-urgence-serait-a-preparer-nos-esprits-a-des-temps-difficiles-le-budget-2026-fait-exactement-l-inverse_6664105_3232.html][« L’urgence serait à préparer nos esprits à des temps difficiles. Le budget 2026 fait exactement l’inverse »]]
-- [[https://www.lemonde.fr/campus/article/2026/01/26/laura-26-ans-chanteuse-lyrique-entre-1-700-et-3-000-euros-c-est-vraiment-un-metier-ou-on-est-dans-les-extremes-tout-le-temps_6664110_4401467.html][Laura, 26 ans, chanteuse lyrique, entre 1 700 et 3 000 euros : « C’est vraiment un métier où on est dans les extrêmes tout le temps »]]
+- [[https://www.lemonde.fr/sport/article/2026/01/26/alexis-pinturault-non-retenu-dans-l-equipe-de-france-de-ski-pour-les-jeux-olympiques-2026_6664142_3242.html][Alexis Pinturault non retenu dans l’équipe de France de ski pour les Jeux olympiques 2026]]
 *** Le Figaro
 - [[https://www.lefigaro.fr/secteur/high-tech/ia-bruxelles-ouvre-une-enquete-sur-grok-apres-le-scandale-des-deshabillages-virtuels-sur-le-reseau-social-x-20260126][IA : Bruxelles ouvre une enquête sur Grok après le scandale des déshabillages virtuels sur le réseau social X]]
 - [[https://www.lefigaro.fr/secteur/high-tech/en-europe-l-interdiction-des-reseaux-sociaux-aux-mineurs-fait-son-chemin-parmi-les-etats-membres-20260126][En Europe, l’interdiction des réseaux sociaux aux mineurs fait son chemin parmi les États membres]]

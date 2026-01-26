@@ -1,6 +1,12 @@
 #+TITLE: Contacto
 #+OPTIONS: toc:nil num:nil
 #+HTML_HEAD: <link rel="icon" type="image/png" href="favicon.png">
+#+HTML_HEAD: <meta property="og:title" content="Daily Briefing - Intelligence Hub">
+#+HTML_HEAD: <meta property="og:description" content="Análisis geopolítico y titulares globales actualizados.">
+#+HTML_HEAD: <meta property="og:image" content="https://mcasrom.github.io/daily_readings/preview.jpg">
+#+HTML_HEAD: <meta property="og:url" content="https://mcasrom.github.io/daily_readings/index.html">
+#+HTML_HEAD: <meta property="og:type" content="website">
+#+HTML_HEAD: <meta name="twitter:card" content="summary_large_image">
 #+HTML_HEAD: <style>
 #+HTML_HEAD:   :root { --bg: #05070a; --surface: #0f141d; --primary: #00f2ff; --secondary: #7000ff; --text: #e2e8f0; --gold: #ffd700; --muted: #64748b; }
 #+HTML_HEAD:   body { font-family: 'Inter', -apple-system, sans-serif; background: var(--bg); color: var(--text); max-width: 900px; margin: auto; padding: 25px; line-height: 1.8; }
@@ -30,6 +36,7 @@ Blog: [[https://elmapayelcodigo.netlify.app/][El Mapa y El Código]]
 #+HTML: <p>Autor: mcasrom@gmail.com | DietPi Intel Hub</p>
 #+HTML: <p>Copyright 2026 IE - El Mapa y El Código</p>
 #+HTML: </div>
+
 
 
 
