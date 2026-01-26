@@ -27,8 +27,23 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-* Sobre mí
-Contenido personalizable.
+* Sobre El Mapa y El Código
+Este hub es un sistema de agregación de inteligencia geopolítica diseñado para DietPi.
+
+#+HTML: <div class="footer">
+#+HTML: <p>Autor: mcasrom@gmail.com | DietPi Intel Hub</p>
+#+HTML: <p>Copyright 2026 IE - El Mapa y El Código</p>
+#+HTML: </div>
+
+
+
+
+
+
+
+
+
+
 
 
 
