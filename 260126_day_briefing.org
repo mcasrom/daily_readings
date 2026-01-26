@@ -8,29 +8,28 @@
 #+HTML_HEAD: <meta property="og:type" content="website">
 #+HTML_HEAD: <meta name="twitter:card" content="summary_large_image">
 #+HTML_HEAD: <style>
-#+HTML_HEAD:    :root { --bg: #05070a; --surface: #0f141d; --primary: #00f2ff; --secondary: #7000ff; --text: #e2e8f0; --gold: #ffd700; --muted: #64748b; }
-#+HTML_HEAD:    body { font-family: 'Inter', -apple-system, sans-serif; background: var(--bg); color: var(--text); max-width: 900px; margin: auto; padding: 25px; line-height: 1.8; }
-#+HTML_HEAD:    h1, h2, h3 { color: var(--primary); text-transform: uppercase; letter-spacing: 1px; text-align: center; }
-#+HTML_HEAD:    .nav-menu { display: flex; justify-content: center; gap: 30px; margin-bottom: 40px; border-bottom: 2px solid var(--surface); padding-bottom: 20px; }
-#+HTML_HEAD:    .nav-menu a { color: var(--text); text-decoration: none; font-weight: bold; transition: 0.3s; font-size: 0.9em; }
-#+HTML_HEAD:    .nav-menu a:hover { color: var(--primary); text-shadow: 0 0 8px var(--primary); }
-#+HTML_HEAD:    .timestamp { text-align: center; color: var(--muted); font-size: 0.8em; margin-bottom: 10px; }
-#+HTML_HEAD:    .telemetry { text-align: center; color: var(--gold); font-family: monospace; font-size: 0.9em; background: var(--surface); padding: 10px; border-radius: 4px; border-left: 3px solid var(--gold); margin-bottom: 30px; }
-#+HTML_HEAD:    .quote-box { text-align: center; font-style: italic; color: var(--primary); margin: 25px 0; padding: 15px; border-top: 1px solid var(--surface); border-bottom: 1px solid var(--surface); font-size: 1.15em; }
-#+HTML_HEAD:    ul { list-style: none; padding: 0; }
-#+HTML_HEAD:    li { background: var(--surface); margin-bottom: 12px; padding: 15px; border-radius: 8px; border: 1px solid #1e293b; transition: all 0.2s ease; }
-#+HTML_HEAD:    li:hover { border-color: var(--primary); transform: translateX(5px); }
-#+HTML_HEAD:    li a { color: var(--text); text-decoration: none; display: block; font-weight: 500; }
-#+HTML_HEAD:    .briefing-item { background: var(--surface); border: 1px solid var(--primary); border-radius: 10px; margin: 15px 0; padding: 20px; text-align: center; }
-#+HTML_HEAD:    .briefing-item a { color: var(--primary); text-decoration: none; font-weight: bold; font-size: 1.1em; }
-#+HTML_HEAD:    .cta-blog { background: linear-gradient(135deg, #0f141d 0%, #05070a 100%); border: 2px solid var(--primary); padding: 30px; border-radius: 15px; text-align: center; margin-top: 50px; }
-#+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
+#+HTML_HEAD: :root { --bg:#05070a; --surface:#0f141d; --primary:#00f2ff; --secondary:#7000ff; --text:#e2e8f0; --gold:#ffd700; --muted:#64748b; }
+#+HTML_HEAD: body { font-family:Inter,-apple-system,sans-serif;background:var(--bg);color:var(--text);max-width:900px;margin:auto;padding:25px;line-height:1.8; }
+#+HTML_HEAD: h1,h2,h3 { color:var(--primary);text-transform:uppercase;letter-spacing:1px;text-align:center; }
+#+HTML_HEAD: .nav-menu { display:flex;justify-content:center;gap:30px;margin-bottom:40px;border-bottom:2px solid var(--surface);padding-bottom:20px; }
+#+HTML_HEAD: .nav-menu a { color:var(--text);text-decoration:none;font-weight:bold;font-size:.9em; }
+#+HTML_HEAD: .nav-menu a:hover { color:var(--primary);text-shadow:0 0 8px var(--primary); }
+#+HTML_HEAD: .timestamp { text-align:center;color:var(--muted);font-size:.8em;margin-bottom:10px; }
+#+HTML_HEAD: .telemetry { text-align:center;color:var(--gold);font-family:monospace;font-size:.9em;background:var(--surface);padding:10px;border-radius:4px;border-left:3px solid var(--gold);margin-bottom:30px; }
+#+HTML_HEAD: .quote-box { text-align:center;font-style:italic;color:var(--primary);margin:25px 0;padding:15px;border-top:1px solid var(--surface);border-bottom:1px solid var(--surface);font-size:1.15em; }
+#+HTML_HEAD: ul { list-style:none;padding:0; }
+#+HTML_HEAD: li { background:var(--surface);margin-bottom:12px;padding:15px;border-radius:8px;border:1px solid #1e293b; }
+#+HTML_HEAD: li:hover { border-color:var(--primary);transform:translateX(5px); }
+#+HTML_HEAD: li a { color:var(--text);text-decoration:none;display:block;font-weight:500; }
+#+HTML_HEAD: .briefing-item { background:var(--surface);border:1px solid var(--primary);border-radius:10px;margin:15px 0;padding:20px;text-align:center; }
+#+HTML_HEAD: .briefing-item a { color:var(--primary);text-decoration:none;font-weight:bold;font-size:1.1em; }
+#+HTML_HEAD: .cta-blog { background:linear-gradient(135deg,#0f141d,#05070a);border:2px solid var(--primary);padding:30px;border-radius:15px;text-align:center;margin-top:50px; }
+#+HTML_HEAD: .footer-hub { margin-top:80px;text-align:center;border-top:1px solid var(--surface);padding-top:30px;color:var(--muted);font-size:.85em; }
 #+HTML_HEAD: </style>
-#+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«La geopolítica es el arte de mirar el mapa para entender el poder».</div>
-#+HTML: <div class='telemetry'>🌡 37.6°C | ⚖ Load: 0.0 | 🌐 Ping: 9.65ms</div>
 
-#+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
+#+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
+#+HTML: <div class='quote-box'>«La geografía no cambia, pero el código que la gobierna se escribe cada día».</div>
+#+HTML: <div class='telemetry'>🌡 37.6°C | ⚖ Load: 0.00 | 🌐 Ping: 9.36ms</div>
 
 * 🗞 Titulares
 ** 🇪🇸 España
@@ -39,7 +38,7 @@
 - [[https://elpais.com/economia/2026-01-26/el-gobierno-ofrece-incentivos-en-el-impuesto-de-sociedades-para-atraer-a-la-patronal-al-acuerdo-del-salario-minimo.html][El Gobierno ofrece incentivos en el impuesto de sociedades para atraer a la patronal al acuerdo del salario mínimo]]
 - [[https://elpais.com/espana/catalunya/2026-01-26/una-incidencia-en-el-centro-de-control-de-adif-vuelve-a-dejar-cataluna-sin-rodalies.html][Caos en el restablecimiento del servicio de Rodalies en Cataluña: dos parones totales en menos de dos horas]]
 - [[https://elpais.com/espana/catalunya/2026-01-26/todos-los-semaforos-quedaron-en-rojo-la-caida-del-sistema-o-el-ciberataque-que-ha-vuelto-a-interrumpir-rodalies.html][“Todos los semáforos quedaron en rojo”: la caída del sistema o el ciberataque que ha vuelto a interrumpir Rodalies]]
-- [[https://elpais.com/espana/2026-01-26/ultima-hora-del-accidente-de-tren-en-cordoba-y-del-choque-de-rodalies-en-barcelona-en-directo.html][Última hora del accidente de tren en Córdoba y de las incidencias en Rodalies, en directo | Dos líneas de Rodalies suspendidas tras una mañana de caos en el servicio]]
+- [[https://elpais.com/espana/2026-01-26/ultima-hora-del-accidente-de-tren-en-cordoba-y-del-choque-de-rodalies-en-barcelona-en-directo.html][Última hora del accidente de tren en Córdoba y de las incidencias en Rodalies, en directo | El Gobierno catalán exige dimisiones en Adif y Renfe por el caos de Rodalies]]
 *** El Mundo
 - [[https://www.elmundo.es/economia/2026/01/26/697753bfe85ecedb058b459e.html][Una rotura en una vía del AVE entre Barcelona y Madrid obliga a reducir la velocidad a 80 kilómetros y suma nuevos retrasos]]
 - [[https://www.elmundo.es/economia/2026/01/26/6977519ae9cf4a90538b4571.html][Puente dice ahora que "se equivocó" al dar datos falsos sobre la soldadura clave en el accidente de Adamuz y que la auscultación se realizó dos meses antes de lo que anunció]]
@@ -67,8 +66,8 @@
 - [[https://www.washingtonpost.com/world/2026/01/25/trump-british-troops-afghanistan-charles/][Trump, in retreat, praises U.K. troops after royal family expresses hurt]]
 ** 🇫🇷 Francia
 *** Le Monde
-- [[https://www.lemonde.fr/international/article/2026/01/26/mai-sato-rapporteure-de-l-onu-sur-l-iran-il-pourrait-y-avoir-des-dizaines-de-milliers-de-victimes_6664108_3210.html][Mai Sato, rapporteuse de l’ONU sur l’Iran : « Il pourrait y avoir des dizaines de milliers de victimes »]]
 - [[https://www.lemonde.fr/international/article/2026/01/26/la-chine-accuse-son-plus-haut-general-d-avoir-cherche-a-saper-le-pouvoir-de-xi-jinping_6664144_3210.html][La Chine accuse son plus haut général d’avoir cherché à saper le pouvoir de Xi Jinping]]
+- [[https://www.lemonde.fr/international/article/2026/01/26/mai-sato-rapporteure-de-l-onu-sur-l-iran-il-pourrait-y-avoir-des-dizaines-de-milliers-de-victimes_6664108_3210.html][Mai Sato, rapporteuse de l’ONU sur l’Iran : « Il pourrait y avoir des dizaines de milliers de victimes »]]
 - [[https://www.lemonde.fr/international/article/2026/01/26/gaza-l-armee-israelienne-annonce-avoir-identifie-le-corps-de-ran-gvili-dernier-otage-qui-restait-dans-l-enclave_6664168_3210.html][Gaza : l’armée israélienne annonce avoir identifié le corps de Ran Gvili, dernier otage qui restait dans l’enclave]]
 - [[https://www.lemonde.fr/politique/article/2026/01/26/peter-thiel-a-l-academie-des-sciences-morales-et-politiques-pour-parler-de-l-antechrist-devant-un-groupe-de-travail-sur-la-democratie_6664141_823448.html][Peter Thiel à l’Académie des sciences morales et politiques pour parler de l’Antéchrist devant un groupe de travail sur la démocratie]]
 - [[https://www.lemonde.fr/idees/article/2026/01/26/immigration-la-dangereuse-strategie-de-la-tension-de-donald-trump_6664143_3232.html][Immigration : la dangereuse stratégie de la tension de Donald Trump]]
@@ -106,11 +105,11 @@
 - [[https://www.spiegel.de/international/europe/fast-fashion-exploitation-how-the-clothes-hanger-wars-escalated-in-italy-a-a9a0d238-03ab-484d-b7a7-b90567646ac7#ref=rss][Fast Fashion Exploitation: How the Clothes-Hanger Wars Escalated in Italy]]
 - [[https://www.spiegel.de/international/zeitgeist/the-public-uprising-bernhard-poerksens-critique-of-der-spiegels-debate-culture-a-fb086101-400e-4326-9ee3-b8b6f6356b80#ref=rss][The Public Uprising: Bernhard Poerksen's Critique of DER SPIEGEL's Debate Culture]]
 *** Deutsche Welle
+- [[https://www.dw.com/en/terror-in-the-trees-why-extremists-take-cover-in-nigeria-s-forests/a-75661454?maca=en-rss-en-world-4025-rdf][Terror in the trees: Why extremists take cover in Nigeria's forests]]
+- [[https://www.dw.com/en/vietnam-bets-big-on-to-lam-s-power-and-growth/a-75664156?maca=en-rss-en-world-4025-rdf][Vietnam bets big on To Lam's power and growth]]
 - [[https://www.dw.com/en/eu-opens-probe-into-musk-s-grok-chatbot/a-75663255?maca=en-rss-en-world-4025-rdf][EU opens probe into Musk's Grok chatbot]]
 - [[https://www.dw.com/en/eu-agrees-on-complete-ban-of-russian-gas-imports-by-2027/a-75660043?maca=en-rss-en-world-4025-rdf][EU agrees on complete ban of Russian gas imports by 2027]]
 - [[https://www.dw.com/en/media-freedom-in-the-spotlight-as-kuciak-murder-case-reopens/a-75623291?maca=en-rss-en-world-4025-rdf][Media freedom in the spotlight as Kuciak murder case reopens]]
-- [[https://www.dw.com/en/deadly-indonesian-landslide-leaves-dozens-missing/a-75657596?maca=en-rss-en-world-4025-rdf][Deadly Indonesian landslide leaves dozens missing]]
-- [[https://www.dw.com/en/venezuela-releases-over-100-political-prisoners-ngo/a-75654650?maca=en-rss-en-world-4025-rdf][Venezuela releases over 100 political prisoners — NGO]]
 
 * 🧠 Think Tanks
 - [[https://www.realinstitutoelcano.org][Real Instituto Elcano]] (🇪🇸 España)
@@ -121,6 +120,6 @@
 - [[https://www.rand.org][RAND Corporation]] (🇺🇸 Estados Unidos)
 
 #+HTML: <div class="footer-hub">
-#+HTML:    <p><strong>Autor:</strong> El Mapa y El Código | <a href="mailto:mcasrom@gmail.com" style="color:var(--primary);">mcasrom@gmail.com</a></p>
-#+HTML:    <p>© 2026 Inteligencia Geopolítica | 🚀 Operado desde DietPi OS</p>
+#+HTML: <p><strong>Autor:</strong> El Mapa y El Código | <a href="mailto:mcasrom@gmail.com" style="color:var(--primary);">mcasrom@gmail.com</a></p>
+#+HTML: <p>© 2026 Inteligencia Geopolítica | 🚀 Operado desde DietPi OS</p>
 #+HTML: </div>
