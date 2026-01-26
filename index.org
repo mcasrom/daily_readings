@@ -17,7 +17,6 @@
 #+HTML_HEAD:    .timestamp { text-align: center; color: var(--muted); font-size: 0.8em; margin-bottom: 10px; }
 #+HTML_HEAD:    .telemetry { text-align: center; color: var(--gold); font-family: monospace; font-size: 0.9em; background: var(--surface); padding: 10px; border-radius: 4px; border-left: 3px solid var(--gold); margin-bottom: 30px; }
 #+HTML_HEAD:    .quote-box { text-align: center; font-style: italic; color: var(--primary); margin: 25px 0; padding: 15px; border-top: 1px solid var(--surface); border-bottom: 1px solid var(--surface); font-size: 1.15em; }
-#+HTML_HEAD:    .visit-counter { text-align: center; color: var(--gold); font-family: monospace; font-size: 0.95em; background: var(--surface); padding: 12px; border-radius: 6px; border: 1px solid var(--gold); margin: 20px auto; max-width: 400px; }
 #+HTML_HEAD:    ul { list-style: none; padding: 0; }
 #+HTML_HEAD:    li { background: var(--surface); margin-bottom: 12px; padding: 15px; border-radius: 8px; border: 1px solid #1e293b; transition: all 0.2s ease; }
 #+HTML_HEAD:    li:hover { border-color: var(--primary); transform: translateX(5px); }
@@ -28,13 +27,17 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«La geografía no cambia, pero el código que la gobierna se escribe cada día».</div>
-#+HTML: <div class='timestamp'>Sincronizado: 26-01-2026 16:33:42</div>
-#+HTML: <div class='visit-counter'>📊 <strong>VISITAS TOTALES:</strong> 5</div>
+#+HTML: <div class='quote-box'>«Quien controla el flujo de los datos, controla la narrativa del territorio».</div>
+#+HTML: <div class='timestamp'>Sincronizado: 26-01-2026 16:35:56</div>
+#+HTML: <div style='text-align:center; margin:20px 0; color:var(--gold);'>Total de ediciones: 1</div>
 * 🗂 Archivo de Noticias
-#+HTML: <div class='briefing-item'><a href='260126_day_briefing.html'>⚡ Edición: 260126</a></div>
+#+HTML: <div class='briefing-item'><a href='260126_day_briefing.html'>⚡ 260126</a></div>
 
-#+HTML: <div class="cta-blog"><h3>🗺📜 El Mapa y El Código</h3><p>Por el mismo autor de "El Mapa y El Código", explorando la intersección entre la tecnología y el poder global.</p><a href="https://elmapayelcodigo.netlify.app/" style="color:var(--primary); font-weight:bold; text-decoration:none;">Visitar Blog →</a></div>
+#+HTML: <div class="cta-blog">
+#+HTML:   <h3>🗺📜 El Mapa y El Código</h3>
+#+HTML:   <p>Explorando la intersección entre tecnología, poder y geopolítica.</p>
+#+HTML:   <a href="https://elmapayelcodigo.netlify.app/" style="color:var(--primary); font-weight:bold; text-decoration:none;">Visitar Blog →</a>
+#+HTML: </div>
 #+HTML: <div class="footer-hub">
 #+HTML:    <p><strong>Autor:</strong> El Mapa y El Código | <a href="mailto:mcasrom@gmail.com" style="color:var(--primary);">mcasrom@gmail.com</a></p>
 #+HTML:    <p>© 2026 Inteligencia Geopolítica | 🚀 Operado desde DietPi OS</p>
