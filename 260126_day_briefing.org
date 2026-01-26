@@ -27,12 +27,12 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«La geopolítica es el arte de mirar el mapa para entender el poder».</div>
-#+HTML: <div class='telemetry'>🌡 39.2°C | ⚖ Load: 0.193359375 | 🌐 Ping: 9.41ms</div>
+#+HTML: <div class='quote-box'>«La geografía no cambia, pero el código que la gobierna se escribe cada día».</div>
+#+HTML: <div class='telemetry'>🌡 37.6°C | ⚖ Load: 0.013671875 | 🌐 Ping: 75.0ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'>
-#+HTML: <img src='https://counter.dev/track?id=mcasrom-daily' alt='v' style='display:none;'>
-#+HTML: <p style='color:var(--primary); font-family:monospace;'>[ SISTEMA DE INTELIGENCIA ACTIVO ]</p>
+#+HTML: <img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmcasrom.github.io%2Fdaily_readings&count_bg=%2300f2ff&title_bg=%230f141d&icon=world.svg&icon_color=%23e2e8f0&title=LECTORES&edge_flat=false' alt='Visitas' />
+#+HTML: <p style='color:var(--primary); font-family:monospace; font-size:0.8em; margin-top:10px;'>[ SISTEMA DE INTELIGENCIA ACTIVO ]</p>
 #+HTML: </div>
 
 * 🧠 Think Tanks
@@ -78,17 +78,17 @@
 - [[https://www.washingtonpost.com/world/2026/01/25/trump-british-troops-afghanistan-charles/][Trump, in retreat, praises U.K. troops after royal family expresses hurt]]
 ** 🇫🇷 Francia
 *** Le Monde
-- [[https://www.lemonde.fr/international/article/2026/01/26/la-chine-accuse-son-plus-haut-general-d-avoir-cherche-a-saper-le-pouvoir-de-xi-jinping_6664144_3210.html][La Chine accuse son plus haut général d’avoir cherché à saper le pouvoir de Xi Jinping]]
 - [[https://www.lemonde.fr/international/article/2026/01/26/mai-sato-rapporteure-de-l-onu-sur-l-iran-il-pourrait-y-avoir-des-dizaines-de-milliers-de-victimes_6664108_3210.html][Mai Sato, rapporteuse de l’ONU sur l’Iran : « Il pourrait y avoir des dizaines de milliers de victimes »]]
+- [[https://www.lemonde.fr/international/article/2026/01/26/la-chine-accuse-son-plus-haut-general-d-avoir-cherche-a-saper-le-pouvoir-de-xi-jinping_6664144_3210.html][La Chine accuse son plus haut général d’avoir cherché à saper le pouvoir de Xi Jinping]]
 - [[https://www.lemonde.fr/idees/article/2026/01/26/immigration-la-dangereuse-strategie-de-la-tension-de-donald-trump_6664143_3232.html][Immigration : la dangereuse stratégie de la tension de Donald Trump]]
-- [[https://www.lemonde.fr/economie/article/2026/01/26/en-europe-ce-projet-colossal-qui-veut-faire-de-la-mer-du-nord-le-plus-gros-reservoir-d-energie-verte-du-monde_6664132_3234.html][En Europe, ce projet colossal qui veut faire de la mer du Nord « le plus gros réservoir d’énergie verte du monde »]]
+- [[https://www.lemonde.fr/societe/article/2026/01/26/une-proposition-de-loi-pour-lutter-contre-les-formes-renouvelees-d-antisemitisme-devant-l-assemblee-nationale_6664139_3224.html][Une proposition de loi pour lutter contre les « formes renouvelées » d’antisémitisme devant l’Assemblée nationale]]
 - [[https://www.lemonde.fr/m-le-mag/article/2026/01/26/au-proces-de-nuremberg-le-psy-des-nazis-hante-par-leur-normalite_6664107_4500055.html][Au procès de Nuremberg, le psy des nazis hanté par leur « normalité »]]
 *** Le Figaro
 - [[https://www.lefigaro.fr/conso/l-ultra-fast-fashion-en-baisse-les-cinemas-en-chute-libre-ce-que-les-depenses-des-francais-disent-de-leurs-habitudes-20260126][L’ultra fast fashion en baisse, les cinémas en chute libre... Ce que les dépenses des Français disent de leurs habitudes]]
 - [[https://www.lefigaro.fr/societes/comment-shein-a-sauve-sa-peau-et-repart-a-la-conquete-du-marche-francais-20260121][Comment Shein a sauvé sa peau et repart à la conquête du marché français]]
 - [[https://www.lefigaro.fr/culture/patrimoine/donald-trump-juge-qu-il-est-trop-tard-pour-arreter-la-construction-de-sa-salle-de-bal-a-la-maison-blanche-20260126][Donald Trump juge qu'il est « trop tard » pour arrêter la construction de sa salle de bal à la Maison Blanche]]
+- [[https://www.lefigaro.fr/conjoncture/jan-hatzius-de-goldman-sachs-il-y-a-des-raisons-de-s-inquieter-si-la-fed-devient-moins-independante-20260126][Jan Hatzius de Goldman Sachs: « Il y a des raisons de s’inquiéter si la Fed devient moins indépendante »]]
 - [[https://www.lefigaro.fr/musique/donald-trump-seche-le-super-bowl-et-son-horrible-programmation-artistique-20260126][Donald Trump sèche le Super Bowl et son « horrible » programmation artistique]]
-- [[https://www.lefigaro.fr/international/droits-de-douane-face-aux-menaces-de-trump-la-chine-affirme-que-son-accord-avec-le-canada-ne-vise-aucune-tierce-partie-20260126][Droits de douane : face aux menaces de Trump, la Chine affirme que son accord avec le Canada «ne vise aucune tierce partie»]]
 ** 🇬🇧 Reino Unido
 *** BBC News
 - [[https://www.bbc.com/news/articles/cvg50vv1ezko?at_medium=RSS&at_campaign=rss]['This is horrifying' - Minneapolis residents reel from second deadly shooting]]
