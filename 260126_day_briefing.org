@@ -2,19 +2,27 @@
 #+OPTIONS: toc:nil num:nil
 #+HTML_HEAD: <link rel="icon" type="image/png" href="favicon.png">
 #+HTML_HEAD: <style>
-#+HTML_HEAD:  body { font-family: sans-serif; background: #0d1117; color: #c9d1d9; max-width: 900px; margin: auto; padding: 20px; line-height: 1.6; }
-#+HTML_HEAD:  h1, h2, h3 { color: #58a6ff; text-align: center; }
-#+HTML_HEAD:  .nav-menu { display: flex; justify-content: center; gap: 20px; margin: 10px 0; border-bottom: 1px solid #30363d; padding-bottom: 15px; font-weight: bold; }
-#+HTML_HEAD:  .nav-menu a { color: #f0883e; text-decoration: none; }
-#+HTML_HEAD:  .timestamp { text-align: center; color: #8b949e; font-size: 0.85em; margin-bottom: 5px; }
-#+HTML_HEAD:  .telemetry { text-align: center; color: #58a6ff; font-family: monospace; font-size: 0.9em; margin-bottom: 20px; }
-#+HTML_HEAD:  .briefing-item { background: #161b22; border: 1px solid #30363d; border-radius: 8px; margin: 10px 0; padding: 15px; text-align: center; }
-#+HTML_HEAD:  .cta-blog { background: #1c2128; border: 2px solid #58a6ff; padding: 20px; border-radius: 12px; text-align: center; margin-top: 40px; }
-#+HTML_HEAD:  .footer-hub { margin-top: 50px; border-top: 1px solid #30363d; padding-top: 20px; text-align: center; font-size: 0.8em; color: #8b949e; line-height: 1.4; }
+#+HTML_HEAD:   :root { --bg: #0f172a; --card: #1e293b; --text: #f1f5f9; --accent: #38bdf8; --links: #fbbf24; --muted: #94a3b8; }
+#+HTML_HEAD:   body { font-family: 'Inter', system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); max-width: 850px; margin: auto; padding: 30px; line-height: 1.7; }
+#+HTML_HEAD:   h1, h2, h3 { color: var(--accent); text-align: center; letter-spacing: -0.025em; }
+#+HTML_HEAD:   .nav-menu { display: flex; justify-content: center; gap: 25px; margin-bottom: 30px; border-bottom: 1px solid #334155; padding-bottom: 20px; }
+#+HTML_HEAD:   .nav-menu a { color: var(--links); text-decoration: none; font-weight: 600; font-size: 1.1em; }
+#+HTML_HEAD:   .nav-menu a:hover { border-bottom: 2px solid var(--links); }
+#+HTML_HEAD:   .timestamp { text-align: center; color: var(--muted); font-size: 0.85em; margin-bottom: 8px; font-weight: 500; text-transform: uppercase; }
+#+HTML_HEAD:   .telemetry { text-align: center; color: var(--accent); font-family: 'JetBrains Mono', monospace; font-size: 0.95em; margin-bottom: 30px; background: #1e293b; padding: 8px; border-radius: 8px; border: 1px solid #334155; }
+#+HTML_HEAD:   ul { list-style: none; padding-left: 0; }
+#+HTML_HEAD:   li { background: var(--card); margin-bottom: 12px; padding: 14px; border-radius: 8px; border: 1px solid #334155; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); transition: 0.2s ease; }
+#+HTML_HEAD:   li:hover { border-color: var(--accent); transform: translateY(-2px); }
+#+HTML_HEAD:   li a { color: var(--text); text-decoration: none; display: block; }
+#+HTML_HEAD:   .briefing-item { background: var(--card); border: 1px solid var(--accent); border-radius: 10px; margin: 15px 0; padding: 20px; text-align: center; }
+#+HTML_HEAD:   .briefing-item a { color: var(--accent); text-decoration: none; font-weight: bold; font-size: 1.15em; }
+#+HTML_HEAD:   .cta-blog { background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 2px solid var(--accent); padding: 30px; border-radius: 15px; text-align: center; margin-top: 50px; }
+#+HTML_HEAD:   .footer-hub { margin-top: 60px; border-top: 1px solid #334155; padding-top: 25px; text-align: center; font-size: 0.9em; color: var(--muted); line-height: 1.6; }
+#+HTML_HEAD:   .footer-hub a { color: var(--muted); }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">Inicio</a><a href="about.html">Sobre mí</a><a href="contact.html">Contacto</a></div>
-#+HTML: <div class='timestamp'>Actualizado el: 26-01-2026 06:00:02</div>
-#+HTML: <div class='telemetry'>🌡 36.5°C | ⚖ Load: 0.0 | 🌐 Ping: 9.45ms</div>
+#+HTML: <div class='timestamp'>Actualizado el: 26-01-2026 09:56:23</div>
+#+HTML: <div class='telemetry'>🌡 38.1°C | ⚖ Load: 0.05126953125 | 🌐 Ping: 9.94ms</div>
 #+TOC: headlines 2
 
 * 🧠 Think Tanks
@@ -25,47 +33,47 @@
 - [[https://www.swp-berlin.org][SWP]] (🇩🇪 Alemania)
 - [[https://www.rand.org][RAND Corporation]] (🇺🇸 Estados Unidos)
 
-* 🗞️ Titulares
+* 🗞 Titulares
 ** 🇪🇸 España
 *** El País
-- [[https://elpais.com/us/migracion/2026-01-25/el-gobierno-de-trump-difunde-mentiras-para-justificar-la-muerte-de-alex-pretti-en-minneapolis.html][Los vídeos contradicen la versión del Gobierno de Trump sobre la muerte a tiros de un manifestante en Minneapolis]]
-- [[https://elpais.com/us/migracion/2026-01-25/la-muerte-a-tiros-de-un-manifestante-a-manos-de-la-policia-migratoria-de-trump-dispara-la-tension-en-minneapolis.html][La muerte a tiros de un manifestante a manos de la policía migratoria de Trump inflama la tensión en Minneapolis]]
-- [[https://elpais.com/videos/2026-01-25/la-secuencia-del-asesinato-de-alex-pretti-por-el-ice-en-minneapolis-desde-diferentes-angulos.html][La secuencia del asesinato de Alex Pretti por el ICE en Minneapolis, desde diferentes ángulos]]
-- [[https://elpais.com/us/migracion/2026-01-25/gregory-bovino-el-rostro-de-las-tacticas-mas-violentas-en-la-cruzada-de-trump-contra-la-inmigracion.html][Gregory Bovino, el rostro de las tácticas más violentas en la cruzada de Trump contra la inmigración]]
-- [[https://elpais.com/espana/2026-01-25/los-nueve-segundos-que-acabaron-con-45-vidas-reconstruccion-vagon-a-vagon-segun-los-testigos-y-la-investigacion.html][Los nueve segundos que acabaron con 45 vidas: reconstrucción vagón a vagón, según los testigos y la investigación]]
+- [[https://elpais.com/espana/catalunya/2026-01-26/una-incidencia-en-el-centro-de-control-de-adif-vuelve-a-dejar-cataluna-sin-rodalies.html][Caos en el restablecimiento del servicio de Rodalies en Cataluña: dos parones totales en menos de dos horas]]
+- [[https://elpais.com/espana/catalunya/2026-01-26/una-semana-aciaga-golpea-al-govern-y-complica-la-aprobacion-de-los-presupuestos-catalanes.html][Una semana aciaga golpea al Govern y complica la aprobación de los presupuestos catalanes]]
+- [[https://elpais.com/espana/catalunya/2026-01-26/oriol-junqueras-quien-diga-que-no-a-la-nueva-financiacion-es-porque-no-usa-el-tren.html][Oriol Junqueras: “Quien diga que no a la nueva financiación es porque no usa el tren”]]
+- [[https://elpais.com/espana/2026-01-26/algunas-certezas-tecnicas-y-muchas-incognitas-aun-en-torno-al-descarrilamiento-del-iryo.html][Algunas certezas técnicas y muchas incógnitas en torno al descarrilamiento del Iryo]]
+- [[https://elpais.com/espana/2026-01-26/los-investigadores-analizan-el-sistema-de-seguridad-lzb-para-hallar-el-punto-exacto-del-descarrilamiento-del-tren.html][Los investigadores analizan el sistema de seguridad LZB para hallar el punto exacto del descarrilamiento del tren]]
 *** El Mundo
-- [[https://www.elmundo.es/economia/empresas/2026/01/26/6975fb7de9cf4a567b8b456f.html][La banca vuelve a 'empaquetar' sus hipotecas 20 años después de la crisis 'subprime']]
+- [[https://www.elmundo.es/economia/empresas/2026/01/26/69768987fc6c830b298b45b1.html][Puente y Adif difieren con la fecha de la prueba clave a la vía: el ministro aseguró que fue en noviembre pero el informe oficial dice que se hizo en septiembre]]
 - [[https://www.elmundo.es/economia/2026/01/25/6970d0fee9cf4a312a8b456f.html][Las 27 crisis ferroviarias de Óscar Puente en el cuestionado Ministerio de Transportes: "Yo he venido a hacer, no a estar"]]
+- [[https://www.elmundo.es/cronica/2026/01/26/6973d2ade85ece11378b45a6.html][El precedente mediático de la juez Cristina Pastor: la 'novata' puntual que investigará Adamuz ya tuvo que lidiar con Juana Rivas]]
+- [[https://www.elmundo.es/madrid/2026/01/25/6975def8e85ece781a8b4581.html][Isabel Díaz Ayuso: "Óscar Puente debe dimitir. La España desastrada la provocan la corrupción y la falta de inversión de Sánchez"]]
 - [[https://www.elmundo.es/espana/2026/01/26/697556a6e85ecedb058b457c.html][La frase que hace descarrilar a un país: "Hasta que un día pase algo"]]
-- [[https://www.elmundo.es/madrid/2026/01/25/6975def8e85ece781a8b4581.html][Isabel Díaz Ayuso: "Óscar Puente debe dimitir. La España desastrada la provoca la corrupción y la falta de inversión de Sánchez"]]
-- [[https://www.elmundo.es/andalucia/2026/01/26/69764335fc6c83ee2f8b4589.html][Una decena de víctimas se persona en el juzgado que investiga el accidente ferroviario: "Voy a luchar porque a mi hijo lo asesinaron, lo mataron, no hay otras palabras"]]
 *** La Vanguardia
-- [[https://www.lavanguardia.com/vida/20260125/11449044/servicio-rodalies-restablecera-parcialmente-lunes.html][El servicio de Rodalies se restablece parcialmente este lunes y será gratis durante un mes]]
-- [[https://www.lavanguardia.com/local/catalunya/20260125/11448607/rodalies-seguira-paralizado-hasta-resolver-21-puntos-riesgo.html][El servicio de Rodalies seguirá paralizado hasta que se resuelvan 21 puntos de riesgo]]
-- [[https://www.lavanguardia.com/politica/20260125/11448459/alta-velocidad-mas-cara-mundo.html][La alta velocidad más cara del mundo]]
-- [[https://www.lavanguardia.com/politica/20260125/11448933/sanchez-blinda-puente-demandas-dimision-resalta-gestion-esta-dando-cara.html][Sánchez blinda a Puente de las demandas de dimisión]]
-- [[https://www.lavanguardia.com/politica/20260125/11448923/pp-pide-dimision-inmediata-puente-mentir-sobre-accidente-adamuz.html][El PP pide la dimisión inmediata de Puente por “mentir” sobre el accidente de Adamuz]]
+- [[https://www.lavanguardia.com/vida/20260126/11449291/rodalies-catalunya-ultima-hora-servicio-trenes-funcionamiento-lineas-crisis-en-directo.html][Nueva mañana de caos en Rodalies: el servicio se reanuda con retrasos tras sufrir dos parones totales]]
+- [[https://www.lavanguardia.com/vida/20260126/11449342/sigue-caos-rodalies-fallos-informaticos-centro-control-adif-obligan-cortar-circulacion-dos-ocasiones.html][Sigue el caos en Rodalies: fallos informáticos en el centro de control de Adif obligan cortar la circulación en dos ocasiones]]
+- [[https://www.lavanguardia.com/vida/20260125/11449044/servicio-rodalies-restablecera-parcialmente-lunes.html][Rodalies restablece las líneas con más usuarios este lunes y pasa a ser gratuito durante un mes]]
+- [[https://www.lavanguardia.com/vida/20260126/11449286/tren-iryo-descarrilo-romperse-soldadura-unia-carril-preexistente-nuevo.html][El tren Iryo descarriló al romperse la soldadura que unía el carril preexistente con el nuevo]]
+- [[https://www.lavanguardia.com/local/catalunya/20260126/11449051/claves-resolver-desastre-rodalies.html][Claves para resolver el desastre de Rodalies]]
 ** 🇺🇸 Estados Unidos
 *** The Washington Post
+- [[https://www.washingtonpost.com/world/2026/01/26/trump-new-world-order-board-of-peace/][Looking for signs of Trump’s new world order after Davos]]
 - [[https://www.washingtonpost.com/world/2026/01/25/trump-british-troops-afghanistan-charles/][Trump, in retreat, praises U.K. troops after royal family expresses hurt]]
 - [[https://www.washingtonpost.com/world/2026/01/24/myanmar-election-china-junta/][Myanmar’s military choreographs an election, with Beijing’s help]]
 - [[https://www.washingtonpost.com/world/2026/01/25/britain-smartphones-school-ban-children/][U.K. lawsuit seeks ban on smartphones in schools to protect children]]
 - [[https://www.washingtonpost.com/world/2026/01/25/india-pollution-winter-toxic-air/][How bad is Delhi’s air? Like smoking half a pack of cigarettes.]]
-- [[https://www.washingtonpost.com/world/2026/01/25/greenland-deal-trump-history-denmark-europe/][Trump tells one history of Greenland. Historians tell another.]]
 ** 🇫🇷 Francia
 *** Le Monde
-- [[https://www.lemonde.fr/international/article/2026/01/26/apres-la-mort-d-alex-pretti-a-minneapolis-la-politique-d-immigration-de-donald-trump-plus-contestee-que-jamais_6664098_3210.html][Après la mort d’Alex Pretti à Minneapolis, la politique d’immigration de Donald Trump plus contestée que jamais]]
-- [[https://www.lemonde.fr/politique/article/2026/01/26/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-l-histoire-d-un-bras-de-fer-puis-d-une-concorde-entre-l-executif-et-les-deputes-de-sa-majorite_6664094_823448.html][Interdiction des réseaux sociaux aux moins de 15 ans : l’histoire d’un bras de fer puis d’une concorde entre l’exécutif et les députés de sa majorité]]
-- [[https://www.lemonde.fr/societe/article/2026/01/26/au-proces-en-appel-de-l-assassinat-de-samuel-paty-l-association-de-malfaiteurs-terroriste-en-question_6664095_3224.html][Au procès en appel de l’assassinat de Samuel Paty, l’association de malfaiteurs terroriste en question]]
-- [[https://www.lemonde.fr/international/live/2026/01/25/en-direct-guerre-en-ukraine-un-accord-sur-les-garanties-de-securite-est-pret-a-etre-signe-avec-les-etats-unis-affirme-volodymyr-zelensky_6663004_3210.html][EN DIRECT, guerre en Ukraine : un accord sur les garanties de sécurité est prêt à être signé avec les Etats-Unis, affirme Volodymyr Zelensky]]
-- [[https://www.lemonde.fr/international/article/2026/01/26/israel-annonce-une-reouverture-limitee-du-poste-frontiere-de-rafah-entre-la-bande-de-gaza-et-l-egypte_6664088_3210.html][Israël annonce une « réouverture limitée » du poste-frontière de Rafah entre la bande de Gaza et l’Egypte]]
+- [[https://www.lemonde.fr/societe/article/2026/01/26/traversees-de-la-manche-la-defenseure-des-droits-critique-l-emploi-d-armes-pour-empecher-les-departs-de-migrants_6664112_3224.html][Traversées de la Manche : la Défenseure des droits critique l’emploi d’armes pour empêcher les départs de migrants]]
+- [[https://www.lemonde.fr/international/article/2026/01/26/apres-la-mort-d-alex-pretti-a-minneapolis-la-politique-d-immigration-de-donald-trump-plus-contestee-que-jamais_6664098_3210.html][Après la mort d’Alex Pretti à Minneapolis, la stratégie de la tension de Donald Trump en question]]
+- [[https://www.lemonde.fr/economie/article/2026/01/26/daniel-kretinsky-lance-une-opa-sur-fnac-darty_6664116_3234.html][Fnac Darty fait l’objet d’une OPA du milliardaire tchèque Daniel Kretinsky]]
+- [[https://www.lemonde.fr/idees/article/2026/01/26/la-communaute-internationale-doit-defendre-les-kurdes-de-syrie_6664106_3232.html][« La communauté internationale doit défendre les Kurdes de Syrie »]]
+- [[https://www.lemonde.fr/planete/article/2026/01/26/pollution-de-l-air-l-etat-attaque-en-justice-pour-manquement-apres-la-suppression-annoncee-des-zfe_6664104_3244.html][Pollution de l’air : l’Etat attaqué en justice pour « manquement » après la suppression annoncée des ZFE]]
 ** 🇬🇧 Reino Unido
 *** BBC News
-- [[https://www.bbc.com/news/videos/cp372pqq2rlo?at_medium=RSS&at_campaign=rss][Video shows moments around fatal shooting of Alex Pretti in Minneapolis]]
+- [[https://www.bbc.com/news/articles/cr571qg4m61o?at_medium=RSS&at_campaign=rss][Trump says administration 'reviewing everything' after shooting of Alex Pretti]]
+- [[https://www.bbc.com/news/articles/cvg50vv1ezko?at_medium=RSS&at_campaign=rss]['This is horrifying' - Minneapolis residents reel from second deadly shooting]]
 - [[https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss][Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?]]
+- [[https://www.bbc.com/news/articles/c1klrmz90yjo?at_medium=RSS&at_campaign=rss][At least seven dead and 800,000 without power as major winter storm hits US]]
 - [[https://www.bbc.com/news/articles/c20gg729y1yo?at_medium=RSS&at_campaign=rss][Russia using Interpol's wanted list to target critics abroad, leak reveals]]
-- [[https://www.bbc.com/news/articles/clymr3pz2kxo?at_medium=RSS&at_campaign=rss][Venezuela frees dozens of political prisoners, human rights group says]]
-- [[https://www.bbc.com/news/articles/cddgq9z4899o?at_medium=RSS&at_campaign=rss][People cling to treetops as 'worst floods in a generation' sweep Mozambique]]
 ** 🇮🇹 Italia
 *** Corriere della Sera
 - [[https://www.corriere.it/dataroom-milena-gabanelli/codice-strada-ecco-cosa-cambia-perche-non-ridurra-numero-vittime/a9ec82f6-0fb3-11ef-a8f0-a1f7c0d711f2-va.shtml][Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime]]
@@ -82,6 +90,6 @@
 - [[https://www.spiegel.de/international/zeitgeist/the-public-uprising-bernhard-poerksens-critique-of-der-spiegels-debate-culture-a-fb086101-400e-4326-9ee3-b8b6f6356b80#ref=rss][The Public Uprising: Bernhard Poerksen's Critique of DER SPIEGEL's Debate Culture]]
 
 #+HTML: <div class="footer-hub">
-#+HTML:   <p><strong>Autor:</strong> El Mapa y El Código | <a href="mailto:mcasrom@gmail.com" style="color:#8b949e;">mcasrom@gmail.com</a></p>
+#+HTML:   <p><strong>Autor:</strong> El Mapa y El Código | <a href="mailto:mcasrom@gmail.com">mcasrom@gmail.com</a></p>
 #+HTML:   <p>© 2026 Todos los derechos reservados | 🚀 DietPi Intel Hub</p>
 #+HTML: </div>

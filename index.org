@@ -2,30 +2,38 @@
 #+OPTIONS: toc:nil num:nil
 #+HTML_HEAD: <link rel="icon" type="image/png" href="favicon.png">
 #+HTML_HEAD: <style>
-#+HTML_HEAD:  body { font-family: sans-serif; background: #0d1117; color: #c9d1d9; max-width: 900px; margin: auto; padding: 20px; line-height: 1.6; }
-#+HTML_HEAD:  h1, h2, h3 { color: #58a6ff; text-align: center; }
-#+HTML_HEAD:  .nav-menu { display: flex; justify-content: center; gap: 20px; margin: 10px 0; border-bottom: 1px solid #30363d; padding-bottom: 15px; font-weight: bold; }
-#+HTML_HEAD:  .nav-menu a { color: #f0883e; text-decoration: none; }
-#+HTML_HEAD:  .timestamp { text-align: center; color: #8b949e; font-size: 0.85em; margin-bottom: 5px; }
-#+HTML_HEAD:  .telemetry { text-align: center; color: #58a6ff; font-family: monospace; font-size: 0.9em; margin-bottom: 20px; }
-#+HTML_HEAD:  .briefing-item { background: #161b22; border: 1px solid #30363d; border-radius: 8px; margin: 10px 0; padding: 15px; text-align: center; }
-#+HTML_HEAD:  .cta-blog { background: #1c2128; border: 2px solid #58a6ff; padding: 20px; border-radius: 12px; text-align: center; margin-top: 40px; }
-#+HTML_HEAD:  .footer-hub { margin-top: 50px; border-top: 1px solid #30363d; padding-top: 20px; text-align: center; font-size: 0.8em; color: #8b949e; line-height: 1.4; }
+#+HTML_HEAD:   :root { --bg: #0f172a; --card: #1e293b; --text: #f1f5f9; --accent: #38bdf8; --links: #fbbf24; --muted: #94a3b8; }
+#+HTML_HEAD:   body { font-family: 'Inter', system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); max-width: 850px; margin: auto; padding: 30px; line-height: 1.7; }
+#+HTML_HEAD:   h1, h2, h3 { color: var(--accent); text-align: center; letter-spacing: -0.025em; }
+#+HTML_HEAD:   .nav-menu { display: flex; justify-content: center; gap: 25px; margin-bottom: 30px; border-bottom: 1px solid #334155; padding-bottom: 20px; }
+#+HTML_HEAD:   .nav-menu a { color: var(--links); text-decoration: none; font-weight: 600; font-size: 1.1em; }
+#+HTML_HEAD:   .nav-menu a:hover { border-bottom: 2px solid var(--links); }
+#+HTML_HEAD:   .timestamp { text-align: center; color: var(--muted); font-size: 0.85em; margin-bottom: 8px; font-weight: 500; text-transform: uppercase; }
+#+HTML_HEAD:   .telemetry { text-align: center; color: var(--accent); font-family: 'JetBrains Mono', monospace; font-size: 0.95em; margin-bottom: 30px; background: #1e293b; padding: 8px; border-radius: 8px; border: 1px solid #334155; }
+#+HTML_HEAD:   ul { list-style: none; padding-left: 0; }
+#+HTML_HEAD:   li { background: var(--card); margin-bottom: 12px; padding: 14px; border-radius: 8px; border: 1px solid #334155; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); transition: 0.2s ease; }
+#+HTML_HEAD:   li:hover { border-color: var(--accent); transform: translateY(-2px); }
+#+HTML_HEAD:   li a { color: var(--text); text-decoration: none; display: block; }
+#+HTML_HEAD:   .briefing-item { background: var(--card); border: 1px solid var(--accent); border-radius: 10px; margin: 15px 0; padding: 20px; text-align: center; }
+#+HTML_HEAD:   .briefing-item a { color: var(--accent); text-decoration: none; font-weight: bold; font-size: 1.15em; }
+#+HTML_HEAD:   .cta-blog { background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border: 2px solid var(--accent); padding: 30px; border-radius: 15px; text-align: center; margin-top: 50px; }
+#+HTML_HEAD:   .footer-hub { margin-top: 60px; border-top: 1px solid #334155; padding-top: 25px; text-align: center; font-size: 0.9em; color: var(--muted); line-height: 1.6; }
+#+HTML_HEAD:   .footer-hub a { color: var(--muted); }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">Inicio</a><a href="about.html">Sobre mí</a><a href="contact.html">Contacto</a></div>
-#+HTML: <div class='timestamp'>Sincronizado: 26-01-2026 06:00:02</div>
-* 🗂️ Archivo de Noticias (Última Semana)
+#+HTML: <div class='timestamp'>Sincronizado: 26-01-2026 09:56:23</div>
+* 🗂 Archivo de Noticias (Última Semana)
 #+HTML: <div class='briefing-item'><a href='260126_day_briefing.html'>⚡ Edición: 260126</a></div>
 #+HTML: <div class='briefing-item'><a href='260125_day_briefing.html'>⚡ Edición: 260125</a></div>
 #+HTML: <div class='briefing-item'><a href='260124_day_briefing.html'>⚡ Edición: 260124</a></div>
 
-* 🗓️ Sumario Mensual
+* 🗓 Sumario Mensual
 ** January 2026
 - [[file:260126_day_briefing.html][Día 26]]
 - [[file:260125_day_briefing.html][Día 25]]
 - [[file:260124_day_briefing.html][Día 24]]
-#+HTML: <div class="cta-blog"><h3>🗺️📜 El Mapa y El Código</h3><p>Análisis geopolítico.</p><a href="https://elmapayelcodigo.netlify.app/" style="color:#58a6ff; font-weight:bold; text-decoration:none;">Visitar Blog →</a></div>
+#+HTML: <div class="cta-blog"><h3>🗺📜 El Mapa y El Código</h3><p>Análisis geopolítico.</p><a href="https://elmapayelcodigo.netlify.app/" style="color:#fbbf24; font-weight:bold; text-decoration:none;">Visitar Blog →</a></div>
 #+HTML: <div class="footer-hub">
-#+HTML:   <p><strong>Autor:</strong> El Mapa y El Código | <a href="mailto:mcasrom@gmail.com" style="color:#8b949e;">mcasrom@gmail.com</a></p>
+#+HTML:   <p><strong>Autor:</strong> El Mapa y El Código | <a href="mailto:mcasrom@gmail.com">mcasrom@gmail.com</a></p>
 #+HTML:   <p>© 2026 Todos los derechos reservados | 🚀 DietPi Intel Hub</p>
 #+HTML: </div>
