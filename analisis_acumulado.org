@@ -1,0 +1,41 @@
+#+TITLE: Inteligencia Acumulada: Resumen de 3 Días
+#+DATE: 2026-01-27 17:29
+
+Este análisis consolida los conceptos más repetidos en la prensa analizada recientemente.
+
+#+BEGIN_SRC plantuml :file nube_acumulada.png
+@startuml
+!pragma layout smetana
+skinparam backgroundcolor transparent
+skinparam usecase {
+  BackgroundColor #00f2ff
+  BorderColor #7000ff
+  FontSize 16
+}
+usecase "rodalies (11)" as u0 #FF4444
+usecase "trump (10)" as u1 #FF4444
+usecase "gaza (6)" as u2 #FF4444
+usecase "puente (5)" as u3 #FF4444
+usecase "minneapolis (5)" as u4 #FF4444
+usecase "rotura (4)" as u5
+usecase "caos (4)" as u6
+usecase "israel (4)" as u7
+usecase "gvili (4)" as u8
+usecase "africa (4)" as u9
+usecase "yacht (4)" as u10
+usecase "former (4)" as u11
+usecase "investigacion (3)" as u12
+usecase "soldadura (3)" as u13
+usecase "servicio (3)" as u14
+usecase "accidente (3)" as u15
+usecase "incidencias (3)" as u16
+usecase "adif (3)" as u17
+usecase "retrasos (3)" as u18
+usecase "sanchez (3)" as u19
+usecase "hasta (3)" as u20
+usecase "remains (3)" as u21
+usecase "hostage (3)" as u22
+usecase "larmee (3)" as u23
+usecase "direct (3)" as u24
+@enduml
+#+END_SRC

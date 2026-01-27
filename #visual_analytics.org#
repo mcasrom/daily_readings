@@ -1,0 +1,75 @@
+#+TITLE: Intelligence Visual Hub - Ventana 7 Días
+#+OPTIONS: toc:nil num:nil html-postamble:nil
+
+* [260127] Análisis de 260127_day_briefing.org
+#+BEGIN_SRC plantuml :file nube_day_0.png
+@startuml
+!pragma layout smetana
+skinparam backgroundcolor transparent
+skinparam usecase { BackgroundColor #00f2ff; BorderColor #7000ff }
+usecase "trump (7)" as u0_0 #FF4444
+usecase "rodalies (4)" as u0_1 #FF4444
+usecase "viento (3)" as u0_2
+usecase "minneapolis (3)" as u0_3
+usecase "paro (2)" as u0_4
+usecase "semana (2)" as u0_5
+usecase "puente (2)" as u0_6
+usecase "situacion (2)" as u0_7
+usecase "direct (2)" as u0_8
+usecase "inmigracion (2)" as u0_9
+usecase "africa (2)" as u0_10
+usecase "yacht (2)" as u0_11
+@enduml
+#+END_SRC
+
+#+RESULTS:
+[[file:nube_day_0.png]]
+
+* [260126] Análisis de 260126_day_briefing.org
+#+BEGIN_SRC plantuml :file nube_day_1.png
+@startuml
+!pragma layout smetana
+skinparam backgroundcolor transparent
+skinparam usecase { BackgroundColor #00f2ff; BorderColor #7000ff }
+usecase "rodalies (7)" as u1_0 #FF4444
+usecase "gaza (5)" as u1_1 #FF4444
+usecase "rotura (4)" as u1_2
+usecase "soldadura (3)" as u1_3
+usecase "caos (3)" as u1_4
+usecase "servicio (3)" as u1_5
+usecase "puente (3)" as u1_6
+usecase "israel (3)" as u1_7
+usecase "gvili (3)" as u1_8
+usecase "trump (3)" as u1_9
+usecase "presidente (2)" as u1_10
+usecase "investigacion (2)" as u1_11
+@enduml
+#+END_SRC
+
+#+RESULTS:
+[[file:nube_day_1.png]]
+
+* 📈 Tendencia Semanal Acumulada
+#+BEGIN_SRC plantuml :file nube_semanal_total.png
+@startuml
+!pragma layout smetana
+usecase "rodalies (11)" as utotal_0
+usecase "trump (10)" as utotal_1
+usecase "gaza (6)" as utotal_2
+usecase "puente (5)" as utotal_3
+usecase "minneapolis (5)" as utotal_4
+usecase "caos (4)" as utotal_5
+usecase "israel (4)" as utotal_6
+usecase "gvili (4)" as utotal_7
+usecase "africa (4)" as utotal_8
+usecase "yacht (4)" as utotal_9
+usecase "former (4)" as utotal_10
+usecase "rotura (4)" as utotal_11
+usecase "investigacion (3)" as utotal_12
+usecase "accidente (3)" as utotal_13
+usecase "adif (3)" as utotal_14
+@enduml
+#+END_SRC
+
+#+RESULTS:
+[[file:nube_semanal_total.png]]
