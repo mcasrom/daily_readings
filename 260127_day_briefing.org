@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 39.2°C | ⚖ Load: 0.04 | 🌐 Ping: 9.38ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 38.6°C | ⚖ Load: 0.00 | 🌐 Ping: 23.3ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,11 +41,11 @@
 
 *** El País
 
-- [[https://elpais.com/espana/2026-01-26/podemos-anuncia-un-acuerdo-con-el-gobierno-para-una-regularizacion-extraordinaria-de-migrantes.html][El Gobierno pacta con Podemos aprobar una regularización extraordinaria de inmigrantes]]
-- [[https://elpais.com/espana/2026-01-26/feijoo-ve-en-la-regularizacion-de-migrantes-una-estratagema-para-desviar-la-atencion-del-accidente-de-adamuz.html][Feijóo ve en la regularización de migrantes una estratagema para “desviar la atención” del accidente de Adamuz]]
-- [[https://elpais.com/espana/2026-01-26/claves-del-acuerdo-entre-el-gobierno-y-podemos-para-la-regularizacion-extraordinaria-de-inmigrantes.html][Claves del acuerdo entre el Gobierno y Podemos para la regularización extraordinaria de inmigrantes]]
-- [[https://elpais.com/internacional/2026-01-26/la-regularizacion-de-inmigrantes-en-espana-a-contracorriente-de-europa.html][La regularización de inmigrantes en España, a contracorriente de Europa]]
-- [[https://elpais.com/espana/catalunya/2026-01-26/cesados-dos-altos-cargos-de-rodalies-y-renfe-por-el-caos-ferroviario-en-cataluna.html][Cesados dos altos cargos de Rodalies y Adif por el caos ferroviario en Cataluña]]
+- [[https://elpais.com/economia/2026-01-27/el-paro-en-espana-cae-por-debajo-del-10-por-primera-vez-en-17-anos-tras-crearse-605000-empleos-en-2025.html][El paro en España cae por debajo del 10% por primera vez en 17 años tras crearse 605.000 empleos en 2025]]
+- [[https://elpais.com/economia/2026-01-27/tres-escenarios-para-la-subida-de-las-pensiones-ante-la-votacion-clave-del-congreso.html][Y si el decreto cae, ¿qué pasará con las pensiones? Tres escenarios ante la votación clave del Congreso]]
+- [[https://elpais.com/economia/2026-01-27/india-y-la-ue-cierran-un-acuerdo-comercial-historico-para-protegerse-de-las-tensas-relaciones-con-ee-uu.html][La UE y la India cierran un acuerdo comercial histórico]]
+- [[https://elpais.com/espana/2026-01-27/el-lider-de-los-obispos-espanoles-sobre-la-regularizacion-extraordinaria-de-inmigrantes-se-reconoce-asi-su-dignidad.html][El líder de los obispos españoles, sobre la regularización extraordinaria de inmigrantes: “Se reconoce así su dignidad”]]
+- [[https://elpais.com/espana/2026-01-27/papeles-para-salir-de-las-sombras-un-informe-calcula-que-en-espana-residen-unas-840000-personas-de-forma-irregular.html][Papeles para salir de las sombras: un informe calcula que en España residen unas 840.000 personas de forma irregular]]
 
 *** El Mundo
 
@@ -57,19 +57,19 @@
 
 *** La Vanguardia
 
+- [[https://www.lavanguardia.com/vida/20260127/11450315/rodalies-catalunya-ultima-hora-funcionamiento-servicio-trenes-actual-lineas-crisis-hoy-en-directo.html][Retrasos generalizados en Rodalies tras una semana de caos]]
+- [[https://www.lavanguardia.com/local/catalunya/20260127/11450390/usuarios-rodalies-convocan-manifestacion-7-febrero-protesta-crisis-ferroviaria.html][Los usuarios de Rodalies saldrán a la calle el 7 de febrero ante la situación “insostenible” de la red]]
+- [[https://www.lavanguardia.com/local/barcelona/20260126/11449761/que-que-regula-caido-centro-control-trafico-ferroviario-rodalies.html][¿Qué es, qué regula y por qué ha caído el centro de control del tráfico ferroviario de Rodalies?]]
 - [[https://www.lavanguardia.com/local/catalunya/20260127/11450100/rodalies-incapaz-garantizar-fragil-normalidad-corto-plazo-falta-personal.html][Rodalies es incapaz de garantizar su frágil normalidad a corto plazo]]
-- [[https://www.lavanguardia.com/vida/20260126/11449371/usuarios-tren-catalunya-saldran-manifestarse-caos-ferroviario-7-f.html][Los usuarios del tren de Catalunya saldrán a manifestarse por el caos ferroviario el 7-F]]
-- [[https://www.lavanguardia.com/politica/20260126/11449785/sanchez-comparecera-congreso-11-febrero-informar-ultimos-accidentes.html][Sánchez comparecerá en el Congreso el 11 de febrero para informar de los últimos accidentes]]
-- [[https://www.lavanguardia.com/fotos/20260126/11449407/rodalies-vez-parada-colapsa-movilidad-area-barcelona.html][Rodalies, otra vez parada, colapsa la movilidad en el área de Barcelona.]]
-- [[https://www.lavanguardia.com/vida/20260126/11449342/sigue-caos-rodalies-fallos-informaticos-centro-control-adif-obligan-cortar-circulacion-dos-ocasiones.html][Puente apunta a un ciberataque como una hipótesis de la caída del servicio en Rodalies]]
+- [[https://www.lavanguardia.com/opinion/20260127/11450130/hemos-tocado-fondo.html][¿Hemos tocado fondo?]]
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/sanidad/exigen-buruaga-soluciones-inmediatas-situacion-sobrecarga-que-sufre-hospital-sierrallana/20260127113245187754.html][El PSOE exige a Buruaga soluciones "inmediatas" ante la situación de "sobrecarga" asistencial que sufre el Hospital de Sierrallana]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/viento-alcanza-136-kilometros-hora-san-roque-riomiera-roza-120-reinosa/20260127111434187752.html][Rachas de viento de hasta 136 km/h y temperaturas primaverales en Cantabria]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/viento-da-tregua-cantabria-112-gestiona-21-incidencias/20260127105106187751.html][El viento sigue sin dar tregua en Cantabria: el 112 gestiona 21 incidencias en una noche]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/hallan-muerto-hombre-70-anos-estabulacion-ganadera-pielagos/20260127103252187748.html][Hallan muerto a un hombre con traumatismos en una finca ganadera de Puente Arce]]
 - [[https://eldiariocantabria.publico.es/articulo/cantabria/cantabria-entre-comunidades-afectadas-temporal-martes-viento-nieve-deshielo-oleaje-lluvia/20260126203050187746.html][Cantabria, entre las comunidades afectadas por el temporal de este martes: viento, nieve, deshielo, oleaje y lluvia]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/piden-seis-anos-acusado-agresion-sexual-menor-que-hizo-creer-que-tambien-era/20260126195216187744.html][Piden seis años para el acusado de agresión sexual a una menor a la que hizo creer que él también lo era]]
-- [[https://eldiariocantabria.publico.es/articulo/torrelavega/abierto-vacaciones-carnaval-2026-oferta-80-plazas-cuatro-colegios-municipio/20260126193718187743.html][‘Abierto en Vacaciones. Carnaval 2026’ oferta 80 plazas en cuatro colegios del municipio]]
-- [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/iniciada-construccion-veintena-nuevas-plazas-aparcamiento-cerca-centro-liencres/20260126192234187741.html][En marcha la construcción de una veintena de nuevas plazas de aparcamiento cerca del centro de Liencres]]
-- [[https://eldiariocantabria.publico.es/articulo/espanha/sanidad-sindicatos-llegan-acuerdo-aprobar-nuevo-estatuto-marco/20260126191214187739.html][Sanidad y sindicatos llegan a un acuerdo para aprobar un nuevo Estatuto Marco]]
 
 ** 🇺🇸 Estados Unidos
 
@@ -79,39 +79,39 @@
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/01/27/poland-military-europe-hybrid-threats/][Poland built the E.U.’s biggest army, but the threat has changed]]
+- [[https://www.washingtonpost.com/politics/2026/01/27/trump-south-korea-trade-tariffs/][Trump threatens to raise tariffs on South Korea to 25%]]
 - [[https://www.washingtonpost.com/world/2026/01/26/israel-gaza-hostage-return/][Israel confirms remains of last hostage, Rani Gvili, returned from Gaza]]
 - [[https://www.washingtonpost.com/national-security/2026/01/26/aircraft-carrier-iran-trump-navy/][Aircraft carrier reaches Middle East, bolstering Iran options for Trump]]
 - [[https://www.washingtonpost.com/world/2026/01/26/germany-trump-nato-greenland/][After 80-year bond, Germans find breaking up with the U.S. is hard to do]]
-- [[https://www.washingtonpost.com/world/2026/01/11/china-cosmetic-surgery-boom/][Amid botched procedures, China is cracking down on cosmetic surgery]]
-- [[https://www.washingtonpost.com/world/2026/01/26/islamic-state-isis-syria-iraq-threat/][Iraqi spy chief warns of reemerging threat from ISIS as its ranks swell]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/article/2026/01/27/donald-trump-cherche-a-eteindre-l-incendie-declenche-par-son-administration-a-minneapolis_6664249_3210.html][Donald Trump cherche à éteindre l’incendie déclenché par son administration à Minneapolis]]
-- [[https://www.lemonde.fr/pixels/article/2026/01/26/l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-approuvee-par-les-deputes_6664229_4408996.html][L’interdiction des réseaux sociaux aux moins de 15 ans approuvée par les députés]]
-- [[https://www.lemonde.fr/societe/article/2026/01/27/proces-de-joel-guerriau-monsieur-le-president-il-y-a-des-choses-que-je-pourrais-vous-dire-entre-hommes_6664245_3224.html][Procès de Joël Guerriau : « Monsieur le président, il y a des choses que je pourrais vous dire, entre hommes »]]
-- [[https://www.lemonde.fr/politique/article/2026/01/26/francois-ruffin-confirme-qu-il-sera-bien-candidat-a-la-primaire-de-la-gauche-unitaire_6664225_823448.html][François Ruffin confirme qu’il sera bien candidat à la primaire de la « gauche unitaire »]]
-- [[https://www.lemonde.fr/afrique/article/2026/01/26/en-sierra-leone-le-narcotrafiquant-neerlandais-jos-leijdekkers-etend-son-pouvoir-et-menace-la-presse_6664207_3212.html][En Sierra Leone, le narcotrafiquant néerlandais Jos Leijdekkers étend son pouvoir et menace la presse]]
+- [[https://www.lemonde.fr/international/article/2026/01/27/gregory-bovino-le-visage-de-la-militarisation-de-la-lutte-contre-l-immigration-clandestine-ecarte-de-minneapolis_6664264_3210.html][Gregory Bovino, visage de la militarisation de la lutte contre l’immigration de l’administration Trump, écarté de Minneapolis]]
+- [[https://www.lemonde.fr/international/live/2026/01/27/en-direct-guerre-en-ukraine-les-dernieres-informations_6664247_3210.html][EN DIRECT, guerre en Ukraine : Kiev confirme que l’armée russe équipe certains de ses drones de systèmes Starlink]]
+- [[https://www.lemonde.fr/planete/article/2026/01/27/personne-ne-nous-a-jamais-mis-en-garde-les-cancers-professionnels-continent-inexplore-de-la-sante-publique_6664259_3244.html][Les cancers professionnels, continent inexploré de la santé publique en France]]
+- [[https://www.lemonde.fr/economie/article/2026/01/27/l-inde-et-l-ue-concluent-un-accord-de-libre-echange-qui-reduit-les-droits-de-douane-dans-de-nombreux-secteurs_6664269_3234.html][L’Inde et l’UE signent un accord de libre-échange qui réduit les droits de douane dans de nombreux secteurs]]
+- [[https://www.lemonde.fr/economie/article/2026/01/27/comment-le-moteur-thermique-est-devenu-un-enjeu-identitaire-et-politique-en-allemagne_6664277_3234.html][Le moteur thermique, un nouvel enjeu identitaire et politique en Allemagne]]
 
 *** Le Figaro
 
+- [[https://www.lefigaro.fr/actualite-france/immigration-jamais-la-france-n-a-accueilli-autant-d-etrangers-20260127][Immigration : jamais la France n’a accueilli autant d’étrangers]]
+- [[https://www.lefigaro.fr/international/en-direct-minneapolis-apres-la-mort-d-alex-pretti-donald-trump-envoie-son-tsar-des-frontieres-sur-place-20260126][EN DIRECT - JO 2026 : les agents de l’ICE «ne sont pas les bienvenus» à Milan, déclare le maire de la ville italienne]]
 - [[https://www.lefigaro.fr/international/apres-la-bavure-de-minneapolis-donald-trump-tente-par-la-desescalade-20260126][Après la bavure de Minneapolis, Donald Trump tenté par la désescalade]]
 - [[https://www.lefigaro.fr/international/des-citoyens-americains-vivent-dans-la-peur-un-avocat-republicain-renonce-a-se-presenter-comme-gouverneur-du-minnesota-20260126][«Des citoyens américains vivent dans la peur» : un avocat républicain renonce à se présenter comme gouverneur du Minnesota]]
-- [[https://www.lefigaro.fr/international/a-minneapolis-le-reseau-d-activistes-ice-watch-en-premiere-ligne-20260126][À Minneapolis, le réseau d’activistes «ICE Watch» en première ligne]]
-- [[https://www.lefigaro.fr/international/etats-unis-meme-chez-les-republicains-de-plus-en-plus-d-americains-rejettent-la-police-de-l-immigration-selon-les-sondages-20260126][États-Unis: même chez les républicains, de plus en plus d’Américains rejettent la police de l’immigration, selon les sondages]]
-- [[https://www.lefigaro.fr/international/le-depart-de-gregory-bovino-un-premier-signe-de-detente-a-minneapolis-20260127][Le départ de Gregory Bovino, un premier signe de détente à Minneapolis]]
+- [[https://www.lefigaro.fr/international/etats-unis-l-ice-peut-desormais-proceder-a-des-interpellations-dans-des-lieux-prives-sans-mandat-judiciaire-20260126][États-Unis : l’ICE peut désormais procéder à des interpellations dans des lieux privés sans mandat judiciaire]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss][Immigration chief departing Minneapolis as Trump sends border tsar Tom Homan to scene]]
+- [[https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss][Immigration chief at centre of Trump's crackdown set to leave Minneapolis]]
 - [[https://www.bbc.com/news/videos/crkr1g5vnveo?at_medium=RSS&at_campaign=rss]['We're all terrified', Minnesotan tells the BBC in tears]]
-- [[https://www.bbc.com/news/articles/c5ydvz7nz4mo?at_medium=RSS&at_campaign=rss][Israel says it has retrieved remains of final Gaza hostage]]
+- [[https://www.bbc.com/news/articles/crrnee01r9jo?at_medium=RSS&at_campaign=rss][India and EU announce landmark trade deal]]
 - [[https://www.bbc.com/news/articles/cp3z8ek7eqyo?at_medium=RSS&at_campaign=rss][Deadly US winter storm leaves flights delayed and thousands without power]]
-- [[https://www.bbc.com/news/articles/c1m7kde3y3zo?at_medium=RSS&at_campaign=rss][New Iran videos show bodies piled in hospital and snipers on roofs]]
+- [[https://www.bbc.com/news/articles/c0lx2pj84l4o?at_medium=RSS&at_campaign=rss][Philippines' Duterte fit to face ICC proceedings, judges say]]
 
 *** The Guardian
 
@@ -147,11 +147,11 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/trauma-still-felt-north-african-jews-and-the-holocaust/a-75649383?maca=en-rss-en-world-4025-rdf]['Trauma still felt': North African Jews and the Holocaust]]
 - [[https://www.dw.com/en/france-s-lawmakers-vote-to-ban-social-media-for-under-15s/a-75669653?maca=en-rss-en-world-4025-rdf][France's lawmakers vote to ban social media for under-15s]]
 - [[https://www.dw.com/en/nigeria-military-officers-to-face-trial-over-coup-plot/a-75669470?maca=en-rss-en-world-4025-rdf][Nigeria: Military officers to face trial over coup plot]]
 - [[https://www.dw.com/en/germany-france-others-rebuke-trump-s-nato-troop-disrespect/a-75666924?maca=en-rss-en-world-4025-rdf][Germany, France, others rebuke Trump's NATO troop disrespect]]
 - [[https://www.dw.com/en/latin-america-waiting-what-s-next-for-the-eu-mercosur-deal/a-75666418?maca=en-rss-en-world-4025-rdf][Latin America waiting: What's next for the EU-Mercosur deal?]]
-- [[https://www.dw.com/en/retrial-in-murder-of-slovak-journalist-and-fiancee-begins/a-75665546?maca=en-rss-en-world-4025-rdf][Retrial in murder of Slovak journalist and fiancee begins]]
 
 
 * 🧠 Think Tanks
