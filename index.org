@@ -4,6 +4,8 @@
 #+HTML_HEAD: <meta property="og:title" content="Daily Briefing - Intelligence Hub">
 #+HTML_HEAD: <meta property="og:description" content="Análisis geopolítico y titulares globales actualizados.">
 #+HTML_HEAD: <meta property="og:image" content="https://mcasrom.github.io/daily_readings/preview.jpg">
+#+HTML_HEAD: <meta property="og:image:width" content="1200">
+#+HTML_HEAD: <meta property="og:image:height" content="630">
 #+HTML_HEAD: <meta property="og:url" content="https://mcasrom.github.io/daily_readings/index.html">
 #+HTML_HEAD: <meta property="og:type" content="website">
 #+HTML_HEAD: <meta name="twitter:card" content="summary_large_image">
@@ -28,9 +30,9 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Quien controla el flujo de los datos, controla la narrativa del territorio».</div>
-#+HTML: <div class='timestamp'>Sincronizado: 27-01-2026 06:00:02</div>
-#+HTML: <div class='visit-counter'>📊 <strong>VISITAS TOTALES:</strong> 12</div>
+#+HTML: <div class='quote-box'>«La geopolítica es el arte de mirar el mapa para entender el poder».</div>
+#+HTML: <div class='timestamp'>Sincronizado: 27-01-2026 08:59:03</div>
+#+HTML: <div class='visit-counter'>📊 <strong>VISITAS TOTALES:</strong> 13</div>
 * 🗂 Archivo de Noticias
 #+HTML: <div class='briefing-item'><a href='260127_day_briefing.html'>⚡ Edición: 260127</a></div>
 #+HTML: <div class='briefing-item'><a href='260126_day_briefing.html'>⚡ Edición: 260126</a></div>

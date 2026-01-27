@@ -4,6 +4,8 @@
 #+HTML_HEAD: <meta property="og:title" content="Daily Briefing - Intelligence Hub">
 #+HTML_HEAD: <meta property="og:description" content="Análisis geopolítico y titulares globales actualizados.">
 #+HTML_HEAD: <meta property="og:image" content="https://mcasrom.github.io/daily_readings/preview.jpg">
+#+HTML_HEAD: <meta property="og:image:width" content="1200">
+#+HTML_HEAD: <meta property="og:image:height" content="630">
 #+HTML_HEAD: <meta property="og:url" content="https://mcasrom.github.io/daily_readings/index.html">
 #+HTML_HEAD: <meta property="og:type" content="website">
 #+HTML_HEAD: <meta name="twitter:card" content="summary_large_image">
@@ -39,6 +41,7 @@ Si tienes sugerencias sobre nuevas fuentes, errores en el feed o simplemente qui
 ** ⚡ Estado del Nodo
 
 El servidor realiza actualizaciones automáticas cada hora para asegurar que la información sea fresca y relevante. Si detectas una caída en el servicio, es probable que el nodo esté en labores de mantenimiento o actualización de kernels.
+
 
 
 
