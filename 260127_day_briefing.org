@@ -28,8 +28,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
-#+HTML: <div class='telemetry'>🌡 37.6°C | ⚖ Load: 0.40 | 🌐 Ping: 9.69ms</div>
+#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
+#+HTML: <div class='telemetry'>🌡 38.1°C | ⚖ Load: 0.40 | 🌐 Ping: 9.82ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -47,16 +47,16 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/economia/2026/01/26/697779a5e9cf4afe378b459b.html][El presidente de la investigación apunta una soldadura como "causa principal" del accidente y exige a Adif que explique por qué renovó "unos tramos sí y otros no"]]
-- [[https://www.elmundo.es/espana/2026/01/26/6977845be85ece28418b458c.html][Los Reyes presidirán la misa funeral en Huelva por las víctimas del accidente de tren tras la cancelación del acto laico que preparaba el Gobierno]]
-- [[https://www.elmundo.es/economia/2026/01/26/6977519ae9cf4a90538b4571.html][Puente dice ahora que "se equivocó" al dar datos falsos sobre la soldadura clave en el accidente de Adamuz y que la auscultación se realizó dos meses antes de lo que anunció]]
-- [[https://www.elmundo.es/cronica/2026/01/26/6973bfaee85ece2c468b4590.html][Hatfield, el escándalo que mató a Robert, Steve, Leslie y Peter y cambió para siempre los trenes en el Reino Unido]]
-- [[https://www.elmundo.es/cataluna/2026/01/26/6977a271fdddff8d1f8b45c3.html][Cesan al director operativo de Rodalies y a un responsable de Adif por la crisis ferroviaria en Cataluña]]
+- [[https://www.elmundo.es/espana/2026/01/26/6977a652e9cf4aaa468b4584.html][El pagador de Zapatero mediaba con Venezuela y ocultaba más de 300.000 euros en 'cash']]
+- [[https://www.elmundo.es/economia/2026/01/26/6977d524fdddff75388b4593.html][La investigación concentra ya toda la responsabilidad del accidente en Transportes y Adif]]
+- [[https://www.elmundo.es/madrid/2026/01/26/6977a112e9cf4a0d0d8b456d.html][La semana de desinformación, desmentidos en falso y bulos de Óscar Puente, el ministro más polémico de Pedro Sánchez: "Me puedo equivocar"]]
+- [[https://www.elmundo.es/andalucia/2026/01/27/69779091e9cf4a90538b4581.html][La presencia de los Reyes obliga al Gobierno a asistir al funeral de Huelva tras fracasar su convocatoria]]
+- [[https://www.elmundo.es/economia/2026/01/26/6977ae8bfdddff07708b458e.html][Así son las soldaduras de las vías: un proceso medido al milímetro que realizan al menos dos operarios que firman el trabajo sobre el acero]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/local/barcelona/20260126/11450013/cesado-director-rodalies-josep-enric-garcia-alemany-caos-ferroviario-catalunya.html][Cesados el director de Rodalies y el jefe de mantenimiento de Adif por el caos ferroviario en Catalunya]]
-- [[https://www.lavanguardia.com/politica/20260126/11450024/malestar-govern-renfe-adif-provoca-cese-dos-altos-cargos.html][El malestar del Govern con Renfe y Adif provoca el cese de dos altos cargos]]
+- [[https://www.lavanguardia.com/local/catalunya/20260127/11450100/rodalies-incapaz-garantizar-fragil-normalidad-corto-plazo-falta-personal.html][Rodalies es incapaz de garantizar su frágil normalidad a corto plazo]]
+- [[https://www.lavanguardia.com/vida/20260126/11449371/usuarios-tren-catalunya-saldran-manifestarse-caos-ferroviario-7-f.html][Los usuarios del tren de Catalunya saldrán a manifestarse por el caos ferroviario el 7-F]]
 - [[https://www.lavanguardia.com/politica/20260126/11449785/sanchez-comparecera-congreso-11-febrero-informar-ultimos-accidentes.html][Sánchez comparecerá en el Congreso el 11 de febrero para informar de los últimos accidentes]]
 - [[https://www.lavanguardia.com/fotos/20260126/11449407/rodalies-vez-parada-colapsa-movilidad-area-barcelona.html][Rodalies, otra vez parada, colapsa la movilidad en el área de Barcelona.]]
 - [[https://www.lavanguardia.com/vida/20260126/11449342/sigue-caos-rodalies-fallos-informaticos-centro-control-adif-obligan-cortar-circulacion-dos-ocasiones.html][Puente apunta a un ciberataque como una hipótesis de la caída del servicio en Rodalies]]
@@ -87,11 +87,11 @@
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/article/2026/01/26/donald-trump-attribue-la-mort-d-alex-pretti-a-minneapolis-a-la-resistance-deliberee-des-democrates_6664227_3210.html][Donald Trump attribue la mort d’Alex Pretti à Minneapolis à la « résistance délibérée » des démocrates]]
+- [[https://www.lemonde.fr/international/article/2026/01/27/donald-trump-cherche-a-eteindre-l-incendie-declenche-par-son-administration-a-minneapolis_6664249_3210.html][Donald Trump cherche à éteindre l’incendie déclenché par son administration à Minneapolis]]
 - [[https://www.lemonde.fr/pixels/article/2026/01/26/l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-approuvee-par-les-deputes_6664229_4408996.html][L’interdiction des réseaux sociaux aux moins de 15 ans approuvée par les députés]]
-- [[https://www.lemonde.fr/economie/article/2026/01/26/daniel-kretinsky-en-france-une-galaxie-proteiforme-d-achats-et-d-investissements_6664226_3234.html][Daniel Kretinsky en France, une galaxie protéiforme d’achats et d’investissements]]
-- [[https://www.lemonde.fr/societe/article/2026/01/26/au-proces-en-appel-du-fn-bruno-gollnisch-et-le-travail-de-facon-residuelle-pour-le-parti-de-ses-assistants_6664231_3224.html][Au procès en appel du FN, Bruno Gollnisch et le travail « de façon résiduelle » pour le parti de ses assistants]]
+- [[https://www.lemonde.fr/societe/article/2026/01/27/proces-de-joel-guerriau-monsieur-le-president-il-y-a-des-choses-que-je-pourrais-vous-dire-entre-hommes_6664245_3224.html][Procès de Joël Guerriau : « Monsieur le président, il y a des choses que je pourrais vous dire, entre hommes »]]
 - [[https://www.lemonde.fr/politique/article/2026/01/26/francois-ruffin-confirme-qu-il-sera-bien-candidat-a-la-primaire-de-la-gauche-unitaire_6664225_823448.html][François Ruffin confirme qu’il sera bien candidat à la primaire de la « gauche unitaire »]]
+- [[https://www.lemonde.fr/afrique/article/2026/01/26/en-sierra-leone-le-narcotrafiquant-neerlandais-jos-leijdekkers-etend-son-pouvoir-et-menace-la-presse_6664207_3212.html][En Sierra Leone, le narcotrafiquant néerlandais Jos Leijdekkers étend son pouvoir et menace la presse]]
 
 *** Le Figaro
 
@@ -99,17 +99,17 @@
 - [[https://www.lefigaro.fr/international/des-citoyens-americains-vivent-dans-la-peur-un-avocat-republicain-renonce-a-se-presenter-comme-gouverneur-du-minnesota-20260126][«Des citoyens américains vivent dans la peur» : un avocat républicain renonce à se présenter comme gouverneur du Minnesota]]
 - [[https://www.lefigaro.fr/international/a-minneapolis-le-reseau-d-activistes-ice-watch-en-premiere-ligne-20260126][À Minneapolis, le réseau d’activistes «ICE Watch» en première ligne]]
 - [[https://www.lefigaro.fr/international/etats-unis-meme-chez-les-republicains-de-plus-en-plus-d-americains-rejettent-la-police-de-l-immigration-selon-les-sondages-20260126][États-Unis: même chez les républicains, de plus en plus d’Américains rejettent la police de l’immigration, selon les sondages]]
-- [[https://www.lefigaro.fr/international/en-direct-minneapolis-apres-la-mort-d-alex-pretti-donald-trump-envoie-son-tsar-des-frontieres-sur-place-20260126][EN DIRECT - Minneapolis : Trump déplore une «tragédie», résultat de la «résistance délibérée et hostile» des autorités démocrates]]
+- [[https://www.lefigaro.fr/international/le-depart-de-gregory-bovino-un-premier-signe-de-detente-a-minneapolis-20260127][Le départ de Gregory Bovino, un premier signe de détente à Minneapolis]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
+- [[https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss][Immigration chief departing Minneapolis as Trump sends border tsar Tom Homan to scene]]
+- [[https://www.bbc.com/news/videos/crkr1g5vnveo?at_medium=RSS&at_campaign=rss]['We're all terrified', Minnesotan tells the BBC in tears]]
 - [[https://www.bbc.com/news/articles/c5ydvz7nz4mo?at_medium=RSS&at_campaign=rss][Israel says it has retrieved remains of final Gaza hostage]]
+- [[https://www.bbc.com/news/articles/cp3z8ek7eqyo?at_medium=RSS&at_campaign=rss][Deadly US winter storm leaves flights delayed and thousands without power]]
 - [[https://www.bbc.com/news/articles/c1m7kde3y3zo?at_medium=RSS&at_campaign=rss][New Iran videos show bodies piled in hospital and snipers on roofs]]
-- [[https://www.bbc.com/news/articles/cvg50vv1ezko?at_medium=RSS&at_campaign=rss]['This is horrifying' - Minneapolis residents reel from second deadly shooting]]
-- [[https://www.bbc.com/news/articles/c9dv4wlw3yzo?at_medium=RSS&at_campaign=rss][Nigerian officers to face trial over coup-plot allegations]]
-- [[https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss][French MPs take first step to ban social media for under-15s]]
 
 *** The Guardian
 
@@ -145,11 +145,11 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/france-s-lawmakers-vote-to-ban-social-media-for-under-15s/a-75669653?maca=en-rss-en-world-4025-rdf][France's lawmakers vote to ban social media for under-15s]]
+- [[https://www.dw.com/en/nigeria-military-officers-to-face-trial-over-coup-plot/a-75669470?maca=en-rss-en-world-4025-rdf][Nigeria: Military officers to face trial over coup plot]]
 - [[https://www.dw.com/en/germany-france-others-rebuke-trump-s-nato-troop-disrespect/a-75666924?maca=en-rss-en-world-4025-rdf][Germany, France, others rebuke Trump's NATO troop disrespect]]
 - [[https://www.dw.com/en/latin-america-waiting-what-s-next-for-the-eu-mercosur-deal/a-75666418?maca=en-rss-en-world-4025-rdf][Latin America waiting: What's next for the EU-Mercosur deal?]]
 - [[https://www.dw.com/en/retrial-in-murder-of-slovak-journalist-and-fiancee-begins/a-75665546?maca=en-rss-en-world-4025-rdf][Retrial in murder of Slovak journalist and fiancee begins]]
-- [[https://www.dw.com/en/uk-suella-braverman-defects-from-conservatives-to-reform/a-75664224?maca=en-rss-en-world-4025-rdf][UK: Suella Braverman defects from Conservatives to Reform]]
-- [[https://www.dw.com/en/terror-in-the-trees-why-extremists-take-cover-in-nigeria-s-forests/a-75661454?maca=en-rss-en-world-4025-rdf][Terror in the trees: Why extremists take cover in Nigeria's forests]]
 
 
 * 🧠 Think Tanks
