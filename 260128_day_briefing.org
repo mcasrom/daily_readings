@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 38.6°C | ⚖ Load: 0.00 | 🌐 Ping: 9.33ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 38.1°C | ⚖ Load: 0.00 | 🌐 Ping: 9.72ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,19 +49,19 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/01/27/6978a2e3e85ecee1048b457f.html][El Gobierno fracasa con su decreto ómnibus: Junts se opone y cae la subida de las pensiones]]
-- [[https://www.elmundo.es/espana/2026/01/27/6978773be85ece90778b45a7.html][Regularizaciones exprés de inmigrantes: las solicitudes se podrán presentar entre abril y junio y el Gobierno las resolverá en tres meses]]
-- [[https://www.elmundo.es/espana/2026/01/27/69791731e4d4d8f1668b45a4.html][El PP se pone al frente del 'no' a la regularización de inmigrantes y llevará a Europa su rechazo]]
-- [[https://www.elmundo.es/economia/2026/01/27/6978c3fee4d4d8812c8b4583.html][Malestar en Transportes con el presidente de la CIAF al señalar una causa del accidente de Adamuz sin que haya informe final contradiciendo a Puente]]
-- [[https://www.elmundo.es/economia/2026/01/27/6978a90ae9cf4a9e7f8b45b6.html][El presidente de la investigación del accidente de Adamuz responsabiliza a los políticos: "Los mantenimientos no se inauguran y las mercancías no votan, eso da una idea de cómo funciona el negocio"]]
+- [[https://www.elmundo.es/espana/2026/01/27/6979059ee4d4d829448b458f.html][El pagador de Zapatero cobraba del rescate de Plus Ultra]]
+- [[https://www.elmundo.es/economia/2026/01/27/69789e09e4d4d8cb568b4574.html][El 'shock' migratorio en el precio de la vivienda alcanza su nivel más alto de la última década por la falta de oferta disponible]]
+- [[https://www.elmundo.es/espana/2026/01/27/69791feafc6c83c0358b45a3.html][Los antecedentes penales "relevantes" y otras incógnitas de la regulación de inmigrantes de Sánchez y Podemos]]
+- [[https://www.elmundo.es/espana/2026/01/27/69791c3221efa0234e8b4595.html][Habla el interventor 'viral' de la tragedia del Iryo en Adamuz: "Tenemos miedo de subirnos a los trenes, esta es la verdad"]]
+- [[https://www.elmundo.es/espana/2026/01/27/69790563e4d4d8736b8b45d4.html][Miedo en Adif a asumir la nueva obra para reparar la vía: "Nadie quiere ser el responsable, no sabemos lo que nos vamos a encontrar"]]
 
 *** La Vanguardia
 
 - [[https://www.lavanguardia.com/politica/20260127/11450764/congreso-tumba-decreto-revalorizar-pensiones-avala-ayudas-transporte.html][PP, Vox y Junts tumban el decreto que incluía la revalorización de las pensiones]]
 - [[https://www.lavanguardia.com/economia/20260127/11450666/pensiones-pension-subida-decreto-gobierno-que-pasa.html][¿Qué pasa con la subida de las pensiones con la caída del decreto?]]
-- [[https://www.lavanguardia.com/politica/20260127/11450718/gobierno-mejorara-seguro-impagos-propietarios-vivienda-atraer-junts.html][El Gobierno mejorará el seguro de impagos a los propietarios de vivienda para atraer a Junts]]
-- [[https://www.lavanguardia.com/politica/20260127/11450452/claves-nueva-regularizacion-extraordinaria-inmigrantes-fechas-requisitos-beneficios.html][Regularización de inmigrantes: quién se puede acoger y cuándo empieza]]
-- [[https://www.lavanguardia.com/politica/20260127/11450941/iglesia-espanola-celebra-regularizacion-migrantes-opina-llega-tarde.html][La Iglesia española celebra la regularización de los migrantes y opina que llega tarde]]
+- [[https://www.lavanguardia.com/opinion/20260128/11451029/gobierno-hat-trick.html][El Gobierno, sin ‘hat-trick’]]
+- [[https://www.lavanguardia.com/politica/20260127/11450452/claves-nueva-regularizacion-extraordinaria-inmigrantes-fechas-requisitos-beneficios.html][Regularización de inmigrantes: quién se puede acoger, qué beneficios obtendrá y cuándo empieza]]
+- [[https://www.lavanguardia.com/politica/20260127/11450924/pp-cree-regularizacion-inmigrantes-perjudica-psoe-vox-anuncia-medidas.html][El PP y Vox llevarán la regularización de inmigrantes a Europa]]
 
 *** El Diario de Cantabria
 
@@ -89,29 +89,29 @@
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/economie/article/2026/01/27/pour-contrer-donald-trump-l-inde-et-l-ue-creent-un-marche-commun_6664334_3234.html][Comment l’Inde et l’UE ont accéléré la création d’un marché commun pour contrer Donald Trump]]
+- [[https://www.lemonde.fr/politique/article/2026/01/28/a-l-assemblee-nationale-les-ameres-lecons-des-mois-de-debats-sur-le-budget-2026-enfin-adopte_6664386_823448.html][A l’Assemblée nationale, les amères leçons des mois de débats sur le budget 2026, enfin adopté]]
+- [[https://www.lemonde.fr/international/article/2026/01/27/donald-trump-dit-qu-il-ne-faut-pas-arriver-avec-une-arme-dans-une-manifestation_6664364_3210.html][Mort d’Alex Pretti à Minneapolis : Stephen Miller, conseiller de Donald Trump, reconnaît de possibles manquements « au protocole »]]
+- [[https://www.lemonde.fr/politique/article/2026/01/28/gabriel-attal-tente-avec-sa-nuit-de-la-nouvelle-republique-d-amorcer-a-son-tour-un-depassement-politique-dix-ans-apres-emmanuel-macron_6664385_823448.html][Gabriel Attal tente, avec sa Nuit de la Nouvelle République, d’amorcer à son tour un « dépassement » politique, dix ans après Emmanuel Macron]]
 - [[https://www.lemonde.fr/societe/article/2026/01/27/joel-guerriau-condamne-a-quatre-ans-de-prison-dont-dix-huit-mois-ferme-pour-avoir-drogue-la-deputee-sandrine-josso-afin-de-la-violer_6664322_3225.html][Joël Guerriau condamné à quatre ans de prison, dont dix-huit mois ferme, pour avoir drogué la députée Sandrine Josso]]
-- [[https://www.lemonde.fr/international/live/2026/01/27/en-direct-guerre-en-ukraine-le-gouvernement-hongrois-annonce-le-lancement-d-une-petition-nationale-contre-le-soutien-de-l-union-europeenne-a-kiev_6664247_3210.html][EN DIRECT, guerre en Ukraine : le gouvernement hongrois annonce le lancement d’une « pétition nationale » contre le soutien de l’Union européenne à Kiev]]
-- [[https://www.lemonde.fr/economie/article/2026/01/27/capgemini-dans-la-tourmente-pour-son-travail-avec-l-ice-la-police-de-l-immigration-americaine_6664366_3234.html][Capgemini dans la tourmente pour son travail avec l’ICE, la police de l’immigration américaine]]
-- [[https://www.lemonde.fr/societe/article/2026/01/27/la-polemique-enfle-apres-le-limogeage-d-une-commissaire-de-police-sur-demande-du-prefet-des-landes_6664362_3224.html][Le limogeage de la directrice de la police des Landes, Agnès Mazin-Bottier, exacerbe les tensions entre commissaires et préfets]]
+- [[https://www.lemonde.fr/societe/article/2026/01/28/le-conge-de-paternite-plebiscite-par-les-hommes_6664374_3224.html][Le congé de paternité plébiscité par les hommes]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/actualite-france/les-zfe-une-decennie-de-colere-et-de-gabegie-pour-un-avenir-incertain-20260127][Les ZFE : une décennie de colère et de gabegie pour un avenir incertain]]
-- [[https://www.lefigaro.fr/lyon/une-adolescente-sequestree-et-torturee-pres-de-lyon-quatre-agresseurs-mineurs-arretes-20260127][Une adolescente séquestrée et torturée près de Lyon, quatre mineurs arrêtés]]
-- [[https://www.lefigaro.fr/faits-divers/incendie-de-crans-montana-ces-nouveaux-elements-qui-accablent-les-proprietaires-du-constellation-20260127][Incendie de Crans-Montana : ces nouveaux éléments qui accablent les propriétaires du Constellation]]
-- [[https://www.lefigaro.fr/conjoncture/les-victimes-francaises-de-crans-montana-peuvent-elles-se-tourner-vers-la-civi-pour-obtenir-reparation-20260127][Les victimes françaises de Crans-Montana peuvent-elles se tourner vers la CIVI pour obtenir réparation ?]]
-- [[https://www.lefigaro.fr/international/incendie-de-crans-montana-qu-est-ce-que-cette-mousse-antibruit-posee-au-plafond-du-constellation-et-au-coeur-de-l-enquete-20260108][Incendie de Crans-Montana : quelle est cette mousse antibruit posée au plafond du Constellation et au cœur de l’enquête ?]]
+- [[https://www.lefigaro.fr/politique/presidentielle-2027-gabriel-attal-maquille-ses-ambitions-derriere-sa-soiree-nouvelle-republique-20260128][Présidentielle 2027 : Gabriel Attal maquille ses ambitions derrière sa soirée «Nouvelle République»]]
+- [[https://www.lefigaro.fr/international/en-direct-minneapolis-apres-la-mort-d-alex-pretti-donald-trump-envoie-son-tsar-des-frontieres-sur-place-20260126][EN DIRECT - Mort d’Alex Pretti à Minneapolis : Stephen Miller, très proche conseiller de Trump, reconnaît de possibles manquements au «protocole»]]
+- [[https://www.lefigaro.fr/international/immigration-fraude-sociale-elections-pam-bondi-somme-le-gouverneur-du-minnesota-de-cooperer-avec-l-etat-federal-20260127][Immigration, fraude sociale, élections : Pam Bondi somme le gouverneur du Minnesota de coopérer avec l’État fédéral]]
+- [[https://www.lefigaro.fr/flash-actu/a-minneapolis-l-elue-democrate-ilhan-omar-bete-noire-de-trump-visee-par-un-jet-de-liquide-lors-d-un-discours-20260128][À Minneapolis, l'élue démocrate Ilhan Omar, bête noire de Trump, visée par un jet de liquide lors d'un discours]]
+- [[https://www.lefigaro.fr/international/le-depart-de-gregory-bovino-un-premier-signe-de-detente-a-minneapolis-20260127][Avec le départ du patron de l’ICE Gregory Bovino, Trump envoie un signal à Minneapolis]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/c5y29xzjdzvo?at_medium=RSS&at_campaign=rss][US to send ICE agents to Winter Olympics, prompting Italian anger]]
+- [[https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS&at_campaign=rss][Trump says government will 'de-escalate' in Minnesota following Pretti shooting]]
+- [[https://www.bbc.com/news/articles/cn9zpee3llxo?at_medium=RSS&at_campaign=rss][Minnesota congresswoman Ilhan Omar attacked with 'unknown liquid' during town hall]]
+- [[https://www.bbc.com/news/articles/cjw1pn4lwjqo?at_medium=RSS&at_campaign=rss][Who is Tom Homan, Trump's 'border tsar' deployed to Minneapolis?]]
+- [[https://www.bbc.com/news/articles/cj3vp84j1l3o?at_medium=RSS&at_campaign=rss][Republicans criticise immigration force but steer clear of Trump attacks]]
 - [[https://www.bbc.com/news/articles/cy8y2jxx9ppo?at_medium=RSS&at_campaign=rss]['We all know someone who was killed' -  Iran protesters tell BBC of brutal crackdown]]
-- [[https://www.bbc.com/news/articles/cy8p1mn3j29o?at_medium=RSS&at_campaign=rss][Former French senator found guilty of drugging MP]]
-- [[https://www.bbc.com/news/articles/c62n6gw1dp9o?at_medium=RSS&at_campaign=rss][Spain plans to give half a million undocumented migrants legal status]]
-- [[https://www.bbc.com/news/articles/c98jr75w4zko?at_medium=RSS&at_campaign=rss][Families sue US over deadly boat strike off Venezuela coast]]
 
 *** The Guardian
 
@@ -147,11 +147,11 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/rwanda-sues-uk-over-contentious-migrant-deal/a-75687005?maca=en-rss-en-world-4025-rdf][Rwanda sues UK over contentious migrant deal]]
+- [[https://www.dw.com/en/zelenskyy-condemns-terrorism-after-russia-hits-train-in-ukraine/a-75686904?maca=en-rss-en-world-4025-rdf][Zelenskyy condemns 'terrorism' after Russia hits train in Ukraine]]
+- [[https://www.dw.com/en/netherlands-set-for-minority-coalition-as-parties-reach-deal/a-75686726?maca=en-rss-en-world-4025-rdf][Netherlands set for minority coalition as parties reach deal]]
 - [[https://www.dw.com/en/ice-on-us-streets-challenges-american-norms-founding-values/a-75679947?maca=en-rss-en-world-4025-rdf][ICE on US streets challenges American norms, founding values]]
 - [[https://www.dw.com/en/dutch-court-sentences-eritrean-migrant-smuggler-to-20-years/a-75673234?maca=en-rss-en-world-4025-rdf][Dutch court sentences Eritrean migrant smuggler to 20 years]]
-- [[https://www.dw.com/en/fifa-ex-president-blatter-backs-call-to-boycott-world-cup/a-75678298?maca=en-rss-en-world-4025-rdf][FIFA ex-President Blatter backs call to boycott World Cup]]
-- [[https://www.dw.com/en/china-is-xi-jinping-losing-trust-in-his-top-generals/a-75680908?maca=en-rss-en-world-4025-rdf][China: Is Xi Jinping losing trust in his top generals?]]
-- [[https://www.dw.com/en/south-korea-s-fake-news-law-tests-press-autonomy/a-75677742?maca=en-rss-en-world-4025-rdf][South Korea's 'fake news' law tests press autonomy]]
 
 
 * 🧠 Think Tanks
