@@ -1,0 +1,19 @@
+body { 
+    background-color: #0a0e14; 
+    color: #4af626; 
+    font-family: 'Courier New', monospace; 
+    max-width: 900px; 
+    margin: auto; 
+    padding: 30px; 
+}
+h1 { color: #ffffff; border-bottom: 2px solid #4af626; padding-bottom: 10px; font-size: 1.8em; }
+h2 { color: #ffffff; margin-top: 40px; font-size: 1.3em; background: #1a1a1a; padding: 5px 10px; }
+pre.src-text { 
+    background: #000000 !important; 
+    color: #4af626 !important; 
+    border: 1px solid #4af626; 
+    padding: 20px; 
+    border-radius: 4px;
+    overflow-x: auto;
+    box-shadow: 0 0 15px rgba(74, 246, 38, 0.1);
+}
