@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 38.6°C | ⚖ Load: 0.00 | 🌐 Ping: 9.52ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 38.6°C | ⚖ Load: 0.00 | 🌐 Ping: 9.26ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,35 +41,35 @@
 
 *** El País
 
-- [[https://elpais.com/espana/2026-01-29/la-hija-de-una-de-las-victimas-de-ademuz-en-el-funeral-solo-la-verdad-nos-ayudara-a-curar-esta-herida.html][La hija de una de las víctimas de Adamuz en el funeral: “Solo la verdad nos ayudará a curar esta herida”]]
-- [[https://elpais.com/espana/2026-01-29/el-ultimo-adios-de-huelva-a-sus-vecinos-estan-siendo-semanas-duras.html][La emoción sacude el multitudinario adiós de Huelva: “Estamos aquí para apoyarnos entre todos”]]
-- [[https://elpais.com/espana/madrid/2026-01-29/madrid-tambien-recuerda-a-las-victimas-del-accidente-de-tren-en-la-misa-paralela-de-ayuso.html][Madrid también recuerda a las víctimas del accidente de tren en la misa paralela de Ayuso]]
-- [[https://elpais.com/espana/2026-01-29/puente-defiende-en-el-senado-la-actuacion-en-adamuz-antes-y-despues-del-siniestro-puedo-mirar-a-la-cara-a-las-victimas.html][Puente defiende en el Senado la actuación en Adamuz, antes y después del siniestro: “Puedo mirar a la cara a las víctimas”]]
-- [[https://elpais.com/internacional/2026-01-29/trump-declara-una-emergencia-nacional-respecto-a-cuba-y-anuncia-aranceles-para-los-paises-que-le-vendan-petroleo.html][Trump declara una “emergencia nacional” sobre Cuba y anuncia aranceles para los países que le vendan petróleo]]
+- [[https://elpais.com/us/migracion/2026-01-30/estados-unidos-sale-a-las-calles-para-plantar-cara-al-terror-migratorio-de-trump.html][Estados Unidos sale a las calles para plantar cara a la cacería de inmigrantes de Trump]]
+- [[https://elpais.com/america/2026-01-30/estados-unidos-impone-la-asfixia-petrolera-a-cuba.html][Estados Unidos impone la asfixia petrolera a Cuba]]
+- [[https://elpais.com/deportes/tenis/2026-01-30/alcaraz-voltea-a-zverev-entre-calambres-y-vomitos-y-alcanza-su-primera-final-en-australia.html][Carlos Alcaraz voltea a Zverev entre calambres y alcanza su primera final en el Open de Australia]]
+- [[https://elpais.com/deportes/tenis/2026-01-30/jannik-sinner-novak-djokovic-en-directo-la-semifinal-del-open-de-australia-en-vivo.html][Jannik Sinner - Novak Djokovic en directo, la semifinal del Open de Australia en vivo]]
+- [[https://elpais.com/deportes/tenis/2026-01-30/camaras-intimidad-y-la-civilizacion-del-espectaculo.html][Cámaras, intimidad y la civilización del espectáculo]]
 
 *** El Mundo
 
 - [[https://www.elmundo.es/espana/2026/01/29/697bae92e85ece7a328b45b8.html][Aldama aportará a la causa por el uso de efectivo en Ferraz el sobre de Delcy vinculado a la "financiación ilegal del PSOE"]]
 - [[https://www.elmundo.es/espana/2026/01/29/697baeb4e85ececf4f8b457f.html][Las confianzas entre Aldama y Delcy Rodríguez: "Ya estás en la familia"]]
 - [[https://www.elmundo.es/cataluna/2026/01/29/697bc3bee85ecef42d8b4574.html][La baja médica de Salvador Illa y el caos de Rodalies paralizan los planes del Govern]]
-- [[https://www.elmundo.es/elecciones/elecciones-aragon/2026/01/29/6979d56de9cf4a775f8b456f.html][En el pueblo aragonés con mayor concentración de inmigrantes: "Sin ellos el trabajo del campo no sale adelante"]]
-- [[https://www.elmundo.es/espana/2026/01/29/697baedbe85ece0a678b458a.html][Interior borró el informe favorable al comisario represaliado por Marlaska que apoyó la actuación policial tras la sentencia del 1-O]]
+- [[https://www.elmundo.es/deportes/tenis/open-de-australia/2026/01/30/697c4e4b21efa005118b459e.html][Alcaraz consigue una de las victorias más épicas de su vida al superar a Zverev y a los calambres para clasficarse para la final de Australia]]
+- [[https://www.elmundo.es/deportes/tenis/open-de-australia/2026/01/30/697c805be9cf4a630e8b4579.html][Un abrazo y una bandera, la celebración de un Alcaraz exhausto: "Tenía que poner el corazón en el partido"]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/economia/20260129/11452994/ceoe-desmarca-trabajo-acuerda-sindicatos-subida-smi-3-1.html][La CEOE se desmarca y Trabajo acuerda solo con los sindicatos la subida del SMI]]
-- [[https://www.lavanguardia.com/politica/20260129/11452934/puente-rodalies-servicio-pesimo-hay-esperanza-mejora.html][Puente: “Rodalies es un servicio pésimo” pero “hay esperanza cierta de mejora”]]
-- [[https://www.lavanguardia.com/local/andalucia/20260129/11453057/beso-dimos-huelva-despide-victimas-tren-lagrimas-agradecimientos.html][Funeral por las víctimas de Adamuz: las familias quieren saber la verdad del accidente]]
-- [[https://www.lavanguardia.com/opinion/20260130/11453133/ruido-politico-sobra.html][El ruido político que sobra]]
-- [[https://www.lavanguardia.com/politica/20260129/11452679/ala-dura-episcopado-espanol-revuelve-regularizacion-migrantes.html][El ala dura del episcopado español se revuelve contra la regularización de los migrantes]]
+- [[https://www.lavanguardia.com/internacional/20260129/11452341/xi-jinping-repudiado-cortejado-lideres-occidentales.html][Las embestidas de Trump hacen buena a China]]
+- [[https://www.lavanguardia.com/economia/20260130/11453382/trump-considera-peligroso-londres-negocios-pekin.html][Trump considera “muy peligroso” para Londres hacer negocios con Pekín]]
+- [[https://www.lavanguardia.com/economia/20260130/11453362/trump-kevin-warsh-reserva-federal.html][Trump anunciará hoy su candidato a presidir la Fed, con Kevin Warsh como gran favorito]]
+- [[https://www.lavanguardia.com/deportes/tenis/20260130/11453384/alcaraz-disfraza-nadal-australia-calambres-zverev-frenan-numero.html][Alcaraz supera calambres y vómitos en un épico choque de más de cinco horas frente a Zverev y jugará la final]]
+- [[https://www.lavanguardia.com/deportes/tenis/20260130/11453491/alcaraz-sido-partidos-mas-duros-mi-carrera.html][Alcaraz: “Ha sido uno de los partidos más duros de mi carrera”]]
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/politica/alertan-avance-discursos-racistas-rechazo-centro-acogida-menores-cartes-han-venido-causar-problemas-han-venido-sobrevivir/20260130115436187898.html][Alertan del avance de discursos racistas ante el rechazo al centro de acogida de menores en Cartes: “No han venido a causar problemas, han venido a sobrevivir"]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/hallan-troceada-trastero/20260130105522187896.html][Hallan la estatua de Seve Ballesteros troceada en un trastero y “preparada para su venta”]]
+- [[https://eldiariocantabria.publico.es/articulo/deportes/triunfo-primer-partido-iv-torneo-invernal/20260130103147187894.html][Triunfo en el primer partido del IV Torneo Invernal]]
 - [[https://eldiariocantabria.publico.es/articulo/saja-besaya/licitacion-construccion-7-viviendas-alquiler-asequible-liencres/20260129205935187891.html][A licitación la construcción de 7 viviendas de alquiler asequible en Liencres]]
 - [[https://eldiariocantabria.publico.es/articulo/politica/pasaje-seguro-rechaza-terminos-oportunistas-racistas-polemica-entre-cartes-gobierno-centro-acogida-menores/20260129204737187889.html][Pasaje Seguro rechaza los “términos oportunistas y racistas” de la polémica entre Cartes y el Gobierno sobre el centro de acogida a menores]]
-- [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/pleno-aprueba-unanimidad-convenio-servicio-bomberos/20260129202646187888.html][El Pleno aprueba por unanimidad el convenio para el servicio de bomberos]]
-- [[https://eldiariocantabria.publico.es/articulo/torrelavega/reparto-2345-arboles-solicitados-campana-2026-arrancara-6-febrero/20260129201547187886.html][El reparto de 2.345 árboles solicitados en la Campaña 2026 arrancará el 6 de febrero]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/ayuntamiento-estudia-proyecto-reforma-sardinero-considera-que-es-momento-crear-mesa-trabajo/20260129200456187884.html][El Ayuntamiento estudia el proyecto de reforma del Sardinero pero considera que “no es el momento” de crear la mesa de trabajo]]
 
 ** 🇺🇸 Estados Unidos
 
@@ -79,11 +79,11 @@
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/01/30/india-energy-week-trump-canada-oil/][At India’s main energy summit, signs of a new world order without Trump]]
+- [[https://www.washingtonpost.com/world/2026/01/30/iraq-iran-nouri-maliki/][A U.S. letter opposed Iraqis’ choice of prime minister. They went ahead anyway.]]
+- [[https://www.washingtonpost.com/world/2026/01/30/ukraine-russia-trump-energy-ceasefire/][Ukraine wakes to possible pause in Russian energy strikes after Trump call]]
+- [[https://www.washingtonpost.com/world/2026/01/30/ice-olympics-backlash-gestapo-comparison/][The world recoils at Trump’s ‘paramilitary’ force]]
 - [[https://www.washingtonpost.com/national-security/2026/01/29/cuba-trump-rubio-oil-executive-order/][Trump tightens screws on Cuba, threatening tariffs on oil suppliers]]
-- [[https://www.washingtonpost.com/world/2026/01/29/us-companies-venezuela-oil/][Trump administration eases barriers for U.S. firms to sell Venezuelan oil]]
-- [[https://www.washingtonpost.com/world/2026/01/29/ukraine-russia-trump-zelensky-negotiations/][Russia’s top diplomat rejects key part of deal to end war with Ukraine]]
-- [[https://www.washingtonpost.com/national-security/2026/01/29/machado-trump-venezuela-opposition/][Friction emerges between Trump, Venezuelan opposition over Machado’s return]]
-- [[https://www.washingtonpost.com/national-security/2026/01/29/trump-iran-military-strikes-protesters/][Trump weighs imminent Iran strikes, but what’s the mission?]]
 
 *** WSJ.com: World News
 
@@ -97,29 +97,29 @@
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/planete/article/2026/01/30/laits-infantiles-la-presence-de-toxine-dans-des-produits-de-nestle-etait-identifiee-dix-jours-avant-les-premiers-rappels-des-la-fin-novembre_6664682_3244.html][Laits infantiles : la présence de toxine dans des produits de Nestlé était identifiée dix jours avant les premiers rappels, dès la fin novembre]]
-- [[https://www.lemonde.fr/international/article/2026/01/29/il-ne-reste-plus-qu-a-s-en-aller-a-cuba-la-vie-devenue-impossible_6664545_3210.html][« Il ne reste plus qu’à s’en aller » : à Cuba, la vie devenue impossible]]
-- [[https://www.lemonde.fr/international/live/2026/01/30/en-direct-guerre-en-ukraine-volodymyr-zelensky-compte-sur-washington-pour-parvenir-a-la-treve-russe-annoncee-par-donald-trump_6664247_3210.html][EN DIRECT, guerre en Ukraine : Volodymyr Zelensky compte sur Washington pour parvenir à la trêve russe annoncée par Donald Trump]]
-- [[https://www.lemonde.fr/international/article/2026/01/29/au-venezuela-l-assemblee-adopte-une-loi-petroliere-favorable-au-secteur-prive-sous-pression-americaine_6664668_3210.html][Au Venezuela, une nouvelle donne pour le pétrole avec la levée des sanctions américaines et une réforme favorable au secteur privé]]
-- [[https://www.lemonde.fr/societe/article/2026/01/29/violences-physiques-en-hausse-vols-de-vehicule-en-baisse-les-chiffres-contrastes-de-la-delinquance-en-2025_6664669_3224.html][Violences physiques en hausse, vols de véhicule en baisse, les chiffres contrastés de la délinquance en 2025]]
+- [[https://www.lemonde.fr/politique/article/2026/01/30/jean-luc-melenchon-tente-de-seduire-les-petits-patrons_6664714_823448.html][Jean-Luc Mélenchon tente de séduire les petits patrons]]
+- [[https://www.lemonde.fr/international/article/2026/01/30/en-chine-l-enigme-et-l-onde-de-choc-de-la-purge-des-plus-haut-grades-de-l-armee-par-xi-jinping_6664691_3210.html][En Chine, l’énigme et l’onde de choc de la purge des plus haut gradés de l’armée par Xi Jinping]]
+- [[https://www.lemonde.fr/international/article/2026/01/30/mort-d-alex-pretti-a-minneapolis-donald-trump-le-qualifie-d-agitateur_6664708_3210.html][Mort d’Alex Pretti à Minneapolis : Donald Trump le qualifie d’« agitateur », après la diffusion d’une vidéo montrant une altercation entre l’infirmier et des agents fédéraux]]
+- [[https://www.lemonde.fr/pixels/article/2026/01/30/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-pourquoi-tout-le-monde-devra-bientot-faire-verifier-son-age_6664715_4408996.html][Interdiction des réseaux sociaux aux moins de 15 ans : pourquoi tout le monde devra bientôt faire vérifier son âge]]
+- [[https://www.lemonde.fr/pixels/article/2026/01/29/cryptomonnaies-vols-et-failles-a-repetition-chez-waltio-gestionnaire-de-donnees-fiscales-de-detenteurs-francais_6664646_4408996.html][Waltio : vols et failles à répétition chez ce gestionnaire de données fiscales de détenteurs français de cryptomonnaies]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/interventionnisme-chantage-imperialisme-les-souverainistes-d-europe-desarconnes-par-trump-20260129][Interventionnisme, chantage, impérialisme : les souverainistes d’Europe désarçonnés par Trump]]
-- [[https://www.lefigaro.fr/international/tara-varma-l-administration-trump-n-a-pas-l-intention-de-se-detourner-de-l-europe-20260129][Tara Varma : « L’Administration Trump n’a pas l’intention de se détourner de l’Europe »]]
-- [[https://www.lefigaro.fr/international/en-direct-iran-donald-trump-etats-unis-gardiens-de-la-revolution-menaces-attaque-repression-turquie-20260129][EN DIRECT - Donald Trump «espère ne pas devoir» frapper l’Iran]]
+- [[https://www.lefigaro.fr/international/mohsen-sazegara-fondateur-des-gardiens-de-la-revolution-j-ai-cree-un-monstre-dresse-contre-le-peuple-iranien-20260130][Mohsen Sazegara, fondateur des gardiens de la révolution : «J’ai créé un monstre dressé contre le peuple iranien»]]
+- [[https://www.lefigaro.fr/international/la-france-rejoint-le-combat-europeen-contre-les-gardiens-de-la-revolution-iranienne-20260129][La France rejoint le combat européen contre les gardiens de la révolution iranienne]]
 - [[https://www.lefigaro.fr/international/veritable-etat-dans-l-etat-qui-sont-vraiment-les-gardiens-de-la-revolution-en-iran-20260129][Véritable État dans l’État, qui sont vraiment les gardiens de la révolution en Iran ?]]
-- [[https://www.lefigaro.fr/international/iran-l-union-europeenne-place-les-gardiens-de-la-revolution-sur-la-liste-des-organisations-terroristes-20260129][Iran : l’UE place les gardiens de la révolution sur la liste des organisations terroristes, Téhéran dénonce une décision «irresponsable»]]
+- [[https://www.lefigaro.fr/international/en-direct-iran-erdogan-propose-a-teheran-de-jouer-un-role-de-facilitateur-avec-les-etats-unis-20260130][EN DIRECT - Iran : Erdogan propose à Téhéran de jouer un rôle de «facilitateur» avec les États-Unis]]
+- [[https://www.lefigaro.fr/international/clement-therme-des-frappes-americaines-en-iran-pourraient-aussi-bien-accelerer-la-chute-du-regime-que-prolonger-sa-survie-20260129][Clément Therme : «Des frappes américaines en Iran pourraient aussi bien accélérer la chute du régime que prolonger sa survie»]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
+- [[https://www.bbc.com/news/articles/c394ymdpjwvo?at_medium=RSS&at_campaign=rss][Trump says 'it would be great' if US 'didn't have to use' military force on Iran]]
 - [[https://www.bbc.com/news/articles/c4g4yj92kwro?at_medium=RSS&at_campaign=rss][Trump says Putin will not attack Ukraine cities during cold week]]
-- [[https://www.bbc.com/news/articles/cvg1l8zgglpo?at_medium=RSS&at_campaign=rss][Agents in Minneapolis could be pulled back if local officials cooperate, border tsar says]]
-- [[https://www.bbc.com/news/articles/c20gypw8enjo?at_medium=RSS&at_campaign=rss][EU adds Iran's Revolutionary Guards to terrorist list]]
-- [[https://www.bbc.com/news/articles/c4g0y6yp2vno?at_medium=RSS&at_campaign=rss][Man accused of impersonating FBI agent in bid to free Luigi Mangione]]
-- [[https://www.bbc.com/news/articles/cgjwxdz45ywo?at_medium=RSS&at_campaign=rss][France moves to abolish concept of marital duty to have sex]]
+- [[https://www.bbc.com/news/articles/c338ygzl7meo?at_medium=RSS&at_campaign=rss][Panama voids Hong Kong-based firm's canal port contracts]]
+- [[https://www.bbc.com/news/articles/cvg1l8zgglpo?at_medium=RSS&at_campaign=rss][Agents in Minneapolis could be pulled back if local officials co-operate, border tsar says]]
+- [[https://www.bbc.com/news/articles/c23ryyrx40yo?at_medium=RSS&at_campaign=rss][Trump and his sons sue IRS and US Treasury over leaked tax information]]
 
 *** The Guardian
 
@@ -155,11 +155,11 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/cyprus-to-greenland-could-uk-military-bases-guide-us-moves/a-75722208?maca=en-rss-en-world-4025-rdf][Cyprus to Greenland: Could UK military bases guide US moves?]]
+- [[https://www.dw.com/en/ukraine-at-war-battered-by-russia-and-winter-but-unbending/a-75720202?maca=en-rss-en-world-4025-rdf][Ukraine at war: Battered by Russia and winter but unbending]]
+- [[https://www.dw.com/en/syria-kurdish-led-sdf-and-government-agree-integration-deal/a-75724282?maca=en-rss-en-world-4025-rdf][Syria: Kurdish-led SDF and government agree integration deal]]
+- [[https://www.dw.com/en/trump-sues-irs-tax-agency-treasury-over-leaked-records/a-75722135?maca=en-rss-en-world-4025-rdf][Trump sues IRS tax agency, Treasury over leaked records]]
 - [[https://www.dw.com/en/trump-threatens-tariffs-on-countries-selling-oil-to-cuba/a-75721218?maca=en-rss-en-world-4025-rdf][Trump threatens tariffs on countries selling oil to Cuba]]
-- [[https://www.dw.com/en/venezuela-opens-its-oil-sector-to-private-investors/a-75720958?maca=en-rss-en-world-4025-rdf][Venezuela opens its oil sector to private investors]]
-- [[https://www.dw.com/en/burkina-faso-junta-dissolves-all-political-parties/a-75720851?maca=en-rss-en-world-4025-rdf][Burkina Faso junta dissolves all political parties]]
-- [[https://www.dw.com/en/the-eu-takes-on-musk-s-ai-that-undresses-women-can-it-protect-its-citizens/a-75709719?maca=en-rss-en-world-4025-rdf][The EU takes on Musk's AI that 'undresses' women. Can it protect its citizens?]]
-- [[https://www.dw.com/en/silver-why-the-price-of-poor-man-s-gold-has-hit-a-record/a-75086411?maca=en-rss-en-world-4025-rdf][Silver: Why the price of 'poor man's gold' has hit a record]]
 
 
 * 🧠 Think Tanks
