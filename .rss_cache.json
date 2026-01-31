@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-31T00:00:02.704550",
+  "timestamp": "2026-01-31T06:00:03.188889",
   "data": {
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada": [
       {
-        "title": "Delcy Rodríguez anuncia una amnistía general para los cientos de presos en Venezuela",
+        "title": "Delcy Rodríguez anuncia una amnistía general para los presos políticos en Venezuela",
         "link": "https://elpais.com/america/2026-01-30/delcy-rodriguez-anuncia-una-amnistia-general-para-los-cientos-de-presos-en-venezuela.html"
       },
       {
@@ -25,24 +25,24 @@
     ],
     "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml": [
       {
-        "title": "Decenas de miles de personas vuelven al llenar las calles de Mineápolis clamando contra el ICE y Trump",
-        "link": "https://www.elmundo.es/internacional/2026/01/30/697d0b8efdddff191f8b459d.html"
+        "title": "Cuatro de cada 10 españoles creen ya que el tren de alta velocidad es poco o nada seguro",
+        "link": "https://www.elmundo.es/espana/encuestas/2026/01/30/697d0d0ee4d4d8d8158b4588.html"
       },
       {
-        "title": "Sánchez promete a las víctimas de Adamuz \"respuestas a las preguntas llegando hasta el final\" tras la exigencia de las familias de \"luchar por la verdad\"",
-        "link": "https://www.elmundo.es/espana/2026/01/30/697ca050e9cf4a475a8b45ad.html"
+        "title": "Puente insiste en el defecto en el carril como hipótesis del descarrilamiento del Iryo en Adamuz",
+        "link": "https://www.elmundo.es/economia/2026/01/30/697d0306e4d4d828378b45b5.html"
       },
       {
-        "title": "La muerte de una mujer hospitalizada tras el accidente en Adamuz eleva a 46 la cifra de fallecidos",
-        "link": "https://www.elmundo.es/andalucia/2026/01/30/697cf28be4d4d840138b45d3.html"
+        "title": "Rechazo mayoritario a la regularización de inmigrantes de Sánchez, que tampoco gusta al 37% de los votantes del PSOE y al 19% de los de Sumar",
+        "link": "https://www.elmundo.es/espana/encuestas/2026/01/30/697d165cfc6c8326668b4571.html"
       },
       {
-        "title": "Alcaraz consigue una de las victorias más épicas de su vida al superar a Zverev y a los calambres para clasificarse para la final de Australia",
-        "link": "https://www.elmundo.es/deportes/tenis/open-de-australia/2026/01/30/697c4e4b21efa005118b459e.html"
+        "title": "La recuperación de Alcaraz entre un mensaje a Fernando Alonso y un carrito de golf: \"Cuando me levante voy a estar tieso\"",
+        "link": "https://www.elmundo.es/deportes/tenis/open-de-australia/2026/01/30/697caca0e9cf4a611f8b4592.html"
       },
       {
-        "title": "Djokovic impone su prodigiosa longevidad ante Sinner y será el rival de Alcaraz en la final",
-        "link": "https://www.elmundo.es/deportes/tenis/open-de-australia/2026/01/30/697cc5fce85ece63488b4571.html"
+        "title": "Nadal llega a Australia para la final: \"Carlos puede recuperarse mejor que Djokovic\"",
+        "link": "https://www.elmundo.es/deportes/tenis/open-de-australia/2026/01/31/697d52dcfc6c830a4d8b45a2.html"
       }
     ],
     "https://www.lavanguardia.com/rss/home.xml": [
@@ -55,16 +55,16 @@
         "link": "https://www.lavanguardia.com/internacional/20260130/11454164/aznar-recibio-dos-paquetes-epstein.html"
       },
       {
-        "title": "¿Por qué Donald Trump está ahora asustado por lo que ha hecho el ICE en Minneapolis?",
-        "link": "https://www.lavanguardia.com/internacional/20260130/11453920/donald-trump-esta-asustado-hecho-ice-minneapolis.html"
+        "title": "Delcy Rodríguez anuncia un proyecto de ley de amnistía general para presos políticos en Venezuela",
+        "link": "https://www.lavanguardia.com/internacional/20260131/11454364/delcy-rodriguez-anuncia-proyecto-ley-amnistia-general-presos-politicos-venezuela.html"
       },
       {
-        "title": "El expresentador de la CNN Don Lemon, arrestado tras una protesta en una iglesia en Minnesota",
-        "link": "https://www.lavanguardia.com/internacional/20260130/11453845/expresentador-cnn-don-lemon-arrestado-protesta-iglesia-minnesota.html"
+        "title": "Venezuela: todo en orden",
+        "link": "https://www.lavanguardia.com/opinion/20260131/11454178/venezuela-orden.html"
       },
       {
-        "title": "Trump elige a Kevin Warsh para la Fed, un economista a favor de bajar los tipos de interés",
-        "link": "https://www.lavanguardia.com/economia/20260130/11453713/trump-elige-kevin-warsh-fed-economista-favor-bajar-tipos-interes.html"
+        "title": "Un periodista detenido la víspera del día de huelga nacional contra el ICE",
+        "link": "https://www.lavanguardia.com/internacional/20260131/11454162/periodista-detenido-vispera-dia-huelga-nacional-ice.html"
       }
     ],
     "https://eldiariocantabria.publico.es/rss/": [
@@ -92,6 +92,10 @@
     "https://rss.nytimes.com/services/xml/nyt/World.xml": [],
     "https://feeds.washingtonpost.com/rss/world": [
       {
+        "title": "U.S. approves more than $15 billion in arms sales to Israel and Saudi Arabia",
+        "link": "https://www.washingtonpost.com/world/2026/01/30/us-israel-arms-sales-saudi-arabia/"
+      },
+      {
         "title": "Trump says U.S. will decertify Canadian-made planes, threatens 50% tariff",
         "link": "https://www.washingtonpost.com/politics/2026/01/30/us-trump-canada-aircraft-tariff/"
       },
@@ -106,32 +110,28 @@
       {
         "title": "Belarusian balloons full of cigarettes pose NATO’s latest security threat",
         "link": "https://www.washingtonpost.com/world/2026/01/30/belarus-balloons-nato-russia-threat/"
-      },
-      {
-        "title": "As D.C. faces snow woes, here’s how cities around the world plow ahead",
-        "link": "https://www.washingtonpost.com/world/2026/01/30/washington-dc-snow-removal-japan-finland/"
       }
     ],
     "https://feeds.content.dowjones.io/public/rss/RSSWorldNews": [
       {
-        "title": "Shake-Up Elevates U.A.E. Crown Prince Into $260 Billion Sovereign Wealth Role",
-        "link": "https://www.wsj.com/world/middle-east/shake-up-elevates-u-a-e-crown-prince-into-260-billion-sovereign-wealth-role-7a665fa0"
+        "title": "Why China Cares About Being Cool All of a Sudden",
+        "link": "https://www.wsj.com/world/china/labubu-youtube-influencers-gen-z-7271596a"
       },
       {
-        "title": "Zelensky Voices Support for U.S.-Backed ‘Energy Truce’ With Russia",
-        "link": "https://www.wsj.com/world/zelensky-voices-support-for-u-s-backed-energy-truce-with-russia-1aeadb27"
+        "title": "High-Profile Arrests Spark Exodus of Scam Workers in Cambodia",
+        "link": "https://www.wsj.com/world/asia/high-profile-arrests-spark-exodus-of-scam-workers-in-cambodia-ad045325"
       },
       {
-        "title": "Ukraine Can No Longer Spare Its Youngest Soldiers From the Front Lines",
-        "link": "https://www.wsj.com/world/ukraine-young-soldiers-russia-war-e7c28620"
+        "title": "How America First Risks Becoming America Alone",
+        "link": "https://www.wsj.com/world/how-america-first-risks-becoming-america-alone-6592701a"
       },
       {
-        "title": "Trump Threatens to Ground Canadian Aircraft and Apply Tariffs to Imports",
-        "link": "https://www.wsj.com/world/americas/trump-threatens-to-ground-canadian-aircraft-and-apply-tariffs-to-imports-ebdce86e"
+        "title": "China’s PMI Falls in January",
+        "link": "https://www.wsj.com/world/china/chinas-pmi-falls-in-january-5d41194b"
       },
       {
-        "title": "A Plan to Save Elephants Sparked a Deadly Conflict",
-        "link": "https://www.wsj.com/world/a-plan-to-save-elephants-sparked-a-deadly-conflict-2bb13ef0"
+        "title": "Trump’s Armada Is Getting in Place. Now He Must Decide What to Do With Iran.",
+        "link": "https://www.wsj.com/world/middle-east/trumps-armada-is-getting-in-place-now-he-must-decide-what-to-do-with-iran-93007d5a"
       }
     ],
     "https://www.lemonde.fr/rss/une.xml": [
@@ -148,12 +148,12 @@
         "link": "https://www.lemonde.fr/culture/article/2026/01/30/catherine-o-hara-celebre-pour-ses-roles-dans-maman-j-ai-rate-l-avion-et-beetlejuice-est-morte_6664821_3246.html"
       },
       {
-        "title": "« Ils tirent, arrêtent, rackettent, c’est la terreur en permanence » : au Soudan, l’« Etat FSR » raconté par ceux qui l’ont fui",
-        "link": "https://www.lemonde.fr/afrique/article/2026/01/30/ils-tirent-arretent-rackettent-c-est-la-terreur-en-permanence-au-soudan-l-etat-fsr-raconte-par-ceux-qui-l-ont-fui_6664793_3212.html"
-      },
-      {
         "title": "A Crans-Montana, malaise autour du maintien d’une manche de la Coupe du monde de ski",
         "link": "https://www.lemonde.fr/sport/article/2026/01/30/a-crans-montana-malaise-autour-du-maintien-d-une-manche-de-la-coupe-du-monde-de-ski_6664827_3242.html"
+      },
+      {
+        "title": "Manifestations dans le Minnesota : un ancien présentateur de CNN poursuivi pour entrave à la liberté de culte",
+        "link": "https://www.lemonde.fr/international/article/2026/01/30/manifestations-dans-le-minnesota-un-ancien-presentateur-de-cnn-poursuivi-pour-entrave-a-la-liberte-de-culte_6664784_3211.html"
       }
     ],
     "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
@@ -162,23 +162,27 @@
         "link": "https://www.lefigaro.fr/international/seule-une-aide-exterieure-pourra-nous-sauver-les-iraniens-s-en-remettent-a-une-incertaine-intervention-des-etats-unis-20260130"
       },
       {
-        "title": "EN DIRECT - L’Iran veut «conclure un accord» avec les États-Unis, assure Donald Trump",
-        "link": "https://www.lefigaro.fr/international/en-direct-iran-erdogan-propose-a-teheran-de-jouer-un-role-de-facilitateur-avec-les-etats-unis-20260130"
-      },
-      {
-        "title": "Face à l’Iran, les options limitées de la puissance militaire américaine",
-        "link": "https://www.lefigaro.fr/international/face-a-l-iran-les-options-limitees-de-la-puissance-militaire-americaine-20260130"
-      },
-      {
-        "title": "L’éditorial de Philippe Gélie : «Iran, Donald Trump contre les tyrans»",
-        "link": "https://www.lefigaro.fr/vox/monde/l-editorial-de-philippe-gelie-iran-donald-trump-contre-les-tyrans-20260130"
-      },
-      {
         "title": "Plus pauvre que Chypre ou la Belgique : l’impressionnant décrochage de la France en Europe",
         "link": "https://www.lefigaro.fr/conjoncture/plus-pauvre-que-chypre-ou-la-belgique-l-impressionnant-decrochage-de-la-france-en-europe-20260130"
+      },
+      {
+        "title": "À la traîne de l’Europe, la France s’installe dans la croissance molle",
+        "link": "https://www.lefigaro.fr/conjoncture/a-la-traine-de-l-europe-la-france-s-installe-dans-la-croissance-molle-20260130"
+      },
+      {
+        "title": "Elon Musk, Donald Trump, Richard Branson... Quelles personnalités sont citées dans les derniers documents de l'affaire Epstein ?",
+        "link": "https://www.lefigaro.fr/international/elon-musk-donald-trump-richard-branson-quelles-personnalites-sont-citees-dans-les-derniers-documents-de-l-affaire-epstein-20260131"
+      },
+      {
+        "title": "Des notes de Jeffrey Epstein accusent Bill Gates de relations extraconjugales",
+        "link": "https://www.lefigaro.fr/international/des-notes-de-jeffrey-epstein-accusent-bill-gates-de-relations-extraconjugales-20260131"
       }
     ],
     "https://feeds.bbci.co.uk/news/world/rss.xml": [
+      {
+        "title": "Takeaways from the millions of newly released Epstein files",
+        "link": "https://www.bbc.com/news/articles/cevnmxyy4wjo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Schitt's Creek and Home Alone star Catherine O'Hara dies aged 71",
         "link": "https://www.bbc.com/news/articles/czr4jn4621lo?at_medium=RSS&at_campaign=rss"
@@ -188,16 +192,12 @@
         "link": "https://www.bbc.com/news/articles/cr579mdv4m7o?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "One wrong move and it could all go wrong - the men clearing deadly undersea Russian mines",
+        "link": "https://www.bbc.com/news/articles/c70lgwprw7ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Trump picks Kevin Warsh to lead the US Federal Reserve",
         "link": "https://www.bbc.com/news/articles/c2d7yddrl2xo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Luigi Mangione will not face death penalty if convicted, judge rules",
-        "link": "https://www.bbc.com/news/articles/c78egdg3r0po?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Former CNN host Don Lemon faces charges after anti-ICE protest at Minnesota church",
-        "link": "https://www.bbc.com/news/articles/c24gm3dz36po?at_medium=RSS&at_campaign=rss"
       }
     ],
     "https://www.theguardian.com/world/rss": [
@@ -269,6 +269,10 @@
     ],
     "https://rss.dw.com/rdf/rss-en-world": [
       {
+        "title": "Venezuela: Interim president proposes amnesty bill",
+        "link": "https://www.dw.com/en/venezuela-interim-president-proposes-amnesty-bill/a-75737147?maca=en-rss-en-world-4025-rdf"
+      },
+      {
         "title": "Fact check: Are ICE fakes trying to drown out real videos?",
         "link": "https://www.dw.com/en/fact-check-are-ice-fakes-trying-to-drown-out-real-videos/a-75727971?maca=en-rss-en-world-4025-rdf"
       },
@@ -283,10 +287,6 @@
       {
         "title": "Iran: A mosaic state rife with internal conflicts",
         "link": "https://www.dw.com/en/iran-a-mosaic-state-rife-with-internal-conflicts/a-75729983?maca=en-rss-en-world-4025-rdf"
-      },
-      {
-        "title": "Is US president Trump more popular than polls suggest?",
-        "link": "https://www.dw.com/en/is-us-president-trump-more-popular-than-polls-suggest/a-75726754?maca=en-rss-en-world-4025-rdf"
       }
     ]
   }
