@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GeoIntel Analysis</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { background-color: #09090b; }
+        .glass { background: rgba(24, 24, 27, 0.8); backdrop-filter: blur(10px); }
+    </style>
+</head>
+<body class="text-zinc-300 font-sans min-h-screen">
+    <div class="max-w-5xl mx-auto px-4 py-12 flex flex-col items-center">
+        <header class="w-full text-center mb-16">
+            <h1 class="text-4xl font-extrabold text-white tracking-tight mb-2">
+                <span class="text-orange-600">🛰</span> OSINT Intelligence Dashboard
+            </h1>
+            <p class="text-zinc-500 font-mono text-sm uppercase tracking-widest">
+                Última actualización: 2026-02-02 22:52
+            </p>
+            <div class="h-1 w-32 bg-orange-600 mx-auto mt-4 rounded-full"></div>
+        </header>
+
+        <main class="w-full space-y-20">
+            <section class="flex flex-col items-center">
+                <h2 class="text-2xl font-bold text-red-500 mb-6 flex items-center gap-2"><span>🔥</span> Tendencias de Hoy</h2>
+                <div class="glass p-2 rounded-xl border border-zinc-800 shadow-2xl transition-colors">
+                    <img src="cloud_today.png" alt="Hoy" class="rounded-lg shadow-inner max-w-full h-auto">
+                </div>
+            </section>
+            <section class="flex flex-col items-center">
+                <h2 class="text-2xl font-bold text-purple-500 mb-6 flex items-center gap-2"><span>🔄</span> Temas Recurrentes (+3 días)</h2>
+                <div class="glass p-2 rounded-xl border border-zinc-800 shadow-2xl transition-colors">
+                    <img src="cloud_recurrent.png" alt="Recurrentes" class="rounded-lg shadow-inner max-w-full h-auto">
+                </div>
+            </section>
+            <section class="flex flex-col items-center">
+                <h2 class="text-2xl font-bold text-blue-500 mb-6 flex items-center gap-2"><span>📊</span> Acumulado Semanal (7 días)</h2>
+                <div class="glass p-2 rounded-xl border border-zinc-800 shadow-2xl transition-colors">
+                    <img src="cloud_weekly.png" alt="Semanal" class="rounded-lg shadow-inner max-w-full h-auto">
+                </div>
+            </section>
+        </main>
+        <footer class="mt-20 pt-8 border-t border-zinc-900 w-full text-center text-zinc-600 text-xs">
+            Generado automáticamente en DietPi Linux | Raspberry Pi 3 OSINT Engine
+        </footer>
+    </div>
+</body>
+</html>
