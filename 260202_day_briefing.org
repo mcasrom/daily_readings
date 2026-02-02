@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
-#+HTML: <div class='telemetry'>🌡 38.6°C | ⚖ Load: 0.02 | 🌐 Ping: 9.52ms</div>
+#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
+#+HTML: <div class='telemetry'>🌡 37.6°C | ⚖ Load: 0.00 | 🌐 Ping: 9.54ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,11 +49,11 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/deportes/tenis/open-de-australia/2026/02/01/697f3a55e9cf4ace388b456f.html][El rey ha muerto, viva el rey: Alcaraz destrona al mejor Djokovic en Australia y todos los Grand Slam son suyos]]
+- [[https://www.elmundo.es/espana/2026/02/01/697f768ee85ece72138b458a.html][Zapatero cobró el 45% de los ingresos de la empresa de su amigo en Plus Ultra]]
+- [[https://www.elmundo.es/espana/encuestas/2026/02/01/697f72b9fc6c83f4438b458f.html][Azcón deberá pactar con Vox para gobernar Aragón pese a que el PSOE cae en picado]]
+- [[https://www.elmundo.es/economia/macroeconomia/2026/02/01/697c9d22e9cf4ade7d8b4576.html][El Gobierno 'congela' la fase 2 de la liberalización ferroviaria tras la tragedia de Adamuz: "No es el momento"]]
+- [[https://www.elmundo.es/deportes/tenis/open-de-australia/2026/02/02/6980125921efa0195e8b4583.html][Carlos Alcaraz: "Las cosas negativas que leí me afectaron, incluso me entraron dudas"]]
 - [[https://www.elmundo.es/deportes/tenis/open-de-australia/2026/02/01/697f344e21efa0ef798b457e.html][La reivindicación 'en caliente' de Alcaraz: "Nadie sabe lo duro que he trabajado"]]
-- [[https://www.elmundo.es/deportes/tenis/open-de-australia/2026/02/01/697f393b21efa0e2658b4589.html][¿Hasta dónde puede llegar Carlos Alcaraz? Sólo él puede limitarse]]
-- [[https://www.elmundo.es/deportes/tenis/open-de-australia/2026/02/01/697f635c21efa0672d8b4580.html][La celebración de Alcaraz, de una copa de champán al tatuaje de un canguro: "Mucha gente habló de mí y me puso en duda"]]
-- [[https://www.elmundo.es/deportes/tenis/open-de-australia/2026/02/01/697ef764fdddff64028b4584.html][Lo que para otras leyendas fue un trauma convierte a Alcaraz en historia: el 'Career Slam' que confirma su histórica precocidad]]
 
 *** La Vanguardia
 
@@ -65,11 +65,11 @@
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/deportes/granada-sigue-inexpugnable-racing-1/20260202002731187997.html][Granada sigue inexpugnable para el Racing]]
 - [[https://eldiariocantabria.publico.es/articulo/cantabria/leonardo-nueva-borrasca-que-llega-peninsula/20260201200144187995.html][Leonardo, la nueva borrasca que llega a la península]]
 - [[https://eldiariocantabria.publico.es/articulo/santander/centenar-personas-denuncia-santander-abandono-que-sufren-perros-caza-animales-son-herramientas-ni-objetos-vida-dignidad-merecen-respeto/20260201193139187992.html][Un centenar de personas denuncia en Santander el "abandono" que sufren los perros de caza: "Los animales no son herramientas ni objetos, y su vida y dignidad merecen respeto"]]
 - [[https://eldiariocantabria.publico.es/articulo/cantabria/alerta-amarilla-liebana-rachas-80-km-h-viento-sur-marcaran-inicio-semana/20260201192305187990.html][Alerta amarilla en Liébana: rachas de 80 km/h de viento sur marcarán el inicio de la semana]]
 - [[https://eldiariocantabria.publico.es/articulo/cantabria/motivo-que-cantabros-han-podido-retirar-medicinas-manana/20260201185728187989.html][El motivo por el que los cántabros no han podido retirar sus medicinas esta mañana]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/ayuntamiento-ubica-paso-peatonal-elevado-castros-mejorar-seguridad-vial/20260201184525187988.html][El Ayuntamiento ubica un paso peatonal elevado en Los Castros para mejorar la seguridad vial]]
 
 ** 🇺🇸 Estados Unidos
 
@@ -79,7 +79,7 @@
 
 *** The Washington Post
 
-- [[https://www.washingtonpost.com/world/2026/02/01/russia-strikes-energy-miners-starlink-ceasefire/][Russia strikes Ukrainian energy sector after Trump push for short-lived pause]]
+- [[https://www.washingtonpost.com/world/2026/02/01/russia-strikes-energy-miners-starlink-ceasefire/][Russia strikes Ukrainian energy sector after Trump push for pause]]
 - [[https://www.washingtonpost.com/world/2026/02/01/iran-missiles-persian-gulf-trump-military-buildup/][Iran’s missiles pose deadly threat, gulf allies warn, as Trump weighs strikes]]
 - [[https://www.washingtonpost.com/world/2026/01/31/gaza-israel-strikes/][Israeli airstrikes kill 32 in Gaza, Palestinian officials say]]
 - [[https://www.washingtonpost.com/world/2026/01/31/epstein-andrew-buckingham-palace-photos/][Epstein file photos appear to show Andrew crouched over female on floor]]
@@ -87,39 +87,39 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/middle-east/saudi-media-takes-an-anti-israel-turn-403ff577][Saudi Media Takes an Anti-Israel Turn]]
 - [[https://www.wsj.com/world/middle-east/before-any-strike-on-iran-u-s-needs-to-bolster-air-defenses-in-mideast-faca35a9][Before Any Strike on Iran, U.S. Needs to Bolster Air Defenses in Mideast]]
 - [[https://www.wsj.com/world/middle-east/gaza-crossing-into-egypt-will-open-to-palestinians-monday-israel-says-422727f3][Gaza Crossing Into Egypt Will Open to Palestinians Monday, Israel Says]]
 - [[https://www.wsj.com/world/europe/french-firm-to-sell-division-that-helps-ice-track-immigrants-4c284600][French Firm to Sell Division That Helps ICE Track Immigrants]]
 - [[https://www.wsj.com/world/middle-east/irans-gen-z-helped-propel-the-protests-they-paid-with-their-lives-80675ef3][Iran’s Gen Z Helped Propel the Protests. They Paid With Their Lives.]]
-- [[https://www.wsj.com/world/china/chinas-xi-now-alone-atop-his-military-is-the-sole-voice-in-tackling-taiwan-388bdabd][China’s Xi, Now Alone Atop His Military, Is the Sole Voice in Tackling Taiwan]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
+- [[https://www.lemonde.fr/politique/article/2026/02/02/de-la-nomination-de-sebastien-lecornu-au-vote-du-budget-retour-sur-les-cinq-mois-qui-ont-permis-au-premier-ministre-de-s-imposer_6665043_823448.html][De la nomination de Sébastien Lecornu au vote du budget : retour sur les cinq mois qui ont permis au premier ministre de s’imposer]]
 - [[https://www.lemonde.fr/international/article/2026/02/01/le-guide-supreme-iranien-ali-khamenei-avertit-d-une-guerre-regionale-en-cas-d-attaque-americaine_6664962_3211.html][Après la mise en garde d’Ali Khamenei, Donald Trump dit espérer un accord avec l’Iran]]
-- [[https://www.lemonde.fr/economie/article/2026/02/01/openai-spacex-et-anthropic-veulent-decrocher-le-graal-de-wall-street-sur-fonds-de-doutes-financiers_6664983_3234.html][OpenAI, SpaceX et Anthropic veulent décrocher le graal de Wall Street sur fond de doutes financiers]]
-- [[https://www.lemonde.fr/idees/article/2026/02/01/pour-eviter-la-trumpisation-de-la-france-il-faut-tenter-d-eviter-les-pieges-dans-lesquels-sont-tombes-les-progressistes-americains_6664954_3232.html][« Pour éviter la trumpisation de la France, il faut tenter d’éviter les pièges dans lesquels sont tombés les progressistes américains »]]
-- [[https://www.lemonde.fr/politique/article/2026/02/01/lourde-defaite-pour-lr-en-haute-savoie-battu-lors-d-une-legislative-partielle-par-le-candidat-d-eric-ciotti_6665020_823448.html][Lourde défaite pour LR en Haute-Savoie, battu lors d’une législative partielle par le candidat d’Eric Ciotti]]
-- [[https://www.lemonde.fr/international/article/2026/02/01/en-syrie-couvre-feu-dans-des-secteurs-kurdes-en-vue-de-l-application-de-l-accord-avec-damas_6665025_3210.html][En Syrie, couvre-feu dans des secteurs kurdes en vue de l’application de l’accord avec Damas]]
+- [[https://www.lemonde.fr/international/article/2026/02/02/a-gaza-des-morts-quasi-quotidiennes-en-depit-du-cessez-le-feu_6665038_3210.html][A Gaza, des morts quasi quotidiennes en dépit du cessez-le-feu]]
+- [[https://www.lemonde.fr/economie/article/2026/02/02/capgemini-cherche-a-sauver-sa-reputation-en-se-debarrassant-de-sa-filiale-americaine-controversee_6665036_3234.html][Capgemini cherche à sauver sa réputation en se débarrassant de sa filiale américaine controversée]]
+- [[https://www.lemonde.fr/international/article/2026/02/02/donald-trump-annonce-la-fermeture-du-kennedy-center-de-washington-pour-deux-ans-en-raison-de-travaux_6665030_3210.html][Donald Trump annonce la fermeture du Kennedy Center de Washington pendant deux ans en raison de travaux]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/politique/je-ne-pense-pas-qu-il-s-imaginait-nous-ceder-autant-apres-trois-mois-de-concessions-au-ps-lecornu-va-faire-adopter-le-budget-20260201][« Je ne pense pas qu’il s’imaginait nous céder autant » : après trois mois de concessions au PS, Lecornu va faire adopter le budget]]
-- [[https://www.lefigaro.fr/politique/guillaume-tabard-concessions-sur-le-budget-aujourd-hui-retards-pour-demain-20260201][Guillaume Tabard : « Concessions sur le budget aujourd’hui, retards pour demain »]]
-- [[https://www.lefigaro.fr/politique/retraites-economies-impots-le-budget-de-tous-les-renoncements-de-sebastien-lecornu-20260201][Retraites, économies, impôts… Le budget de tous les renoncements de Sébastien Lecornu]]
-- [[https://www.lefigaro.fr/vox/politique/l-editorial-d-yves-threard-la-gueule-de-bois-du-budget-20260201][L’éditorial d’Yves Thréard : « La gueule de bois du budget »]]
-- [[https://www.lefigaro.fr/societes/le-groupe-minier-eramet-debarque-son-directeur-general-20260201][Le groupe minier Eramet débarque son directeur général]]
+- [[https://www.lefigaro.fr/culture/bad-bunny-premier-artiste-a-recevoir-le-grammy-award-de-l-album-de-l-annee-pour-un-disque-en-espagnol-20260202][Bad Bunny, premier lauréat du Grammy de l’album de l’année avec un disque en espagnol]]
+- [[https://www.lefigaro.fr/culture/grammy-awards-wildflower-de-billie-eilish-elue-chanson-de-l-annee-20260202][Grammy Awards: «WILDFLOWER» de Billie Eilish élue chanson de l'année]]
+- [[https://www.lefigaro.fr/culture/grammy-awards-bad-bunny-appelle-a-mettre-dehors-les-agents-de-l-ice-20260202][Aux Grammy Awards, Bad Bunny appelle à «mettre dehors» les agents de l’ICE]]
+- [[https://www.lefigaro.fr/culture/grammy-awards-olivia-dean-sacree-revelation-de-l-annee-20260202][Grammy Awards : Olivia Dean sacrée révélation de l'année]]
+- [[https://www.lefigaro.fr/musique/grammy-awards-l-heure-de-verite-se-rapproche-pour-kendrick-lamar-lady-gaga-et-bad-bunny-20260201][Les 68e Grammy Awards s’ouvrent avec un premier prix pour Lady Gaga]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss][Twelve miners killed by Russian strike in Ukraine, energy company says]]
-- [[https://www.bbc.com/news/articles/cn82elvzpz7o?at_medium=RSS&at_campaign=rss][Epstein sent $75,000 to accounts linked to Mandelson, files suggest]]
-- [[https://www.bbc.com/news/articles/ceqz8r2j24do?at_medium=RSS&at_campaign=rss][Iranian protester Erfan Soltani released on bail, reports say]]
-- [[https://www.bbc.com/news/articles/cwynzw7jd4go?at_medium=RSS&at_campaign=rss][Boy, 5, and father detained by ICE return to Minnesota after release]]
-- [[https://www.bbc.com/news/articles/cx20z5nv9jxo?at_medium=RSS&at_campaign=rss][Iran's supreme leader warns of regional war if US attacks]]
+- [[https://www.bbc.com/news/articles/c1508llzw4qo?at_medium=RSS&at_campaign=rss][Norway's PM agrees crown princess had 'poor judgement' over Epstein links]]
+- [[https://www.bbc.com/news/videos/cx20zqw7v9ko?at_medium=RSS&at_campaign=rss]['Do you think you're the devil himself?' Epstein questioned in newly released interview]]
+- [[https://www.bbc.com/news/articles/cj0n3j16p8lo?at_medium=RSS&at_campaign=rss][Syria's only female minister pushes for change: 'I'm not here for window dressing']]
+- [[https://www.bbc.com/news/articles/ce8g7q4ymrvo?at_medium=RSS&at_campaign=rss][Bad Bunny declares 'ICE out' as he wins Grammy]]
+- [[https://www.bbc.com/news/articles/c931vdngdd2o?at_medium=RSS&at_campaign=rss][KPop Demon Hunters make history with early Grammy award]]
 
 *** The Guardian
 
@@ -155,11 +155,11 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/mexico-to-send-humanitarian-aid-to-cuba-sheinbaum-says/a-75755584?maca=en-rss-en-world-4025-rdf][Mexico to send humanitarian aid to Cuba, Sheinbaum says]]
+- [[https://www.dw.com/en/trump-says-kennedy-center-to-close-for-2-years-for-renovations/a-75755452?maca=en-rss-en-world-4025-rdf][Trump says Kennedy Center to close for 2 years for renovations]]
 - [[https://www.dw.com/en/how-far-will-china-go-to-back-iran-if-the-us-strikes/a-75741327?maca=en-rss-en-world-4025-rdf][How far will China go to back Iran if the US strikes?]]
 - [[https://www.dw.com/en/tens-of-thousands-back-czech-president-amid-cabinet-dispute/a-75754342?maca=en-rss-en-world-4025-rdf][Tens of thousands back Czech president amid cabinet dispute]]
 - [[https://www.dw.com/en/india-sets-record-budget-for-infrastructure-defense/a-75753459?maca=en-rss-en-world-4025-rdf][India sets record budget for infrastructure, defense]]
-- [[https://www.dw.com/en/turkey-s-textile-industry-in-crisis/a-75684427?maca=en-rss-en-world-4025-rdf][Turkey's textile industry in crisis]]
-- [[https://www.dw.com/en/trilateral-ukraine-peace-talks-delayed-after-us-russia-meet/a-75752627?maca=en-rss-en-world-4025-rdf][Trilateral Ukraine peace talks delayed after US, Russia meet]]
 
 
 * 🧠 Think Tanks
