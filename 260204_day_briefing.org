@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 37.6°C | ⚖ Load: 0.01 | 🌐 Ping: 9.70ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 37.6°C | ⚖ Load: 0.00 | 🌐 Ping: 9.76ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,35 +41,35 @@
 
 *** El País
 
-- [[https://elpais.com/espana/2026-02-04/ultima-hora-de-la-borrasca-leonardo-en-directo.html][Última hora de la borrasca ‘Leonardo’, en directo | Clases suspendidas, cortes de carreteras y líneas ferroviarias y más de 3.000 desalojados por el impacto del temporal]]
+- [[https://elpais.com/espana/2026-02-04/ultima-hora-de-la-borrasca-leonardo-en-directo.html][Última hora de la borrasca ‘Leonardo’, en directo | El temporal deja miles de desalojados y hogares sin luz, poblaciones incomunicadas y decenas de carreteras cortadas en Andalucía]]
 - [[https://elpais.com/espana/2026-02-04/que-carreteras-estan-afectadas-por-la-borrasca-leonardo-consulte-el-mapa-de-la-dgt.html][¿Qué carreteras están afectadas por la borrasca ‘Leonardo’? Consulte el mapa de la DGT]]
 - [[https://elpais.com/videos/2026-02-04/por-que-hay-tantas-lluvias-y-cuando-va-a-parar.html][Por qué hay tantas lluvias y cuándo se espera que paren]]
-- [[https://elpais.com/economia/2026-02-04/trabajo-quiere-que-la-ampliacion-a-10-dias-del-permiso-por-fallecimiento-entre-en-vigor-pese-al-riesgo-de-que-el-congreso-lo-tumbe.html][Trabajo quiere que la ampliación a 10 días del permiso por fallecimiento entre en vigor pese al riesgo de que el Congreso la tumbe]]
+- [[https://elpais.com/espana/2026-02-04/elisa-moulaa-se-retira-del-caso-errejon-por-razones-de-salud-pero-no-se-retracta-de-las-acusaciones.html][Elisa Mouliaá se retira del ‘caso Errejón’ por razones de salud: “Yo no puedo seguir sola”]]
 - [[https://elpais.com/economia/2026-02-04/asi-quedan-las-pensiones-minimas-maximas-y-no-contributivas-en-2026-segun-el-nuevo-decreto-publicado-en-el-boe.html][Así quedan las pensiones mínimas, máximas y no contributivas en 2026, según el nuevo decreto publicado en el BOE]]
 
 *** El Mundo
 
+- [[https://www.elmundo.es/economia/2026/02/04/69834afafdddffd7758b45aa.html][Óscar Puente no convence a los sindicatos: mantienen la huelga a partir del lunes ante el caos ferroviario]]
+- [[https://www.elmundo.es/espana/2026/02/04/698337e6fc6c8324198b4588.html][El Senado reprueba y pide la dimisión por cuarta vez de Óscar Puente: "Permanecer es una afrenta a las víctimas y una amenaza para los ciudadanos"]]
+- [[https://www.elmundo.es/economia/2026/02/04/6983505821efa0b6128b459d.html][Bruselas rechaza que Sánchez haga responsables a Musk o Zuckerberg del contenido de sus redes sociales: "La Ley de la UE se centra en las plataformas"]]
+- [[https://www.elmundo.es/baleares/2026/02/03/698258aa21efa0200f8b45ba.html][Los nuevos emigrantes que se van de Baleares al no poder pagar una casa: "Gané una oposición y ni pude ocupar mi plaza...nos echan"]]
 - [[https://www.elmundo.es/espana/2026/02/03/69823eebe85ecea5588b45af.html][Alerta en el PSOE ante el ascenso de Vox: "Los hemos inflado y se nos ha ido de las manos"]]
-- [[https://www.elmundo.es/elecciones/elecciones-aragon/2026/02/03/6982245ce4d4d850278b4584.html][Jorge Pueyo, el único ganador en la izquierda de Aragón: "BNG y Compromís son un buen espejo en el que mirarse"]]
-- [[https://www.elmundo.es/internacional/2026/02/03/69824ba8e85ecee70c8b4581.html][El ex príncipe, el ex lord, el ex banquero... El escándalo Epstein explota en los pilares del poder del Reino Unido]]
-- [[https://www.elmundo.es/economia/empresas/2026/02/03/6981ea01fdddffe40b8b45b8.html][El Gobierno abandona a los usuarios: sin alta velocidad, sin puntualidad y sin indemnización]]
-- [[https://www.elmundo.es/espana/2026/02/04/69831b6ee85ece155b8b457d.html][El jefe de Gabinete de Reyes Maroto niega al juez que diera cuenta a la ministra de Industria de sus gestiones con Koldo García]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/vida/20260204/11456759/veto-acceso-16-anos-redes-sociales-topa-dificil-aplicacion.html][Psicólogos y familias aplauden la prohibición de las redes sociales a menores de 16 años]]
-- [[https://www.lavanguardia.com/vida/20260204/11457342/hay-metodos-fiables-verificacion-edad-impedir-acceso-menores-redes-sociales.html][¿Hay métodos fiables de verificación de edad para impedir el acceso de menores a las redes sociales?]]
-- [[https://www.lavanguardia.com/opinion/20260204/11457066/prohibir-necesario.html][Cuando prohibir es necesario]]
-- [[https://www.lavanguardia.com/opinion/20260204/11457379/redes-sociales-cuestion-estados.html][Redes sociales, cuestión de estados]]
-- [[https://www.lavanguardia.com/politica/20260204/11457007/junts-apoyara-subida-pensiones-tumbara-resto-escudo-social.html][Junts apoyará la subida de las pensiones pero tumbará el resto del escudo social]]
+- [[https://www.lavanguardia.com/vida/20260204/11457367/borrasca-leonardo-temporal-andalucia-alerta-naranja-hoy-en-directo.html][Alerta en Andalucía por la borrasca 'Leonardo': carreteras cortadas y ríos a punto de desbordarse]]
+- [[https://www.lavanguardia.com/local/andalucia/20260204/11457484/andalucia-limite-seis-rios-rojo-miles-evacuados-despliegue-precedentes-contener-agua.html][Andalucía en alerta: 14 ríos en rojo, embalses al límite, cortes de luz y miles de desalojados]]
+- [[https://www.lavanguardia.com/local/andalucia/20260204/11457786/llueve-tanto-grazalema.html][Por qué llueve tanto en Grazalema, el pueblo del que sale agua hasta por los enchufes]]
+- [[https://www.lavanguardia.com/internacional/20260204/11457690/daniel-said-conseguidor-jeffrey-epstein-barcelona.html][Daniel Siad, el ‘conseguidor’ de chicas para Jeffrey Epstein en Barcelona]]
+- [[https://www.lavanguardia.com/internacional/20260204/11457445/astrid-gil-casares-burguesa-espanola-amiga-epstein-detencion.html][Astrid Gil-Casares, la “burguesa” española que fue amiga de Epstein hasta su detención]]
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/politica/que-toda-espana-mira-hoy-ayuntamiento-cartes/20260204115030188104.html][Por qué toda España mira hoy hacia el Ayuntamiento de Cartes]]
-- [[https://eldiariocantabria.publico.es/articulo/politica/iu-lamenta-que-ni-cartes-ni-gobierno-regional-ni-delegacion-hayan-salido-inicio-desmentir-bulos-racistas-que-circulan-municipio-comunidad/20260204112624188103.html][IU pide la dimisión de la alcaldesa de Cartes y dice que Casares "tampoco ha estado a la altura"]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/amanecer-gelido-cantabria/20260204101537188101.html][Amanecer gélido en Cantabria]]
-- [[https://eldiariocantabria.publico.es/articulo/politica/delegado-gobierno-senala-que-unica-prioridad-es-debe-ser-bienestar-proteccion-seguridad-menores/20260203212310188098.html][El delegado del Gobierno señala que “la única prioridad es y debe ser el bienestar, la protección y la seguridad de los menores”]]
-- [[https://eldiariocantabria.publico.es/articulo/campoo/prc-culpa-alcalde-que-municipio-participe-programa-lanzaderas-empleo/20260203211352188097.html][El PRC culpa al alcalde de que el municipio no participe en el programa Lanzaderas de Empleo]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/siete-detenidos-red-criminal-86-robos-bares-cantabria-otras-provincias/20260204175318188136.html][Siete detenidos de una red criminal con 86 robos en bares de Cantabria y otras provincias]]
+- [[https://eldiariocantabria.publico.es/articulo/comunicados/sabores-eternos-campana-teka-que-llevo-memoria-cocina-relato-audiovisual/20260204174718188134.html][Sabores Eternos, la campaña de Teka que llevó la memoria de la cocina al relato audiovisual]]
+- [[https://eldiariocantabria.publico.es/articulo/cultura/enclave-pronillo-organiza-mes-campus-explorar-musica-brasilena-dirigido-ninos/20260204173442188132.html][Enclave Pronillo organiza este mes un campus para explorar la música brasileña dirigido a niños]]
+- [[https://eldiariocantabria.publico.es/articulo/politica/gobierno-presenta-medidas-cautelarisimas-orden-paralizacion-inmediata-centro-menores-cartes/20260204172036188131.html][El Gobierno presenta las medidas cautelarísimas contra la orden de paralización “inmediata” del centro de menores de Cartes]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/fiscal-pide-multa-todos-acusados-traficar-droga-torrelavega-rebaja-cuantia-62000-euros/20260204171240188129.html][El fiscal pide multa para todos los acusados de traficar con droga en Torrelavega, aunque rebaja la cuantía a 62.000 euros]]
 
 ** 🇺🇸 Estados Unidos
 
@@ -79,55 +79,55 @@
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/02/04/andrew-epstein-prince-royal-lodge/][Andrew, ex-prince linked to Epstein, moves out of royal residence]]
 - [[https://www.washingtonpost.com/world/2026/02/04/fiji-methamphetamines-hiv-cartels/][On a paradise island in the Pacific, meth and HIV epidemics rage]]
 - [[https://www.washingtonpost.com/world/2026/02/04/winter-olympics-milan-italy-gentrification/][Ahead of the Winter Olympics, Milan wins gold in gentrification]]
 - [[https://www.washingtonpost.com/world/2026/02/03/trump-war-russia-ukraine-attacks-power-sector/][Russia delivers worst attack this year to Ukraine’s power sector]]
 - [[https://www.washingtonpost.com/national-security/2026/02/04/us-russia-nuclear-arms-treaty-new-start/][The treaty limiting U.S. and Russian nuclear arms is expiring. What to know.]]
-- [[https://www.washingtonpost.com/world/2026/02/04/usaid-anniversary-cuts-trump/][A year after aid cuts, the image of American power shifts under Trump]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/uk/epstein-scandal-sees-ex-prince-andrew-booted-from-royal-lodge-37353040][Epstein Scandal Sees Ex-Prince Andrew Booted From Royal Lodge]]
+- [[https://www.wsj.com/world/china/president-trump-and-chinas-xi-jinping-speak-by-phone-339e7ca1][Trump Says He Spoke With China’s Xi About Iran, Trade and Ukraine]]
+- [[https://www.wsj.com/world/middle-east/iran-plays-hardball-with-the-u-s-to-throw-it-off-balance-6df2a1ad][Iran Plays Hardball With the U.S. to Throw It Off Balance]]
 - [[https://www.wsj.com/world/middle-east/iranian-gunboats-tried-to-stop-u-s-flagged-tanker-7332152a][U.S.-Iranian Talks Are Still Expected After Gulf Flare-Ups]]
 - [[https://www.wsj.com/world/americas/after-months-of-insults-trumps-meeting-with-colombian-president-ends-in-detente-1bef483b][After Months of Insults, Trump’s Meeting With Colombian President Ends in Detente]]
-- [[https://www.wsj.com/world/russia-resumes-strikes-on-ukrainian-energy-sites-ffdca8b0][Russia Resumes Strikes on Ukrainian Energy Sites]]
-- [[https://www.wsj.com/world/india/indias-middle-power-strategy-won-it-a-reprieve-from-trumps-sky-high-tariffs-31c23668][India’s Middle-Power Strategy Won It a Reprieve From Trump’s Sky-High Tariffs]]
-- [[https://www.wsj.com/world/europe/poland-arrests-alleged-spy-working-for-russia-in-defense-ministry-468b8c53][Poland Arrests Alleged Spy Working for Russia in Defense Ministry]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/article/2026/02/04/igor-kostioukov-l-espion-en-chef-envoye-par-la-russie-pour-negocier-avec-les-ukrainiens-a-abou-dhabi_6665312_3210.html][Igor Kostioukov, l’espion en chef envoyé par la Russie pour négocier avec les Ukrainiens à Abou Dhabi]]
-- [[https://www.lemonde.fr/politique/article/2026/02/04/proces-en-appel-des-assistants-parlementaires-du-fn-la-candidature-de-marine-le-pen-en-2027-plus-que-jamais-hypothetique-apres-les-requisitions_6665297_823448.html][Procès en appel des assistants du FN : la candidature de Marine Le Pen en 2027 plus que jamais hypothétique après les réquisitions]]
-- [[https://www.lemonde.fr/international/article/2026/02/04/affaire-epstein-jack-lang-exclut-de-demissionner-de-la-presidence-de-l-institut-du-monde-arabe-et-plaide-la-naivete_6665357_3210.html][Affaire Epstein : Jack Lang exclut de démissionner de la présidence de l’Institut du monde arabe et plaide la « naïveté »]]
-- [[https://www.lemonde.fr/societe/article/2026/02/04/au-proces-en-appel-de-l-assassinat-de-samuel-paty-la-famille-fait-bloc-face-a-l-indecence-de-la-defense_6665328_3224.html][Au procès en appel de l’assassinat de Samuel Paty, la famille fait bloc face à « l’indécence » de la défense]]
-- [[https://www.lemonde.fr/sante/article/2026/02/04/lutte-contre-le-cancer-emmanuel-macron-annonce-la-reconduction-du-budget-a-l-identique-jusqu-en-2030_6665342_1651303.html][Lutte contre le cancer : Emmanuel Macron annonce la reconduction du budget à l’identique jusqu’en 2030]]
+- [[https://www.lemonde.fr/international/live/2026/02/04/en-direct-guerre-en-ukraine-la-premiere-journee-de-pourparlers-entre-kiev-la-russie-et-les-etats-unis-close-volodymyr-zelensky-invite-du-20-heures-de-france-2_6664947_3210.html][EN DIRECT, guerre en Ukraine : la première journée de pourparlers entre Kiev, la Russie et les Etats-Unis close ; Volodymyr Zelensky invité du 20 heures de France 2]]
+- [[https://www.lemonde.fr/societe/article/2026/02/04/entre-jeffrey-epstein-et-la-banquiere-ariane-de-rothschild-une-vraie-proximite-d-affaires_6665387_3224.html][Entre Jeffrey Epstein et la banquière Ariane de Rothschild, une vraie proximité d’affaires]]
+- [[https://www.lemonde.fr/politique/article/2026/02/04/budget-2026-trois-recours-annonces-contre-le-texte-adopte-lundi_6665409_823448.html][Budget 2026 : trois recours annoncés devant le Conseil constitutionnel contre le texte adopté lundi]]
+- [[https://www.lemonde.fr/idees/article/2026/02/04/en-un-an-donald-trump-a-ordonne-plus-de-frappes-de-missiles-et-de-drones-qu-au-cours-de-la-totalite-du-mandat-de-son-predecesseur_6665316_3232.html][« Les Etats-Unis promettent toujours de s’extraire des bourbiers moyen-orientaux tout en continuant de s’y enliser »]]
+- [[https://www.lemonde.fr/international/article/2026/02/04/le-washington-post-lance-un-vaste-plan-de-licenciements-le-reseau-des-correspondants-a-l-etranger-particulierement-touche_6665407_3210.html][Le « Washington Post » lance un vaste plan de licenciements ; le réseau des correspondants à l’étranger particulièrement touché]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/en-direct-guerre-ukraine-russie-donald-trump-abu-dhabi-frappes-emmanuel-macron-vladimir-poutine-20260204][EN DIRECT - Guerre en Ukraine : le Kremlin affirme que son offensive se poursuivra tant que Kiev n’acceptera pas ses conditions]]
-- [[https://www.lefigaro.fr/international/donald-trump-assure-qu-il-veut-que-vladimir-poutine-mette-fin-a-la-guerre-en-ukraine-20260203][Donald Trump assure qu’il veut que Vladimir Poutine «mette fin» à la guerre en Ukraine]]
-- [[https://www.lefigaro.fr/actualite-france/je-ne-regrette-pas-d-avoir-connu-jeffrey-epstein-les-justifications-de-jack-lang-qui-se-dit-blanc-comme-neige-20260204][«Je ne regrette pas d’avoir connu Jeffrey Epstein» : les justifications de Jack Lang qui se dit «blanc comme neige»]]
-- [[https://www.lefigaro.fr/international/riad-au-maroc-societe-offshore-nouvelle-sexualite-des-enfants-jack-lang-et-sa-fille-caroline-rattrapes-par-les-epstein-files-20260203][Riad au Maroc, société offshore, «nouvelle sexualité» des enfants… Jack Lang et sa fille Caroline rattrapés par les «Epstein Files»]]
-- [[https://madame.lefigaro.fr/business/caroline-lang-le-parcours-meconnu-de-la-fille-de-jack-lang-rattrapee-par-l-affaire-epstein-20260203][Caroline Lang : le parcours méconnu de la fille de Jack Lang, rattrapée par l’affaire Epstein]]
+- [[https://www.lefigaro.fr/marseille/elle-est-tres-appreciee-de-ses-eleves-le-parcours-exemplaire-de-la-professeur-poignardee-a-sanary-sur-mer-20260204][«Elle est très appréciée de ses élèves» : le parcours exemplaire de la professeur poignardée à Sanary-sur-Mer]]
+- [[https://www.lefigaro.fr/faits-divers/trop-de-haine-crise-de-panique-comptes-a-regler-le-profil-deconcertant-du-collegien-suspecte-d-avoir-poignarde-sa-professeur-a-sanary-sur-mer-20260204][«Trop de haine», «crise de panique», «comptes à régler» : le profil déconcertant du collégien suspecté d’avoir poignardé sa professeur à Sanary-sur-Mer]]
+- [[https://www.lefigaro.fr/faits-divers/professeur-poignardee-a-sanary-sur-mer-l-eleve-reconnait-avoir-premedite-son-geste-20260204][Professeur poignardée à Sanary-sur-Mer : l’élève reconnaît avoir prémédité son geste]]
+- [[https://www.lefigaro.fr/actualite-france/j-ai-eu-peur-qu-il-me-frappe-quand-je-lui-ai-demande-son-carnet-de-liaison-ces-enseignants-qui-n-osent-plus-sanctionner-par-crainte-des-represailles-20260204][« J’ai eu peur qu’il me frappe quand je lui ai demandé son carnet de liaison » : ces enseignants qui s’inquiètent des représailles violentes de leurs élèves]]
+- [[https://www.lefigaro.fr/actualite-france/faut-il-installer-des-portiques-de-securite-a-l-entree-des-etablissements-scolaires-20260204][Faut-il installer des portiques de sécurité à l'entrée des établissements scolaires ?]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/crley6x0dgzo?at_medium=RSS&at_campaign=rss][Russian attacks on Ukraine energy sites 'particularly depraved', UK PM Starmer says]]
-- [[https://www.bbc.com/news/articles/cpqyg0g5r0po?at_medium=RSS&at_campaign=rss][Israeli strikes kill 17 in Gaza, hospitals say, after soldier wounded by gunfire]]
-- [[https://www.bbc.com/news/articles/cr4kyk9nv5lo?at_medium=RSS&at_campaign=rss]['Painful times in my marriage' - Melinda French Gates reacts to ex-husband in Epstein files]]
-- [[https://www.bbc.com/news/articles/cp37g4xgkxdo?at_medium=RSS&at_campaign=rss][Saif al-Islam Gaddafi, son of ex-Libyan leader, reportedly shot dead]]
-- [[https://www.bbc.com/news/articles/cwy8ded4890o?at_medium=RSS&at_campaign=rss]['I've never hit anything so hard': What it's like to be attacked by a shark]]
+- [[https://www.bbc.com/news/articles/crley6x0dgzo?at_medium=RSS&at_campaign=rss][Thousands without power in freezing Ukraine as renewed Russian strikes continue]]
+- [[https://www.bbc.com/news/articles/cr4kyk9nv5lo?at_medium=RSS&at_campaign=rss][Melinda French Gates says ex-husband Bill has questions to answer over Epstein]]
+- [[https://www.bbc.com/news/articles/ckgkjj5e28ko?at_medium=RSS&at_campaign=rss][Andrew and Epstein asked exotic dancer for 'sex acts,' legal letter claims]]
+- [[https://www.bbc.com/news/articles/cpqyg0g5r0po?at_medium=RSS&at_campaign=rss][Israeli strikes kill 20 in Gaza, hospitals say, after soldier wounded by gunfire]]
+- [[https://www.bbc.com/news/articles/c23rdxjjp4po?at_medium=RSS&at_campaign=rss][Son of Norway's crown princess holds back tears giving evidence at rape trial]]
 
 *** The Guardian
 
+- [[https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross][Gunmen have killed 162 people in west Nigeria attack, says Red Cross official]]
+- [[https://www.theguardian.com/world/2026/feb/04/uganda-opposition-leader-bobi-wine-in-hiding-muhoozi-kainerugaba-feud][Ugandan opposition leader still in hiding as feud with president’s son escalates]]
 - [[https://www.theguardian.com/global-development/2026/feb/04/death-of-nigerian-singer-highlights-crisis-of-preventable-snakebite-fatalities][Death of Nigerian singer after snakebite highlights crisis of ‘preventable’ fatalities]]
 - [[https://www.theguardian.com/global-development/2026/feb/04/trump-us-china-russia-democratic-recession-peril-human-rights-watch][Trump-led abuses amid ‘democratic recession’ put human rights in peril, HRW report says]]
 - [[https://www.theguardian.com/world/2026/feb/02/israel-agrees-to-limited-reopening-of-rafah-border-crossing-in-gaza][Handful of sick and wounded Palestinians allowed through Rafah crossing on first day]]
-- [[https://www.theguardian.com/environment/2026/feb/02/weather-tracker-cyclone-fytia-madagascar-floods][Weather tracker: Cyclone Fytia in Madagascar kills several people and floods homes]]
-- [[https://www.theguardian.com/law/2026/feb/02/more-than-100000-civilians-killed-war-crimes-out-of-control-study][International law meant to limit effects of war at breaking point, study finds]]
 
 ** 🇮🇹 Italia
 
@@ -155,11 +155,11 @@
 
 *** Deutsche Welle
 
-- [[https://www.dw.com/en/india-s-oil-shake-up-can-venezuela-really-replace-russia/a-75778325?maca=en-rss-en-world-4025-rdf][India's oil shake-up: Can Venezuela really replace Russia?]]
-- [[https://www.dw.com/en/sudan-khartoum-presents-a-picture-of-normalcy-despite-ongoing-fighting/a-75790769?maca=en-rss-en-world-4025-rdf][Sudan: Khartoum presents a picture of normalcy despite ongoing fighting]]
-- [[https://www.dw.com/en/china-two-journalists-held-after-exposing-alleged-corruption/a-75792382?maca=en-rss-en-world-4025-rdf][China: Two journalists held after exposing alleged corruption]]
-- [[https://www.dw.com/en/global-human-rights-system-is-in-peril-says-hrw/a-75752763?maca=en-rss-en-world-4025-rdf]['Global human rights system is in peril,' says HRW]]
-- [[https://www.dw.com/en/trump-renews-lapsed-trade-subsidy-pact-with-africa/a-75792237?maca=en-rss-en-world-4025-rdf][Trump renews lapsed trade subsidy pact with Africa]]
+- [[https://www.dw.com/en/tonga-cook-islands-slam-misuse-of-flags-by-shadow-fleet/a-75798567?maca=en-rss-en-world-4025-rdf][Tonga, Cook Islands slam misuse of flags by 'shadow fleet']]
+- [[https://www.dw.com/en/us-works-to-counter-russia-in-mali-niger-and-burkina-faso/a-75789462?maca=en-rss-en-world-4025-rdf][US works to counter Russia in Mali, Niger and Burkina Faso]]
+- [[https://www.dw.com/en/gaza-casualties-hard-to-deny-conflict-monitors-say/a-75790999?maca=en-rss-en-world-4025-rdf][Gaza casualties 'hard to deny,' conflict monitors say]]
+- [[https://www.dw.com/en/world-cancer-day-smoking-infections-and-alcohol-cause-4-in-10-preventable-cancer-cases/a-75776596?maca=en-rss-en-world-4025-rdf][World Cancer Day: Smoking, infections and alcohol cause 4 in 10 preventable cancer cases]]
+- [[https://www.dw.com/en/serbia-reform-denounced-as-a-political-takeover-of-justice/a-75799216?maca=en-rss-en-world-4025-rdf][Serbia: Reform denounced as a political takeover of justice]]
 
 
 * 🧠 Think Tanks
