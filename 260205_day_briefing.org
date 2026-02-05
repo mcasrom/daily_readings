@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 38.1°C | ⚖ Load: 0.00 | 🌐 Ping: 9.65ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 37.0°C | ⚖ Load: 0.01 | 🌐 Ping: 24.7ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,19 +49,19 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/elecciones/elecciones-aragon/2026/02/04/69838466e4d4d87f408b45a2.html][Así son las llamadas robotizadas del PSOE de Aragón que el PP ha denunciado ante la Junta Electoral: "445 euros menos de pensión por culpa de las derechas"]]
-- [[https://www.elmundo.es/economia/empresas/2026/02/04/6983805de9cf4aa75b8b4598.html][Guerra abierta entre Telegram y Moncloa por la nueva ley de redes sociales: "Pedro Sánchez está impulsando nuevas regulaciones peligrosas que amenazan vuestras libertades"]]
-- [[https://www.elmundo.es/internacional/2026/02/04/6983a99621efa0bd298b45a6.html][Purga antimadurista en acción conjunta con el FBI: caen los millonarios Alex Saab y Raúl Gorrín, supuestos testaferros de la familia presidencial]]
-- [[https://www.elmundo.es/baleares/2026/02/03/698258aa21efa0200f8b45ba.html][Los nuevos emigrantes que se van de Baleares al no poder pagar una casa: "Gané una oposición y ni pude ocupar mi plaza...nos echan"]]
-- [[https://www.elmundo.es/economia/2026/02/04/69834afafdddffd7758b45aa.html][Óscar Puente no convence a los sindicatos: mantienen la huelga a partir del lunes ante el caos ferroviario]]
+- [[https://www.elmundo.es/elecciones/elecciones-aragon/2026/02/04/6983a4fdfc6c8365738b45a5.html][PP y Vox compiten por 35.000 votos clave que están indecisos en Aragón]]
+- [[https://www.elmundo.es/elecciones/elecciones-aragon/2026/02/05/698399d1e85ece77728b45a9.html][Alejandro Nolasco, candidato de Vox: "El obrero ve que su forma de vida la defendemos mejor nosotros que el PSOE"]]
+- [[https://www.elmundo.es/espana/2026/02/04/69839c88fdddff72518b4594.html][La Guardia Civil apunta a un presunto soborno de 4 millones desde Forestalia a un ex consejero con el PSOE en Aragón]]
+- [[https://www.elmundo.es/comunidad-valenciana/2026/02/04/69838a01e4d4d8413b8b45c0.html][La regularización anunciada por Sánchez ya colapsa consulados y padrones municipales: "Es inasumible"]]
+- [[https://www.elmundo.es/economia/2026/02/04/69838c50e4d4d8f4328b458a.html][Bruselas pidió explicaciones a España sobre los fondos europeos invertidos en la línea Madrid-Sevilla tras el accidente de Adamuz y aún no tiene respuesta]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/vida/20260204/11458009/leonardo-descarga-furia-andalucia.html][La Guardia Civil busca a una mujer que cayó a un río en Málaga]]
+- [[https://www.lavanguardia.com/vida/20260204/11458009/leonardo-descarga-furia-andalucia.html][La borrasca 'Leonardo' deja más de 3.500 evacuados, ríos en rojo y carreteras cortadas en Andalucía]]
 - [[https://www.lavanguardia.com/local/andalucia/20260204/11458002/municipio-malagueno-gaucin-sufre-tres-hidrosismos-terremotos-provocados-agua.html][El municipio malagueño de Gaucín sufre tres hidrosismos, terremotos provocados por el agua]]
 - [[https://www.lavanguardia.com/local/andalucia/20260204/11457786/llueve-tanto-grazalema.html][Por qué llueve tanto en Grazalema, el pueblo del que sale agua hasta por los enchufes]]
+- [[https://www.lavanguardia.com/opinion/20260205/11458023/clima-mas-amenaza.html][El clima es más amenaza]]
 - [[https://www.lavanguardia.com/vida/20260204/11457934/dueno-telegram-arremete-pedro-sanchez-hizo-elon-musk.html][Guerra abierta de los dueños de Telegram y X contra el plan de Sánchez sobre las redes sociales]]
-- [[https://www.lavanguardia.com/internacional/20260204/11457918/xi-advierte-trump-telefono-tenga-extrema-cautela-venta-armas-taiwan.html][Xi advierte a Trump por teléfono que tenga “extrema cautela” con la venta de armas a Taiwán]]
 
 *** El Diario de Cantabria
 
@@ -87,21 +87,21 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/india/why-big-tech-is-throwing-cash-into-india-in-quest-for-ai-supremacy-a5d02f0e][Why Big Tech Is Throwing Cash Into India in Quest for AI Supremacy]]
+- [[https://www.wsj.com/world/europe/a-wargame-shows-just-how-vulnerable-europe-is-to-a-russian-attack-12dfdbfa][A Wargame Shows Just How Vulnerable Europe Is to a Russian Attack]]
+- [[https://www.wsj.com/world/china/us-china-decouple-economy-minerals-tech-602fdee6][The American and Chinese Economies Are Hurtling Toward a Messy Divorce]]
+- [[https://www.wsj.com/politics/national-security/top-democrat-launches-probe-into-spy-sheikh-deal-with-trump-company-ea59ec8e][Top Democrat Launches Probe Into ‘Spy Sheikh’ Deal With Trump Company]]
 - [[https://www.wsj.com/world/middle-east/iran-plays-hardball-with-the-u-s-to-throw-it-off-balance-6df2a1ad][U.S., Iran Agree to Discuss Nuclear Issues Friday in Oman]]
-- [[https://www.wsj.com/world/china/president-trump-and-chinas-xi-jinping-speak-by-phone-339e7ca1][Trump Says He Spoke With China’s Xi About Iran]]
-- [[https://www.wsj.com/world/uk/epstein-scandal-sees-ex-prince-andrew-booted-from-royal-lodge-37353040][Epstein Scandal Sees Ex-Prince Andrew Booted From Royal Lodge]]
-- [[https://www.wsj.com/world/middle-east/iranian-gunboats-tried-to-stop-u-s-flagged-tanker-7332152a][U.S.-Iranian Talks Are Still Expected After Gulf Flare-Ups]]
-- [[https://www.wsj.com/world/americas/after-months-of-insults-trumps-meeting-with-colombian-president-ends-in-detente-1bef483b][After Months of Insults, Trump’s Meeting With Colombian President Ends in Detente]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
+- [[https://www.lemonde.fr/international/article/2026/02/05/elon-musk-bill-gates-et-reid-hoffman-pris-dans-les-filets-de-l-affaire-epstein-les-tech-bros-entre-regrets-et-denegation_6665451_3210.html][Elon Musk, Bill Gates et Reid Hoffman pris dans les filets de l’affaire Epstein : les « tech bros » entre regrets et dénégation]]
 - [[https://www.lemonde.fr/societe/article/2026/02/04/au-proces-des-assistants-parlementaires-europeens-du-fn-la-defense-entre-en-scene-difficilement_6665431_3224.html][Au procès des assistants parlementaires européens du FN, la défense entre en scène difficilement]]
-- [[https://www.lemonde.fr/politique/article/2026/02/04/budget-2026-trois-recours-annonces-contre-le-texte-adopte-lundi_6665409_823448.html][Budget 2026 : Sébastien Lecornu saisit le Conseil constitutionnel et pointe trois mesures visant à mieux taxer les riches]]
-- [[https://www.lemonde.fr/international/live/2026/02/04/en-direct-guerre-en-ukraine-l-interet-de-poutine-c-est-d-humilier-l-europe-affirme-volodymyr-zelensky-invite-du-20-heures-de-france-2_6664947_3210.html][EN DIRECT, guerre en Ukraine : « L’intérêt de Poutine est d’humilier l’Europe », affirme Volodymyr Zelensky, invité du « 20 heures » de France 2]]
-- [[https://www.lemonde.fr/societe/article/2026/02/04/la-correspondance-du-predateur-sexuel-jeffrey-epstein-eclabousse-des-personnalites-francaises_6665420_3224.html][Affaire Epstein : la correspondance du prédateur sexuel éclabousse des personnalités françaises]]
-- [[https://www.lemonde.fr/international/article/2026/02/04/les-discussions-entre-l-iran-et-les-etats-unis-se-tiendront-vendredi-a-oman-selon-des-medias-iraniens_6665393_3210.html][Donald Trump met en garde le guide suprême iranien, Ali Khamenei, avant d’éventuelles négociations entre les Etats-Unis et l’Iran]]
+- [[https://www.lemonde.fr/international/article/2026/02/05/le-washington-post-mythique-quotidien-americain-ebranle-par-un-plan-de-licenciements-massif_6665436_3210.html][Le « Washington Post », mythique quotidien américain, ébranlé par un plan de licenciements massif]]
+- [[https://www.lemonde.fr/international/live/2026/02/05/en-direct-guerre-en-ukraine-environ-55-000-militaires-ukrainiens-ont-ete-tues-depuis-le-debut-de-la-guerre-estime-volodymyr-zelensky-sur-france-2_6664947_3210.html][EN DIRECT, guerre en Ukraine : environ 55 000 militaires ukrainiens ont été tués depuis le début de la guerre, estime Volodymyr Zelensky sur France 2]]
+- [[https://www.lemonde.fr/international/article/2026/02/04/les-discussions-entre-l-iran-et-les-etats-unis-se-tiendront-vendredi-a-oman-selon-des-medias-iraniens_6665393_3210.html][Donald Trump met en garde le Guide suprême iranien, Ali Khamenei, avant d’éventuelles négociations entre les Etats-Unis et l’Iran]]
 
 *** Le Figaro
 
@@ -116,10 +116,10 @@
 *** BBC News
 
 - [[https://www.bbc.com/news/articles/cvgr25e2lj5o?at_medium=RSS&at_campaign=rss][Fearing Russia will seize her town, war widow moves husband's grave to Kyiv]]
-- [[https://www.bbc.com/news/articles/cr4kyk9nv5lo?at_medium=RSS&at_campaign=rss][Melinda French Gates says ex-husband Bill has questions to answer over Epstein]]
-- [[https://www.bbc.com/news/articles/ckgkjj5e28ko?at_medium=RSS&at_campaign=rss][Andrew and Epstein asked exotic dancer for 'sex acts,' legal letter claims]]
-- [[https://www.bbc.com/news/articles/cpqyg0g5r0po?at_medium=RSS&at_campaign=rss][Israeli strikes kill 20 in Gaza, hospitals say, after soldier wounded by gunfire]]
-- [[https://www.bbc.com/news/articles/c23rdxjjp4po?at_medium=RSS&at_campaign=rss][Son of Norway's crown princess holds back tears giving evidence at rape trial]]
+- [[https://www.bbc.com/news/articles/c62wpjd3j1zo?at_medium=RSS&at_campaign=rss][US must be prudent when supplying arms to Taiwan, Xi tells Trump]]
+- [[https://www.bbc.com/news/articles/c2e18wvrx9xo?at_medium=RSS&at_campaign=rss]['We are ready to talk' - US news anchor Savannah Guthrie pleads for return of her abducted mother]]
+- [[https://www.bbc.com/news/articles/cre2gjj3pxpo?at_medium=RSS&at_campaign=rss][Man sentenced to life in prison for 2024 attempt on Trump's life]]
+- [[https://www.bbc.com/news/articles/ckgvllk3lx9o?at_medium=RSS&at_campaign=rss][Gunmen kill dozens in Nigeria as US military deployment confirmed]]
 
 *** The Guardian
 
@@ -155,11 +155,11 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/us-wants-to-establish-critical-minerals-trade-bloc/a-75812024?maca=en-rss-en-world-4025-rdf][US wants to establish critical minerals trade bloc]]
+- [[https://www.dw.com/en/new-start-last-us-russia-nuclear-treaty-expires-raising-fears-of-new-global-arms-race/a-75812014?maca=en-rss-en-world-4025-rdf][New START: Last US-Russia nuclear treaty expires, raising fears of new global arms race]]
+- [[https://www.dw.com/en/winter-olympics-begin-quietly-with-curling/a-75811934?maca=en-rss-en-world-4025-rdf][Winter Olympics begin quietly with curling]]
+- [[https://www.dw.com/en/us-iran-to-hold-talks-in-oman-on-friday/a-75811679?maca=en-rss-en-world-4025-rdf][US, Iran to hold talks in Oman on Friday]]
 - [[https://www.dw.com/en/turkey-s-textile-industry-crushed-by-china-and-bangladesh/a-75684427?maca=en-rss-en-world-4025-rdf][Turkey's textile industry crushed by China and Bangladesh]]
-- [[https://www.dw.com/en/nigeria-extremists-kill-over-100-in-western-villages/a-75807223?maca=en-rss-en-world-4025-rdf][Nigeria: Extremists kill over 100 in western villages]]
-- [[https://www.dw.com/en/tonga-cook-islands-slam-misuse-of-flags-by-shadow-fleet/a-75798567?maca=en-rss-en-world-4025-rdf][Tonga, Cook Islands slam misuse of flags by 'shadow fleet']]
-- [[https://www.dw.com/en/us-russia-vie-for-influence-in-mali-niger-and-burkina-faso/a-75789462?maca=en-rss-en-world-4025-rdf][US, Russia vie for influence in Mali, Niger and Burkina Faso]]
-- [[https://www.dw.com/en/gaza-casualties-hard-to-deny-conflict-monitors-say/a-75790999?maca=en-rss-en-world-4025-rdf][Gaza casualties 'hard to deny,' conflict monitors say]]
 
 
 * 🧠 Think Tanks
