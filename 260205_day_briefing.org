@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 37.0°C | ⚖ Load: 0.01 | 🌐 Ping: 24.7ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 37.6°C | ⚖ Load: 0.25 | 🌐 Ping: 9.65ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -42,34 +42,34 @@
 *** El País
 
 - [[https://elpais.com/espana/2026-02-04/el-pp-de-madrid-presiono-a-una-edil-para-tapar-una-acusacion-de-acoso-contra-el-alcalde-de-mostoles-el-amparo-pasa-por-que-te-quites-de-la-cabeza-cualquier-denuncia.html][El PP de Madrid presionó a una edil para tapar una acusación de acoso contra el alcalde de Móstoles: “El amparo pasa por que te quites de la cabeza cualquier denuncia”]]
-- [[https://elpais.com/espana/andalucia/2026-02-04/la-borrasca-leonardo-deja-miles-de-desalojados-riesgo-de-desbordamientos-y-trenes-suspendidos-a-su-paso-por-andalucia.html][La borrasca ‘Leonardo’ deja miles de desalojados, desbordamientos y una desaparecida a su paso por Andalucía]]
-- [[https://elpais.com/videos/2026-02-04/por-que-hay-tantas-lluvias-y-cuando-va-a-parar.html][Por qué hay tantas lluvias y cuándo se espera que paren]]
-- [[https://elpais.com/espana/2026-02-04/que-carreteras-estan-afectadas-por-la-borrasca-leonardo-consulte-el-mapa-de-la-dgt.html][¿Qué carreteras están afectadas por la borrasca ‘Leonardo’? Consulte el mapa de la DGT]]
-- [[https://elpais.com/espana/2026-02-04/elisa-moulaa-se-retira-del-caso-errejon-por-razones-de-salud-pero-no-se-retracta-de-las-acusaciones.html][Elisa Mouliaá se retira del ‘caso Errejón’ por razones de salud: “Yo no puedo seguir sola”]]
+- [[https://elpais.com/espana/madrid/2026-02-05/los-partidos-de-oposicion-piden-la-dimision-del-alcalde-de-mostoles-y-de-los-miembros-del-gobierno-de-ayuso-que-encubrieron-el-acoso.html][Los partidos de oposición piden en bloque la dimisión del alcalde de Móstoles y de los miembros del Gobierno de Ayuso que ignoraron la denuncia]]
+- [[https://elpais.com/espana/2026-02-05/ultima-hora-de-la-actualidad-politica-en-directo.html][Última hora de la actualidad política, en directo | Ayuso, sobre la denuncia por acoso sexual al alcalde de Móstoles: “Es un caso fabricado contra el PP”]]
+- [[https://elpais.com/espana/madrid/2026-02-05/alfonso-serrano-numero-2-de-ayuso-defiende-la-inocencia-del-alcalde-de-mostoles-no-se-trata-de-un-caso-de-acoso-sexual-ni-laboral.html][Alfonso Serrano, número dos de Ayuso, defiende la inocencia del alcalde de Móstoles: “No se trata de un caso de acoso sexual ni laboral”]]
+- [[https://elpais.com/espana/2026-02-05/ultima-hora-de-la-borrasca-leonardo-en-directo.html][Última hora de la borrasca ‘Leonardo’, en directo | Más de 140 carreteras cortadas por inundaciones y desprendimientos por la borrasca]]
 
 *** El Mundo
 
 - [[https://www.elmundo.es/elecciones/elecciones-aragon/2026/02/04/6983a4fdfc6c8365738b45a5.html][PP y Vox compiten por 35.000 votos clave que están indecisos en Aragón]]
-- [[https://www.elmundo.es/elecciones/elecciones-aragon/2026/02/05/698399d1e85ece77728b45a9.html][Alejandro Nolasco, candidato de Vox: "El obrero ve que su forma de vida la defendemos mejor nosotros que el PSOE"]]
-- [[https://www.elmundo.es/espana/2026/02/04/69839c88fdddff72518b4594.html][La Guardia Civil apunta a un presunto soborno de 4 millones desde Forestalia a un ex consejero con el PSOE en Aragón]]
+- [[https://www.elmundo.es/espana/2026/02/05/69846654e9cf4aa0058b45b2.html][Francisco Salazar afirma que su almuerzo con Pilar Alegría fue fruto del "sentimiento humanista" de la ex ministra]]
+- [[https://www.elmundo.es/espana/2026/02/05/69845b24e85ece6d708b459e.html][El Tribunal de Justicia de la UE anula la decisión del Parlamento Europeo de retirar la inmunidad a Puigdemont en una decisión sin efectos prácticos]]
+- [[https://www.elmundo.es/deportes/futbol/2026/02/04/6983a091fc6c8309538b4579.html][Luis de la Fuente, en el foro Future Makers de EL MUNDO: "Me fui de casa con 15 años y no quise que nunca me regalaran nada"]]
 - [[https://www.elmundo.es/comunidad-valenciana/2026/02/04/69838a01e4d4d8413b8b45c0.html][La regularización anunciada por Sánchez ya colapsa consulados y padrones municipales: "Es inasumible"]]
-- [[https://www.elmundo.es/economia/2026/02/04/69838c50e4d4d8f4328b458a.html][Bruselas pidió explicaciones a España sobre los fondos europeos invertidos en la línea Madrid-Sevilla tras el accidente de Adamuz y aún no tiene respuesta]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/vida/20260204/11458009/leonardo-descarga-furia-andalucia.html][La borrasca 'Leonardo' deja más de 3.500 evacuados, ríos en rojo y carreteras cortadas en Andalucía]]
-- [[https://www.lavanguardia.com/local/andalucia/20260204/11458002/municipio-malagueno-gaucin-sufre-tres-hidrosismos-terremotos-provocados-agua.html][El municipio malagueño de Gaucín sufre tres hidrosismos, terremotos provocados por el agua]]
-- [[https://www.lavanguardia.com/local/andalucia/20260204/11457786/llueve-tanto-grazalema.html][Por qué llueve tanto en Grazalema, el pueblo del que sale agua hasta por los enchufes]]
-- [[https://www.lavanguardia.com/opinion/20260205/11458023/clima-mas-amenaza.html][El clima es más amenaza]]
-- [[https://www.lavanguardia.com/vida/20260204/11457934/dueno-telegram-arremete-pedro-sanchez-hizo-elon-musk.html][Guerra abierta de los dueños de Telegram y X contra el plan de Sánchez sobre las redes sociales]]
+- [[https://www.lavanguardia.com/politica/20260205/11458360/tjue-anula-decisiones-eurocamara-suspender-inmunidad-puigdemont.html][El TJUE anula las decisiones de la Eurocámara de suspender la inmunidad a Puigdemont]]
+- [[https://www.lavanguardia.com/vida/20260204/11457934/dueno-telegram-arremete-pedro-sanchez-hizo-elon-musk.html][Guerra abierta de los dueños de Telegram y X contra el plan de Sánchez sobre las redes]]
+- [[https://www.lavanguardia.com/vida/20260205/11457845/certificar-edad-menores-necesita-verificador-externo-redes-sociales-acumulen-datos.html][¿Es posible evitar que los menores de 16 años entren en redes sociales?]]
+- [[https://www.lavanguardia.com/vida/20260204/11457827/bruselas-reticente-sobre-intenciones-espana-perseguir-ceo-plataformas.html][Bruselas, reticente sobre las intenciones de España de perseguir a los CEO de las plataformas]]
+- [[https://www.lavanguardia.com/vida/20260205/11458205/temporal-leonardo-andalucia-temporal-lluvia-borrasca-inundaciones-ultima-hora-en-directo.html][Borrasca 'Leonardo', hoy en directo: última hora hoy del temporal en Sevilla, Córdoba y resto de Andalucía]]
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/ason/renovada-pista-multideporte-colegio-rural-ason/20260204211740188161.html][Renovada la pista multideporte del colegio rural Asón]]
-- [[https://eldiariocantabria.publico.es/articulo/municipios/ayuntamiento-presenta-carnaval-dos-dias-fiestas-mas-2200-euros-premios/20260204210158188159.html][El Ayuntamiento presenta un Carnaval con dos días de fiestas y más de 2.200 euros en premios]]
-- [[https://eldiariocantabria.publico.es/articulo/saja-besaya/avip-culpa-ayuntamiento-gobierno-lamentable-estado-abandono-puente-viejo-oruna/20260204205156188158.html][@AVIP culpa a Ayuntamiento y Gobierno del “lamentable estado de abandono” del puente viejo de Oruña]]
-- [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/gran-desfile-entierro-cachon-protagonizaran-carnaval-que-celebrara-13-16-febrero/20260204204439188157.html][El Gran Desfile y el Entierro del Cachón protagonizarán el Carnaval, que se celebrará del 13 al 16 de febrero]]
-- [[https://eldiariocantabria.publico.es/articulo/torrelavega/abierto-plazo-solicitar-ayudas-compra-libros-material-escolar/20260204203443188155.html][Abierto el plazo para solicitar ayudas a la compra de libros y material escolar]]
+- [[https://eldiariocantabria.publico.es/articulo/cultura/25-anos-cahornega-viaje-emocional-esencia-folk/20260205113755188165.html][25 años de Cahórnega: El viaje emocional de la esencia folk]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/mas-11000-firmas-poligonos-eolicos-astillero-i-ii-alertan-riesgos-salud-territorio/20260205113111188172.html][Más de 11.000 firmas contra los polígonos eólicos Astillero I y II: alertan de riesgos para la salud y el territorio]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/detenido-reclamado-justicia-que-buscaba-albergue-centro-acogida-santander/20260205111321188170.html][Detenido un reclamado por la justicia que buscaba albergue en un centro de acogida de Santander]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/nieve-hielo-obligan-extremar-precaucion-varias-carreteras-cantabria/20260205105926188169.html][La nieve y el hielo obligan a extremar la precaución en varias carreteras de Cantabria]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/cantabria-amanece-tres-incendios-activos-seis-comarcas-nivel-2/20260205104344188168.html][Cantabria amanece con tres incendios activos y seis comarcas en nivel 2]]
 
 ** 🇺🇸 Estados Unidos
 
@@ -79,11 +79,11 @@
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/02/05/nigeria-militants-islamic-state-trump/][In northwest Nigeria, U.S. confronts a growing terrorist threat]]
+- [[https://www.washingtonpost.com/world/2026/02/04/russia-shadow-fleet-europe-sanctions/][As West goes after Russia’s oil fleet, Moscow fears for its war funding]]
 - [[https://www.washingtonpost.com/national-security/2026/02/04/trump-xi-us-china-meeting/][Trump touts ‘very positive’ call with Chinese leader Xi]]
 - [[https://www.washingtonpost.com/world/2026/02/04/andrew-epstein-prince-royal-lodge/][Andrew, ex-prince linked to Epstein, moves out of royal residence]]
 - [[https://www.washingtonpost.com/world/2026/02/04/fiji-methamphetamines-hiv-cartels/][On a paradise island in the Pacific, meth and HIV epidemics rage]]
-- [[https://www.washingtonpost.com/world/2026/02/04/winter-olympics-milan-italy-gentrification/][Ahead of the Winter Olympics, Milan wins gold in gentrification]]
-- [[https://www.washingtonpost.com/world/2026/02/03/trump-war-russia-ukraine-attacks-power-sector/][Russia delivers worst attack this year to Ukraine’s power sector]]
 
 *** WSJ.com: World News
 
@@ -97,29 +97,29 @@
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/article/2026/02/05/elon-musk-bill-gates-et-reid-hoffman-pris-dans-les-filets-de-l-affaire-epstein-les-tech-bros-entre-regrets-et-denegation_6665451_3210.html][Elon Musk, Bill Gates et Reid Hoffman pris dans les filets de l’affaire Epstein : les « tech bros » entre regrets et dénégation]]
-- [[https://www.lemonde.fr/societe/article/2026/02/04/au-proces-des-assistants-parlementaires-europeens-du-fn-la-defense-entre-en-scene-difficilement_6665431_3224.html][Au procès des assistants parlementaires européens du FN, la défense entre en scène difficilement]]
-- [[https://www.lemonde.fr/international/article/2026/02/05/le-washington-post-mythique-quotidien-americain-ebranle-par-un-plan-de-licenciements-massif_6665436_3210.html][Le « Washington Post », mythique quotidien américain, ébranlé par un plan de licenciements massif]]
-- [[https://www.lemonde.fr/international/live/2026/02/05/en-direct-guerre-en-ukraine-environ-55-000-militaires-ukrainiens-ont-ete-tues-depuis-le-debut-de-la-guerre-estime-volodymyr-zelensky-sur-france-2_6664947_3210.html][EN DIRECT, guerre en Ukraine : environ 55 000 militaires ukrainiens ont été tués depuis le début de la guerre, estime Volodymyr Zelensky sur France 2]]
-- [[https://www.lemonde.fr/international/article/2026/02/04/les-discussions-entre-l-iran-et-les-etats-unis-se-tiendront-vendredi-a-oman-selon-des-medias-iraniens_6665393_3210.html][Donald Trump met en garde le Guide suprême iranien, Ali Khamenei, avant d’éventuelles négociations entre les Etats-Unis et l’Iran]]
+- [[https://www.lemonde.fr/international/article/2026/02/05/un-ancien-cadre-du-hamas-nous-avons-tout-perdu-la-lutte-armee-a-echoue_6665486_3210.html][Gaza | Ahmed Youssef, ancien cadre du Hamas : « Nous avons tout perdu, la lutte armée a échoué »]]
+- [[https://www.lemonde.fr/actualite-medias/article/2026/02/05/adele-van-reeth-quittera-la-direction-de-france-inter-au-debut-de-mars-et-sera-remplacee-par-celine-pigalle_6665501_3236.html][Adèle Van Reeth quittera la direction de France Inter au début de mars, et sera remplacée par Céline Pigalle]]
+- [[https://www.lemonde.fr/economie/article/2026/02/05/comment-la-mecanique-de-la-sous-traitance-et-de-l-externalisation-fragilise-les-salaries_6665507_3234.html][Comment la sous-traitance et l’externalisation fragilisent les salariés]]
+- [[https://www.lemonde.fr/societe/article/2026/02/05/monsieur-honnetement-cette-version-personne-n-y-croit-un-gardien-de-la-paix-devant-la-justice-pour-une-gifle-et-un-crachat-lors-d-un-controle_6665481_3224.html][« Monsieur, honnêtement, cette version, personne n’y croit » : un gardien de la paix devant la justice pour une gifle et un crachat lors d’un contrôle]]
+- [[https://www.lemonde.fr/international/article/2026/02/05/macron-envoie-son-conseiller-diplomatique-en-visite-a-moscou_6665496_3210.html][Emmanuel Macron envoie son conseiller diplomatique en visite à Moscou]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/les-negociations-sur-le-nucleaire-iranien-sont-au-point-mort-selon-des-responsables-americains-20260204][L’Iran et les États-Unis discuteront vendredi à Oman, Trump juge que Khamenei «devrait se faire beaucoup de soucis»]]
+- [[https://www.lefigaro.fr/politique/affaire-epstein-faure-royal-muselier-les-appels-a-la-demission-de-jack-lang-directeur-de-l-institut-du-monde-arabe-se-multiplient-20260205][Affaire Epstein : Faure, Royal, Muselier... Les appels à la démission de Jack Lang, directeur de l’Institut du monde arabe, se multiplient]]
+- [[https://www.lefigaro.fr/actualite-france/affaire-epstein-jack-lang-doit-il-rester-a-la-tete-de-l-institut-du-monde-arabe-20260205][Affaire Epstein : Jack Lang doit-il rester à la tête de l'Institut du monde arabe ?]]
 - [[https://www.lefigaro.fr/international/il-mentait-a-propos-de-tout-les-secrets-de-la-richesse-de-jeffrey-epstein-20260204][«Il mentait à propos de tout» : les secrets de la richesse de Jeffrey Epstein]]
-- [[https://www.lefigaro.fr/international/affaire-epstein-l-institut-nobel-attend-des-explications-de-thorbjoern-jagland-ancien-premier-ministre-norvegien-20260204][Affaire Epstein : l'Institut Nobel attend des explications de Thorbjørn Jagland, ancien premier ministre norvégien]]
-- [[https://www.lefigaro.fr/international/peter-mandelson-la-chute-violente-du-prince-des-tenebres-britannique-emporte-par-l-affaire-epstein-20260204][Peter Mandelson, la chute violente du « Prince des ténèbres » britannique, emporté par l’affaire Epstein]]
-- [[https://www.lefigaro.fr/international/affaire-epstein-keir-starmer-dit-regretter-d-avoir-choisi-peter-mandelson-comme-ambassadeur-pour-les-etats-unis-20260204][Affaire Epstein : Keir Starmer dit regretter d’avoir choisi Peter Mandelson comme ambassadeur pour les États-Unis]]
+- [[https://madame.lefigaro.fr/royaute/qui-sont-les-nombreuses-figures-royales-impliquees-dans-l-affaire-epstein-20260204][Qui sont les (nombreuses) figures royales impliquées dans l’affaire Epstein?]]
+- [[https://www.lefigaro.fr/politique/affaire-epstein-renaud-muselier-enjoint-a-jack-lang-son-successeur-a-la-tete-de-l-institut-du-monde-arabe-de-demissionner-20260204][Affaire Epstein : Renaud Muselier enjoint à Jack Lang, son successeur à la tête de l’Institut du monde arabe, de démissionner]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/cvgr25e2lj5o?at_medium=RSS&at_campaign=rss][Fearing Russia will seize her town, war widow moves husband's grave to Kyiv]]
 - [[https://www.bbc.com/news/articles/c62wpjd3j1zo?at_medium=RSS&at_campaign=rss][US must be prudent when supplying arms to Taiwan, Xi tells Trump]]
-- [[https://www.bbc.com/news/articles/c2e18wvrx9xo?at_medium=RSS&at_campaign=rss]['We are ready to talk' - US news anchor Savannah Guthrie pleads for return of her abducted mother]]
-- [[https://www.bbc.com/news/articles/cre2gjj3pxpo?at_medium=RSS&at_campaign=rss][Man sentenced to life in prison for 2024 attempt on Trump's life]]
-- [[https://www.bbc.com/news/articles/ckgvllk3lx9o?at_medium=RSS&at_campaign=rss][Gunmen kill dozens in Nigeria as US military deployment confirmed]]
+- [[https://www.bbc.com/news/articles/c5yd10yp2m1o?at_medium=RSS&at_campaign=rss][Naked images remained in Epstein files despite outcry]]
+- [[https://www.bbc.com/news/articles/c2e18wvrx9xo?at_medium=RSS&at_campaign=rss]['We are ready to talk': US news anchor Savannah Guthrie pleads for return of her abducted mother]]
+- [[https://www.bbc.com/news/articles/c368g5l33xzo?at_medium=RSS&at_campaign=rss][Suspect identified in disappearance of four-year-old in Australian outback]]
+- [[https://www.bbc.com/news/articles/cvgr25e2lj5o?at_medium=RSS&at_campaign=rss][Fearing Russia will seize her town, war widow moves husband's grave to Kyiv]]
 
 *** The Guardian
 
@@ -155,11 +155,11 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/how-us-project-vault-challenges-china-s-rare-earth-dominance/a-75795283?maca=en-rss-en-world-4025-rdf][How US Project Vault challenges China's rare-earth dominance]]
 - [[https://www.dw.com/en/us-wants-to-establish-critical-minerals-trade-bloc/a-75812024?maca=en-rss-en-world-4025-rdf][US wants to establish critical minerals trade bloc]]
 - [[https://www.dw.com/en/new-start-last-us-russia-nuclear-treaty-expires-raising-fears-of-new-global-arms-race/a-75812014?maca=en-rss-en-world-4025-rdf][New START: Last US-Russia nuclear treaty expires, raising fears of new global arms race]]
 - [[https://www.dw.com/en/winter-olympics-begin-quietly-with-curling/a-75811934?maca=en-rss-en-world-4025-rdf][Winter Olympics begin quietly with curling]]
 - [[https://www.dw.com/en/us-iran-to-hold-talks-in-oman-on-friday/a-75811679?maca=en-rss-en-world-4025-rdf][US, Iran to hold talks in Oman on Friday]]
-- [[https://www.dw.com/en/turkey-s-textile-industry-crushed-by-china-and-bangladesh/a-75684427?maca=en-rss-en-world-4025-rdf][Turkey's textile industry crushed by China and Bangladesh]]
 
 
 * 🧠 Think Tanks
