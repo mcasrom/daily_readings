@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 38.6°C | ⚖ Load: 0.08 | 🌐 Ping: 9.94ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 38.6°C | ⚖ Load: 0.40 | 🌐 Ping: 10.0ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,19 +49,19 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/andalucia/2026/02/07/698777d5fdddffab098b4578.html]["Seguimiento exhaustivo" de presas, embalses y ríos andaluces, con el Guadalquivir en nivel rojo en Sevilla, Córdoba y otros cuatro municipios]]
-- [[https://www.elmundo.es/espana/2026/02/07/69876f22e9cf4a04528b45ab.html][Muere en Ávila el conductor de una quitanieves al precipitarse desde 20 metros de altura]]
-- [[https://www.elmundo.es/economia/2026/02/07/6985b068fc6c83d3028b45bf.html][La red ferroviaria suma 48 nuevas limitaciones de velocidad para la semana que viene y roza ya los 1.000 puntos críticos: "Nunca habíamos visto nada así"]]
-- [[https://www.elmundo.es/cataluna/2026/02/07/69876cf5fc6c83b4788b458f.html][Manifestación en Barcelona por el caos ferroviario: "El colapso de Rodalies son horas perdidas de nuestras vidas"]]
-- [[https://www.elmundo.es/espana/2026/02/07/69876d23e85ece830e8b45ab.html][Del porno y los menores al choque con los "tecnooligarcas", dos años de obsesión de Sánchez con las redes sociales: "El presidente nos ha apretado mucho con esto"]]
+- [[https://www.elmundo.es/elecciones/elecciones-aragon/2026/02/08/698776e0e4d4d868188b4583.html][Sánchez teme un desastre en Aragón, la comunidad que siempre ha anticipado el futuro electoral en España]]
+- [[https://www.elmundo.es/espana/2026/02/08/6984b475e4d4d8c3438b4575.html][Los mapas que ya avisaban del despegue de la derecha y la quiebra de la izquierda en Aragón]]
+- [[https://www.elmundo.es/elecciones/elecciones-aragon/2026/02/07/69877d8c21efa0e3368b456d.html][La franja 'aragonesista' de Teruel, el gran botín electoral en el 8-F: una tierra expoliada y con hospitales nuevos cerrados]]
+- [[https://www.elmundo.es/cronica/2026/02/07/69863495e4d4d862318b45a6.html][Ulpiano, el pionero que cuidaba las vías originales del AVE: "Debimos hacerlo bien si la velocidad se ha mantenido durante 34 años. Inicialmente no había ninguna 'vibración'"]]
+- [[https://www.elmundo.es/economia/2026/02/07/698644b7e85eced6148b45ca.html][Habla uno de los 30 maquinistas auscultadores de Adif que llevan más de dos años cobrando sin trabajar: "Siete meses en casa y 2.500 en la nómina... ahora están mano sobre mano en una sala de ocho a cuatro"]]
 
 *** La Vanguardia
 
 - [[https://www.lavanguardia.com/politica/20260207/11460540/usuarios-rodalies-exhiben-hartazgo-barcelona-exigen-cambio-radical-gestion.html][Los usuarios de Rodalies exhiben su hartazgo y exigen un “cambio radical” de gestión]]
 - [[https://www.lavanguardia.com/politica/20260207/11460456/independentismo-denuncia-trato-colonial-manifestacion-rodalies.html][El independentismo denuncia un “trato colonial” del Estado en su manifestación]]
 - [[https://www.lavanguardia.com/politica/20260207/11459047/independencia-viaja-tren.html][La independencia no viaja en tren: por qué esta crisis de Rodalies impulsará a la ultraderecha en Catalunya]]
-- [[https://www.lavanguardia.com/politica/20260207/11460115/gritara-sanchez-aguanta-tren-rodalies-caos.html][¿Quién gritará ‘Sánchez, aguanta’?]]
-- [[https://www.lavanguardia.com/politica/20260207/11459996/averia-indefinida-catalunya.html][La avería indefinida de Catalunya]]
+- [[https://www.lavanguardia.com/opinion/20260208/11460703/trump-prepara-victoria.html][Trump prepara su victoria]]
+- [[https://www.lavanguardia.com/opinion/20260208/11460505/sexo.html][El poder del sexo]]
 
 *** El Diario de Cantabria
 
@@ -83,11 +83,11 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/middle-east/iran-threatens-missile-attacks-hoping-trump-sees-strength-not-weakness-997c6ab9][Iran Threatens Missile Attacks, Hoping Trump Sees Strength Not Weakness]]
+- [[https://www.wsj.com/world/the-u-s-navys-new-insurance-policy-for-war-with-china-is-an-australian-base-764af616][The U.S. Navy’s New Insurance Policy for War With China Is an Australian Base]]
 - [[https://www.wsj.com/world/europe/squeezed-by-u-s-and-china-the-worlds-middle-powers-are-teaming-up-77603dee][Squeezed by U.S. and China, the World’s Middle Powers Are Teaming Up]]
 - [[https://www.wsj.com/world/middle-east/u-s-and-iran-gather-for-high-stakes-nuclear-talks-f4c6174e][Iran Refuses to End Nuclear Enrichment in Talks With U.S.]]
 - [[https://www.wsj.com/world/asia/young-voters-cant-get-enough-of-japans-conservative-prime-minister-f3d46898][Young Voters Can’t Get Enough of Japan’s Conservative Prime Minister]]
-- [[https://www.wsj.com/world/europe/epstein-fallout-ripples-through-norways-elite-ab6a707e][Epstein Fallout Ripples Through Norway’s Elite]]
-- [[https://www.wsj.com/world/china/u-s-accuses-china-of-secretly-conducting-nuclear-tests-fd728b6e][U.S. Accuses China of Secretly Conducting Nuclear Tests]]
 
 ** 🇫🇷 Francia
 
@@ -95,8 +95,8 @@
 
 - [[https://www.lemonde.fr/international/article/2026/02/07/affaire-epstein-jack-lang-propose-sa-demission-de-la-presidence-de-l-institut-du-monde-arabe_6665815_3210.html][Affaire Epstein : Jack Lang « propose » sa démission de la présidence de l’Institut du monde arabe ; l’Elysée « prend acte » de cette décision]]
 - [[https://www.lemonde.fr/politique/article/2026/02/07/de-l-aude-a-l-herault-jordan-bardella-lance-la-campagne-municipale-du-rn-au-milieu-de-ses-fans-il-devrait-etre-candidat-meme-si-marine-est-eligible_6665829_823448.html][Jordan Bardella lance la campagne municipale du RN au milieu de ses fans : « Il devrait être candidat, même si Marine est éligible »]]
-- [[https://www.lemonde.fr/sport/article/2026/02/07/jo-2026-le-premier-titre-pour-franjo-von-allmen-un-record-olympique-pour-francesca-lollobrigida-le-resume-de-la-journee-du-samedi-7-fevrier_6665825_3242.html][JO 2026 : le premier titre pour Franjo von Allmen, un record olympique pour Francesca Lollobrigida… le résumé de la journée du samedi 7 février]]
 - [[https://www.lemonde.fr/politique/article/2026/02/07/sebastien-lecornu-signera-en-fin-de-semaine-prochaine-le-decret-d-application-de-la-programmation-pluriannuelle-de-l-energie_6665817_823448.html][Sébastien Lecornu signera « en fin de semaine prochaine » le décret d’application de la programmation pluriannuelle de l’énergie]]
+- [[https://www.lemonde.fr/international/live/2026/02/08/en-direct-guerre-en-ukraine-les-etats-unis-proposent-des-pourparlers-trilateraux-sur-leur-territoire_6665836_3210.html][EN DIRECT, guerre en Ukraine : les Etats-Unis proposent des pourparlers trilatéraux sur leur territoire]]
 - [[https://www.lemonde.fr/international/article/2026/02/07/au-japon-sanae-takaichi-sur-le-point-de-remporter-largement-son-pari-des-legislatives-anticipees_6665812_3210.html][Au Japon, Sanae Takaichi sur le point de remporter largement son pari des législatives anticipées]]
 
 *** Le Figaro
@@ -111,11 +111,11 @@
 
 *** BBC News
 
+- [[https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss][Japanese people brave snow to vote in snap election]]
+- [[https://www.bbc.com/news/articles/ce9y99eg0nno?at_medium=RSS&at_campaign=rss][Savannah Guthrie tells mother's possible kidnappers 'we will pay' in plea for her return]]
 - [[https://www.bbc.com/news/articles/crkrk567d7zo?at_medium=RSS&at_campaign=rss][France investigates ex-minister Jack Lang over Epstein links]]
-- [[https://www.bbc.com/news/articles/cd0y0y9z231o?at_medium=RSS&at_campaign=rss][US wants Russia and Ukraine to end war by June, says Zelensky]]
-- [[https://www.bbc.com/news/articles/cpwnweypgvyo?at_medium=RSS&at_campaign=rss][General shot in Moscow conscious after surgery, Russian media say]]
-- [[https://www.bbc.com/news/articles/ce8r8y78g10o?at_medium=RSS&at_campaign=rss][Trump says he 'didn't see' part of video with racist clip depicting Obamas as apes]]
-- [[https://www.bbc.com/news/articles/cd6w69pj14xo?at_medium=RSS&at_campaign=rss][Alleged mastermind among four arrested after Pakistan mosque blast]]
+- [[https://www.bbc.com/news/videos/c86v6p1djvqo?at_medium=RSS&at_campaign=rss][ICE protester speaks out after White House shared fake arrest image]]
+- [[https://www.bbc.com/news/articles/c8e5ee39j47o?at_medium=RSS&at_campaign=rss][Washington Post chief executive steps down after mass lay-offs]]
 
 *** The Guardian
 
@@ -151,11 +151,11 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/milan-protest-ends-in-clashes-near-olympic-village/a-75858125?maca=en-rss-en-world-4025-rdf][Milan: Protest ends in clashes near Olympic Village]]
 - [[https://www.dw.com/en/syria-and-saudi-arabia-sign-major-investment-package/a-75857509?maca=en-rss-en-world-4025-rdf][Syria and Saudi Arabia sign major investment package]]
 - [[https://www.dw.com/en/greenland-denmark-say-us-talks-positive-but-future-unclear/a-75857039?maca=en-rss-en-world-4025-rdf][Greenland, Denmark say US talks positive but future unclear]]
 - [[https://www.dw.com/en/how-nonviolent-protest-can-break-autocratic-rule/a-75831436?maca=en-rss-en-world-4025-rdf][How nonviolent protest can break autocratic rule]]
 - [[https://www.dw.com/en/families-call-for-truth-on-kosovo-war-s-missing-people/a-75855214?maca=en-rss-en-world-4025-rdf][Families call for truth on Kosovo War's missing people]]
-- [[https://www.dw.com/en/france-ex-minister-jack-lang-resigns-amid-epstein-probe/a-75856210?maca=en-rss-en-world-4025-rdf][France: Ex-minister Jack Lang resigns amid Epstein probe]]
 
 
 * 🧠 Think Tanks
