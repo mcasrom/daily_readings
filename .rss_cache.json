@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-09T20:50:13.084179",
+  "timestamp": "2026-02-09T20:50:47.391962",
   "data": {
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada": [
       {
@@ -89,7 +89,6 @@
         "link": "https://eldiariocantabria.publico.es/articulo/politica/hallado-muerto-alcalde-pedaneo-gornazo-jose-manuel-real-desaparicion-voluntaria-15-enero/20260209165441188368.html"
       }
     ],
-    "https://rss.nytimes.com/services/xml/nyt/World.xml": [],
     "https://feeds.washingtonpost.com/rss/world": [
       {
         "title": "Prince and Princess of Wales ‘deeply concerned’ as Epstein files roil U.K.",
@@ -110,6 +109,28 @@
       {
         "title": "At Winter Olympics, protest over cost and ICE ends in clash with police",
         "link": "https://www.washingtonpost.com/sports/olympics/2026/02/07/protests-winter-olympics-italy/"
+      }
+    ],
+    "https://feeds.content.dowjones.io/public/rss/RSSWorldNews": [
+      {
+        "title": "How U.S. Special Forces Are Training in an Arctic Warfare Bootcamp",
+        "link": "https://www.wsj.com/world/europe/how-u-s-special-forces-are-training-in-an-arctic-warfare-bootcamp-374d6cce"
+      },
+      {
+        "title": "U.S. Seizes Tanker in Indian Ocean After Monthlong Chase From Caribbean",
+        "link": "https://www.wsj.com/world/americas/u-s-seizes-tanker-in-indian-ocean-after-weekslong-chase-from-caribbean-558649c2"
+      },
+      {
+        "title": "U.K.’s Starmer Is in Danger of Becoming First Leader to Fall in Epstein Scandal",
+        "link": "https://www.wsj.com/world/uk/u-k-s-starmer-is-in-danger-of-becoming-first-leader-to-fall-in-epstein-scandal-eabf4b71"
+      },
+      {
+        "title": "They Came for Its Riches, but Big Business Is Souring on South Africa",
+        "link": "https://www.wsj.com/world/africa/they-came-for-its-riches-but-big-business-is-souring-on-south-africa-27937c50"
+      },
+      {
+        "title": "Deadly Insurgency Threatens a U.S. Plan to Invest in Pakistan’s Mineral Riches",
+        "link": "https://www.wsj.com/world/asia/deadly-insurgency-threatens-a-u-s-plan-to-invest-in-pakistans-mineral-riches-50c95f47"
       }
     ],
     "https://www.lemonde.fr/rss/une.xml": [
