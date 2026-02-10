@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 38.6°C | ⚖ Load: 0.02 | 🌐 Ping: 8.90ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 38.6°C | ⚖ Load: 0.00 | 🌐 Ping: 9.22ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,27 +49,27 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/elecciones/elecciones-aragon/2026/02/09/6989cc23fc6c834e398b459a.html][Feijóo defiende ante su cúpula que hay que "entenderse" con Vox pero pone límites: "Lo que no esté en la Constitución y las leyes no se hará"]]
-- [[https://www.elmundo.es/espana/2026/02/09/6989c63ce9cf4a6e758b4595.html][Vox pide paso en el ejecutivo de Aragón tras duplicar su número de escaños: "Queremos gobernar"]]
-- [[https://www.elmundo.es/elecciones/elecciones-aragon/2026/02/09/69888d9cfdddffab098b458a.html][Ferraz no hace autocrítica sobre la debacle de PSOE en Aragón y dice que "Vox se multiplica como los Gremlins" porque Feijóo "da de comer a los ultras"]]
-- [[https://www.elmundo.es/elecciones/elecciones-aragon/2026/02/09/6989fdb7e85ecea66b8b459c.html][Radiografía del 8-F de Aragón: el PP se blinda en las capitales, Vox triplica sus votos y el PSOE se desangra en los pueblos]]
-- [[https://www.elmundo.es/elecciones/elecciones-aragon/2026/02/09/6988ce70fc6c833e558b4588.html][Los 10 enclaves de Aragón: Vox segundo en otra capital y barrios rojos hoy para el PP]]
+- [[https://www.elmundo.es/elecciones/elecciones-aragon/2026/02/09/698a258321efa0fe588b45a8.html][Feijóo reta a Vox a compartir los gobiernos y asumir el "desgaste" de la gestión]]
+- [[https://www.elmundo.es/espana/2026/02/09/698a45f121efa0e6648b4579.html][El techo al que aspira Vox con una entrada en el gobierno de Aragón: 2.300 millones de presupuesto a gestionar]]
+- [[https://www.elmundo.es/elecciones/elecciones-aragon/2026/02/09/698a24dd21efa0b7278b4575.html][El "muro" de Sánchez cae con Vox penetrando en el electorado socialista y robándole municipios: "Si alimentas a la bestia acaba comiéndote"]]
+- [[https://www.elmundo.es/elecciones/elecciones-aragon/2026/02/09/698a32b4e85eceab7a8b458c.html][Dos barrios en los extremos de Zaragoza explican todo en España: manda el PP, quiebra el PSOE, Vox despega con  límites y están "hartos" de Sánchez]]
+- [[https://www.elmundo.es/economia/2026/02/09/698a365a21efa0cb1f8b4594.html][Puente enmienda su gestión de mantenimiento de las vías y riega de millones el sector ferroviario para frenar la huelga]]
 
 *** La Vanguardia
 
 - [[https://www.lavanguardia.com/politica/20260209/11461781/azcon-apela-minimo-comun-alcanzar-acuerdo-vox.html][Azcón apela al “mínimo común” con Vox para lograr un acuerdo de gobierno en Aragón]]
 - [[https://www.lavanguardia.com/politica/20260209/11461793/feijoo-celebra-victoria-aragon-asume-pp-debe-entenderse-vox-gente-soporta-mas-sanchez.html][Feijóo celebra la victoria en Aragón y asume que el PP debe “entenderse” con Vox: “La gente ya no soporta más a Sánchez”]]
-- [[https://www.lavanguardia.com/politica/20260209/11461809/vox-pide-entrar-gobierno-aragon-combatir-politicas-verdes-inmigracion-ilegal.html][Vox pide entrar en el gobierno de Aragón para combatir las políticas verdes y la inmigración]]
-- [[https://www.lavanguardia.com/politica/20260209/11461493/feijoo-abascal-sabran-pactar.html][¿Feijóo y Abascal sabrán pactar?]]
-- [[https://www.lavanguardia.com/politica/20260209/11461164/aragon-nuestro-ohio.html][Y Aragón sí fue nuestro Ohio]]
+- [[https://www.lavanguardia.com/politica/20260209/11461809/vox-pide-entrar-gobierno-aragon-combatir-politicas-verdes-inmigracion-ilegal.html][Vox valora entrar en el Gobierno de Aragón: pide el rechazo al Pacto Verde y a la inmigración ilegal]]
+- [[https://www.lavanguardia.com/politica/20260209/11461845/psoe-minimiza-derrota-achaca-fracaso-absoluto-pp-feijoo-pagafantas-vox.html][El PSOE minimiza su derrota y achaca un “fracaso absoluto” al PP: “Feijóo es el pagafantas de Vox”]]
+- [[https://www.lavanguardia.com/internacional/20260209/11461388/trump-ve-repugnante-show-bad-bunny-tipo-le-entiende-mal-ejemplo-ninos.html][Trump ve “repugnante” el show de Bad Bunny: “No se le entiende”]]
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/deportes/victoria-equipo-seguir-lider/20260210001846188409.html][Victoria de equipo para seguir líder]]
 - [[https://eldiariocantabria.publico.es/articulo/saja-besaya/cantabria-subvenciona-fondos-europeos-plataforma-ruralmind-informacion-interes-vecinos/20260209213840188402.html][Cantabria subvenciona con fondos europeos la plataforma ‘RuralMind’ con información de interés para los vecinos]]
 - [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/consistorio-aborda-limpieza-integral-746-contenedores-residuos/20260209212921188400.html][El Consistorio aborda la limpieza integral de los 746 contenedores de residuos]]
 - [[https://eldiariocantabria.publico.es/articulo/torrelavega/finalizada-reforma-integral-vestuarios-complejo-deportivo-oscar-freire/20260209212131188398.html][Finalizada la reforma integral de los vestuarios del complejo deportivo Óscar Freire]]
 - [[https://eldiariocantabria.publico.es/articulo/santander/ayuntamiento-abre-oficina-habilita-web-informar-zona-bajas-emisiones/20260209211644188396.html][El Ayuntamiento abre una oficina y habilita una web para informar de la Zona de Bajas Emisiones]]
-- [[https://eldiariocantabria.publico.es/articulo/politica/pp-asegura-que-continuara-matando-lobos-tiempo-que-anuncia-que-nuevo-plan-punto-finalizar-tramitacion/20260209210352188394.html][El PP asegura que continuará matando lobos al tiempo que anuncia que el nuevo plan está "a punto de finalizar" su tramitación]]
 
 ** 🇺🇸 Estados Unidos
 
@@ -82,29 +82,29 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/americas/trump-threatens-to-block-opening-of-new-bridge-between-detroit-and-canada-e80d64ac][Trump Threatens to Block Opening of New Bridge Between Detroit and Canada]]
 - [[https://www.wsj.com/world/middle-east/israel-assumes-broad-new-powers-in-the-west-bank-ad83aa5e][Israel Assumes Broad New Powers in the West Bank]]
 - [[https://www.wsj.com/world/uk/u-k-s-starmer-is-in-danger-of-becoming-first-leader-to-fall-in-epstein-scandal-eabf4b71][U.K.’s Starmer Is in Danger of Becoming First Leader to Fall in Epstein Scandal]]
 - [[https://www.wsj.com/world/europe/how-u-s-special-forces-are-training-in-an-arctic-warfare-bootcamp-374d6cce][How U.S. Special Forces Are Training in an Arctic Warfare Bootcamp]]
 - [[https://www.wsj.com/world/americas/u-s-seizes-tanker-in-indian-ocean-after-weekslong-chase-from-caribbean-558649c2][U.S. Seizes Tanker in Indian Ocean After Monthlong Chase From Caribbean]]
-- [[https://www.wsj.com/world/africa/they-came-for-its-riches-but-big-business-is-souring-on-south-africa-27937c50][They Came for Its Riches, but Big Business Is Souring on South Africa]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/politique/article/2026/02/09/tout-le-monde-savait-qu-il-ne-payait-rien-comment-l-affaire-epstein-a-fini-par-faire-chuter-jack-lang_6666054_823448.html][« Tout le monde savait qu’il ne payait rien » : comment l’affaire Epstein a fini par faire chuter Jack Lang]]
-- [[https://www.lemonde.fr/politique/article/2026/02/09/amelie-de-montchalin-designee-par-emmanuel-macron-pour-prendre-la-presidence-de-la-cour-des-comptes_6666056_823448.html][Amélie de Montchalin désignée par Emmanuel Macron pour prendre la présidence de la Cour des comptes]]
-- [[https://www.lemonde.fr/sport/article/2026/02/09/jo-2026-la-deception-francaise-sur-le-combine-par-equipes-mathilde-gremaud-reine-du-ski-slopestyle-devant-eileen-gu-le-resume-du-lundi-9-fevrier_6666061_3242.html][JO 2026 : entrée en lice parfaite pour Laurence Fournier Beaudry et Guillaume Cizeron, déception tricolore sur le combiné alpin par équipes… le résumé du lundi 9 février]]
+- [[https://www.lemonde.fr/politique/article/2026/02/10/amelie-de-montchalin-premiere-femme-a-la-tete-de-la-cour-des-comptes_6666082_823448.html][Amélie de Montchalin, première femme à la tête de la Cour des comptes]]
+- [[https://www.lemonde.fr/international/article/2026/02/09/cisjordanie-l-ue-rappelle-a-israel-que-l-annexion-est-illegale-en-droit-international-apres-les-mesures-prises-pour-etendre-son-controle-sur-le-territoire-palestinien_6666064_3210.html][Cisjordanie : l’UE rappelle à Israël que « l’annexion est illégale en droit international » après les mesures prises pour étendre son contrôle sur le territoire palestinien]]
+- [[https://www.lemonde.fr/societe/article/2026/02/09/au-proces-en-appel-des-assistants-parlementaires-du-fn-la-defense-critique-a-nouveau-la-caricature-de-justice-en-premiere-instance_6666067_3224.html][Au procès en appel des assistants parlementaires du FN, la défense critique à nouveau « la caricature de justice en première instance »]]
 - [[https://www.lemonde.fr/societe/article/2026/02/09/l-ecole-alsacienne-s-enfonce-dans-la-crise-avec-le-licenciement-conteste-de-son-directeur_6666060_3224.html][L’Ecole alsacienne s’enfonce dans la crise, avec le licenciement contesté de son directeur]]
-- [[https://www.lemonde.fr/economie/article/2026/02/09/jean-marc-morandini-capitule-et-quitte-l-antenne-de-cnews_6666034_3234.html][Jean-Marc Morandini capitule et quitte l’antenne de CNews]]
+- [[https://www.lemonde.fr/international/article/2026/02/10/affaire-epstein-six-noms-de-personnalites-occultes-sans-explication-par-le-ministere-de-la-justice-americain-denoncent-des-parlementaires_6666074_3210.html][Affaire Epstein : six noms de personnalités occultés sans explication par le ministère de la justice américain, dénoncent des parlementaires]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/politique/aux-municipales-la-derive-racialiste-de-la-france-insoumise-20260209][Aux municipales, la dérive racialiste de La France insoumise]]
-- [[https://www.lefigaro.fr/politique/je-veux-representer-et-incarner-la-france-insoumise-et-fiere-de-l-etre-lfi-les-dix-annees-qui-ont-marque-la-mue-de-jean-luc-melenchon-20260209][«S’il faut que je m’entende avec le diable, je vais bouffer avec lui, d’accord ?» : La France Insoumise ou les dix années qui ont marqué la mue de Jean-Luc Mélenchon]]
-- [[https://www.lefigaro.fr/politique/jean-luc-melenchon-peut-il-renouveler-a-la-presidentielle-de-2027-ses-percees-realisees-in-extremis-en-2017-et-en-2022-20260209][Jean-Luc Mélenchon peut-il renouveler à la présidentielle de 2027 ses percées réalisées in extremis en 2017 et en 2022 ?]]
-- [[https://www.lefigaro.fr/vox/politique/l-editorial-de-vincent-tremolet-de-villers-a-gauche-tous-les-chemins-menent-vers-melenchon-20260209][L’éditorial de Vincent Trémolet de Villers : « À gauche, tous les chemins mènent vers Mélenchon »]]
-- [[https://www.lefigaro.fr/medias/jean-marc-morandini-contraint-de-se-retirer-de-cnews-les-vraies-raisons-d-une-volte-face-20260209][Jean-Marc Morandini contraint de se retirer de CNews : les vraies raisons d’une volte-face]]
+- [[https://www.lefigaro.fr/actualite-france/massages-suspects-travaux-pharaoniques-et-visites-politiques-que-s-est-il-passe-dans-l-appartement-parisien-de-jeffrey-epstein-20260209][Massages suspects, travaux pharaoniques et visites politiques : que s’est-il passé dans l’appartement parisien de Jeffrey Epstein ?]]
+- [[https://www.lefigaro.fr/faits-divers/affaire-epstein-jack-lang-place-sous-protection-policiere-apres-des-menaces-sur-les-reseaux-sociaux-20260209][Affaire Epstein : Jack Lang placé sous protection policière après des menaces sur les réseaux sociaux]]
+- [[https://www.lefigaro.fr/vox/politique/l-editorial-d-yves-threard-jack-lang-le-barde-de-la-gauche-caviar-20260208][L’éditorial d’Yves Thréard : « Jack Lang, le barde de la gauche caviar »]]
+- [[https://www.lefigaro.fr/actualite-france/affaire-epstein-caroline-lang-demissionne-du-conseil-d-administration-de-la-fondation-le-refuge-qui-accompagne-des-jeunes-lgbt-20260209][Affaire Epstein : Caroline Lang démissionne de la Fondation Le Refuge, qui accompagne des jeunes LGBT+]]
+- [[https://www.lefigaro.fr/economie/emmanuel-macron-choisit-amelie-de-montchalin-pour-prendre-la-tete-de-la-cour-des-comptes-20260209][Emmanuel Macron choisit Amélie de Montchalin pour prendre la tête de la Cour des comptes]]
 
 ** 🇬🇧 Reino Unido
 
@@ -114,7 +114,7 @@
 - [[https://www.bbc.com/news/articles/cvgv5yre39zo?at_medium=RSS&at_campaign=rss][Maxwell refuses to answer questions about Epstein in congressional hearing]]
 - [[https://www.bbc.com/news/articles/clyz9pvwlw9o?at_medium=RSS&at_campaign=rss][Epstein survivors call for full release of files in video]]
 - [[https://www.bbc.com/news/articles/cd9g8nxdexko?at_medium=RSS&at_campaign=rss][Extreme cold in New York City leaves 18 dead]]
-- [[https://www.bbc.com/news/articles/c4geqzqd8qeo?at_medium=RSS&at_campaign=rss][Savannah Guthrie pleads for help as missing mother's ransom deadline looms]]
+- [[https://www.bbc.com/news/articles/c4geqzqd8qeo?at_medium=RSS&at_campaign=rss]['We are at an hour of desperation' - Savannah Guthrie pleads for help for missing mother]]
 
 *** The Guardian
 
@@ -150,11 +150,11 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/us-armenia-sign-nuclear-deal-during-vance-visit/a-75885494?maca=en-rss-en-world-4025-rdf][US, Armenia sign nuclear deal during Vance visit]]
+- [[https://www.dw.com/en/cricket-india-pakistan-t20-world-cup-clash-back-on-after-boycott-ends/a-75887991?maca=en-rss-en-world-4025-rdf][Cricket: India-Pakistan T20 World Cup clash back on after boycott ends]]
+- [[https://www.dw.com/en/us-cuts-bangladesh-tariffs-to-19-in-trade-deal/a-75887230?maca=en-rss-en-world-4025-rdf][US cuts Bangladesh tariffs to 19% in trade deal]]
 - [[https://www.dw.com/en/msc-braces-for-more-of-trump-s-wrecking-ball-politics/a-75874710?maca=en-rss-en-world-4025-rdf][MSC braces for more of Trump's 'wrecking-ball politics']]
 - [[https://www.dw.com/en/uk-keir-starmer-clings-on-party-ally-calls-on-him-to-quit/a-75878611?maca=en-rss-en-world-4025-rdf][UK: Keir Starmer clings on, party ally calls on him to quit]]
-- [[https://www.dw.com/en/thailand-what-s-next-after-pm-anutin-s-big-election-win/a-75880049?maca=en-rss-en-world-4025-rdf][Thailand: What's next after PM Anutin's big election win?]]
-- [[https://www.dw.com/en/hong-kong-media-tycoon-jimmy-lai-sentenced-to-20-years/a-75867715?maca=en-rss-en-world-4025-rdf][Hong Kong: Media tycoon Jimmy Lai sentenced to 20 years]]
-- [[https://www.dw.com/en/hong-kong-media-dealt-blow-by-jimmy-lai-s-20-year-sentence/a-75876162?maca=en-rss-en-world-4025-rdf][Hong Kong media dealt blow by Jimmy Lai’s 20-year sentence]]
 
 
 * 🧠 Think Tanks
