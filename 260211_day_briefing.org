@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
-#+HTML: <div class='telemetry'>🌡 39.7°C | ⚖ Load: 0.16 | 🌐 Ping: 9.00ms</div>
+#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
+#+HTML: <div class='telemetry'>🌡 39.7°C | ⚖ Load: 0.00 | 🌐 Ping: 16.8ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,49 +41,50 @@
 
 *** El País
 
-- [[https://elpais.com/espana/2026-02-10/el-pp-prefiere-perder-escanos-en-el-congreso-si-una-subida-de-vox-garantiza-la-mayoria-absoluta.html][Feijóo defiende sus acuerdos con Vox: “La gente quiere que haya un cambio y lo expresa cada vez que se le consulta”]]
-- [[https://elpais.com/espana/2026-02-10/felipe-gonzalez-votaria-en-blanco-si-sigue-sanchez-y-ve-mas-legitimo-pactar-con-vox-que-con-bildu.html][Felipe González votaría en blanco si sigue Sánchez y ve peor pactar con Bildu que con Vox]]
-- [[https://elpais.com/espana/2026-02-10/el-juez-suspende-la-comparecencia-de-errejon-para-notificarle-el-juicio-por-supuesta-agresion-sexual-a-mouliaa.html][Elisa Mouliaá rectifica y mantiene su acusación contra Errejón: “¡Ahora sí voy a ir hasta el final!”]]
-- [[https://elpais.com/espana/2026-02-10/la-comision-europea-advierte-a-espana-que-un-permiso-de-residencia-no-es-un-cheque-en-blanco.html][La Comisión Europea advierte a España que “un permiso de residencia no es un cheque en blanco”]]
-- [[https://elpais.com/internacional/2026-02-10/europa-avanza-hacia-la-creacion-de-centros-de-deportacion-de-inmigrantes-fuera-de-la-ue.html][Europa avanza hacia la creación de centros de deportación de inmigrantes fuera de la UE]]
+- [[https://elpais.com/espana/2026-02-11/ultima-hora-de-la-actualidad-politica-en-directo.html][Última hora de la actualidad política, en directo | Feijóo acusa a Sánchez de “negligencia” en la gestión ferroviaria: “Su Gobierno se sentará en el banquillo por esto”]]
+- [[https://elpais.com/espana/2026-02-11/sanchez-probablemente-una-leccion-de-adamuz-es-que-los-estandares-de-calidad-tienen-que-ser-reforzados.html][Sánchez: “Probablemente una lección de Adamuz es que los estándares de calidad tienen que ser reforzados”]]
+- [[https://elpais.com/espana/madrid/2026-02-11/ayuso-equipara-a-mexico-con-la-dictadura-cubana-en-mar-a-lago-la-residencia-de-trump.html][Ayuso equipara al Gobierno de México con la dictadura cubana en Mar-a-Lago, la residencia de Trump]]
+- [[https://elpais.com/cultura/2026-02-11/estefania-molina-politologa-este-sistema-esta-hecho-para-los-boomers-y-esta-agotado.html][Estefanía Molina, politóloga: “Este sistema está hecho para los ‘boomers’, y está agotado”]]
+- [[https://elpais.com/america/2026-02-11/varios-muertos-en-un-tiroteo-en-una-escuela-en-canada.html][Al menos nueve muertos en un tiroteo en una escuela en Canadá]]
 
 *** El Mundo
 
 - [[https://www.elmundo.es/espana/2026/02/10/698b6a80e85ece58168b4571.html][El amigo que pagó a Zapatero tenía en un contrato cobrar una comisión del 1% del rescate de Plus Ultra]]
 - [[https://www.elmundo.es/espana/2026/02/10/698b8a4ffc6c8357798b456e.html][Plus Ultra contrató a la empresa del amigo de Zapatero mientras decía a la Sepi que le faltaban 48 millones en caja]]
-- [[https://www.elmundo.es/espana/2026/02/10/698b9c08e9cf4afe3e8b45a1.html][La memoria del PSOE y las preguntas de González son una lata para Sánchez: "¿Estamos tontos?"]]
-- [[https://www.elmundo.es/espana/2026/02/10/698b8084fc6c834b6c8b4599.html][Las dudas sobre Yolanda Díaz ya dividen al nuevo frente de izquierdas antes de presentarse]]
+- [[https://www.elmundo.es/espana/2026/02/11/698c493be9cf4a3b758b459d.html][Feijóo cuestiona la comisión que tenía en un contrato el asesor de Plus Ultra: "Parece que Zapatero nos puede dar alguna pista de dónde han metido nuestro dinero"]]
+- [[https://www.elmundo.es/espana/2026/02/11/698c51d8e85ece497f8b4589.html]['Caso Hidrocarburos': el chófer de la investigada Carmen Pano confirma que llevó a la empresaria a Ferraz a entregar dinero "en tacos de billetes de 50"]]
 - [[https://www.elmundo.es/internacional/2026/02/10/698b4347fc6c8324238b45b0.html][Los misiles rusos congelan Ucrania: "Ni perdón ni rendición"]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/politica/20260210/11462928/vox-da-rotundo-investir-guardiola-primera-vuelta.html][Vox da un “no rotundo” a investir a Guardiola en la primera vuelta]]
-- [[https://www.lavanguardia.com/opinion/20260211/11463098/vox-juega-desgastar-pp.html][Vox juega a desgastar al PP]]
-- [[https://www.lavanguardia.com/politica/20260210/11463037/bruselas-advierte-espana-permiso-residencia-cheque-blanco.html][Bruselas advierte a España que un permiso de residencia no es “un cheque en blanco”]]
-- [[https://www.lavanguardia.com/politica/20260210/11462350/partidos-sumar-gobierno-ultiman-nueva-alianza-electoral.html][Los partidos de Sumar en el Gobierno ultiman una nueva alianza electoral]]
-- [[https://www.lavanguardia.com/politica/20260210/11463060/rufian-desiste-alianza-pese-negativa-erc-quiza-porcentaje-alto-apoyo-popular.html][Rufián no desiste de su alianza pese a la negativa de ERC: “Quizá tengo un porcentaje alto de apoyo popular”]]
+- [[https://www.lavanguardia.com/internacional/20260211/11463426/ultimatum-estados-unidos-ucrania-deje-luchar.html][Ultimátum de Estados Unidos a Ucrania para que deje de luchar]]
+- [[https://www.lavanguardia.com/vida/20260211/11462973/nuevo-mapa-renovables-distribuye-catalunya-parques-vencer-bloqueos.html][El nuevo mapa de renovables distribuye en Catalunya los parques para vencer los bloqueos]]
+- [[https://www.lavanguardia.com/vida/20260211/11463389/ultima-hora-huelga-profesores-barcelona-catalunya-directo.html][Los profesores colapsan las principales vías catalanas en una nueva huelga]]
+- [[https://www.lavanguardia.com/vida/20260211/11463075/profesores-preparan-hoy-gran-huelga-ratios-sueldos.html][Los profesores preparan hoy una gran huelga por las ratios y por sus sueldos]]
+- [[https://www.lavanguardia.com/politica/20260211/11463457/sanchez-intenta-contener-indignacion-social-nuestro-sistema-mejores-mundo.html][Sánchez intenta contener la indignación social: “Nuestro sistema ferroviario es uno de los mejores del mundo”]]
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/santander/huida-patinete-detenido-santander-circular-mas-25-km-h-escapar-policia/20260211114302188464.html][Huye en patinete de la policía a más de 25 km/h en Santander y acaba detenido]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/denuncian-desmantelamiento-instalaciones-alto-campoo-fracaso-privatizacion-hostelera/20260211112707188463.html][Denuncian el "desmantelamiento" de instalaciones en Alto Campoo y el "fracaso de la privatización hostelera impulsada por el PP"]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/suspendida-linea-entre-bilbao-santander-chocar-tren-arbol-que-ha-caido-via/20260211104441188462.html][Un tren choca contra un árbol y suspende la línea Bilbao-Santander]]
+- [[https://eldiariocantabria.publico.es/articulo/sociedad/cabarceno-sera-gratis-dias-ninos-que-vayan-disfrazados/20260211102855188460.html][Cabárceno será gratis estos días para los niños que vayan disfrazados]]
 - [[https://eldiariocantabria.publico.es/articulo/cantabria/escuchas-sirenas-algunos-cinco-municipios-jueves-asustes-gobierno-cantabria-activa-plan-emergencia-tres-presas/20260210195444188457.html][Si escuchas sirenas en algunos de esos cinco municipios este jueves, no te asustes: el Gobierno de Cantabria activa el Plan de Emergencia de tres presas]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/cantabria-libra-estara-miercoles-jueves-aviso-naranja-costeros-viento/20260210193908188456.html][Cantabria no se libra y estará el miércoles y jueves en aviso naranja por costeros y viento]]
-- [[https://eldiariocantabria.publico.es/articulo/saja-besaya/proyecto-experiencial-suances-verde-v-impulsa-recuperacion-ambiental-ladera-monte/20260210192813188455.html][El Proyecto Experiencial Suances Verde V impulsa la recuperación ambiental de la Ladera del Monte]]
-- [[https://eldiariocantabria.publico.es/articulo/espanha/policia-persona-sede-sidenor-basauri-recabar-informacion-venta-acero-israel/20260210191312188452.html][La Policía se persona en la sede de Sidenor de Basauri para recabar información sobre la venta de acero a Israel]]
-- [[https://eldiariocantabria.publico.es/articulo/deportes/jaime-mata-quiero-aportar-esfuerzo-sacrificio-compromiso-ilusion/20260210190138188450.html][Jaime Mata: “Quiero aportar esfuerzo, sacrificio, compromiso e ilusión”]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/02/11/canada-tumbler-ridge-school-shooting/][At least 9 killed, many injured in shootings at Canada school and home]]
 - [[https://www.washingtonpost.com/national-security/2026/02/10/trump-iran-aircraft-carrier-netanyahu-gaza/][Trump mulls second aircraft carrier off Iran, as Netanyahu flies to D.C. for talks]]
 - [[https://www.washingtonpost.com/politics/2026/02/10/trump-us-canada-michigan-ontario-bridge/][Trump threatens to block opening of bridge between U.S. and Canada]]
 - [[https://www.washingtonpost.com/world/2026/02/09/epstein-uk-andrew-prince-william-catherine/][Prince and Princess of Wales ‘deeply concerned’ as Epstein files roil U.K.]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/middle-east/u-s-weighs-seizing-tankers-carrying-iranian-oil-to-pressure-tehran-f79555bd][U.S. Weighs Seizing Tankers Carrying Iranian Oil to Pressure Tehran]]
 - [[https://www.wsj.com/world/americas/nine-killed-at-least-25-injured-in-canadian-shooting-a67a8515][Nine Killed and at Least 25 Injured in Canada Shooting]]
 - [[https://www.wsj.com/world/asia/getting-a-job-is-harder-than-toppling-a-government-for-bangladeshs-gen-z-e1d23d2e][Getting a Job Is Harder Than Toppling a Government for Bangladesh’s Gen Z]]
-- [[https://www.wsj.com/world/middle-east/u-s-weighs-seizing-tankers-carrying-iranian-oil-to-pressure-tehran-f79555bd][U.S. Weighs Seizing Tankers Carrying Iranian Oil to Pressure Tehran]]
 - [[https://www.wsj.com/world/africa/u-s-to-send-200-troops-to-help-nigeria-fight-islamist-insurgents-7f59ee03][U.S. to Send 200 Troops to Help Nigeria Fight Islamist Insurgents]]
 - [[https://www.wsj.com/world/life-in-cuba-is-grinding-to-a-halt-under-u-s-oil-blockade-c8da5b30][Life in Cuba Is Grinding to a Halt Under U.S. Oil Blockade]]
 
@@ -91,29 +92,29 @@
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/m-le-mag/article/2026/02/11/affaire-epstein-la-disgrace-de-peter-mandelson-le-mauvais-genie-des-travaillistes-britanniques_6666242_4500055.html][Affaire Epstein : la disgrâce de Peter Mandelson, le mauvais génie des travaillistes britanniques]]
-- [[https://www.lemonde.fr/international/article/2026/02/11/au-canada-dix-morts-dont-le-tireur-presume-apres-une-attaque-dans-une-ecole-et-ses-environs_6666231_3210.html][Au Canada, dix morts, dont l’assaillante présumée, après des tirs dans une école et ses environs]]
-- [[https://www.lemonde.fr/planete/article/2026/02/11/loi-duplomb-sept-mois-apres-la-petition-record-sur-l-agriculture-enfin-debattue-a-l-assemblee-nationale_6666237_3244.html][Loi Duplomb : sept mois après, la pétition record sur l’agriculture enfin débattue à l’Assemblée nationale]]
-- [[https://www.lemonde.fr/societe/article/2026/02/10/qui-est-jacques-leveugle-criminel-sexuel-routard-et-homme-de-lettres-soupconne-d-avoir-fait-89-victimes-mineures-sur-cinq-continents_6666217_3224.html][Qui est Jacques Leveugle, criminel sexuel, routard et homme de lettres soupçonné d’avoir fait 89 victimes mineures sur cinq continents ?]]
-- [[https://www.lemonde.fr/sport/article/2026/02/11/roberto-de-zerbi-n-est-plus-l-entraineur-de-l-om_6666230_3242.html][Roberto De Zerbi n’est plus l’entraîneur de l’OM après une série de mauvais résultats]]
+- [[https://www.lemonde.fr/politique/article/2026/02/11/autour-de-la-demographie-un-debat-politique-qui-se-limite-a-la-natalite_6666233_823448.html][Face au défi démographique, le débat politique fait l’impasse sur les propositions qui fâchent]]
+- [[https://www.lemonde.fr/politique/article/2026/02/11/cour-des-comptes-la-nomination-d-amelie-de-montchalin-cree-des-remous_6666244_823448.html][La nomination d’Amélie de Montchalin à la Cour des comptes crée des remous]]
+- [[https://www.lemonde.fr/societe/article/2026/02/11/aux-assises-de-lyon-le-proces-d-un-pere-qui-a-tue-la-mere-de-ses-quatre-enfants-sous-leurs-yeux-quand-on-les-aime-on-ne-laisse-pas-un-trauma-comme-ca_6666248_3224.html][« Quand on les aime on ne laisse pas un trauma comme ça » : aux assises de Lyon, le procès d’un père qui a tué la mère de ses enfants sous leurs yeux]]
+- [[https://www.lemonde.fr/international/live/2026/02/11/en-direct-guerre-en-ukraine-l-administration-trump-pousse-kiev-a-organiser-une-election-presidentielle-dans-les-prochaines-semaines-selon-le-financial-times_6665836_3210.html][EN DIRECT, guerre en Ukraine : l’administration Trump pousse Kiev à organiser une élection présidentielle dans les prochaines semaines, selon le « Financial Times »]]
+- [[https://www.lemonde.fr/economie/article/2026/02/11/gare-du-nord-pourquoi-la-sncf-est-condamnee-a-verser-274-millions-d-euros_6666280_3234.html][Pourquoi la SNCF est condamnée à verser 274 millions d’euros dans le dossier de la rénovation de la gare du Nord]]
 
 *** Le Figaro
 
+- [[https://www.lefigaro.fr/international/en-direct-affaire-epstein-l-onde-de-choc-continue-de-se-propager-dans-le-monde-entier-la-france-pas-epargnee-20260211][EN DIRECT - Affaire Epstein : «Toute la lumière doit être faite» affirme Maud Bregeon, qui encourage les victimes à «se tourner vers la justice»]]
+- [[https://www.lefigaro.fr/international/affaire-epstein-jean-noel-barrot-ne-peut-pas-exclure-la-publication-de-nouveaux-noms-de-diplomates-20260211][Affaire Epstein : «Effaré» et «indigné», Jean-Noël Barrot «ne peut pas exclure» la publication de nouveaux noms de diplomates]]
 - [[https://www.lefigaro.fr/international/affaire-jeffrey-epstein-les-troublantes-connexions-du-diplomate-francais-fabrice-aidan-avec-le-pedocriminel-20260210][Affaire Jeffrey Epstein : les troublantes connexions du diplomate français Fabrice Aidan avec le pédocriminel]]
-- [[https://www.lefigaro.fr/actualite-france/affaire-epstein-un-diplomate-francais-cite-le-ministre-des-affaires-etrangeres-saisit-la-justice-20260210][Affaire Epstein : le diplomate français Fabrice Aidan cité, le ministre des Affaires étrangères saisit la justice]]
-- [[https://www.lefigaro.fr/culture/qui-pour-succeder-a-jack-lang-a-la-tete-de-l-institut-du-monde-arabe-20260210][Qui pour succéder à Jack Lang à la tête de l’Institut du monde arabe ?]]
-- [[https://www.lefigaro.fr/actualite-france/un-document-de-52-pages-reliant-jack-lang-a-jeffrey-epstein-a-ete-depublie-par-la-justice-americaine-20260210][Un document de 52 pages reliant Jack Lang à Jeffrey Epstein a été dépublié par la justice américaine]]
-- [[https://www.lefigaro.fr/international/affaire-epstein-comment-le-pedocriminel-pourrait-avoir-secretement-manipule-les-masses-20260210][Affaire Epstein : comment le pédocriminel pourrait avoir secrètement «manipulé» les masses]]
+- [[https://www.lefigaro.fr/actualite-france/recruteur-de-filles-ne-en-algerie-plainte-pour-viol-qui-est-daniel-siad-rabatteur-presume-de-jeffrey-epstein-20260210][«Recruteur de filles», né en Algérie, plainte pour viol... Qui est Daniel Siad, rabatteur présumé de Jeffrey Epstein ?]]
+- [[https://www.lefigaro.fr/conjoncture/marine-le-pen-appelle-emmanuel-macron-a-abandonner-la-nomination-d-amelie-de-montchalin-a-la-cour-des-comptes-20260211][Marine Le Pen appelle Emmanuel Macron à «abandonner» la nomination d’Amélie de Montchalin à la Cour des comptes]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/cx2407jrn83o?at_medium=RSS&at_campaign=rss][Ex-police chief said Trump told him in 2006 'everyone' knew of Epstein's behaviour]]
-- [[https://www.bbc.com/news/articles/cy4wdgxr081o?at_medium=RSS&at_campaign=rss][FBI releases images of masked person in hunt for Savannah Guthrie's mother]]
-- [[https://www.bbc.com/sport/articles/ckglnm521kko?at_medium=RSS&at_campaign=rss][Laegreid wins bronze then confesses to affair on TV]]
-- [[https://www.bbc.com/news/articles/c2d1pz3pxewo?at_medium=RSS&at_campaign=rss][Pilot praised after crash-landing faulty Somali passenger plane on seashore]]
-- [[https://www.bbc.com/news/articles/ce8n1zdnpd3o?at_medium=RSS&at_campaign=rss][Macron urges Europe to start acting like world power]]
+- [[https://www.bbc.com/news/articles/cr5l4yy3ezmo?at_medium=RSS&at_campaign=rss][Police release man detained in connection to Nancy Guthrie disappearance]]
+- [[https://www.bbc.com/news/articles/cx2gmde0vjlo?at_medium=RSS&at_campaign=rss][US lawmakers tell BBC Andrew should testify over Epstein files]]
+- [[https://www.bbc.com/news/articles/c0k1j2j4607o?at_medium=RSS&at_campaign=rss][Netanyahu to meet Trump as Iran nuclear talks reach critical stage]]
+- [[https://www.bbc.com/news/videos/c5yr82796j4o?at_medium=RSS&at_campaign=rss][Watch: BBC in Tehran for first time since protest crackdown]]
+- [[https://www.bbc.com/news/articles/c0ljwyy7rrko?at_medium=RSS&at_campaign=rss][Britney Spears sells rights to entire music catalogue]]
 
 *** The Guardian
 
@@ -149,11 +150,11 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/eu-needs-capital-market-reform-simpler-regulations-von-der-leyen-says/a-75906525?maca=en-rss-en-world-4025-rdf][EU needs capital market reform, simpler regulations, von der Leyen says]]
+- [[https://www.dw.com/en/australia-two-charged-with-spying-for-china/a-75904420?maca=en-rss-en-world-4025-rdf][Australia: Two charged with spying for China]]
+- [[https://www.dw.com/en/german-government-pushes-syrians-to-return-to-their-homeland/a-75901370?maca=en-rss-en-world-4025-rdf][German government pushes Syrians to return to their homeland]]
+- [[https://www.dw.com/en/canada-10-dead-in-tumbler-ridge-school-shooting/a-75903681?maca=en-rss-en-world-4025-rdf][Canada: 10 dead in Tumbler Ridge school shooting]]
 - [[https://www.dw.com/en/airlines-start-halting-flights-to-cuba-amid-us-fuel-blockade/a-75903665?maca=en-rss-en-world-4025-rdf][Airlines start halting flights to Cuba amid US fuel blockade]]
-- [[https://www.dw.com/en/india-tightens-ai-rules-for-social-media-platforms/a-75903631?maca=en-rss-en-world-4025-rdf][India tightens AI rules for social media platforms]]
-- [[https://www.dw.com/en/nigerian-lawmakers-approve-real-time-online-election-results/a-75901046?maca=en-rss-en-world-4025-rdf][Nigerian lawmakers approve real-time online election results]]
-- [[https://www.dw.com/en/pakistan-mosque-attack-highlights-worsening-militant-threat/a-75900304?maca=en-rss-en-world-4025-rdf][Pakistan mosque attack highlights worsening militant threat]]
-- [[https://www.dw.com/en/ukraine-s-olympic-skater-has-dad-and-country-front-of-mind/a-75898345?maca=en-rss-en-world-4025-rdf][Ukraine's Olympic skater has dad and country front of mind]]
 
 
 * 🧠 Think Tanks
