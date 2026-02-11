@@ -30,17 +30,17 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«La geopolítica es el arte de mirar el mapa para entender el poder».</div>
-#+HTML: <div class='timestamp'>Sincronizado: 11-02-2026 18:00:02</div>
-#+HTML: <div class='visit-counter'>📊 <strong>VISITAS TOTALES:</strong> 94</div>
+#+HTML: <div class='quote-box'>«La geografía no cambia, pero el código que la gobierna se escribe cada día».</div>
+#+HTML: <div class='timestamp'>Sincronizado: 12-02-2026 00:00:02</div>
+#+HTML: <div class='visit-counter'>📊 <strong>VISITAS TOTALES:</strong> 95</div>
 * 🗂 Archivo de Noticias
+#+HTML: <div class='briefing-item'><a href='260212_day_briefing.html'>⚡ Edición: 260212</a></div>
 #+HTML: <div class='briefing-item'><a href='260211_day_briefing.html'>⚡ Edición: 260211</a></div>
 #+HTML: <div class='briefing-item'><a href='260210_day_briefing.html'>⚡ Edición: 260210</a></div>
 #+HTML: <div class='briefing-item'><a href='260209_day_briefing.html'>⚡ Edición: 260209</a></div>
 #+HTML: <div class='briefing-item'><a href='260208_day_briefing.html'>⚡ Edición: 260208</a></div>
 #+HTML: <div class='briefing-item'><a href='260207_day_briefing.html'>⚡ Edición: 260207</a></div>
 #+HTML: <div class='briefing-item'><a href='260206_day_briefing.html'>⚡ Edición: 260206</a></div>
-#+HTML: <div class='briefing-item'><a href='260205_day_briefing.html'>⚡ Edición: 260205</a></div>
 
 #+HTML: <div class="cta-blog"><h3>🗺📜 El Mapa y El Código</h3><p>Por el mismo autor de "El Mapa y El Código", explorando la intersección entre la tecnología y el poder global.</p><a href="https://elmapayelcodigo.netlify.app/" style="color:var(--primary); font-weight:bold; text-decoration:none;">Visitar Blog →</a></div>
 #+HTML: <div class="footer-hub">
