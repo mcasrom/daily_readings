@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 39.2°C | ⚖ Load: 0.01 | 🌐 Ping: 9.21ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 39.7°C | ⚖ Load: 0.16 | 🌐 Ping: 9.00ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -50,18 +50,18 @@
 *** El Mundo
 
 - [[https://www.elmundo.es/espana/2026/02/10/698b6a80e85ece58168b4571.html][El amigo que pagó a Zapatero tenía en un contrato cobrar una comisión del 1% del rescate de Plus Ultra]]
-- [[https://www.elmundo.es/espana/2026/02/10/698b8081e9cf4a031d8b457a.html][Bruselas rectifica y avisa a Sánchez sobre el proceso de regularización: "Debe garantizar que sus decisiones no tienen consecuencias negativas en la UE"]]
-- [[https://www.elmundo.es/espana/2026/02/10/698b0a2b21efa0112c8b4575.html][Felipe González votará en blanco en las elecciones si Sánchez repite y el PSOE le replica ironizando con que "Dios ataque al puto amo"]]
-- [[https://www.elmundo.es/espana/2026/02/10/698b1ea0fdddffa8278b4581.html][María Guardiola irá a la investidura pese al "no rotundo" de los de Abascal: "No puede ser que el PP, con el 43% de apoyos, tenga que travestirse de Vox"]]
-- [[https://www.elmundo.es/elecciones/elecciones-aragon/2026/02/10/698a267b21efa098478b4578.html][Jóvenes, toros y caza, el tridente mágico de Vox para dominar la España olvidada: "Como cuando los hijos de los ricos votaban al PCE"]]
+- [[https://www.elmundo.es/espana/2026/02/10/698b8a4ffc6c8357798b456e.html][Plus Ultra contrató a la empresa del amigo de Zapatero mientras decía a la Sepi que le faltaban 48 millones en caja]]
+- [[https://www.elmundo.es/espana/2026/02/10/698b9c08e9cf4afe3e8b45a1.html][La memoria del PSOE y las preguntas de González son una lata para Sánchez: "¿Estamos tontos?"]]
+- [[https://www.elmundo.es/espana/2026/02/10/698b8084fc6c834b6c8b4599.html][Las dudas sobre Yolanda Díaz ya dividen al nuevo frente de izquierdas antes de presentarse]]
+- [[https://www.elmundo.es/internacional/2026/02/10/698b4347fc6c8324238b45b0.html][Los misiles rusos congelan Ucrania: "Ni perdón ni rendición"]]
 
 *** La Vanguardia
 
 - [[https://www.lavanguardia.com/politica/20260210/11462928/vox-da-rotundo-investir-guardiola-primera-vuelta.html][Vox da un “no rotundo” a investir a Guardiola en la primera vuelta]]
+- [[https://www.lavanguardia.com/opinion/20260211/11463098/vox-juega-desgastar-pp.html][Vox juega a desgastar al PP]]
+- [[https://www.lavanguardia.com/politica/20260210/11463037/bruselas-advierte-espana-permiso-residencia-cheque-blanco.html][Bruselas advierte a España que un permiso de residencia no es “un cheque en blanco”]]
 - [[https://www.lavanguardia.com/politica/20260210/11462350/partidos-sumar-gobierno-ultiman-nueva-alianza-electoral.html][Los partidos de Sumar en el Gobierno ultiman una nueva alianza electoral]]
 - [[https://www.lavanguardia.com/politica/20260210/11463060/rufian-desiste-alianza-pese-negativa-erc-quiza-porcentaje-alto-apoyo-popular.html][Rufián no desiste de su alianza pese a la negativa de ERC: “Quizá tengo un porcentaje alto de apoyo popular”]]
-- [[https://www.lavanguardia.com/politica/20260210/11463037/bruselas-advierte-espana-permiso-residencia-cheque-blanco.html][Bruselas advierte a España que un permiso de residencia no es “un cheque en blanco”]]
-- [[https://www.lavanguardia.com/internacional/20260210/11462775/parlamento-europeo-da-luz-verde-acelerar-deportacion-migrantes-paises-seguros.html][El Parlamento Europeo da luz verde a acelerar la deportación de migrantes a 'países seguros']]
 
 *** El Diario de Cantabria
 
@@ -78,25 +78,24 @@
 - [[https://www.washingtonpost.com/national-security/2026/02/10/trump-iran-aircraft-carrier-netanyahu-gaza/][Trump mulls second aircraft carrier off Iran, as Netanyahu flies to D.C. for talks]]
 - [[https://www.washingtonpost.com/politics/2026/02/10/trump-us-canada-michigan-ontario-bridge/][Trump threatens to block opening of bridge between U.S. and Canada]]
 - [[https://www.washingtonpost.com/world/2026/02/09/epstein-uk-andrew-prince-william-catherine/][Prince and Princess of Wales ‘deeply concerned’ as Epstein files roil U.K.]]
-- [[https://www.washingtonpost.com/world/2026/02/08/hong-kong-jimmy-lai-prison-sentence-20-years/][Hong Kong democracy champion Jimmy Lai sentenced to 20 years in prison]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/americas/nine-killed-at-least-25-injured-in-canadian-shooting-a67a8515][Nine Killed and at Least 25 Injured in Canada Shooting]]
+- [[https://www.wsj.com/world/asia/getting-a-job-is-harder-than-toppling-a-government-for-bangladeshs-gen-z-e1d23d2e][Getting a Job Is Harder Than Toppling a Government for Bangladesh’s Gen Z]]
 - [[https://www.wsj.com/world/middle-east/u-s-weighs-seizing-tankers-carrying-iranian-oil-to-pressure-tehran-f79555bd][U.S. Weighs Seizing Tankers Carrying Iranian Oil to Pressure Tehran]]
 - [[https://www.wsj.com/world/africa/u-s-to-send-200-troops-to-help-nigeria-fight-islamist-insurgents-7f59ee03][U.S. to Send 200 Troops to Help Nigeria Fight Islamist Insurgents]]
 - [[https://www.wsj.com/world/life-in-cuba-is-grinding-to-a-halt-under-u-s-oil-blockade-c8da5b30][Life in Cuba Is Grinding to a Halt Under U.S. Oil Blockade]]
-- [[https://www.wsj.com/world/americas/what-is-the-gordie-howe-bridge-and-why-is-trump-threatening-to-keep-it-shut-3c4bdf33][What Is the Gordie Howe Bridge? And Why Is Trump Threatening to Keep It Shut?]]
-- [[https://www.wsj.com/world/middle-east/netanyahu-flies-to-d-c-to-keep-israel-from-being-outflanked-on-iran-e7be7bf0][Netanyahu Flies to D.C. to Keep Israel From Being Outflanked on Iran]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/politique/article/2026/02/10/hayot-leader-martiniquais-de-la-grande-distribution-devenu-le-nom-de-la-vie-chere-en-outre-mer_6666207_823448.html][Hayot, leader martiniquais de la grande distribution devenu le nom de la vie chère en outre-mer]]
-- [[https://www.lemonde.fr/sport/article/2026/02/10/jo-2026-eric-perrot-en-argent-au-biathlon-un-podium-100-suedois-en-ski-de-fond-johannes-klaebo-proche-d-un-record-historique-le-resume-du-mardi-10-fevrier_6666223_3242.html][JO 2026 : Eric Perrot en argent au biathlon, un podium 100 % suédois en ski de fond, Johannes Klaebo proche d’un record historique… le résumé du mardi 10 février]]
+- [[https://www.lemonde.fr/m-le-mag/article/2026/02/11/affaire-epstein-la-disgrace-de-peter-mandelson-le-mauvais-genie-des-travaillistes-britanniques_6666242_4500055.html][Affaire Epstein : la disgrâce de Peter Mandelson, le mauvais génie des travaillistes britanniques]]
+- [[https://www.lemonde.fr/international/article/2026/02/11/au-canada-dix-morts-dont-le-tireur-presume-apres-une-attaque-dans-une-ecole-et-ses-environs_6666231_3210.html][Au Canada, dix morts, dont l’assaillante présumée, après des tirs dans une école et ses environs]]
+- [[https://www.lemonde.fr/planete/article/2026/02/11/loi-duplomb-sept-mois-apres-la-petition-record-sur-l-agriculture-enfin-debattue-a-l-assemblee-nationale_6666237_3244.html][Loi Duplomb : sept mois après, la pétition record sur l’agriculture enfin débattue à l’Assemblée nationale]]
 - [[https://www.lemonde.fr/societe/article/2026/02/10/qui-est-jacques-leveugle-criminel-sexuel-routard-et-homme-de-lettres-soupconne-d-avoir-fait-89-victimes-mineures-sur-cinq-continents_6666217_3224.html][Qui est Jacques Leveugle, criminel sexuel, routard et homme de lettres soupçonné d’avoir fait 89 victimes mineures sur cinq continents ?]]
-- [[https://www.lemonde.fr/international/article/2026/02/10/affaire-epstein-un-diplomate-francais-apparait-dans-les-documents-le-ministre-des-affaires-etrangeres-saisit-la-justice_6666221_3210.html][Affaire Epstein : un diplomate français apparaît dans les documents, le ministre des affaires étrangères saisit la justice]]
-- [[https://www.lemonde.fr/international/article/2026/02/10/donald-trump-va-abroger-jeudi-un-texte-fondateur-pour-la-lutte-contre-le-changement-climatique-aux-etats-unis_6666219_3210.html][Donald Trump va abroger jeudi un texte fondateur pour la lutte contre le changement climatique aux Etats-Unis]]
+- [[https://www.lemonde.fr/sport/article/2026/02/11/roberto-de-zerbi-n-est-plus-l-entraineur-de-l-om_6666230_3242.html][Roberto De Zerbi n’est plus l’entraîneur de l’OM après une série de mauvais résultats]]
 
 *** Le Figaro
 
@@ -150,11 +149,11 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/airlines-start-halting-flights-to-cuba-amid-us-fuel-blockade/a-75903665?maca=en-rss-en-world-4025-rdf][Airlines start halting flights to Cuba amid US fuel blockade]]
+- [[https://www.dw.com/en/india-tightens-ai-rules-for-social-media-platforms/a-75903631?maca=en-rss-en-world-4025-rdf][India tightens AI rules for social media platforms]]
 - [[https://www.dw.com/en/nigerian-lawmakers-approve-real-time-online-election-results/a-75901046?maca=en-rss-en-world-4025-rdf][Nigerian lawmakers approve real-time online election results]]
 - [[https://www.dw.com/en/pakistan-mosque-attack-highlights-worsening-militant-threat/a-75900304?maca=en-rss-en-world-4025-rdf][Pakistan mosque attack highlights worsening militant threat]]
 - [[https://www.dw.com/en/ukraine-s-olympic-skater-has-dad-and-country-front-of-mind/a-75898345?maca=en-rss-en-world-4025-rdf][Ukraine's Olympic skater has dad and country front of mind]]
-- [[https://www.dw.com/en/islamists-gain-ground-as-bangladesh-gears-up-for-elections/a-75895839?maca=en-rss-en-world-4025-rdf][Islamists gain ground as Bangladesh gears up for elections]]
-- [[https://www.dw.com/en/uncertainty-on-the-streets-over-nigeria-s-sachet-alcohol-ban/a-75893513?maca=en-rss-en-world-4025-rdf][Uncertainty on the streets over Nigeria's sachet alcohol ban]]
 
 
 * 🧠 Think Tanks
