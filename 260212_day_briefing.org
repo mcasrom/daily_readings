@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 40.8°C | ⚖ Load: 0.00 | 🌐 Ping: 9.54ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 41.3°C | ⚖ Load: 0.00 | 🌐 Ping: 10.6ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,35 +41,35 @@
 
 *** El País
 
+- [[https://elpais.com/espana/2026-02-12/sanchez-choca-con-meloni-por-dejarle-fuera-de-una-reunion-previa-a-la-cumbre-de-la-ue.html][Sánchez choca con Meloni por convocar la primera ministra italiana una reunión previa a la cumbre de la UE]]
+- [[https://elpais.com/espana/2026-02-12/el-congreso-aprueba-la-ley-que-castiga-la-multirreincidencia-de-delitos-leves.html][El PSOE hace un gesto a Junts y aprueba la norma que endurece el castigo a la reincidencia de delitos leves]]
 - [[https://elpais.com/espana/2026-02-12/gabriel-rufian-soy-independentista-pero-tengo-miedo-como-democrata.html][Gabriel Rufián: “Soy independentista, pero tengo miedo como demócrata”]]
-- [[https://elpais.com/videos/2026-02-12/operacion-rufian-pros-y-contras-de-un-frente-de-izquierdas-con-nombre-y-apellido.html][Operación Rufián: pros y contras de un frente de izquierdas con nombre y apellido]]
-- [[https://elpais.com/espana/2026-02-12/quien-tiene-la-culpa-de-que-crezca-tanto-vox.html][¿Quién tiene la culpa de que crezca tanto Vox? Sánchez la rechaza y Feijóo la esquiva]]
-- [[https://elpais.com/espana/2026-02-12/el-supremo-impide-a-cerdan-acudir-a-la-comparecencia-de-abalos-y-koldo-por-el-juicio-de-las-mascarillas.html][Koldo García reclama suspender el juicio para que el tribunal de la UE aclare si debe celebrarse en el Supremo]]
-- [[https://elpais.com/espana/catalunya/2026-02-12/el-temporal-de-viento-que-azota-cataluna-obliga-a-suspender-trenes-lanzadora-de-rodalies-entre-terrassa-y-manresa-y-blanes-y-macanet.html][El temporal de viento que azota Cataluña obliga a suspender trenes de Rodalies, cancela vuelos y cierra escuelas y universidades]]
+- [[https://elpais.com/espana/madrid/2026-02-12/ayuso-comparece-en-la-asamblea-en-plena-guerra-con-pedro-sanchez-y-tras-enviar-un-video-a-mar-a-lago.html][Ayuso hace cantar a la bancada del PP para defenderse de las críticas por el alcalde de Móstoles: “Son unos tristes”]]
+- [[https://elpais.com/mexico/2026-02-12/sheinbaum-responde-a-ayuso-por-su-comparacion-del-gobierno-de-mexico-con-la-dictadura-cubana-es-absolutamente-falso.html][Sheinbaum responde a Ayuso, que equiparó el Gobierno de México con la dictadura cubana: “Es totalmente falso lo que dice”]]
 
 *** El Mundo
 
+- [[https://www.elmundo.es/economia/2026/02/12/698ddb83e9cf4a72698b4593.html][España critica la cumbre clave de líderes europeos a la que no fue invitada antes de la reunión de los 27 porque socava los valores de la UE]]
+- [[https://www.elmundo.es/economia/2026/02/12/698dbad2e4d4d8366a8b457d.html][La reunión clave para la UE de la que se ha caído Sánchez: 19 países, todos los grandes menos España y "relanzamiento de las relaciones" Alemania-Italia]]
 - [[https://www.elmundo.es/espana/2026/02/12/698da08cfdddff29138b458c.html][Sánchez desaira a sus socios y aprueba con todas las derechas la ley de Junts que endurece el castigo a la multirreincidencia]]
-- [[https://www.elmundo.es/economia/empresas/2026/02/12/698cd98be85ece25678b4598.html][Puente retrasa la reapertura de la línea afectada por el accidente y limita más la velocidad: el viaje de Madrid a Sevilla supera las cinco horas]]
-- [[https://www.elmundo.es/espana/extremadura/2026/02/11/698ccd22fdddff3e3e8b4574.html][Guardiola reafirma que Vox es su "prioridad" pero rechaza asumir sus postulados radicales]]
-- [[https://www.elmundo.es/economia/2026/02/11/698cdad5fc6c8357798b45a1.html][Cinco rostros para entender el problema del campo español: "Si el sector primario cae, caemos todos"]]
-- [[https://www.elmundo.es/espana/2026/02/12/698ccdaafdddff3e3e8b457b.html][Ábalos y Koldo salen de la cárcel 77 días después para acudir a una vista inédita en el Supremo]]
+- [[https://www.elmundo.es/papel/cultura/2026/02/12/698cc064e85ece58688b4595.html][El escritor estrella que cabrea a los periodistas y cuestiona cómo nos cuentan la historia: "Los europeos decidieron que era lícito explorar el mundo y saquearlo"]]
+- [[https://www.elmundo.es/espana/2026/02/12/698dcf30e4d4d8cb4e8b4595.html][Page pide que Sánchez adelante las generales para no arrastrar al PSOE: "No puede ser que termine hundiéndose a toda la infantería para que exista el cuartel general"]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/natural/20260212/11464270/borrasca-nils-temporal-catalunya-viento-lluvia-ultima-hora-hoy-en-directo.html][Máxima alerta en Catalunya por el viento: siete heridos, uno de ellos grave, y múltiples incidencias]]
-- [[https://www.lavanguardia.com/economia/20260212/11464367/seat-ebro-fabrica-turnos-viento-temporal.html][Seat y Ebro suspenden turnos en sus fábricas por el temporal de viento en Catalunya]]
-- [[https://www.lavanguardia.com/natural/20260212/11464354/bombers-generalitat-han-atendido-mas-600-incidencias-medianoche.html][Bombers de la Generalitat han atendido más de 1.200 incidencias desde la medianoche]]
-- [[https://www.lavanguardia.com/natural/20260212/11464347/temporal-viento-fallecido-herido-caida-arboles-suroeste-francia.html][Temporal de viento: un fallecido y un herido por la caída de árboles en el suroeste de Francia]]
-- [[https://www.lavanguardia.com/local/barcelona/20260212/11464328/mas-30-vuelos-cancelados-aeropuerto-barcelona-fuerte-viento.html][Una ochentena de vuelos cancelados y numerosos retrasos en el aeropuerto de Barcelona por el fuerte viento]]
+- [[https://www.lavanguardia.com/natural/20260212/11464277/viento-cataluna-barcelona-alerta-heridos-ultima-hora-en-directo.html][El Govern levanta la restricción de movilidad en Catalunya por el viento, que deja ya 86 heridos]]
+- [[https://www.lavanguardia.com/local/barcelona/20260212/11464803/trafico-maritimo-restringido-puerto-barcelona.html][Tráfico marítimo restringido en el puerto de Barcelona]]
+- [[https://www.lavanguardia.com/natural/20260212/11464354/bombers-generalitat-han-atendido-mas-600-incidencias-medianoche.html][Bombers de la Generalitat acude a casi 2.000 avisos de emergencias, 1.730 de ellos en la región metropolitana]]
+- [[https://www.lavanguardia.com/vida/20260212/11464302/imagenes-dejan-fuertes-vientos.html][Las imágenes que dejan los fuertes vientos]]
+- [[https://www.lavanguardia.com/local/barcelona/20260212/11464328/mas-30-vuelos-cancelados-aeropuerto-barcelona-fuerte-viento.html][Un centenar de vuelos cancelados y numerosos retrasos en el aeropuerto de Barcelona por el fuerte viento]]
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/municipios-cantabros-rinden-magia-carnaval-fin-semana/20260212115729188515.html][Los municipios cántabros se rinden a la magia del Carnaval este fin de semana]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/herido-conductor-patinete-electrico-chocar-coche-que-dio-fuga-santander/20260212115650188517.html][Herido el conductor de un patinete eléctrico tras chocar contra un coche que se dio a la fuga en Santander]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/madre-detenida-santander-pegar-repetidamente-hijo-10-anos-causarle-hematomas/20260212113615188514.html][Una madre detenida en Santander por pegar repetidamente a su hijo de 10 años y causarle hematomas]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/incendia-contenedores-coches-papelera-dentro-gasolinera-centro-santander/20260212113155188512.html][Incendia contenedores, coches y una papelera dentro de una gasolinera en el centro de Santander]]
-- [[https://eldiariocantabria.publico.es/articulo/sanidad/indignacion-falta-compromiso-pascual-enfermeras-cumplir-pacto-firmado/20260212110533188510.html][Indignación por la "falta de compromiso" de Pascual con las enfermeras al "no cumplir" el pacto firmado]]
+- [[https://eldiariocantabria.publico.es/articulo/memoria/justicia-declara-que-lucio-angel-cabrejas-santos-miembro-ugt-fue-fusilado-ideologia-1938-santander/20260212174658188537.html][La Justicia declara que Lucio Ángel Cabrejas Santos, miembro de UGT, fue fusilado por su ideología en 1938 en Santander]]
+- [[https://eldiariocantabria.publico.es/articulo/cultura/cruzar-noche-noelia-palacio-presenta-viernes-libreria-gil/20260212173610188536.html][‘Cruzar la noche’, de Noelia Palacio, se presenta este viernes en Librería Gil]]
+- [[https://eldiariocantabria.publico.es/articulo/sanidad/casi-15000-personas-estan-lista-espera-quirurgica-cantabria-mas-38000-esperan-primera-consulta-enero/20260212172508188534.html][Casi 15.000 personas están en lista de espera quirúrgica en Cantabria, y más de 38.000 esperan su primera consulta en enero]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/acusado-violar-menor-asegura-que-nunca-abuso-ella-fiscal-mantiene-diez-anos/20260212171157188533.html][El acusado de violar a una menor asegura que “nunca” abusó de ella, pero el fiscal mantiene los diez años de cárcel]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/borrasca-oriana-obligara-activar-541-quitanieves-mas-110000-toneladas-fundentes-cantabria-viernes/20260212165354188531.html][La borrasca ‘Oriana’ obligará a activar 541 quitanieves y más de 110.000 toneladas de fundentes en Cantabria y otras comunidades desde este viernes]]
 
 ** 🇺🇸 Estados Unidos
 
@@ -79,43 +79,42 @@
 - [[https://www.washingtonpost.com/world/2026/02/11/canada-tumbler-ridge-school-shooting/][At least 9 killed, many injured in shootings at Canada school and home]]
 - [[https://www.washingtonpost.com/world/2026/02/11/vance-armenia-azerbaijan-trump-diplomacy/][Vance visits Armenia, Azerbaijan as Trump eyes deals in Russia’s sphere]]
 - [[https://www.washingtonpost.com/national-security/2026/02/10/trump-iran-aircraft-carrier-netanyahu-gaza/][Trump mulls second aircraft carrier off Iran, as Netanyahu flies to D.C. for talks]]
-- [[https://www.washingtonpost.com/weather/2026/02/10/grazalema-spain-record-rain/][Parts of Spain just saw a year’s worth of rain in 20 days]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/middle-east/israeli-soldiers-accused-of-using-polymarket-to-bet-on-strikes-72d53012][Israeli Soldiers Accused of Using Polymarket to Bet on Strikes]]
+- [[https://www.wsj.com/world/middle-east/u-s-smuggled-thousands-of-starlink-terminals-into-iran-after-protest-crackdown-69a8c74f][U.S. Smuggled Thousands of Starlink Terminals Into Iran After Protest Crackdown]]
+- [[https://www.wsj.com/world/middle-east/u-s-vacates-a-key-military-base-in-syria-1d0b5bf2][U.S. Vacates a Key Military Base in Syria]]
 - [[https://www.wsj.com/world/americas/u-s-energy-secretary-talks-oil-revivaland-democracyin-venezuela-visit-f9ee3236][U.S. Energy Secretary Talks Oil Revival—and Democracy—in Venezuela Visit]]
 - [[https://www.wsj.com/world/americas/sargeant-trump-maduro-venezuela-oil-49aa3288][Savior or ‘Supervillain’? A Trump Ally’s Gamble to Unlock Venezuela’s Oil]]
-- [[https://www.wsj.com/world/americas/accused-canada-shooter-an-18-year-old-known-to-police-authorities-say-53fbcaf6][Accused Canada Shooter an 18-Year-Old Known to Police, Authorities Say]]
-- [[https://www.wsj.com/world/middle-east/violence-surges-in-gaza-despite-the-cease-fire-b01a7282][Violence Surges in Gaza Despite the Cease-Fire]]
-- [[https://www.wsj.com/world/americas/nine-killed-at-least-25-injured-in-canadian-shooting-a67a8515][Canada Mourns Eight Dead in Mass Shooting]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/economie/article/2026/02/12/strategie-energetique-le-gouvernement-donne-la-priorite-au-nucleaire_6666442_3234.html][Stratégie énergétique : le gouvernement donne la priorité au nucléaire]]
-- [[https://www.lemonde.fr/planete/live/2026/02/12/en-direct-tempete-nils-900-000-foyers-prives-d-electricite-des-rafales-attendues-dans-de-nombreux-departements-jeudi_6666430_3244.html][EN DIRECT, Tempête Nils : 900 000 foyers privés d’électricité ; des rafales attendues dans de nombreux départements jeudi]]
-- [[https://www.lemonde.fr/idees/article/2026/02/12/jeunes-police-un-enjeu-de-securite-et-de-citoyennete_6666451_3232.html][Jeunes-police : un enjeu de sécurité et de citoyenneté]]
-- [[https://www.lemonde.fr/economie/article/2026/02/12/l-economie-britannique-resiste-aux-incertitudes-politiques_6666444_3234.html][L’économie britannique résiste aux incertitudes politiques]]
-- [[https://www.lemonde.fr/sport/live/2026/02/12/en-direct-jo-2026-suivez-les-epreuves-du-jeudi-12-fevrier_6666433_3242.html][EN DIRECT, JO 2026 : les Françaises attendues en super-G, deux Français qualifiés pour la finale du ski de bosses]]
+- [[https://www.lemonde.fr/societe/article/2026/02/12/troubles-du-spectre-de-l-autisme-la-haute-autorite-de-sante-recommande-une-place-centrale-pour-les-parents-dans-le-suivi-des-enfants_6666491_3224.html][Troubles du spectre de l’autisme : la Haute Autorité de santé recommande une place centrale pour les parents dans le suivi des enfants]]
+- [[https://www.lemonde.fr/economie/article/2026/02/12/aux-etats-unis-une-poignee-d-entreprises-prosperent-sur-la-politique-antimigrants-de-trump_6666463_3234.html][Un écosystème d’entreprises prospère sur la politique antimigrants de Trump]]
+- [[https://www.lemonde.fr/international/article/2026/02/12/l-inde-approuve-une-mega-commande-de-rafale-l-elysee-salue-un-jalon-tres-important-vers-un-contrat-historique_6666504_3210.html][L’Inde approuve une mégacommande de Rafale, l’Elysée salue un « jalon très important » vers un contrat « historique »]]
+- [[https://www.lemonde.fr/planete/live/2026/02/12/en-direct-tempete-nils-la-depression-hivernale-traverse-le-sud-de-la-france-avec-des-rafales-de-vents-a-plus-de-120-km-h_6666430_3244.html][EN DIRECT, tempête Nils : la dépression hivernale traverse le sud de la France, les vents faiblissent, selon Météo-France]]
+- [[https://www.lemonde.fr/sport/article/2026/02/12/pour-laurence-fournier-beaudry-et-guillaume-cizeron-l-or-aux-jo-2026-un-objectif-realise-apres-bien-des-incertitudes_6666480_3242.html][Pour Laurence Fournier Beaudry et Guillaume Cizeron, l’or aux JO 2026 est un « objectif réalisé » après bien des « incertitudes »]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/vous-avez-tue-nos-enfants-entre-cris-et-pleurs-des-parents-de-victimes-de-crans-montana-prennent-a-partie-le-couple-moretti-20260212][«Vous avez tué nos enfants» : entre cris et pleurs, des parents de victimes de Crans-Montana prennent à partie le couple Moretti]]
-- [[https://www.lefigaro.fr/meteo/en-direct-tempete-nils-la-france-balayee-par-de-puissantes-rafales-quatre-departements-en-vigilance-rouge-20260212][EN DIRECT - Tempête Nils : les vents dépassent les 160 km/h provoquant la mort d’un routier et privent 850.000 foyers d’électricité]]
-- [[https://www.lefigaro.fr/meteo/une-situation-avalancheuse-exceptionnelle-la-savoie-en-vigilance-rouge-a-cause-de-la-tempete-nils-plusieurs-domaines-skiables-fermes-20260212][Une situation avalancheuse «exceptionnelle» : la Savoie en vigilance rouge à cause de la tempête Nils, plusieurs domaines skiables fermés]]
-- [[https://www.lefigaro.fr/meteo/meteo-du-jeudi-12-fevrier-la-tempete-nils-balaie-le-sud-de-la-france-20260211][Météo du jeudi 12 février : la tempête Nils balaie le sud de la France]]
-- [[https://www.lefigaro.fr/meteo/meteo-pourquoi-pleut-il-autant-cet-hiver-20260211][Météo : pourquoi pleut-il autant cet hiver ?]]
+- [[https://www.lefigaro.fr/politique/j-ai-pris-la-decision-d-etre-candidat-de-la-place-beauvau-a-la-conquete-de-l-elysee-la-mue-presidentielle-de-bruno-retailleau-20260212][«J’ai pris la décision d’être candidat» : de la Place Beauvau à la conquête de l’Élysée, la mue présidentielle de Bruno Retailleau]]
+- [[https://sante.lefigaro.fr/medecine/autisme-la-fin-de-la-psychanalyse-actee-par-la-haute-autorite-de-sante-20260212][Autisme : la fin de la psychanalyse actée par la Haute Autorité de santé]]
+- [[https://sante.lefigaro.fr/medecine/autisme-un-algorithme-entraine-a-identifier-les-enfants-a-risque-des-la-naissance-20260212][Autisme : un algorithme entraîné à identifier les enfants à risque dès la naissance]]
+- [[https://sante.lefigaro.fr/medecine/autisme-les-pratiques-sans-preuve-d-efficacite-suffisante-comme-la-psychanalyse-ne-doivent-plus-etre-proposees-20260212][Autisme : « Les pratiques sans preuve d’efficacité suffisante, comme la psychanalyse, ne doivent plus être proposées »]]
+- [[https://www.lefigaro.fr/international/le-pentagone-prepare-le-deploiement-d-un-deuxieme-porte-avions-au-moyen-orient-pour-accroitre-la-pression-sur-l-iran-selon-le-wall-street-journal-20260212][Le Pentagone prépare le déploiement d’un deuxième porte-avions au Moyen-Orient pour accroître la pression sur l’Iran]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/ce8w95knp55o?at_medium=RSS&at_campaign=rss][Police identify 18-year-old as suspect in Tumbler Ridge shooting]]
+- [[https://www.bbc.com/news/articles/c2lr9w29zwyo?at_medium=RSS&at_campaign=rss][Minnesota immigration enforcement surge is ending, Trump border tsar says]]
 - [[https://www.bbc.com/news/articles/cn0e1g7kwglo?at_medium=RSS&at_campaign=rss][Kim Jong Un chooses teen daughter as heir, says Seoul]]
-- [[https://www.bbc.com/news/articles/cq6ql2n917zo?at_medium=RSS&at_campaign=rss][Four takeaways from Pam Bondi's fiery Epstein testimony]]
-- [[https://www.bbc.com/news/articles/clygd10pg5lo?at_medium=RSS&at_campaign=rss][Russia orders block on WhatsApp in messaging app crackdown]]
-- [[https://www.bbc.com/news/articles/cewz2yr47dvo?at_medium=RSS&at_campaign=rss]['One in a billion': Dawson's Creek stars lead tributes to James Van Der Beek]]
+- [[https://www.bbc.com/news/articles/c5yqr8eggvwo?at_medium=RSS&at_campaign=rss][Norway's former PM charged with gross corruption over Epstein links]]
+- [[https://www.bbc.com/news/articles/cy7jdmvn3l0o?at_medium=RSS&at_campaign=rss][Polls close in first election since Gen Z protests ousted Bangladesh leader]]
+- [[https://www.bbc.com/news/articles/ce8w95knp55o?at_medium=RSS&at_campaign=rss][Police identify 18-year-old as suspect in Tumbler Ridge shooting]]
 
 *** The Guardian
 
@@ -151,11 +150,11 @@
 
 *** Deutsche Welle
 
-- [[https://www.dw.com/en/winter-olympics-ukrainian-athlete-disqualified-over-helmet/a-75925019?maca=en-rss-en-world-4025-rdf][Winter Olympics: Ukrainian athlete disqualified over helmet]]
-- [[https://www.dw.com/en/trump-netanyahu-end-meeting-without-iran-agreement/a-75922250?maca=en-rss-en-world-4025-rdf][Trump, Netanyahu end meeting without Iran agreement]]
-- [[https://www.dw.com/en/canada-mass-shooting-suspect-had-mental-health-issues/a-75921821?maca=en-rss-en-world-4025-rdf][Canada mass shooting suspect had mental health issues]]
-- [[https://www.dw.com/en/eu-ups-drone-cooperation-amid-hybrid-threats/a-75920686?maca=en-rss-en-world-4025-rdf][EU ups drone cooperation amid hybrid threats]]
-- [[https://www.dw.com/en/nato-begins-arctic-sentry-mission-to-secure-region/a-75912376?maca=en-rss-en-world-4025-rdf][NATO begins 'Arctic Sentry' mission to secure region]]
+- [[https://www.dw.com/en/prague-exhibition-documents-slovak-national-gallery-decline/a-75934648?maca=en-rss-en-world-4025-rdf][Prague exhibition documents Slovak National Gallery decline]]
+- [[https://www.dw.com/en/india-ethnic-tensions-keep-peace-out-of-reach-in-manipur/a-75936523?maca=en-rss-en-world-4025-rdf][India: Ethnic tensions keep peace out of reach in Manipur]]
+- [[https://www.dw.com/en/rising-teenage-pregnancy-among-young-teens-in-philippines/a-75933088?maca=en-rss-en-world-4025-rdf][Rising teenage pregnancy among young teens in Philippines]]
+- [[https://www.dw.com/en/brussels-police-search-european-commission-buildings/a-75935130?maca=en-rss-en-world-4025-rdf][Brussels: Police search European Commission buildings]]
+- [[https://www.dw.com/en/indian-teens-roll-their-eyes-at-talk-of-a-social-media-ban/a-75911731?maca=en-rss-en-world-4025-rdf][Indian teens roll their eyes at talk of a social media ban]]
 
 
 * 🧠 Think Tanks
