@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
-#+HTML: <div class='telemetry'>🌡 41.3°C | ⚖ Load: 0.00 | 🌐 Ping: 9.18ms</div>
+#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
+#+HTML: <div class='telemetry'>🌡 40.8°C | ⚖ Load: 0.88 | 🌐 Ping: 9.52ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,19 +49,19 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/02/11/698cc453e4d4d844728b457d.html][Sánchez se queda fuera de la reunión clave que Alemania e Italia han impulsado antes de la cumbre de mañana: el único líder de un gran país que no acude]]
-- [[https://www.elmundo.es/espana/2026/02/11/698c3511e9cf4a873b8b458c.html][Sánchez defiende su gestión en Adamuz acusando a Feijóo de sembrar "zozobra" con "bulos" y le reprocha las tragedias de la dana, Angrois, Yak-42 y Metro de Valencia]]
-- [[https://www.elmundo.es/internacional/2026/02/11/698b454021efa0261b8b45a1.html][Niscemi, un pueblo en el abismo]]
-- [[https://www.elmundo.es/internacional/2026/02/11/698cb1a521efa0cf0e8b457c.html][Elecciones en Ucrania a cambio de tregua: ¿Qué pretende Zelenski con este movimiento?]]
-- [[https://www.elmundo.es/espana/extremadura/2026/02/11/698c46fae85ece0f3a8b458f.html][El alcalde de Mérida, primer dirigente del PSOE de Extremadura que abre la puerta a negociar con Guardiola si fracasa su investidura con Vox]]
+- [[https://www.elmundo.es/espana/2026/02/11/698cccdffdddffce1c8b456f.html][El PSOE fía su futuro a que la "inestabilidad" de los pactos PP-Vox le devuelva el 'salvavidas' de la ultraderecha]]
+- [[https://www.elmundo.es/espana/extremadura/2026/02/11/698ccd22fdddff3e3e8b4574.html][Guardiola reafirma que Vox es su "prioridad" pero rechaza asumir sus postulados radicales]]
+- [[https://www.elmundo.es/economia/2026/02/11/698cdb97e9cf4a56268b458f.html][Sánchez cambia por tercera vez la versión del Gobierno sobre las auscultadoras que revisan las vías]]
+- [[https://www.elmundo.es/economia/2026/02/11/698cdad5fc6c8357798b45a1.html][Cinco rostros para entender el problema del campo español: "Si el sector primario cae, caemos todos"]]
+- [[https://www.elmundo.es/espana/2026/02/12/698ccdaafdddff3e3e8b457b.html][Ábalos y Koldo salen de la cárcel 77 días después para acudir a una vista inédita en el Supremo]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/natural/20260211/11463710/proteccio-civil-enviara-alert-fuerte-viento-jueves-pide-limitar-movilidad-suspender-actividad-educativa.html][Catalunya cierra los colegios este jueves por la alerta de viento extremo]]
+- [[https://www.lavanguardia.com/local/catalunya/20260212/11464081/alerta-viento-vuelve-parar-hoy-actividad-catalunya.html][La alerta por viento vuelve a parar hoy la actividad en Catalunya]]
 - [[https://www.lavanguardia.com/economia/20260211/11464075/aerolineas-mantienen-vuelos-barcelona-descartan-demoras.html][Las aerolíneas mantienen los vuelos desde Barcelona pero no se descartan demoras]]
 - [[https://www.lavanguardia.com/local/barcelona/20260211/11464040/alerta-viento-arrasa-actividad-cultural-jueves.html][La alerta por viento arrasa con la actividad cultural del jueves]]
-- [[https://www.lavanguardia.com/politica/20260211/11463474/feijoo-acusa-gobierno-46-muertos-adamuz-gelida-accidente-evitable-catastrofe-imprevisible.html][Feijóo avisa que Sánchez “se sentará en el banquillo” por Adamuz]]
-- [[https://www.lavanguardia.com/politica/20260211/11463457/sanchez-intenta-contener-indignacion-social-nuestro-sistema-mejores-mundo.html][Sánchez: “Nuestro sistema ferroviario es uno de los mejores del mundo”]]
+- [[https://www.lavanguardia.com/vida/20260211/11463755/que-quieren-profesores-catalanes-37-secunda-paro-decenas-miles-salen-calle.html][Qué quieren los profesores catalanes: un 37% secunda el paro y decenas de miles salen a la calle]]
+- [[https://www.lavanguardia.com/vida/20260211/11463834/dos-errores-profesores.html][Los dos errores de los profesores]]
 
 *** El Diario de Cantabria
 
@@ -83,39 +83,39 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/americas/u-s-energy-secretary-talks-oil-revivaland-democracyin-venezuela-visit-f9ee3236][U.S. Energy Secretary Talks Oil Revival—and Democracy—in Venezuela Visit]]
+- [[https://www.wsj.com/world/americas/sargeant-trump-maduro-venezuela-oil-49aa3288][Savior or ‘Supervillain’? A Trump Ally’s Gamble to Unlock Venezuela’s Oil]]
 - [[https://www.wsj.com/world/americas/accused-canada-shooter-an-18-year-old-known-to-police-authorities-say-53fbcaf6][Accused Canada Shooter an 18-Year-Old Known to Police, Authorities Say]]
 - [[https://www.wsj.com/world/middle-east/violence-surges-in-gaza-despite-the-cease-fire-b01a7282][Violence Surges in Gaza Despite the Cease-Fire]]
 - [[https://www.wsj.com/world/americas/nine-killed-at-least-25-injured-in-canadian-shooting-a67a8515][Canada Mourns Eight Dead in Mass Shooting]]
-- [[https://www.wsj.com/world/europe/aboard-a-nato-warship-as-it-practices-hunting-russian-subs-6ccad0e3][Aboard a NATO Warship as It Practices Hunting Russian Subs]]
-- [[https://www.wsj.com/world/europe/dutch-court-orders-probe-into-chinese-owned-nexperia-f463cfbd][Dutch Court Orders Probe Into Chinese-Owned Nexperia]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/sport/article/2026/02/11/jo-2026-un-triomphe-en-danse-sur-glace-un-double-historique-au-biathlon-du-bronze-au-ski-de-bosses-le-resume-du-mercredi-11-fevrier_6666395_3242.html][JO 2026 : un triomphe en danse sur glace, un doublé historique au biathlon, du bronze au ski de bosses… le résumé du mercredi 11 février]]
+- [[https://www.lemonde.fr/sport/article/2026/02/12/guillaume-cizeron-et-laurence-fournier-beaudry-sacres-champions-olympiques-de-danse-sur-glace-apres-un-ballet-envoutant_6666403_3242.html][Laurence Fournier Beaudry et Guillaume Cizeron, sacrés champions olympiques de danse sur glace après un ballet envoûtant]]
 - [[https://www.lemonde.fr/international/article/2026/02/11/fusillade-au-canada-le-suspect-est-une-femme-transgenre-de-18-ans-le-bilan-ramene-a-huit-morts_6666392_3210.html][Fusillade au Canada : la suspecte est une femme transgenre de 18 ans, le bilan ramené à huit morts]]
 - [[https://www.lemonde.fr/planete/article/2026/02/11/loi-duplomb-le-debat-sur-la-petition-a-l-assemblee-nationale-confirme-les-clivages-sur-l-agriculture_6666399_3244.html][Loi Duplomb : le débat sur la pétition à l’Assemblée nationale confirme les clivages sur l’agriculture]]
 - [[https://www.lemonde.fr/societe/article/2026/02/11/affaire-adama-traore-pourquoi-la-cour-de-cassation-a-valide-le-non-lieu-en-faveur-des-gendarmes_6666386_3224.html][Affaire Adama Traoré : pourquoi la Cour de cassation a validé le non-lieu en faveur des gendarmes]]
-- [[https://www.lemonde.fr/disparitions/article/2026/02/11/cees-nooteboom-grand-ecrivain-neerlandais-mu-par-un-gout-insatiable-pour-l-ailleurs-est-mort_6666397_3382.html][Cees Nooteboom, grand écrivain néerlandais mû par un goût insatiable pour l’ailleurs, est mort]]
+- [[https://www.lemonde.fr/international/article/2026/02/12/des-elus-republicains-du-congres-defient-donald-trump-sur-les-droits-de-douane-avec-le-canada_6666404_3210.html][Des élus républicains du Congrès défient Donald Trump sur les droits de douane avec le Canada]]
 
 *** Le Figaro
 
 - [[https://www.lefigaro.fr/international/j-ai-trouve-une-fille-formidable-pour-ton-prochain-sejour-a-paris-la-perturbante-amitie-de-deux-musiciens-francais-avec-jeffrey-epstein-20260211][«J’ai trouvé une fille formidable pour ton prochain séjour à Paris» : la perturbante amitié de deux musiciens français avec Jeffrey Epstein]]
-- [[https://www.lefigaro.fr/sports/jeux-olympiques/en-direct-jo-2026-perrine-laffont-tres-attendue-en-finale-de-ski-de-bosses-les-bleues-revent-d-or-en-biathlon-suivez-la-journee-olympique-20260211][EN DIRECT - JO 2026 : magnifiques Guillaume Cizeron et Laurence Fournier Beaudry, journée historique pour la France]]
-- [[https://www.lefigaro.fr/sports/jeux-olympiques/jo-2026-guillaume-cizeron-et-laurence-fournier-beaudry-champions-olympiques-nouveau-titre-pour-la-france-20260211][JO 2026 : le chef-d’œuvre en or de Guillaume Cizeron et Laurence Fournier Beaudry]]
-- [[https://www.lefigaro.fr/sports/jeux-olympiques/jo-2026-la-france-gagne-deux-places-au-tableau-des-medailles-grace-au-double-en-biathlon-et-au-bronze-de-laffont-20260211][JO 2026 : la France grimpe à la sixième place au tableau des médailles au terme d’une journée historique]]
-- [[https://www.lefigaro.fr/sports/jeux-olympiques/jo-2026-larmes-tension-joie-la-folle-journee-triomphale-de-julia-simon-et-lou-jeanmonnot-20260211][JO 2026 : larmes, tension, joie… La folle journée triomphale de Julia Simon et Lou Jeanmonnot]]
+- [[https://www.lefigaro.fr/international/le-suspect-de-la-tuerie-au-canada-est-une-femme-transgenre-de-18-ans-selon-la-police-20260211][Le suspect de la tuerie au Canada est une femme transgenre de 18 ans, le bilan ramené à huit morts]]
+- [[https://www.lefigaro.fr/politique/ce-jour-la-la-presidentielle-commencera-l-avenir-de-marine-le-pen-se-jouera-un-7-juillet-20260211][«Ce jour-là, la présidentielle commencera» : l’avenir de Marine Le Pen se jouera un 7 juillet]]
+- [[https://www.lefigaro.fr/actualite-france/la-defense-de-marine-le-pen-se-bat-pour-arracher-une-relaxe-20260211][La défense de Marine Le Pen se bat pour arracher une relaxe]]
+- [[https://www.lefigaro.fr/actualite-france/proces-de-marine-le-pen-et-du-rn-la-decision-sera-rendue-le-7-juillet-prochain-20260211][Procès de Marine Le Pen et du RN: la décision sera rendue le 7 juillet prochain]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
+- [[https://www.bbc.com/news/articles/ce8w95knp55o?at_medium=RSS&at_campaign=rss][Police identify 18-year-old as suspect in Tumbler Ridge shooting]]
 - [[https://www.bbc.com/news/articles/cddn078mnn5o?at_medium=RSS&at_campaign=rss]['It was terrifying': Tumbler Ridge's tight-knit community in shock after shooting]]
+- [[https://www.bbc.com/news/articles/clyz2142e77o?at_medium=RSS&at_campaign=rss][US House votes to overturn Trump's tariffs on Canada]]
 - [[https://www.bbc.com/news/articles/c931zzzep0eo?at_medium=RSS&at_campaign=rss][Powerful cyclone kills at least 31 as it tears through Madagascar port]]
-- [[https://www.bbc.com/news/articles/c05vzjp7v3do?at_medium=RSS&at_campaign=rss][Mother of fire disaster victims speaks to Swiss bar owners at hearing]]
-- [[https://www.bbc.com/news/articles/c0k1j2j4607o?at_medium=RSS&at_campaign=rss][Trump tells Netanyahu Iran nuclear talks must continue]]
-- [[https://www.bbc.com/news/articles/crm820dp0yro?at_medium=RSS&at_campaign=rss][Russian strike kills 3 Ukrainian toddlers and father, with pregnant mother injured]]
+- [[https://www.bbc.com/news/articles/ce3x0lnyxd3o?at_medium=RSS&at_campaign=rss][Dawson's Creek star James Van Der Beek dies aged 48]]
 
 *** The Guardian
 
@@ -151,11 +151,11 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/canada-mass-shooting-suspect-had-mental-health-issues/a-75921821?maca=en-rss-en-world-4025-rdf][Canada mass shooting suspect had mental health issues]]
 - [[https://www.dw.com/en/eu-ups-drone-cooperation-amid-hybrid-threats/a-75920686?maca=en-rss-en-world-4025-rdf][EU ups drone cooperation amid hybrid threats]]
 - [[https://www.dw.com/en/nato-begins-arctic-sentry-mission-to-secure-region/a-75912376?maca=en-rss-en-world-4025-rdf][NATO begins 'Arctic Sentry' mission to secure region]]
 - [[https://www.dw.com/en/us-blames-mexican-cartel-drones-for-el-paso-airspace-closure/a-75916359?maca=en-rss-en-world-4025-rdf][US blames Mexican cartel drones for El Paso airspace closure]]
 - [[https://www.dw.com/en/fact-check-trump-vs-obama-on-ice-deaths-and-deportation/a-75895526?maca=en-rss-en-world-4025-rdf][Fact check: Trump vs. Obama on ICE deaths and deportation]]
-- [[https://www.dw.com/en/indian-teens-roll-their-eyes-at-talk-of-a-social-media-ban/a-75911731?maca=en-rss-en-world-4025-rdf][Indian teens roll their eyes at talk of a social media ban]]
 
 
 * 🧠 Think Tanks
