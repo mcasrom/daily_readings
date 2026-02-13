@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 40.8°C | ⚖ Load: 0.00 | 🌐 Ping: 10.9ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 40.8°C | ⚖ Load: 0.64 | 🌐 Ping: 9.51ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,11 +49,11 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/economia/2026/02/12/698ddb83e9cf4a72698b4593.html][España critica la cumbre clave de líderes europeos a la que no fue invitada antes de la reunión de los 27 porque socava los valores de la UE]]
-- [[https://www.elmundo.es/economia/2026/02/12/698dbad2e4d4d8366a8b457d.html][La reunión clave para la UE de la que se ha caído Sánchez: 19 países, todos los grandes menos España y "relanzamiento de las relaciones" Alemania-Italia]]
+- [[https://www.elmundo.es/espana/2026/02/12/698e2ff9fdddff563a8b457c.html][Batalla en el PSOE por Aragón tras "la nada de los sanchistas" y choque en el núcleo duro del presidente]]
+- [[https://www.elmundo.es/cataluna/2026/02/12/698e03d1fc6c83a3738b45a6.html][Alejandro Fernández: "Todos me invitaban a adaptarme a las modas en Cataluña; me negué y me negaré""]]
+- [[https://www.elmundo.es/espana/2026/02/12/698e2b43e4d4d8852a8b45b5.html][Detenidos cuatro argelinos con antecedentes en su país que intentaban regularizarse con documentación falsa]]
+- [[https://www.elmundo.es/internacional/2026/02/13/698cb8d9e9cf4a324a8b457b.html][Arranca la Conferencia de Seguridad de Múnich con el objetivo de hacer frente a la erosión del orden transatlántico]]
 - [[https://www.elmundo.es/economia/2026/02/12/698e28a7fdddff0f418b45ac.html][Draghi constata que la UE sigue sin aplicar las reformas que propuso hace año y medio y exige a los líderes que actúen ya: "Ha señalado el deterioro económico"]]
-- [[https://www.elmundo.es/papel/el-mundo-que-viene/2026/02/12/6984d25cfdddffc20c8b45a3.html][Jonathan Haidt, psicólogo social:  "El 'scroll' infinito fue literalmente copiado de las máquinas tragaperras"]]
-- [[https://www.elmundo.es/espana/2026/02/12/698da08cfdddff29138b458c.html][Sánchez desaira a sus socios y aprueba con todas las derechas la ley de Junts que endurece el castigo a la multirreincidencia]]
 
 *** La Vanguardia
 
@@ -61,7 +61,7 @@
 - [[https://www.lavanguardia.com/local/barcelona/20260212/11465027/caidas-arboles-complican-movilidad-vias-carreteras-temporal-viento.html][Las caídas de árboles complican la movilidad en vías y carreteras durante el temporal de viento]]
 - [[https://www.lavanguardia.com/local/barcelona/20260212/11464328/mas-30-vuelos-cancelados-aeropuerto-barcelona-fuerte-viento.html][Un centenar de vuelos cancelados y numerosos retrasos en el aeropuerto de Barcelona por el fuerte viento]]
 - [[https://www.lavanguardia.com/vida/20260212/11464302/imagenes-dejan-fuertes-vientos.html][Las imágenes que dejan los fuertes vientos]]
-- [[https://www.lavanguardia.com/local/barcelona/20260212/11465032/amago-parentesis-distopico-barcelona.html][El vendaval deja Barcelona patas arriba]]
+- [[https://www.lavanguardia.com/opinion/20260213/11465117/teletrabajo-crisis-climatica.html][Teletrabajo y crisis climática]]
 
 *** El Diario de Cantabria
 
@@ -79,25 +79,24 @@
 - [[https://www.washingtonpost.com/world/2025/11/12/us-strikes-caribbean-pacific/][Mapping U.S. strikes in the Caribbean and eastern Pacific]]
 - [[https://www.washingtonpost.com/world/2026/02/11/canada-tumbler-ridge-school-shooting/][At least 9 killed, many injured in shootings at Canada school and home]]
 - [[https://www.washingtonpost.com/world/2026/02/11/vance-armenia-azerbaijan-trump-diplomacy/][Vance visits Armenia, Azerbaijan as Trump eyes deals in Russia’s sphere]]
-- [[https://www.washingtonpost.com/national-security/2026/02/10/trump-iran-aircraft-carrier-netanyahu-gaza/][Trump mulls second aircraft carrier off Iran, as Netanyahu flies to D.C. for talks]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/asia/japan-seizes-chinese-fishing-boat-and-arrests-its-skipper-1ed8b2b5][Japan Seizes Chinese Fishing Boat and Arrests Its Skipper]]
+- [[https://www.wsj.com/world/middle-east/irans-crackdown-is-now-targeting-its-own-politicians-b3b3a7c5][Iran’s Crackdown Is Now Targeting Its Own Politicians]]
+- [[https://www.wsj.com/world/asia/kims-young-daughter-looks-more-likely-to-be-north-koreas-next-leader-06a40d78][Kim’s Young Daughter Looks More Likely to Be North Korea’s Next Leader]]
+- [[https://www.wsj.com/world/asia/bangladesh-votes-for-old-guard-in-first-elections-after-its-gen-z-revolution-27f99a68][Bangladesh Votes for Old Guard in First Elections After Its Gen-Z Revolution]]
 - [[https://www.wsj.com/world/americas/venezuelas-feared-regime-of-repression-is-slowly-loosening-its-grip-ea0473c2][Venezuela’s Feared Regime of Repression Is Slowly Loosening Its Grip]]
-- [[https://www.wsj.com/world/europe/a-german-general-prepares-his-country-for-warand-the-clock-is-ticking-0fc5d7ce][A German General Prepares His Country for War—and the Clock Is Ticking]]
-- [[https://www.wsj.com/world/russia/russia-is-blocking-whatsapp-to-boost-its-own-messaging-app-e0866e83][Russia Is Blocking WhatsApp to Boost Its Own Messaging App]]
-- [[https://www.wsj.com/world/middle-east/u-s-vacates-a-key-military-base-in-syria-1d0b5bf2][U.S. Vacates a Key Military Base in Syria]]
-- [[https://www.wsj.com/world/they-want-to-turn-greenland-into-an-ai-powerhouse-locals-arent-buying-it-cbef29c0][They Want to Turn Greenland Into an AI Powerhouse. Locals Aren’t Buying It.]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/article/2026/02/12/le-retrait-de-l-ice-a-minneapolis-signe-un-camouflet-d-ampleur-pour-les-republicains_6666545_3210.html][Le retrait de l’ICE à Minneapolis signe un camouflet d’ampleur pour les Républicains]]
-- [[https://www.lemonde.fr/les-decodeurs/article/2026/02/12/de-l-affaire-epstein-aux-epstein-files-tout-comprendre-a-ce-scandale-aux-multiples-ramifications_6666530_4355770.html][De l’affaire Epstein aux « Epstein Files » : tout comprendre à ce scandale aux multiples ramifications]]
-- [[https://www.lemonde.fr/planete/article/2026/02/12/donald-trump-revoque-un-texte-fondateur-pour-la-lutte-contre-le-changement-climatique_6666539_3244.html][Donald Trump révoque un texte fondateur pour la lutte contre le changement climatique aux Etats-Unis]]
-- [[https://www.lemonde.fr/economie/article/2026/02/12/ia-anthropic-valorise-380-milliards-de-dollars-apres-une-nouvelle-levee-de-fonds_6666551_3234.html][IA : Anthropic valorisé 380 milliards de dollars après une nouvelle levée de fonds]]
-- [[https://www.lemonde.fr/societe/article/2026/02/12/en-2025-plus-de-la-moitie-des-actes-antireligieux-en-france-ont-concerne-les-juifs_6666535_3224.html][En 2025, plus de la moitié des actes antireligieux en France ont concerné les juifs]]
+- [[https://www.lemonde.fr/planete/article/2026/02/13/climat-donald-trump-demolit-la-reglementation-federale-sur-les-emissions-de-gaz-a-effet-de-serre_6666568_3244.html][Climat : Donald Trump démolit la réglementation fédérale sur les émissions de gaz à effet de serre]]
+- [[https://www.lemonde.fr/international/article/2026/02/13/venezuela-la-presidente-delcy-rodriguez-promet-des-elections-libres-plus-d-un-mois-apres-l-enlevement-de-nicolas-maduro_6666559_3210.html][Venezuela : la présidente Delcy Rodriguez promet des élections libres, plus d’un mois après l’enlèvement de Nicolas Maduro]]
+- [[https://www.lemonde.fr/economie/article/2026/02/12/a-la-commission-d-enquete-parlementaire-sur-l-audiovisuel-public-un-parfum-de-parjure_6666554_3234.html][A la commission d’enquête parlementaire sur l’audiovisuel public, un parfum de parjure]]
+- [[https://www.lemonde.fr/international/article/2026/02/12/la-cia-diffuse-une-video-destinee-a-recruter-des-espions-en-chine_6666550_3210.html][La CIA diffuse une vidéo destinée à recruter des espions en Chine]]
+- [[https://www.lemonde.fr/international/article/2026/02/13/affaire-epstein-au-royaume-uni-la-police-se-penche-sur-le-cas-d-andrew-mountbatten-windsor_6666563_3210.html][Affaire Epstein : au Royaume-Uni, la police se penche sur le cas d’Andrew Mountbatten Windsor]]
 
 *** Le Figaro
 
@@ -112,10 +111,10 @@
 *** BBC News
 
 - [[https://www.bbc.com/news/articles/cn0zdd7yl4vo?at_medium=RSS&at_campaign=rss][Trump revokes landmark ruling that greenhouse gases endanger public health]]
+- [[https://www.bbc.com/news/articles/cvg8xjm8932o?at_medium=RSS&at_campaign=rss][Analysis: Trump takes victory lap after biggest climate rollback yet]]
 - [[https://www.bbc.com/news/articles/c2lr9w29zwyo?at_medium=RSS&at_campaign=rss][Minnesota immigration enforcement surge is ending, Trump border tsar says]]
 - [[https://www.bbc.com/news/articles/cn0e1g7kwglo?at_medium=RSS&at_campaign=rss][Kim Jong Un chooses teen daughter as heir, says Seoul]]
 - [[https://www.bbc.com/news/articles/cwygxz81330o?at_medium=RSS&at_campaign=rss][Iran fortifies underground complex near nuclear site, satellite images show]]
-- [[https://www.bbc.com/news/articles/c5yqr8eggvwo?at_medium=RSS&at_campaign=rss][Norway's former PM charged with gross corruption over Epstein links]]
 
 *** The Guardian
 
@@ -151,11 +150,11 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/wanted-man-arrested-after-he-returns-to-watch-the-olympics/a-75942688?maca=en-rss-en-world-4025-rdf][Wanted man arrested after he returns to watch the Olympics]]
 - [[https://www.dw.com/en/switzerland-to-vote-on-capping-population-at-10-million/a-75941387?maca=en-rss-en-world-4025-rdf][Switzerland to vote on capping population at 10 million]]
 - [[https://www.dw.com/en/russia-blocks-youtube-and-whatsapp/a-75940102?maca=en-rss-en-world-4025-rdf][Russia blocks YouTube and WhatsApp]]
 - [[https://www.dw.com/en/france-germany-signal-unity-at-eu-s-belgium-castle-retreat/a-75938810?maca=en-rss-en-world-4025-rdf][France, Germany signal unity at EU's Belgium castle retreat]]
 - [[https://www.dw.com/en/kim-jong-un-s-daughter-set-to-be-his-successor-seoul-says/a-75937480?maca=en-rss-en-world-4025-rdf][Kim Jong Un's daughter set to be his successor, Seoul says]]
-- [[https://www.dw.com/en/au-looks-inward-to-assess-its-power-to-ensure-security-in-africa/a-75939922?maca=en-rss-en-world-4025-rdf][AU looks inward to assess its power to ensure security in Africa]]
 
 
 * 🧠 Think Tanks
