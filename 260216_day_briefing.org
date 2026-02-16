@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
-#+HTML: <div class='telemetry'>🌡 39.7°C | ⚖ Load: 0.72 | 🌐 Ping: 9.89ms</div>
+#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
+#+HTML: <div class='telemetry'>🌡 39.7°C | ⚖ Load: 0.00 | 🌐 Ping: 9.22ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,43 +41,44 @@
 
 *** El País
 
-- [[https://elpais.com/economia/2026-02-16/sanchez-anuncia-que-el-fondo-soberano-financiara-la-construccion-de-15000-viviendas-al-ano.html][Sánchez anuncia que el fondo soberano financiará la construcción de 15.000 viviendas al año]]
-- [[https://elpais.com/espana/2026-02-16/guardiola-compra-ahora-en-una-entrevista-el-discurso-mas-duro-de-vox-el-feminismo-que-defiendo-es-el-de-vox.html][Guardiola asume ahora en una entrevista el discurso más duro de la ultraderecha: “El feminismo que defiendo es el de Vox”]]
-- [[https://elpais.com/espana/2026-02-16/isabel-pardo-de-vera-exsecretaria-de-transportes-abalos-mandaba-muchisimo-en-el-gobierno-nadie-le-cuestionaba-nada.html][Isabel Pardo de Vera, exsecretaria de Transportes: “Ábalos mandaba muchísimo en el Gobierno. Nadie le cuestionaba nada”]]
-- [[https://elpais.com/sociedad/2026-02-16/monica-garcia-las-guardias-medicas-voluntarias-romperian-el-sistema.html][Mónica García: “Las guardias médicas voluntarias romperían el sistema”]]
-- [[https://elpais.com/sociedad/2026-02-16/los-medicos-estan-llamados-a-una-huelga-toda-esta-semana-como-afecta-a-los-pacientes.html][Los médicos están llamados a una huelga toda esta semana: ¿cómo afecta a los pacientes?]]
+- [[https://elpais.com/economia/2026-02-16/sanchez-carga-contra-la-patronal-por-rechazar-la-subida-del-salario-minimo-y-reclama-un-incremento-de-las-retribuciones-que-paguen-mas.html][Sánchez carga contra la patronal por rechazar la subida del salario mínimo y reclama a las empresas que suban los sueldos: “Que paguen más”]]
+- [[https://elpais.com/espana/2026-02-16/iu-y-podemos-deciden-mantenerse-al-margen-del-acto-impulsado-por-rufian-y-delgado.html][IU y Podemos deciden mantenerse al margen del acto impulsado por Rufián y Delgado]]
+- [[https://elpais.com/espana/2026-02-16/genova-a-guardiola-sobre-la-negociacion-extremena-sobra-ruido-y-falta-trabajo-serio-alrededor-de-una-mesa.html][Génova, a Guardiola sobre la negociación extremeña: “Sobra ruido y falta trabajo serio alrededor de una mesa”]]
+- [[https://elpais.com/espana/madrid/2026-02-16/ayuso-lanza-su-plan-de-40-residencias-publico-privadas-cediendo-gratis-una-parcela-por-70-anos-para-que-la-explote-una-empresa.html][Ayuso lanza su plan de 40 residencias público-privadas cediendo gratis una parcela por 70 años para que la explote una empresa]]
+- [[https://elpais.com/internacional/2026-02-16/rubio-exhibe-en-budapest-el-claro-apoyo-de-ee-uu-a-orban-ante-las-elecciones-de-abril.html][Rubio exhibe en Budapest el claro apoyo de EE UU a Orbán ante las elecciones de abril]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/02/15/6991b939e4d4d8cd628b4582.html][Sánchez lleva a mínimos de poder al PSOE y se multiplica la tensión interna: sólo ha ganado seis de las últimas 26 elecciones]]
-- [[https://www.elmundo.es/espana/2026/02/16/6991d05dfc6c832a728b4590.html][Rufián, Santaolalla y el 'casting' de la izquierda]]
-- [[https://www.elmundo.es/internacional/2026/02/15/6991dc81e85ece92338b4570.html][En el laboratorio ucraniano de la guerra del futuro]]
-- [[https://www.elmundo.es/espana/2026/02/15/69922fcafc6c8319478b459b.html][Los 'informes' de Zapatero que su amigo vendía a las empresas: "La pandemia va a ser una larga crisis"]]
-- [[https://www.elmundo.es/economia/2026/02/16/6992d2e4e9cf4a81658b4582.html][Sánchez vuelve a prometer construir 15.000 viviendas al año, ahora con el nuevo fondo España Crece  y pide apoyo privado "pero no para especular"]]
+- [[https://www.elmundo.es/espana/2026/02/16/69931870e85ece7f5b8b4582.html][Génova reprende a Guardiola por su falta de "discreción" en la negociación con Vox: "Hay que hacer menos ruido y trabajar más"]]
+- [[https://www.elmundo.es/cataluna/2026/02/16/69930311fc6c83d96a8b4584.html][Oriol Junqueras desautoriza a Gabriel Rufián, que no lo ha invitado a su acto: "ERC se presentará en Cataluña y no dirá a un partido de otro país cómo debe presentarse"]]
+- [[https://www.elmundo.es/espana/2026/02/16/6992fa30fc6c8391678b4577.html][Podemos se borra de cualquier alianza de izquierda y desprecia a los impulsores: no acudirá a "la charla" de Rufián ni al acto de partidos "subordinados al PSOE"]]
+- [[https://www.elmundo.es/cronica/2026/02/16/698f9991fdddfffc058b459e.html][Los españoles en la 'lista negra' del ICE de Donald Trump: vídeos en las duchas de la universidad, drogas, criptomonedas y asesinatos que no lo fueron]]
+- [[https://www.elmundo.es/economia/macroeconomia/2026/02/16/6992f950fc6c83d96a8b4574.html][Sánchez reprocha a la patronal su ausencia en la firma del SMI: "Les pido que paguen más. Que no digan que no se pueden subir sueldos si los beneficios crecen"]]
 
 *** La Vanguardia
 
+- [[https://www.lavanguardia.com/economia/20260216/11467856/fondo-soberano-ofrece-quitas-30-creditos-construir-vivienda-asequible.html][El fondo soberano ofrece quitas de hasta el 30% en los créditos para construir vivienda asequible]]
+- [[https://www.lavanguardia.com/economia/20260216/11467435/nuevo-fondo-soberano-movilizara-23-000-millones-construir-vivienda-asequible.html][El nuevo fondo soberano movilizará 23.000 millones para construir vivienda asequible]]
+- [[https://www.lavanguardia.com/economia/20260216/11467753/claves-subida-smi-1-221-euros-mes.html][El salario mínimo sube a 1.221 euros: ¿quién y cómo se cobrará?]]
+- [[https://www.lavanguardia.com/economia/20260216/11467581/diaz-firma-sindicatos-subida-smi-presencia-sanchez.html][Díaz firma con los sindicatos la subida del SMI, con la presencia de Sánchez]]
 - [[https://www.lavanguardia.com/politica/20260216/11467328/illa-promete-compromisos-reales-reforzar-servicios-publicos.html][Illa ofrece “compromisos reales” para reforzar los servicios públicos]]
-- [[https://www.lavanguardia.com/politica/20260216/11467446/puigdemont-responde-illa-ver-empieza-cero.html][Puigdemont responde a Illa: “No puede hacer ver que empieza de cero”]]
-- [[https://www.lavanguardia.com/politica/20260216/11467341/esta-espana-inacabada-boletin-director-jordi-juan.html][¿Está España inacabada?]]
-- [[https://www.lavanguardia.com/economia/20260216/11467435/nuevo-fondo-soberano-movilizara-23-000-millones-construir-vivienda-asequible.html][El nuevo fondo soberano del Gobierno movilizará 23.000 millones para hacer vivienda asequible]]
-- [[https://www.lavanguardia.com/politica/20260216/11467090/sanchez-volver-ganar-generales.html][Sánchez puede volver a ganar las generales]]
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/educacion/informacion-publica-modificacion-orden-empleo-docente-interino-cambios-reserva-nota/20260216114727188670.html][A información pública la modificación de la orden de empleo docente interino, con cambios sobre la reserva de la nota]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/dos-estudiantes-cantabros-podrian-hacer-sandwich-mas-bueno-mundo/20260216113122188668.html][Dos estudiantes cántabros finalistas del concurso 'El sándwich más bueno del mundo']]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/reclaman-ministerio-que-someta-evaluacion-ambiental-estrategica-teleferico-castro-valnera-reconfigurar-territorio/20260216111337188666.html][Piden al Ministerio que someta a evaluación ambiental estratégica el teleférico del Castro Valnera por sus "efectos estructurantes" sobre el territorio]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/punto-cantabria-inicia-lunes-entre-puntos-donde-mas-llueve-espana/20260216104350188665.html][Este punto de Cantabria inicia el lunes entre los lugares donde más llueve de España]]
-- [[https://eldiariocantabria.publico.es/articulo/deportes/vicente-trueba-frenar-dinamica-inveready-gipuzkoa/20260216102336188664.html][El Vicente Trueba para frenar la dinámica de Inveready Gipuzkoa]]
+- [[https://eldiariocantabria.publico.es/articulo/cultura/nino-elche-lleva-propuesta-musical-escenario-santander/20260216175018188688.html][Niño de Elche lleva su propuesta musical a Escenario Santander]]
+- [[https://eldiariocantabria.publico.es/articulo/laboral/smi-sube-1221-euros-alcanzara-casi-uno-cada-diez-asalariados/20260216174338188686.html][El Salario Mínimo Interprofesional sube a 1.221 euros y alcanzará a casi uno de cada diez asalariados]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/lluvias-dejan-mas-45-litros-fuente-35-ramales/20260216173330188685.html][Las lluvias dejan más de 45 litros en Fuente Dé y 35 en Ramales]]
+- [[https://eldiariocantabria.publico.es/articulo/politica/todo-parlamento-favor-bonificacion-reciclaje-compensar-tasazo-basuras/20260216170933188684.html][Todo el Parlamento, a favor de una bonificación por reciclaje para compensar el 'tasazo' de basuras]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/pensando-comprar-garaje-cantabria-interesa/20260216164405188683.html][¿Estás pensando en comprar un garaje en Cantabria? Esto te interesa]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/national-security/2026/02/16/rubio-hungary-orban-trump/][Rubio seeks to boost Hungary’s Orban as he faces toughest election in years]]
+- [[https://www.washingtonpost.com/world/2026/02/16/ukraine-corruption-investigation-energy-minister/][Ukraine detains ex-energy minister as high-level corruption case widens]]
 - [[https://www.washingtonpost.com/world/2026/02/14/alexei-navalny-russia-death-poison-frog/][‘Highly likely’ that rare poison killed Putin nemesis Navalny, Europeans say]]
 - [[https://www.washingtonpost.com/politics/2026/02/14/munich-security-conference-rubio-europe/][Rubio says U.S., Europe ‘belong together,’ despite rifts over Trump policies]]
-- [[https://www.washingtonpost.com/world/interactive/2026/venezuela-protests-prisoners-photos-maduro/][First major protests since capture of Maduro test Venezuela’s new leader]]
 
 *** WSJ.com: World News
 
@@ -91,29 +92,29 @@
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/societe/article/2026/02/16/a-lyon-l-enquete-sur-la-mort-de-quentin-d-progresse-apres-plusieurs-temoignages-significatifs-selon-le-procureur_6666908_3224.html][L’enquête sur la mort de Quentin D. progresse à Lyon après « plusieurs témoignages significatifs », selon le procureur]]
-- [[https://www.lemonde.fr/politique/live/2026/02/16/municipales-2026-a-paris-candidats-programmes-enjeux-posez-vos-questions-a-notre-journaliste_6666945_823448.html][Municipales 2026 à Paris : la ville peut-elle basculer à droite ? Posez vos questions à notre journaliste]]
-- [[https://www.lemonde.fr/societe/article/2026/02/16/cancers-maladie-de-charcot-insuffisance-cardiaque-qui-aurait-droit-a-l-aide-a-mourir_6666916_3224.html][Qui aura droit à l’aide à mourir si la proposition de loi sur la fin de vie est adoptée ?]]
-- [[https://www.lemonde.fr/sport/live/2026/02/16/en-direct-jo-2026-suivez-les-epreuves-du-lundi-16-fevrier_6666934_3242.html][EN DIRECT, JO 2026 : de nombreux favoris piégés lors de la première manche du slalom, Clément Noël et Steven Amiez distancés mais qualifiés]]
-- [[https://www.lemonde.fr/international/live/2026/02/16/en-direct-guerre-en-ukraine-german-galushchenko-ex-ministre-de-l-energie-soupconne-de-blanchiment-d-argent-a-ete-arrete-alors-qu-il-tentait-de-fuir-le-pays_6666820_3210.html][EN DIRECT, guerre en Ukraine : German Galushchenko, ex-ministre de l’énergie soupçonné de blanchiment d’argent, a été arrêté alors qu’il tentait de fuir le pays]]
+- [[https://www.lemonde.fr/societe/live/2026/02/16/en-direct-mort-de-quentin-d-suivez-la-conference-de-presse-du-procureur-de-la-republique_6666967_3224.html][EN DIRECT, mort de Quentin Deranque : le procureur annonce qu’une enquête criminelle a été ouverte pour « homicide volontaire »]]
+- [[https://www.lemonde.fr/politique/article/2026/02/16/francois-fillon-se-desiste-de-son-pourvoi-dans-l-affaire-des-emplois-fictifs-de-son-epouse-sa-peine-devient-definitive_6666982_823448.html][François Fillon se désiste de son pourvoi dans l’affaire des emplois fictifs de son épouse, sa peine devient définitive]]
+- [[https://www.lemonde.fr/politique/article/2026/02/16/municipales-2026-les-effets-de-la-reforme-paris-lyon-marseille-sur-la-campagne-et-l-organisation-des-elections_6666910_823448.html][Municipales 2026 : les effets de la réforme Paris-Lyon-Marseille sur la campagne et l’organisation des élections]]
+- [[https://www.lemonde.fr/international/article/2026/02/16/a-gaza-entre-intimidations-et-destructions-l-eprouvant-retour-des-habitants-qui-avaient-quitte-l-enclave_6666923_3210.html][A Gaza, entre intimidations et destructions, l’éprouvant retour des habitants qui avaient quitté l’enclave]]
+- [[https://www.lemonde.fr/societe/article/2026/02/16/deux-maires-en-premiere-ligne-pour-defendre-leur-petite-maternite-on-a-le-droit-de-naitre-dans-nos-villes-de-sous-prefecture_6666943_3224.html][Deux maires en première ligne pour défendre leur petite maternité : « On a le droit de naître dans nos villes de sous-préfecture »]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/lyon/en-direct-mort-quentin-lyon-ultragauche-militant-nationaliste-agression-lynchage-la-france-insoumise-20260216][EN DIRECT - Mort de Quentin à Lyon : l’accès à l’Assemblée nationale suspendu pour l’assistant parlementaire du député LFI Raphaël Arnault]]
-- [[https://www.lefigaro.fr/politique/mort-de-quentin-le-collaborateur-lfi-de-raphael-arnault-soupconne-d-etre-implique-dans-le-lynchage-interdit-d-acces-a-l-assemblee-20260216][Mort de Quentin : le collaborateur LFI de Raphaël Arnault, soupçonné d’être impliqué dans le lynchage, interdit d’accès à l’Assemblée]]
-- [[https://www.lefigaro.fr/politique/mort-de-quentin-lfi-a-une-responsabilite-morale-juge-maud-bregeon-20260216][Mort de Quentin : «LFI a une responsabilité morale», juge Maud Bregeon]]
-- [[https://www.lefigaro.fr/actualite-france/la-mort-de-quentin-jeune-etudiant-nationaliste-embrase-la-classe-politique-entre-condamnations-et-appels-au-calme-20260215][La mort de Quentin, jeune étudiant nationaliste, embrase la classe politique entre condamnations et appels au calme]]
-- [[https://www.lefigaro.fr/culture/affaire-epstein-une-perquisition-en-cours-a-l-institut-du-monde-arabe-20260216][Affaire Epstein : une perquisition en cours à l’Institut du monde arabe]]
+- [[https://www.lefigaro.fr/faits-divers/traumatisme-cranien-majeur-pas-d-interpellation-ce-qu-il-faut-retenir-de-la-conference-du-procureur-de-lyon-apres-la-mort-de-quentin-20260216][Traumatisme crânien «majeur», homicide volontaire... Ce qu’il faut retenir de la conférence du procureur de Lyon après la mort de Quentin]]
+- [[https://www.lefigaro.fr/actualite-france/mort-de-quentin-ceux-qui-ont-lynche-ne-pouvaient-pas-ignorer-qu-ils-tuaient-estime-thibault-de-montbrial-20260216][Mort de Quentin : «Ceux qui ont lynché ne pouvaient pas ignorer qu’ils tuaient» estime Thibault de Montbrial]]
+- [[https://www.lefigaro.fr/lyon/en-direct-mort-quentin-lyon-ultragauche-militant-nationaliste-agression-lynchage-la-france-insoumise-20260216][EN DIRECT - Mort de Quentin Deranque à Lyon : une enquête pour homicide volontaire et violence aggravée ouverte, aucune interpellation à ce stade]]
+- [[https://www.lefigaro.fr/faits-divers/jacques-elie-favrot-gerait-l-attaque-des-temoins-chargent-l-assistant-parlementaire-lfi-de-raphael-arnault-suspecte-d-etre-implique-dans-le-meurtre-de-quentin-20260216][Mort de Quentin Deranque : des témoins chargent Jacques-Elie Favrot, l’assistant parlementaire LFI de Raphaël Arnault]]
+- [[https://www.lefigaro.fr/bordeaux/mort-de-quentin-la-permanence-du-candidat-lfi-a-bordeaux-vandalisee-des-tags-menacants-retrouves-20260216][Mort de Quentin : la permanence du candidat LFI à Bordeaux vandalisée, des tags menaçants retrouvés]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/c5yrv2g16e2o?at_medium=RSS&at_campaign=rss]['It's never too late': Savannah Guthrie's new plea for mother's release as FBI analyses glove]]
+- [[https://www.bbc.com/news/articles/cq6qg6l31l3o?at_medium=RSS&at_campaign=rss][Navalny's mother says she always knew he was murdered after poison finding]]
 - [[https://www.bbc.com/news/articles/cddn002g6qzo?at_medium=RSS&at_campaign=rss][Trump's new world order has become real and Europe is having to adjust fast]]
 - [[https://www.bbc.com/news/articles/c3rzwe7lr4jo?at_medium=RSS&at_campaign=rss][Bondi Beach shooting accused faces court for the first time]]
-- [[https://www.bbc.com/news/articles/cz7genjx9njo?at_medium=RSS&at_campaign=rss][US attorney general criticised after saying all Epstein files have been released]]
-- [[https://www.bbc.com/news/articles/c4g5380xwqjo?at_medium=RSS&at_campaign=rss][Ukraine's ex-energy minister detained while attempting to leave country]]
+- [[https://www.bbc.com/news/articles/c5yrv2g16e2o?at_medium=RSS&at_campaign=rss]['It's never too late': Savannah Guthrie's new plea for mother's release as FBI analyses glove]]
+- [[https://www.bbc.com/news/articles/c62d6pzpw6yo?at_medium=RSS&at_campaign=rss][Pressure grows for release of remaining Venezuelan political prisoners]]
 
 *** The Guardian
 
@@ -141,19 +142,19 @@
 
 *** Der Spiegel
 
+- [[https://www.spiegel.de/international/europe/gisele-pelicot-after-the-rape-trial-i-now-allow-myself-to-be-happy-again-a-3d0a230e-585e-4c23-a55d-5e7c07036cd6#ref=rss][Gisèle Pelicot After the Rape Trial: "I Now Allow Myself to Be Happy Again"]]
 - [[https://www.spiegel.de/international/europe/ongoing-interactions-with-sailing-vessels-the-mysterious-behavior-of-the-orcas-of-gibraltar-a-90ba9c63-acd5-43f1-95c8-cef377bf6a19#ref=rss][Ongoing Interactions with Sailing Vessels: The Mysterious Behavior of the Orcas of Gibraltar]]
 - [[https://www.spiegel.de/international/business/veering-to-the-right-in-silicon-valley-the-two-faces-of-mark-zuckerberg-a-b1dc8d4d-7be1-40c3-b45f-ecb36eeb4204#ref=rss][Veering to the Right in Silicon Valley: The Two Faces of Mark Zuckerberg]]
 - [[https://www.spiegel.de/international/zeitgeist/injections-makeup-stress-the-new-religion-of-beauty-a-37cdcea5-d847-44f2-aa49-847e10c2c1d0#ref=rss][Injections, Makeup, Stress: The New Religion of Beauty]]
 - [[https://www.spiegel.de/international/world/former-u-s-security-adviser-john-bolton-we-have-passed-peak-trump-a-f7758dba-db37-4e53-9944-5437b40fcef2#ref=rss][Former U.S. Security Adviser John Bolton: "We Have Passed Peak Trump"]]
-- [[https://www.spiegel.de/international/europe/former-austrian-chancellor-sebastian-kurz-an-alliance-of-the-illiberal-right-with-tech-a-ca32e983-6ef8-49c0-8ccf-f34d74f0ade8#ref=rss][Former Austrian Chancellor Sebastian Kurz: An Alliance of the Illiberal Right with Tech?]]
 
 *** Deutsche Welle
 
-- [[https://www.dw.com/en/france-macron-s-pro-business-agenda-hit-by-budget-chaos/a-75895518?maca=en-rss-en-world-4025-rdf][France: Macron's pro-business agenda hit by budget chaos]]
-- [[https://www.dw.com/en/no-regrets-belarusian-activist-talks-exile-in-germany/a-75972919?maca=en-rss-en-world-4025-rdf]['No regrets.' Belarusian activist talks exile in Germany]]
-- [[https://www.dw.com/en/german-and-uk-military-chiefs-state-case-for-rearming/a-75983486?maca=en-rss-en-world-4025-rdf][German and UK military chiefs state case for rearming]]
-- [[https://www.dw.com/en/hungary-magyar-launches-anti-orban-election-campaign/a-75982549?maca=en-rss-en-world-4025-rdf][Hungary: Magyar launches anti-Orban election campaign]]
-- [[https://www.dw.com/en/trump-board-of-peace-backers-pledge-5-billion-for-gaza/a-75982195?maca=en-rss-en-world-4025-rdf][Trump: 'Board of Peace' backers pledge $5 Billion for Gaza]]
+- [[https://www.dw.com/en/will-europe-move-to-boost-diplomacy-with-russia/a-75989739?maca=en-rss-en-world-4025-rdf][Will Europe move to boost diplomacy with Russia?]]
+- [[https://www.dw.com/en/ukraine-former-energy-minister-accused-of-money-laundering/a-75993356?maca=en-rss-en-world-4025-rdf][Ukraine: Former energy minister accused of money laundering]]
+- [[https://www.dw.com/en/cambodia-hopes-french-maps-will-vindicate-it-in-thai-row/a-75991904?maca=en-rss-en-world-4025-rdf][Cambodia hopes French maps will vindicate it in Thai row]]
+- [[https://www.dw.com/en/obama-clarifies-his-they-re-real-podcast-comment-on-aliens/a-75991421?maca=en-rss-en-world-4025-rdf][Obama clarifies his 'they're real' podcast comment on aliens]]
+- [[https://www.dw.com/en/rubio-praises-orban-and-hungary-ahead-of-crunch-election/a-75991053?maca=en-rss-en-world-4025-rdf][Rubio praises Orban and Hungary ahead of crunch election]]
 
 
 * 🧠 Think Tanks
