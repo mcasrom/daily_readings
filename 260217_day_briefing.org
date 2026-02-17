@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 40.8°C | ⚖ Load: 0.24 | 🌐 Ping: 13.1ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 40.8°C | ⚖ Load: 0.00 | 🌐 Ping: 9.11ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,87 +41,89 @@
 
 *** El País
 
-- [[https://elpais.com/economia/2026-02-16/sanchez-carga-contra-la-patronal-por-rechazar-la-subida-del-salario-minimo-y-reclama-un-incremento-de-las-retribuciones-que-paguen-mas.html][Sánchez carga contra la patronal por rechazar la subida del salario mínimo y reclama a las empresas que suban los sueldos: “Que paguen más”]]
-- [[https://elpais.com/espana/2026-02-16/las-fuerzas-de-izquierdas-reciben-con-division-los-primeros-dos-actos-por-la-unidad.html][Las fuerzas de izquierdas reciben con división los primeros dos actos por la unidad]]
-- [[https://elpais.com/espana/2026-02-16/genova-a-guardiola-sobre-la-negociacion-extremena-sobra-ruido-y-falta-trabajo-serio-alrededor-de-una-mesa.html][Génova, a Guardiola sobre la negociación extremeña: “Sobra ruido y falta trabajo serio alrededor de una mesa”]]
-- [[https://elpais.com/internacional/2026-02-16/rubio-exhibe-en-budapest-el-claro-apoyo-de-ee-uu-a-orban-ante-las-elecciones-de-abril.html][Rubio exhibe en Budapest el claro apoyo de EE UU a Orbán ante las elecciones de abril]]
-- [[https://elpais.com/america-colombia/2026-02-16/una-congresista-colombiana-afin-a-trump-denuncia-el-arresto-de-su-hijo-por-el-ice-lleva-20-dias-encadenado.html][Una congresista colombiana afín a Trump denuncia el arresto de su hijo por el ICE: “Lleva 20 días encadenado”]]
+- [[https://elpais.com/espana/madrid/2026-02-17/terremoto-en-la-educacion-madrilena-un-portavoz-del-pp-anuncia-su-marcha-y-adelanta-la-de-varios-directores-generales-del-gobierno-de-ayuso.html][La salida del consejero de Educación de Ayuso provoca una cascada de ceses y dimisiones]]
+- [[https://elpais.com/educacion/2026-02-17/la-complutense-disena-un-plan-de-desguace-en-tres-anos-limpia-de-profesores-menor-oferta-de-materias-y-de-titulaciones.html][La Complutense diseña un plan de choque en tres años: recortes en profesorado y menor oferta de materias y titulaciones]]
+- [[https://elpais.com/espana/catalunya/2026-02-16/cinco-personas-mueren-en-un-incendio-en-un-bloque-de-viviendas-en-manlleu-barcelona.html][Cinco jóvenes de entre 14 y 18 años mueren en un incendio en un bloque de viviendas en Manlleu (Barcelona)]]
+- [[https://elpais.com/espana/catalunya/2026-02-17/amigos-de-las-victimas-del-incendio-de-manlleu-es-una-maldita-desgracia.html][Amigos de las víctimas del incendio de Manlleu: “Es una maldita desgracia”]]
+- [[https://elpais.com/espana/madrid/2026-02-17/un-cargo-de-confianza-de-la-exconcejala-de-mostoles-dimite-por-compromiso-con-la-veracidad-y-coherencia.html][Un alto cargo del Ayuntamiento de Móstoles dimite por “la veracidad” de la denuncia de acoso contra el alcalde]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/02/16/69931870e85ece7f5b8b4582.html][Génova reprende a Guardiola por su falta de "discreción" en la negociación con Vox: "Hay que hacer menos ruido y trabajar más"]]
-- [[https://www.elmundo.es/economia/empresas/2026/02/16/698db8f3fdddff3e3e8b459d.html][Transportes da permiso a las empresas ferroviarias para volver a circular entre Madrid y Sevilla tras el accidente de Adamuz]]
-- [[https://www.elmundo.es/cataluna/2026/02/16/69930311fc6c83d96a8b4584.html][Oriol Junqueras desautoriza a Gabriel Rufián, que no lo ha invitado a su acto: "ERC se presentará en Cataluña y no dirá a un partido de otro país cómo debe presentarse"]]
-- [[https://www.elmundo.es/cronica/2026/02/16/698f9991fdddfffc058b459e.html][Los españoles en la 'lista negra' del ICE de Donald Trump: vídeos en las duchas de la universidad, drogas, criptomonedas y asesinatos que no lo fueron]]
-- [[https://www.elmundo.es/economia/macroeconomia/2026/02/16/6992f950fc6c83d96a8b4574.html][Sánchez reprocha a la patronal su ausencia en la firma del SMI: "Les pido que paguen más. Que no digan que no se pueden subir sueldos si los beneficios crecen"]]
+- [[https://www.elmundo.es/andalucia/2026/02/17/69946ac4e4d4d88c788b4586.html][La UCO detiene al que fuera jefe de gabinete del delegado del Gobierno en Andalucía por un presunto pelotazo urbanístico]]
+- [[https://www.elmundo.es/madrid/2026/02/17/699473b4e4d4d87e688b45c8.html][Dimiten tres portavoces del PP en la Asamblea y dos altos cargos de Educación tras la destitución de Emilio Viciana como consejero]]
+- [[https://www.elmundo.es/espana/2026/02/17/69942d86fc6c83d1098b4579.html][Junts evita sumarse a Vox y PP y registra una iniciativa propia para prohibir el burka y el niqab: "Invisibiliza" a la mujer y la convierte en una "presencia negada y condicionada"]]
+- [[https://www.elmundo.es/cataluna/2026/02/17/699473af21efa03b408b4599.html][Así fue el incendio mortal de Manlleu: la investigación apunta a una intoxicación por humo de los jóvenes tras arder con rapidez un objeto en un trastero cerrado]]
+- [[https://www.elmundo.es/espana/2026/02/17/69944cece85ecea41b8b45a4.html][Felipe VI celebra la "clave" de la Constitución española más longeva: "No fue la voluntad de una parte de la sociedad contra otra", y pide "cumplirla" como mejor "homenaje"]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/economia/20260216/11467856/fondo-soberano-ofrece-quitas-30-creditos-construir-vivienda-asequible.html][El fondo soberano ofrece quitas de hasta el 30% en los créditos para construir vivienda asequible]]
-- [[https://www.lavanguardia.com/economia/20260216/11467435/nuevo-fondo-soberano-movilizara-23-000-millones-construir-vivienda-asequible.html][El nuevo fondo soberano movilizará 23.000 millones para construir vivienda asequible]]
-- [[https://www.lavanguardia.com/economia/20260216/11467753/claves-subida-smi-1-221-euros-mes.html][El salario mínimo sube a 1.221 euros: ¿quién y cómo se cobrará?]]
-- [[https://www.lavanguardia.com/economia/20260216/11467581/diaz-firma-sindicatos-subida-smi-presencia-sanchez.html][Díaz firma con los sindicatos la subida del SMI, con la presencia de Sánchez]]
-- [[https://www.lavanguardia.com/politica/20260216/11467328/illa-promete-compromisos-reales-reforzar-servicios-publicos.html][Illa ofrece “compromisos reales” para reforzar los servicios públicos]]
+- [[https://www.lavanguardia.com/local/osona/20260217/11468093/mueren-cinco-personas-incendio-bloque-pisos-manlleu.html][Cinco adolescentes mueren en el incendio de un trastero en una azotea en Manlleu]]
+- [[https://www.lavanguardia.com/local/barcelona/20260217/11468582/conmocion-instituto-manlleu-iban-cuatro-adolescentes-fallecidos.html][Conmoción en el instituto de Manlleu al que iban cuatro de los adolescentes fallecidos]]
+- [[https://www.lavanguardia.com/local/osona/20260217/11468393/asi-local-manlleu-incendiado-han-muerto-cinco-adolescentes.html][Así era el trastero de Manlleu del que no pudieron escapar los cinco jóvenes]]
+- [[https://www.lavanguardia.com/local/catalunya/20260217/11468661/imagenes-incendio-mortal-cuesta-vida-cinco-jovenes-manlleu.html][Imágenes | El incendio mortal cuesta la vida a cinco jóvenes en Manlleu]]
+- [[https://www.lavanguardia.com/politica/20260217/11468580/rey-reivindica-vigencia-constitucion-mejor-manera-conmemorarla-cumplirla.html][El Rey apela al “espíritu de concordia” de la Constitución e insta a cumplirla]]
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/politica/gobierno-cantabria-pp-seguira-recurriendo-trasladado-menores-protegera-que-lleguen-region/20260216205134188704.html][El Gobierno de Cantabria (PP) seguirá recurriendo el trasladado de menores pero protegerá a los que lleguen a la región]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/112-gestiona-93-llamadas-42-incidencias-temporal-cantabria/20260216202732188703.html][El 112 gestiona 93 llamadas y 42 incidencias por el temporal en Cantabria]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/guia-repsol-reconoce-2-soles-bicicleta/20260216201543188701.html][Guía Repsol reconoce con 2 Soles a este restaurante cántabro]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/rios-cantabria-riesgo-tramos-pas-miera-ason-vigilancia-inundacion-aguera-samano-riesgo-importante/20260216200255188699.html][Los ríos de Cantabria, hasta arriba: tramos del Pas, Miera y Asón en vigilancia por inundación y el Agüera, en Sámano, en riesgo importante]]
-- [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/trotaritmos-ganan-concurso-disfraces-carnaval/20260216194904188697.html]['Los Trotaritmos' ganan el Concurso de Disfraces del Carnaval]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/pp-entrega-mcdonals-licencia-actividad-mercado-puertochico/20260217174640188729.html][El PP entrega a McDonals' la licencia de actividad en el mercado de Puertochico]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/vecinos-puertochico-mantienen-pulso-llegada-mcdonalds-aprobarse-licencia/20260217173304188728.html][Los vecinos de Puertochico mantienen el pulso contra la llegada de McDonald's tras aprobarse su licencia]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/rios-cantabria-vuelven-normalidad/20260217170954188727.html][Los ríos de Cantabria vuelven a la normalidad]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/denuncian-que-aprobacion-licencia-mcdonalds-mercado-puertochico-traiciona-proyecto-original-desoye-vecinos/20260217165752188726.html]["El PP ha ignorado el rechazo vecinal y ha priorizado un modelo comercial que rompe con la identidad del barrio"]]
+- [[https://eldiariocantabria.publico.es/articulo/politica/psoe-cantabria-respalda-mocion-censura-que-partido-reinosa-negocia-prc/20260217163648188725.html][El PSOE de Cantabria respalda la moción de censura que su partido en Reinosa "negocia" con PRC]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/02/17/iran-talks-geneva-nuclear-trump/][U.S. and Iran hold nuclear talks amid heavy military buildup]]
+- [[https://www.washingtonpost.com/world/2026/02/17/russia-ukraine-talks-geneva-impasse/][Russia presses demands, and faces pressure, as Ukraine talks move to Geneva]]
+- [[https://www.washingtonpost.com/politics/2026/02/17/epstein-files-resignations-investigations/][The Epstein files have brought a wave of resignations and investigations]]
 - [[https://www.washingtonpost.com/world/2026/02/16/iran-trump-nuclear-talks-protests-anger/][Popular anger burns in Iran after crackdown, as Trump turns up pressure]]
 - [[https://www.washingtonpost.com/national-security/2026/02/16/rubio-hungary-orban-trump/][Rubio lends hand to Hungary’s Orban as he faces tough election]]
-- [[https://www.washingtonpost.com/world/2026/02/16/ukraine-corruption-investigation-energy-minister/][Ukraine detains ex-energy minister as high-level corruption case widens]]
 
 *** WSJ.com: World News
 
-- [[https://www.wsj.com/world/americas/the-canada-school-shooting-touched-almost-everyone-at-a-u-s-backed-coal-company-fee34483][The Canada School Shooting Touched Almost Everyone at a U.S.-Backed Coal Company]]
-- [[https://www.wsj.com/politics/national-security/the-newest-old-tech-in-warfare-balloons-0966e9af][The Newest Old Tech in Warfare: Balloons]]
-- [[https://www.wsj.com/world/africa/millions-face-starvation-in-congo-their-new-rulers-are-to-blame-498c02db][Millions Face Starvation in Congo. Their New Rulers Are to Blame.]]
-- [[https://www.wsj.com/world/asia/a-defector-explains-the-remote-work-scam-helping-north-korea-pay-for-nukes-277fc94f][A Defector Explains the Remote-Work Scam Helping North Korea Pay for Nukes]]
-- [[https://www.wsj.com/world/europe/u-s-and-europe-no-longer-kindred-souls-enter-a-marriage-of-convenience-d76008d6][U.S. and Europe, No Longer Kindred Souls, Enter a Marriage of Convenience]]
+- [[https://www.wsj.com/world/middle-east/iran-pitches-new-ideas-in-nuclear-talksbut-not-the-one-that-matters-to-trump-6e297cf0][Iran’s Two-Pronged Approach to Trump: Concessions and Saber Rattling]]
+- [[https://www.wsj.com/world/india/india-seizes-sanctioned-shadow-fleet-tankers-amid-trade-thaw-with-u-s-af2b87e2][India Seizes Sanctioned Shadow Fleet Tankers Amid Trade Thaw With U.S.]]
+- [[https://www.wsj.com/world/europe/tour-guides-accused-of-scamming-the-louvre-out-of-12-million-f99fc9bd][Tour Guides Accused of Scamming the Louvre Out of $12 Million]]
+- [[https://www.wsj.com/world/asia/u-s-plans-to-deploy-more-missile-systems-in-the-philippines-challenging-china-d0f42427][U.S. Plans to Deploy More Missile Systems in the Philippines, Challenging China]]
+- [[https://www.wsj.com/world/uk/britains-monarchy-cant-escape-the-shadow-of-the-epstein-scandal-781cd6c0][Britain’s Monarchy Can’t Escape the Shadow of the Epstein Scandal]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/societe/article/2026/02/16/mort-de-quentin-deranque-dans-l-enquete-pour-homicide-volontaire-ouverte-a-lyon-six-auteurs-sont-activement-recherches_6667010_3224.html][Mort de Quentin Deranque : dans l’enquête pour « homicide volontaire » ouverte à Lyon, six auteurs sont activement recherchés]]
-- [[https://www.lemonde.fr/politique/article/2026/02/16/francois-fillon-se-desiste-de-son-pourvoi-dans-l-affaire-des-emplois-fictifs-de-son-epouse-sa-peine-devient-definitive_6666982_823448.html][François Fillon se désiste de son pourvoi dans l’affaire des emplois fictifs de son épouse, sa peine devient définitive]]
-- [[https://www.lemonde.fr/economie/article/2026/02/16/la-nouvelle-donne-de-l-automobile-americaine-apres-la-bombe-trump_6666907_3234.html][Le coûteux chamboule-tout de l’automobile américaine après la bombe Trump]]
-- [[https://www.lemonde.fr/sciences/article/2026/02/16/une-tumeur-vasculaire-agressive-soignee-par-une-therapie-prenatale_6667003_1650684.html][Un bébé soigné in utero pour une tumeur vasculaire rare, une première]]
-- [[https://www.lemonde.fr/sport/article/2026/02/16/ski-alpin-aux-jo-2026-la-suisse-rayonne-et-la-france-ne-fait-pas-rever-grand-monde-au-slalom-comme-dans-les-autres-epreuves_6666999_3242.html][Ski alpin aux JO 2026 : la Suisse rayonne et la France « ne fait pas rêver grand monde », au slalom comme dans les autres épreuves]]
+- [[https://www.lemonde.fr/societe/article/2026/02/17/terrorisme-islamiste-le-suivi-des-sortants-de-prison-au-centre-des-preoccupations-de-la-justice_6667030_3224.html][Terrorisme islamiste : les données inédites du parquet illustrent le difficile suivi des djihadistes à leur sortie de prison]]
+- [[https://www.lemonde.fr/politique/article/2026/02/17/la-jeune-garde-groupuscule-antifasciste-dans-le-viseur-des-autorites_6667033_823448.html][La Jeune Garde, groupuscule antifasciste dans le viseur des autorités]]
+- [[https://www.lemonde.fr/international/article/2026/02/17/l-iran-et-les-etats-unis-sont-convenus-de-principes-directeurs-pour-un-accord-annoncent-les-iraniens_6667130_3210.html][L’Iran et les Etats-Unis sont convenus de « principes directeurs » pour un accord, annoncent les Iraniens]]
+- [[https://www.lemonde.fr/international/live/2026/02/17/en-direct-guerre-en-ukraine-debut-des-discussions-a-geneve-entre-les-negociateurs-russes-ukrainiens-et-americains_6666820_3210.html][EN DIRECT, guerre en Ukraine : début des discussions à Genève entre les négociateurs russes, ukrainiens et américains]]
+- [[https://www.lemonde.fr/sport/live/2026/02/17/en-direct-jo-2026-les-bleus-du-biathlon-champions-olympiques-en-relais-la-france-bat-son-record-de-medailles-aux-jeux-d-hiver_6667061_3242.html][EN DIRECT, JO 2026 : les Bleus du biathlon champions olympiques en relais, la France bat son record de médailles aux Jeux d’hiver]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/faits-divers/mort-de-quentin-deranque-a-lyon-le-recit-minute-par-minute-d-un-lynchage-qui-choque-la-france-20260216][Mort de Quentin Deranque à Lyon : le récit minute par minute d’un lynchage qui choque la France]]
-- [[https://www.lefigaro.fr/faits-divers/traumatisme-cranien-majeur-pas-d-interpellation-ce-qu-il-faut-retenir-de-la-conference-du-procureur-de-lyon-apres-la-mort-de-quentin-20260216][Traumatisme crânien «majeur», homicide volontaire... Ce qu’il faut retenir de la conférence du procureur de Lyon après la mort de Quentin]]
-- [[https://www.lefigaro.fr/lyon/le-debat-n-est-plus-possible-a-sciences-po-lyon-l-ultragauche-dicte-sa-loi-20260216][« Le débat n’est plus possible » : à Sciences Po Lyon, l’ultragauche dicte sa loi]]
-- [[https://www.lefigaro.fr/lyon/en-direct-mort-quentin-lyon-ultragauche-militant-nationaliste-agression-lynchage-la-france-insoumise-20260216][EN DIRECT - Mort de Quentin Deranque à Lyon : une enquête pour homicide volontaire et violence aggravée ouverte, aucune interpellation à ce stade]]
-- [[https://www.lefigaro.fr/actualite-france/catholique-et-identitaire-qui-etait-quentin-deranque-lynche-pour-ses-idees-20260216][Catholique et identitaire, qui était Quentin Deranque, lynché pour ses idées ?]]
+- [[https://www.lefigaro.fr/politique/le-vrai-remaniement-est-a-l-elysee-a-un-an-de-la-fin-de-son-mandat-chambardements-en-vue-dans-l-etat-major-d-emmanuel-macron-20260217][« Le vrai remaniement est à l’Élysée » : à un an de la fin de son mandat, chambardements en vue dans l’état-major d’Emmanuel Macron]]
+- [[https://www.lefigaro.fr/sports/jeux-olympiques/en-direct-jo-2026-les-bleus-du-biathlon-en-quete-d-or-le-combine-nordique-pour-lancer-la-journee-les-hockeyeurs-francais-pour-un-exploit-suivez-la-journee-olympique-20260217][EN DIRECT - JO 2026 : les Bleus décrochent l’or sur le relais hommes du biathlon et offrent à la France un record historique de médailles]]
+- [[https://www.lefigaro.fr/sports/jeux-olympiques/jo-2026-grandioses-les-bleus-decrochent-l-or-en-biathlon-la-france-bat-son-record-historique-de-medailles-20260217][JO 2026 : grandioses, les Bleus décrochent l’or en biathlon, la France bat son record historique de médailles]]
+- [[https://www.lefigaro.fr/sports/jeux-olympiques/jo-2026-relais-magique-de-jacquelin-final-epoustouflant-de-perrot-en-video-le-triomphe-des-biathletes-francais-medailles-d-or-20260217][JO 2026 : relais magique de Jacquelin, final époustouflant de Perrot ... En vidéo, la course héroïque des biathlètes français médaillés d’or]]
+- [[https://www.lefigaro.fr/sports/jeux-olympiques/trac-stress-tension-equilibre-dans-la-tete-des-athletes-au-depart-de-leur-defi-olympique-20260216][Trac, stress, tension, équilibre... Dans la tête des athlètes au départ de leur défi olympique]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/c1d64p3q2d0o?at_medium=RSS&at_campaign=rss][US build-up of warships and fighter jets tracked near Iran]]
-- [[https://www.bbc.com/news/articles/cv2grggdzweo?at_medium=RSS&at_campaign=rss][How Robert Duvall became a Hollywood great]]
-- [[https://www.bbc.com/news/articles/cx2gn239exlo?at_medium=RSS&at_campaign=rss][How dark web agent spotted bedroom wall clue to rescue girl from years of harm]]
-- [[https://www.bbc.com/news/articles/cvg5ed05pplo?at_medium=RSS&at_campaign=rss][Australian IS families in Syria camp turned back after leaving for home]]
-- [[https://www.bbc.com/news/articles/cq6qg6l31l3o?at_medium=RSS&at_campaign=rss][Navalny's mother says she always knew he was murdered after poison finding]]
+- [[https://www.bbc.com/news/articles/c75e7wqqq6no?at_medium=RSS&at_campaign=rss][Police identify suspect in Rhode Island ice rink shooting]]
+- [[https://www.bbc.com/news/articles/cqxd9549y4xo?at_medium=RSS&at_campaign=rss][Facing a demographic catastrophe, Ukraine is paying for troops to freeze their sperm]]
+- [[https://www.bbc.com/news/articles/cge812y2549o?at_medium=RSS&at_campaign=rss][Third round of Russia-Ukraine talks starts in Geneva as strikes continue]]
+- [[https://www.bbc.com/news/articles/c8xy4dl2xwgo?at_medium=RSS&at_campaign=rss][France releases suspected Russian 'shadow fleet' tanker after fine paid]]
+- [[https://www.bbc.com/news/articles/czx47k34yqxo?at_medium=RSS&at_campaign=rss][Hillary Clinton accuses Trump administration of Epstein files 'cover-up' in BBC interview]]
 
 *** The Guardian
 
+- [[https://www.theguardian.com/world/2026/feb/17/trim-slugs-to-kenya-authorities-israel-tech-crack-activists-phone-report][Kenyan authorities used Israeli tech to crack activist’s phone, report claims]]
 - [[https://www.theguardian.com/news/audio/2026/feb/16/how-an-undercover-cop-foiled-an-is-plot-to-massacre-britains-jews-podcast][How an undercover cop foiled an IS plot to massacre Britain’s Jews – podcast]]
 - [[https://www.theguardian.com/world/2026/feb/14/assailants-kill-raids-northwest-nigeria-villages-residents-say][Assailants kill at least 32 in north-west Nigerian villages, residents say]]
 - [[https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya][53 people dead or missing after migrant boat capsizes in Mediterranean]]
 - [[https://www.theguardian.com/music/2026/feb/09/ebo-taylor-ghanaian-highlife-pioneer-dies-age-90][Ebo Taylor, Ghanaian highlife pioneer and guitarist, dies age 90]]
-- [[https://www.theguardian.com/environment/2026/feb/09/weather-tracker-spain-and-portugal-hit-by-third-fatal-storm][Weather tracker: Spain and Portugal hit by third deadly storm in two weeks]]
 
 ** 🇮🇹 Italia
 
@@ -149,11 +151,11 @@
 
 *** Deutsche Welle
 
-- [[https://www.dw.com/en/france-opens-murder-probe-into-right-wing-activist-s-death/a-75995188?maca=en-rss-en-world-4025-rdf][France opens murder probe into right-wing activist's death]]
-- [[https://www.dw.com/en/austria-files-terror-charges-in-alleged-taylor-swift-concert-plot/a-75995128?maca=en-rss-en-world-4025-rdf][Austria files terror charges in alleged Taylor Swift concert plot]]
-- [[https://www.dw.com/en/where-do-the-us-and-israel-differ-on-iran-strategy/a-75993517?maca=en-rss-en-world-4025-rdf][Where do the US and Israel differ on Iran strategy?]]
-- [[https://www.dw.com/en/will-europe-move-to-boost-diplomacy-with-russia/a-75989739?maca=en-rss-en-world-4025-rdf][Will Europe move to boost diplomacy with Russia?]]
-- [[https://www.dw.com/en/ukraine-former-energy-minister-accused-of-money-laundering/a-75993356?maca=en-rss-en-world-4025-rdf][Ukraine: Former energy minister accused of money laundering]]
+- [[https://www.dw.com/en/nigeria-investigates-temu-for-possible-data-privacy-breaches/a-76007400?maca=en-rss-en-world-4025-rdf][Nigeria investigates Temu for possible data privacy breaches]]
+- [[https://www.dw.com/en/ceasefire-in-eastern-dr-congo-chance-for-peace/a-76002969?maca=en-rss-en-world-4025-rdf][Ceasefire in eastern DR Congo: Chance for peace?]]
+- [[https://www.dw.com/en/spain-to-investigate-big-tech-over-ai-child-abuse-imagery/a-76002528?maca=en-rss-en-world-4025-rdf][Spain to investigate big tech over AI child abuse imagery]]
+- [[https://www.dw.com/en/spain-five-young-people-killed-in-catalonia-building-fire/a-75999779?maca=en-rss-en-world-4025-rdf][Spain: Five young people killed in Catalonia building fire]]
+- [[https://www.dw.com/en/us-iran-hold-high-level-talks-on-tehran-s-nuclear-program/a-75998258?maca=en-rss-en-world-4025-rdf][US, Iran hold high-level talks on Tehran's nuclear program]]
 
 
 * 🧠 Think Tanks
