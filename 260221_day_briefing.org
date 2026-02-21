@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 40.8°C | ⚖ Load: 0.00 | 🌐 Ping: 14.5ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 39.7°C | ⚖ Load: 0.00 | 🌐 Ping: 14.8ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,19 +49,19 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/economia/2026/02/20/6998b014e9cf4a2d798b45a6.html][Trump, enfurecido, arremete contra el Supremo por los aranceles: "Es profundamente decepcionante y me avergüenzo de ciertos jueces por no tener el coraje de hacer lo que es correcto" son "perros falderos"]]
-- [[https://www.elmundo.es/economia/2026/02/20/69987d39e85ece5d7b8b45a5.html][El Tribunal Supremo tumba los aranceles de Trump al considerar que se extralimitó en sus competencias]]
-- [[https://www.elmundo.es/economia/2026/02/20/69989f86e85ece65308b4589.html][El Parlamento Europeo ataca a Trump después de que el Supremo tumbe sus aranceles: "Ni siquiera un presidente de EEUU actúa en un vacío legal"]]
-- [[https://www.elmundo.es/internacional/2026/02/20/6998ac3ee9cf4a30658b459b.html][Las nuevas y comprometedoras fotos del ex príncipe Andrés: jugando con un misterioso niño y una pelota con un pezón]]
-- [[https://www.elmundo.es/internacional/2026/02/20/6998297221efa0f0088b4573.html][La Policía registra la antigua casa del ex príncipe Andrés en Windsor]]
+- [[https://www.elmundo.es/economia/2026/02/20/6998ce31e9cf4abe488b459e.html]['Pato cojo': la pérdida de control del Congreso y el movimiento MAGA explican la ira de Trump contra el Tribunal Supremo más que los aranceles]]
+- [[https://www.elmundo.es/economia/2026/02/20/6998a007e9cf4a57148b4578.html][Victoria institucional, mayor incertidumbre económica con un Trump desatado]]
+- [[https://www.elmundo.es/espana/2026/02/20/6998aef3e85ece5b028b45a8.html][Denuncia unánime de las mujeres en la Policía: "Los protocolos no funcionan cuando se denuncia a un mando; hay miedo, acaba en bajas psicológicas..."]]
+- [[https://www.elmundo.es/espana/2026/02/20/6996f6bee9cf4a6b3f8b4586.html][El PSOE confirma sus temores: ve desmovilizados también a sus votantes en Andalucía y Castilla y León]]
+- [[https://www.elmundo.es/espana/2026/02/20/69988897e4d4d843568b45a0.html][La 'rebelión fundacional' de Ortega Smith le estalla a Abascal justo antes de la campaña electoral más difícil]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/economia/20260220/11471598/tribunal-supremo-ee-uu-considera-ilegales-aranceles-globales-trump.html][Trump anuncia un arancel global del 10% tras anular el Tribunal Supremo sus gravámenes]]
+- [[https://www.lavanguardia.com/economia/20260221/11471830/tribunal-supremo-ee-uu-considera-ilegales-aranceles-globales-trump.html][Trump decreta un nuevo arancel global del 10% tras anular el Tribunal Supremo sus gravámenes]]
 - [[https://www.lavanguardia.com/economia/20260220/11471691/tribunal-supremo-desmonta-proteccionismo-trump-que-pasar-partir.html][Por qué el Tribunal Supremo desmonta el proteccionismo de Trump (y qué puede pasar a partir de ahora)]]
 - [[https://www.lavanguardia.com/internacional/20260220/11471733/trump-reconoce-sopesa-ataque-limitado-iran-forzar-ayatolas-acuerdo.html][Trump sopesa un ataque limitado a Irán para forzar a los ayatolás a un acuerdo]]
-- [[https://www.lavanguardia.com/politica/20260220/11471295/illa-reafirma-compromiso-gestion-irpf-desbloquear-negociacion-presupuestos-erc.html][Illa se compromete con la gestión del IRPF para atraer a ERC]]
-- [[https://www.lavanguardia.com/politica/20260220/11471550/foment-tilda-filocomunista-acuerdo-presupuestos-illa-comuns.html][Foment tilda de “filocomunista” el acuerdo de presupuestos de Illa con Comuns]]
+- [[https://www.lavanguardia.com/internacional/20260221/11471808/carlos-iii-establece-cordon-sanitario-exprincipe-andres-salvar-monarquia.html][Carlos III establece un cordón sanitario con el expríncipe Andrés para “salvar la monarquía”]]
+- [[https://www.lavanguardia.com/opinion/20260221/11471827/epstein-mas-sexo.html][Epstein, algo más que sexo]]
 
 *** El Diario de Cantabria
 
@@ -83,17 +83,17 @@
 
 *** WSJ.com: World News
 
-- [[https://www.wsj.com/world/americas/venezuela-approves-amnesty-for-political-prisoners-but-many-wont-benefit-a039d850][Venezuela Approves Amnesty for Political Prisoners, But Many Won’t Benefit]]
-- [[https://www.wsj.com/world/middle-east/u-s-intelligence-says-at-least-15-000-at-large-after-isis-detention-camp-collapses-in-syria-3ede991b][U.S. Intelligence Says at Least 15,000 at Large After ISIS Detention Camp Collapses in Syria]]
-- [[https://www.wsj.com/world/africa/u-s-immigration-deportees-held-in-secret-african-detention-facility-858b1721][U.S. Immigration Deportees Held in Secret African Detention Facility]]
-- [[https://www.wsj.com/world/middle-east/trump-hints-at-10-day-window-for-decision-on-iran-6370e477][Trump Weighs Initial Limited Strike to Force Iran Into Nuclear Deal]]
-- [[https://www.wsj.com/world/india/u-s-builds-tech-bloc-to-counter-china-adds-india-as-newest-member-44afdc60][U.S. Builds Tech Bloc to Counter China, Adds India as Newest Member]]
+- [[https://www.wsj.com/world/forget-greenland-this-arctic-nato-island-already-has-a-russian-presence-bbb19d13][Forget Greenland: This Arctic NATO Island Already Has a Russian Presence]]
+- [[https://www.wsj.com/world/americas/canada-certifies-gulfstream-jets-following-trumps-threats-0edf48ba][Canada Certifies Gulfstream Jets Following Trump’s Threats]]
+- [[https://www.wsj.com/politics/policy/trumps-new-trade-agenda-is-on-a-collision-course-with-midterms-ac79560e][Trump’s New Trade Agenda Is on a Collision Course With Midterms]]
+- [[https://www.wsj.com/world/uk/how-former-prince-andrews-trade-envoy-role-sowed-the-seeds-of-his-downfall-63d12854][How Former Prince Andrew’s Trade-Envoy Role Sowed the Seeds of His Downfall]]
+- [[https://www.wsj.com/world/americas/venezuela-approves-amnesty-for-political-prisoners-but-many-wont-benefit-a039d850][Venezuela Approves Amnesty for Political Prisoners, but Many Won’t Benefit]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/economie/article/2026/02/20/droits-de-douane-la-grande-gifle-de-la-cour-supreme-a-donald-trump_6667599_3234.html][Droits de douane : la grande gifle de la Cour suprême à Donald Trump]]
+- [[https://www.lemonde.fr/economie/article/2026/02/21/apres-la-decision-de-la-cour-supreme-sur-les-droits-de-douane-le-monde-a-nouveau-plonge-dans-l-incertitude_6667655_3234.html][Après la décision de la Cour suprême sur les droits de douane, le monde à nouveau plongé dans l’incertitude]]
 - [[https://www.lemonde.fr/international/article/2026/02/20/au-sein-de-l-armee-russe-les-annulations-ou-executions-sommaires-de-militaires-recalcitrants_6667607_3210.html][Au sein de l’armée russe, les « annulations » ou exécutions sommaires de militaires récalcitrants]]
 - [[https://www.lemonde.fr/societe/article/2026/02/20/quand-un-conseiller-elyseen-de-nicolas-sarkozy-rencontrait-epstein-avenue-foch-a-paris-un-soir-de-2011_6667624_3224.html][Quand un conseiller élyséen de Nicolas Sarkozy rencontrait Epstein, avenue Foch à Paris, un soir de 2011]]
 - [[https://www.lemonde.fr/societe/article/2026/02/20/a-lyon-une-marche-en-hommage-a-quentin-deranque-sous-haute-surveillance_6667634_3224.html][A Lyon, une marche en hommage à Quentin Deranque sous haute surveillance]]
@@ -111,11 +111,11 @@
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/cx2jqgdn719o?at_medium=RSS&at_campaign=rss][Tariffs ruling is major blow to Trump's second-term agenda]]
+- [[https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&at_campaign=rss][Trump brings in new 10% tariff as Supreme Court rejects his global import taxes]]
+- [[https://www.bbc.com/news/articles/cd9g0e7zd8wo?at_medium=RSS&at_campaign=rss][Trump lashes out at Supreme Court justices over tariffs ruling]]
 - [[https://www.bbc.com/news/articles/cdxzk4gvzp0o?at_medium=RSS&at_campaign=rss][Trump says he is considering limited military strike on Iran]]
+- [[https://www.bbc.com/news/articles/cnv61zv534eo?at_medium=RSS&at_campaign=rss][Killing of nationalist student leaves French far left in deep trouble as elections loom]]
 - [[https://www.bbc.com/news/articles/c86y1g6wde3o?at_medium=RSS&at_campaign=rss][Nasa targets early March to send humans back around the Moon]]
-- [[https://www.bbc.com/news/articles/c0k1xkllknmo?at_medium=RSS&at_campaign=rss][Austrian climber found guilty after girlfriend froze to death on mountain]]
-- [[https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss][Asos co-founder dies after Thailand apartment block fall]]
 
 *** The Guardian
 
@@ -151,11 +151,11 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/israel-says-it-hit-hezbollah-sites-in-eastern-lebanon/a-76068525?maca=en-rss-en-world-4025-rdf][Israel says it hit Hezbollah sites in eastern Lebanon]]
+- [[https://www.dw.com/en/trump-ends-some-tariffs-imposes-new-10-global-one/a-76063714?maca=en-rss-en-world-4025-rdf][Trump ends some tariffs, imposes new 10% global one]]
+- [[https://www.dw.com/en/hungary-threatens-veto-of-€90-billion-eu-loan-to-ukraine/a-76067806?maca=en-rss-en-world-4025-rdf][Hungary threatens veto of €90 billion EU loan to Ukraine]]
 - [[https://www.dw.com/en/ethiopia-faces-renewed-strain-with-tigray-and-eritrea/a-76056011?maca=en-rss-en-world-4025-rdf][Ethiopia faces renewed strain with Tigray and Eritrea]]
 - [[https://www.dw.com/en/belarus-opposition-figure-urges-eu-dialogue-with-lukashenko/a-76065645?maca=en-rss-en-world-4025-rdf][Belarus opposition figure urges EU dialogue with Lukashenko]]
-- [[https://www.dw.com/en/berlinale-african-films-brings-messages-of-peace-and-tolerance/a-76056534?maca=en-rss-en-world-4025-rdf][Berlinale: African films brings messages of peace and tolerance]]
-- [[https://www.dw.com/en/us-supreme-court-strikes-down-trump-s-sweeping-tariffs/a-76063714?maca=en-rss-en-world-4025-rdf][US Supreme Court strikes down Trump's sweeping tariffs]]
-- [[https://www.dw.com/en/india-s-ai-governance-push-takes-center-stage-at-summit/a-76058826?maca=en-rss-en-world-4025-rdf][India's AI governance push takes center stage at summit]]
 
 
 * 🧠 Think Tanks
