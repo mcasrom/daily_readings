@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 39.7°C | ⚖ Load: 0.00 | 🌐 Ping: 14.4ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 39.7°C | ⚖ Load: 0.00 | 🌐 Ping: 14.6ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,81 +41,81 @@
 
 *** El País
 
-- [[https://elpais.com/us/2026-02-25/el-discurso-del-estado-de-la-union-de-trump-2026-en-vivo.html][El discurso del estado de la Unión, en vivo | Trump ataca a demócratas y migrantes y ratifica su política arancelaria en dos horas de discurso]]
-- [[https://elpais.com/us/migracion/2026-02-25/trump-el-primer-deber-del-gobierno-es-proteger-a-los-ciudadanos-estadounidenses-no-a-los-inmigrantes-ilegales.html][Trump: “El primer deber del Gobierno es proteger a los ciudadanos estadounidenses, no a los inmigrantes ilegales”]]
-- [[https://elpais.com/mexico/2026-02-25/trump-adjudica-a-estados-unidos-la-caida-del-mencho.html][Trump adjudica a Estados Unidos la caída del Mencho]]
-- [[https://elpais.com/espana/2026-02-24/la-declaracion-del-conductor-del-iryo-note-tirones-y-el-cable-de-la-catenaria-se-movio.html][La declaración del conductor del Iryo del accidente en Adamuz: “Noté tirones y el cable de la catenaria se movió”]]
-- [[https://elpais.com/espana/comunidad-valenciana/2026-02-24/la-jueza-de-la-dana-da-el-primer-paso-para-investigar-a-carlos-mazon.html][La jueza de la dana pide imputar a Mazón por su “grosera negligencia” en la tragedia]]
+- [[https://elpais.com/us/2026-02-25/trump-defiende-su-vision-excluyente-de-ee-uu-y-ataca-a-los-democratas-en-el-discurso-del-estado-de-la-union-mas-largo-de-la-historia.html][Trump exagera sus logros y ataca a los demócratas en el discurso del estado de la Unión más largo de la historia]]
+- [[https://elpais.com/us/2026-02-25/records-gritos-y-jugadores-de-hockey-claves-del-discurso-del-estado-de-la-union-de-trump.html][Récords, gritos y jugadores de hockey: claves del discurso del estado de la Unión de Trump]]
+- [[https://elpais.com/us/2026-02-25/verificacion-de-datos-11-bulos-y-exageraciones-de-trump-durante-el-discurso-del-estado-de-la-union.html][Verificación de datos: 11 bulos y exageraciones de Trump durante el discurso del estado de la Unión]]
+- [[https://elpais.com/espana/2026-02-25/una-segunda-mujer-denuncia-a-inigo-errejon-por-agresion-sexual.html][Una segunda mujer denuncia a Íñigo Errejón por agresión sexual]]
+- [[https://elpais.com/espana/2026-02-25/el-origen-y-los-socios-de-analisis-relevante-la-empresa-investigada-en-el-caso-plus-ultra-para-la-que-trabajo-zapatero.html][El origen y los socios de Análisis Relevante, la empresa investigada en el ‘caso Plus Ultra’ para la que trabajó Zapatero]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/02/24/699dee16fdddff773c8b45af.html][El giro del PP logra en 24 horas "conversaciones fluidas y continuas" con Vox]]
-- [[https://www.elmundo.es/espana/2026/02/24/699df59be85ece91308b4588.html][Moncloa espera beneficiarse de la negociación PP-Vox: "Feijóo no ha acertado y ha caído en las garras de Abascal"]]
+- [[https://www.elmundo.es/espana/2026/02/25/699ecc0be85ecea8508b459b.html][Moncloa llamó a Zarzuela para informar de la desclasificación de los documentos del 23-F]]
+- [[https://www.elmundo.es/espana/2026/02/25/699ea8ffe9cf4a894f8b457a.html][Feijóo se compromete a "desclasificar" la gestión de Sánchez cuando gobierne y el presidente le reprocha que haga "política para ultras"]]
 - [[https://www.elmundo.es/espana/2026/02/24/699df653e85ecebd548b4575.html][Anatomía de un desencuentro: Robles chocó con Moncloa por los papeles del 23-F y enfadó a Bolaños y Marlaska]]
 - [[https://www.elmundo.es/papel/historias/2026/02/24/699dc88dfc6c835c218b459e.html][El trabajo contrarreloj de los coordinadores de trasplantes: "Es duro ver a una madre llorando porque su hijo no puede vivir en otra persona"]]
 - [[https://www.elmundo.es/espana/2026/02/24/699df3dce9cf4af4288b459d.html][El autor real de los informes de Análisis Relevante cobró 36 veces menos que la familia Zapatero por darle ideas y maquetar los textos: "Cobré 18.000 euros en seis años"]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/local/valencia/20260224/11474315/jueza-dana-eleva-tsjcv-peticion-imputar-carlos-mazon.html][La jueza de la dana pide imputar a Carlos Mazón por homicidio imprudente]]
-- [[https://www.lavanguardia.com/politica/20260224/11474370/auto-jueza-dana-pide-imputar-carlos-mazon.html][El auto de la jueza de la dana con el que pide imputar a Carlos Mazón]]
-- [[https://www.lavanguardia.com/local/valencia/20260224/11474369/argumentos-jueza-imputar-carlos-mazon.html][“La emergencia se detuvo en el reservado del Ventorro”: los argumentos de la jueza contra Mazón]]
-- [[https://www.lavanguardia.com/politica/20260224/11474360/desclasificacion-23-f-suma-153-archivos-ministerios-exteriores-defensa-e-interior.html][El 23-F, desclasificado: 153 archivos de Exteriores, Defensa e Interior]]
+- [[https://www.lavanguardia.com/politica/20260225/11474975/desclasificacion-documentos-23-f-alimenta-agrio-choque-sanchez-feijoo.html][La desclasificación del 23-F alimenta un agrio choque entre Sánchez y Feijóo]]
+- [[https://www.lavanguardia.com/politica/20260225/11475021/23f-desclasificacion-documentos-golpe-estado-ultima-hora-archivos-boe-directo.html][Última hora de la publicación en el BOE de los documentos del 23-F, en directo]]
+- [[https://www.lavanguardia.com/politica/20260224/11474360/desclasificacion-23-f-suma-153-archivos-ministerios-exteriores-defensa-e-interior.html][La desclasificación del 23-F suma 153 archivos de los ministerios de Exteriores, Defensa e Interior]]
 - [[https://www.lavanguardia.com/politica/20260224/11473716/que-falta-23-f.html][¿Qué falta por saber del 23-F?]]
+- [[https://www.lavanguardia.com/politica/20260225/11474997/junts-rechaza-decreto-escudo-social-margen-negociacion.html][Junts rechaza apoyar el decreto del escudo social sin margen de negociación]]
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/valles-pasiegos/gobierno-impulsa-digitalizacion-rural-municipio-sistema-atencion-24-7-ia/20260224213254189060.html][El Gobierno impulsa la digitalización rural en el municipio con un sistema de atención 24/7 con IA]]
-- [[https://eldiariocantabria.publico.es/articulo/municipios/campana-promocion-turistica-internacional-municipio-alcanza-55-millones-impactos/20260224212230189058.html][La campaña de la promoción turística internacional del municipio alcanza 55 millones de impactos]]
-- [[https://eldiariocantabria.publico.es/articulo/saja-besaya/fomento-vuelve-licitar-cubricion-pista-deportiva-quintanilla/20260224211504189057.html][Fomento vuelve a licitar la cubrición de la pista deportiva de Quintanilla]]
-- [[https://eldiariocantabria.publico.es/articulo/torrelavega/ayuntamiento-cuenta-proyectos-renovacion-plaza-baldomero-iglesias-habana-vieja-complejo-oscar-freire/20260224210624189055.html][El Ayuntamiento cuenta ya con los proyectos de renovación de la plaza Baldomero Iglesias, La Habana Vieja y el complejo Óscar Freire]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/iu-defendera-abrir-trafico-arco-futuro-faro-santander-dar-soluciones-vecinos-servicios-como-tus/20260224205502189054.html][IU defenderá abrir el tráfico del arco del futuro Faro Santander o dar soluciones a los vecinos y servicios como el TUS]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/cantabria-humo-gobierno-cantabria-recomienda-uso-mascarilla-evitar-ejercicio-aire-libre/20260225114008189068.html][Cantabria bajo el humo: el Gobierno recomienda el uso de mascarilla y evitar el ejercicio al aire libre]]
+- [[https://eldiariocantabria.publico.es/articulo/politica/enuncia-pasividad-gobierno-pp-frente-incendios-forestales-limitan-lamentar-incendios-tratarlos-como-fueran-fenomeno-inevitable/20260225113010189066.html][Denuncian la pasividad del Gobierno del PP frente a los incendios forestales: “Se limitan a lamentar los incendios y tratarlos como si fueran un fenómeno inevitable”]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/suerte-sonrie-santander-acertante-bonoloto-lleva-61000-euros/20260225105329189065.html][La suerte sonríe a Santander: un acertante de la Bonoloto se lleva 61.000 euros]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/viento-sur-eleva-temperatura-cantabria/20260225102821189063.html][El viento sur eleva la temperatura de Cantabria]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/provocados-60-incendios-forestales-cantabria-24-horas-36-ellos-todavia-activos-miercoles/20260225101045189062.html][Provocados 60 incendios forestales en Cantabria en 24 horas, 36 de ellos todavía activos este miércoles]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/02/25/iran-strikes-venezuela-trump-protests-maduro/][Iranians eye Venezuela for hints of Trump’s next move]]
+- [[https://www.washingtonpost.com/national-security/2026/02/25/rubio-iran-caribbean/][Rubio heads to Caribbean as Trump’s Iran gambit nears tipping point]]
 - [[https://www.washingtonpost.com/national-security/2026/02/24/us-china-tariffs-trump-xi/][Trump tariff chaos gives Beijing a win before Xi meeting]]
 - [[https://www.washingtonpost.com/world/2026/02/24/russia-telegram-pavel-durov-investigation/][Russia opens probe of Telegram chief, claiming app has been used for terrorism]]
 - [[https://www.washingtonpost.com/world/2026/02/24/european-funding-ukraine-delayed-orban/][Hungary blocks Europe’s aid for Ukraine on war’s fourth anniversary]]
-- [[https://www.washingtonpost.com/politics/2026/02/17/epstein-files-resignations-investigations/][The Epstein files have brought a wave of resignations and investigations]]
-- [[https://www.washingtonpost.com/world/2026/02/24/ukraine-children-war-defense-russia/][As invasion enters fifth year, the children of Ukraine learn to fight back]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/americas/violent-militias-stand-between-the-u-s-and-venezuelas-vast-mineral-riches-74c578e6][Violent Militias Stand Between the U.S. and Venezuela’s Vast Mineral Riches]]
+- [[https://www.wsj.com/world/asia/kim-jong-un-is-greatest-person-in-the-world-says-north-korea-0554991a][Kim Jong Un Is ‘Greatest Person in the World,’ Says North Korea]]
 - [[https://www.wsj.com/world/germany-shows-how-difficult-it-is-to-rewire-relations-with-china-ae46ab0b][Germany Shows How Difficult It Is to Rewire Relations With China]]
 - [[https://www.wsj.com/world/americas/see-where-mexicos-cartels-are-in-control-9236c596][See Where Mexico’s Cartels Are in Control]]
 - [[https://www.wsj.com/world/europe/louvre-chief-steps-down-after-criticism-over-security-staffing-596dd3e6][Louvre Chief Steps Down After Criticism Over Security, Staffing]]
-- [[https://www.wsj.com/world/middle-east/tensions-rise-in-iran-as-protesters-face-off-with-regime-loyalists-32d97c99][Tensions Rise in Iran as Protesters Face Off With Regime Loyalists]]
-- [[https://www.wsj.com/world/the-greenlandic-bricklayer-behind-trumps-offer-to-send-a-hospital-ship-7b6451c1][The Greenlandic Bricklayer Behind Trump’s Plan to Send a Hospital Ship]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/politique/article/2026/02/25/presidentielle-2027-entre-le-camp-presidentiel-et-lr-l-impasse-d-une-candidature-commune_6668148_823448.html][Présidentielle 2027 : entre le camp présidentiel et LR, l’impasse d’une candidature commune]]
-- [[https://www.lemonde.fr/international/article/2026/02/25/donald-trump-vante-un-redressement-historique-des-etats-unis-lors-de-son-discours-de-politique-generale-au-capitole_6668146_3210.html][Donald Trump vante un « redressement historique » des Etats-Unis lors de son discours de politique générale au Capitole]]
-- [[https://www.lemonde.fr/societe/article/2026/02/24/apres-la-mort-de-quentin-deranque-plusieurs-groupuscules-d-ultradroite-et-d-ultragauche-dans-le-collimateur-du-gouvernement_6668136_3224.html][Après la mort de Quentin Deranque, plusieurs groupuscules d’ultradroite et d’ultragauche dans le collimateur du gouvernement]]
-- [[https://www.lemonde.fr/afrique/article/2026/02/24/apres-sa-visite-a-moscou-le-nouveau-president-malgache-joue-l-equilibriste-en-se-rendant-a-paris_6668134_3212.html][Après sa visite à Moscou, le nouveau président malgache joue l’équilibriste en se rendant à Paris]]
-- [[https://www.lemonde.fr/politique/article/2026/02/25/municipales-a-lyon-le-maire-ecologiste-gregory-doucet-pret-a-une-alliance-au-second-tour-avec-lfi_6668137_823448.html][Municipales à Lyon : le maire écologiste, Grégory Doucet, prêt à une alliance avec LFI au second tour]]
+- [[https://www.lemonde.fr/international/article/2026/02/25/avec-deja-environ-500-000-morts-la-guerre-entre-la-russie-et-l-ukraine-est-le-pire-bain-de-sang-en-europe-depuis-1945_6668196_3210.html][Avec déjà environ 500 000 morts, la guerre entre la Russie et l’Ukraine est le pire bain de sang en Europe depuis 1945]]
+- [[https://www.lemonde.fr/idees/article/2026/02/25/donald-trump-est-le-president-de-l-instabilite-et-de-l-incertain-mais-de-plus-en-plus-a-ses-depens_6668183_3232.html][« Donald Trump est le président de l’instabilité et de l’incertain, mais de plus en plus à ses dépens »]]
+- [[https://www.lemonde.fr/sport/article/2026/02/25/cyril-linette-ecarte-de-son-poste-de-directeur-general-du-comite-d-organisation-des-jeux-olympiques-2030_6668188_3242.html][Cyril Linette écarté de son poste de directeur général du comité d’organisation des Jeux olympiques 2030]]
+- [[https://www.lemonde.fr/international/article/2026/02/25/au-mexique-guadalajara-sort-de-la-torpeur-apres-l-elimination-du-narcotrafiquant-el-mencho_6668207_3210.html][Au Mexique, Guadalajara sort de la torpeur après l’élimination du narcotrafiquant « El Mencho »]]
+- [[https://www.lemonde.fr/societe/article/2026/02/25/au-proces-en-appel-de-l-assassinat-de-samuel-paty-une-institution-scolaire-traumatisee-fait-face-a-la-strategie-de-remise-en-cause-de-la-defense_6668184_3224.html][Au procès en appel de l’assassinat de Samuel Paty, une institution scolaire traumatisée fait face à la stratégie de remise en cause de la défense]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/en-direct-donald-trump-s-apprete-a-prononcer-son-premier-discours-sur-l-etat-de-l-union-20260225][EN DIRECT - Devant le Congrès, Trump salue «l’accomplissement» de son administration]]
-- [[https://www.lefigaro.fr/international/donald-trump-est-il-encore-populaire-aupres-des-americains-la-reponse-en-deux-graphiques-20260224][Donald Trump est-il encore populaire auprès des Américains ? La réponse en deux graphiques]]
-- [[https://www.lefigaro.fr/conjoncture/une-capitulation-que-contient-vraiment-le-deal-commercial-avec-donald-trump-que-l-ue-menace-d-abandonner-20260224][«Une capitulation» : que contient vraiment le «deal» commercial avec Donald Trump que l’UE menace d’abandonner ?]]
-- [[https://www.lefigaro.fr/flash-actu/incendie-de-crans-montana-des-images-inedites-montrent-le-depart-du-feu-dans-le-bar-le-constellation-20260224][Incendie de Crans-Montana: des images inédites montrent le départ du feu dans le bar Le Constellation]]
-- [[https://www.lefigaro.fr/elections/municipales/municipales-a-lyon-mort-de-quentin-securite-alliances-de-second-tour-ce-qu-il-faut-retenir-du-grand-debat-des-quatre-principaux-candidats-20260224][Municipales à Lyon : mort de Quentin, sécurité, alliances de second tour... Ce qu’il faut retenir du grand débat des quatre principaux candidats]]
+- [[https://www.lefigaro.fr/culture/christophe-leribault-au-louvre-l-ascension-irresistible-d-un-conservateur-qui-a-la-confiance-de-l-elysee-20260225][Christophe Leribault au Louvre : l’ascension irrésistible d’un conservateur qui a la confiance de l’Élysée]]
+- [[https://www.lefigaro.fr/culture/patrimoine/le-president-du-chateau-de-versailles-christophe-leribault-pressenti-pour-prendre-la-tete-du-louvre-20260225][Le président du château de Versailles Christophe Leribault prend la tête du musée du Louvre]]
+- [[https://www.lefigaro.fr/culture/laurence-des-cars-demissionne-du-louvre-j-etais-la-pour-prendre-la-foudre-20260224][Laurence des Cars démissionne du Louvre : « J’étais là pour prendre la foudre »]]
+- [[https://www.lefigaro.fr/culture/patrimoine/l-audition-de-laurence-des-cars-devant-la-commission-sur-la-securite-des-musees-annulee-et-reprogrammee-20260225][L’audition de Laurence des Cars devant la Commission sur la sécurité des musées annulée et «reprogrammée»]]
+- [[https://www.lefigaro.fr/faits-divers/pas-de-calais-un-vehicule-avec-quatre-mineurs-de-15-ans-entre-en-collision-avec-une-voiture-provoquant-la-mort-de-trois-personnes-20260225][Pas-de-Calais: un véhicule avec quatre mineurs de 15 ans entre en collision avec une voiture, provoquant la mort de trois personnes]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/cjwz6z14w65o?at_medium=RSS&at_campaign=rss][Drones hammer Sudan's gold and oil zone - the pivotal new front line]]
-- [[https://www.bbc.com/news/articles/c5yjpke8072o?at_medium=RSS&at_campaign=rss][German chancellor lands in Beijing for inaugural China trip]]
-- [[https://www.bbc.com/news/articles/cg4gxng2y4xo?at_medium=RSS&at_campaign=rss][Political outsiders are up against Thailand's powerful patronage system, defeated MP tells BBC]]
+- [[https://www.bbc.com/news/articles/cx2d7x6zrwro?at_medium=RSS&at_campaign=rss][Trump's theatrical State of the Union address offers little hint of any change in course]]
 - [[https://www.bbc.com/news/articles/cd9gj1w2kn1o?at_medium=RSS&at_campaign=rss][Japan to deploy missiles on island near Taiwan by 2031]]
-- [[https://www.bbc.com/news/articles/cpqwv03wz1yo?at_medium=RSS&at_campaign=rss][FBI director's private jet use delayed investigations, Democrat alleges]]
+- [[https://www.bbc.com/news/articles/ce3gj35q541o?at_medium=RSS&at_campaign=rss][Chinese dance group's tour triggers bomb threat against Australian PM]]
+- [[https://www.bbc.com/news/articles/cjwz6z14w65o?at_medium=RSS&at_campaign=rss][Drones hammer Sudan's gold and oil zone - the pivotal new front line]]
+- [[https://www.bbc.com/news/articles/c7vj15zlmv6o?at_medium=RSS&at_campaign=rss][Senegal PM proposes tougher anti-LGBT law, doubling prison terms]]
 
 *** The Guardian
 
@@ -151,11 +151,11 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/journalist-deaths-reach-new-high-in-2025-cpj/a-76113744?maca=en-rss-en-world-4025-rdf][Journalist deaths reach new high in 2025 — CPJ]]
+- [[https://www.dw.com/en/us-pentagon-gives-ultimatum-to-anthropic-over-ai-curbs-report/a-76111915?maca=en-rss-en-world-4025-rdf][US: Pentagon gives ultimatum to Anthropic over AI curbs — report]]
 - [[https://www.dw.com/en/us-trump-delivers-state-of-the-union-address/a-76110624?maca=en-rss-en-world-4025-rdf][US: Trump delivers State of the Union address]]
 - [[https://www.dw.com/en/philippines-rodrigo-duterte-faces-icc-over-deadly-drug-war/a-76109079?maca=en-rss-en-world-4025-rdf][Philippines: Rodrigo Duterte faces ICC over deadly drug war]]
-- [[https://www.dw.com/en/will-el-mencho-s-death-trigger-a-new-drug-war-in-mexico/a-76105325?maca=en-rss-en-world-4025-rdf][Will "El Mencho's" death trigger a new drug war in Mexico?]]
-- [[https://www.dw.com/en/france-s-macron-accepts-resignation-of-louvre-director-after-october-jewel-heist/a-76109480?maca=en-rss-en-world-4025-rdf][France's Macron accepts resignation of Louvre director after October jewel heist]]
-- [[https://www.dw.com/en/hungary-slovakia-spar-with-ukraine-over-druzhba-pipeline/a-76105360?maca=en-rss-en-world-4025-rdf][Hungary, Slovakia spar with Ukraine over Druzhba pipeline]]
+- [[https://www.dw.com/en/will-el-mencho-s-death-trigger-a-new-drug-war-in-mexico/a-76105325?maca=en-rss-en-world-4025-rdf][Will 'El Mencho's' death trigger a new drug war in Mexico?]]
 
 
 * 🧠 Think Tanks
