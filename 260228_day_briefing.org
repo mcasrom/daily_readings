@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 39.7°C | ⚖ Load: 0.00 | 🌐 Ping: 14.6ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 39.2°C | ⚖ Load: 0.00 | 🌐 Ping: 14.4ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,19 +49,19 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/02/27/69a1a3cae85ece23398b45aa.html][Peramato asciende al equipo de García Ortiz y castiga a los fiscales del 'procés' y a la fiscal que se opuso a la filtración de datos del novio de Ayuso]]
-- [[https://www.elmundo.es/espana/2026/02/27/69a16eb7e85eceec188b4575.html][Zarzuela pone una condición al regreso de Juan Carlos I a España: "Debería recuperar la residencia fiscal"]]
-- [[https://www.elmundo.es/espana/2026/02/26/6998cacae85ece1c4c8b456e.html][El mapa de la inmigración en España: América gana terreno, Marruecos lidera como país y destino a los barrios de renta baja]]
-- [[https://www.elmundo.es/cronica/2026/02/24/699748c3fc6c838b0c8b4578.html][Los desheredados de Sacaba Beach: Vivir en una caravana a 200 metros de un ático de 10 millones]]
-- [[https://www.elmundo.es/internacional/2026/02/27/69a1e9cafc6c83ad338b456f.html][Trump dice que la situación en Cuba es tan desesperada que al final "podría haber una toma amistosa" de la isla]]
+- [[https://www.elmundo.es/espana/2026/02/27/69a1fcbbe9cf4a26308b459b.html][La difícil vuelta de la residencia fiscal a España complica el posible regreso de Juan Carlos I]]
+- [[https://www.elmundo.es/espana/2026/02/27/69a1fa3a21efa025148b45bb.html][A vueltas con Juan Carlos I]]
+- [[https://www.elmundo.es/andalucia/2026/02/27/69a1e819e4d4d88f1c8b45b1.html][Montero sentencia al PSOE andaluz y se sitúa a casi 20 puntos del PP a cuatro meses de las elecciones autonómicas]]
+- [[https://www.elmundo.es/espana/2026/02/27/69a1de8de4d4d8b0248b456e.html][Abascal desmantela su última gran baronía territorial al forzar la salida de Antelo en Murcia]]
+- [[https://www.elmundo.es/cataluna/2026/02/28/69a1f4b5fdddffd0478b4596.html][Illa llevará su presión a Junqueras por los Presupuestos hasta el extremo de amenazar con un adelanto electoral en Cataluña]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/economia/20260227/11477077/presupuestos-crecen-10-respecto-2025-sanidad-aumentando-debajo-media.html][Los presupuestos catalanes crecen un 10% con la sanidad aumentando por debajo de la media]]
-- [[https://www.lavanguardia.com/politica/20260227/11477196/catalunya-tendria-presupuestos-24-abril-govern-erc-llegan-acuerdo.html][Catalunya tendría presupuestos el 24 de abril si el Govern y ERC llegan a un acuerdo]]
-- [[https://www.lavanguardia.com/economia/20260227/11477066/presupuestos-generalitat-departament-gasto.html][¿Cuánto irá a vivienda, educación o sanidad? Los presupuestos, por conselleries]]
-- [[https://www.lavanguardia.com/internacional/20260227/11477484/bill-clinton-declara-congreso-nunca-testigo-delitos-epstein-vi-hice-mal.html][Bill Clinton declara ante el Congreso que nunca fue testigo de los delitos de Epstein: “No vi nada y no hice nada mal”]]
+- [[https://www.lavanguardia.com/internacional/20260227/11477484/bill-clinton-declara-congreso-nunca-testigo-delitos-epstein-vi-hice-mal.html][Bill Clinton declara ante el Congreso que desconocía los delitos de Epstein]]
 - [[https://www.lavanguardia.com/internacional/20260227/11476906/hillary-clinton-indignada-declarar-congreso-sobre-epstein-me-han-preguntado-sobre-ovnis-pizzagate.html][Hillary Clinton, indignada tras declarar ante el Congreso sobre Epstein: “Me han preguntado sobre los ovnis y el 'pizzagate'”]]
+- [[https://www.lavanguardia.com/internacional/20260227/11477537/trump-afirma-toma-control-amistosa-cuba.html][Trump afirma que podría tomar el “control amistoso” de Cuba]]
+- [[https://www.lavanguardia.com/internacional/20260227/11477610/trump-ordena-todas-agencias-federales-dejen-utilizar-anthropic.html][La Casa Blanca ordena a todas las agencias federales que dejen de utilizar Anthropic]]
+- [[https://www.lavanguardia.com/politica/20260227/11477087/zarzuela-recuerda-rey-juan-carlos-vuelve-debe-tributar-espana.html][La Zarzuela recuerda al rey Juan Carlos que si vuelve debe tributar en España]]
 
 *** El Diario de Cantabria
 
@@ -75,47 +75,47 @@
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/national-security/2026/02/27/us-iran-war-israel-embassy-evacuation/][Trump moves toward Iran attack as mediator says nuclear deal is close]]
 - [[https://www.washingtonpost.com/world/2026/02/27/pakistan-afghanistan-taliban-kabul-war/][Pakistan says it is in ‘open war’ with Afghanistan as nations exchange strikes]]
-- [[https://www.washingtonpost.com/national-security/2026/02/27/us-iran-war-israel-embassy-evacuation/][U.S. Embassy in Israel advises nonessential personnel to leave ‘TODAY’]]
 - [[https://www.washingtonpost.com/world/2026/02/26/cuba-speedboat-attack/][How obsession to ‘liberate Cuba’ led men on deadly speedboat journey]]
 - [[https://www.washingtonpost.com/world/2026/02/26/iran-nuclear-talks-trump-strikes-geneva-oman/][U.S., Iran complete round of talks as Trump weighs diplomacy against strikes]]
 - [[https://www.washingtonpost.com/world/2026/02/26/journalists-killed-2025-cpj-israel-gaza-drones/][Journalists slain at record level in 2025, majority by Israel, watchdog says]]
 
 *** WSJ.com: World News
 
-- [[https://www.wsj.com/world/americas/inside-the-failed-armed-expedition-to-topple-cubas-regime-e62e6198][Inside the Failed Armed Expedition to Topple Cuba’s Regime]]
+- [[https://www.wsj.com/world/middle-east/the-unlikely-coalition-of-iranian-students-mobilizing-to-confront-the-regime-a60801c2][The Unlikely Coalition of Iranian Students Mobilizing to Confront the Regime]]
+- [[https://www.wsj.com/world/americas/its-about-to-get-easier-to-fire-argentines-and-make-them-work-longer-4bcff1f4][Milei Just Made It Easier to Fire Argentines and Make Them Work Longer]]
+- [[https://www.wsj.com/world/americas/inside-the-failed-armed-expedition-to-topple-cubas-regime-e62e6198][The Failed Armed Expedition to Topple Cuba’s Regime]]
 - [[https://www.wsj.com/world/middle-east/second-u-s-aircraft-carrier-approaches-middle-east-as-nuclear-deal-with-iran-remains-elusive-d369f748][Second U.S. Aircraft Carrier Approaches Middle East as Nuclear Deal With Iran Remains Elusive]]
 - [[https://www.wsj.com/world/europe/hungarys-orban-puts-ukraine-dispute-at-center-of-tough-re-election-fight-96d22040][Hungary’s Orbán Puts Ukraine Dispute at Center of Tough Re-Election Fight]]
-- [[https://www.wsj.com/world/americas/its-about-to-get-easier-to-fire-argentines-and-make-them-work-longer-4bcff1f4][It’s About to Get Easier to Fire Argentines and Make Them Work Longer]]
-- [[https://www.wsj.com/world/uk/immigration-and-the-gaza-war-are-upending-a-century-of-british-politics-a18435e0][Immigration and the Gaza War Are Upending a Century of British Politics]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/economie/article/2026/02/27/ue-mercosur-l-accord-commercial-entrera-en-vigueur-sans-attendre-le-vote-du-parlement-europeen_6668611_3234.html][UE-Mercosur : l’accord commercial entrera en vigueur sans attendre le vote du Parlement européen]]
+- [[https://www.lemonde.fr/economie/article/2026/02/28/derriere-le-bras-de-fer-entre-donald-trump-et-anthropic-les-debats-politiques-ethiques-et-philosophiques-sur-l-usage-militaire-de-l-ia_6668645_3234.html][Derrière le bras de fer entre Donald Trump et Anthropic, les débats politiques, éthiques et philosophiques sur l’usage militaire de l’IA]]
 - [[https://www.lemonde.fr/politique/article/2026/02/27/la-france-insoumise-sera-bien-classee-extreme-gauche-par-le-ministere-de-l-interieur-juge-le-conseil-d-etat_6668622_823448.html][LFI sera bien classée à l’« extrême gauche » par le ministère de l’intérieur, juge le Conseil d’Etat]]
+- [[https://www.lemonde.fr/international/article/2026/02/28/iran-etats-unis-teheran-accepte-de-ne-pas-stocker-d-uranium-enrichi-assure-le-mediateur-omanais-alors-que-donald-trump-s-impatiente_6668637_3210.html][Iran - Etats-Unis : Téhéran accepte de ne pas stocker d’uranium enrichi, assure le médiateur omanais, alors que Donald Trump s’impatiente]]
+- [[https://www.lemonde.fr/international/article/2026/02/28/affaire-epstein-bill-clinton-a-la-loupe-de-sa-relation-passee-avec-le-predateur-sexuel_6668641_3210.html][Affaire Epstein : Bill Clinton à la loupe de sa relation passée avec le prédateur sexuel]]
 - [[https://www.lemonde.fr/international/article/2026/02/27/le-drone-a-proximite-du-porte-avions-charles-de-gaulle-etait-bien-russe-confirment-les-forces-armees-suedoises_6668632_3210.html][Le drone à proximité du porte-avions « Charles-de-Gaulle » était bien russe, confirment les forces armées suédoises]]
-- [[https://www.lemonde.fr/international/article/2026/02/27/donald-trump-se-dit-pas-tres-content-de-la-teneur-des-negociations-avec-teheran-et-affirme-ne-pas-avoir-pris-de-decision-finale-sur-de-possibles-frappes-americaines_6668629_3210.html][Donald Trump se dit « pas très content » de la teneur des négociations avec Téhéran et affirme ne pas avoir pris de « décision finale » sur de possibles frappes américaines]]
-- [[https://www.lemonde.fr/international/article/2026/02/27/james-char-specialiste-de-l-armee-chinoise-l-ampleur-des-mises-a-l-ecart-sous-xi-jinping-depassent-de-loin-ce-qu-ont-fait-ses-predecesseurs_6668616_3210.html][James Char, spécialiste de l’armée chinoise : « L’ampleur des mises à l’écart sous Xi Jinping dépasse de loin ce qu’ont fait ses prédécesseurs »]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/medias/ca-va-etre-une-boucherie-le-rachat-de-warner-par-paramount-skydance-aura-des-consequences-profondes-sur-hollywood-20260227][« Ça va être une boucherie » : le rachat de Warner par Paramount Skydance aura des conséquences profondes sur Hollywood]]
-- [[https://www.lefigaro.fr/secteur/high-tech/netflix-refuse-de-relever-son-offre-pour-warner-bros-20260227][Netflix se retire des enchères pour Warner Bros, laissant la voie libre à Paramount Skydance]]
 - [[https://www.lefigaro.fr/international/l-iran-aurait-accepte-de-ne-pas-stocker-d-uranium-enrichi-dans-le-cadre-des-negociations-avec-les-etats-unis-selon-un-mediateur-omanais-20260227][L’Iran aurait accepté de ne pas stocker d’uranium enrichi dans le cadre des négociations avec les États-Unis, selon un médiateur omanais]]
 - [[https://www.lefigaro.fr/international/pour-washington-l-iran-est-un-etat-pratiquant-des-detentions-injustifiees-20260227][Pour Washington, l'Iran est «un État pratiquant des détentions injustifiées»]]
 - [[https://www.lefigaro.fr/international/50-000-soldats-200-avions-2-porte-avions-face-a-l-iran-le-plus-gros-deploiement-de-forces-americaines-depuis-2003-20260227][50.000 soldats, 200 avions, 2 porte-avions : face à l’Iran, le plus gros déploiement de forces américaines depuis 2003]]
+- [[https://www.lefigaro.fr/international/iran-trump-declare-ne-pas-souhaiter-un-eventuel-recours-a-la-force-militaire-mais-c-est-parfois-necessaire-20260227][Iran : Trump déclare ne «pas souhaiter» un éventuel recours à la force militaire, mais «c’est parfois nécessaire»]]
+- [[https://www.lefigaro.fr/politique/declarations-de-melenchon-sur-epstein-de-villepin-regrette-le-sacrifice-de-la-gauche-de-la-gauche-et-fustige-un-acte-d-irresponsabilite-politique-20260227][Déclarations de Mélenchon sur Epstein : Villepin regrette le «sacrifice de la gauche de la gauche» et fustige un «acte d’irresponsabilité politique»]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/c5y599degnqo?at_medium=RSS&at_campaign=rss][Tram derails in Milan, leaving two dead and dozens injured]]
-- [[https://www.bbc.com/news/articles/cvgjd7pv4y4o?at_medium=RSS&at_campaign=rss][Pakistan defence minister says country in 'open war' with Afghanistan after strikes]]
-- [[https://www.bbc.com/news/articles/cj32zx48xvxo?at_medium=RSS&at_campaign=rss][What we know after latest escalation in Pakistan-Afghanistan tensions]]
-- [[https://www.bbc.com/news/articles/c9q5wdeg4j8o?at_medium=RSS&at_campaign=rss][Why Trump means the Cuban Revolution faces its biggest threat yet]]
+- [[https://www.bbc.com/news/articles/cvg345qvld5o?at_medium=RSS&at_campaign=rss][Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes]]
 - [[https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&at_campaign=rss][Trump 'not thrilled' with Iran after latest talks on nuclear programme]]
+- [[https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss][At least 11 killed after military plane carrying banknotes crashes in Bolivia]]
+- [[https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss][Trump orders government to stop using Anthropic in battle over AI use]]
+- [[https://www.bbc.com/news/articles/c1l7q871gnro?at_medium=RSS&at_campaign=rss][A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India]]
 
 *** The Guardian
 
@@ -151,11 +151,11 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/bolivia-15-killed-in-cargo-plane-crash-near-la-paz/a-76159956?maca=en-rss-en-world-4025-rdf][Bolivia: 15 killed in cargo plane crash near La Paz]]
 - [[https://www.dw.com/en/us-allows-staff-to-leave-israel-as-trump-attack-on-iran-looms/a-76157922?maca=en-rss-en-world-4025-rdf][US allows staff to leave Israel as Trump attack on Iran looms]]
 - [[https://www.dw.com/en/is-afghanistan-pakistan-conflict-the-new-normal/a-76155553?maca=en-rss-en-world-4025-rdf][Is Afghanistan-Pakistan conflict the 'new normal?']]
 - [[https://www.dw.com/en/duterte-drug-war-trial-a-huge-step-say-families-at-icc/a-76152102?maca=en-rss-en-world-4025-rdf][Duterte drug war trial a 'huge step,' say families at ICC]]
 - [[https://www.dw.com/en/did-germany-s-merz-pull-off-business-balancing-act-in-china/a-76151732?maca=en-rss-en-world-4025-rdf][Did Germany's Merz pull off business balancing act in China?]]
-- [[https://www.dw.com/en/africans-in-the-ukraine-war-recruited-as-cannon-fodder/a-76140879?maca=en-rss-en-world-4025-rdf][Africans in the Ukraine war: Recruited as cannon fodder]]
 
 
 * 🧠 Think Tanks
