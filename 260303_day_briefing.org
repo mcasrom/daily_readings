@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 38.6°C | ⚖ Load: 0.00 | 🌐 Ping: 14.4ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 38.6°C | ⚖ Load: 0.00 | 🌐 Ping: 9.32ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,19 +49,19 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/internacional/2026/03/02/69a5b73ce85ece0e598b458b.html][Trump dice ahora que no descarta desplegar soldados en Irán: "Me dan igual las encuestas"]]
-- [[https://www.elmundo.es/espana/2026/03/02/69a55e9fe4d4d8da378b4578.html][Estados Unidos retira  aviones de Rota ante la negativa de España de usar sus bases para el ataque contra Irán]]
-- [[https://www.elmundo.es/internacional/2026/03/02/69a3ee79e9cf4a27778b4588.html][Diferencias con la guerra de junio]]
+- [[https://www.elmundo.es/internacional/2026/03/02/69a5e616e9cf4a97678b45b4.html][La Casa Blanca, sin un plan preciso para su guerra en Irán]]
 - [[https://www.elmundo.es/internacional/2026/03/02/69a5db1b21efa0ae6c8b4584.html][EEUU e Israel golpean el corazón de Teherán]]
-- [[https://www.elmundo.es/internacional/2026/03/02/69a58700e9cf4a8a7c8b4588.html][Kuwait derriba tres aviones de combate de EEUU en un incidente de "fuego amigo"]]
+- [[https://www.elmundo.es/espana/2026/03/02/69a5dbbbfdddffe4468b456f.html][Sánchez aísla a España, doblemente: enfrentado con Trump por las bases y de espaldas al plan nuclear europeo]]
+- [[https://www.elmundo.es/economia/empresas/2026/03/02/69a5bea0e85ece212a8b4596.html][Así impactará el conflicto en Oriente Medio en la factura de la luz y el precio de la gasolina: "La subida está asegurada pero no será inmediata"]]
+- [[https://www.elmundo.es/internacional/2026/03/02/69a5f1acfdddffa53a8b4592.html][Los misiles desafían a la Cúpula de Hierro israelí en Beit Shemesh: "Salimos y ya no tenía casa"]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/internacional/20260302/11479516/trump-advierte-guerra-iran-continuara-determinacion-feroz-sea-necesario.html][Trump advierte que la guerra en Irán continuará “el tiempo que sea necesario”]]
-- [[https://www.lavanguardia.com/internacional/20260302/11478906/hizbulah-ataca-israel-bombardeos-mata-personas-libano-iran.html][Hizbulah ataca a Israel, que responde con bombardeos y mata a 31 personas en Líbano]]
+- [[https://www.lavanguardia.com/internacional/20260303/11479624/guerra-total-iran.html][Trump envía más tropas y avisa que la guerra durará todo “el tiempo necesario”]]
+- [[https://www.lavanguardia.com/internacional/20260303/11479622/ataques-golfo-distinguen-objetivos-militares-civiles.html][Los ataques en el Golfo no distinguen entre objetivos militares y civiles]]
 - [[https://www.lavanguardia.com/internacional/20260302/11479340/pentagono-niega-objetivo-iran-sea-cambio-regimen-dice-trump-empezo-guerra-terminara.html][El Pentágono niega que el objetivo en Irán sea un cambio de régimen y dice que Trump “no empezó la guerra, pero la terminará”]]
 - [[https://www.lavanguardia.com/internacional/20260302/11479589/que-dice-derecho-internacional-ofensiva-trump-iran.html][Qué dice el Derecho Internacional de la ofensiva de Trump en Irán]]
-- [[https://www.lavanguardia.com/internacional/20260302/11479049/iran-esto.html][Irán: esto va para largo]]
+- [[https://www.lavanguardia.com/opinion/20260303/11479629/bienvenidos-caos.html][Bienvenidos al caos]]
 
 *** El Diario de Cantabria
 
@@ -75,34 +75,34 @@
 
 *** The Washington Post
 
-- [[https://www.washingtonpost.com][Rubio says U.S. faced “imminent threat” from Iran if Israel attacked first]]
-- [[https://www.washingtonpost.com/world/2026/03/02/us-israel-iran-hezbollah-military-strikes-live-updates/][Live updates: Trump says U.S.-Israeli strikes on Iran could take four to five weeks]]
-- [[https://www.washingtonpost.com/world/2026/03/02/macron-france-nuclear-umbrella-europe/][France to expand nuclear arsenal as Europe’s trust in U.S. falters]]
-- [[https://www.washingtonpost.com][What to know]]
-- [[https://www.washingtonpost.com][Photos show people fleeing airstrikes in Lebanon]]
+- [[https://www.washingtonpost.com][Iranian Foreign Minister Abbas Araghchi said Monday night that the U.S. attack on Iran is “a...]]
+- [[https://www.washingtonpost.com/world/2026/03/02/us-israel-iran-hezbollah-military-strikes-live-updates/][Live updates: Trump says strikes on Iran could take weeks as U.S. urges Americans to leave the region]]
+- [[https://www.washingtonpost.com][Netanyahu praises Trump]]
+- [[https://www.washingtonpost.com][Videos appear to show the U.S. fighter jets being shot down over Kuwait]]
+- [[https://www.washingtonpost.com][The U.S. Embassy in Riyadh was attacked by two drones, “resulting in a limited fire and...]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/gulf-states-in-race-against-time-to-repel-irans-counterattack-96c16802][Gulf States in Race Against Time to Repel Iran’s Onslaught]]
+- [[https://www.wsj.com/world/middle-east/trump-sees-weekslong-war-timeline-in-iran-045ca70f][Trump Sees Weekslong War Timeline in Iran]]
+- [[https://www.wsj.com/world/middle-east/trumps-case-for-war-with-iran-faces-growing-scrutiny-96648cb9][Trump’s Case for War With Iran Faces Growing Scrutiny]]
 - [[https://www.wsj.com/world/middle-east/iranian-drones-and-missiles-challenge-stretched-u-s-forces-9e41df9a][Iranian Drones and Missiles Challenge Stretched U.S. Forces]]
 - [[https://www.wsj.com/world/middle-east/israel-was-ready-to-take-on-hezbollah-again-now-it-can-bf641404][Israel Was Ready to Take On Hezbollah Again. Now It Can.]]
-- [[https://www.wsj.com/politics/policy/trumps-weekend-at-mar-a-lago-a-fundraiser-video-remarks-and-secure-briefings-24d92275][Trump’s Mar-a-Lago Weekend: A Fundraiser, Video Remarks and Secure Iran Briefings]]
-- [[https://www.wsj.com/world/middle-east/iran-strikes-live-question-answer-5462d91f][Live Q&A: U.S. Strikes Iran—Ask Us Your Questions]]
-- [[https://www.wsj.com/world/europe/france-floats-nuclear-deployment-across-europe-056a5cbc][France Floats Nuclear Deployment Across Europe]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/03/02/en-direct-iran-les-frappes-les-plus-graves-sont-encore-a-venir-de-la-part-de-l-armee-americaine-previent-marco-rubio_6668663_3210.html][EN DIRECT, Iran : l’armée israélienne lance une nouvelle attaque à Téhéran ; « les frappes les plus graves sont encore à venir de la part » des Etats-Unis, prévient Marco Rubio]]
-- [[https://www.lemonde.fr/international/article/2026/03/02/frappes-contre-l-iran-un-camouflet-pour-la-chine-soutien-du-regime-et-principal-acheteur-de-son-petrole_6669261_3210.html][La Chine, soutien du régime iranien et principal acheteur de son pétrole, exprime sa colère après les attaques américaines et israéliennes]]
-- [[https://www.lemonde.fr/idees/article/2026/03/02/emmanuel-macron-nous-devons-renforcer-notre-dissuasion-nucleaire-face-a-la-combinaison-des-menaces_6669287_3232.html][L’essentiel du discours d’Emmanuel Macron sur le nucléaire : « Nous devons renforcer notre dissuasion face à la combinaison des menaces »]]
-- [[https://www.lemonde.fr/societe/article/2026/03/02/proces-en-appel-de-l-assassinat-de-samuel-paty-les-deux-principaux-accuses-condamnes-a-dix-et-quinze-ans-de-prison_6669292_3224.html][Procès en appel de l’assassinat de Samuel Paty : les deux principaux accusés condamnés à dix et à quinze ans de prison]]
-- [[https://www.lemonde.fr/les-decodeurs/article/2026/03/02/municipales-2026-decouvrez-les-candidats-dans-votre-commune_6669275_4355770.html][Municipales 2026 : découvrez les candidats dans votre commune grâce à notre moteur de recherche]]
+- [[https://www.lemonde.fr/international/live/2026/03/03/en-direct-iran-sans-action-immediate-le-programme-nucleaire-iranien-aurait-ete-intouchable-d-ici-quelques-mois-selon-benyamin-netanyahou-l-ambassade-americaine-en-arabie-saoudite-visee-par-des-drones-donald-trump-prevoit-une-reponse_6668663_3210.html][EN DIRECT, Iran : sans action immédiate, le programme nucléaire iranien aurait été « intouchable » d’ici quelques mois, selon Benyamin Nétanyahou ; l’ambassade américaine en Arabie saoudite visée par des drones]]
+- [[https://www.lemonde.fr/international/article/2026/03/02/bombardements-en-iran-les-images-verifiees-des-lieux-cibles-par-les-etats-unis-et-israel-temoignent-d-une-strategie-inedite_6669295_3210.html][Bombardements en Iran : les images vérifiées des lieux ciblés par les Etats-Unis et Israël témoignent d’une stratégie inédite]]
+- [[https://www.lemonde.fr/international/article/2026/03/03/la-dissuasion-nucleaire-francaise-fait-un-grand-pas-vers-l-europe_6669308_3210.html][La dissuasion nucléaire française fait un grand pas vers l’Europe]]
+- [[https://www.lemonde.fr/societe/article/2026/03/03/au-proces-en-appel-de-l-assassinat-de-samuel-paty-un-verdict-plus-clement-qu-en-premiere-instance-sauf-pour-le-militant-abdelhakim-sefrioui_6669297_3224.html][Au procès en appel de l’assassinat de Samuel Paty, un verdict plus clément qu’en première instance, sauf pour le « militant » Abdelhakim Sefrioui]]
+- [[https://www.lemonde.fr/politique/article/2026/03/03/sous-la-pression-et-le-feu-des-critiques-jean-luc-melenchon-fait-son-mea-culpa_6669306_823448.html][Sous la pression et le feu des critiques, Jean-Luc Mélenchon fait son mea culpa]]
 
 *** Le Figaro
 
+- [[https://www.lefigaro.fr/international/en-direct-attaque-en-iran-le-moyen-orient-s-embrase-apres-la-mort-du-guide-supreme-ali-khamenei-20260301][Guerre en Iran : Israël mène de nouvelles frappes sur Téhéran et Beyrouth, l’ambassade américaine à Riyad attaquée]]
 - [[https://www.lefigaro.fr/international/frappe-au-coeur-le-regime-iranien-met-le-feu-au-moyen-orient-20260302][Frappé au cœur, le régime iranien met le feu au Moyen-Orient]]
-- [[https://www.lefigaro.fr/international/en-direct-attaque-en-iran-le-moyen-orient-s-embrase-apres-la-mort-du-guide-supreme-ali-khamenei-20260301][EN DIRECT - Guerre en Iran : Israël annonce une nouvelle vague de frappes sur Téhéran et affirme avoir «démantelé» le siège de la télévision publique]]
 - [[https://www.lefigaro.fr/international/frappes-dictees-par-la-cia-vengeance-de-l-iran-tous-azimuts-petroliers-cibles-le-recit-des-72-premieres-heures-de-la-guerre-en-iran-20260302][Frappes dictées par la CIA, vengeance de l’Iran tous azimuts, pétroliers ciblés... Le récit des 72 premières heures de la guerre en Iran]]
 - [[https://www.lefigaro.fr/international/les-frappes-israelo-americaines-en-iran-une-onde-de-choc-geopolitique-aussi-importante-que-la-chute-du-mur-de-berlin-20260302][Les frappes israélo-américaines en Iran, une onde de choc géopolitique aussi importante que la chute du mur de Berlin]]
 - [[https://www.lefigaro.fr/international/la-france-et-l-europe-aspirees-malgre-elles-dans-la-guerre-lancee-par-les-etats-unis-20260302][La France et l’Europe aspirées malgré elles dans la guerre lancée par les États-Unis]]
@@ -151,11 +151,11 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/bill-clinton-denies-any-knowledge-of-epstein-s-sex-crimes/a-76191914?maca=en-rss-en-world-4025-rdf][Bill Clinton denies any knowledge of Epstein's sex crimes]]
 - [[https://www.dw.com/en/pakistan-imposes-curfew-after-deadly-iran-protests/a-76191205?maca=en-rss-en-world-4025-rdf][Pakistan imposes curfew after deadly Iran protests]]
 - [[https://www.dw.com/en/can-china-benefit-from-the-us-israel-war-with-iran/a-76187914?maca=en-rss-en-world-4025-rdf][Can China benefit from the US-Israel war with Iran?]]
 - [[https://www.dw.com/en/africa-urges-restraint-as-us-israel-strikes-escalate-tensions-in-iran/a-76185930?maca=en-rss-en-world-4025-rdf][Africa urges restraint as US-Israel strikes escalate tensions in Iran]]
 - [[https://www.dw.com/en/lebanon-israel-trades-fire-with-hezbollah-in-south-and-east/a-76183883?maca=en-rss-en-world-4025-rdf][Lebanon: Israel trades fire with Hezbollah in south and east]]
-- [[https://www.dw.com/en/north-korea-will-kim-s-daughter-and-sister-fight-for-power/a-76183406?maca=en-rss-en-world-4025-rdf][North Korea: Will Kim's daughter and sister fight for power?]]
 
 
 * 🧠 Think Tanks
