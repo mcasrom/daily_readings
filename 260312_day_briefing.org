@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 37.6°C | ⚖ Load: 0.04 | 🌐 Ping: 9.41ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 37.6°C | ⚖ Load: 0.00 | 🌐 Ping: 9.30ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,11 +49,11 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/economia/2026/03/11/69b1482de4d4d81e178b4586.html][Más de 30 países, incluido España, acuerdan la mayor liberación de reservas de petróleo de la historia para frenar el 'shock´ de precios y suministro]]
-- [[https://www.elmundo.es/internacional/2026/03/11/69b1cd31e9cf4a46518b4571.html][Israel bombardea "a gran escala" Beirut tras el último ataque de Hizbulá]]
-- [[https://www.elmundo.es/internacional/2026/03/11/69b13e29e9cf4aeb2e8b4591.html][Tres buques atacados en el estrecho de Ormuz en la peor noche de ataques aéreos contra Irán]]
-- [[https://www.elmundo.es/internacional/2026/03/11/69b046a4e85ece44058b457f.html][Los ataques israelíes fuerzan un éxodo de cristianos del sur del Líbano]]
-- [[https://www.elmundo.es/internacional/2026/03/11/69b12c99e9cf4a325f8b4570.html][Von der Leyen intenta rebajar la crispación en el seno de la UE y se acerca al Gobierno: "Compromiso inquebrantable con el derecho internacional"]]
+- [[https://www.elmundo.es/internacional/2026/03/11/69b19b4821efa018118b45ac.html][El Estrecho de Ormuz, el cuello de botella donde se decidirá esta guerra]]
+- [[https://www.elmundo.es/economia/2026/03/11/69b1be22e85ecee45b8b45aa.html][El mayor esfuerzo mundial por liberar reservas de petróleo sólo da para suplir 20 días el cierre de Ormuz y no frena la espiral de precios]]
+- [[https://www.elmundo.es/internacional/2026/03/11/69b194fee9cf4a8a268b4594.html][Mientras EEUU mueve misiles desde Corea del Sur hacia Oriente Próximo, Kim Jong-un fortalece su arsenal nuclear]]
+- [[https://www.elmundo.es/espana/2026/03/11/69b1b5bafc6c83931e8b4595.html][Así volteó el PSOE, hace hoy 40 años, el referéndum sobre la OTAN y las bases de la polémica ahora con Trump]]
+- [[https://www.elmundo.es/internacional/2026/03/12/69b18af7e9cf4a76088b45a5.html][Los socialistas no se plantean "de forma seria" una moción de censura contra Von der Leyen pero avisan: "Está rebasando los límites de nuestra paciencia"]]
 
 *** La Vanguardia
 
@@ -75,29 +75,29 @@
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/03/11/strait-hormuz-cargo-ships-iran/][Nations agree to release oil reserves as war in Iran hits global economy]]
 - [[https://www.washingtonpost.com/national-security/2026/03/11/us-strike-iran-elementary-school-ai-target-list/][Iranian school was on U.S. target list, may have been mistaken as military site]]
 - [[https://www.washingtonpost.com/world/2026/03/11/congo-drc-drone-strike-french-aid-worker-unicef/][Aid worker killed in drone strike on building used by Congo relief staff]]
-- [[https://www.washingtonpost.com/world/2026/03/11/strait-hormuz-cargo-ships-iran/][Nations agree to release oil reserves as war in Iran hits global economy]]
 - [[https://www.washingtonpost.com/world/2026/03/11/russia-ukraine-iran-trump-negotiations-trust/][After Iran assault, Russians say U.S. can’t be trusted in Ukraine talks]]
 - [[https://www.washingtonpost.com/world/2026/03/11/gaza-iran-war-israel-trump/][As Israel targets Iran, Gaza’s nascent recovery stalls and Hamas gains strength]]
 
 *** WSJ.com: World News
 
-- [[https://www.wsj.com/world/middle-east/iran-conflict-five-things-to-know-8ce8403f][Iran War: Five Things to Know]]
-- [[https://www.wsj.com/business/energy-oil/iea-proposes-largest-ever-oil-release-from-strategic-reserves-275f4e5c][IEA Will Launch Largest-Ever Oil Release From Global Strategic Reserves]]
-- [[https://www.wsj.com/world/russia-lures-recruits-from-africa-to-feed-its-ukraine-war-machine-779e7433][Russia Lures Recruits From Africa to Feed Its Ukraine War Machine]]
-- [[https://www.wsj.com/politics/casualties-and-the-cost-of-war-c221c633][Casualties and the Cost of War]]
-- [[https://www.wsj.com/finance/currencies/justice-department-probes-irans-use-of-binance-to-evade-sanctions-9dc61ce4][Justice Department Probes Iran’s Use of Binance to Evade Sanctions]]
+- [[https://www.wsj.com/world/middle-east/escalating-hormuz-crisis-raises-specter-of-prolonged-closure-7678477e][Escalating Hormuz Crisis Raises Specter of Prolonged Closure]]
+- [[https://www.wsj.com/business/energy-oil/president-trumps-head-spinning-pivot-on-an-emergency-oil-release-7da8cd49][President Trump’s Head-Spinning Pivot on an Emergency Oil Release]]
+- [[https://www.wsj.com/world/middle-east/admiral-cooper-the-warrior-diplomat-running-trumps-war-in-iran-a35abdb4][Admiral Cooper, the Warrior Diplomat Running Trump’s Fight in Iran]]
+- [[https://www.wsj.com/world/africa/coup-benin-west-africa-97d4fce4][A Punch in the Face, a Barefoot General’s Fight and the Coup That Unraveled]]
+- [[https://www.wsj.com/world/middle-east/iran-sea-mines-strait-of-hormuz-85e623b7][Iran’s Sea Mines Are One of Its Most Powerful Weapons]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/03/11/en-direct-guerre-au-moyen-orient-l-aviation-israelienne-mene-une-serie-de-frappes-a-grande-echelle-sur-beyrouth-apres-que-le-hezbollah-a-vise-le-nord-d-israel-avec-des-dizaines-de-roquettes_6669855_3210.html][EN DIRECT, guerre au Moyen-Orient : plusieurs morts au Liban après des frappes « à grande échelle » israéliennes, en réponse à des tirs de roquettes du Hezbollah vers le nord d’Israël]]
+- [[https://www.lemonde.fr/economie/article/2026/03/12/petrole-le-deblocage-de-400-millions-de-barils-par-l-aie-une-mobilisation-d-une-ampleur-inedite-a-l-efficacite-discutee_6670651_3234.html][Pétrole : le déblocage de 400 millions de barils par l’AIE, une mobilisation d’une ampleur inédite à l’efficacité discutée]]
 - [[https://www.lemonde.fr/les-decodeurs/article/2026/03/11/un-demi-milliard-d-euros-de-pertes-de-recettes-fiscales-la-cour-des-comptes-fustige-l-echec-de-la-privatisation-du-systeme-d-immatriculation-des-vehicules_6670559_4355770.html][Un demi-milliard d’euros de pertes de recettes fiscales : la Cour des comptes fustige l’échec de la privatisation du système d’immatriculation des véhicules]]
-- [[https://www.lemonde.fr/planete/article/2026/03/11/prostate-sein-pancreas-certains-cancers-seraient-moins-frequents-chez-les-vegetariens_6670539_3244.html][Certains cancers seraient moins fréquents chez les végétariens : prostate, sein, pancréas…]]
+- [[https://www.lemonde.fr/international/article/2026/03/12/le-fbi-met-en-garde-contre-une-attaque-iranienne-aux-drones-en-californie_6670572_3210.html][Le FBI met en garde contre une attaque iranienne aux drones en Californie]]
 - [[https://www.lemonde.fr/idees/article/2026/03/11/municipales-comment-la-gauche-a-fait-evoluer-son-positionnement-sur-la-securite-locale_6670532_3232.html][Municipales : comment la gauche a fait évoluer son positionnement sur la sécurité locale]]
-- [[https://www.lemonde.fr/economie/article/2026/03/11/fin-du-groupe-aci-serial-repreneur-de-sites-industriels-pres-de-la-moitie-de-ses-filiales-ont-deja-ete-reprises_6670565_3234.html][Fin du groupe ACI, « serial repreneur » de sites industriels : près de la moitié de ses filiales ont déjà été reprises]]
+- [[https://www.lemonde.fr/planete/article/2026/03/11/prostate-sein-pancreas-certains-cancers-seraient-moins-frequents-chez-les-vegetariens_6670539_3244.html][Certains cancers seraient moins fréquents chez les végétariens : prostate, sein, pancréas…]]
 
 *** Le Figaro
 
@@ -111,11 +111,11 @@
 
 *** BBC News
 
+- [[https://www.bbc.com/news/articles/c1w5141vx53o?at_medium=RSS&at_campaign=rss][Oil price jumps despite deal to release record amount of reserves]]
 - [[https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&at_campaign=rss][Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large]]
-- [[https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss][Countries agree to record release of emergency oil reserves as prices surge]]
-- [[https://www.bbc.com/news/articles/c1mj1pyrzryo?at_medium=RSS&at_campaign=rss]['Even under missiles we carry on living' - how young Iranians are coping with war]]
-- [[https://www.bbc.com/news/articles/c620vwl97vyo?at_medium=RSS&at_campaign=rss][EU and UK demand Israel stop surge in West Bank settler violence since Iran war]]
-- [[https://www.bbc.com/news/articles/cx2grl7lrrmo?at_medium=RSS&at_campaign=rss][Three brothers arrested after explosion at US embassy in Oslo]]
+- [[https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&at_campaign=rss][Epstein used modelling agent to recruit girls, Brazilian women tell BBC]]
+- [[https://www.bbc.com/news/articles/c07jr2pe5j9o?at_medium=RSS&at_campaign=rss][Noma head chef resigns from restaurant amid abuse allegations]]
+- [[https://www.bbc.com/news/articles/cvg80pedxeyo?at_medium=RSS&at_campaign=rss][China's biggest political meeting is ending - what have we learned?]]
 
 *** The Guardian
 
@@ -151,11 +151,11 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/senegal-lawmakers-back-tougher-anti-lgbtq-law-with-up-to-10-years-in-prison/a-76315569?maca=en-rss-en-world-4025-rdf][Senegal lawmakers back tougher anti-LGBTQ+ law with up to 10 years in prison]]
+- [[https://www.dw.com/en/us-launches-new-trade-probes-that-could-lead-to-fresh-tariffs/a-76315448?maca=en-rss-en-world-4025-rdf][US launches new trade probes that could lead to fresh tariffs]]
 - [[https://www.dw.com/en/spain-withdraws-ambassador-to-israel-as-rift-intensifies/a-76310039?maca=en-rss-en-world-4025-rdf][Spain withdraws ambassador to Israel as rift intensifies]]
 - [[https://www.dw.com/en/uk-government-releases-mandelson-us-appointment-files/a-76307838?maca=en-rss-en-world-4025-rdf][UK government releases Mandelson US appointment files]]
 - [[https://www.dw.com/en/has-cambodia-really-cut-cybercrime-by-half/a-76309546?maca=en-rss-en-world-4025-rdf][Has Cambodia really cut cybercrime by half?]]
-- [[https://www.dw.com/en/rohingya-risk-lives-at-sea-to-flee-myanmar-bangladesh/a-76307157?maca=en-rss-en-world-4025-rdf][Rohingya risk lives at sea to flee Myanmar, Bangladesh]]
-- [[https://www.dw.com/en/why-south-africa-is-sending-soldiers-into-cities/a-76307027?maca=en-rss-en-world-4025-rdf][Why South Africa is sending soldiers into cities]]
 
 
 * 🧠 Think Tanks
