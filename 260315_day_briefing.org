@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 37.6°C | ⚖ Load: 0.00 | 🌐 Ping: 9.72ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 38.6°C | ⚖ Load: 0.00 | 🌐 Ping: 9.58ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -43,17 +43,17 @@
 
 - [[https://elpais.com/internacional/2026-03-14/estados-unidos-bombardea-la-isla-de-jarg-estrategica-para-el-petroleo-de-iran.html][Trump pide crear una flota internacional que proteja el estrecho de Ormuz tras bombardear la estratégica isla de Jarg]]
 - [[https://elpais.com/videos/2026-03-14/la-isla-de-jark-el-sustento-vital-para-iran-que-trump-ha-atacado.html][La isla de Jarg, el “sustento vital” para Irán que Trump ha atacado]]
-- [[https://elpais.com/internacional/2026-03-14/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html][Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Estados Unidos pide a sus ciudadanos que “abandonen Irak de forma inmediata”]]
 - [[https://elpais.com/internacional/2026-03-14/el-misterio-del-paradero-de-mojtaba-jamenei-el-nuevo-lider-supremo-de-iran.html][El misterio del paradero de Mojtaba Jameneí, el nuevo líder supremo de Irán]]
 - [[https://elpais.com/espana/2026-03-14/el-grito-del-no-a-la-guerra-vuelve-a-sonar-en-las-calles-de-madrid.html][El grito del “no a la guerra” vuelve a sonar en las calles españolas]]
+- [[https://elpais.com/us/2026-03-14/un-grupo-de-manifestantes-ataca-la-sede-del-partido-comunista-en-un-pueblo-de-cuba.html][Un grupo de manifestantes ataca la sede del Partido Comunista en la ciudad de Morón en Cuba]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/internacional/2026/03/14/69b59c4d21efa00e448b4570.html][Trump pide a sus aliados y China que se impliquen en una flota global para reabrir el Estrecho de Ormuz]]
-- [[https://www.elmundo.es/internacional/2026/03/14/69b4bdb9e4d4d841158b4579.html][EEUU lanza "uno de los bombardeos más poderosos en la Historia de Oriente Próximo" sobre la isla de Jark, el principal centro petrolero de Irán]]
-- [[https://www.elmundo.es/internacional/2026/03/13/69b45b52e4d4d8a3308b45aa.html][¿Por qué los Emiratos no combaten contra Irán?]]
-- [[https://www.elmundo.es/cultura/2026/03/13/69b44569e85ece487a8b45b9.html][Benjamin Radd: "Trump ya tenía problemas con la economía antes de que comenzara la guerra en Irán y ésta no ayuda a reducir el coste de la vida como prometió"]]
-- [[https://www.elmundo.es/elecciones/elecciones-castilla-y-leon/2026/03/13/69b4548ae9cf4af42d8b45a8.html][El 'cambio de cara' de Vox: una pasarela de aliados de Abascal para blindarse el 15-M]]
+- [[https://www.elmundo.es/elecciones/elecciones-castilla-y-leon/2026/03/14/69b5ad78e9cf4a9a688b45a2.html][El santuario de la derecha retrata el porvenir de Feijóo y Abascal]]
+- [[https://www.elmundo.es/espana/2026/03/15/69b59832e85ece11028b456e.html][Castilla y León ante el 15-M: de la resistencia del PP al PSOE reanimado con el 'No a la guerra': "No nos hemos derrumbado"]]
+- [[https://www.elmundo.es/internacional/2026/03/14/69b58ed221efa0fd678b4585.html][Cuatro escenarios para una "guerra del Ramadán" que va en escalada]]
+- [[https://www.elmundo.es/espana/2026/03/14/69b40c57fdddffec2f8b4578.html][Sánchez y Netanyahu consolidan el mayor enfriamiento diplomático entre España e Israel en 40 años]]
+- [[https://www.elmundo.es/ciencia-y-salud/salud/2026/03/15/69b55467fdddff58588b45a5.html][Los riesgos de la cadena de suministros farmacéuticos: "La logística ya está tensionada y el coste del transporte aéreo ha aumentado entre 30% y 100%"]]
 
 *** La Vanguardia
 
@@ -61,7 +61,7 @@
 - [[https://www.lavanguardia.com/internacional/20260314/11489754/estados-unidos-bombardea-estrategica-isla-petrolera-irani-kharg.html][EE.UU. bombardea la estratégica isla petrolera iraní de Jarg]]
 - [[https://www.lavanguardia.com/internacional/20260313/11487059/isla-intocable-enclave-respira-90-petroleo-irani.html][La isla intocable: el enclave por el que respira el 90% del petróleo iraní]]
 - [[https://www.lavanguardia.com/politica/20260314/11489390/dos-errores-dos-guerras.html][Dos errores, dos guerras]]
-- [[https://www.lavanguardia.com/internacional/20260314/11489734/guerra-iran-ataque-estados-unidos-trump-putin-espana-israel-bombardeos-teheran-hoy-en-directo.html][Suiza rechaza varias peticiones de sobrevuelo de aviones de EE.UU. por el vínculo con la guerra]]
+- [[https://www.lavanguardia.com/internacional/20260314/11490010/iran-desmiente-hegseth-asegura-hay-ningun-problema-nuevo-lider-supremo.html][Irán desmiente a EE.UU. y asegura que Mojtaba Jamenei “no tiene ningún problema”]]
 
 *** El Diario de Cantabria
 
@@ -83,21 +83,21 @@
 
 *** WSJ.com: World News
 
-- [[https://www.wsj.com/world/middle-east/why-did-trump-order-an-attack-on-irans-kharg-island-dcfceda8][Why Did Trump Order an Attack on Iran’s Kharg Island?]]
-- [[https://www.wsj.com/world/middle-east/trump-wants-to-secure-hormuz-heres-what-it-would-take-ce55720d][Trump Wants to Secure Hormuz. Here’s What It Would Take.]]
-- [[https://www.wsj.com/world/middle-east/five-takeaways-from-wsjs-reporting-on-trumps-decision-to-launch-a-war-in-iran-8ac226eb][Five Takeaways From WSJ’s Reporting on Trump’s Decision to Launch a War in Iran]]
-- [[https://www.wsj.com/world/middle-east/they-were-promised-regime-change-now-many-iranians-feel-betrayed-96302a4d][They Were Promised Regime Change. Now Many Iranians Feel Betrayed.]]
-- [[https://www.wsj.com/world/the-race-to-evacuate-the-worlds-elite-horses-from-the-iran-war-cf97183a][The Race to Evacuate the World’s Elite Horses From the Iran War]]
+- [[https://www.wsj.com/world/middle-east/three-more-members-of-the-iranian-womens-soccer-team-decide-to-return-to-iran-1953124d][Three More Members of the Iranian Women’s Soccer Team Decide to Return to Iran]]
+- [[https://www.wsj.com/world/for-xi-iran-war-reinforces-view-of-u-s-as-dangerous-superpower-13a8fcd5][For Xi, Iran War Reinforces View of U.S. as Dangerous Superpower]]
+- [[https://www.wsj.com/world/americas/chevron-venezuela-cia-moshiri-c88670fc][He Was Chevron’s Man in Venezuela—and a CIA Informant]]
+- [[https://www.wsj.com/world/middle-east/iran-war-global-economy-oil-05c33a38][Iran Tests U.S. Military Might With a Guerrilla Assault on the Global Economy]]
+- [[https://www.wsj.com/world/asia/kim-jong-un-oversees-test-of-tactical-nuke-launchers-9c6a08f6][Kim Jong Un Oversees Test of Tactical-Nuke Launchers]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/03/14/en-direct-guerre-au-moyen-orient-l-iran-annonce-de-nouveaux-tirs-de-missiles-sur-israel-des-drones-frappent-l-aeroport-de-la-capitale-du-koweit_6671147_3210.html][EN DIRECT, guerre au Moyen-Orient : le Hezbollah dit mener des affrontements « directs » avec les forces israéliennes dans le sud du Liban ; des drones frappent l’aéroport de la capitale du Koweït]]
-- [[https://www.lemonde.fr/politique/article/2026/03/14/les-elections-municipales-a-l-epreuve-de-la-fatigue-democratique-des-francais_6671218_823448.html][Les Français aiment beaucoup leurs maires, mais se rendront-ils pour autant en nombre aux urnes demain ?]]
-- [[https://www.lemonde.fr/sport/live/2026/03/14/en-direct-france-angleterre-suivez-le-tournoi-des-six-nations_6671234_3242.html][EN DIRECT, France-Angleterre : les Bleus, vainqueurs sur le fil d’un crunch fou, remportent le Tournoi des six nations]]
-- [[https://www.lemonde.fr/disparitions/article/2026/03/14/jurgen-habermas-philosophe-allemand-intellectuel-combatif-et-esprit-encyclopedique-est-mort-a-l-age-de-96-ans_6671207_3382.html][Jürgen Habermas, philosophe allemand, intellectuel combatif et esprit encyclopédique, est mort à l’âge de 96 ans]]
-- [[https://www.lemonde.fr/intimites/article/2026/03/14/je-refuse-les-reunions-entre-midi-et-14-heures-j-ai-padel-comment-les-mordus-de-sport-organisent-leur-vie-autour-de-leur-pratique_6671219_6190330.html][« Je refuse les réunions entre midi et 14 heures, j’ai padel » : comment les mordus de sport organisent leur vie autour de leur pratique]]
+- [[https://www.lemonde.fr/politique/article/2026/03/14/les-elections-municipales-a-l-epreuve-de-la-fatigue-democratique-des-francais_6671218_823448.html][Les Français aiment beaucoup leurs maires, mais se rendront-ils pour autant en nombre aux urnes ?]]
+- [[https://www.lemonde.fr/international/live/2026/03/15/en-direct-guerre-au-moyen-orient-le-hezbollah-dit-mener-des-affrontements-directs-avec-les-forces-israeliennes-dans-le-sud-du-liban-des-drones-frappent-l-aeroport-de-la-capitale-du-koweit_6671147_3210.html][EN DIRECT, guerre au Moyen-Orient : Donald Trump estime que d’autres pays « doivent s’occuper » de la sécurité du détroit d’Ormuz]]
+- [[https://www.lemonde.fr/sport/article/2026/03/15/france-angleterre-au-tournoi-des-six-nations-les-bleus-conservent-leur-titre-grace-aux-sauveurs-ramos-et-lbb_6671248_3242.html][France-Angleterre : au Tournoi des six nations, les Bleus conservent leur titre grâce aux sauveurs Ramos et « LBB »]]
+- [[https://www.lemonde.fr/international/article/2026/03/15/aux-etats-unis-les-medias-menaces-de-perdre-leur-licence-s-ils-diffusent-des-informations-jugees-deformees-sur-la-guerre-au-moyen-orient_6671246_3210.html][Aux Etats-Unis, les médias menacés de perdre leur licence s’ils diffusent des informations jugées « déformées » sur la guerre au Moyen-Orient]]
+- [[https://www.lemonde.fr/afrique/article/2026/03/15/au-congo-denis-sassou-nguesso-l-empereur-qui-ne-voulait-pas-quitter-son-trone_6671252_3212.html][Au Congo, Denis Sassou Nguesso, « l’empereur » qui ne voulait pas quitter son trône]]
 
 *** Le Figaro
 
@@ -111,11 +111,11 @@
 
 *** BBC News
 
+- [[https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss][BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah]]
 - [[https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&at_campaign=rss][Three more Iran football team members change minds over asylum]]
+- [[https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&at_campaign=rss]['Gruesome' war bets fuel calls for crackdown on prediction markets]]
 - [[https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&at_campaign=rss][Hamas urges key ally Iran to halt attacks on Gulf states]]
-- [[https://www.bbc.com/news/articles/cg4g7kn99q3o?at_medium=RSS&at_campaign=rss][Treasure hunter freed from prison after refusing to turn over shipwreck gold]]
-- [[https://www.bbc.com/news/articles/c0mger2zkmwo?at_medium=RSS&at_campaign=rss][Russia exploiting Iran war, Zelensky says after fresh bombardment]]
-- [[https://www.bbc.com/news/articles/cev7111kx9wo?at_medium=RSS&at_campaign=rss][Rescuers blame weather and 'underprepared skiers' for rise in Alps avalanche deaths]]
+- [[https://www.bbc.com/news/articles/c875zd7de5xo?at_medium=RSS&at_campaign=rss][Cuban protesters ransack Communist office as energy crisis deepens]]
 
 *** The Guardian
 
@@ -151,11 +151,11 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/cuba-protesters-attack-ruling-party-s-office-amid-blackouts/a-76363513?maca=en-rss-en-world-4025-rdf][Cuba: Protesters attack ruling party's office amid blackouts]]
 - [[https://www.dw.com/en/belarus-kolesnikova-receives-charlemagne-prize-in-germany/a-76361654?maca=en-rss-en-world-4025-rdf][Belarus' Kolesnikova receives Charlemagne Prize in Germany]]
 - [[https://www.dw.com/en/pakistan-shoots-down-taliban-drones-after-strikes-on-kabul/a-76359740?maca=en-rss-en-world-4025-rdf][Pakistan shoots down Taliban drones after strikes on Kabul]]
 - [[https://www.dw.com/en/us-vs-iran-three-generations-of-conflict/a-76354324?maca=en-rss-en-world-4025-rdf][US vs. Iran: Three generations of conflict]]
 - [[https://www.dw.com/en/amsterdam-jewish-school-targeted-in-attack/a-76358579?maca=en-rss-en-world-4025-rdf][Amsterdam Jewish school targeted in attack]]
-- [[https://www.dw.com/en/russia-working-to-tip-scale-for-orban-in-hungary-election/a-76349043?maca=en-rss-en-world-4025-rdf][Russia working to 'tip scale' for Orban in Hungary election]]
 
 
 * 🧠 Think Tanks
