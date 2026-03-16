@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 38.6°C | ⚖ Load: 0.03 | 🌐 Ping: 9.66ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 38.6°C | ⚖ Load: 0.48 | 🌐 Ping: 9.49ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,45 +41,44 @@
 
 *** El País
 
-- [[https://elpais.com/espana/elecciones-castilla-y-leon/2026-03-15/el-pp-ganas-las-elecciones-y-frena-a-vox-en-castilla-y-leon-mientras-el-psoe-se-recupera.html][El PP gana las elecciones y contiene a Vox en Castilla y León mientras el PSOE se recupera]]
-- [[https://elpais.com/espana/elecciones-castilla-y-leon/2026-03-16/resultados-y-reacciones-politicas-tras-las-elecciones-de-castilla-y-leon-en-directo.html][Resultados y reacciones políticas tras las elecciones de Castilla y León, en directo | Carlos Martínez (PSOE) pone el foco en Vox tras los resultados electorales: “El monstruo sigue ahí”]]
-- [[https://elpais.com/espana/elecciones-castilla-y-leon/2026-03-15/vox-frena-su-ascenso-no-alcanza-el-20-de-los-votos-y-aumenta-la-distancia-con-el-pp.html][Vox modera su ascenso, no alcanza el 20% de los votos y se queda más lejos del PP]]
-- [[https://elpais.com/espana/elecciones-castilla-y-leon/2026-03-15/carlos-martinez-da-oxigeno-al-psoe-con-dos-escanos-mas-y-un-leve-repunte-en-votos.html][Carlos Martínez da oxígeno al PSOE con dos escaños más y un leve repunte en votos]]
+- [[https://elpais.com/espana/2026-03-16/feijoo-presiona-a-vox-para-llegar-a-un-acuerdo-solo-han-puesto-excusas-y-ya-esta-bien.html][Feijóo presiona a Vox para llegar a un acuerdo: “Solo han puesto excusas y ya está bien”]]
+- [[https://elpais.com/espana/elecciones-castilla-y-leon/2026-03-16/resultados-y-reacciones-politicas-tras-las-elecciones-de-castilla-y-leon-en-directo.html][Resultados y reacciones políticas tras las elecciones de Castilla y León, en directo | Mínguez (PSOE): “Cada pacto entre el PP y Vox es un derecho que pierde la ciudadanía”]]
+- [[https://elpais.com/espana/elecciones-castilla-y-leon/2026-03-16/el-balance-global-de-extremadura-aragon-y-castilla-y-leon-el-pp-queda-a-merced-de-vox-el-partido-que-mas-avanza.html][El balance global de Extremadura, Aragón y Castilla y León: el PP queda a merced de Vox, el partido que más avanza]]
+- [[https://elpais.com/espana/elecciones-castilla-y-leon/2026-03-16/alvise-lastra-a-vox-duplica-a-podemos-y-fracasa-de-nuevo-al-cuerno-la-partitocracia-y-los-politicos-parasitos.html][Alvise lastra a Vox, duplica a Podemos y fracasa de nuevo: “Al cuerno la partitocracia y los políticos parásitos”]]
 - [[https://elpais.com/espana/elecciones-castilla-y-leon/2026-03-15/los-resultados-de-las-elecciones-en-castilla-y-leon-calle-a-calle.html][Los resultados de las elecciones en Castilla y León, calle a calle]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/elecciones/elecciones-castilla-y-leon/2026/03/16/69b6ef7de4d4d8b1638b4580.html][La nueva victoria del PP aleja al PSOE e impone su techo a Abascal]]
-- [[https://www.elmundo.es/elecciones/elecciones-castilla-y-leon/2026/03/16/69b6f06ee4d4d895408b4582.html][Un paso crucial para el futuro de la derecha: el PP se sacude el miedo a Vox]]
-- [[https://www.elmundo.es/elecciones/elecciones-castilla-y-leon/2026/03/15/69b6f174fdddfff2058b4588.html][Martínez, outsider del sanchismo, insufla oxígeno a Sánchez y afianza la estrategia de aglutinar el voto de izquierda: "El 'no a la guerra' nos ha venido bien"]]
+- [[https://www.elmundo.es/espana/2026/03/16/69b7e713e4d4d888648b459c.html][Abascal asegura que Vox entrará en los tres gobiernos autonómicos si hay un "acuerdo programático" con el PP]]
+- [[https://www.elmundo.es/espana/2026/03/16/69b7f906fc6c83be2b8b4596.html][Feijóo exige a Vox que deje de poner "excusas" y cumpla su "obligación" de desbloquear los gobiernos autonómicos: "¡Ya está bien!"]]
 - [[https://www.elmundo.es/elecciones/elecciones-castilla-y-leon/2026/03/16/69b7c0f221efa0177f8b4572.html][Mañueco pide a Vox un pacto parlamentario "de cuatro años", pero sin entrar en el Gobierno]]
-- [[https://www.elmundo.es/elecciones/elecciones-castilla-y-leon/2026/03/16/69b72b96fdddffd67e8b4593.html][El mapa de los resultados de las elecciones de Castilla y León 2026, calle a calle]]
+- [[https://www.elmundo.es/elecciones/elecciones-castilla-y-leon/2026/03/16/69b8129ce9cf4ad6648b4587.html][El PP recupera terreno, el PSOE frena su caída y Vox toca techo: radiografía de las elecciones de Castilla y León 2026]]
+- [[https://www.elmundo.es/espana/2026/03/16/69b7fbc6fc6c83c0648b4589.html][Podemos anuncia una "reflexión" sobre su estrategia que se conocerá "en los próximos días"]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/politica/20260316/11490577/pp-impone-psoe-alza-vox-rompe-buena-racha.html][El PP se impone a un PSOE al alza mientras Vox rompe su buena racha]]
-- [[https://www.lavanguardia.com/politica/20260315/11490569/psoe-mejora-resultados-suma-otros-dos-escanos-retiene-mas-30-voto.html][El PSOE mejora sus resultados: suma otros dos escaños y retiene más del 30% del voto]]
+- [[https://www.lavanguardia.com/politica/20260316/11491269/feijoo-acusa-vox-poner-excusas-pactar-pp-creo-esta.html][Feijóo acusa a Vox de “poner excusas” para no pactar con el PP: “Ya está bien”]]
+- [[https://www.lavanguardia.com/politica/20260316/11491138/abascal-le-decir-senor-feijoo-gobernar-tres-regiones.html][Abascal: “Le tengo que decir al señor Feijóo que sí que vamos a gobernar en las tres regiones”]]
+- [[https://www.lavanguardia.com/politica/20260316/11491340/sanchez-pone-foco-pp-presupuestos-investidura-pactos-vox-son-gratis.html][Sánchez pone el foco en el PP: “Ni presupuestos ni investidura, los pactos con Vox no son gratis”]]
 - [[https://www.lavanguardia.com/politica/20260315/11490555/llega-hora-verdad-feijoo.html][Llega la hora de la verdad para Feijóo]]
-- [[https://www.lavanguardia.com/politica/20260316/11490567/castilla-leon-superdomingo-andaluz.html][De Castilla y León al superdomingo andaluz]]
-- [[https://www.lavanguardia.com/opinion/20260316/11490561/sueno-vox-nubla.html][El sueño de Vox se nubla]]
+- [[https://www.lavanguardia.com/politica/20260316/11491062/feijoo-aleja-sorpasso.html][Feijóo aleja el sorpasso]]
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/sindicato-medico-cantabria-espera-que-seguimiento-huelga-sea-similar-semanas-previas/20260316115557189972.html][El Sindicato Médico de Cantabria espera que el seguimiento de la huelga sea "similar" a las semanas previas]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/una/20260316113838189971.html][Colectivos Vecinales marchan por la defensa de Campoo-Los Valles y contra un PROT "discriminatorio lleno de irregularidades"]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/detenido-asesinato-machista-pedrena-habia-sido-condenado-dos-casos-violencia-genero-madrid/20260316110737189969.html][El detenido por el presunto asesinato machista de Pedreña tenía dos condenas previas por violencia de género en Madrid]]
-- [[https://eldiariocantabria.publico.es/articulo/politica/buruaga-celebra-triunfo-pp-castilla-leon-ha-frenado-ascenso-vox-es-opcion-preferida-espanoles/20260316104825189967.html][Buruaga celebra la victoria del PP en Castilla y León: "Ha frenado el ascenso de Vox. Es la opción preferida por los españoles"]]
-- [[https://eldiariocantabria.publico.es/articulo/oriental/unidos-x-laredo-denuncia-presunta-grave-irregularidad-gestion-personal-ayuntamiento/20260316102235189965.html][UxL denuncia una presunta y "grave" irregularidad en la gestión de personal del Ayuntamiento]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/mas-1800-personas-reclaman-dimision-igual-tragedia-bocal-traves-change-org/20260316175851190003.html][Más de 1.800 personas reclaman la dimisión de Igual por la tragedia del Bocal a través de Change.org]]
+- [[https://eldiariocantabria.publico.es/articulo/sociedad/invierno-magico-polonia/20260316174645190002.html][Invierno mágico en Polonia]]
+- [[https://eldiariocantabria.publico.es/articulo/politica/pp-vox-imponen-mayoria-que-cantabria-apoye-prohibir-burka-espacios-publicos/20260316171509189987.html][PP y Vox imponen su mayoría para que Cantabria apoye prohibir el burka en espacios públicos]]
+- [[https://eldiariocantabria.publico.es/articulo/sanidad/sindicato-medico-cifra-60-seguimiento-huelga-atencion-primaria-65-valdecilla/20260316164549189985.html][El Sindicato Médico cifra en un 60% el seguimiento de la huelga en Atención Primaria, y en un 65% en Valdecilla]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/detenido-conductor-drogado-copiloto-coche-que-encontro-cocaina-dinero-bascula/20260316163756189984.html][Detenido el conductor drogado y la copiloto de un coche en el que se encontró cocaína, dinero y una báscula]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
-- [[https://www.washingtonpost.com/world/2026/03/16/dubai-airport-drone-strike-iran/][Drone strike hits Dubai airport, a major global hub, sparking huge fire]]
+- [[https://www.washingtonpost.com/national-security/2026/03/16/trump-xi-summit-delayed-iran-hormuz-shipping/][Trump-Xi summit likely delayed as president pushes China to help open Hormuz]]
+- [[https://www.washingtonpost.com/world/2026/03/16/dubai-airport-drone-strike-iran/][Iran targets commerce as drone hits Dubai airport; Israel says war will go on]]
 - [[https://www.washingtonpost.com/world/2026/03/15/trump-el-salvador-cecot-deportations/][Deportees sent by Trump to Salvadoran prison are still stuck a year later]]
 - [[https://www.washingtonpost.com/world/2026/03/15/pope-leo-trump-war-iran/][To criticize an American-led war, an American pope turns to allies]]
-- [[https://www.washingtonpost.com/politics/2026/03/13/trump-us-iran-war-kharg-island-oil/][Trump says U.S. struck Kharg Island, core of Iran’s oil economy]]
-- [[https://www.washingtonpost.com/lifestyle/2026/03/14/penguins-pebbles-paint-edinburgh-zoo/][Kids in hospital help penguins woo mates with painted pebbles]]
 
 *** WSJ.com: World News
 
@@ -93,37 +92,37 @@
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/politique/live/2026/03/16/en-direct-resultats-des-municipales-2026-les-listes-de-gauche-se-dechirent-a-paris-et-marseille-mais-trouvent-un-compromis-a-toulouse_6671274_823448.html][EN DIRECT, résultats des municipales 2026 : Benoît Payan écarte définitivement une alliance avec LFI à Marseille ; Rachida Dati annonce qu’elle va « travailler » avec Pierre-Yves Bournazel à Paris]]
-- [[https://www.lemonde.fr/idees/article/2026/03/16/elections-municipales-2026-un-paysage-fragmente-et-instable_6671387_3232.html][Elections municipales 2026 : un paysage fragmenté et instable]]
-- [[https://www.lemonde.fr/politique/article/2026/03/16/municipales-2026-apres-des-resultats-en-demi-teinte-les-ecologistes-rejouent-le-role-de-trait-d-union-entre-lfi-et-le-ps-pour-sauver-des-villes_6671374_823448.html][Les Ecologistes rejouent le rôle de « trait d’union » entre LFI et le PS aux municipales pour sauver des villes]]
-- [[https://www.lemonde.fr/international/live/2026/03/16/en-direct-guerre-au-moyen-orient-des-attaques-de-drones-sur-une-zone-petroliere-aux-emirats-arabes-unis-israel-constate-une-baisse-significative-de-tirs-de-missiles-iraniens_6671147_3210.html][EN DIRECT, guerre au Moyen-Orient : Israël mène des attaques aériennes et des excursions terrestres au Liban et poursuit les bombardements sur l’Iran]]
-- [[https://www.lemonde.fr/economie/article/2026/03/16/petrole-les-frappes-sur-l-ile-de-kharg-renforcent-les-craintes-d-une-perturbation-durable-des-approvisionnements_6671376_3234.html][Ile de Kharg : les frappes américaines sur ce point névralgique de l’industrie pétrolière de l’Iran font craindre des perturbations durables]]
+- [[https://www.lemonde.fr/politique/live/2026/03/16/en-direct-resultats-des-municipales-2026-a-lyon-jean-michel-aulas-voit-des-reserves-de-voix-partout_6671274_823448.html][EN DIRECT, résultats des municipales 2026 : à Lyon, la liste du maire sortant, l’écologiste Grégory Doucet, annonce un accord avec LFI ; à Limoges, les candidats « insoumis » et socialistes fusionnent leurs listes]]
+- [[https://www.lemonde.fr/les-decodeurs/article/2026/03/16/municipales-2026-les-cinq-enseignements-du-premier-tour_6671400_4355770.html][Municipales 2026 : les cinq enseignements du premier tour]]
+- [[https://www.lemonde.fr/politique/article/2026/03/16/municipales-a-menton-louis-sarkozy-essuie-une-lourde-defaite_6671406_823448.html][Louis Sarkozy essuie une lourde défaite lors des municipales à Menton]]
+- [[https://www.lemonde.fr/international/live/2026/03/16/en-direct-guerre-au-moyen-orient-donald-trump-va-s-adresser-a-la-presse-lundi-des-explosions-entendues-a-jerusalem_6671147_3210.html][EN DIRECT, guerre au Moyen-Orient : Donald Trump reproche à certains pays leur « manque d’enthousiasme » concernant la sécurisation du détroit d’Ormuz]]
+- [[https://www.lemonde.fr/international/article/2026/03/16/au-sud-du-liban-les-habitants-craignent-une-invasion-israelienne_6671385_3210.html][« On est toujours vivants, mais pour combien de temps ? » : les habitants du sud du Liban redoutent une invasion israélienne]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/elections/municipales/en-direct-municipales-2026-resultats-paris-lyon-marseille-lille-toulouse-lfi-rn-lr-horizons-gauche-droite-centre-20260316][EN DIRECT : Municipales à Marseille : Benoît Payan (DVG) ne veut pas d’alliance avec LFI, le RN en embuscade]]
+- [[https://www.lefigaro.fr/elections/municipales/en-direct-municipales-2026-resultats-paris-lyon-marseille-lille-toulouse-lfi-rn-lr-horizons-gauche-droite-centre-20260316][EN DIRECT - Municipales 2026 : à Lyon, Grégory Doucet annonce être rejoint par LFI]]
 - [[https://www.lefigaro.fr/elections/municipales/municipales-2026-les-resultats-commune-par-commune-en-carte-et-en-direct-20260315][Municipales 2026 : les résultats commune par commune en carte]]
 - [[https://www.lefigaro.fr/elections/municipales/municipales-2026-paris-lyon-et-marseille-les-resultats-detailles-20260316][Municipales 2026 : les résultats détaillés de Paris, Lyon et Marseille]]
-- [[https://www.lefigaro.fr/elections/municipales/municipales-a-paris-nous-devons-reussir-l-alternance-rachida-dati-va-travailler-avec-bournazel-20260316][Municipales à Paris: «Nous devons réussir l’alternance», Rachida Dati veut «travailler» avec Bournazel qui temporise]]
-- [[https://www.lefigaro.fr/elections/municipales/municipales-a-toulouse-la-gauche-se-range-derriere-lfi-pour-le-second-tour-20260316][Municipales à Toulouse : la gauche se range derrière LFI pour le second tour]]
+- [[https://www.lefigaro.fr/international/en-direct-conflit-au-moyen-orient-donald-trump-fait-pression-sur-l-otan-et-pekin-pour-rouvrir-le-detroit-d-ormuz-20260316][EN DIRECT - Guerre au Moyen-Orient : Donald Trump reproche à certains pays leur manque «d’enthousiasme» concernant le détroit d’Ormuz]]
+- [[https://www.lefigaro.fr/international/au-royaume-uni-les-britanniques-envisagent-de-deployer-des-drones-intercepteurs-et-anti-mines-pour-securiser-le-detroit-d-ormuz-20260316][Au Royaume-Uni, les Britanniques envisagent de déployer des drones intercepteurs et anti-mines pour sécuriser le détroit d’Ormuz]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss]['A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war]]
-- [[https://www.bbc.com/news/articles/clygdwqw5dvo?at_medium=RSS&at_campaign=rss][Iran taking steps to prevent anti-establishment protests, Tehran residents tell BBC]]
+- [[https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss][Wary allies show there's no quick fix to Trump's Iran crisis]]
+- [[https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss][Iran hits key UAE oil port and Dubai airport]]
 - [[https://www.bbc.com/news/articles/cx2dl5j0w23o?at_medium=RSS&at_campaign=rss][How US groups are driving a new generation of anti-abortion activism in the UK]]
-- [[https://www.bbc.com/news/articles/cqj9kgxqjwjo?at_medium=RSS&at_campaign=rss][TikTok and Meta risked safety to win algorithm arms race, whistleblowers say]]
-- [[https://www.bbc.com/news/articles/c363gpe3exjo?at_medium=RSS&at_campaign=rss][Ten killed in fire at India hospital intensive care unit]]
+- [[https://www.bbc.com/news/articles/cqj9kgxqjwjo?at_medium=RSS&at_campaign=rss][Meta and TikTok let harmful content rise after evidence outrage drove engagement, say whistleblowers]]
+- [[https://www.bbc.com/news/articles/cp32vy321r7o?at_medium=RSS&at_campaign=rss][Ecuador deploys 75,000 soldiers and police to combat drug gangs]]
 
 *** The Guardian
 
+- [[https://www.theguardian.com/world/2026/mar/16/africa-particularly-vulnerable-iran-conflict-disrupts-supply-chains][Africa particularly vulnerable as Iran conflict disrupts supply chains, say experts]]
 - [[https://www.theguardian.com/media/2026/mar/15/nigerias-online-content-creator-market-has-boomed-can-the-skit-makers-and-streamers-make-it-pay][Nigeria’s online content creator market has boomed. Can the skit-makers and streamers make it pay?]]
 - [[https://www.theguardian.com/world/2026/mar/13/france-returns-sacred-djidji-ayokwe-talking-drum-looted-from-cote-divoire][France returns sacred talking drum looted from Côte d’Ivoire over 100 years ago]]
 - [[https://www.theguardian.com/us-news/2026/mar/12/trump-immigration-deportations-eswatini][Eswatini says it received more ‘third country’ deportees as part of deal with Trump administration]]
 - [[https://www.theguardian.com/global-development/2026/mar/12/uk-government-axes-flagship-global-health-project][UK government axes flagship global health project]]
-- [[https://www.theguardian.com/global-development/2026/mar/12/invasive-ai-led-mass-surveillance-in-africa-violating-freedoms-warn-experts][‘Invasive’ AI-led mass surveillance in Africa violating freedoms, warn experts]]
 
 ** 🇮🇹 Italia
 
@@ -151,11 +150,11 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/china-ethnic-unity-law-sparks-fears-of-forced-integration/a-76383259?maca=en-rss-en-world-4025-rdf][China: 'Ethnic unity' law sparks fears of forced integration]]
+- [[https://www.dw.com/en/africa-what-oil-producers-can-do-to-counter-price-shocks/a-76376251?maca=en-rss-en-world-4025-rdf][Africa: What oil producers can do to counter price shocks]]
+- [[https://www.dw.com/en/india-s-parliament-adds-an-lgbtq-voice-for-the-first-time/a-76379210?maca=en-rss-en-world-4025-rdf][India's Parliament adds an LGBTQ+ voice for the first time]]
+- [[https://www.dw.com/en/south-korea-uneasy-as-us-moves-air-defenses-to-middle-east/a-76378551?maca=en-rss-en-world-4025-rdf][South Korea uneasy as US moves air defenses to Middle East]]
 - [[https://www.dw.com/en/azerbaijan-frenchman-sentenced-to-10-years-for-spying/a-76375984?maca=en-rss-en-world-4025-rdf][Azerbaijan: Frenchman sentenced to 10 years for spying]]
-- [[https://www.dw.com/en/more-women-sit-in-african-parliaments-but-equality-eludes/a-76291235?maca=en-rss-en-world-4025-rdf][More women sit in African parliaments — but equality eludes]]
-- [[https://www.dw.com/en/us-china-trade-talks-stable-despite-mutual-accusations/a-76373617?maca=en-rss-en-world-4025-rdf][US-China trade talks 'stable' despite mutual accusations]]
-- [[https://www.dw.com/en/mexico-city-sets-world-record-for-largest-soccer-class/a-76371614?maca=en-rss-en-world-4025-rdf][Mexico City sets world record for largest soccer class]]
-- [[https://www.dw.com/en/madagascar-anti-corruption-chief-appointed-as-new-pm/a-76368134?maca=en-rss-en-world-4025-rdf][Madagascar anti-corruption chief appointed as new PM]]
 
 
 * 🧠 Think Tanks
