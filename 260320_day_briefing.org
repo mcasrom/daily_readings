@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 37.6°C | ⚖ Load: 0.57 | 🌐 Ping: 9.35ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 38.6°C | ⚖ Load: 0.00 | 🌐 Ping: 9.21ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,81 +41,81 @@
 
 *** El País
 
-- [[https://elpais.com/espana/2026-03-20/ultima-hora-de-la-actualidad-politica-en-directo.html][Última hora de la actualidad política, en directo | Comienza el Consejo de Ministros sin un acuerdo cerrado entre PSOE y Sumar]]
-- [[https://elpais.com/economia/2026-03-20/el-gobierno-rebajara-la-fiscalidad-de-los-combustibles-y-suspendera-el-impuesto-sobre-el-valor-de-produccion-electrica.html][El Gobierno bajará al 10% el IVA de gasolina, gasóleo, luz y gas]]
-- [[https://elpais.com/internacional/2026-03-20/trump-busca-mas-dinero-y-refuerzos-militares-para-una-nueva-fase-de-la-guerra-en-iran.html][Trump busca más dinero y refuerzos militares para una nueva fase de la guerra en Irán]]
-- [[https://elpais.com/internacional/2026-03-20/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html][Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Muere el portavoz de la Guardia Revolucionaria de Irán en un ataque aéreo]]
-- [[https://elpais.com/internacional/2026-03-20/la-ue-lanza-la-respuesta-a-corto-plazo-contra-la-subida-de-precios-de-la-energia.html][La UE prepara una respuesta “a corto plazo” contra la subida de precios de la energía]]
+- [[https://elpais.com/espana/2026-03-20/el-gobierno-acuerda-dividir-las-medidas-contra-la-guerra-en-dos-decretos-para-salvar-la-crisis-entre-psoe-y-sumar.html][Sánchez destina 5.000 millones a paliar la subida de precios y concede a Sumar la congelación de alquileres tras su plante]]
+- [[https://elpais.com/economia/2026-03-20/el-gobierno-rebajara-la-fiscalidad-de-los-combustibles-y-suspendera-el-impuesto-sobre-el-valor-de-produccion-electrica.html][El Gobierno baja al 10% el IVA de gasolina, gasóleo, luz y gas y da ayudas al combustible de los profesionales]]
+- [[https://elpais.com/internacional/2026-03-20/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html][Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Trump llama “cobardes” a los socios de la OTAN por no sumarse a la guerra contra Irán]]
+- [[https://elpais.com/america/2026-03-20/cuba-espera-con-ansias-la-ayuda-humanitaria-de-la-flotilla-nuestra-america-dios-quiera-que-me-llegue-algo.html][Cuba espera con ansias la ayuda humanitaria de la flotilla ‘Nuestra América’: “Dios quiera que me llegue algo”]]
+- [[https://elpais.com/america-colombia/2026-03-20/dos-fiscales-federales-de-estados-unidos-investigan-a-gustavo-petro-por-posibles-vinculos-con-narcos.html][Dos fiscales federales de Estados Unidos investigan a Gustavo Petro por posibles vínculos con narcos]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/03/20/69bd1491e4d4d8475b8b4575.html][Sumar se sienta al fin en el Consejo de Ministros tras retrasarlo dos horas para forzar una negociación de la medidas por la guerra en Oriente Próximo]]
-- [[https://www.elmundo.es/economia/empresas/2026/03/20/69bc2cb321efa0da0e8b4596.html][El Gobierno bajará el IVA de luz, gas y carburantes y recuperará el escudo social a los vulnerables en el plan anticrisis por la guerra en Irán]]
-- [[https://www.elmundo.es/espana/2026/03/19/69bc39f6fc6c8344468b4571.html][La Fiscalía Europea abre una investigación por malversación en los fondos para las obras en la vía de Adamuz]]
-- [[https://www.elmundo.es/internacional/2026/03/19/69bc4a58e4d4d811048b45b8.html][Así viven la guerra los españoles en Israel: "Mis hijos pequeños ven las sirenas e ir al refugio como algo divertido"]]
-- [[https://www.elmundo.es/internacional/2026/03/19/69bc4801e85ece853b8b458a.html][La UE exige "pleno respeto al Derecho internacional por todas las partes" en la guerra de Irán pero no cita a EEUU ni Israel]]
+- [[https://www.elmundo.es/espana/2026/03/20/69bd1491e4d4d8475b8b4575.html][El Gobierno salva con dos decretos, para incluir en uno Vivienda, su mayor crisis interna tras un plantón de dos horas de Sumar en el Consejo de Ministros]]
+- [[https://www.elmundo.es/espana/2026/03/20/69bcfbe221efa0c2788b4599.html][Sánchez minimiza como un "salseo" el plantón de dos horas de Sumar y el sector de Díaz dice que su continuidad en el Gobierno "no" estuvo en peligro]]
+- [[https://www.elmundo.es/economia/empresas/2026/03/20/69bc2cb321efa0da0e8b4596.html][El Gobierno baja el IVA de la luz, el gas y los carburantes, prohíbe los despidos y controlará los márgenes de las empresas durante la guerra de Irán]]
+- [[https://www.elmundo.es/internacional/2026/03/20/69bd6fa4e85eceac208b45a5.html][EEUU estudia tomar la isla iraní de Jark para romper el bloqueo del Estrecho de Ormuz]]
+- [[https://www.elmundo.es/internacional/2026/03/20/69bd596621efa0b7608b456d.html][Irán anuncia la muerte de otros dos altos cargos en ataques israelíes]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/economia/20260320/11494731/gobierno-rebajara-10-iva-carburantes-guerra-iran.html][El Gobierno rebajará al 10% el IVA de los carburantes ante la guerra en Irán]]
-- [[https://www.lavanguardia.com/economia/20260320/11494771/bolsas-ibex-35-guerra-iran-petroleo-gas-precios.html][Rebote en las bolsas por la menor tensión en el petróleo y el gas]]
-- [[https://www.lavanguardia.com/politica/20260320/11494825/retraso-consejo-ministros-choque-psoe-sumar-alquileres-margenes-iran.html][El Consejo de Ministros se retrasa por el choque entre PSOE y Sumar sobre el paquete por la guerra de Irán]]
-- [[https://www.lavanguardia.com/economia/20260320/11494365/sector-alimentario-anticipa-subida-precios-cesta-compra-guerra-iran.html][El sector alimentario anticipa una subida de precios en la cesta de la compra por la guerra de Irán]]
+- [[https://www.lavanguardia.com/politica/20260320/11495094/sanchez-eleva-5-000-millones-euros-primera-factura-guerra-enfadado.html][Sánchez eleva a 5.000 millones la primera factura de la guerra: “Estoy muy enfadado”]]
+- [[https://www.lavanguardia.com/economia/20260320/11495041/factura-recibo-electricidad-luz-iva-impuestos-gobierno.html][Cuánto costará la factura de la luz con la reducción del IVA e impuestos del Gobierno]]
+- [[https://www.lavanguardia.com/economia/20260320/11495136/plan-choque-guerra-iva-bonificaciones-alquileres.html][El plan de choque contra la guerra: IVA, bonificaciones y alquileres]]
+- [[https://www.lavanguardia.com/opinion/20260320/11494429/guerra-impone.html][El “no a la guerra” se impone]]
 - [[https://www.lavanguardia.com/internacional/20260320/11494402/iran-apuesta-guerra-larga-amenaza-economia-mundial.html][Irán apuesta por una guerra larga y amenaza a la economía mundial]]
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/continua-goteo-registros-cantabria-dentro-gran-operativo-trafico-drogas-armas-que-suma-12-detenidos/20260320115233190196.html][Continúa el goteo de registros en Cantabria dentro del gran operativo contra el tráfico de drogas y armas, que ya suma 12 detenidos]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/fraude-itv-detenidas-cuatro-personas-pasar-inspecciones-falsas-estacion-cantabria/20260320113528190194.html][Fraude en la ITV: Detenidas cuatro personas por pasar inspecciones falsas en una estación de Cantabria]]
-- [[https://eldiariocantabria.publico.es/articulo/politica/denuncian-que-ayuntamiento-laredo-ayuntamiento-incumpliendo-ley-bienestar-animal-situacion-es-reflejo-politica-escaparate/20260320111822190192.html][Denuncian que Laredo paraliza el programa de control de colonias felinas, un servicio obligatorio para los ayuntamientos: "Esta situación es el reflejo de una política de escaparate"]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/has-comprado-yogures-bifidus-marca-sanidad-pide-consumirlos-error-etiquetado/20260320105510190190.html][¿Has comprado yogures bífidus de esta marca? Sanidad pide no consumirlos por un error en el etiquetado]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/atropellados-dos-hombres-santander-cuando-cruzaban-sendos-pasos-peatones/20260320103105190188.html][Atropellados dos hombres en Santander cuando cruzaban por sendos pasos de peatones]]
+- [[https://eldiariocantabria.publico.es/articulo/politica/nace-plataforma-defensa-europa-cantabria/20260320175559190216.html][Nace la Plataforma para la Defensa de Europa en Cantabria]]
+- [[https://eldiariocantabria.publico.es/articulo/medio-ambiente/valdecilla-elimina-gas-quirurgico-mas-contaminante-capaz-persistir-atmosfera-mas-110-anos/20260320174729190215.html][Valdecilla elimina el gas quirúrgico más contaminante, capaz de persistir en la atmósfera más de 110 años]]
+- [[https://eldiariocantabria.publico.es/articulo/politica/cantabristas-pide-denegar-construccion-edificio-apartamentos-turisticos-suelo-rustico-liencres/20260320173622190214.html][Cantabristas pide denegar la construcción de un edificio de apartamentos turísticos en suelo rústico de Liencres]]
+- [[https://eldiariocantabria.publico.es/articulo/cultura/goya-luz-norte-recoge-relacion-artista-personajes-cantabros-asturianos/20260320172712190212.html][‘Goya a la Luz del Norte’ recoge la relación del artista con personajes cántabros y asturianos]]
+- [[https://eldiariocantabria.publico.es/articulo/cultura/banda-britanica-ocean-colour-scene-celebrara-santander-30-aniversario-album-moseley-shoals/20260320171527190210.html][La banda británica Ocean Colour Scene celebrará en Santander el 30 aniversario de su álbum ‘Moseley Shoals’]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
 - [[https://www.washingtonpost.com/world/2026/03/20/northern-israel-no-evacuation-hezbollah/][Hezbollah is bombing northern Israel again. Residents are staying put.]]
-- [[https://www.washingtonpost.com/national-security/2026/03/20/us-israel-iran-goals-trump-netanyahu/][U.S.-Israeli rift widens over potential end game in Iran]]
+- [[https://www.washingtonpost.com/national-security/2026/03/20/us-israel-iran-goals-trump-netanyahu/][U.S.-Israeli rift widens over potential endgame in Iran]]
 - [[https://www.washingtonpost.com/world/2026/03/19/us-iran-war-trump-gas-prices-qatar/][Iran hits Gulf energy sites, escalating war, as U.S. mulls sanctions rollback]]
 - [[https://www.washingtonpost.com/world/2026/03/19/iran-war-global-economic-impact/][Economic fallout from U.S.-led war is hitting the rest of the world harder]]
 - [[https://www.washingtonpost.com/world/2026/03/18/afghanistan-pakistan-rehab-strike-taliban/][Pakistani strike killed hundreds, Afghanistan says, as regional conflicts boil]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/middle-east/giant-south-pars-gas-field-is-irans-biggest-economic-safety-net-b24c6578][Giant South Pars Gas Field Is Iran’s Biggest Economic Safety Net]]
+- [[https://www.wsj.com/world/asia/south-korea-a-model-ally-confronts-a-leaner-u-s-military-alliance-f2073813][South Korea, a ‘Model Ally,’ Confronts a Leaner U.S. Military Alliance]]
 - [[https://www.wsj.com/world/china/china-targets-lawyers-defending-jailed-christian-leaders-6d0d72c8][China Targets Lawyers Defending Jailed Christian Leaders]]
 - [[https://www.wsj.com/world/china/beijings-big-problem-an-incredible-shrinking-economy-b4f446aa][Beijing’s Big Problem: An Incredible Shrinking Economy]]
-- [[https://www.wsj.com/world/middle-east/the-critical-energy-assets-hit-in-the-gulf-0bcfa85a][The Critical Energy Assets Hit in the Gulf]]
-- [[https://www.wsj.com/world/middle-east/u-s-war-planes-and-helicopters-kick-off-battle-to-reopen-hormuz-530cdb78][U.S. War Planes and Helicopters Kick Off Battle to Reopen Hormuz]]
-- [[https://www.wsj.com/world/europe/ukraine-suffers-money-setback-after-hungary-blocks-100-billion-from-europe-afb715ba][Ukraine Suffers Money Setback After Hungary Blocks $100 Billion From Europe]]
+- [[https://www.wsj.com/world/middle-east/the-critical-energy-assets-hit-in-the-gulf-0bcfa85a][A Battlefield Map of Critical Energy Assets Damaged in the Gulf]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/politique/article/2026/03/20/le-role-d-emmanuel-macron-dans-la-campagne-municipale-parisienne-en-question_6672691_823448.html][Le rôle d’Emmanuel Macron dans la campagne municipale parisienne en question]]
-- [[https://www.lemonde.fr/international/live/2026/03/20/en-direct-guerre-au-moyen-orient-le-sud-du-liban-et-teheran-bombardes-par-l-armee-israelienne_6671147_3210.html][EN DIRECT, guerre en Iran : Jean-Noël Barrot rencontre Gideon Saar, chef de la diplomatie israélienne, à Jérusalem ; seize bateaux détruits dans un port iranien… Les dernières informations sur la guerre en Iran]]
-- [[https://www.lemonde.fr/international/article/2026/03/20/les-man-uvres-diplomatiques-francaises-pour-forcer-israel-a-cesser-son-offensive-au-liban_6672682_3210.html][Les manœuvres diplomatiques françaises pour forcer Israël à cesser son offensive au Liban]]
-- [[https://www.lemonde.fr/international/live/2026/03/20/en-direct-guerre-en-ukraine-une-personne-tuee-apres-une-attaque-russe-dans-l-oblast-de-zaporijia-le-pays-annonce-avoir-ete-attaque-par-156-drones-russes-cette-nuit_6671255_3210.html][EN DIRECT, guerre en Ukraine : une personne tuée dans une frappe russe dans l’oblast de Zaporijia, le pays annonce avoir été attaqué par 156 drones russes cette nuit]]
-- [[https://www.lemonde.fr/international/article/2026/03/19/stravaleaks-le-porte-avions-charles-de-gaulle-localise-en-temps-reel-par-le-monde-grace-a-l-application-de-sport_6672445_3210.html][« StravaLeaks » : le porte-avions « Charles-de-Gaulle » localisé en temps réel par « Le Monde » grâce à l’application de sport]]
+- [[https://www.lemonde.fr/international/live/2026/03/20/en-direct-guerre-au-moyen-orient-le-guide-supreme-lance-un-appel-a-l-unite-pour-le-nouvel-an-persan-donald-trump-accuse-les-etats-membres-de-l-otan-d-etre-des-laches_6671147_3210.html][EN DIRECT, guerre au Moyen-Orient : le Guide suprême appelle à l’unité pour le Nouvel An iranien, Donald Trump accuse les Etats membres de l’OTAN d’être des « lâches »]]
+- [[https://www.lemonde.fr/politique/live/2026/03/20/en-direct-municipales-2026-dernier-jour-de-campagne-et-de-meetings-a-paris-lyon-marseille-bordeaaux-toulouse-ou-limoges_6671274_823448.html][EN DIRECT, municipales 2026 : dernier jour de campagne et de meetings dans plusieurs grandes villes de France]]
+- [[https://www.lemonde.fr/politique/article/2026/03/20/municipales-2026-draguignan-exemple-de-la-progression-du-rn-dans-le-var_6672745_823448.html][Municipales 2026 : Draguignan, exemple de la progression du RN dans le Var]]
+- [[https://www.lemonde.fr/international/live/2026/03/20/en-direct-guerre-en-ukraine-l-ambassade-de-russie-dit-n-avoir-aucune-information-sur-l-equipage-du-petrolier-deyna-intercepte-par-la-marine-francaise-en-mediterranee_6671255_3210.html][EN DIRECT, guerre en Ukraine : l’ambassade de Russie dit n’avoir « aucune information » sur l’équipage du pétrolier « Deyna », intercepté par la marine française en Méditerranée]]
+- [[https://www.lemonde.fr/disparitions/article/2026/03/20/chuck-norris-roi-des-arts-martiaux-et-du-cinema-d-action-reaganien-est-mort_6672730_3382.html][Chuck Norris est mort]]
 
 *** Le Figaro
 
 - [[https://www.lefigaro.fr/elections/municipales/municipales-2026-les-resultats-commune-par-commune-en-carte-et-en-direct-20260315][Municipales 2026 : les résultats commune par commune en carte]]
 - [[https://www.lefigaro.fr/elections/municipales/municipales-2026-paris-lyon-et-marseille-les-resultats-detailles-20260316][Municipales 2026 : les résultats détaillés de Paris, Lyon et Marseille]]
-- [[https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-israel-etats-unis-liban-emirats-arabes-unis-arabie-saoudite-koweit-qatar-oman-irak-donald-trump-benyamin-netanyahou-bahrein-20260320][EN DIRECT - Guerre au Moyen-Orient : 16 navires iraniens frappés dans un port du Golfe, le chef de la diplomatie française à Jérusalem]]
+- [[https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-israel-etats-unis-liban-emirats-arabes-unis-arabie-saoudite-koweit-qatar-oman-irak-donald-trump-benyamin-netanyahou-bahrein-20260320][EN DIRECT - Guerre en Iran : le guide suprême Mojtaba Khamenei affirme que «l’ennemi» est «vaincu» et nie les attaques contre Oman et la Turquie]]
+- [[https://www.lefigaro.fr/international/un-chateau-de-cartes-qui-s-effondre-quels-sont-les-dirigeants-iraniens-tues-en-trois-semaines-de-guerre-en-iran-20260320][Un «château de cartes qui s’effondre» : quels sont les dirigeants iraniens tués en trois semaines de guerre en Iran ?]]
 - [[https://www.lefigaro.fr/international/guerre-en-iran-trois-manifestants-pendus-dont-un-champion-de-lutte-de-19-ans-pour-le-meurtre-de-deux-policiers-20260320][Guerre en Iran : trois manifestants pendus, dont un champion de lutte de 19 ans, pour le meurtre de deux policiers]]
-- [[https://tvmag.lefigaro.fr/programme-tv/actu-tele/deux-reporters-de-guerre-frolent-la-mort-a-cause-d-un-missile-au-liban-20260320][Deux reporters de guerre frôlent la mort à cause d’un missile au Liban]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&at_campaign=rss][Russia, China and the US – the global winners and losers of the Iran war]]
-- [[https://www.bbc.com/news/videos/cx248jvgwj8o?at_medium=RSS&at_campaign=rss][Trump compares attack on Iran to Pearl Harbor in meeting with Japanese PM]]
-- [[https://www.bbc.com/news/articles/c78l572p4n7o?at_medium=RSS&at_campaign=rss][Several injured as turbulence hits Delta flight into Sydney]]
-- [[https://www.bbc.com/news/articles/c33ln4mp1p2o?at_medium=RSS&at_campaign=rss][Denmark planned to blow up Greenland runways if US invaded, reports say]]
-- [[https://www.bbc.com/news/articles/cz90wy2190go?at_medium=RSS&at_campaign=rss][Australia PM heckled at Sydney mosque Ramadan event]]
+- [[https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&at_campaign=rss][Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein]]
+- [[https://www.bbc.com/news/articles/c248pgn158go?at_medium=RSS&at_campaign=rss][Israel strikes Syria after Druze clashes]]
+- [[https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&at_campaign=rss][BTS return from military service - but does their album live up to the hype?]]
+- [[https://www.bbc.com/news/articles/clyjg1x7r43o?at_medium=RSS&at_campaign=rss][Leading anti‑racism activist in Tunisia jailed for eight years]]
+- [[https://www.bbc.com/news/articles/cq6jrvgqeejo?at_medium=RSS&at_campaign=rss][Hungary's Orbán accused of disloyalty and blackmail over Ukraine loan veto]]
 
 *** The Guardian
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/acqua-investimenti-salgono-90-euro-abitante-ma-resta-nodo-gestioni-economia-AIbaeT3B][Acqua: gli investimenti salgono a 90 euro per abitante. Ma resta il nodo delle gestioni in economia]]
-- [[https://www.ilsole24ore.com/art/carburanti-gasolio-e-benzina-self-service-calo-autostrade-AI0COw3B][Gasolio e benzina in calo in autostrada. In Campania la benzina diminuisce meno delle attese]]
-- [[https://www.ilsole24ore.com/art/gasolio-sconto-134-cento-ma-solo-oggi-AIvhLV3B][Gasolio, sconto del 13,4 per cento ma solo da oggi]]
-- [[https://www.ilsole24ore.com/art/denatalita-l-italia-report-2026-dell-intelligence-usa-dovra-affrontare-gravi-sfide-fiscali-AIJOgy2B][Denatalità, l’Italia nel report 2026 dell’intelligence Usa: «Dovrà affrontare gravi sfide fiscali»]]
-- [[https://www.ilsole24ore.com/art/meloni-non-ottiene-l-alt-all-ets-ma-confida-nel-si-bruxelles-decreto-bollette-AI8kGV3B][Meloni adesso confida nel sì di Bruxelles al decreto Bollette]]
+- [[https://www.ilsole24ore.com/art/taglio-nastro-campus-dell-its-academy-meccatronico-veneto-vicenza-AI7TOo4B][Taglio del nastro al campus dell’Its Academy Meccatronico Veneto a Vicenza]]
+- [[https://www.ilsole24ore.com/art/pnrr-piu-vicini-target-2030-ma-resta-gap-20-miliardi-AIf5wDyB][Pnrr, più vicini i target 2030 ma resta un gap di 20 miliardi]]
+- [[https://www.ilsole24ore.com/art/mida-2026-90-anni-artigianato-fortezza-basso-firenze-AINgsj4B][MIDA 2026: 90 anni di artigianato alla Fortezza da Basso di Firenze]]
+- [[https://www.ilsole24ore.com/art/carone-fabbrini-lindo-ferretti-pietromarchi-ospiti-ad-amici-e-nemici-AIy1Ph4B][Carone, Fabbrini, Lindo Ferretti, Pietromarchi ospiti ad Amici e nemici]]
+- [[https://www.ilsole24ore.com/art/taglio-carburanti-piu-un-distributore-10-ha-alzato-prezzi-il-decreto-AIZY0Y4B][Taglio accise carburanti: oltre il 10% dei distributori italiani aumenta i prezzi nonostante il decreto]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/iran-war-assassinations-leave-little-room-for-negotiation/a-76455839?maca=en-rss-en-world-4025-rdf][Iran war: Assassinations leave little room for negotiation]]
+- [[https://www.dw.com/en/niger-rejects-eu-s-call-to-free-ousted-president-bazoum/a-76449480?maca=en-rss-en-world-4025-rdf][Niger rejects EU's call to free ousted President Bazoum]]
+- [[https://www.dw.com/en/japan-s-prime-minister-emerges-buoyed-from-trump-summit/a-76448900?maca=en-rss-en-world-4025-rdf][Japan's prime minister emerges buoyed from Trump summit]]
+- [[https://www.dw.com/en/norwegian-princess-says-she-was-manipulated-by-epstein/a-76447675?maca=en-rss-en-world-4025-rdf][Norwegian princess says she was 'manipulated' by Epstein]]
 - [[https://www.dw.com/en/slovenia-election-a-battle-for-the-soul-of-the-country/a-76445254?maca=en-rss-en-world-4025-rdf][Slovenia election: a battle for the soul of the country?]]
-- [[https://www.dw.com/en/drone-defense-in-the-iran-war-what-can-ukraine-offer/a-76410396?maca=en-rss-en-world-4025-rdf][Drone defense in the Iran war: What can Ukraine offer?]]
-- [[https://www.dw.com/en/k-pop-stars-bts-release-new-album-ahead-of-comeback-concert/a-76443367?maca=en-rss-en-world-4025-rdf][K-Pop stars BTS release new album ahead of comeback concert]]
-- [[https://www.dw.com/en/us-trump-image-approved-for-commemorative-gold-coin/a-76443197?maca=en-rss-en-world-4025-rdf][US: Trump image approved for commemorative gold coin]]
-- [[https://www.dw.com/en/belarus-releases-250-political-prisoners-as-part-of-us-deal/a-76442237?maca=en-rss-en-world-4025-rdf][Belarus releases 250 political prisoners as part of US deal]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/03/pt-privilegia-disputa-ao-congresso-na-distribuicao-de-fundo-eleitoral-e-joga-governos-estaduais-para-o-fim-da-fila.shtml][PT privilegia disputa ao Congresso na distribuição de fundo eleitoral e joga governos estaduais para o fim da fila]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/03/municipios-se-unem-em-estrategia-para-ampliar-acesso-a-saude-no-interior.shtml][Municípios se unem em estratégia para ampliar acesso à saúde no interior]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/mauro-calliari/2026/03/times-square-paulistana-abre-precedente-na-lei-cidade-limpa.shtml][Times Square Paulistana abre precedente na Lei Cidade Limpa]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/03/eleicoes-economia-e-desinformacao-o-que-a-astrologia-sinaliza-para-o-brasil-em-2026.shtml][Eleições, economia e desinformação: o que a astrologia sinaliza para o Brasil em 2026]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/consignado-clt-empresta-r-117-bi-em-um-ano-mas-juros-ainda-sao-desafio.shtml][Consignado CLT empresta R$ 117 bi em um ano, mas juros ainda são desafio]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/governo-publica-tabela-de-precos-para-subvencao-do-diesel-mercado-ainda-analisa.shtml][Governo publica tabela de preços para subvenção do diesel; mercado ainda analisa]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/bom-pra-cachorro/2026/03/levantamento-aponta-que-41-dos-caes-idosos-tem-doencas-cronicas.shtml][Levantamento aponta que 41% dos cães idosos têm doenças crônicas]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/03/quem-e-gena-okelley-viuva-de-chuck-norris-que-esteve-com-ator-por-quase-tres-decadas.shtml][Quem é Gena OKelley, viúva de Chuck Norris que esteve com ator por quase três décadas]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/03/pms-desconfiaram-de-tenente-coronel-e-viram-quebra-de-protocolo-apos-morte-de-esposa-conversa-ta-estranha.shtml][PMs desconfiaram de tenente-coronel e viram quebra de protocolo após morte de esposa: 'Conversa tá estranha']]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folha-105-anos/2026/03/tati-bernardi-ri-de-si-e-da-classe-media-alta-de-sp-com-a-vida-de-tina-veja-video.shtml][Tati Bernardi ri de si e da classe média alta de SP com A Vida de Tina; veja vídeo]]
 
 *** O Globo
 
