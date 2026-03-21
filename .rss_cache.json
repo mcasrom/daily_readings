@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-21T00:00:02.950239",
+  "timestamp": "2026-03-21T06:00:02.405042",
   "data": {
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada": [
       {
-        "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Trump ve bien retirarse de las bases de España y otros países de la OTAN que no colaboren en la seguridad de Ormuz",
+        "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Washington levanta las sanciones al petróleo de Irán que ya está cargado en buques",
         "link": "https://elpais.com/internacional/2026-03-20/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html"
       },
       {
@@ -25,30 +25,30 @@
     ],
     "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml": [
       {
-        "title": "El Gobierno salva con dos decretos, para incluir en uno Vivienda, su mayor crisis interna tras un plantón de dos horas de Sumar en el Consejo de Ministros",
-        "link": "https://www.elmundo.es/espana/2026/03/20/69bd1491e4d4d8475b8b4575.html"
+        "title": "Sánchez tuvo que verse por separado con los cinco ministros de Sumar para acabar con las dos horas de emboscada en Moncloa",
+        "link": "https://www.elmundo.es/espana/2026/03/20/69bd9371e85ece4f568b45ae.html"
       },
       {
-        "title": "Sánchez minimiza como un \"salseo\" el plantón de dos horas de Sumar y el sector de Díaz dice que su continuidad en el Gobierno \"no\" estuvo en peligro",
-        "link": "https://www.elmundo.es/espana/2026/03/20/69bcfbe221efa0c2788b4599.html"
+        "title": "¿Por qué Sumar no se sale del Gobierno para frenar su declive electoral?",
+        "link": "https://www.elmundo.es/espana/2026/03/20/69bd862ee85ece5d4c8b4585.html"
       },
       {
-        "title": "El Gobierno baja el IVA de la luz, el gas y los carburantes, prohíbe los despidos y controlará los márgenes de las empresas durante la guerra de Irán",
-        "link": "https://www.elmundo.es/economia/empresas/2026/03/20/69bc2cb321efa0da0e8b4596.html"
+        "title": "El Gobierno cuela una reforma integral de las redes eléctricas en el plan anticrisis y redobla su control sobre nuevas industrias y centros de datos",
+        "link": "https://www.elmundo.es/economia/empresas/2026/03/20/69bd84bae9cf4a223d8b459f.html"
       },
       {
-        "title": "EEUU estudia tomar la isla iraní de Jark para romper el bloqueo del Estrecho de Ormuz",
-        "link": "https://www.elmundo.es/internacional/2026/03/20/69bd6fa4e85eceac208b45a5.html"
+        "title": "A la espera del rumbo que tome Trump en la guerra,  Netanyahu intenta debilitar al máximo el régimen iraní",
+        "link": "https://www.elmundo.es/internacional/2026/03/20/69bda09dfdddff7e768b45a3.html"
       },
       {
-        "title": "Irán anuncia la muerte de otros dos altos cargos en ataques israelíes",
-        "link": "https://www.elmundo.es/internacional/2026/03/20/69bd596621efa0b7608b456d.html"
+        "title": "Ormuz y la cuestión energética europea",
+        "link": "https://www.elmundo.es/internacional/2026/03/21/69bc3810e85ecea22e8b45b4.html"
       }
     ],
     "https://www.lavanguardia.com/rss/home.xml": [
       {
-        "title": "Sánchez eleva a 5.000 millones la primera factura de la guerra de Trump: “Estoy muy enfadado”",
-        "link": "https://www.lavanguardia.com/politica/20260320/11495094/sanchez-eleva-5-000-millones-euros-primera-factura-guerra-enfadado.html"
+        "title": "Sánchez salva el choque con Sumar con la aprobación de dos decretos anticrisis",
+        "link": "https://www.lavanguardia.com/politica/20260321/11495335/sanchez-salva-choque-sumar-aprobacion-dos-decretos-anticrisis.html"
       },
       {
         "title": "Cuánto costará la factura de la luz con la reducción del IVA e impuestos del Gobierno",
@@ -91,6 +91,10 @@
     ],
     "https://feeds.washingtonpost.com/rss/world": [
       {
+        "title": "Trump administration lifts sanctions on millions of barrels of Iranian oil",
+        "link": "https://www.washingtonpost.com/business/2026/03/20/iran-oil-sanctions-trump/"
+      },
+      {
         "title": "Cuba rejects U.S. Embassy request to bring in fuel, calls it ‘shameless’",
         "link": "https://www.washingtonpost.com/world/2026/03/20/us-embassy-havana-cuba-fuel-blackout/"
       },
@@ -105,54 +109,50 @@
       {
         "title": "U.S.-Israeli rift widens over potential endgame in Iran",
         "link": "https://www.washingtonpost.com/national-security/2026/03/20/us-israel-iran-goals-trump-netanyahu/"
-      },
-      {
-        "title": "Iran hits Gulf energy sites, escalating war, as U.S. mulls sanctions rollback",
-        "link": "https://www.washingtonpost.com/world/2026/03/19/us-iran-war-trump-gas-prices-qatar/"
       }
     ],
     "https://feeds.content.dowjones.io/public/rss/RSSWorldNews": [
       {
-        "title": "A Belligerent Iran Has the U.S. Rushing Missile and Drone Defenses to the Gulf",
-        "link": "https://www.wsj.com/world/middle-east/iran-us-missile-drone-defenses-c50d21e0"
+        "title": "Ukraine Is Suddenly on the Offensive, With Help From Elon Musk",
+        "link": "https://www.wsj.com/world/europe/ukraine-is-suddenly-on-the-offensive-with-help-from-elon-musk-ea6ee661"
       },
       {
-        "title": "Giant South Pars Gas Field Is Iran’s Biggest Economic Safety Net",
-        "link": "https://www.wsj.com/world/middle-east/giant-south-pars-gas-field-is-irans-biggest-economic-safety-net-b24c6578"
+        "title": "Iran War Puts U.S. Diplomatic Missions in the Crosshairs",
+        "link": "https://www.wsj.com/politics/national-security/iran-us-embassies-consulates-4eadefff"
       },
       {
-        "title": "South Korea, a ‘Model Ally,’ Confronts a Leaner U.S. Military Alliance",
-        "link": "https://www.wsj.com/world/asia/south-korea-a-model-ally-confronts-a-leaner-u-s-military-alliance-f2073813"
+        "title": "U.S. Probes Colombian Leader for Alleged Use of Drug Money for Campaign",
+        "link": "https://www.wsj.com/world/americas/u-s-probes-colombian-leader-for-alleged-use-of-drug-money-for-campaign-a0bfbe98"
       },
       {
-        "title": "China Targets Lawyers Defending Jailed Christian Leaders",
-        "link": "https://www.wsj.com/world/china/china-targets-lawyers-defending-jailed-christian-leaders-6d0d72c8"
+        "title": "Iran Believes It’s Winning—and Wants a Steep Price to End the War",
+        "link": "https://www.wsj.com/world/middle-east/iran-war-negotiations-demands-85555522"
       },
       {
-        "title": "Beijing’s Big Problem: An Incredible Shrinking Economy",
-        "link": "https://www.wsj.com/world/china/beijings-big-problem-an-incredible-shrinking-economy-b4f446aa"
+        "title": "The Quiet American: How Pope Leo Is Pushing Back Against Trump",
+        "link": "https://www.wsj.com/world/american-pope-leo-donald-trump-relationship-c5e7e0a1"
       }
     ],
     "https://www.lemonde.fr/rss/une.xml": [
       {
-        "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis disent pouvoir « neutraliser » l’île de Kharg, site pétrolier crucial de l’Iran, « n’importe quand »",
-        "link": "https://www.lemonde.fr/international/live/2026/03/20/en-direct-guerre-au-moyen-orient-les-etats-unis-disent-pouvoir-neutraliser-l-ile-de-kharg-site-petrolier-crucial-de-l-iran-n-importe-quand_6671147_3210.html"
+        "title": "« Une guerre des stocks » : le coût de plus en plus insoutenable en munitions du conflit en Iran",
+        "link": "https://www.lemonde.fr/international/article/2026/03/21/une-guerre-des-stocks-le-cout-de-plus-en-plus-insoutenable-en-munitions-du-conflit-en-iran_6673095_3210.html"
       },
       {
-        "title": "Municipales à Marseille : le récit d’une folle semaine de campagne avant le second tour",
-        "link": "https://www.lemonde.fr/politique/article/2026/03/20/confusion-rumeurs-violence-a-marseille-une-folle-semaine-avant-le-second-tour-des-elections-municipales_6672781_823448.html"
+        "title": "« Ganito », détenu évadé de Villepinte grâce à des faux policiers, a été arrêté dans le sud de la France, après deux semaines de cavale",
+        "link": "https://www.lemonde.fr/societe/article/2026/03/21/ganito-detenu-evade-de-villepinte-a-ete-arrete-dans-le-sud-de-la-france-apres-deux-semaines-de-cavale_6672788_3224.html"
       },
       {
-        "title": "Epidémie de méningites en Angleterre : dans la ville de Canterbury, une opération de vaccination massive",
-        "link": "https://www.lemonde.fr/planete/article/2026/03/20/en-angleterre-face-a-l-epidemie-de-meningites-une-operation-de-vaccination-massive-on-est-revenues-sur-le-campus-juste-pour-l-injection_6672777_3244.html"
+        "title": "Vladimir Poutine et ses chefs d’orchestre tentent une « opération musicale spéciale » en Europe",
+        "link": "https://www.lemonde.fr/international/article/2026/03/20/poutine-chef-d-orchestre-d-une-operation-musicale-speciale-en-europe_6672652_3210.html"
       },
       {
         "title": "EN DIRECT, guerre en Ukraine : l’ambassade de Russie dit n’avoir « aucune information » sur l’équipage du pétrolier « Deyna », intercepté par la marine française en Méditerranée",
         "link": "https://www.lemonde.fr/international/live/2026/03/20/en-direct-guerre-en-ukraine-l-ambassade-de-russie-dit-n-avoir-aucune-information-sur-l-equipage-du-petrolier-deyna-intercepte-par-la-marine-francaise-en-mediterranee_6671255_3210.html"
       },
       {
-        "title": "Chuck Norris est mort",
-        "link": "https://www.lemonde.fr/disparitions/article/2026/03/20/chuck-norris-roi-des-arts-martiaux-et-du-cinema-d-action-reaganien-est-mort_6672730_3382.html"
+        "title": "Aux Etats-Unis, la justice bloque la politique du Pentagone restreignant l’accès des médias",
+        "link": "https://www.lemonde.fr/international/article/2026/03/20/aux-etats-unis-la-justice-bloque-la-politique-du-pentagone-restreignant-l-acces-des-medias_6672787_3210.html"
       }
     ],
     "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
@@ -179,24 +179,24 @@
     ],
     "https://feeds.bbci.co.uk/news/world/rss.xml": [
       {
-        "title": "Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein",
-        "link": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&at_campaign=rss"
+        "title": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
+        "link": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US lifts sanctions on some Iranian oil as gas prices soar",
+        "link": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Chuck Norris memes were undefeated for a generation of young fans",
+        "link": "https://www.bbc.com/news/articles/c62541e29z9o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Ukraine-Hungary oil pipeline row threatens EU loan",
         "link": "https://www.bbc.com/news/articles/cr71rkeg7xxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Israel strikes Syria after Druze clashes",
-        "link": "https://www.bbc.com/news/articles/c248pgn158go?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "BTS return from military service - but does their album live up to the hype?",
-        "link": "https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "As Islamophobia rises, Australia's Muslims celebrate Eid",
-        "link": "https://www.bbc.com/news/articles/cr410ezy312o?at_medium=RSS&at_campaign=rss"
+        "title": "Socialists battle to hold Paris in key mayoral elections across France",
+        "link": "https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "https://www.theguardian.com/world/rss": [
@@ -311,24 +311,24 @@
     ],
     "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml": [
       {
-        "title": "Trump vai interferir na eleição no Brasil?",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/03/trump-vai-interferir-na-eleicao-no-brasil.shtml"
+        "title": "Edson Gomes canta Fogo na Babilônia e faz alegria da nação regueira no Lollapalooza",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/03/edson-gomes-canta-fogo-na-babilonia-e-faz-alegria-da-nacao-regueira-no-lollapalooza.shtml"
       },
       {
-        "title": "AGU pede à Senacon dados sobre suspeita de abuso em preços de combustíveis",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/03/agu-pede-a-senacon-dados-sobre-suspeita-de-abuso-em-precos-de-combustiveis.shtml"
+        "title": "Gripe e resfriado avançam rápido antes do período de alta, alerta Friocruz",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/03/gripe-e-resfriado-avancam-rapido-antes-do-periodo-de-alta-alerta-friocruz.shtml"
       },
       {
-        "title": "Duplas Carol Solberg e Rebecca e Duda e Ana Patrícia serão patrocinadas pela Petrobras",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/03/duplas-carol-solberg-e-rebecca-e-duda-e-ana-patricia-serao-patrocinadas-pela-petrobras.shtml"
+        "title": "'O Bom Mal' reforça Samanta Schweblin como mestra do frio na espinha; veja vídeo",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2026/03/o-bom-mal-reforca-samanta-schweblin-como-mestra-do-frio-na-espinha-veja-video.shtml"
       },
       {
-        "title": "Interpol destila melancolia no Lollapalooza e toca música inédita",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/03/interpol-destila-melancolia-no-lollapalooza-e-toca-musica-inedita.shtml"
+        "title": "PGR denuncia Silvio Almeida sob acusação de importunação sexual a Anielle Franco",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/03/pgr-denuncia-silvio-almeida-sob-acusacao-de-importunacao-sexual-a-anielle-franco.shtml"
       },
       {
-        "title": "Governo de SP abre crédito suplementar que pode cobrir verba federal bloqueada no túnel Santos-Guarujá",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/03/governo-de-sp-abre-credito-suplementar-para-cobrir-verba-federal-bloqueada-no-tunel-santos-guaruja.shtml"
+        "title": "Sabrina Carpenter, no Lollapalooza, algema Luísa Sonza e reencontra o Brasil",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/03/sabrina-carpenter-no-lollapalooza-algema-luisa-sonza-e-reencontra-o-brasil.shtml"
       }
     ],
     "https://oglobo.globo.com/rss.xml": []
