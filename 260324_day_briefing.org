@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
-#+HTML: <div class='telemetry'>🌡 37.6°C | ⚖ Load: 0.00 | 🌐 Ping: 9.66ms</div>
+#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
+#+HTML: <div class='telemetry'>🌡 37.6°C | ⚖ Load: 0.00 | 🌐 Ping: 8.86ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,19 +49,19 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/andalucia/2026/03/23/69c194dce9cf4a660b8b457a.html][Juanma Moreno convoca las elecciones andaluzas para el 17 de mayo]]
-- [[https://www.elmundo.es/espana/2026/03/23/69c19942e85ece18308b459d.html][Andalucía será un examen al Gobierno de Sánchez: Montero, su número dos, dejará el Ejecutivo en los próximos días]]
-- [[https://www.elmundo.es/espana/2026/03/23/69c193cee4d4d81b078b458b.html][Estrasburgo rechaza revisar la sentencia que avaló el encarcelamiento de Junqueras, Turull y Sànchez y negó que tuviera motivaciones políticas]]
-- [[https://www.elmundo.es/internacional/2026/03/23/69c128aee9cf4a77618b458c.html][Donald Trump reconoce un diálogo "positivo" con Irán y pospone su ultimátum mientras Teherán niega conversaciones]]
-- [[https://www.elmundo.es/economia/2026/03/23/69c174eefc6c83a2058b4591.html][Bruselas pide a los países que comiencen a prepararse ya para el próximo invierno por las posibles interrupciones en el suministro energético en Oriente Medio]]
+- [[https://www.elmundo.es/espana/2026/03/23/69c19a88e85eceeb2f8b4578.html][El pagador de Zapatero cobró 1,2 millones por hacer favores a empresas en Venezuela y China]]
+- [[https://www.elmundo.es/economia/vivienda/2026/03/24/69c11c87e85ece9b788b4573.html][España va a perder más de un tercio de los contratos de alquiler que vencen en un año: "Si se mantienen las medidas intervencionistas, será aún peor"]]
+- [[https://www.elmundo.es/cataluna/2026/03/23/69c19072e85ece24428b456f.html][Junts redobla la presión a Sánchez y exige la quita del IVA a los autónomos para apoyar el decreto de la guerra]]
+- [[https://www.elmundo.es/internacional/2026/03/23/69c195d521efa0c0528b45b8.html][Trump juega a la confusión en Ormuz: pospone el ultimátum de destrucción amparándose en conversaciones que Irán niega, pero baraja una toma de la isla de Jarg]]
+- [[https://www.elmundo.es/economia/dinero-inversion/2026/03/23/69c15646e4d4d8c7378b458a.html][El porqué de la tregua en Oriente Próximo: los grandes bancos de inversión y los gobiernos tienen cogido a Donald Trump por la deuda]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/internacional/20260323/11497433/trump-abre-puerta-acuerdo-iran-aplaza-ataques.html][Trump abre la puerta a un acuerdo con Irán y aplaza los ataques]]
-- [[https://www.lavanguardia.com/economia/20260323/11496924/bolsa-ibex-35-mercados-iran-guerra-petroleo.html][Las bolsas suben y el petróleo se hunde tras alargar Trump el ultimátum a Irán]]
-- [[https://www.lavanguardia.com/internacional/20260323/11496635/guerra-iran-ataque-estados-unidos-trump-putin-espana-israel-bombardeos-teheran-hoy-en-directo.html][Guerra en Irán y última hora de los ataques de Israel y EE.UU. | Irán niega que haya negociación con Trump, en directo]]
+- [[https://www.lavanguardia.com/economia/20260324/11497469/trump-desata-caos-mercados-anuncio-tregua-iran.html][Trump desata el caos en los mercados tras su anuncio de tregua con Irán]]
+- [[https://www.lavanguardia.com/internacional/20260323/11497433/trump-abre-puerta-acuerdo-iran-aplaza-ataques.html][Washington abre la puerta a un acuerdo con Irán y aplaza los ataques]]
 - [[https://www.lavanguardia.com/economia/20260323/11496391/armamento-espanol-guerra.html][El armamento español que se utiliza en la guerra de Irán y en Ormuz]]
 - [[https://www.lavanguardia.com/economia/20260323/11496843/petroleo-espana-iran-oriente-medio-precio-crisis.html][Crisis en Irán y Oriente Medio: ¿de dónde viene el petróleo que consume España?]]
+- [[https://www.lavanguardia.com/economia/20260323/11497269/ministro-economia-afirma-espana-resiste-impacto-guerra.html][El ministro de Economía afirma que España resiste bien el impacto de la guerra]]
 
 *** El Diario de Cantabria
 
@@ -84,20 +84,20 @@
 *** WSJ.com: World News
 
 - [[https://www.wsj.com/world/americas/colombian-military-plane-with-125-aboard-crashes-d2ed1627][Dozens of Colombian Troops Dead as Military Plane Crashes]]
-- [[https://www.wsj.com/world/europe/spies-lies-and-fake-investors-in-disguise-how-plotters-tried-to-flip-a-european-election-1f42b39a][Spies, Lies and Fake Investors in Disguise: How Plotters Tried to Flip a European Election]]
-- [[https://www.wsj.com/world/europe/europe-is-quietly-playing-a-crucial-role-in-the-iran-war-aad34a00][Europe Is Quietly Playing a Crucial Role in the Iran War]]
-- [[https://www.wsj.com/world/middle-east/how-the-iran-conflict-is-widening-in-maps-c87df89a][How the Iran Conflict Is Widening, in Maps]]
-- [[https://www.wsj.com/world/middle-east/the-top-iranian-diplomat-who-says-hes-in-no-mood-to-talk-ef6ed51e][Iran’s Top Diplomat Is the Face of a Defiant Regime]]
+- [[https://www.wsj.com/world/middle-east/president-backs-off-threat-to-iranian-energy-98aed311][President Backs Off Threat To Iranian Energy]]
+- [[https://www.wsj.com/world/china/xi-jinpings-morality-crackdown-has-a-new-victim-the-global-wine-trade-f030b778][Xi Jinping’s Morality Crackdown Has a New Victim: The Global Wine Trade]]
+- [[https://www.wsj.com/world/middle-east/residents-on-israels-northern-border-stay-put-despite-hezbollah-fire-e4ece5cf][Residents on Israel’s Northern Border Stay Put Despite Hezbollah Fire]]
+- [[https://www.wsj.com/world/middle-east/the-back-channel-diplomacy-behind-trumps-u-turn-on-iran-b70efc60][The Back-Channel Diplomacy Behind Trump’s U-Turn on Iran]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/les-decodeurs/article/2026/03/23/municipales-visualisez-les-bascules-politiques-dans-les-grandes-villes-francaises_6673941_4355770.html][Municipales : visualisez les bascules politiques dans les grandes villes françaises]]
-- [[https://www.lemonde.fr/international/live/2026/03/23/en-direct-guerre-au-moyen-orient-benyamin-netanyahou-dit-avoir-parle-a-donald-trump-et-precise-qu-israel-continuera-ses-frappes-sur-l-iran-et-le-liban_6673056_3210.html][EN DIRECT, guerre au Moyen-Orient : Benyamin Nétanyahou dit avoir parlé à Donald Trump et précise qu’Israël continuera ses frappes sur l’Iran et le Liban]]
-- [[https://www.lemonde.fr/international/article/2026/03/23/en-hongrie-marine-le-pen-apporte-son-soutien-a-son-ami-viktor-orban_6673982_3210.html][En Hongrie, Marine Le Pen apporte son soutien à son « ami » Viktor Orban]]
-- [[https://www.lemonde.fr/international/article/2026/03/23/mette-frederiksen-une-premiere-ministre-reconnue-a-l-etranger-mais-qui-divise-au-danemark-a-la-veille-des-elections-legislatives_6673974_3210.html][Mette Frederiksen, une première ministre reconnue à l’étranger mais qui divise au Danemark à la veille des élections législatives]]
-- [[https://www.lemonde.fr/international/article/2026/03/23/referendum-en-italie-le-non-a-la-reforme-judiciaire-voulue-par-giorgia-meloni-arrive-en-tete-selon-les-premiers-resultats_6673942_3210.html][Référendum en Italie : Giorgia Meloni reconnaît son échec après la victoire des opposants à la réforme judiciaire]]
+- [[https://www.lemonde.fr/politique/article/2026/03/24/a-paris-emmanuel-gregoire-ou-la-strategie-du-coureur-de-fond_6673999_823448.html][A Paris, Emmanuel Grégoire ou la stratégie du coureur de fond]]
+- [[https://www.lemonde.fr/international/live/2026/03/24/en-direct-guerre-au-moyen-orient-israel-vise-par-des-missiles-iraniens-benyamin-netanyahou-dit-que-l-etat-hebreu-continuera-ses-frappes-sur-l-iran-et-le-liban_6673056_3210.html][EN DIRECT, guerre au Moyen-Orient : Israël visé par des salves de missiles iraniens ; des raids israéliens menés dans la banlieue sud de Beyrouth]]
+- [[https://www.lemonde.fr/economie/article/2026/03/24/totalenergies-se-plie-a-l-administration-trump-et-renonce-a-deux-projets-d-eolien-en-mer-au-profit-d-investissements-petrogaziers_6673996_3234.html][TotalEnergies se plie à l’administration Trump et renonce à deux projets d’éolien en mer au profit d’investissements pétrogaziers]]
+- [[https://www.lemonde.fr/economie/article/2026/03/23/avec-l-annonce-de-l-entree-en-vigueur-du-traite-mercosur-au-1er-mai-et-l-accord-signe-mardi-avec-l-australie-l-union-europeenne-accelere-dans-le-libre-echange_6673973_3234.html][Avec l’annonce de l’entrée en vigueur du traité Mercosur au 1ᵉʳ mai et l’accord signé mardi avec l’Australie, l’UE accélère dans le libre-échange]]
+- [[https://www.lemonde.fr/international/article/2026/03/24/markwayne-mullin-nomme-secretaire-a-la-securite-interieure-des-etats-unis-apres-le-renvoi-de-kristi-noem_6673992_3210.html][Markwayne Mullin nommé secrétaire à la sécurité intérieure des Etats-Unis, après le renvoi de Kristi Noem]]
 
 *** Le Figaro
 
@@ -111,11 +111,11 @@
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&at_campaign=rss][A pharmacist and a homesick lifestyle blogger: The 'alarming' civilian cost of war in Iran]]
+- [[https://www.bbc.com/news/articles/c895v5pq5p1o?at_medium=RSS&at_campaign=rss][Ultimatums, diplomacy and a trip to Graceland as Trump eyes a deal with Iran]]
 - [[https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss]['Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation]]
+- [[https://www.bbc.com/news/articles/c1mklzkz41jo?at_medium=RSS&at_campaign=rss][Inside the alleged Russian operation to trigger anti-government protests in Angola]]
+- [[https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss][Colombian military plane crash kills at least 66]]
 - [[https://www.bbc.com/news/articles/crl1ne8dj1eo?at_medium=RSS&at_campaign=rss][Referendum defeat leaves Italy's Meloni looking more vulnerable]]
-- [[https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss][Oil falls and shares rebound after Trump says talks have been held to end war]]
-- [[https://www.bbc.com/news/articles/c77m4zx6zvmo?at_medium=RSS&at_campaign=rss][Slovenia becomes first EU country to introduce fuel rationing]]
 
 *** The Guardian
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/australia-and-eu-strike-free-trade-deal/a-76496671?maca=en-rss-en-world-4025-rdf][Australia and EU strike free trade deal]]
+- [[https://www.dw.com/en/uk-police-see-antisemitic-motive-in-arson-of-ambulances/a-76479210?maca=en-rss-en-world-4025-rdf][UK police see antisemitic motive in arson of ambulances]]
+- [[https://www.dw.com/en/argentina-s-dirty-war-still-on-trial-50-years-later/a-76453903?maca=en-rss-en-world-4025-rdf][Argentina's 'Dirty War' still on trial 50 years later]]
 - [[https://www.dw.com/en/ukraine-nationals-detained-in-india-is-russia-involved/a-76495069?maca=en-rss-en-world-4025-rdf][Ukraine nationals detained in India: Is Russia involved?]]
 - [[https://www.dw.com/en/colombia-military-plane-crashes-while-transporting-troops/a-76494785?maca=en-rss-en-world-4025-rdf][Colombia military plane crashes while transporting troops]]
-- [[https://www.dw.com/en/eu-reacts-to-concerning-report-of-hungarian-leak-to-russia/a-76494395?maca=en-rss-en-world-4025-rdf][EU reacts to 'concerning' report of Hungarian leak to Russia]]
-- [[https://www.dw.com/en/italy-s-meloni-concedes-defeat-on-judiciary-referendum/a-76494232?maca=en-rss-en-world-4025-rdf][Italy's Meloni concedes defeat on judiciary referendum]]
-- [[https://www.dw.com/en/france-former-pm-lionel-jospin-dies-aged-88/a-76485771?maca=en-rss-en-world-4025-rdf][France: Former PM Lionel Jospin dies aged 88]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/03/kassab-foi-pego-de-surpresa-e-tentou-convencer-ratinho-jr-a-manter-candidatura.shtml][Kassab foi pego de surpresa e tentou convencer Ratinho Jr. a manter candidatura]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/03/tres-gracas-lena-surta-apos-bebe-de-joelly-nao-parar-de-chorar.shtml]['Três Graças': Lena surta após bebê de Joélly não parar de chorar]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/03/bbb-26-paredao-segue-indefinido-entre-gabriela-jonas-sulzbach-e-juliano-floss.shtml][BBB 26: Paredão segue indefinido entre Gabriela, Jonas Sulzbach e Juliano Floss]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/03/comissao-do-stf-identifica-r-98-bi-em-penduricalhos-e-propoe-vinculacao-a-legislacao-do-ir.shtml][Comissão do STF identifica R$ 9,8 bi em penduricalhos e propõe vinculação à legislação do IR]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/03/desistencia-de-ratinho-jr-e-reconhecimento-de-que-chances-da-terceira-via-sao-diminutas.shtml][Desistência de Ratinho Jr. é reconhecimento de que chances da terceira via são diminutas]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/03/bbb-26-internautas-criticam-postura-de-tadeu-schmidt-durante-sincerao.shtml][BBB 26: Internautas criticam postura de Tadeu Schmidt durante sincerão]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/03/ancelotti-diz-que-deve-escalar-o-brasil-com-quatro-atacantes-na-copa-do-mundo.shtml][Ancelotti diz que deve escalar o Brasil com quatro atacantes na Copa do Mundo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/c-level-plano-brasilia/2026/03/6x1-concessoes-e-codigo-civil-sao-prioridades-da-industria-no-congresso.shtml][6x1, concessões e Código Civil são prioridades da indústria no Congresso]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/03/gerson-brenner-teve-plano-de-saude-vitalicio-pago-pela-globo-mesmo-sem-contrato.shtml][Gerson Brenner teve plano de saúde vitalício pago pela Globo mesmo sem contrato]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/03/um-dos-fenomenos-mais-impressionantes-da-natureza-diz-chefe-de-cupula-sobre-migracao-de-especies.shtml]['Um dos fenômenos mais impressionantes da natureza', diz chefe de cúpula sobre migração de espécies]]
 
 *** O Globo
 
