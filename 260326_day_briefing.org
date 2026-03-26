@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 38.6°C | ⚖ Load: 0.00 | 🌐 Ping: 9.05ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 38.1°C | ⚖ Load: 0.96 | 🌐 Ping: 9.54ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,17 +49,17 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/extremadura/2026/03/25/69c4283cfc6c8316088b4576.html][PP y Vox exhiben por primera vez sus negociaciones y marcan un punto de inflexión en su relación de largo recorrido]]
-- [[https://www.elmundo.es/andalucia/2026/03/25/69c43a88e4d4d8684d8b45a8.html][Un pacto sindical entre el Gobierno de Juanma Moreno y los sindicatos de la sanidad pública desinfla la estrategia electoral de Montero]]
-- [[https://www.elmundo.es/espana/2026/03/25/69c390abe85ece30598b45a1.html][El debate de la guerra en el Congreso acaba en choque total: Sánchez intenta ridiculizar a Feijóo porque "no sabe poner Huelva en el mapa" y el líder del PP le reprocha ser "un matón con un tic dictatorial peligrosísimo"]]
-- [[https://www.elmundo.es/internacional/2026/03/25/69c4094fe4d4d8643d8b458b.html][Las exigencias de Estados Unidos e Irán: el rompecabezas para poner fin a la guerra]]
-- [[https://www.elmundo.es/internacional/2026/03/25/69c2678fe85ece38308b45a0.html][Los bombardeos sacuden el Valle de la Bekaa: "Me encontré con una mano de niño amputada en la cocina"]]
+- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/03/25/69c42f9621efa075638b45cb.html][Montero tendrá a Illa en la campaña andaluza pese a la "financiación singular" pactada con ERC]]
+- [[https://www.elmundo.es/espana/2026/03/25/69c42772fc6c83ab528b4574.html][La legislación desmiente la coartada de Montero para no aclarar si sólo es una paracaidista para el 17-M]]
+- [[https://www.elmundo.es/espana/2026/03/25/69c44afce85ece056d8b45a7.html][El gran desafío de los pactos PP-Vox: los 11 "compromisos" de Abascal tienen difícil encaje en el "marco" de Feijóo]]
+- [[https://www.elmundo.es/internacional/2026/03/25/69c3e7f5fdddff7a078b457e.html][La encrucijada de rusos y ucranianos en Dubai: de huir de la guerra de Ucrania a sufrir los efectos del conflicto en Oriente Próximo]]
+- [[https://www.elmundo.es/internacional/2026/03/25/69c438bafc6c83087b8b457d.html][Las grietas en la relación especial entre EEUU e Israel]]
 
 *** La Vanguardia
 
 - [[https://www.lavanguardia.com/internacional/20260325/11499241/iran-rechaza-plan-trump.html][Irán rechaza el plan de paz de Trump]]
 - [[https://www.lavanguardia.com/internacional/20260325/11499276/rusia-estaria-proveyendo-iran-propios-drones-coste-mejorados-producidos-masa.html][Rusia estaría proveyendo a Irán de sus propios drones de bajo coste mejorados y producidos en masa]]
-- [[https://www.lavanguardia.com/internacional/20260325/11498592/guerra-iran-ataque-estados-unidos-trump-putin-espana-israel-bombardeos-teheran-hoy-en-directo.html][EE.UU. exigía a Irán desmantelar sus instalaciones nucleares en el plan rechazado]]
+- [[https://www.lavanguardia.com/opinion/20260325/11499305/vuelve-trio-azores.html][Vuelve el trío de las Azores]]
 - [[https://www.lavanguardia.com/politica/20260325/11498685/sanchez-avisa-pp-vox-callar-guerra-ilegal-acto-cobardia-complicidad.html][Sánchez avisa a PP y Vox: “Callar ante una guerra ilegal es un acto de cobardía y complicidad”]]
 - [[https://www.lavanguardia.com/politica/20260325/11498725/feijoo-sanchez-dificilmente-personificar-paz-propaganda-irani-estampa-cara-misiles-guerra.html][Feijóo, ante Sánchez: “Difícilmente se puede personificar la paz si la propaganda iraní estampa tu cara en misiles de guerra”]]
 
@@ -83,21 +83,21 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/middle-east/iran-drone-warfare-russia-ukraine-b7369cf6][Iran Is Applying the Lessons of Russia’s Drone Warfare Against America]]
+- [[https://www.wsj.com/world/china/trump-taiwan-china-opportunity-e56d8ac8][Trump’s Ambivalence on Taiwan Opens a Historic Opportunity for China]]
+- [[https://www.wsj.com/politics/elections/trump-tells-aides-he-wants-speedy-end-to-iran-war-eb9f2b4b][Trump Tells Aides He Wants Speedy End to Iran War]]
 - [[https://www.wsj.com/world/middle-east/the-narrow-path-to-a-u-s-iran-deal-96ceef5d][The Narrow Path to a U.S.‑Iran Deal]]
 - [[https://www.wsj.com/world/middle-east/iran-war-iraq-pitfalls-277de612][Is the U.S. Repeating the Mistakes That Led to Forever Wars?]]
-- [[https://www.wsj.com/world/europe/iran-suspected-of-directing-attacks-in-europe-creating-bogus-group-to-claim-responsibility-7ebd8188][Iran Suspected of Creating Bogus Group to Claim Attacks in Europe]]
-- [[https://www.wsj.com/world/oceania/new-zealand-military-china-2a776b24][As China Encroaches, Even New Zealand Is Getting Serious About Its Military]]
-- [[https://www.wsj.com/world/middle-east/iran-who-is-mohammad-bagher-ghalibaf-3c3ecf3e][A ‘Wannabe Strongman’ Rises in Iran as Trump Seeks a Dealmaker]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/03/25/en-direct-guerre-au-moyen-orient-l-iran-avertit-que-des-ennemis-se-preparent-a-occuper-une-ile-du-golfe-avec-le-soutien-d-un-etat-regional_6673056_3210.html][EN DIRECT, guerre au Moyen-Orient : l’Iran avertit que des « ennemis se préparent à occuper une île » iranienne du Golfe « avec le soutien d’un Etat régional »]]
-- [[https://www.lemonde.fr/disparitions/article/2026/03/25/loana-revelee-par-loft-story-retrouvee-morte-a-son-domicile-a-l-age-de-48-ans_6674273_3382.html][Loana, révélée par « Loft Story », retrouvée morte à son domicile, à l’âge de 48 ans]]
-- [[https://www.lemonde.fr/societe/article/2026/03/25/double-feminicide-presume-la-derive-de-cedric-p-des-manifestations-devant-les-tribunaux-a-l-enlevement-de-son-ex-compagne_6674270_3224.html][La dérive de Cédric P., interpellé au Portugal et soupçonné d’avoir tué son ex-compagne et sa concubine actuelle]]
-- [[https://www.lemonde.fr/societe/article/2026/03/25/tariq-ramadan-condamne-par-defaut-a-dix-huit-ans-de-reclusion-criminelle_6674275_3224.html][Tariq Ramadan, absent de son procès, a été condamné à dix-huit ans de prison pour viols]]
-- [[https://www.lemonde.fr/pixels/article/2026/03/25/instagram-et-youtube-juges-responsables-de-la-depression-d-une-adolescente-condamnes-a-verser-au-moins-3-millions-de-dollars-a-la-plaignante_6674264_4408996.html][Instagram et YouTube jugés responsables de la dépression d’une adolescente en Californie : une amende de 6 millions de dollars et un verdict « historique »]]
+- [[https://www.lemonde.fr/international/article/2026/03/26/volodymyr-zelensky-la-pression-sur-la-russie-est-insuffisante-pas-seulement-de-la-part-des-etats-unis-mais-aussi-de-l-europe_6674299_3210.html][Volodymyr Zelensky : « La pression sur la Russie est insuffisante. Pas seulement de la part des Etats-Unis, mais aussi de l’Europe »]]
+- [[https://www.lemonde.fr/international/live/2026/03/26/en-direct-guerre-au-moyen-orient-donald-trump-soutient-que-l-iran-discute-d-un-accord-de-paix-avec-washington-teheran-avertit-que-des-ennemis-se-preparent-a-occuper-une-ile-iranienne-du-golfe_6673056_3210.html][EN DIRECT, guerre au Moyen-Orient : Donald Trump soutient que l’Iran discute d’un accord de paix avec Washington ; Téhéran avertit que des « ennemis se préparent à occuper une île » iranienne du Golfe]]
+- [[https://www.lemonde.fr/societe/article/2026/03/26/tariq-ramadan-condamne-a-dix-huit-ans-de-prison-pour-des-viols-sur-trois-femmes-la-cour-pointe-l-entreprise-de-destruction-psychologique-des-plaignantes_6674291_3224.html][Tariq Ramadan condamné à dix-huit ans de prison pour des viols sur trois femmes, la cour pointe l’« entreprise de destruction psychologique des plaignantes »]]
+- [[https://www.lemonde.fr/planete/article/2026/03/26/en-alsace-des-habitants-inquiets-de-voir-la-terre-trembler-a-cause-des-projets-d-extraction-de-lithium_6674294_3244.html][En Alsace, des habitants inquiets de voir la terre trembler à cause de l’extraction de lithium]]
+- [[https://www.lemonde.fr/sciences/article/2026/03/26/la-domestication-des-chiens-daterait-de-pres-de-16-000-ans-et-serait-beaucoup-plus-ancienne-qu-imagine_6674285_1650684.html][La domestication des chiens daterait de près de 16 000 ans et serait beaucoup plus ancienne qu’imaginé]]
 
 *** Le Figaro
 
@@ -112,18 +112,18 @@
 *** BBC News
 
 - [[https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss][Meta and YouTube found liable in landmark social media addiction trial]]
+- [[https://www.bbc.com/news/articles/cm29l9r68j8o?at_medium=RSS&at_campaign=rss][Who wants what and why from US-Iran peace talks?]]
+- [[https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss][Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly]]
 - [[https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss][UN votes to recognise enslavement of Africans as 'gravest crime against humanity']]
-- [[https://www.bbc.com/news/articles/c9qd7wyln2jo?at_medium=RSS&at_campaign=rss][Democrats flip Florida state seat that includes Trump's Mar-a-Lago home]]
-- [[https://www.bbc.com/news/articles/cd0rek7v7npo?at_medium=RSS&at_campaign=rss]['Men need to be perp-walked' after Epstein files release, US Congressman Massie tells BBC]]
 - [[https://www.bbc.com/news/articles/ckgxzlny4w3o?at_medium=RSS&at_campaign=rss]['We are in agony' - Savannah Guthrie does first interview since mum's disappearance]]
 
 *** The Guardian
 
+- [[https://www.theguardian.com/world/2026/mar/26/ukraine-war-briefing-zelenskyy-says-us-has-linked-security-guarantees-to-ceding-of-donbas][Ukraine war briefing: Zelenskyy says US has linked security guarantees to ceding of Donbas]]
 - [[https://www.theguardian.com/news/2026/mar/25/un-votes-slave-trade-gravest-crime-against-humanity-reparatory-justice][UN votes to describe slave trade as ‘gravest crime against humanity’]]
 - [[https://www.theguardian.com/culture/2026/mar/25/ebo-m-lion-king-circle-of-life-chant-learnmore-jonasi-lawsuit][Lebo M sues comedian Learnmore Jonasi claiming Circle of Life misrepresentation]]
 - [[https://www.theguardian.com/environment/2026/mar/24/mountain-gorillas-twins-born-drc-aoe][‘Extraordinary event’ for mountain gorillas as new twins born in DRC]]
 - [[https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports][Strike on Sudan hospital kills at least 64 and wounds 89 more, WHO reports]]
-- [[https://www.theguardian.com/world/2026/mar/20/madagascar-military-ruler-new-ministers-lie-detector-tests][Madagascar’s military ruler decrees that ministers must pass lie detector tests]]
 
 ** 🇮🇹 Italia
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/australia-bans-visitors-from-iran-for-6-months-amid-war/a-76535385?maca=en-rss-en-world-4025-rdf][Australia bans visitors from Iran for 6 months amid war]]
+- [[https://www.dw.com/en/un-recognizes-slave-trade-as-gravest-crime-against-humanity/a-76535180?maca=en-rss-en-world-4025-rdf][UN recognizes slave trade as gravest crime against humanity]]
 - [[https://www.dw.com/en/an-iranian-to-negotiate-with-who-is-mohammad-ghalibaf/a-76530987?maca=en-rss-en-world-4025-rdf][An Iranian to negotiate with: Who is Mohammad Ghalibaf?]]
 - [[https://www.dw.com/en/hungarian-election-will-europe-s-far-right-help-orban-win/a-76522061?maca=en-rss-en-world-4025-rdf][Hungarian election: Will Europe's far-right help Orban win?]]
 - [[https://www.dw.com/en/how-countries-are-tackling-the-global-energy-crisis/a-76523669?maca=en-rss-en-world-4025-rdf][How countries are tackling the global energy crisis]]
-- [[https://www.dw.com/en/nigeria-moves-to-broaden-security-alliances-amid-ongoing-insurgency-threats/a-76512959?maca=en-rss-en-world-4025-rdf][Nigeria moves to broaden security alliances amid ongoing insurgency threats]]
-- [[https://www.dw.com/en/can-thailand-s-new-government-deliver-on-growth-promises/a-76526608?maca=en-rss-en-world-4025-rdf][Can Thailand's new government deliver on growth promises?]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/drauziovarella/2026/03/homem-nao-se-mete-em-briga-de-mulher.shtml][Homem não se mete em briga de mulher]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/sem-concorrencia-regreen-leva-primeiro-leilao-federal-de-reflorestamento-com-venda-de-creditos-de-carbono.shtml][Sem concorrência, Re.green leva primeiro leilão federal de reflorestamento com venda de créditos de carbono]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/01/07/6437-coracao-acelerado-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post450456]['Coração Acelerado': Agrado e Eduarda fazem sucesso com seu show]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/03/moraes-disse-a-michelle-que-daria-atencao-especial-a-pedido-de-domiciliar-a-bolsonaro-na-vespera-de-decisao.shtml][Moraes disse a Michelle que daria atenção especial a pedido de domiciliar a Bolsonaro na véspera da decisão]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/03/deputado-ricardo-galvao-se-desfilia-da-rede-e-vai-para-o-psb.shtml][Deputado Ricardo Galvão se desfilia da Rede e vai para o PSB]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/03/bbb-26-em-sua-quinta-vez-no-barrado-no-baile-ana-paula-completa-o-desafio-e-ganha-direito-de-ir-a-festa-do-lider.shtml][BBB 26: Em sua quinta vez no Barrado no Baile, Ana Paula completa o desafio e ganha direito de ir à festa do líder]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/03/rael-examina-a-industria-em-seu-novo-disco-em-que-sampleia-desabafo-de-silva.shtml][Rael examina a indústria em seu novo disco, em que sampleia desabafo de Silva]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/03/sabesp-envia-alerta-no-celular-do-cliente-quando-consumo-de-agua-supera-30-da-media.shtml][Sabesp envia alerta no celular do cliente quando consumo de água supera 30% da média]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/03/bbb-26-programa-entra-em-modo-turbo-e-semana-tera-anjo-autoimune.shtml][BBB 26: Programa entra em modo turbo e semana terá anjo autoimune]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/03/morre-daphne-selfe-a-modelo-profissional-mais-velha-do-mundo-aos-97-anos.shtml][Morre Daphne Selfe, a modelo profissional mais velha do mundo, aos 97 anos]]
 
 *** O Globo
 
