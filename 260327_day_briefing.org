@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 37.6°C | ⚖ Load: 0.00 | 🌐 Ping: 8.96ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 38.6°C | ⚖ Load: 0.00 | 🌐 Ping: 9.58ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,19 +41,19 @@
 
 *** El País
 
-- [[https://elpais.com/espana/2026-03-27/el-supremo-propone-ahora-rebajar-a-la-mitad-las-costas-que-fijo-al-ex-fiscal-general-por-los-gastos-de-defensa-de-la-pareja-de-ayuso.html][El Supremo rebaja a la mitad las costas que fijó al ex fiscal general por los gastos de defensa de la pareja de Ayuso]]
-- [[https://elpais.com/espana/2026-03-27/sanchez-redisena-un-gobierno-mas-tecnico-para-hacer-frente-a-la-guerra-y-rematar-la-legislatura.html][Sánchez rediseña un Gobierno más técnico para hacer frente a la guerra y rematar la legislatura]]
+- [[https://elpais.com/internacional/2026-03-27/israel-intensifica-la-guerra-en-todos-los-frentes-y-amenaza-con-asesinar-a-mas-altos-cargos-iranies.html][Israel intensifica la guerra en todos los frentes y amenaza con matar más líderes iraníes]]
+- [[https://elpais.com/internacional/2026-03-27/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html][Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Israel y EE UU atacan una instalación nuclear en Irán sin que se haya registrado ninguna fuga radioactiva]]
 - [[https://elpais.com/internacional/2026-03-27/estados-unidos-se-refuerza-para-desatar-un-infierno-si-fracasan-las-negociaciones-con-iran.html][Trump envía a miles de soldados más al Golfo para preparar la operación “infierno” en Irán]]
 - [[https://elpais.com/internacional/2026-03-27/irak-llora-a-los-muertos-que-deja-el-peor-ataque-contra-su-ejercito-desde-el-inicio-de-la-guerra-por-que-nos-han-atacado-los-americanos.html][Irak llora a los muertos que deja el peor ataque contra su ejército desde el inicio de la guerra: “¿Por qué nos ha atacado Estados Unidos?”]]
-- [[https://elpais.com/internacional/2026-03-27/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html][Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Irán mantiene sus amenazas sobre el estrecho de Ormuz y advierte de que los buques que lo atraviesen sufrirán “graves consecuencias”]]
+- [[https://elpais.com/economia/2026-03-27/el-banco-de-espana-preve-que-el-pib-crezca-al-23-este-ano-gracias-al-alivio-del-plan-anticrisis.html][El Banco de España eleva el crecimiento para este año pero avisa de que los precios pueden dispararse por la guerra]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/03/26/69c587f621efa0272c8b459f.html][Sánchez se aferra al "alumno aventajado" Cuerpo en busca del salvavidas económico en su final de legislatura]]
-- [[https://www.elmundo.es/espana/2026/03/26/69c588a521efa01a628b457b.html][Sánchez no necesita vicepresidente político]]
-- [[https://www.elmundo.es/espana/2026/03/26/69c53de2fc6c83ab518b4589.html][Devaluación en dos vías del Gobierno de Sánchez, entre escándalos y urgencias electorales, con 55 ministros]]
+- [[https://www.elmundo.es/economia/2026/03/27/69c68c0821efa0cb7b8b458f.html][Bruselas avisa de un riesgo "claro" de "shock de estanflación" en la UE por la guerra de Irán: "Menor crecimiento con mayor inflación"]]
+- [[https://www.elmundo.es/economia/empresas/2026/03/27/69bd2b9afc6c8384238b4595.html][Marruecos disputa a España las oportunidades logísticas de la crisis de Ormuz]]
+- [[https://www.elmundo.es/internacional/2026/03/27/69c5192bfc6c838b6b8b4571.html][Duelo de bombas y cohetes en el sur del Líbano: "Hizbulá se ha restablecido y representa una amenaza para Israel"]]
+- [[https://www.elmundo.es/internacional/2026/03/27/69c65b11e85ece15608b4585.html][Marco Rubio pide apoyo al G7 para reabrir el Estrecho de Ormuz]]
 - [[https://www.elmundo.es/internacional/2026/03/26/69c54b06e85ece6b448b45a0.html][Irán se prepara para convertir la isla de Jark en un baño de sangre y "tomar como rehenes" a los soldados estadounidenses]]
-- [[https://www.elmundo.es/economia/macroeconomia/2026/03/27/69c63528fc6c832f7d8b4590.html][La inflación en España se dispara al 3,3% en el primer mes de la guerra en Irán, su mayor nivel en casi dos años]]
 
 *** La Vanguardia
 
@@ -61,65 +61,65 @@
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/arranca-operacion-salida-semana-santa-precio-gasolina-nubes-dos-importantes-novedades-conductores/20260327115541190523.html][Arranca la operación salida de Semana Santa con el precio de la gasolina por las nubes y dos "importantes" novedades para los conductores]]
-- [[https://eldiariocantabria.publico.es/articulo/sociedad/noche-comienza-horario-verano-adelanta-atrasa-reloj/20260327113229190522.html][Esta noche comienza el horario de verano: ¿Se adelanta o se atrasa el reloj?]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/detenido-menor-robo-ciclomotor-cayon-circulacion-temeraria/20260327111217190521.html][Detenido un menor por el robo de un ciclomotor en Cayón y circulación temeraria]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/comienzan-declaraciones-juicio-bocal/20260327105643190519.html][Comienzan las primeras declaraciones por el caso de El Bocal con la personación de un alto cargo de Costas]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/cazado-201-km-h-carretera-cantabria-limitada-90/20260327102629190516.html][Cazado a 201 km/h en una carretera de Cantabria limitada a 90]]
+- [[https://eldiariocantabria.publico.es/articulo/espanha/sanidad-pondra-mediador-negociaciones-comite-huelga-medico/20260327173804190542.html][El Ministerio pondrá un mediador en las negociaciones con el Comité de Huelga médico]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/cinco-anos-ocho-meses-prision-siete-hombres-traficar-vender-coches-robados/20260327172137190539.html][Hasta cinco años y ocho meses de prisión para siete hombres por traficar con drogas y vender coches robados]]
+- [[https://eldiariocantabria.publico.es/articulo/cultura/primera-muestra-yuko-mohri-espana-llega-centro-botin-entrelazar-objetos-musica/20260327171104190538.html][La primera muestra de Yuko Mohri en España llega al Centro Botín para entrelazar objetos y música]]
+- [[https://eldiariocantabria.publico.es/articulo/cultura/jauregui-publica-quemados-preocuparia-muchisimo-que-quemase-leonor-i-agarre-futuro-continuidad/20260327170316190536.html][Jáuregui publica ‘Quemados’: “Me preocuparía muchísimo que se quemase Leonor I, agarre de futuro y continuidad”]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/multa-casi-2000-euros-hombre-que-golpeo-palo-cachorro-husky-siberiano-que-acerco-perros/20260327164546190535.html][Multa de casi 2.000 euros para un hombre que golpeó con un palo a un cachorro de husky siberiano que se acercó a sus perros]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/national-security/2026/03/27/iran-war-civilian-deaths/][Nearly 1,500 Iranian civilians killed in U.S., Israeli strikes, report says]]
 - [[https://www.washingtonpost.com/national-security/2026/03/27/iran-war-tomahawk-missiles/][U.S. uses hundreds of Tomahawk missiles on Iran, alarming some at Pentagon]]
 - [[https://www.washingtonpost.com/world/2026/03/27/cuba-vatican-mediator-us-leo-trump/][Cuba looks to Vatican for help as U.S. pressure plunges island into crisis]]
 - [[https://www.washingtonpost.com/world/2026/03/26/us-israel-iran-navy-chief-killed-hormuz/][Trump says U.S. to hold off for 10 days on hitting Iran energy sites]]
 - [[https://www.washingtonpost.com/national-security/2026/03/26/us-iran-war-ukraine-missile-defense/][Pentagon considers diverting Ukraine military aid to the Middle East]]
-- [[https://www.washingtonpost.com/immigration/2026/03/26/immigrants-cities-census-population-growth/][Far fewer immigrants are moving to big cities in U.S., data shows]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/middle-east/iran-war-gulf-states-planning-9ee42951][Adjusting to War, Gulf States Brace for Greater Turbulence to Come]]
+- [[https://www.wsj.com/world/europe/europe-scrounges-for-gas-supplies-in-wake-of-iran-war-a4937435][Europe Scrounges for Gas Supplies in Wake of Iran War]]
 - [[https://www.wsj.com/politics/national-security/the-u-s-military-assets-damaged-or-lost-in-the-iran-war-b651127a][The U.S. Military Assets Damaged or Lost in the Iran War]]
 - [[https://www.wsj.com/world/middle-east/iran-missile-status-us-israel-war-6e9cbd25][U.S. and Israel Have Pounded—but Not Eliminated—Iran’s Missile Threat]]
 - [[https://www.wsj.com/world/europe/inside-the-trump-spain-rift-testing-the-trans-atlantic-alliance-e6dccb91][Why Spain’s PM Is Challenging Trump Over ‘Illegal’ Iran War]]
-- [[https://www.wsj.com/world/middle-east/jews-begin-to-wonder-is-anywhere-safe-f05dcc3d][Jews Begin to Wonder: Is Anywhere Safe?]]
-- [[https://www.wsj.com/world/europe/spain-pm-pedro-sanchez-trump-25eac0b4][The Spanish Revolt: The European Leader Who Says No to Trump]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/politique/article/2026/03/27/municipales-2026-une-etude-detaille-les-raisons-du-plafonnement-de-la-gauche-et-la-fluidite-des-electorats-de-droite-lors-d-un-scrutin-incomparable-avec-2027_6674464_823448.html][Municipales 2026 : une étude détaille les raisons du plafonnement de la gauche et la fluidité des électorats de droite]]
-- [[https://www.lemonde.fr/international/live/2026/03/27/en-direct-guerre-au-moyen-orient-la-russie-annonce-une-reunion-du-conseil-de-securite-de-l-onu-sur-l-iran-vendredi-a-sa-demande_6673056_3210.html][EN DIRECT, guerre au Moyen-Orient : l’Iran menace de viser les hôtels de la région qui accueillent des soldats américains]]
-- [[https://www.lemonde.fr/politique/article/2026/03/27/budget-sebastien-lecornu-sonne-la-mobilisation-a-bercy-malgre-un-deficit-public-2025-plus-limite-que-prevu_6674482_823448.html][Budget : Sébastien Lecornu veut consolider la baisse du déficit public]]
-- [[https://www.lemonde.fr/societe/article/2026/03/27/a-aix-en-provence-le-proces-de-deux-chefs-presumes-de-la-dz-mafia-s-enlise_6674489_3224.html][A Aix-en-Provence, le procès de deux chefs présumés de la DZ mafia s’enlise]]
-- [[https://www.lemonde.fr/economie/article/2026/03/27/le-francais-pernod-ricard-prepare-sa-fusion-avec-l-americain-brown-forman-proprietaire-de-jack-daniel-s_6674491_3234.html][Le français Pernod Ricard prépare sa fusion avec l’américain Brown-Forman, propriétaire de Jack Daniel’s]]
+- [[https://www.lemonde.fr/international/article/2026/03/27/guerre-en-iran-l-europe-base-arriere-des-operations-americaines_6674561_3210.html][Guerre en Iran : l’Europe base arrière des opérations américaines]]
+- [[https://www.lemonde.fr/politique/article/2026/03/27/en-bretagne-le-rn-progresse-de-facon-discrete-mais-strategique-aux-municipales_6674571_823448.html][En Bretagne, le RN progresse de façon discrète mais stratégique aux municipales]]
+- [[https://www.lemonde.fr/societe/article/2026/03/27/au-proces-sur-la-mort-d-olivio-gomes-le-policier-condamne-a-dix-ans-de-prison-pour-meurtre_6674648_3224.html][Mort d’Olivio Gomes : le policier condamné à dix ans de prison pour meurtre]]
+- [[https://www.lemonde.fr/societe/article/2026/03/27/sante-mentale-les-centres-experts-ligne-de-fracture-entre-psychiatres_6674607_3224.html][Santé mentale : les « centres experts », ligne de fracture entre psychiatres]]
+- [[https://www.lemonde.fr/afrique/article/2026/03/27/l-hopital-d-el-daein-au-darfour-cible-par-une-frappe-deliberee-de-l-armee-soudanaise_6674662_3212.html][L’hôpital d’El-Daein, au Darfour, ciblé par une frappe délibérée de l’armée soudanaise]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/faits-divers/ils-vont-se-faire-tuer-a-saint-denis-l-annonce-du-desarmement-de-la-police-municipale-provoque-un-exode-sans-precedent-des-agents-20260326][«Ils vont se faire tuer !» : à Saint-Denis, l’annonce du désarmement de la police municipale provoque un exode sans précédent des agents]]
-- [[https://www.lefigaro.fr/politique/desarmement-de-la-police-municipale-a-saint-denis-manuel-bompard-evoque-une-premiere-etape-20260327][Désarmement de la police municipale à Saint-Denis : Manuel Bompard évoque une «première étape»]]
-- [[https://www.lefigaro.fr/nice/nice-j-ai-lance-un-appel-aux-policiers-municipaux-de-saint-denis-affirme-eric-ciotti-lors-de-son-installation-a-la-mairie-20260327][Nice: «J’ai lancé un appel aux policiers municipaux de Saint-Denis», affirme Éric Ciotti lors de son installation à la mairie]]
-- [[https://www.lefigaro.fr/actualite-france/le-desarmement-de-la-police-municipale-dans-les-villes-lfi-fait-il-courir-un-risque-aux-forces-de-l-ordre-20260327][Le «désarmement» de la police municipale dans les villes LFI fait-il courir un risque aux forces de l'ordre ?]]
-- [[https://www.lefigaro.fr/international/en-direct-live-guerre-moyen-orient-iran-israel-etats-unis-teheran-liban-emirats-arabes-unis-qatar-arabie-saoudite-koweit-oman-20260327][EN DIRECT - Guerre au Moyen-Orient : les gardiens de la révolution iraniens appellent les civils à quitter les zones situées à proximité des forces américaines dans la région]]
+- [[https://www.lefigaro.fr/international/en-direct-live-guerre-moyen-orient-iran-israel-etats-unis-teheran-liban-emirats-arabes-unis-qatar-arabie-saoudite-koweit-oman-20260327][EN DIRECT - Guerre au Moyen-Orient : les États-Unis prévoient la fin des opérations en Iran dans «les deux prochaines semaines», affirme Marco Rubio]]
+- [[https://www.lefigaro.fr/international/nous-devons-frapper-la-ou-ils-se-trouvent-l-iran-menace-de-cibler-les-hotels-du-moyen-orient-accueillant-des-soldats-americains-20260327][«Nous devons frapper là où ils se trouvent» : l’Iran menace de cibler les hôtels du Moyen-Orient accueillant des soldats américains]]
+- [[https://www.lefigaro.fr/international/guerre-en-iran-les-usines-de-dessalement-talon-d-achille-des-pays-du-golfe-persique-20260327][Guerre en Iran : les usines de dessalement, talon d’Achille des pays du golfe persique]]
+- [[https://www.lefigaro.fr/conjoncture/l-iran-affirme-que-le-detroit-d-ormuz-est-ferme-aux-navires-venant-ou-allant-vers-des-ports-lies-a-l-ennemi-20260327][L'Iran affirme que le détroit d'Ormuz est fermé aux navires venant ou allant vers des ports liés à «l'ennemi»]]
+- [[https://www.lefigaro.fr/international/tsahal-va-s-effondrer-l-armee-israelienne-n-a-plus-les-moyens-de-ses-guerres-20260327][«Tsahal va s’effondrer» : l’armée israélienne n’a plus les moyens de ses guerres]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss]['My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises]]
-- [[https://www.bbc.com/news/articles/c1l9vz064nqo?at_medium=RSS&at_campaign=rss][Marco Rubio meets G7 counterparts amid Iran war]]
-- [[https://www.bbc.com/news/articles/cg73znr1vj7o?at_medium=RSS&at_campaign=rss][Panic buying prompts PM to reassure Australians over fuel supply]]
-- [[https://www.bbc.com/news/articles/c8957dxjvkxo?at_medium=RSS&at_campaign=rss][Belarus leader gifts rifle to North Korea's Kim as they sign friendship treaty]]
-- [[https://www.bbc.com/news/articles/c895v335xkgo?at_medium=RSS&at_campaign=rss][Nepal swears in ex-rapper as new prime minister]]
+- [[https://www.bbc.com/news/articles/c2evg2m3ye2o?at_medium=RSS&at_campaign=rss][Is Trump's pause on attacking Iranian energy for diplomacy or an escalation?]]
+- [[https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss][UN human rights chief calls on US to conclude probe into Iran school strike]]
+- [[https://www.bbc.com/news/articles/c4g8w4xp97jo?at_medium=RSS&at_campaign=rss][Spanish woman who died through euthanasia failed by state, say critics]]
+- [[https://www.bbc.com/news/articles/cwyv70de9exo?at_medium=RSS&at_campaign=rss][Austria becomes latest to propose social media ban for children]]
+- [[https://www.bbc.com/news/articles/c1l9vz064nqo?at_medium=RSS&at_campaign=rss][Marco Rubio joins G7 talks with focus on Iran war]]
 
 *** The Guardian
 
+- [[https://www.theguardian.com/news/2026/mar/27/un-slavery-ruling-african-union-reparations-slavery-analysis][UN’s landmark slavery ruling energises African Union’s fight for reparations]]
 - [[https://www.theguardian.com/artanddesign/2026/mar/27/african-guernica-dumile-feni-on-display-alongside-picasso][‘The violence of racist tyranny’: African Guernica goes on display alongside Picasso masterpiece]]
 - [[https://www.theguardian.com/news/2026/mar/26/nigeria-regional-superpower-uk-reparative-justice-trade-economic-ties][Nigeria takes its place on world stage in quest to become regional superpower]]
 - [[https://www.theguardian.com/world/2026/mar/26/sudan-drone-strikes-civilian-targets-north-darfur-market-north-kordofan-truck][Two drone strikes on civilian targets kill 28 people in Sudan]]
 - [[https://www.theguardian.com/world/2026/mar/26/ukraine-war-briefing-zelenskyy-says-us-has-linked-security-guarantees-to-ceding-of-donbas][Ukraine war briefing: Zelenskyy says US has linked security guarantees to ceding of Donbas]]
-- [[https://www.theguardian.com/news/2026/mar/25/un-votes-slave-trade-gravest-crime-against-humanity-reparatory-justice][UN votes to describe slave trade as ‘gravest crime against humanity’]]
 
 ** 🇮🇹 Italia
 
@@ -134,10 +134,10 @@
 *** Il Sole 24 Ore
 
 - [[https://www.ilsole24ore.com/art/a-new-york-4mila-studenti-ridanno-vita-nazioni-unite-AIEBsACC][A New York: 4mila studenti ridanno vita alle Nazioni Unite]]
+- [[https://www.ilsole24ore.com/art/comunicato-fieg-AILpefCC][Comunicato della Fieg]]
 - [[https://www.ilsole24ore.com/art/comunicato-sindacale-sciopero-27-marzo-2026-AIqnnJBC][Comunicato sindacale sullo sciopero del 27 marzo 2026]]
 - [[https://www.ilsole24ore.com/art/venerdi-nuovo-rating-moody-s-sull-italia-ecco-ultime-decisioni-agenzie-AISBjaBC][Venerdì nuovo rating di Moody’s sull’Italia: ecco le ultime decisioni delle agenzie]]
 - [[https://www.ilsole24ore.com/art/gas-transmed-arrivati-20-miliardi-metri-cubi-2025-ecco-quanto-pesa-l-algeria-flussi-italiani-AIPiuy9B][Algeria, pilastro della diversificazione energetica italiana con 20 miliardi di metri cubi di gas nel 2025]]
-- [[https://www.ilsole24ore.com/art/sabato-roma-corteo-contro-guerra-timore-scontri-capitale-blindata-AIXUBiBC][Sabato a Roma il corteo contro la guerra: timore di scontri, Capitale blindata]]
 
 ** 🇩🇪 Alemania
 
@@ -151,21 +151,21 @@
 
 *** Deutsche Welle
 
-- [[https://www.dw.com/en/us-court-suspends-pentagon-sanctions-against-anthropic/a-76556322?maca=en-rss-en-world-4025-rdf][US court suspends Pentagon sanctions against Anthropic]]
-- [[https://www.dw.com/en/two-aid-boats-go-missing-en-route-to-cuba-says-mexico/a-76555529?maca=en-rss-en-world-4025-rdf][Two aid boats go missing en route to Cuba, says Mexico]]
-- [[https://www.dw.com/en/in-a-first-trump-signature-to-appear-on-all-us-dollar-bills/a-76555406?maca=en-rss-en-world-4025-rdf][In a first, Trump signature to appear on all US dollar bills]]
-- [[https://www.dw.com/en/iran-war-houthi-restraint-driven-by-local-priorities/a-76546651?maca=en-rss-en-world-4025-rdf][Iran war: Houthi restraint driven by local priorities]]
-- [[https://www.dw.com/en/un-resolution-fuels-global-slavery-reparations-debate/a-76548380?maca=en-rss-en-world-4025-rdf][UN resolution fuels global slavery reparations debate]]
+- [[https://www.dw.com/en/nigeria-bets-on-uk-port-investment/a-76567291?maca=en-rss-en-world-4025-rdf][Nigeria bets on UK port investment]]
+- [[https://www.dw.com/en/us-rebuilding-wwii-pacific-airfields-amid-china-threat/a-76569562?maca=en-rss-en-world-4025-rdf][US rebuilding WWII Pacific airfields amid China threat]]
+- [[https://www.dw.com/en/us-government-chipping-away-at-press-freedom/a-76562966?maca=en-rss-en-world-4025-rdf][US government 'chipping away' at press freedom]]
+- [[https://www.dw.com/en/nuclear-power-in-africa-big-dreams-bigger-hurdles/a-76561750?maca=en-rss-en-world-4025-rdf][Nuclear power in Africa: Big dreams, bigger hurdles]]
+- [[https://www.dw.com/en/nepal-s-new-pm-inherits-india-china-us-balancing-act/a-76566455?maca=en-rss-en-world-4025-rdf][Nepal's new PM inherits India-China-US balancing act]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/e-logo-ali/2026/03/procuram-se-voluntarios-para-sinalizar-a-transmantiqueira.shtml][Procuram-se voluntários para sinalizar a Transmantiqueira]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/governo-lula-articula-credito-de-ate-r-7-bi-para-limitar-aumento-na-conta-de-luz-em-ano-eleitoral.shtml][Governo Lula articula crédito de até R$ 7 bi para limitar aumento na conta de luz em ano eleitoral]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/02/chocolate-acumula-inflacao-de-quase-25-antes-da-pascoa.shtml][Chocolate acumula inflação de quase 25% antes da Páscoa]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/03/adolescentes-que-usam-maconha-podem-desenvolver-psicose-e-bipolaridade-aponta-estudo.shtml][Adolescentes que usam maconha podem desenvolver psicose e bipolaridade, aponta estudo]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/03/quase-metade-das-interrupcoes-no-transporte-do-rio-por-tiroteios-acontece-em-horario-escolar.shtml][Quase metade das interrupções no transporte do Rio por tiroteios acontece em horário escolar]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/03/michelle-diz-que-merito-de-domiciliar-a-bolsonaro-e-de-todos-que-foram-a-moraes.shtml][Michelle diz que mérito de domiciliar a Bolsonaro é de todos que foram a Moraes]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/03/barcos-que-levavam-ajuda-a-cuba-desaparecem-no-mar.shtml][Barcos que levavam ajuda a Cuba desaparecem no mar]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/03/onu-oferece-bolsa-para-jornalistas-cobrirem-assembleia-geral.shtml][ONU oferece bolsa para jornalistas cobrirem assembleia geral]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/03/em-relatorio-da-cpmi-do-inss-deputado-diz-que-interferencia-do-stf-esvaziou-comissao.shtml][Em relatório da CPMI do INSS, deputado diz que interferência do STF esvaziou comissão]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/03/lancet-retrata-artigo-de-49-anos-sobre-talco-da-johnson-johnson-apos-violacao-etica.shtml][Lancet retrata artigo de 49 anos sobre talco da Johnson & Johnson após violação ética]]
 
 *** O Globo
 
