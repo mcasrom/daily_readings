@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-29T00:00:02.388533",
+  "timestamp": "2026-03-29T06:00:02.732202",
   "data": {
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada": [
       {
@@ -25,24 +25,24 @@
     ],
     "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml": [
       {
+        "title": "El conflicto se expande al cumplir un mes: los aliados de Irán abren más frentes y la guerra se recrudece",
+        "link": "https://www.elmundo.es/internacional/2026/03/28/69c69ba9fc6c839c0b8b45ca.html"
+      },
+      {
         "title": "Los hutíes entran en la espiral de ataques contra Israel  y no descartan cerrar el Estrecho de Bab el Mandeb",
         "link": "https://www.elmundo.es/internacional/2026/03/28/69c808dfe4d4d842088b4576.html"
       },
       {
-        "title": "Más tropas, más presión y dudas en la Casa Blanca: el dilema de Trump con Irán",
-        "link": "https://www.elmundo.es/internacional/2026/03/28/69c6c1ade4d4d8ca6d8b4571.html"
+        "title": "Sánchez consagra a Cuerpo y España como su ticket electoral para llevarlo a pelear por la reelección en 2027",
+        "link": "https://www.elmundo.es/espana/2026/03/29/69c7c439fdddffe22b8b45a1.html"
       },
       {
-        "title": "Israel mata a una docena de personas en el sur del Líbano, entre ellos cinco socorristas en un entierro y tres periodistas",
-        "link": "https://www.elmundo.es/internacional/2026/03/28/69c7c3a921efa0a07f8b4594.html"
+        "title": "Teruel, refugio de guerra: dentro del búnker de las grandes aerolíneas frente a las bombas de Oriente Medio",
+        "link": "https://www.elmundo.es/cronica/2026/03/28/69c68b8ae4d4d8b4668b457d.html"
       },
       {
-        "title": "Las manifestaciones contra Trump recorren Estados Unidos y traspasan sus fronteras",
-        "link": "https://www.elmundo.es/internacional/2026/03/28/69c80236fdddffb3268b458f.html"
-      },
-      {
-        "title": "La encrucijada del rey Carlos III ante su inoportuna visita al belicista Trump",
-        "link": "https://www.elmundo.es/internacional/2026/03/28/69c66709e9cf4a9a648b45ac.html"
+        "title": "El \"gran sacrificio\" de Montero al dejar el Gobierno: \"Se va muy disgustada, no se atrevió a decir 'no' a Sánchez\"",
+        "link": "https://www.elmundo.es/espana/2026/03/28/69c82681fdddffe22b8b45b9.html"
       }
     ],
     "https://www.lavanguardia.com/rss/home.xml": [],
@@ -70,6 +70,10 @@
     ],
     "https://feeds.washingtonpost.com/rss/world": [
       {
+        "title": "Pentagon prepares for weeks of ground operations in Iran",
+        "link": "https://www.washingtonpost.com/national-security/2026/03/28/trump-iran-ground-troops-marines/"
+      },
+      {
         "title": "Iran-backed Houthis in Yemen launch attack on Israel for first time in war",
         "link": "https://www.washingtonpost.com/world/2026/03/28/iran-us-war-yemen-trump/"
       },
@@ -84,13 +88,21 @@
       {
         "title": "At least 10 U.S. troops wounded in Iranian attack on Saudi air base",
         "link": "https://www.washingtonpost.com/national-security/2026/03/27/iran-wounds-us-troops-saudi-base/"
-      },
-      {
-        "title": "Nearly 1,500 Iranian civilians killed in U.S., Israeli strikes, report says",
-        "link": "https://www.washingtonpost.com/national-security/2026/03/27/iran-war-civilian-deaths/"
       }
     ],
     "https://feeds.content.dowjones.io/public/rss/RSSWorldNews": [
+      {
+        "title": "Voices of War: Five Lives Caught in the Middle East Conflict",
+        "link": "https://www.wsj.com/world/middle-east/voices-of-war-five-lives-caught-in-the-middle-east-conflict-1fa8842a"
+      },
+      {
+        "title": "How Pakistan Wooed Trump and Styled Itself as a Peace Broker in Iran Conflict",
+        "link": "https://www.wsj.com/world/middle-east/pakistan-trump-iran-war-84b8248e"
+      },
+      {
+        "title": "The Venezuelan First Lady’s Other Job: Tending a Family Crime Dynasty",
+        "link": "https://www.wsj.com/world/americas/venezuelan-first-lady-drug-trafficking-family-43cc6dd2"
+      },
       {
         "title": "Inside the Trans-Atlantic Trade in Iranian Weapons for Colombian Coke",
         "link": "https://www.wsj.com/world/middle-east/inside-the-trans-atlantic-trade-in-iranian-weapons-for-colombian-coke-fb32daec"
@@ -98,32 +110,20 @@
       {
         "title": "Marine Expeditionary Unit Arrives in the Middle East—Here’s What We Know",
         "link": "https://www.wsj.com/world/middle-east/marine-expeditionary-unit-arrives-in-the-middle-eastheres-what-we-know-2d290820"
-      },
-      {
-        "title": "How a Bill Gates-Backed Company Landed in a Fight Between Congo and Belgium",
-        "link": "https://www.wsj.com/world/africa/congo-belgium-bill-gates-company-6d0e4be0"
-      },
-      {
-        "title": "Courting Trump and Fearing China, Japan Rethinks 80 Years of Pacifism",
-        "link": "https://www.wsj.com/world/asia/japan-defense-trump-china-5621e92e"
-      },
-      {
-        "title": "Court Hands Argentina’s Milei a Victory, Rejecting $16 Billion Verdict",
-        "link": "https://www.wsj.com/world/americas/court-hands-argentinas-milei-a-victory-rejecting-16-billion-verdict-be67e43d"
       }
     ],
     "https://www.lemonde.fr/rss/une.xml": [
       {
-        "title": "EN DIRECT, guerre au Moyen-Orient : Israël bombarde l’Iran et le Liban ; Emmanuel Macron veut « éviter que l’Irak ne soit entraîné dans l’escalade en cours »",
-        "link": "https://www.lemonde.fr/international/live/2026/03/28/en-direct-guerre-au-moyen-orient-israel-bombarde-l-iran-et-le-liban-emmanuel-macron-veut-eviter-que-l-irak-ne-soit-entraine-dans-l-escalade-en-cours_6674837_3210.html"
+        "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran menace de frapper les universités américaines présentes dans les pays du Golfe",
+        "link": "https://www.lemonde.fr/international/live/2026/03/29/en-direct-guerre-au-moyen-orient-l-iran-menace-de-frapper-les-universites-americaines-presentes-dans-les-pays-du-golfe_6674837_3210.html"
       },
       {
-        "title": "A Monaco, le pape Léon XIV tente de faire passer un message sur la redistribution des richesses : « Chaque bien mis entre nos mains a une destination universelle »",
-        "link": "https://www.lemonde.fr/societe/article/2026/03/28/a-monaco-le-pape-leon-xiv-tente-de-faire-passer-un-message-sur-la-redistribution-des-richesses-chaque-bien-mis-entre-nos-mains-a-une-destination-universelle_6675083_3224.html"
+        "title": "Aux Etats-Unis, la guerre en Iran au centre des manifestations « No Kings » contre Donald Trump : « L’Amérique est du mauvais côté dans cette histoire »",
+        "link": "https://www.lemonde.fr/international/article/2026/03/29/aux-etats-unis-la-guerre-en-iran-au-centre-des-manifestations-no-kings-contre-donald-trump-l-amerique-est-du-mauvais-cote-dans-cette-histoire_6675133_3210.html"
       },
       {
-        "title": "Le Sénégal présente le trophée de la CAN au Stade de France, devant la diaspora rassemblée pour célébrer les « seuls champions d’Afrique »",
-        "link": "https://www.lemonde.fr/afrique/article/2026/03/28/football-au-stade-de-france-la-diaspora-senegalaise-a-celebre-les-seuls-champions-d-afrique_6675090_3212.html"
+        "title": "Comment Vierzon, bastion communiste, est devenue un laboratoire des extrêmes droites",
+        "link": "https://www.lemonde.fr/politique/article/2026/03/29/comment-vierzon-bastion-communiste-est-devenue-un-laboratoire-des-extremes-droites_6675129_823448.html"
       },
       {
         "title": "CNews : Bally Bagayoko annonce qu’il porte plainte après des propos tenus sur la chaîne et dit souhaiter un « grand rassemblement » antiraciste",
@@ -136,16 +136,16 @@
     ],
     "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
       {
-        "title": "Attentat déjoué à Paris devant la Bank of America : Laurent Nunez soupçonne un «lien» avec le conflit en Iran",
-        "link": "https://www.lefigaro.fr/faits-divers/paris-un-attentat-dejoue-cette-nuit-devant-la-bank-of-america-20260328"
-      },
-      {
-        "title": "Attentat déjoué à Paris : les «Vertueux», islamistes pro-Iran responsables de plusieurs explosions en Europe, avaient menacé la Bank of America",
-        "link": "https://www.lefigaro.fr/international/explosions-a-liege-et-amsterdam-incendies-a-londres-et-anvers-derriere-ces-recentes-attaques-l-ombre-des-vertueux-ces-islamistes-pro-iran-20260325"
+        "title": "«Nous voulons voir Donald Trump destitué»: aux États-Unis, plus de 3000 manifestations «No Kings» organisées",
+        "link": "https://www.lefigaro.fr/international/nous-voulons-voir-donald-trump-destitue-aux-etats-unis-plus-de-3000-manifestations-no-kings-organisees-20260329"
       },
       {
         "title": "EN DIRECT - Guerre au Moyen-Orient : Les Houthis annoncent avoir lancé une deuxième attaque contre Israël",
         "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-israel-iran-etats-unis-missiles-frappes-yemen-houthis-deux-semaines-rubio-trump-netanyahou-20260328"
+      },
+      {
+        "title": "Le Pentagone se prépare à des opérations sur le terrain en Iran",
+        "link": "https://www.lefigaro.fr/international/le-pentagone-se-prepare-a-des-operations-sur-le-terrain-en-iran-20260329"
       },
       {
         "title": "Abu Dhabi : six blessés après une attaque de drones et de missiles",
@@ -158,24 +158,24 @@
     ],
     "https://feeds.bbci.co.uk/news/world/rss.xml": [
       {
+        "title": "Trump is waging war based on instinct and it isn't working",
+        "link": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
         "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "One ant for $220: the new frontier of wildlife trafficking",
+        "link": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How deepfake porn scandal surrounding TV star rocked Germany",
+        "link": "https://www.bbc.com/news/articles/c9vlm4j47e2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "No Kings protests across the US rally against Donald Trump",
         "link": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Tiger Woods released on bail after DUI arrest",
-        "link": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Looksmaxxing influencer Clavicular arrested on battery charge in Florida",
-        "link": "https://www.bbc.com/news/articles/cr513g72vqgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Two Cuba-bound aid ships found days after disappearing",
-        "link": "https://www.bbc.com/news/articles/clye4w10g22o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "https://www.theguardian.com/world/rss": [
@@ -272,8 +272,8 @@
         "link": "https://www.dw.com/en/no-kings-protests-trump-critics-rally-across-the-us/a-76580489?maca=en-rss-en-world-4025-rdf"
       },
       {
-        "title": "Mexico finds 2 boats lost while carrying aid to Cuba",
-        "link": "https://www.dw.com/en/mexico-finds-2-boats-lost-while-carrying-aid-to-cuba/a-76580010?maca=en-rss-en-world-4025-rdf"
+        "title": "Missing Cuba-bound boats carrying aid arrive safely in Havana",
+        "link": "https://www.dw.com/en/missing-cuba-bound-boats-carrying-aid-arrive-safely-in-havana/a-76580010?maca=en-rss-en-world-4025-rdf"
       },
       {
         "title": "Zelenskyy visits Doha as Ukraine, Qatar sign defense pact",
@@ -290,24 +290,24 @@
     ],
     "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml": [
       {
-        "title": "'População ignorante e imediatista, não vai mudar nunca isso aqui', diz leitor sobre eleições de 2026",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/03/populacao-ignorante-e-imediatista-nao-vai-mudar-nunca-isso-aqui-diz-leitor-sobre-eleicoes-de-2026.shtml"
+        "title": "Três adolescentes são apreendidos suspeitos de estuprar menina em Manaus",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/03/tres-adolescentes-sao-apreendidos-suspeitos-de-estuprar-menina-em-manaus.shtml"
       },
       {
-        "title": "Lula parabeniza PF por aniversário e diz que corporação é peça fundamental no combate a facções",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/03/lula-parabeniza-pf-por-aniversario-e-diz-que-corporacao-e-peca-fundamental-no-combate-a-faccoes.shtml"
+        "title": "Ferrovia Carajás chega aos 40 anos com 16 milhões de passageiros transportados",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/sobre-trilhos/2026/03/ferrovia-carajas-chega-aos-40-anos-com-16-milhoes-de-passageiros-transportados.shtml"
       },
       {
-        "title": "Reconstrução do MEC e aposta em bolsa no ensino médio marcam gestão Camilo",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/03/reconstrucao-do-mec-e-aposta-em-bolsa-no-ensino-medio-marcam-gestao-camilo.shtml"
+        "title": "Apelo à consolidação da paz no país, diz Maduro em mensagem após audiência nos EUA",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/03/apelo-a-consolidacao-da-paz-no-pais-diz-maduro-em-mensagem-apos-audiencia-nos-eua.shtml"
       },
       {
-        "title": "Laudo aponta bactérias em alimentos de pizzaria após mais de cem passarem mal na Paraíba",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/03/laudo-aponta-bacterias-em-alimentos-de-pizzaria-apos-mais-de-cem-passarem-mal-na-paraiba.shtml"
+        "title": "Flávio faz dancinhas para mirar TikTok e jovens da periferia, mas aliados rejeitam iniciativa",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/03/flavio-faz-dancinhas-para-mirar-tiktok-e-jovens-da-periferia-mas-aliados-rejeitam-iniciativa.shtml"
       },
       {
-        "title": "Ibaneis deixa governo em meio a incógnita sobre chapa, BRB e futuro do caso Master",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/03/ibaneis-deixa-governo-em-meio-a-incognita-sobre-chapa-brb-e-futuro-do-caso-master.shtml"
+        "title": "Recuperações no agro revelam nova fase do crédito no Brasil",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ana-paula-vescovi/2026/03/recuperacoes-no-agro-revelam-nova-fase-do-credito-no-brasil.shtml"
       }
     ],
     "https://oglobo.globo.com/rss.xml": []
