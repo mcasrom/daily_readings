@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 37.0°C | ⚖ Load: 0.56 | 🌐 Ping: 9.10ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 37.6°C | ⚖ Load: 0.08 | 🌐 Ping: 9.18ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,19 +49,19 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/economia/2026/03/30/69ca9e78e85ece93458b4577.html][El G7, dispuesto a tomar "todas las medidas necesarias" para preservar los mercados energéticos y financieros en una semana crítica]]
-- [[https://www.elmundo.es/internacional/2026/03/30/69caac09e9cf4a1a6c8b459c.html][La OTAN derriba un misil iraní que entró en el espacio aéreo de Turquía, el cuarto en el último mes]]
-- [[https://www.elmundo.es/cultura/musica/2026/03/30/69cadea3fc6c8375708b456e.html][La resurrección de Rosalía en su primer concierto en Madrid: "Nunca voy a olvidar este día"]]
-- [[https://www.elmundo.es/internacional/2026/03/30/69caac19e85ece97748b45a4.html][Dos 'cascos azules' muertos en Líbano en ataques al convoy bajo mando español]]
-- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/03/30/69ca51befdddff04028b4589.html][Giro total de Podemos: ofrece ahora a IU un pacto en Andalucía con Maíllo de líder y Sumar dentro]]
+- [[https://www.elmundo.es/espana/2026/03/30/69ca879de4d4d806178b45a7.html][Los inmigrantes regularizados por España le serán devueltos si se desplazan a Europa]]
+- [[https://www.elmundo.es/espana/2026/03/30/69cab166e85eceea428b459a.html][Sánchez se apoyará en Lula y Petro para impulsar su perfil antiultra antes de las elecciones en Andalucía]]
+- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/03/30/69caaa3c21efa0340a8b457a.html]["No queremos un espectáculo": IU enfría el intento de Podemos de subirse a la lista que despreció durante 18 meses]]
+- [[https://www.elmundo.es/internacional/2026/03/30/69ca81a7e85ecef0488b456e.html][La batalla por el uranio enriquecido iraní]]
+- [[https://www.elmundo.es/espana/2026/03/30/69cabe69fdddff36608b45bc.html][PP y Podemos desmienten el 'No a la guerra' del Gobierno: un "cierre del espacio aéreo" con más de 70 vuelos]]
 
 *** La Vanguardia
 
 - [[https://www.lavanguardia.com/internacional/20260330/11502565/trump-insiste-conversaciones-iran-amenaza-destruir-pais-reabre-estrecho-ormuz.html][Trump insiste en que ya negocia el fin de la guerra pero amenaza con destruir Irán si no reabre Ormuz]]
-- [[https://www.lavanguardia.com/internacional/20260330/11502643/turquia-alerta-misil-balistico-lanzado-iran-neutralizado-otan.html][La OTAN derriba por cuarta vez un misil balístico lanzado desde Irán]]
-- [[https://www.lavanguardia.com/internacional/20260330/11502126/guerra-iran-ataque-estados-unidos-trump-putin-espana-israel-bombardeos-teheran-hoy-en-directo.html][Última hora de la guerra en Irán y los ataques de EE.UU. e Israel, hoy en directo | La OTAN intercepta un misil balístico en Turquía lanzado por Irán]]
+- [[https://www.lavanguardia.com/opinion/20260331/11502838/mas-cerca-invasion.html][Más cerca de la invasión]]
 - [[https://www.lavanguardia.com/politica/20260330/11502177/espana-cierra-espacio-aereo-aviones-participen-guerra-iran.html][España cierra su espacio aéreo a los aviones que participen en la guerra en Irán]]
 - [[https://www.lavanguardia.com/politica/20260329/11501650/guardian-cielo-flanco-sur-otan.html][El guardián del cielo del flanco sur de la OTAN]]
+- [[https://www.lavanguardia.com/economia/20260330/11502351/euribor-hipotecas-marzo-2026.html][La guerra de Irán impacta en la hipoteca: el Euribor la encarecerá por primera vez en dos años]]
 
 *** El Diario de Cantabria
 
@@ -75,47 +75,47 @@
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/national-security/2026/03/30/trump-iran-war-negotiations-denial/][Trump says U.S. negotiating with Iranian leaders, despite Iran’s denials]]
 - [[https://www.washingtonpost.com/world/2026/03/30/italy-art-heist-cezanne-renoir-matisse/][Thieves steal works by Cézanne, Renoir, Matisse in less than 3 minutes]]
 - [[https://www.washingtonpost.com/world/2026/03/29/russian-tanker-cuba-anatoly-kolodkin/][U.S. allows Russian oil tanker to reach Cuba, breaking Trump’s effective blockade]]
 - [[https://www.washingtonpost.com/world/2026/03/30/israel-suspends-battalion-cnn/][Israel suspends battalion that detained CNN crew in West Bank]]
 - [[https://www.washingtonpost.com/world/2026/03/30/easter-jerusalem-pizzaballa-holy-church-sepulchre/][Outrage grows over Israeli restrictions to Jerusalem sites during Holy Week]]
-- [[https://www.washingtonpost.com/world/2026/03/30/iran-israel-war-killings/][Israel targets Iran’s leaders with lethal expertise using new AI platform]]
 
 *** WSJ.com: World News
 
-- [[https://www.wsj.com/world/middle-east/lebanon-expelled-irans-ambassador-he-refused-to-leave-a710471a][Lebanon Expelled Iran’s Ambassador. He Refused To Leave]]
-- [[https://www.wsj.com/world/america-downs-cheap-drones-with-million-dollar-missiles-a-fix-is-in-the-works-2afff48a][America Downs Cheap Drones With Million-Dollar Missiles. A Fix Is In the Works.]]
-- [[https://www.wsj.com/world/fake-cops-fake-judges-the-hollywood-style-scam-poised-to-go-global-e1e339a3][Fake Cops, Fake Judges: The Hollywood-Style Scam Poised to Go Global]]
-- [[https://www.wsj.com/world/irans-wealth-is-parked-on-londons-billionaires-row-cb2022e4][Iran’s Wealth Is Parked on London’s Billionaires’ Row]]
-- [[https://www.wsj.com/world/middle-east/irans-revolutionary-guard-built-a-sophisticated-system-of-patronage-its-keeping-the-regime-alive-67d319e6][The Web of Patronage Keeping Iran’s Regime in Control]]
+- [[https://www.wsj.com/world/asia/japan-is-fortifying-this-string-of-islands-close-to-china-4b9e7b9d][Japan Is Fortifying This String of Islands Close to China]]
+- [[https://www.wsj.com/world/iran-war-chokes-off-helium-supply-critical-for-ai-bf020a3f][Iran War Chokes Off Helium Supply Critical for AI]]
+- [[https://www.wsj.com/world/middle-east/trump-iran-war-strait-of-hormuz-ee950ad4][Trump Tells Aides He’s Willing to End War Without Reopening Hormuz]]
+- [[https://www.wsj.com/world/a-russian-tanker-tests-the-limits-of-trumps-cuba-squeeze-bbc7b436][A Russian Tanker Tests the Limits of Trump’s Cuba Squeeze]]
+- [[https://www.wsj.com/world/middle-east/lebanon-expelled-irans-ambassador-he-refused-to-leave-a710471a][Lebanon Expelled Iran’s Ambassador. He Refused to Leave.]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/article/2026/03/30/avec-l-aide-de-dieu-nous-tuerons-nos-ennemis-israel-instaure-la-peine-de-mort-pour-les-palestiens-accuses-de-meurtre-terroriste_6675489_3210.html][« Avec l’aide de Dieu, nous tuerons nos ennemis » : Israël instaure la peine de mort pour les Palestiniens accusés de meurtre « terroriste »]]
-- [[https://www.lemonde.fr/international/live/2026/03/30/en-direct-guerre-au-moyen-orient-la-france-demande-une-reunion-d-urgence-du-conseil-de-securite-de-l-onu-apres-la-mort-de-trois-casques-bleus-au-liban-en-moins-de-vingt-quatre-heures_6674837_3210.html][EN DIRECT, guerre au Moyen-Orient : la France demande une réunion d’urgence du Conseil de sécurité de l’ONU après la mort de trois casques bleus au Liban en moins de vingt-quatre heures]]
-- [[https://www.lemonde.fr/idees/article/2026/03/30/quand-l-irlande-offre-une-lecon-d-europe-a-donald-trump_6675394_3232.html][Quand l’Irlande offre une leçon d’Europe à Donald Trump]]
+- [[https://www.lemonde.fr/economie/article/2026/03/31/petrole-apres-un-mois-de-conflit-une-production-en-chute-libre_6675573_3234.html][Pétrole : après un mois de conflit, une production en chute libre]]
+- [[https://www.lemonde.fr/international/article/2026/03/30/avec-l-aide-de-dieu-nous-tuerons-nos-ennemis-israel-instaure-la-peine-de-mort-pour-les-palestiens-accuses-de-meurtre-terroriste_6675489_3210.html][Israël instaure la peine de mort pour les Palestiniens accusés de meurtre « terroriste » : « Avec l’aide de Dieu, nous tuerons nos ennemis »]]
+- [[https://www.lemonde.fr/international/article/2026/03/30/liban-la-finul-annonce-la-mort-de-deux-casques-bleus-dans-le-sud-du-pays_6675499_3210.html][Liban : la Finul annonce la mort de deux casques bleus dans le sud du pays]]
 - [[https://www.lemonde.fr/societe/article/2026/03/30/logement-le-nouveau-maire-de-paris-emmanuel-gregoire-veut-que-l-on-puisse-encore-rever-de-s-installer-dans-la-capitale_6675491_3224.html][Logement : Emmanuel Grégoire, le nouveau maire de Paris, veut que l’on puisse « encore rêver de s’installer » dans la capitale]]
-- [[https://www.lemonde.fr/economie/article/2026/03/30/arthur-mensch-patron-de-mistral-ai-heraut-d-une-intelligence-artificielle-ouverte-et-souveraine_6675432_3234.html][Arthur Mensch, patron de Mistral AI, héraut d’une intelligence artificielle ouverte et souveraine]]
+- [[https://www.lemonde.fr/politique/article/2026/03/30/dans-les-cotes-d-armor-une-mobilisation-de-soutien-apres-la-demission-du-maire-de-moncontour-victime-de-vandalisme_6675502_823448.html][Dans les Côtes-d’Armor, une mobilisation de soutien après la démission du maire de Moncontour, victime de vandalisme]]
 
 *** Le Figaro
 
 - [[https://www.lefigaro.fr/international/guerre-en-iran-les-options-de-donald-trump-pour-une-intervention-terrestre-americaine-20260330][Guerre en Iran : les options de Donald Trump pour une intervention terrestre américaine]]
 - [[https://www.lefigaro.fr/international/apres-un-mois-de-guerre-en-iran-donald-trump-face-a-la-tentation-de-l-escalade-20260329][Après un mois de guerre en Iran, Donald Trump face à la tentation de l’escalade]]
 - [[https://www.lefigaro.fr/vox/monde/renaud-girard-l-amerique-court-a-la-catastrophe-au-moyen-orient-20260330][Renaud Girard : « L’Amérique court à la catastrophe au Moyen-Orient »]]
+- [[https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-trump-dit-avoir-negocie-avec-l-iran-le-passage-de-20-cargos-petroliers-dans-le-detroit-d-ormuz-20260330][EN DIRECT - Moyen-Orient : Netanyahou estime qu’Israël a rempli plus de la moitié de ses objectifs de guerre contre l’Iran]]
 - [[https://www.lefigaro.fr/musique/tour-eiffel-ma-soiree-avec-celine-dion-20260330][Tour Eiffel : ma soirée avec Céline Dion]]
-- [[https://www.lefigaro.fr/culture/je-me-sens-forte-la-video-de-l-annonce-du-retour-de-celine-dion-20260330][«Je me sens forte»: la vidéo de l’annonce du retour de Céline Dion]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
 - [[https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss][Spain closes airspace to US aircraft involved in Iran war]]
-- [[https://www.bbc.com/news/articles/czrevyx28z2o?at_medium=RSS&at_campaign=rss][Russian oil tanker reaches Cuba after Trump appears to loosen blockade]]
-- [[https://www.bbc.com/news/articles/c0e7lrxrelwo?at_medium=RSS&at_campaign=rss][Zelensky says allies asked him to scale back attacks on Russian energy]]
+- [[https://www.bbc.com/news/articles/cn78xp0m75zo?at_medium=RSS&at_campaign=rss][King Charles should meet Epstein victims, US lawmaker says]]
 - [[https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss][Palestinians convicted of deadly attacks face death penalty under new Israeli law]]
-- [[https://www.bbc.com/news/articles/c0rx57zgz52o?at_medium=RSS&at_campaign=rss][Kris Jenner's image spreads in Chinese social media good luck trend]]
+- [[https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss][Gazan mother reunited with evacuated daughter after two years]]
+- [[https://www.bbc.com/news/articles/cdrmgvzm62no?at_medium=RSS&at_campaign=rss][Kid Rock sparks US Army probe after helicopter flyby at his mansion]]
 
 *** The Guardian
 
@@ -165,11 +165,11 @@
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/no-corre/2026/03/como-neutralizar-seu-ovo-de-pascoa.shtml][Como neutralizar seu ovo de Páscoa]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/morte-sem-tabu/2026/03/o-testamento-serie-sobre-anita-harley-e-muito-mais-que-entretenimento.shtml]['O Testamento', série sobre Anita Harley, é muito mais que entretenimento]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/juros-e-inadimplencia-voltam-a-subir-e-refreiam-novos-emprestimos.shtml][Juros e inadimplência voltam a subir e refreiam novos empréstimos]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2026/03/contra-guerra-no-ira-espanha-fecha-espaco-aereo-para-avioes-envolvidos-no-conflito.shtml][Contra guerra no Irã, Espanha fecha espaço aéreo para aviões envolvidos no conflito]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/03/zanin-condena-ex-aluno-de-medicina-por-trote-que-obrigou-calouras-a-jurar-nao-recusar-tentativa-de-coito.shtml][Zanin condena ex-aluno de medicina por trote que obrigou calouras a jurar não recusar 'tentativa de coito']]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/03/ataques-por-posse-na-comissao-da-mulher-sao-distracao-diz-erika-hilton.shtml][Ataques por posse na Comissão da Mulher são distração, diz Erika Hilton]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/03/bbb-26-favorita-para-sair-da-casa-solange-couto-ganha-apartamento.shtml][BBB 26: Favorita para sair da casa, Solange Couto ganha apartamento]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/03/bbb-26-samira-pega-as-chaves-do-apartamento-conquistado-no-reality.shtml][BBB 26: Samira pega as chaves do apartamento conquistado no reality]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/plastico/2026/03/artista-volta-a-morar-na-antiga-casa-de-leonilson-em-performance-instalacao.shtml][Artista volta a morar na antiga casa de Leonilson em performance-instalação]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/03/andressa-urach-anuncia-a-criacao-de-instituto-de-apoio-para-profissionais-do-sexo.shtml][Andressa Urach anuncia a criação de instituto de apoio para profissionais do sexo]]
 
 *** O Globo
 
