@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 38.1°C | ⚖ Load: 0.56 | 🌐 Ping: 9.46ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 39.2°C | ⚖ Load: 0.00 | 🌐 Ping: 15.5ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,19 +41,19 @@
 
 *** El País
 
-- [[https://cincodias.elpais.com/mercados-financieros/2026-04-01/la-bolsa-y-el-ibex-35.html][Las Bolsas se disparan y el petróleo cae ante la esperanza de que la guerra acabe pronto]]
-- [[https://elpais.com/internacional/2026-04-01/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html][Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump afirma que está pensando “seriamente” en sacar a EE UU de la OTAN]]
-- [[https://elpais.com/ciencia/2026-04-01/asi-sera-el-recorrido-de-artemis-2-hacia-la-cara-oculta-de-la-luna-el-reto-de-explorar-lo-que-nadie-ha-visto.html][Así será el recorrido de Artemis 2 hacia la cara oculta de la Luna: el reto de explorar lo que nadie ha visto]]
-- [[https://elpais.com/videos/2026-03-31/dentro-del-centro-espacial-kennedy-a-unos-metros-del-artemis-ii.html][Dentro del Centro Espacial Kennedy, a unos metros del Artemis II]]
-- [[https://elpais.com/ciencia/2026-04-01/lori-glaze-administradora-asociada-de-la-nasa-es-un-vuelo-de-prueba-muchos-sistemas-criticos-se-ensayaran-por-primera-vez.html][Lori Glaze, administradora asociada de la NASA: “Es un vuelo de prueba. Muchos sistemas críticos se ensayarán por primera vez”]]
+- [[https://elpais.com/internacional/2026-04-01/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html][Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán lanza su mayor oleada de misiles contra Israel de las últimas semanas]]
+- [[https://elpais.com/internacional/2026-04-01/trump-asegura-que-se-plantea-seriamente-retirar-a-estados-unidos-de-la-otan.html][Trump asegura que se plantea “seriamente” retirar a Estados Unidos de la OTAN]]
+- [[https://cincodias.elpais.com/mercados-financieros/2026-04-01/la-bolsa-y-el-ibex-35.html][Las Bolsas se disparan en su mejor sesión en un año y el petróleo se estabiliza cerca de los 100 dólares]]
+- [[https://elpais.com/ciencia/2026-04-01/el-lanzamiento-de-artemis-2-a-la-luna-a-que-hora-es-y-donde-ver-el-despegue.html][El lanzamiento de Artemis 2 a la Luna: a qué hora es y dónde ver el despegue]]
+- [[https://elpais.com/videos/2026-04-01/los-diez-dias-para-volver-a-la-luna-dentro-de-la-mision-artemis-ii-de-la-nasa.html][Los diez días para volver a la Luna: dentro de la misión Artemis II de la NASA]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/03/31/69b2f178fc6c8399658b457a.html][El Gobierno revienta su récord de cargos a dedo y gasta ya 170 millones al año]]
-- [[https://www.elmundo.es/espana/2026/03/31/69cc06dafc6c83ce5d8b4576.html][España tendrá que garantizar la repatriación de los inmigrantes regularizados si se van a Europa y negociar el coste: "Se debe tratar entre los países"]]
-- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/03/31/69cbfad4e4d4d8f6558b458f.html][Podemos se contradice para sobrevivir: pide a su militancia un pacto con Sumar en Andalucía tras dos años de vetos al Gobierno]]
-- [[https://www.elmundo.es/internacional/2026/03/31/69cbde1afdddff03128b4584.html][Irán monta su propia aduana en Ormuz]]
-- [[https://www.elmundo.es/internacional/2026/04/01/69ccd341e85ececc658b456f.html][Trump prevé salir de Irán en "dos o tres semanas" y realizará un anuncio importante sobre la guerra esta madrugada]]
+- [[https://www.elmundo.es/economia/empresas/2026/04/01/69cd025ee4d4d8f6558b45a3.html][Ángel Escribano dimitirá esta tarde como presidente de Indra tras las presiones del Gobierno]]
+- [[https://www.elmundo.es/economia/dinero-inversion/2026/04/01/69ccb974e9cf4a112a8b4575.html][Las bolsas europeas disparan su optimismo y anticipan el final de la guerra de Irán con subidas del 3%]]
+- [[https://www.elmundo.es/cronica/2026/03/31/69c9205221efa03a348b4582.html][La guerra de los drones suicidas 'low cost': el LUCAS de Trump y el FP-1 ucraniano contra el Shahed iraní]]
+- [[https://www.elmundo.es/internacional/2026/04/01/69cd2f7ce4d4d81d5f8b459c.html][El Reino Unido organizará una reunión con 35 países y España ausente para intentar reabrir Ormuz]]
+- [[https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/04/01/69ccdb31fc6c8375708b45a8.html][Los Mossos investigan los cánticos islamófobos y xenófobos en el partido España-Egipto]]
 
 *** La Vanguardia
 
@@ -61,11 +61,11 @@
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/dni-digital-sera-totalmente-valido-partir-jueves-santo/20260401115011190797.html][El DNI digital será totalmente válido a partir de este Jueves Santo]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/cantabristas-propone-gran-corredor-verde-integracion-ferroviaria-santander-frente-losa-hormigon-ministerio/20260401112430190795.html][Cantabristas propone un gran corredor verde para la integración ferroviaria frente a la “losa de hormigón” del Ministerio]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/investigada-mujer-24-anos-robar-chalet-usar-vehiculo-matriculas-sustraidas/20260401110451190793.html][Investigada una mujer de 24 años por robar en un chalet y usar en su vehículo matrículas sustraídas]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/dgt-activa-fase-critica-semana-santa-cantabria/20260401105413190792.html][Arranca la fase crítica de la Operación Salida de Semana Santa en Cantabria: 244.000 viajes por carretera]]
-- [[https://eldiariocantabria.publico.es/articulo/educacion/denuncian-educacion-vulnerar-libertad-sindical/20260401103249190791.html][Demandan a la Consejería de Educación por "vulnerar la libertad sindical"]]
+- [[https://eldiariocantabria.publico.es/articulo/comunicados/como-elegir-promotora-inmobiliaria-comprar-vivienda-opiniones-reales-neinor-homes/20260401175319190817.html][¿Cómo elegir la promotora inmobiliaria para comprar una vivienda? Opiniones reales sobre Neinor Homes]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/derivada-urgencias-ser-atendida-madre-pone-cuestion-pediatria-centro-salud-santander/20260401173101190816.html][Derivada a urgencias sin ser atendida: una madre pone en cuestión la pediatría en un centro de salud de Santander]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/costas-cierra-parte-balneario-primera-sardinero-riesgo-estructural/20260401171401190814.html][Costas cierra parte del balneario de la primera de El Sardinero por "riesgo estructural"]]
+- [[https://eldiariocantabria.publico.es/articulo/sociedad/radar-ocu-encontrar-gasolinera-mas-barata/20260401164419190813.html][Este es el radar de la OCU para encontrar la gasolinera más barata]]
+- [[https://eldiariocantabria.publico.es/articulo/mar-y-montana/pueblos-cantabria-que-parecen-sacados-postal-i/20260401163040190812.html][Pueblos de Cantabria que parecen sacados de una postal (I)]]
 
 ** 🇺🇸 Estados Unidos
 
@@ -79,39 +79,39 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/trump-raises-nato-withdrawal-as-allies-push-back-on-iran-war-7dd44fae][Trump Raises NATO Withdrawal as Allies Push Back on Iran War]]
+- [[https://www.wsj.com/world/russia/kremlin-enters-the-chat-with-russias-new-super-app-830c703a][Kremlin Enters the Chat With Russia’s New Super-App]]
+- [[https://www.wsj.com/world/middle-east/uae-iran-war-strait-of-hormuz-9836ecbb][U.A.E. Wants to Force Hormuz Open and Is Willing to Join the Fight]]
 - [[https://www.wsj.com/world/asia/how-a-tsunami-was-unleashed-at-17-000-feet-shattering-lives-below-01e18c99][How a Tsunami Was Unleashed at 17,000 Feet, Shattering Lives Below]]
 - [[https://www.wsj.com/world/africa/irked-by-u-s-sanctions-rwanda-threatens-to-stop-fighting-islamic-state-0bd5d007][Irked by U.S. Sanctions, Rwanda Threatens to Stop Fighting Islamic State]]
-- [[https://www.wsj.com/world/middle-east/iran-takes-aim-at-the-industries-behind-the-gulfs-pivot-from-oil-0a27eebc][Iran Takes Aim at the Industries Behind the Gulf’s Pivot From Oil]]
-- [[https://www.wsj.com/world/china/u-s-court-ruling-keeps-mao-documents-out-of-china-b1036dfc][U.S. Court Ruling Keeps Mao Documents Out of China]]
-- [[https://www.wsj.com/world/middle-east/hegseth-doubles-down-on-iran-pressure-280a3c46][Hegseth Doubles Down on Iran Pressure]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/article/2026/04/01/israel-tourne-un-peu-plus-le-dos-a-la-france-malgre-les-tentatives-de-paris-de-preserver-le-dialogue_6675839_3210.html][Israël tourne un peu plus le dos à la France, malgré les tentatives de Paris de préserver le dialogue]]
-- [[https://www.lemonde.fr/economie/article/2026/04/01/petrole-histoire-d-une-dependance-mondiale_6675820_3234.html][Pétrole, histoire d’une dépendance mondiale]]
-- [[https://www.lemonde.fr/planete/article/2026/04/01/carburants-aucun-risque-de-rupture-d-approvisionnement-dans-les-stations-service-assure-le-gouvernement_6675864_3244.html][Carburants : « Aucun risque de rupture d’approvisionnement » dans les stations-service, assure le gouvernement ; le litre de SP95-E10 atteint 2 euros]]
-- [[https://www.lemonde.fr/sciences/article/2026/04/01/le-president-macron-l-adn-et-un-message-secret-transfere-entre-la-france-et-le-japon_6675851_1650684.html][Le président Macron, l’ADN et un message secret transféré entre la France et le Japon]]
-- [[https://www.lemonde.fr/planete/article/2026/04/01/lien-entre-pesticides-et-cancers-pour-la-premiere-fois-des-chercheurs-mesurent-des-effets-a-l-echelle-d-un-pays_6675880_3244.html][Lien entre pesticides et cancers : pour la première fois, des chercheurs mesurent des effets à l’échelle d’un pays]]
+- [[https://www.lemonde.fr/international/live/2026/04/01/en-direct-guerre-au-moyen-orient-donald-trump-affirme-que-le-president-iranien-a-demande-un-cessez-le-feu-aux-etats-unis_6674837_3210.html][EN DIRECT, guerre au Moyen-Orient : après des tirs de missiles de l’Iran sur son territoire, Israël riposte et cible Téhéran]]
+- [[https://www.lemonde.fr/sciences/article/2026/04/01/avec-artemis-2-la-nasa-envoie-des-humains-autour-de-la-lune-pour-la-premiere-fois-depuis-cinquante-trois-ans_6675821_1650684.html][Avec Artemis-2, la NASA s’apprête à envoyer des humains autour de la Lune pour la première fois depuis cinquante-trois ans]]
+- [[https://www.lemonde.fr/societe/article/2026/04/01/mort-de-quentin-deranque-le-depute-lfi-raphael-arnault-compte-poursuivre-son-mandat-a-l-assemblee-nationale_6675912_3224.html][Mort de Quentin Deranque : le député LFI Raphaël Arnault de retour à l’Assemblée nationale]]
+- [[https://www.lemonde.fr/emploi/article/2026/04/01/comment-les-entreprises-profitent-de-l-usage-dissimule-de-l-intelligence-artificielle-au-travail_6675840_1698637.html][Comment les entreprises profitent de l’usage dissimulé de l’IA au travail]]
+- [[https://www.lemonde.fr/economie/article/2026/04/01/carburants-accuse-de-profiter-de-la-hausse-des-prix-l-etat-assure-qu-il-n-y-a-pas-de-cagnotte_6675904_3234.html][Carburants : accusé de profiter de la hausse des prix, l’Etat assure qu’il n’y a « pas de cagnotte »]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/en-direct-guerre-iran-moyen-orient-israel-etats-unis-koweit-liban-irak-emirats-arabes-unis-arabie-saoudite-qatar-oman-donald-trump-benyamin-netanyahou-20260401][EN DIRECT - Guerre au Moyen-Orient: après les critiques répétées de Trump, Starmer défend l’Otan, «l’alliance militaire la plus efficace» au monde]]
-- [[https://www.lefigaro.fr/international/j-envisage-serieusement-de-me-retirer-de-l-otan-affirme-donald-trump-20260401][«J’envisage sérieusement de me retirer de l’Otan», affirme Donald Trump]]
+- [[https://www.lefigaro.fr/international/en-direct-guerre-iran-moyen-orient-israel-etats-unis-koweit-liban-irak-emirats-arabes-unis-arabie-saoudite-qatar-oman-donald-trump-benyamin-netanyahou-20260401][EN DIRECT - Guerre au Moyen-Orient : l’Iran dément avoir demandé un «cessez-le-feu» aux États-Unis]]
+- [[https://www.lefigaro.fr/international/c-est-un-terrain-juridique-tres-controverse-donald-trump-peut-il-se-retirer-unilateralement-de-l-otan-20260401][«C’est un terrain juridique très controversé» : Donald Trump peut-il se retirer unilatéralement de l’OTAN ?]]
+- [[https://www.lefigaro.fr/international/j-envisage-serieusement-de-me-retirer-de-l-otan-affirme-donald-trump-20260401][«Ils ne sont pas là pour nous» : Donald Trump affirme envisager de se retirer de l’Otan]]
+- [[https://www.lefigaro.fr/international/iran-les-gardiens-de-la-revolution-affirment-que-le-detroit-d-ormuz-restera-ferme-a-ses-ennemis-20260401][Iran : les gardiens de la révolution affirment que le détroit d'Ormuz restera fermé à ses «ennemis»]]
 - [[https://www.lefigaro.fr/international/guerre-en-iran-trump-dit-que-la-guerre-sera-finie-d-ici-deux-ou-trois-semaines-ormuz-n-est-plus-son-probleme-20260401][Guerre en Iran : Trump dit que la guerre sera finie d’ici «deux ou trois semaines», Ormuz n’est plus son problème]]
-- [[https://www.lefigaro.fr/international/les-etats-unis-doivent-reexaminer-leurs-relations-avec-l-otan-affirme-marco-rubio-20260401][Les États-Unis doivent «réexaminer» leurs relations avec l’Otan, affirme Marco Rubio]]
-- [[https://www.lefigaro.fr/actualite-france/terrorisme-djihadiste-ces-mineurs-francais-attires-par-une-propagande-qui-reprend-les-codes-de-leur-generation-20260401][Terrorisme djihadiste : ces mineurs français attirés par une propagande qui reprend les codes de leur génération]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
 - [[https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss][China is trying to play peacemaker in the Iran war - will it work?]]
-- [[https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss][Iran using children in security roles in war, reports and witnesses say]]
-- [[https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss][Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends]]
-- [[https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss][US journalist Shelly Kittleson kidnapped in Baghdad]]
-- [[https://www.bbc.com/news/articles/c05d7md899ro?at_medium=RSS&at_campaign=rss][Peacekeepers killed by roadside explosion in Lebanon, initial report finds]]
+- [[https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss][Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control]]
+- [[https://www.bbc.com/news/articles/c78l7vyylgqo?at_medium=RSS&at_campaign=rss][Peter Magyar, the former Orban ally vying for power in Hungary]]
+- [[https://www.bbc.com/news/articles/cly6387xgqxo?at_medium=RSS&at_campaign=rss][Russian military plane crash kills 29 in occupied Crimea]]
+- [[https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss][Mass robotaxi malfunction halts traffic in Chinese city]]
 
 *** The Guardian
 
@@ -133,11 +133,11 @@
 
 *** Il Sole 24 Ore
 
+- [[https://www.ilsole24ore.com/art/e-morto-federico-enriques-storica-guida-zanichelli-AIv5MEIC][È morto Federico Enriques, storica guida della Zanichelli]]
+- [[https://www.ilsole24ore.com/art/comitato-condotta-camera-formalizza-sanzione-delmastro-AImbx9HC][Comitato condotta Camera formalizza sanzione a Delmastro]]
+- [[https://www.ilsole24ore.com/art/imprese-urso-annuncia-15-miliardi-transizione-50-AIo0uyHC][Imprese, Urso annuncia 1,5 miliardi su Transizione 5.0. Orsini: «È la via giusta»]]
+- [[https://www.ilsole24ore.com/art/il-pd-punta-una-stretta-sull-algoritmo-che-governa-selezione-contenuti-social-ecco-come-AIxeQsHC][La proposta del Pd: stretta sull’algoritmo che governa la selezione dei contenuti sui social. Ecco come]]
 - [[https://www.ilsole24ore.com/art/lavoro-istat-febbraio-tasso-occupazione-cala-624percento-AIh6khHC][Lavoro, Istat: a febbraio -29mila occupati sul mese, +13mila su anno]]
-- [[https://www.ilsole24ore.com/art/per-meloni-passaggio-camere-ma-senza-voto-AI9mXMHC][Per Meloni passaggio alle Camere (ma senza voto)]]
-- [[https://www.ilsole24ore.com/art/speranza-vita-chi-ha-65-anni-massimi-servira-aggiornare-requisiti-le-pensioni-AIZ3y3GC][Speranza di vita per chi ha 65 anni ai massimi: servirà per aggiornare i requisiti per le pensioni]]
-- [[https://www.ilsole24ore.com/art/la-marina-punta-dotare-portaerei-cavour-tb3-ecco-caratteristiche-super-drone-AIewYmGC][La Marina punta a dotare la portaerei Cavour del TB3: ecco le caratteristiche del super drone]]
-- [[https://www.ilsole24ore.com/art/carburanti-taglio-accise-fino-30-aprile-AId70MHC][Carburanti, taglio delle accise fino al 30 aprile]]
 
 ** 🇩🇪 Alemania
 
@@ -151,21 +151,21 @@
 
 *** Deutsche Welle
 
-- [[https://www.dw.com/en/deterrent-or-danger-after-iran-are-saudi-arabia-and-turkey-next-in-line-for-nuclear-weapons/a-76613406?maca=en-rss-en-world-4025-rdf][Deterrent or danger: After Iran, are Saudi Arabia and Turkey next in line for nuclear weapons?]]
-- [[https://www.dw.com/en/senegal-president-signs-off-on-lgbtq-law-doubling-maximum-jail-term-for-same-sex-relations/a-76612496?maca=en-rss-en-world-4025-rdf][Senegal: President signs off on LGBTQ law doubling maximum jail term for same-sex relations]]
-- [[https://www.dw.com/en/russian-oil-tanker-docks-in-cuba-the-1st-since-us-blockade/a-76611820?maca=en-rss-en-world-4025-rdf][Russian oil tanker docks in Cuba, the 1st since US blockade]]
-- [[https://www.dw.com/en/local-elections-in-serbia-is-vucic-s-party-losing-its-grip/a-76608212?maca=en-rss-en-world-4025-rdf][Local elections in Serbia: Is Vucic's party losing its grip?]]
-- [[https://www.dw.com/en/mediterranean-sharks-are-vanishing-in-a-legal-void/a-76594337?maca=en-rss-en-world-4025-rdf][Mediterranean sharks are vanishing in a legal void]]
+- [[https://www.dw.com/en/is-pakistan-setting-up-a-buffer-zone-in-afghanistan/a-76624686?maca=en-rss-en-world-4025-rdf][Is Pakistan setting up a buffer zone in Afghanistan?]]
+- [[https://www.dw.com/en/iran-war-strikes-on-steel-deal-painful-blow-to-economy/a-76621439?maca=en-rss-en-world-4025-rdf][Iran war: Strikes on steel deal painful blow to economy]]
+- [[https://www.dw.com/en/russian-military-plane-crash-in-crimea-kills-at-least-29/a-76620125?maca=en-rss-en-world-4025-rdf][Russian military plane crash in Crimea kills at least 29]]
+- [[https://www.dw.com/en/cambodia-alleged-cyber-scam-boss-extradited-to-china/a-76619267?maca=en-rss-en-world-4025-rdf][Cambodia: Alleged cyber scam boss extradited to China]]
+- [[https://www.dw.com/en/fifa-world-cup-2026-trump-s-politics-put-off-german-fans/a-76611029?maca=en-rss-en-world-4025-rdf][FIFA World Cup 2026: Trump's politics put off German fans]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/04/billie-eilish-e-cotada-para-estreia-nos-cinemas-em-a-redoma-de-vidro.shtml][Billie Eilish é cotada para estreia nos cinemas em 'A Redoma de Vidro']]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/04/chaves-o-poderoso-chefao-e-watergate-como-era-o-mundo-em-1972-na-ultima-missao-apollo.shtml]['Chaves', 'O Poderoso Chefão' e Watergate: como era o mundo em 1972, na última missão Apollo]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/04/juizes-que-decidirao-sobre-regra-de-cidadania-nos-eua-tem-raizes-na-imigracao.shtml][Juízes que decidirão sobre regra de cidadania nos EUA tem raízes na imigração]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/04/suprema-corte-inicia-julgamento-para-decidir-se-trump-pode-negar-cidadania-a-filhos-de-imigrantes.shtml][Suprema Corte inicia julgamento para decidir se Trump pode negar cidadania a filhos de imigrantes]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/04/cara-de-sapato-do-bbb-23-perde-processo-que-movia-contra-a-globo-na-justica.shtml][Cara de Sapato, do BBB 23, perde processo que movia contra a Globo na Justiça]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/04/openai-capta-us-122-bilhoes-em-nova-rodada-de-financiamento.shtml][OpenAI capta US$ 122 bilhões em nova rodada de financiamento]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/04/inca-anuncia-estudo-para-implementacao-de-rastreio-do-cancer-de-pulmao-no-sus.shtml][Inca anuncia estudo para implementação de rastreio do câncer de pulmão no SUS]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/sergio-rodrigues/2026/04/pontapeando-canideo-fenecido-na-fuvest.shtml][Pontapeando canídeo fenecido na Fuvest]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/04/silvio-almeida-afirma-haver-acusacoes-irresponsaveis-e-se-diz-inocente-apos-denuncia-da-pgr.shtml][Silvio Almeida afirma haver 'acusações irresponsáveis' e se diz inocente após denúncia da PGR]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/04/anuncio-de-pre-candidatura-de-caiado-gerou-quase-1-milhao-de-interacoes-nas-redes.shtml][Anúncio de pré-candidatura de Caiado gerou quase 1 milhão de interações nas redes]]
 
 *** O Globo
 
