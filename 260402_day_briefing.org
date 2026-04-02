@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 38.6°C | ⚖ Load: 0.00 | 🌐 Ping: 9.96ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 39.2°C | ⚖ Load: 0.00 | 🌐 Ping: 9.89ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,33 +49,37 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/economia/empresas/2026/04/01/69cd852121efa0671c8b45d9.html][Moncloa sume en el caos a Indra en pleno rearme con la dimisión forzada de Escribano y Ángel Simón como presidente no ejecutivo]]
-- [[https://www.elmundo.es/economia/empresas/2026/04/01/69cd6dda21efa0d1388b45b7.html][Ángel Simón e Indra: el premio de consolación del elegido por el PSC y Moncloa para colonizar La Caixa]]
-- [[https://www.elmundo.es/espana/2026/04/01/69cd4527e4d4d8677e8b4579.html][El Gobierno congela el Congreso con 128 iniciativas de ley bloqueadas]]
-- [[https://www.elmundo.es/ciencia-y-salud/ciencia/2026/04/01/69cd411fe85ece5b5b8b456e.html][EEUU pone rumbo a la Luna con el despegue de Artemisa 2: "Hoy comienza la próxima era de la exploración espacial"]]
-- [[https://www.elmundo.es/ciencia-y-salud/ciencia/2026/04/02/69cd4928e85ecea7768b458e.html][Pérdida momentánea de las comunicaciones con la nave, fallos en el aseo y con el agua: Artemisa 2 solventa un lanzamiento pionero con algunas dificultades menores]]
+- [[https://www.elmundo.es/internacional/2026/04/02/69cdc846fdddff085c8b458a.html][Sin fecha para el final de la guerra en Irán: Trump amenaza con hacerlos retroceder "a la Edad de Piedra"]]
+- [[https://www.elmundo.es/economia/2026/04/02/69ce3b37e85ecebb478b45ac.html][Trump borra todo optimismo de los mercados: el petróleo escala un 7% y las bolsas vuelven a las pérdidas]]
+- [[https://www.elmundo.es/economia/2026/04/02/69ce5605fc6c83da658b459c.html][El último cargamento de queroseno para Europa llega el 9 de abril: el riesgo de vuelos cancelados este verano]]
+- [[https://www.elmundo.es/internacional/2026/04/02/69cd36dfe85eceb21a8b457e.html][La isla de Jark ya fue objetivo de EEUU en 'la crisis de los rehenes']]
+- [[https://www.elmundo.es/ciencia-y-salud/ciencia/2026/04/02/69ce8716e4d4d8765f8b457a.html][Los astronautas de Artemisa 2 despiertan en la nave Orión y orbitan la Tierra en su primer día]]
 
 *** La Vanguardia
 
-- /Feed no disponible temporalmente/
+- [[https://www.lavanguardia.com/ciencia/20260402/11504932/artemis-2-supera-primeras-horas-orbita-incidentes-menores.html][“Qué vista tan increíble”: Artemis 2 supera sus primeras horas en órbita con incidentes menores]]
+- [[https://www.lavanguardia.com/ciencia/20260401/11504300/que-artemis-2-guia-seguir-mision-regreso-luna.html][Qué es Artemis 2. Guía para seguir la misión de regreso a la Luna]]
+- [[https://www.lavanguardia.com/ciencia/20260402/11505042/empieza-viaje-luna-millon-kilometros-diez-dias.html][Empieza el viaje a la Luna: un millón de kilómetros en diez días]]
+- [[https://www.lavanguardia.com/ciencia/20260331/11502825/espana-participa-mision-artemis-2-nasa-luna.html][España participa en la misión Artemis 2 de la NASA a la Luna]]
+- [[https://www.lavanguardia.com/ciencia/20260401/11504402/lanzamiento-artemis-ii-imagenes.html][El lanzamiento de Artemis II hacia la luna, en imágenes]]
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/politica/fallece-javier-lopez-marcano-referente-regionalismo-71-anos/20260402114807190848.html][Fallece Javier López Marcano, referente del regionalismo, a los 71 años]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/gobierno-destina-1324-millones-euros-reforzar-sanidad/20260402113305190846.html][El Gobierno destina 1.324 millones de euros a reforzar la sanidad]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/retraso-mas-11-horas-vuelo-santander-tenerife-causas-tecnicas/20260402110123190844.html][Más de 11 horas de retraso en el vuelo Santander-Tenerife por “causas técnicas”]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/cantabria-registra-segunda-racha-viento-mas-fuerte-espana-mas-100-km-h-localidad/20260402104128190842.html][Cantabria registra la segunda racha de viento más fuerte de España con más de 100 km/h en esta localidad]]
-- [[https://eldiariocantabria.publico.es/articulo/laboral/acuerdo-entre-solvay-sindicatos-ere-que-reduce-despidos-45-mejora-indemnizaciones/20260402100302190841.html][Acuerdo entre Solvay y los sindicatos para un ERE que reduce los despidos a 45 y mejora las indemnizaciones]]
+- [[https://eldiariocantabria.publico.es/articulo/politica/quince-ayuntamientos-mantienen-simbolos-franquistas-pesar-exigencia-fiscalia-retirarlos/20260402175056190859.html][Quince ayuntamientos mantienen símbolos franquistas a pesar de la exigencia de la Fiscalía de retirarlos]]
+- [[https://eldiariocantabria.publico.es/articulo/politica/tres-dias-luto-oficial-torrelavega-muerte-exalcalde/20260402172050190858.html][Tres días de luto oficial en Torrelavega por la muerte de su exalcalde]]
+- [[https://eldiariocantabria.publico.es/articulo/politica/psoe-destaca-figura-marcano-politico-consensos/20260402170716190856.html][El PSOE destaca la figura de Marcano, un “político de consensos”]]
+- [[https://eldiariocantabria.publico.es/articulo/politica/gobierno-reconoce-figura-esencial-historia-reciente-cantabria-que-represento-lopez-marcano/20260402135533190855.html][El Gobierno reconoce la “figura esencial en la historia reciente” de Cantabria que representó López Marcano]]
+- [[https://eldiariocantabria.publico.es/articulo/politica/parlamento-cantabria-expresa-profundo-pesar-fallecimiento-vicepresidente/20260402134455190854.html][El Parlamento de Cantabria expresa su “profundo pesar” por el fallecimiento de su vicepresidente]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
-- [[https://www.washingtonpost.com/world/2026/04/02/iran-war-fuel-shortages-violence/][Iran war’s fuel crisis spurs panic, violence in nations facing shortages]]
-- [[https://www.washingtonpost.com/world/2026/03/31/shelly-kittleson-journalist-kidnapped-baghdad/][American journalist Shelly Kittleson kidnapped in Baghdad]]
-- [[https://www.washingtonpost.com/national-security/2026/04/01/trump-commando-plan-seize-iran-uranium/][Risky commando plan to seize Iran’s uranium came at Trump’s request]]
-- [[https://www.washingtonpost.com/world/2026/03/31/europe-allies-trump-iran-war-opposition/][Trump slams allies as Europeans show reluctance to aid U.S. in Iran war]]
-- [[https://www.washingtonpost.com/world/2026/03/31/israel-death-penalty-palestinians-west-bank/][Israel mandates death penalty for West Bank Palestinians who kill in terrorist acts]]
+- [[https://www.washingtonpost.com/world/2026/04/02/sudan-rape-sexual-violence-rsf-msf-war/][Sudanese rebels used rape as a weapon, aid group says]]
+- [[https://www.washingtonpost.com/world/2026/04/02/us-iran-war-strait-hormuz-future/][Oil prices jump after Trump demands others ‘take the lead’ on Strait of Hormuz]]
+- [[https://www.washingtonpost.com/world/2026/04/02/passover-seder-tel-aviv-bomb-shelter/][Israelis celebrate Passover in a parking garage turned bomb shelter]]
+- [[https://www.washingtonpost.com/world/2026/04/03/iran-war-migrant-workers-casualties/][Migrant workers keep Dubai running but can’t afford to flee Iranian strikes]]
+- [[https://www.washingtonpost.com/world/2026/04/02/iran-war-fuel-shortages-violence/][Wartime fuel shortages spawn panic, robberies and killings in Asia]]
 
 *** WSJ.com: World News
 
@@ -89,29 +93,29 @@
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/04/02/en-direct-guerre-au-moyen-orient-l-iran-promet-des-attaques-ecrasantes-contre-les-etats-unis-et-israel-l-etat-hebreu-vise-par-plusieurs-salves-de-missiles_6674837_3210.html][EN DIRECT, guerre au Moyen-Orient : l’Iran promet des attaques « écrasantes » contre les Etats-Unis et Israël ; l’Etat hébreu visé par plusieurs salves de missiles]]
-- [[https://www.lemonde.fr/sciences/live/2026/04/02/en-direct-artemis-2-lancement-reussi-pour-les-quatre-astronautes-vers-la-lune-suivez-en-direct-la-mission-historique-de-la-nasa_6675934_1650684.html][EN DIRECT, Artemis-2 : lancement réussi pour les quatre astronautes vers la Lune ; suivez en direct la mission historique de la NASA]]
-- [[https://www.lemonde.fr/economie/article/2026/04/02/guerre-au-moyen-orient-l-industrie-francaise-touchee-de-plein-fouet-par-la-crise-energetique_6676095_3234.html][Guerre au Moyen-Orient : l’industrie française touchée de plein fouet par la crise énergétique]]
-- [[https://www.lemonde.fr/politique/article/2026/04/02/marine-tondelier-prepare-sa-contre-attaque-face-aux-opposants-a-la-primaire-de-la-gauche_6676076_823448.html][Au sein de la gauche non-mélenchoniste, la désignation d’un candidat commun accentue les divisions]]
-- [[https://www.lemonde.fr/international/article/2026/04/02/donald-trump-se-moque-du-couple-macron-lors-d-un-dejeuner-prive-dans-un-contexte-de-mesentente-sur-la-guerre-au-moyen-orient_6676093_3210.html][Donald Trump se moque du couple Macron lors d’un déjeuner privé, dans un contexte de mésentente sur la guerre au Moyen-Orient]]
+- [[https://www.lemonde.fr/economie/article/2026/04/02/guerre-au-moyen-orient-les-profits-exceptionnels-des-tradeurs-de-totalenergies_6676110_3234.html][Guerre au Moyen-Orient : les profits exceptionnels des tradeurs de TotalEnergies]]
+- [[https://www.lemonde.fr/international/live/2026/04/02/en-direct-guerre-en-ukraine-un-gazoduc-russe-pris-pour-cible-par-des-drones-ukrainiens-affirme-gazprom_6675208_3210.html][EN DIRECT, guerre en Ukraine : Emmanuel Macron accuse Donald Trump de vider l’OTAN de sa substance en créant « le doute sur son engagement »]]
+- [[https://www.lemonde.fr/politique/article/2026/04/02/l-eurodeputee-lfi-rima-hassan-en-garde-a-vue_6676157_823448.html][L’eurodéputée LFI Rima Hassan en garde à vue]]
+- [[https://www.lemonde.fr/international/article/2026/04/02/l-administration-trump-voit-les-soupcons-de-delits-d-initie-s-accumuler_6676130_3210.html][L’administration Trump voit les soupçons de délits d’initié s’accumuler]]
+- [[https://www.lemonde.fr/m-le-mag/article/2026/04/02/dans-le-maine-et-loire-la-percee-d-un-candidat-neofasciste-aux-elections-municipales-provoque-la-stupeur_6676072_4500055.html][La percée d’un candidat néofasciste aux élections municipales provoque la stupeur dans le Maine-et-Loire]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/menaces-contre-goldman-sachs-le-parquet-de-paris-s-est-saisi-20260402][La banque américaine Goldman Sachs menacée, le Parquet de Paris enquête]]
-- [[https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-etats-unis-discours-donald-trump-israel-emirats-arabes-unis-qatar-koweit-oman-arabie-saoudite-bahrein-detroit-ormuz-otan-petrole-20260402][EN DIRECT - Guerre au Moyen-Orient : Pékin pointe la responsabilité des États-Unis et d’Israël dans le blocage du détroit d’Ormuz]]
-- [[https://www.lefigaro.fr/conjoncture/guerre-au-moyen-orient-le-petrole-en-hausse-et-les-bourses-en-asie-en-baisse-apres-les-declarations-de-trump-20260402][Guerre au Moyen-Orient : le pétrole en hausse et les bourses en Asie en baisse après les déclarations de Trump]]
-- [[https://www.lefigaro.fr/conjoncture/guerre-au-moyen-orient-les-compagnies-aeriennes-chinoises-vont-augmenter-leur-prix-sur-les-vols-interieurs-20260402][Guerre au Moyen-Orient : les compagnies aériennes chinoises vont augmenter leur prix sur les vols intérieurs]]
-- [[https://www.lefigaro.fr/politique/je-ne-crois-pas-qu-en-portant-le-voile-des-enfants-menacent-le-vivre-ensemble-le-pen-accuse-nunez-de-s-aligner-sur-l-extreme-gauche-20260402][«Je ne crois pas qu’en portant le voile, des enfants menacent le vivre ensemble» : Le Pen accuse Nunez de «s’aligner» sur l’extrême gauche]]
+- [[https://www.lefigaro.fr/politique/les-deboires-de-rima-hassan-figure-de-la-nouvelle-france-de-jean-luc-melenchon-20260402][Les déboires de Rima Hassan, figure de la «Nouvelle France» de Jean-Luc Mélenchon]]
+- [[https://www.lefigaro.fr/faits-divers/rima-hassan-en-garde-a-vue-pour-apologie-du-terrorisme-20260402][Rima Hassan en garde à vue pour «apologie du terrorisme», de la drogue de synthèse découverte dans son sac]]
+- [[https://www.lefigaro.fr/politique/rima-hassan-en-garde-a-vue-jean-luc-melenchon-denonce-une-police-politique-20260402][Rima Hassan en garde à vue : Jean-Luc Mélenchon dénonce une «police politique»]]
+- [[https://www.lefigaro.fr/politique/j-ai-perdu-en-esperance-de-vie-alcool-drogue-a-l-assemblee-des-exces-qui-inquietent-20250524][« J’ai perdu en espérance de vie » : alcool, drogue… dans la classe politique, des excès qui inquiètent]]
+- [[https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-etats-unis-discours-donald-trump-israel-emirats-arabes-unis-qatar-koweit-oman-arabie-saoudite-bahrein-detroit-ormuz-otan-petrole-20260402][EN DIRECT - Conflit au Moyen-Orient : «Nous sommes au bord d’une guerre plus large», s’alarme l’ONU]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss][Watch the moment Artemis II blasts into space]]
-- [[https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss][Trump leaves key questions unanswered as he seeks to calm nerves over Iran war]]
-- [[https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss][Magnitude 7.4 earthquake hits off Indonesia, killing one]]
-- [[https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss][Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control]]
-- [[https://www.bbc.com/news/articles/c0lendp6390o?at_medium=RSS&at_campaign=rss][Utah teen identified as victim of serial killer Ted Bundy]]
+- [[https://www.bbc.com/news/articles/c070d9g5k7jo?at_medium=RSS&at_campaign=rss][Man dies in storm as Saharan dust shrouds Crete]]
+- [[https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss]['Be serious... don't speak every day': Macron criticises Trump approach to Iran war]]
+- [[https://www.bbc.com/news/articles/ce8jzn180x2o?at_medium=RSS&at_campaign=rss][Brazil grants joint custody over pets in new law for separated couples]]
+- [[https://www.bbc.com/news/articles/cje4l9de0d1o?at_medium=RSS&at_campaign=rss][US lifts sanctions on Venezuelan interim leader Delcy Rodríguez]]
+- [[https://www.bbc.com/news/articles/c203w57pkn3o?at_medium=RSS&at_campaign=rss][Infant shot dead on New York street by  men on motorbike, police say]]
 
 *** The Guardian
 
@@ -133,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/istat-2025-popolazione-rischio-poverta-scende-226percento-AIFXHDJC][Istat: nel 2025 popolazione a rischio povertà scende al 22,6%]]
-- [[https://www.ilsole24ore.com/art/relazione-piantedosi-caso-claudia-conte-l-opposizione-ministro-chiarisca-AIni09IC][Caso Claudia Conte-Piantedosi: tensioni nel governo e richieste di chiarimenti dall’opposizione]]
-- [[https://www.ilsole24ore.com/art/maltempo-foggiano-soccorsi-50-automobilisti-e-40-residenti-masseria-AIX3bAJC][Maltempo, crolla ponte sul Trigno. Nel Piceno 90 persone isolate per frana]]
-- [[https://www.ilsole24ore.com/art/dimore-storiche-parte-collaborazione-il-cnel-focus-piccoli-comuni-e-aree-rurali-AIVPTmIC][Dimore storiche, parte la collaborazione con il Cnel. Focus su piccoli Comuni e aree rurali]]
-- [[https://www.ilsole24ore.com/art/pensionati-all-estero-fdi-tasse-4percento-chi-rientra-piccoli-comuni-AIc2M0HC][Pensionati all’estero, da FdI tasse al 4% per chi rientra nei piccoli Comuni]]
+- [[https://www.ilsole24ore.com/art/dal-credito-d-imposta-gasolio-agricolo-nuovo-taglio-accise-e-caccia-500-milioni-AI65fdIC][Dal credito d’imposta sul gasolio agricolo al nuovo taglio delle accise: è caccia a 500 milioni]]
+- [[https://www.ilsole24ore.com/art/giornalisti-morto-roberto-arditti-fu-direttore-tempo-AIVTNiJC][Giornalisti: morto Roberto Arditti, fu direttore del Tempo]]
+- [[https://www.ilsole24ore.com/art/bollette-marzo-gas-192percento-gli-utenti-vulnerabili-AIL7fZJC][Bollette, a marzo gas a +19,2% per gli utenti vulnerabili]]
+- [[https://www.ilsole24ore.com/art/poste-mef-conferma-fante-ad-e-rovere-presidente-AIReeZJC][Poste, il Mef conferma Del Fante ad e Rovere presidente]]
+- [[https://www.ilsole24ore.com/art/calcio-si-e-dimesso-presidente-figc-gravina-AIhX0XJC][Calcio, si è dimesso il presidente Figc Gravina. Lascia anche Buffon]]
 
 ** 🇩🇪 Alemania
 
@@ -151,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/as-iran-war-rages-europe-gears-up-for-energy-crisis/a-76641027?maca=en-rss-en-world-4025-rdf][As Iran war rages, Europe gears up for energy crisis]]
+- [[https://www.dw.com/en/iran-war-how-long-can-tehran-s-asymmetric-strategy-hold/a-76643523?maca=en-rss-en-world-4025-rdf][Iran war: How long can Tehran's asymmetric strategy hold?]]
 - [[https://www.dw.com/en/fact-check-donald-trump-speaks-on-iran-oil-and-economy/a-76636405?maca=en-rss-en-world-4025-rdf][Fact check: Donald Trump speaks on Iran, oil and economy]]
 - [[https://www.dw.com/en/how-us-liberation-day-tariffs-reshaped-global-trade/a-76303601?maca=en-rss-en-world-4025-rdf][How US 'Liberation Day' tariffs reshaped global trade]]
-- [[https://www.dw.com/en/hungary-s-watergate-secret-service-tried-to-infiltrate-the-political-opposition/a-76630921?maca=en-rss-en-world-4025-rdf][Hungary's Watergate: Secret service tried to infiltrate the political opposition]]
-- [[https://www.dw.com/en/us-lifts-sanctions-on-venezuela-s-acting-president-delcy-rodriguez/a-76635151?maca=en-rss-en-world-4025-rdf][US lifts sanctions on Venezuela's acting President Delcy Rodriguez]]
-- [[https://www.dw.com/en/indonesia-strong-earthquake-strikes-molucca-⁠sea-killing-1/a-76634417?maca=en-rss-en-world-4025-rdf][Indonesia: Strong earthquake strikes Molucca ⁠Sea, killing 1]]
+- [[https://www.dw.com/en/hungary-s-government-accused-of-spying-on-opposition-as-key-election-nears/a-76630921?maca=en-rss-en-world-4025-rdf][Hungary's government accused of spying on opposition as key election nears]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/04/bbb-26-pedro-notifica-globo-e-faz-exigencias-para-encerrar-processo-milionario.shtml][BBB 26: Pedro notifica Globo e faz exigências para encerrar processo milionário]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/04/houston-o-banheiro-da-missao-artemis-2-teve-um-problema.shtml][Houston, o banheiro da missão Artemis 2 teve um problema]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2026/04/carro-chines-produzido-no-brasil-ainda-vai-custar-menos-que-concorrentes-mostra-estudo.shtml][Carro chinês produzido no Brasil ainda vai custar menos que concorrentes, mostra estudo]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/saida-para-feriado-de-pascoa-complica-estradas-nesta-quinta-2-veja-piores-horarios-para-viajar.shtml][Saída para feriado de Páscoa complica estradas nesta quinta (2); veja piores horários para viajar]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/um-ano-depois-dia-da-libertacao-nao-libertou-as-fabricas-dos-estados-unidos.shtml][Um ano depois, 'Dia da Libertação' não libertou as fábricas dos Estados Unidos]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/sob-criticas-de-lula-petrobras-estuda-cancelar-leilao-de-gas-de-cozinha-que-teve-agio-de-117.shtml][Sob críticas de Lula, Petrobras estuda cancelar leilão de gás de cozinha que teve ágio de 117%]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/04/oito-paises-muculmanos-condenam-lei-de-israel-que-preve-execucao-de-palestinos.shtml][Oito países muçulmanos condenam lei de Israel que prevê execução de palestinos]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/04/pf-quer-rastrear-suspeita-de-mesada-a-lulinha-mas-evita-devassa.shtml][PF quer rastrear suspeita de mesada a Lulinha, mas evita devassa]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/04/combo-que-liga-stf-a-vorcaro-pressiona-pgr-a-investigar-ministros.shtml][Combo que liga STF a Vorcaro pressiona PGR a investigar ministros]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/andancas-na-metropole/2026/04/projeto-em-sao-paulo-tenta-tirar-araucaria-do-esquecimento.shtml][Projeto em São Paulo tenta tirar araucária do esquecimento]]
 
 *** O Globo
 
