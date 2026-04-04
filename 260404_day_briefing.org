@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 39.7°C | ⚖ Load: 0.33 | 🌐 Ping: 16.7ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 39.7°C | ⚖ Load: 0.00 | 🌐 Ping: 9.05ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,8 +41,8 @@
 
 *** El País
 
-- [[https://elpais.com/internacional/2026-04-03/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html][Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Un segundo caza de EE UU se estrella en el Golfo]]
 - [[https://elpais.com/internacional/2026-04-03/estados-unidos-rescata-a-un-piloto-del-primer-avion-derribado-por-iran-en-la-guerra.html][Estados Unidos rescata a un piloto del primer avión derribado por Irán en la guerra]]
+- [[https://elpais.com/internacional/2026-04-03/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html][Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que el derribo por parte de Irán de un caza estadounidense no afectará a las negociaciones]]
 - [[https://elpais.com/internacional/2026-04-03/la-casa-blanca-pide-aumentar-un-40-el-presupuesto-para-defensa-al-record-historico-de-15-billones-de-dolares.html][La Casa Blanca pide aumentar un 40% el presupuesto para defensa al récord histórico de 1,5 billones de dólares]]
 - [[https://elpais.com/internacional/2026-04-03/el-jefe-del-pentagono-obliga-a-dimitir-al-maximo-mando-del-ejercito-de-tierra.html][El jefe del Pentágono obliga a dimitir al máximo mando del Ejército de Tierra]]
 - [[https://elpais.com/ciencia/2026-04-03/primeras-imagenes-de-la-tierra-vista-por-la-mision-artemis-2-en-su-historico-viaje-a-la-luna-auroras-reflejos-del-sol-y-la-peninsula-iberica-centelleando.html][Primeras imágenes de la Tierra de Artemis 2 en su histórico viaje a la Luna: auroras, reflejos del Sol y “la península Ibérica centelleando”]]
@@ -50,10 +50,10 @@
 *** El Mundo
 
 - [[https://www.elmundo.es/internacional/2026/04/03/69cfd10be4d4d89b5e8b4572.html][Carrera contrarreloj entre Teherán y EEUU por los tripulantes del F-15 derribado por Irán: rescatado uno de ellos]]
-- [[https://www.elmundo.es/andalucia/2026/04/03/69cf90bae85ece6e5f8b4570.html][Podemos se integra en Por Andalucía tras una negociación contrarreloj y concurrirá junto a IU y Sumar en las elecciones andaluzas del 17-M]]
-- [[https://www.elmundo.es/ciencia-y-salud/ciencia/2026/04/03/69cfe822fc6c832a5b8b4589.html][Un retrato de la Tierra para la historia: la impresionante foto tomada por el comandante de Artemisa 2]]
-- [[https://www.elmundo.es/ciencia-y-salud/ciencia/2026/04/03/69cf7990e85ece8d138b4575.html][¿Dónde están los astronautas de Artemisa 2? Una herramienta de la NASA permite rastrear la nave Orión en tiempo real]]
-- [[https://www.elmundo.es/espana/2026/04/02/69cd4a7121efa0244e8b4589.html][Qué fue de los 29 de la fuga de la cárcel de Segovia: del actor Patxi Bisquert, que sacó los planos de la fuga bajo sus botas, a un diputado del Congreso]]
+- [[https://www.elmundo.es/internacional/2026/04/03/69cff685e9cf4a23268b4578.html][Sacudida al ejército de Estados Unidos en medio del atolladero en Irán]]
+- [[https://www.elmundo.es/espana/encuestas/2026/04/03/69cfcee7e4d4d8093c8b457a.html][El 80% de los españoles nota ya el impacto de la guerra de Irán en sus bolsillos]]
+- [[https://www.elmundo.es/internacional/2026/04/03/69ce570afdddff33338b4576.html][La arquitectura de la supervivencia: por qué la República Islámica no colapsa]]
+- [[https://www.elmundo.es/economia/vivienda/2026/04/03/69c6746521efa0612d8b45bb.html][La jubilación prevista del 22% de la plantilla de la construcción en la próxima década amenaza con agravar el déficit de vivienda]]
 
 *** La Vanguardia
 
@@ -79,17 +79,17 @@
 
 *** WSJ.com: World News
 
-- [[https://www.wsj.com/world/trump-joked-about-macrons-wife-he-wasnt-amused-dea8af33][Trump Joked About Macron’s Wife. He Wasn’t Amused.]]
-- [[https://www.wsj.com/world/china/xi-ousts-politburo-member-in-deepening-purge-of-chinas-top-ranks-2c7e24d1][Xi Ousts Politburo Member in Deepening Purge of China’s Top Ranks]]
 - [[https://www.wsj.com/world/u-s-repatriates-chinese-drug-fugitive-in-a-sign-of-stabilizing-ties-96c9b899][U.S. Repatriates Chinese Drug Fugitive in a Sign of Stabilizing Ties]]
-- [[https://www.wsj.com/world/cuba-to-free-2-010-prisoners-amid-talks-with-the-u-s-4f605693][Cuba to Free 2,010 Prisoners Amid Talks With The U.S.]]
-- [[https://www.wsj.com/world/middle-east/control-over-strait-of-hormuz-will-determine-who-wins-the-war-c7ed7e62][Control Over Strait of Hormuz Will Determine Who Wins the War]]
+- [[https://www.wsj.com/world/middle-east/trumps-mission-impossible-for-allies-reopening-the-strait-of-hormuz-d6767476][Trump’s Mission Impossible for Allies: Reopening the Strait of Hormuz]]
+- [[https://www.wsj.com/world/middle-east/iran-uses-asymmetric-warfare-to-inflict-pain-from-a-weakened-position-c054df77][Iran Uses Asymmetric Warfare to Inflict Pain From a Weakened Position]]
+- [[https://www.wsj.com/world/middle-east/saudi-arabia-us-embassy-iran-strike-damage-b924d29c][Iranian Strike on U.S. Embassy Caused More Damage Than Disclosed]]
+- [[https://www.wsj.com/world/trump-joked-about-macrons-wife-he-wasnt-amused-dea8af33][Trump Joked About Macron’s Wife. He Wasn’t Amused.]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/04/03/en-direct-iran-un-avion-de-combat-americain-a-ete-abattu-pour-la-premiere-fois-depuis-le-debut-de-la-guerre-le-sort-de-l-equipage-incertain_6674837_3210.html][EN DIRECT, Iran : un avion de combat américain a été abattu pour la première fois depuis le début de la guerre, le sort de l’équipage incertain]]
+- [[https://www.lemonde.fr/international/live/2026/04/04/en-direct-moyen-orient-l-armee-americaine-a-la-recherche-d-un-de-ses-soldats-dont-l-avion-a-ete-abattu-en-iran-une-premiere-depuis-le-debut-de-la-guerre_6674837_3210.html][EN DIRECT, Moyen-Orient : l’armée américaine à la recherche d’un de ses soldats dont l’avion a été abattu en Iran, une première depuis le début de la guerre]]
 - [[https://www.lemonde.fr/politique/article/2026/04/03/rima-hassan-denonce-apres-sa-garde-a-vue-un-harcelement-judiciaire-et-politique_6676341_823449.html][Rima Hassan dénonce, après sa garde à vue, « un harcèlement judiciaire et politique »]]
 - [[https://www.lemonde.fr/m-le-mag/article/2026/04/03/dans-la-hongrie-de-viktor-orban-a-la-veille-des-legislatives-une-ambiance-de-fin-de-regne_6676306_4500055.html][Dans la Hongrie de Viktor Orbán, à la veille des législatives, une ambiance de fin de règne]]
 - [[https://www.lemonde.fr/societe/article/2026/04/03/des-representants-de-l-islam-inquiets-face-a-la-volonte-du-gouvernement-d-interdire-le-congres-des-musulmans-de-france-et-par-l-annonce-d-une-nouvelle-loi_6676406_3224.html][Des représentants de l’islam inquiets face à la volonté du gouvernement d’interdire le congrès des musulmans de France et par l’annonce d’une nouvelle loi]]
@@ -107,11 +107,11 @@
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss][How elite US teams tackle combat rescue missions]]
+- [[https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss][Rescue team in Iran face 'harrowing and dangerous' search for US crew member]]
 - [[https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss][Artemis II crew take 'spectacular' image of Earth]]
+- [[https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss][After 16 years in power, can Viktor Orban finally be unseated?]]
 - [[https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss][Burkina Faso must 'forget' about democracy, military leader says]]
 - [[https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss][French-owned ship passes through Strait of Hormuz]]
-- [[https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss][France's Muslim gathering ban overturned by courts]]
 
 *** The Guardian
 
@@ -161,11 +161,11 @@
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/04/o-ultimo-azul-premiado-no-festival-de-berlim-ganha-sessao-com-debate-no-mis.shtml]['O Último Azul', premiado no Festival de Berlim, ganha sessão com debate no MIS]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/04/advogados-de-bolsonaro-enviam-ao-stf-laudo-indicando-cirurgia-no-ombro-para-ex-presidente.shtml][Advogados de Bolsonaro enviam ao STF laudo indicando cirurgia no ombro para ex-presidente]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/advogada-acusada-de-racismo-em-lanchonete-pagara-indenizacao-de-r-8-mil-e-tera-de-doar-livros-e-fazer-curso.shtml][Advogada acusada de racismo em lanchonete pagará indenização de R$ 8 mil e terá de doar livros e fazer curso]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/04/blia-e-embaixada-da-paz-doam-100-cadeiras-de-rodas-a-pacientes-da-rede-sarah.shtml][BLIA e Embaixada da Paz doam 100 cadeiras de rodas a pacientes da Rede Sarah]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/megaevento-da-universal-reforca-papel-feminino-na-salvacao-do-lar.shtml][Megaevento da Universal reforça papel feminino na salvação do lar]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/04/bbb-26-juliano-chaiany-e-marciele-estao-no-paredao.shtml][BBB 26: Juliano, Chaiany e Marciele estão no paredão]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/morte-de-mulher-por-pm-desencadeia-protesto-na-zona-leste-de-sao-paulo.shtml][Morte de mulher por PM desencadeia protesto na zona leste de São Paulo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/04/artemis-2-atinge-metade-do-caminho-para-chegar-a-lua.shtml][Artemis 2 atinge metade do caminho para chegar à Lua]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/comida/2026/04/aprenda-a-fazer-salmao-agridoce-de-forno-em-apenas-15-minutos.shtml][Aprenda a fazer salmão agridoce de forno em apenas 15 minutos]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/entregador-chines-narra-exaustao-fisica-e-emocional-do-trabalho-em-delivery.shtml][Entregador chinês narra exaustão física e emocional do trabalho em delivery]]
 
 *** O Globo
 
