@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 39.7°C | ⚖ Load: 0.05 | 🌐 Ping: 9.51ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 40.2°C | ⚖ Load: 0.64 | 🌐 Ping: 11.6ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,77 +41,81 @@
 
 *** El País
 
-- [[https://elpais.com/espana/2026-04-07/primer-juicio-contra-abalos-koldo-y-aldama-por-la-trama-de-las-mascarillas-en-directo.html][Juicio contra Ábalos, Koldo y Aldama, en directo | El hijo de Ábalos niega en el juicio que custodie fondos ocultos del exministro: “En el caso de que le diera dinero, sería mío”]]
-- [[https://elpais.com/espana/2026-04-07/80-testigos-y-hasta-30-anos-de-carcel-el-supremo-juzga-a-abalos-koldo-y-aldama-por-la-trama-de-las-mascarillas.html][80 testigos y hasta 30 años de cárcel: el Supremo juzga a Ábalos, Koldo y Aldama por la trama de las mascarillas]]
-- [[https://elpais.com/internacional/2026-04-07/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html][Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Israel lanza nuevos ataques contra Irán y amenaza la red ferroviaria del país a horas de que expire el ultimátum de Trump]]
-- [[https://elpais.com/internacional/2026-04-07/la-muerte-de-una-familia-en-haifa-muestra-la-vulnerabilidad-de-israel-a-pesar-de-su-gran-sistema-defensivo.html][La muerte de una familia en Haifa muestra la vulnerabilidad de Israel, a pesar de su gran sistema defensivo]]
-- [[https://elpais.com/internacional/2026-04-04/la-guerra-de-iran-lastra-el-perenigraje-a-los-lugares-sagrados-del-chiismo-en-irak.html][Peregrinos bajo las bombas rumbo al Irak chií]]
+- [[https://elpais.com/internacional/2026-04-07/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html][Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump eleva la presión sobre Irán: “Esta noche morirá toda una civilización”]]
+- [[https://elpais.com/internacional/2026-04-07/israel-y-ee-uu-lanzan-una-oleada-de-ataques-contra-instalaciones-civiles-de-iran.html][Israel y EE UU lanzan una oleada de ataques contra instalaciones civiles de Irán]]
+- [[https://elpais.com/internacional/2026-04-07/un-atacante-muerto-y-otros-dos-heridos-en-un-tiroteo-junto-al-consulado-de-israel-en-estambul.html][Un atacante muerto y otros dos heridos en un tiroteo junto al consulado de Israel en Estambul]]
+- [[https://elpais.com/espana/2026-04-07/primer-juicio-contra-abalos-koldo-y-aldama-por-la-trama-de-las-mascarillas-en-directo.html][Juicio contra Ábalos, Koldo y Aldama, en directo | Jéssica Rodríguez declara que Ábalos sabía que ella no acudía a los trabajos que el exministro le consiguió en Ineco y Tragsatec]]
+- [[https://elpais.com/espana/2026-04-07/juicio-a-tres-hombres-aldama-abalos-y-koldo-sentados-en-un-banquillo-publico-y-privado.html][Juicio a tres hombres: Aldama, Ábalos y Koldo sentados en un banquillo público y privado]]
 
 *** El Mundo
 
+- [[https://www.elmundo.es/espana/2026/04/07/69d4bc9fe4d4d89b7d8b4571.html][El hermano de Koldo admite en el Supremo que fue dos veces a recoger efectivo a Ferraz: "Toma, aquí tienes el dinero"]]
 - [[https://www.elmundo.es/espana/2026/04/06/69d3e328e9cf4aaa318b458c.html][Los whatsapps internos de Ábalos apuntan a Montero y Calviño: "Se quisieron quitar de en medio con Plus Ultra, pero son los imputados"]]
-- [[https://www.elmundo.es/espana/2026/04/06/69d3dd1621efa07e698b456d.html][Un pelotazo en pandemia, enchufes a las amigas íntimas, un chalé...: las claves del caso que sacude los cimientos del Gobierno y el PSOE]]
-- [[https://www.elmundo.es/ciencia-y-salud/ciencia/2026/04/06/69d3d4efe4d4d807058b4587.html][Artemis 2: Los astronautas viajan ya hacia la Tierra tras adentrarse en la cara oculta de la Luna y convertirse en los humanos que más se han alejado]]
-- [[https://www.elmundo.es/ciencia-y-salud/ciencia/2026/04/07/69d4b65ce85ece2b498b459c.html][Trump felicita a los astronautas de Artemis 2 y desafía a China: "EEUU no tendrá rival en el espacio, seguiremos liderando el camino hacia las estrellas"]]
-- [[https://www.elmundo.es/ciencia-y-salud/ciencia/2026/04/06/69d3bee4e4d4d8e17a8b4591.html][Artemis 2: ¿Podría el 'Homo sapiens' evolucionar hacia una nueva especie?]]
+- [[https://www.elmundo.es/internacional/2026/04/07/69d4f84afdddff91078b457d.html][La tensión se desborda en el Golfo Pérsico ante el ultimátum de Trump]]
+- [[https://www.elmundo.es/economia/2026/04/07/69cadf6521efa000198b456d.html][El 'efecto Ozempic' ya se asoma en la cesta de la compra española: el gasto cae un 3,1% en los hogares que lo utilizan]]
+- [[https://www.elmundo.es/ciencia-y-salud/ciencia/2026/04/07/69d50f44fdddff9e6a8b4586.html][Primera imagen de la Tierra desde la cara oculta de la Luna]]
 
 *** La Vanguardia
 
-- /Feed no disponible temporalmente/
+- [[https://www.lavanguardia.com/internacional/20260407/11507301/guerra-iran-ataque-estados-unidos-trump-israel-teheran-hoy-en-directo.html][Trump, horas antes de expirar el ultimátum a Irán: “Una civilización entera morirá esta noche”]]
+- [[https://www.lavanguardia.com/internacional/20260407/11507509/iran-pide-jovenes-formar-cadenas-humanas-plantas-energeticas-frente-amenaza-trump-desatar-infierno.html][Irán pide a los jóvenes formar cadenas humanas en sus plantas energéticas frente a la amenaza de Trump de “desatar el infierno”]]
+- [[https://www.lavanguardia.com/internacional/20260407/11507619/iran-denuncia-nuevo-bombardeo-ee-uu-sobre-isla-jarg.html][EE.UU. bombardea de nuevo la isla de Jarg, corazón de la industria petrolera iraní]]
+- [[https://www.lavanguardia.com/internacional/20260407/11507601/tiroteo-consulado-israel-estambul-asaltantes-neutralizados.html][Tiroteo junto al consulado de Israel en Estambul: un asaltante muerto y dos policías heridos]]
+- [[https://www.lavanguardia.com/internacional/20260407/11507463/mojtaba-jamenei-encuentra-inconsciente-recibe-tratamiento-ciudad-qom.html][Mojtaba Jamenei se encuentra “inconsciente” en Qom, según la inteligencia de EE.UU.]]
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/incendios-forestales-obligan-interrumpir-circulacion-trenes-tramo-fraguas-corrales/20260407115243191040.html][Los incendios forestales obligan a interrumpir la circulación de trenes en el tramo Las Fraguas - Los Corrales]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/grupo-encapuchados-roba-madrugada-cableado-iluminacion-publica-argonos/20260407114115191039.html][Un grupo de encapuchados roba esta madrugada cableado de iluminación pública en Argoños]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/retoma-cuarto-dia-operativo-busqueda-hombre-68-anos-desaparecido-santiurde-toranzo/20260407112749191038.html][Se retoma por cuarto día el operativo de búsqueda del hombre de 68 años desaparecido en Santiurde de Toranzo]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/fallece-hombre-79-anos-caer-ladera-monte-dobra/20260407111124191035.html][Fallece un hombre de 79 años al caer por una ladera del monte Dobra]]
-- [[https://eldiariocantabria.publico.es/articulo/laboral/acuerdo-solvay-logra-reducir-despidos-77-45-plantilla/20260407105522191034.html][El acuerdo de Solvay logra reducir los despidos de 77 a 45 tras el "sí" de la plantilla]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/dos-managers-acusados-estafar-75000-euros-cantante-enfrentan-miercoles-seis-anos-carcel/20260407171924191054.html][Dos managers acusados de estafar 75.000 euros a una cantante se enfrentan este miércoles a seis años de cárcel]]
+- [[https://eldiariocantabria.publico.es/articulo/deportes/gimnastica-sporting-gijon-firman-acuerdo-compartir-metodologia-buenas-practicas/20260407170751191052.html][Gimnástica y Sporting de Gijón firman un acuerdo para compartir metodología y buenas prácticas]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/record-historico-calor-abril-tres-puntos-cantabria-que-llego-registrar-casi-33-grados-lunes/20260407164733191050.html][Récord histórico de calor en abril en tres puntos de Cantabria, que llegó a registrar casi 33 grados el lunes]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/restablecida-circulacion-trenes-entre-fraguas-corrales-interrumpirse-incendios-forestales/20260407163155191049.html][Restablecida la circulación de los trenes entre Las Fraguas y Los Corrales tras interrumpirse por los incendios forestales]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/jueza-bocal-quiere-saber-policia-local-tiene-protocolo-avisos-112/20260407135354191047.html][La jueza de El Bocal quiere saber si la Policía Local tiene protocolo para avisos del 112]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
-- [[https://www.washingtonpost.com/world/2026/04/07/asia-shortages-iran-war-naphtha-oil-hormuz/][Ramen, K-beauty, clothes face shortages as Iran war hits Asia’s supplies]]
-- [[https://www.washingtonpost.com/national-security/2026/04/06/trump-iran-ceasefire-bombing-threat/][Trump claims ‘active’ peace talks with Iran as bombing deadline approaches]]
-- [[https://www.washingtonpost.com/world/2026/04/06/journalist-kidnapped-iraq-kittleson-kataib-hezbollah/][Kidnapped U.S. journalist believed alive in militia’s Iraqi stronghold]]
-- [[https://www.washingtonpost.com/national-security/2026/04/06/trump-us-iran-war-rescue-airman/][Trump threatens new rampage as Iran deal deadline nears]]
-- [[https://www.washingtonpost.com/world/2026/04/06/oman-iran-war-strait-of-hormuz/][From Oman, a waterfront view of the embattled Strait of Hormuz]]
+- [[https://www.washingtonpost.com/world/2026/04/07/iran-war-fears-trump-infrastructure-economy-attacks/][Iranian civilians voice fear and fatigue as U.S. escalates conflict]]
+- [[https://www.washingtonpost.com/national-security/2026/04/07/trump-iran-bombing-civilization-war-crime/][Trump threats against civilian targets put military in legal, moral quandary]]
+- [[https://www.washingtonpost.com/world/2026/04/07/trump-us-iran-war-threat/][U.S. strikes Iran’s Kharg Island as Trump warns ‘a whole civilization will die tonight’]]
+- [[https://www.washingtonpost.com/world/2026/04/05/vance-hungary-orban-election/][Vance heads to Hungary as MAGA ally Orban trails in polls]]
+- [[https://www.washingtonpost.com/world/2026/04/07/asia-shortages-iran-war-naphtha-oil-hormuz/][Iran war hits supply chains for K-beauty, ramen and clothes]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/business/energy-oil/venture-global-stock-energy-shock-iran-6d4ec77d][The American Gas Exporter That Pulls In Billions During Energy Shocks]]
+- [[https://www.wsj.com/world/middle-east/why-did-trump-order-an-attack-on-irans-kharg-island-dcfceda8][Why Did Trump Order an Attack on Iran’s Kharg Island?]]
+- [[https://www.wsj.com/world/china/qingming-and-the-weight-of-memory-8914325f][Qingming and the Weight of Memory]]
+- [[https://www.wsj.com/world/decorated-australian-veteran-charged-with-afghanistan-war-crimes-9faf35eb][Decorated Australian Veteran Charged With Afghanistan War Crimes]]
 - [[https://www.wsj.com/world/asia/why-u-s-allies-in-asia-are-caught-between-war-trade-and-trump-abb365b9][Why U.S. Allies in Asia Are Caught Between War, Trade and Trump]]
-- [[https://www.wsj.com/world/asia/north-koreas-surprise-offering-to-the-south-presidential-flattery-961979c0][North Korea’s Surprise Offering to the South: Presidential Flattery]]
-- [[https://www.wsj.com/business/energy-oil/the-american-gas-exporter-that-pulls-in-billions-during-energy-shocks-6d4ec77d][The American Gas Exporter That Pulls In Billions During Energy Shocks]]
-- [[https://www.wsj.com/world/middle-east/how-china-helped-iran-cushion-the-blow-of-sanctions-and-fund-its-war-machine-6fa2847d][How China Helped Iran Cushion the Blow of Sanctions and Fund Its War Machine]]
-- [[https://www.wsj.com/world/allies-fear-they-are-tied-to-an-erratic-u-s-and-now-have-nowhere-to-turn-23c042e1][Allies Fear They Are Tied to an Erratic U.S. and Now Have Nowhere to Turn]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/04/07/en-direct-guerre-au-moyen-orient-israel-demande-aux-habitants-d-iran-de-ne-pas-voyager-en-train-les-negociations-pour-un-cessez-le-feu-se-poursuivent-au-pakistan_6676633_3210.html][EN DIRECT, guerre au Moyen-Orient : les négociations pour un cessez-le-feu se poursuivent au Pakistan, Israël demande aux habitants d’Iran de ne pas « voyager en train »]]
-- [[https://www.lemonde.fr/economie/article/2026/04/07/un-mort-apres-une-collision-entre-un-tgv-et-un-poids-lourd-dans-le-pas-de-calais_6677861_3234.html][Un TGV percute un poids lourd dans le Pas-de-Calais : le conducteur du train est mort, deux personnes « en urgence absolue »]]
-- [[https://www.lemonde.fr/sciences/live/2026/04/07/en-direct-artemis-2-les-astronautes-qui-ont-survole-la-lune-reviennent-vers-la-terre-les-dernieres-informations-et-les-reponses-a-vos-questions_6677845_1650684.html][EN DIRECT, Artemis-2 | Les astronautes qui ont survolé la Lune reviennent vers la Terre : les dernières informations après une mission historique]]
-- [[https://www.lemonde.fr/politique/article/2026/04/07/au-conseil-constitutionnel-un-depart-sur-fond-de-luttes-d-influence_6677830_823448.html][Le départ d’Aurélie Bretonneau, secrétaire générale du Conseil constitutionnel, soulève interrogations et inquiétudes]]
-- [[https://www.lemonde.fr/societe/article/2026/04/07/violences-policieres-a-noisiel-trois-agents-de-la-brigade-anticriminalite-renvoyes-devant-le-tribunal_6677860_3224.html][Violences policières à Noisiel : trois agents de la BAC renvoyés devant le tribunal]]
+- [[https://www.lemonde.fr/international/live/2026/04/07/en-direct-guerre-en-iran-israel-et-les-etats-unis-ont-bombarde-l-ile-de-kharg-point-nevralgique-de-l-industrie-petroliere-dans-le-golfe-a-quelques-heures-de-l-ultimatum-de-donald-trump_6676633_3210.html][EN DIRECT, guerre en Iran : Israël et les Etats-Unis ont bombardé l’île de Kharg, point névralgique de l’industrie pétrolière dans le Golfe, à quelques heures de l’ultimatum de Donald Trump]]
+- [[https://www.lemonde.fr/international/article/2026/04/07/les-francais-cecile-kohler-et-jacques-paris-retenus-en-iran-depuis-plusieurs-annees-sont-libres-et-en-chemin-vers-le-territoire-francais-annonce-emmanuel-macron_6677895_3210.html][Cécile Kohler et Jacques Paris, retenus en Iran depuis plusieurs années, « sont libres et en chemin vers le territoire français », annonce Emmanuel Macron]]
+- [[https://www.lemonde.fr/sciences/live/2026/04/07/en-direct-artemis-2-les-photos-inedites-de-la-lune-par-l-equipage-lors-du-survol-de-l-astre_6677845_1650684.html][EN DIRECT, Artemis-2 | La NASA dévoile des photos inédites de la face cachée de la Lune prises par l’équipage lors du survol de l’astre]]
+- [[https://www.lemonde.fr/politique/article/2026/04/07/assemblee-nationale-a-un-an-de-la-presidentielle-les-blocages-persistants-autour-de-la-proportionnelle_6677863_823448.html][Proportionnelle : les blocages persistants à l’Assemblée autour de la réforme du mode de scrutin]]
+- [[https://www.lemonde.fr/international/article/2026/04/07/en-hongrie-j-d-vance-vante-les-merites-de-viktor-orban-a-l-approche-des-legislatives_6677904_3210.html][En Hongrie, J. D. Vance vante les mérites de Viktor Orban à l’approche des législatives]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/societes/en-direct-poids-lourd-percute-par-un-tgv-dans-le-pas-de-calais-un-mort-et-plusieurs-blesses-le-trafic-est-perturbe-20260407][EN DIRECT - Poids lourd percuté par un TGV dans le Pas-de-Calais : un mort et deux blessés en urgence absolue, le trafic est perturbé]]
-- [[https://www.lefigaro.fr/societes/sncf-grave-accident-entre-un-tgv-et-un-poids-lourd-pres-de-lens-le-trafic-ferroviaire-interrompu-20260407][SNCF : grave accident entre un TGV et un poids lourd près de Lens, le conducteur est décédé et plusieurs passagers blessés]]
-- [[https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-ultimatum-de-trump-se-termine-dans-quelques-heures-l-iran-toujours-determine-a-combattre-20260407][EN DIRECT - Guerre en Iran : explosions en série sur Téhéran, Israël demande aux Iraniens de ne pas «voyager en train»]]
+- [[https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-ultimatum-de-trump-se-termine-dans-quelques-heures-l-iran-toujours-determine-a-combattre-20260407][EN DIRECT - Guerre en Iran : la Maison-Blanche dément envisager l’utilisation de l’arme nucléaire, Trump menace d’éradiquer «une civilisation entière»]]
+- [[https://www.lefigaro.fr/international/guerre-en-iran-le-pakistan-engage-dans-une-mediation-de-la-derniere-chance-20260407][Guerre en Iran : le Pakistan engagé dans une médiation de la dernière chance]]
+- [[https://www.lefigaro.fr/international/ce-sont-des-animaux-donald-trump-justifie-sa-menace-de-bombarder-des-infrastructures-civiles-iraniennes-20260407][«Ce sont des animaux» : Donald Trump justifie sa menace de bombarder des infrastructures civiles iraniennes]]
 - [[https://www.lefigaro.fr/international/detroit-d-ormuz-un-vote-attendu-au-conseil-de-securite-de-l-onu-20260407][Détroit d’Ormuz : un vote attendu au Conseil de sécurité de l’ONU]]
-- [[https://www.lefigaro.fr/international/face-a-l-iran-donald-trump-poursuit-son-cavalier-seul-20260406][Face à l’Iran, Donald Trump poursuit son cavalier seul]]
+- [[https://www.lefigaro.fr/international/iran-les-ex-detenus-cecile-kohler-et-jacques-paris-sont-libres-et-en-chemin-vers-le-territoire-francais-annonce-emmanuel-macron-20260407][Les ex-détenus en Iran Cécile Kohler et Jacques Paris «sont libres et en chemin vers le territoire français», annonce Emmanuel Macron]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss][Little sign of breakthrough as Trump's Iran deadline nears]]
-- [[https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss][Australia's most-decorated living soldier charged over alleged war crimes]]
-- [[https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss][JD Vance arrives in Hungary to back Orbán's re-election bid]]
-- [[https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss][Taiwan opposition leader visits China for expected meeting with Xi Jinping]]
-- [[https://www.bbc.com/news/articles/ce8l0md9gl1o?at_medium=RSS&at_campaign=rss][Nine policemen sentenced to death in India over Covid custody killings]]
+- [[https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss][One gunman killed and two injured in shooting at Israeli consulate in Istanbul]]
+- [[https://www.bbc.com/news/articles/c4g8pzpw2g2o?at_medium=RSS&at_campaign=rss][WHO suspends Gaza medical evacuations after contractor killed by Israeli troops]]
+- [[https://www.bbc.com/news/articles/cyv183v02j3o?at_medium=RSS&at_campaign=rss][Earthset and a solar eclipse: Nasa releases first images from Moon fly-by]]
+- [[https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss][JD Vance backs Orbán's re-election bid in Budapest visit and hits out at EU]]
+- [[https://www.bbc.com/news/articles/c8r40d4xdngo?at_medium=RSS&at_campaign=rss][Chilean woman accused of Pinochet-era kidnaps loses Australia extradition battle]]
 
 *** The Guardian
 
@@ -133,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/voli-e-caro-carburante-decalogo-associazioni-consumatori-tutelare-viaggiatori-AIiRA5MC][Voli e caro carburante, il decalogo delle associazioni dei consumatori per tutelare i viaggiatori]]
-- [[https://www.ilsole24ore.com/art/recensioni-false-l-entrata-vigore-nuove-regole-ma-mancano-linee-guida-AI26d78B][Recensioni false, verso l’entrata in vigore delle nuove regole (ma mancano le linee guida)]]
-- [[https://www.ilsole24ore.com/art/torino-molinette-asportato-tumore-colon-ipnosi-paziente-sveglio-AIR1wyMC][Asportato tumore al colon in ipnosi su paziente sveglio alle Molinette di Torino]]
-- [[https://www.ilsole24ore.com/art/smart-working-oggi-arresto-e-multa-fino-7403-euro-datori-lavoro-mancata-consegna-dell-informativa-sicurezza-AI0iZYMC][Smart working, da oggi arresto e multa fino a 7.403 euro ai datori di lavoro per mancata consegna dell’informativa sulla sicurezza]]
-- [[https://www.ilsole24ore.com/art/aeroporti-senza-carburante-incognita-viaggi-estivi-AIEvSgMC][Aeroporti senza carburante, incognita sui viaggi estivi]]
+- [[https://www.ilsole24ore.com/art/pensioni-vecchiaia-dietrofront-inps-ricalcoli-e-rimborsi-migliaia-pensionati-AIpynDNC][Pensioni di vecchiaia, dietrofront Inps: ricalcoli e rimborsi per migliaia di pensionati]]
+- [[https://www.ilsole24ore.com/art/crosetto-sappiamo-far-rispettare-trattati-non-siamo-guerra-AIZMPKNC][Crosetto: sappiamo far rispettare i trattati, non siamo in guerra]]
+- [[https://www.ilsole24ore.com/art/italia-paese-i-piu-longevi-834-anni-speranza-vita-nascita-AIuMvJNC][Italia paese tra i più longevi: 83,4 anni di speranza di vita alla nascita]]
+- [[https://www.ilsole24ore.com/art/scattano-incentivi-part-time-favorire-ricambio-generazionale-AIENRGMC][Scattano gli incentivi al part time per favorire il ricambio generazionale]]
+- [[https://www.ilsole24ore.com/art/si-risveglia-frana-storica-molise-chiusa-a14-e-linea-ferroviaria-AIZVYINC][Si risveglia frana storica in Molise, chiuse A14 e linea ferroviaria]]
 
 ** 🇩🇪 Alemania
 
@@ -151,21 +155,21 @@
 
 *** Deutsche Welle
 
-- [[https://www.dw.com/en/can-small-modular-nuclear-reactors-solve-europe-s-energy-woes/a-76623404?maca=en-rss-en-world-4025-rdf][Can small modular nuclear reactors solve Europe's energy woes?]]
+- [[https://www.dw.com/en/south-korea-turns-to-eu-to-revive-talks-with-the-north/a-76690973?maca=en-rss-en-world-4025-rdf][South Korea turns to EU to revive talks with the North]]
+- [[https://www.dw.com/en/inside-india-s-courts-ai-s-growing-role-sparks-concern/a-76653611?maca=en-rss-en-world-4025-rdf][Inside India's courts, AI's growing role sparks concern]]
+- [[https://www.dw.com/en/why-have-us-south-africa-relations-soured/a-76655817?maca=en-rss-en-world-4025-rdf][Why have US-South Africa relations soured?]]
+- [[https://www.dw.com/en/can-small-nuclear-reactors-solve-europe-s-energy-woes/a-76623404?maca=en-rss-en-world-4025-rdf][Can small nuclear reactors solve Europe's energy woes?]]
 - [[https://www.dw.com/en/congo-joins-us-list-of-third-country-deportation-destinations/a-76682094?maca=en-rss-en-world-4025-rdf][Congo joins US list of third-country deportation destinations]]
-- [[https://www.dw.com/en/north-korea-kim-s-daughter-now-seen-as-likely-heir-south/a-76680967?maca=en-rss-en-world-4025-rdf][North Korea: Kim's daughter now seen as likely heir — South]]
-- [[https://www.dw.com/en/myanmar-junta-chief-elected-president-what-comes-next/a-76679169?maca=en-rss-en-world-4025-rdf][Myanmar junta chief elected president — what comes next?]]
-- [[https://www.dw.com/en/bombing-of-iran-s-pharma-producers-threatens-patients-lives/a-76680086?maca=en-rss-en-world-4025-rdf][Bombing of Iran's pharma producers threatens patients' lives]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/passageiros-enfrentam-problemas-na-linha-11-coral-da-cptm.shtml][Passageiros enfrentam problemas na linha 11-coral da CPTM]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/veja-onde-conseguir-ajuda-gratuita-para-declarar-o-imposto-de-renda-2026.shtml][Veja onde conseguir ajuda gratuita para declarar o Imposto de Renda 2026]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/04/garota-de-ninguem-livro-postumo-detalha-horrores-da-rede-sexual-de-epstein.shtml]['Garota de Ninguém', livro póstumo, detalha horrores da rede sexual de Epstein]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/04/familiares-de-astronautas-da-artemis-2-nao-vao-a-lua-mas-tambem-fazem-parte-da-missao.shtml][Familiares de astronautas da Artemis 2 não vão à Lua, mas também fazem parte da missão]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/04/puc-sp-prepara-plano-de-demissao-voluntaria-para-incentivar-professores-a-aposentar.shtml][PUC-SP prepara plano de demissão voluntária para incentivar professores a aposentar]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/04/flavio-se-reune-com-deputada-do-pp-citada-como-possivel-vice.shtml][Flávio se reúne com deputada do PP citada como possível vice]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/04/bbb-26-chaiany-entra-na-mira-de-virginia-para-futuras-parcerias.shtml][BBB 26: Chaiany entra na mira de Virginia para futuras parcerias]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/04/oposicao-cobra-de-motta-retomada-de-sabatina-para-aprovar-nome-ao-tcu.shtml][Oposição cobra de Motta retomada de sabatina para aprovar nome ao TCU]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/04/soldado-mais-condecorado-da-australia-e-preso-acusado-de-crimes-de-guerra.shtml][Soldado mais condecorado da Austrália é preso acusado de crimes de guerra]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/04/ministerio-publico-investiga-gestao-nunes-por-ceder-autodromo-de-interlagos-para-o-lollapalooza.shtml][Ministério Público investiga gestão Nunes por ceder autódromo de Interlagos para o Lollapalooza]]
 
 *** O Globo
 
