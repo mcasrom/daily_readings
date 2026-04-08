@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 39.2°C | ⚖ Load: 0.00 | 🌐 Ping: 14.0ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 40.8°C | ⚖ Load: 0.00 | 🌐 Ping: 18.5ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -42,76 +42,80 @@
 *** El País
 
 - [[https://elpais.com/internacional/2026-04-07/trump-acepta-prorrogar-el-plazo-para-negociar-con-iran.html][Estados Unidos e Irán acuerdan un alto el fuego de dos semanas justo antes de expirar el ultimátum de Trump]]
-- [[https://elpais.com/economia/2026-04-08/el-precio-del-petroleo-se-desploma-y-los-futuros-bursatiles-suben-tras-el-acuerdo-para-un-alto-el-fuego-de-dos-semanas-en-iran.html][El precio del petróleo se desploma y los futuros bursátiles suben tras el acuerdo para un alto el fuego de dos semanas en Irán]]
-- [[https://elpais.com/internacional/2026-04-08/contradicciones-e-hiperboles-las-distintas-guerras-de-donald-trump-en-iran.html][Contradicciones e hipérboles: las distintas guerras de Donald Trump en Irán]]
-- [[https://elpais.com/internacional/2026-04-07/las-amenazas-de-trump-contra-iran-repugnan-incluso-dentro-del-mundo-maga.html][Las amenazas de Trump contra Irán repugnan incluso dentro del mundo MAGA]]
-- [[https://elpais.com/espana/2026-04-07/las-defensas-de-abalos-y-koldo-senalan-a-aldama.html][Las defensas de Ábalos y Koldo señalan a Aldama]]
+- [[https://elpais.com/internacional/2026-04-08/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html][Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Israel afirma que el alto el fuego no incluye a Líbano y bombardea el sur del país]]
+- [[https://cincodias.elpais.com/mercados-financieros/2026-04-08/la-bolsa-y-el-ibex-35.html][Euforia en las Bolsas tras el alto el fuego temporal en Irán: el Ibex sube un 3,5%]]
+- [[https://elpais.com/economia/2026-04-08/el-precio-del-petroleo-se-desploma-y-los-futuros-bursatiles-suben-tras-el-acuerdo-para-un-alto-el-fuego-de-dos-semanas-en-iran.html][El precio del petróleo se desploma tras el acuerdo para un alto el fuego de dos semanas en Irán]]
+- [[https://elpais.com/internacional/2026-04-08/iran-una-tregua-pirrica-para-trump.html][Irán, una tregua pírrica para Trump]]
 
 *** El Mundo
 
 - [[https://www.elmundo.es/internacional/2026/04/08/69d58ab621efa042618b4570.html][EEUU e Irán llegan a un acuerdo para un alto el fuego y Trump suspende los "bombardeos y ataques" durante dos semanas]]
-- [[https://www.elmundo.es/economia/2026/04/07/69d52660fc6c83052a8b45b2.html][Las aerolíneas avanzan recortes de oferta en verano ante la imposibilidad de absorber los precios del queroseno]]
+- [[https://www.elmundo.es/internacional/2026/04/08/69d5ccf5fc6c83c05b8b4580.html][Así ha sido la mediación clave de Pakistán (con empujón final de China) para la tregua de dos semanas entre EEUU e Irán]]
 - [[https://www.elmundo.es/internacional/2026/04/07/69d53c2be4d4d8b20d8b45b4.html][Rebelión en el mundo MAGA para destituir a Donald Trump: "Es un lunático genocida"]]
-- [[https://www.elmundo.es/espana/2026/04/07/69d539b121efa0f9088b4592.html][Las vergüenzas de la 'era Sánchez' sacuden el Supremo: "Cuando me dicen que Jésica es la sobrina del ministro empiezo a preocuparme"]]
-- [[https://www.elmundo.es/espana/2026/04/07/69d53a6ae85eceb1108b4592.html][La ética de no abrir "jamás" un sobre]]
+- [[https://www.elmundo.es/internacional/2026/04/08/69d6118fe9cf4aa6388b4576.html][Irán advierte de que mantiene "el dedo en el gatillo" y mantiene una "desconfianza total" con Washington pese al acuerdo de tregua]]
+- [[https://www.elmundo.es/economia/dinero-inversion/2026/04/08/69d5f8dae85ece8b038b4574.html][El petróleo y el gas se hunden y las bolsas se disparan ante la tregua de dos semanas en la guerra en Oriente Próximo]]
 
 *** La Vanguardia
 
-- /Feed no disponible temporalmente/
+- [[https://www.lavanguardia.com/internacional/20260408/11508178/trump-amplia-dos-semanas-ultimatum-iran-propuesta-pakistan.html][EE.UU. e Irán aceptan el alto el fuego de dos semanas mediado por Pakistán]]
+- [[https://www.lavanguardia.com/internacional/20260408/11508181/guerra-iran-ataque-estados-unidos-trump-israel-teheran-hoy-en-directo.html][Guerra en Irán y el ultimátum de Trump, en directo | EE.UU. asegura que descongestionará el estrecho de Ormuz y última hora de Israel]]
+- [[https://www.lavanguardia.com/economia/20260408/11508244/precio-petroleo-hunde-mas-12-95-dolares-anuncio-alto-fuego-estados-unidos-e-iran.html][El precio del petróleo se hunde y las bolsas se disparan con el anuncio del alto el fuego entre EE.UU. e Irán]]
+- [[https://www.lavanguardia.com/internacional/20260407/11507960/espera-muerte-civilizacion.html][A la espera de la “muerte de una civilización”]]
+- [[https://www.lavanguardia.com/internacional/20260408/11508243/israel-acepta-alto-fuego-ee-uu-e-iran-considera-incluye-libano.html][Israel acepta el alto el fuego entre EE.UU. e Irán, pero considera que “no incluye al Líbano”]]
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/oriental/iii-feria-libro-literal-arranca-jueves-nueve-casetas/20260407211921191083.html][La III Feria del Libro LITERAL arranca este jueves con nueve casetas]]
-- [[https://eldiariocantabria.publico.es/articulo/saja-besaya/fomento-impulsa-diversas-actuaciones-mejorar-infraestructuras-seguridad-vial-municipio/20260407205922191081.html][Fomento impulsa diversas actuaciones para mejorar infraestructuras y seguridad vial en el municipio]]
-- [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/camargo-convierte-primer-municipio-cantabria-crear-red-espacios-seguros-menores-impulsada-propios-jovenes/20260407205237191079.html][Camargo se convierte en el primer municipio de Cantabria en crear una red de espacios seguros para menores impulsada por los propios jóvenes]]
-- [[https://eldiariocantabria.publico.es/articulo/torrelavega/adjudicada-renovacion-plaza-animas-viernoles-235000-euros/20260407204455191077.html][Adjudicada la renovación de la plaza de Las Ánimas de Viérnoles por 235.000 euros]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/semipeatonalizacion-acceso-magdalena-podria-estar-terminada-antes-verano/20260407203625191075.html][La semipeatonalización del acceso a La Magdalena podría estar terminada antes de verano]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/arranca-campana-renta-puede-presentar-borrador-traves-web-app/20260408112749191095.html][Arranca la Campaña de la Renta: ya se puede presentar el borrador a través de la web y la 'app']]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/operativo-busqueda-hombre-desaparecido-toranzo-centra-zonas-abundante-maleza/20260408111117191093.html][El operativo de búsqueda del hombre desaparecido en Toranzo se centra en zonas de abundante maleza]]
+- [[https://eldiariocantabria.publico.es/articulo/deportes/mohamed-salah-cuotas-ultima-temporada/20260408110024191091.html][Mohamed Salah y las Cuotas de su Última Temporada]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/intenta-robar-local-simulando-llevar-objeto-punzante-amenazar-empleada/20260408104545191089.html][Intenta robar en un local simulando llevar un objeto punzante para amenazar a la empleada]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/usa-tarjeta-padre-fallecido-aparcar-plazas-movilidad-reducida/20260408103230191088.html][Usa la tarjeta de su padre fallecido para aparcar en plazas de movilidad reducida]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/04/08/hungary-iran-hezbollah-trump-orban/][After pager attack on Hezbollah, Hungary offered help to Iran]]
+- [[https://www.washingtonpost.com/lifestyle/2026/04/08/rat-cambodia-statue-land-mines-magawa/][Hero rat who sniffed out over 100 land mines is honored with giant statue]]
 - [[https://www.washingtonpost.com/world/2026/04/07/trump-us-iran-war-threat/][Trump agrees to suspend attacks for two weeks if Iran opens Strait of Hormuz]]
 - [[https://www.washingtonpost.com/world/2026/04/07/shelly-kittleson-american-journalist-kidnap-release/][U.S. journalist Shelly Kittleson, kidnapped in Iraq, is freed in prisoner swap]]
 - [[https://www.washingtonpost.com/national-security/2026/04/07/trump-iran-bombing-civilization-war-crime/][Trump threats against civilian targets put military in legal, moral quandary]]
-- [[https://www.washingtonpost.com/world/2026/04/07/pope-leo-denounce-trump-iran-threat/][Pope Leo denounces Trump’s threat to destroy Iran’s ‘whole civilization’]]
-- [[https://www.washingtonpost.com/politics/2026/04/07/vance-orban-trump-election/][JD Vance campaigns for far-right nationalist Viktor Orban in Hungary]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/asia/north-koreas-surprise-offering-to-the-south-presidential-flattery-961979c0][North Korea’s Surprise Offering to the South: Presidential Flattery]]
 - [[https://www.wsj.com/world/middle-east/trump-backs-off-threat-to-level-iran-04229daf][Trump Backs Off Threat to Level Iran]]
 - [[https://www.wsj.com/world/middle-east-commercial-flights-war-77ae999d][After Five Weeks of Airstrikes, Travelers Are Adapting to Flying in Wartime]]
 - [[https://www.wsj.com/world/middle-east/trump-iran-threat-gripped-world-b8d789c9][The Day Trump’s Iran Threat Gripped the World]]
 - [[https://www.wsj.com/world/middle-east/hopes-fade-for-deal-with-iran-ahead-of-tuesday-night-deadline-be1a0334][Hopes Fade for Deal With Iran Ahead of Tuesday-Night Deadline]]
-- [[https://www.wsj.com/world/middle-east/the-tiny-folding-helicopter-key-to-rescuing-the-u-s-aviator-in-iran-28644263][The Tiny, Folding Helicopter Key to Rescuing the U.S. Aviator in Iran]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/04/07/en-direct-guerre-en-iran-a-quelques-heures-de-l-ultimatum-teheran-et-le-moyen-orient-suspendus-a-la-decision-de-donald-trump_6676633_3210.html][EN DIRECT, guerre en Iran : Israël annonce « soutenir la décision du président Trump de suspendre les frappes » contre Téhéran, mais affirme que le cessez-le-feu n’inclut pas ses opérations au Liban]]
-- [[https://www.lemonde.fr/international/article/2026/04/08/la-liberation-de-cecile-kohler-et-jacques-paris-un-geste-tactique-de-l-iran-envers-la-france_6678116_3210.html][La libération de Cécile Kohler et Jacques Paris, un « geste tactique » de l’Iran envers la France]]
-- [[https://www.lemonde.fr/politique/article/2026/04/08/soutenue-par-la-france-insoumise-la-petition-contre-la-ppl-yadan-depasse-les-500-000-signatures-et-revele-les-clivages-au-sein-du-bloc-central_6678114_823448.html][Soutenue par La France insoumise, la pétition contre la PPL Yadan dépasse les 500 000 signatures et révèle les clivages au sein du bloc central]]
-- [[https://www.lemonde.fr/politique/article/2026/04/08/parti-socialiste-en-desaccord-sur-la-strategie-pour-la-presidentielle-les-opposants-a-olivier-faure-claquent-la-porte-d-un-bureau-national_6677945_823448.html][Parti socialiste : en désaccord sur la stratégie pour la présidentielle, les opposants à Olivier Faure claquent la porte d’un bureau national]]
-- [[https://www.lemonde.fr/culture/article/2026/04/08/les-films-a-l-affiche-romeria-an-evening-song-le-dernier-pour-la-route-les-contes-du-pommier_6678117_3246.html][Les films à l’affiche : « Romeria », « An Evening Song », « Le dernier pour la route », « Les Contes du pommier »…]]
+- [[https://www.lemonde.fr/international/live/2026/04/08/en-direct-guerre-au-moyen-orient-les-etats-unis-et-l-iran-annoncent-un-cessez-le-feu-israel-poursuit-ses-bombardements-au-liban-ou-la-treve-ne-s-applique-pas_6676633_3210.html][EN DIRECT, guerre au Moyen-Orient : Israël continue de bombarder le sud du Liban après l’annonce d’un cessez-le-feu de deux semaines en Iran]]
+- [[https://www.lemonde.fr/politique/article/2026/04/08/l-assemblee-vote-a-une-tres-large-majorite-un-projet-de-loi-conteste-contre-la-fraude-sociale-et-fiscale_6678222_823448.html][Un projet de loi contesté contre la fraude sociale et fiscale adopté à une très large majorité par l’Assemblée nationale]]
+- [[https://www.lemonde.fr/idees/article/2026/04/08/le-retour-du-charbon-symptome-d-une-transition-inachevee_6678234_3232.html][Le retour du charbon, symptôme d’une transition inachevée]]
+- [[https://www.lemonde.fr/international/live/2026/04/08/en-direct-guerre-en-ukraine-apres-l-annonce-d-un-cessez-le-feu-entre-l-iran-et-les-etats-unis-kiev-reclame-une-fermete-suffisante-pour-contraindre-moscou-a-faire-de-meme_6676836_3210.html][EN DIRECT, guerre en Ukraine : malgré le cessez-le-feu, les experts militaires ukrainiens « continueront à travailler » au Moyen-Orient, déclare Volodymyr Zelensky]]
+- [[https://www.lemonde.fr/les-decodeurs/article/2026/04/08/quand-des-habitants-de-lieux-pollues-par-les-pfas-font-remonter-leur-colere-jusqu-a-bruxelles-nous-sommes-la-pour-essayer-d-atteindre-les-gens-d-en-haut_6678200_4355770.html][Des habitants de « hot spots » contaminés par des polluants éternels, venus de toute l’Europe, font remonter leur colère jusqu’à Bruxelles]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/en-direct-iran-ultimatum-trump-guerre-moyen-orient-etats-unis-israel-teheran-bombe-netanyahou-macron-golfe-20260407][EN DIRECT - Israël accepte de suspendre les frappes contre l’Iran mais affirme que le cessez-le-feu «n’inclut pas le Liban»]]
-- [[https://www.lefigaro.fr/international/guerre-en-iran-donald-trump-annonce-un-cessez-le-feu-de-quinze-jours-accepte-par-teheran-20260408][Guerre en Iran : Donald Trump annonce un cessez-le-feu de quinze jours, accepté par Téhéran]]
-- [[https://www.lefigaro.fr/international/guerre-en-iran-le-pakistan-engage-dans-une-mediation-de-la-derniere-chance-20260407][Guerre en Iran : le Pakistan engagé dans une médiation de la dernière chance]]
-- [[https://www.lefigaro.fr/international/irak-enlevee-en-mars-une-journaliste-americaine-aurait-ete-liberee-par-un-groupe-pro-iranien-20260407][Irak : enlevée en mars, la journaliste américaine Shelly Kittleson a été libérée]]
-- [[https://www.lefigaro.fr/conjoncture/ultimatum-repousse-en-iran-le-petrole-plonge-sous-100-dollars-les-bourses-d-asie-s-envolent-20260408][Ultimatum repoussé en Iran : le pétrole plonge sous 100 dollars, les Bourses d'Asie s’envolent]]
+- [[https://www.lefigaro.fr/international/en-direct-iran-ultimatum-trump-guerre-moyen-orient-etats-unis-israel-teheran-bombe-netanyahou-macron-golfe-20260407][EN DIRECT - Cessez-le-feu en Iran : les premières traversées du détroit d’Ormuz ont repris]]
+- [[https://www.lefigaro.fr/conjoncture/treve-au-moyen-orient-un-millier-de-bateaux-impatients-de-franchir-le-detroit-d-ormuz-20260408][Trêve au Moyen-Orient : un millier de bateaux impatients de franchir le détroit d’Ormuz]]
+- [[https://www.lefigaro.fr/international/victoire-tactique-aucun-probleme-fondamental-resolu-la-presse-etrangere-salue-le-cessez-le-feu-au-moyen-orient-mais-reste-sceptique-sur-l-issue-des-negociations-20260408][«Victoire tactique», «aucun problème fondamental résolu» : la presse étrangère salue le cessez-le-feu en Iran mais reste sceptique sur l’issue des négociations]]
+- [[https://www.lefigaro.fr/international/guerre-en-iran-pensez-vous-que-le-cessez-le-feu-va-deboucher-sur-un-accord-de-paix-20260408][Guerre en Iran : pensez-vous que le cessez-le-feu va déboucher sur un accord de paix ?]]
+- [[https://www.lefigaro.fr/international/en-direct-liberation-de-cecile-kohler-et-jacques-paris-les-deux-ex-detenus-en-iran-sont-arrives-a-paris-20260408][EN DIRECT - Libération de Cécile Kohler et Jacques Paris : les deux ex-détenus sont arrivés à l’Élysée pour être reçus par Emmanuel Macron]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss][Iran ceasefire deal a partial win for Trump - but at a high cost]]
+- [[https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss][Iran ceasefire deal gives Trump a way out of war - but at a high cost]]
 - [[https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss][What we know about the two-week ceasefire between the US and Iran]]
 - [[https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss][Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene]]
-- [[https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss][Oil plunges after US-Iran ceasefire deal to reopen Strait of Hormuz]]
-- [[https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss][Wireless Festival cancelled after Kanye West blocked from coming to UK]]
+- [[https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss][Oil prices plunge and shares jump on US-Iran ceasefire plan]]
+- [[https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&at_campaign=rss][Plan to scrap presidential elections puts Zimbabweans at loggerheads]]
 
 *** The Guardian
 
@@ -133,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/caso-delmastro-sequestrato-cellulare-caroccia-ecco-cosa-cercano-pm-AI9GkiNC][Caso Delmastro, sequestrato il cellulare di Caroccia: ecco cosa cercano i pm]]
-- [[https://www.ilsole24ore.com/art/incentivo-posticipo-pensionamento-2026-come-funziona-bonus-giorgetti-AIeITWNC][Incentivo al posticipo del pensionamento nel 2026: come funziona il bonus Giorgetti]]
-- [[https://www.ilsole24ore.com/art/pensioni-vecchiaia-dietrofront-inps-ricalcoli-e-rimborsi-migliaia-pensionati-AIpynDNC][Pensioni di vecchiaia, dietrofront Inps: ricalcoli e rimborsi per migliaia di pensionati]]
-- [[https://www.ilsole24ore.com/art/crosetto-sappiamo-far-rispettare-trattati-non-siamo-guerra-AIZMPKNC][Crosetto: sappiamo far rispettare i trattati, non siamo in guerra]]
-- [[https://www.ilsole24ore.com/art/italia-paese-i-piu-longevi-834-anni-speranza-vita-nascita-AIuMvJNC][Italia paese tra i più longevi: 83,4 anni di speranza di vita alla nascita]]
+- [[https://www.ilsole24ore.com/art/frana-molise-italia-divisa-due-dorsale-adriatica-AIMKWKOC][Frana in Molise, Italia divisa in due sulla dorsale Adriatica]]
+- [[https://www.ilsole24ore.com/art/targhe-alterne-lavoro-agile-limiti-velocita-antidoti-caro-energia-AIOPJcNC][Targhe alterne, lavoro agile, limiti alla velocità: gli antidoti al caro energia]]
+- [[https://www.ilsole24ore.com/art/legambiente-spiagge-raccolti-77-mozziconi-sigaretta-ogni-100-metri-AIegAjNC][Legambiente: nelle spiagge raccolti 77 mozziconi di sigaretta  ogni 100 metri]]
+- [[https://www.ilsole24ore.com/art/irini-aspides-e-atalanta-ora-l-italia-guida-tutte-missioni-marittime-ue-AInR4BOC][Irini, Aspides e Atalanta: ora l’Italia guida tutte le missioni marittime Ue]]
+- [[https://www.ilsole24ore.com/art/femminicidio-caso-resinovich-delitto-cirillo-chi-uccide-perde-diritto-spoglie-AIsAIKNC][Femminicidio, dal caso Resinovich al delitto Cirillo: chi uccide perde il diritto sulle spoglie]]
 
 ** 🇩🇪 Alemania
 
@@ -151,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/hungarians-living-in-ukraine-caught-between-front-lines/a-76664206?maca=en-rss-en-world-4025-rdf][Hungarians living in Ukraine caught between front lines]]
+- [[https://www.dw.com/en/turkey-dw-correspondent-alican-uludag-remains-in-custody/a-76698562?maca=en-rss-en-world-4025-rdf][Turkey: DW correspondent Alican Uludag remains in custody]]
 - [[https://www.dw.com/en/afghanistan-pakistan-held-useful-peace-talks-kabul-says/a-76698827?maca=en-rss-en-world-4025-rdf][Afghanistan, Pakistan held 'useful' peace talks, Kabul says]]
 - [[https://www.dw.com/en/virtual-romanian-singer-goes-viral-but-sparks-criticism/a-76697967?maca=en-rss-en-world-4025-rdf][Virtual Romanian singer goes viral but sparks criticism]]
 - [[https://www.dw.com/en/ukraine-several-killed-as-russia-strikes-bus-other-targets/a-76697817?maca=en-rss-en-world-4025-rdf][Ukraine: Several killed as Russia strikes bus, other targets]]
-- [[https://www.dw.com/en/south-korea-turns-to-eu-to-revive-talks-with-the-north/a-76690973?maca=en-rss-en-world-4025-rdf][South Korea turns to EU to revive talks with the North]]
-- [[https://www.dw.com/en/inside-india-s-courts-ai-s-growing-role-sparks-concern/a-76653611?maca=en-rss-en-world-4025-rdf][Inside India's courts, AI's growing role sparks concern]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/04/bbb-26-samira-e-eliminada-com-5124-dos-votos.shtml][BBB 26: Samira é eliminada com 51,24% dos votos]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/04/valdemar-diz-que-bolsonaro-ficara-dez-anos-preso-se-flavio-perder-a-eleicao.shtml][Valdemar diz que Bolsonaro ficará dez anos preso se Flávio perder a eleição]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/04/teera-segue-vida-normal-mesmo-com-ameaca-de-trump-diz-embaixador-do-brasil.shtml][Teerã segue vida normal mesmo com ameaça de Trump, diz embaixador do Brasil]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/04/fotos-da-artemis-2-devem-impulsionar-pesquisas-e-novas-viagens-a-lua.shtml][Fotos da Artemis 2 devem impulsionar pesquisas e novas viagens à Lua]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/04/helo-sanvoy-explora-violencia-e-fetiche-com-obras-de-couro-e-vidro.shtml][Helô Sanvoy explora violência e fetiche com obras de couro e vidro]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/bombeiros-combatem-incendio-no-velodromo-do-parque-olimpico-no-rio.shtml][Bombeiros combatem incêndio no velódromo do Parque Olímpico, no Rio]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/vagas-de-babas-de-luxo-como-a-de-virginia-fonseca-exigem-graduacao-e-disponibilidade-para-viajar.shtml][Vagas de babás de luxo, como a de Virginia Fonseca, exigem graduação e disponibilidade para viajar]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/04/artemis-2-treinou-por-dois-anos-e-ate-com-lua-inflavel-para-fotografar-em-gravidade-zero.shtml][Artemis 2 treinou por dois anos e até com Lua inflável para fotografar em gravidade zero]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/04/cientistas-fazem-primeiro-registro-de-cabecadas-de-cachalotes-como-em-moby-dick.shtml][Cientistas fazem primeiro registro de cabeçadas de cachalotes, como em Moby Dick]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/04/governo-nao-descarta-novas-medidas-para-frear-alta-dos-combustiveis.shtml][Governo não descarta novas medidas para frear alta dos combustíveis]]
 
 *** O Globo
 
