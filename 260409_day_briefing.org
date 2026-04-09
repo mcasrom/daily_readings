@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 39.7°C | ⚖ Load: 0.00 | 🌐 Ping: 9.59ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 39.7°C | ⚖ Load: 0.00 | 🌐 Ping: 9.18ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -42,26 +42,22 @@
 *** El País
 
 - [[https://elpais.com/internacional/2026-04-08/nuevos-ataques-en-oriente-proximo-muestran-la-fragilidad-del-alto-el-fuego-entre-estados-unidos-e-iran.html][Nuevos ataques en Oriente Próximo muestran la fragilidad del alto el fuego entre Estados Unidos e Irán]]
+- [[https://elpais.com/internacional/2026-04-08/rutte-a-trump-la-gran-mayoria-de-paises-europeos-ha-colaborado-con-estados-unidos.html][Trump vuelve a cargar contra la OTAN: “No estuvo ahí cuando la necesitábamos”]]
+- [[https://elpais.com/videos/2026-04-08/es-posible-destituir-a-trump-por-razones-de-salud-mental.html][¿Es posible destituir a Trump por razones de salud mental?]]
 - [[https://elpais.com/internacional/2026-04-08/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html][Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | La Casa Blanca denuncia que Irán ha difundido su propuesta de tregua y no la consensuada]]
 - [[https://elpais.com/internacional/2026-04-08/israel-mantiene-los-bombardeos-sobre-libano-tras-separar-a-ese-frente-de-la-tregua-con-iran.html][Israel causa más de 250 muertos en Líbano tras lanzar 160 bombas, su mayor oleada de la guerra]]
-- [[https://elpais.com/internacional/2026-04-08/yo-donald-trump-soy-el-imperio-al-final-de-la-decadencia.html][Yo, Donald Trump, soy el imperio al final de la decadencia]]
-- [[https://elpais.com/internacional/2026-04-08/claves-del-acuerdo-de-alto-el-fuego-entre-iran-y-estados-unidos.html][Acuerdo entre EE UU e Irán: las claves del alto el fuego y sus implicaciones en Oriente Próximo]]
 
 *** El Mundo
 
 - [[https://www.elmundo.es/internacional/2026/04/08/69d6bac9fc6c835d2f8b45b9.html][El alto el fuego se tambalea con malentendidos, acusaciones mutuas y nuevas amenazas]]
-- [[https://www.elmundo.es/internacional/2026/04/08/69d6556821efa0c6518b4584.html][Los ayatolás atacan a los países del Golfo y "destruirán" los barcos que pasen por Ormuz sin permiso]]
-- [[https://www.elmundo.es/internacional/2026/04/08/69d6587ae9cf4a156a8b4598.html][Al menos 112 muertos y 837 heridos en los peores bombardeos de Israel sobre el Líbano desde el inicio de la guerra]]
-- [[https://www.elmundo.es/economia/empresas/2026/04/08/69d67d72e9cf4af9508b459c.html][Corredor se revuelve ante los audios que cuestionan la gestión de Red Eléctrica: "Terceras partes buscan deslegitimar los análisis oficiales"]]
-- [[https://www.elmundo.es/espana/2026/04/08/69d6320ae9cf4a67308b4587.html][La amiga "virtual" de Ábalos colocada en una filial de Renfe declara que iba en horario laboral a "leer libros de trenes a la biblioteca de Oviedo"]]
+- [[https://www.elmundo.es/economia/dinero-inversion/2026/04/09/69d665fae9cf4a78088b4593.html][Los inversores compran la segunda 'reculada' de Trump en un año dentro de un guion que ya conocen: llegan curvas durante meses hasta la solución final]]
+- [[https://www.elmundo.es/internacional/2026/04/08/69d67d14e9cf4a63478b45b7.html][El nuevo Estrecho de Ormuz en poder de Irán]]
+- [[https://www.elmundo.es/espana/2026/04/09/69d68f4b21efa001738b45a2.html][Día de alerta roja para Sánchez y Montero en el TS: bolsas con 45.000 euros en Ferraz y el asesor del favor a Aldama con Hacienda]]
+- [[https://www.elmundo.es/espana/2026/04/08/69d68e5721efa0e3368b45ae.html][Dos ex amantes de Ábalos apuntalan ante el Supremo el tráfico de influencias del ministro en empresas públicas]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/internacional/20260408/11508632/ee-uu-e-iran-claman-victoria-aceptar-fragil-tregua-dos-semanas.html][Tregua endeble entre Irán y EE.UU.]]
-- [[https://www.lavanguardia.com/internacional/20260408/11508620/israel-lanza-mayor-ataque-sobre-libano-inicio-guerra-pesar-alto-fuego.html][Líbano denuncia “masacres” en el mayor ataque israelí desde que se inició la guerra]]
-- [[https://www.lavanguardia.com/internacional/20260408/11508567/actividad-maritima-ormuz-sigue-minimos-pese-anuncio-alto-fuego.html][La actividad marítima en Ormuz sigue en mínimos pese al anuncio de alto el fuego]]
-- [[https://www.lavanguardia.com/economia/20260408/11508244/precio-petroleo-hunde-mas-12-95-dolares-anuncio-alto-fuego-estados-unidos-e-iran.html][El precio del petróleo se hunde y las bolsas se disparan con el anuncio del alto el fuego entre EE.UU. e Irán]]
-- [[https://www.lavanguardia.com/internacional/20260408/11508514/ue-aplaude-alto-fuego-pide-solucion-duradera-conflicto-iran.html][La UE aplaude el alto el fuego y pide una solución duradera para el conflicto en Irán]]
+- /Feed no disponible temporalmente/
 
 *** El Diario de Cantabria
 
@@ -75,29 +71,29 @@
 
 *** The Washington Post
 
-- [[https://www.washingtonpost.com/world/2026/04/08/trump-iran-war-ceasefire-israel/][Iran accuses U.S. and Israel of ceasefire violations, threatening truce]]
+- [[https://www.washingtonpost.com/politics/2026/04/08/trump-nato-withdrawal-rutte/][Trump vents at NATO but avoids rupture after meeting with alliance’s leader]]
+- [[https://www.washingtonpost.com/world/2026/04/08/israel-strikes-beirut-lebanon-iran-ceasefire/][Israel kills scores in Beirut as U.S. says Lebanon is not part of Iran truce]]
+- [[https://www.washingtonpost.com/world/2026/04/08/trump-iran-war-ceasefire-israel/][Airstrikes, turmoil in Strait of Hormuz imperil ceasefire with Iran]]
 - [[https://www.washingtonpost.com/national-security/2026/04/08/hegseth-caine-iran-ceasefire/][As Hegseth proclaims victory in Iran war, Caine takes cautious tone]]
-- [[https://www.washingtonpost.com/world/2026/04/08/israel-strikes-beirut-lebanon-iran-ceasefire/][Israel kills dozens in Beirut, says Lebanon is not part of Iran truce]]
 - [[https://www.washingtonpost.com/national-security/2026/04/07/trump-iran-war-funding/][Trump administration expected to slash Iran war funding request]]
-- [[https://www.washingtonpost.com/world/2026/04/08/hungary-iran-hezbollah-trump-orban/][After pager attack on Hezbollah, Hungary offered help to Iran]]
 
 *** WSJ.com: World News
 
-- [[https://www.wsj.com/world/middle-east/a-closer-look-at-irans-10-demandsand-which-the-u-s-might-accept-c0148284][A Closer Look at Iran’s 10 Demands—and Which the U.S. Might Accept]]
-- [[https://www.wsj.com/world/middle-east/iran-cease-fire-terms-explained-3a35fb92][Here’s What We Know About the U.S. Cease-Fire With Iran—and What Happens Next]]
-- [[https://www.wsj.com/world/europe/trump-weighs-punishing-certain-nato-countries-over-lack-of-iran-war-support-a2361995][Trump Weighs Punishing Certain NATO Countries Over Lack of Iran War Support]]
-- [[https://www.wsj.com/world/middle-east/whats-happening-in-the-strait-of-hormuz-since-the-cease-fire-902f1ab0][What’s Happening in the Strait of Hormuz Since the Cease-Fire?]]
-- [[https://www.wsj.com/world/middle-east/iran-tightens-its-grip-on-hormuz-despite-cease-fire-5027521f][Iran Tightens Its Grip on Hormuz Despite Cease-Fire]]
+- [[https://www.wsj.com/world/middle-east/cease-fire-teeters-on-its-first-day-8b61bc01][Cease-Fire Teeters on Its First Day]]
+- [[https://www.wsj.com/tech/inside-the-race-to-protect-submarine-cables-from-sabotage-c90ba18c][Inside the Race to Protect Submarine Cables From Sabotage]]
+- [[https://www.wsj.com/world/middle-east/a-prospectus-for-the-tehran-toll-booth-ipo-43c06a87][A Prospectus for the ‘Tehran Toll Booth’ IPO]]
+- [[https://www.wsj.com/world/americas/venezuelas-prisons-are-still-full-of-military-rebels-despite-u-s-pressure-9a43ee28][Venezuela’s Prisons Are Still Full of Military Rebels Despite U.S. Pressure]]
+- [[https://www.wsj.com/world/middle-east/why-iran-thinks-it-won-the-war-despite-huge-military-losses-94c60ac7][Why Iran Thinks It Won the War Despite Huge Military Losses]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/04/08/en-direct-guerre-au-moyen-orient-un-cessez-le-feu-au-liban-est-une-des-conditions-essentielles-de-l-iran-dit-son-president-a-emmanuel-macron-apres-une-journee-marquee-par-les-frappes-israeliennes_6676633_3210.html][EN DIRECT, guerre au Moyen-Orient : un cessez-le-feu au Liban est une des « conditions essentielles » de l’Iran, dit son président à Emmanuel Macron, après une journée marquée par les frappes israéliennes]]
+- [[https://www.lemonde.fr/international/article/2026/04/09/guerre-en-iran-un-cessez-le-feu-en-forme-de-debacle-strategique-pour-les-etats-unis_6678464_3210.html][Guerre en Iran : un cessez-le-feu en forme de débâcle stratégique pour les Etats-Unis]]
+- [[https://www.lemonde.fr/economie/article/2026/04/09/delphine-ernotte-cunci-la-presidente-de-france-televisions-regle-ses-comptes-lors-de-l-ultime-audition-de-la-commission-sur-l-audiovisuel-public_6678463_3234.html][Delphine Ernotte-Cunci, la présidente de France Télévisions, règle ses comptes lors de l’ultime audition de la commission sur l’audiovisuel public]]
+- [[https://www.lemonde.fr/afrique/article/2026/04/08/le-combat-solitaire-du-somaliland-face-a-la-mortalite-maternelle-et-infantile_6678287_3212.html][Le combat solitaire du Somaliland face à la mortalité maternelle et infantile]]
 - [[https://www.lemonde.fr/societe/article/2026/04/08/au-proces-en-appel-de-l-affaire-libyenne-comment-nicolas-sarkozy-a-methodiquement-sacrifie-le-fidele-claude-gueant_6678322_3224.html][Au procès en appel de l’affaire libyenne, comment Nicolas Sarkozy a méthodiquement sacrifié le fidèle Claude Guéant]]
-- [[https://www.lemonde.fr/societe/article/2026/04/08/comment-la-crise-du-logement-pese-sur-les-relations-entre-proprietaires-et-locataires_6678155_3224.html][Comment la crise du logement pèse sur les relations entre propriétaires et locataires]]
-- [[https://www.lemonde.fr/international/live/2026/04/08/en-direct-guerre-en-ukraine-la-russie-menace-a-nouveau-les-pays-tiers-qui-autorisent-le-survol-de-leur-territoire-aux-drones-ukrainiens_6676836_3210.html][EN DIRECT, guerre en Ukraine : la Russie menace à nouveau les « pays tiers » qui autorisent le survol de leur territoire aux drones ukrainiens]]
-- [[https://www.lemonde.fr/politique/article/2026/04/08/fin-a-la-limite-de-deux-renouvellements-des-cdd-et-des-delais-de-carences-les-propositions-chocs-du-patronat-sur-les-contrats-courts_6678288_823448.html][Le patronat dévoile ses propositions-chocs sur les contrats courts et souhaite mettre fin à la limite de deux renouvellements des CDD et aux délais de carence]]
+- [[https://www.lemonde.fr/politique/article/2026/04/09/assemblee-de-la-polynesie-francaise-les-dissidents-du-groupe-independantiste-tavini-creent-un-nouveau-parti-a-fano-ti-a_6678501_823448.html][Assemblée de la Polynésie française : les dissidents du groupe indépendantiste Tavini créent un nouveau parti, A Fano Ti’a]]
 
 *** Le Figaro
 
@@ -111,11 +107,11 @@
 
 *** BBC News
 
+- [[https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss][Trump criticises Nato as alliance chief describes meeting as 'very frank']]
 - [[https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss][Iran ceasefire deal gives Trump a way out of war - but at a high cost]]
 - [[https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss][What we know about the two-week ceasefire between the US and Iran]]
 - [[https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss][At least 182 killed across Lebanon in large wave of Israeli strikes]]
-- [[https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss][Oil prices plunge and shares jump on US-Iran ceasefire plan]]
-- [[https://www.bbc.com/news/articles/ckgx1x742x5o?at_medium=RSS&at_campaign=rss][Greece to ban social media for under-15s from next year]]
+- [[https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss][He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case]]
 
 *** The Guardian
 
@@ -155,21 +151,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/trump-criticizes-nato-over-iran-in-meeting-with-rutte/a-76715197?maca=en-rss-en-world-4025-rdf][Trump criticizes NATO over Iran in meeting with Rutte]]
 - [[https://www.dw.com/en/iran-war-who-gained-ground-who-lost-influence/a-76712134?maca=en-rss-en-world-4025-rdf][Iran war: who gained ground, who lost influence]]
 - [[https://www.dw.com/en/norway-s-telenor-faces-lawsuit-for-giving-junta-data-from-its-customers-in-myanmar/a-76710104?maca=en-rss-en-world-4025-rdf][Norway's Telenor faces lawsuit for giving junta data from its customers in Myanmar]]
 - [[https://www.dw.com/en/nigeria-at-least-20-killed-in-attack-residents-say/a-76711053?maca=en-rss-en-world-4025-rdf][Nigeria: At least 20 killed in attack, residents say]]
 - [[https://www.dw.com/en/iran-doubles-down-on-executions-amid-us-israeli-war/a-76710640?maca=en-rss-en-world-4025-rdf][Iran doubles down on executions amid US-Israeli war]]
-- [[https://www.dw.com/en/jd-vance-criticizes-zelenskyy-and-ukraine-in-hungary-on-visit-campaigning-for-viktor-orban/a-76706045?maca=en-rss-en-world-4025-rdf][JD Vance criticizes Zelenskyy and Ukraine in Hungary on visit campaigning for Viktor Orban]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/04/forum-da-liberdade-reune-presidenciaveis-guedes-e-hang-em-porto-alegre.shtml][Fórum da Liberdade reúne presidenciáveis, Guedes e Hang em Porto Alegre]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/04/brasil-tem-4-museus-entre-os-100-mais-visitados-do-mundo-no-ano-passado.shtml][Brasil tem 4 museus entre os 100 mais visitados do mundo no ano passado]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/04/carolina-ferraz-deixa-o-comando-do-domingo-espetacular-apos-seis-anos.shtml][Carolina Ferraz deixa o comando do Domingo Espetacular após seis anos]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/04/ministros-do-stf-discutem-manter-governador-interino-do-rj-ate-outubro-e-unificar-eleicoes.shtml][Ministros do STF discutem manter governador interino do RJ até outubro e 'unificar' eleições]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/04/inscricoes-para-encontro-nacional-de-ensino-de-jornalismo-vao-ate-20-de-abril.shtml][Inscrições para Encontro Nacional de Ensino de Jornalismo vão até 20 de abril]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/04/public-image-ltd-retorna-ao-brasil-entre-rebeldia-e-contemplacao.shtml][Public Image Ltd retorna ao Brasil entre rebeldia e contemplação]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/thiago-amparo/2026/04/estreito-de-hormuz-e-a-lei.shtml][Estreito de Hormuz e a lei]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/04/tribunal-dos-eua-anula-condenacao-de-45-anos-de-ex-presidente-hondurenho.shtml][Tribunal dos EUA anula condenação de 45 anos de ex-presidente hondurenho]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/04/palmeiras-busca-empate-na-colombia-em-estreia-na-libertadores.shtml][Palmeiras busca empate na Colômbia em estreia na Libertadores]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/04/bbb-26-milena-passa-o-dia-lamentando-saida-de-samira-e-guarda-fio-de-cabelo-da-sister.shtml][BBB 26: Milena passa o dia lamentando saída de Samira e guarda fio de cabelo da sister]]
 
 *** O Globo
 
