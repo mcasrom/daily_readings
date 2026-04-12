@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 40.8°C | ⚖ Load: 0.40 | 🌐 Ping: 9.55ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 41.9°C | ⚖ Load: 0.16 | 🌐 Ping: 9.56ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,23 +41,27 @@
 
 *** El País
 
-- [[https://elpais.com/internacional/2026-04-11/estados-unidos-e-iran-avanzan-con-pies-de-plomo-en-una-negociacion-historica-en-islamabad.html][Estados Unidos e Irán avanzan con pies de plomo en una negociación histórica en Islamabad]]
+- [[https://elpais.com/internacional/2026-04-11/estados-unidos-e-iran-avanzan-con-pies-de-plomo-en-una-negociacion-historica-en-islamabad.html][Estados Unidos e Irán interrumpen las negociaciones pero no dan por roto el diálogo]]
+- [[https://elpais.com/internacional/2026-04-11/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html][Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Teherán defiende su posición y acusa a Washington de “exigencias excesivas” en las conversaciones]]
 - [[https://elpais.com/internacional/2026-04-11/netanyahu-obstaculiza-con-su-ofensiva-en-libano-un-alto-el-fuego-en-el-que-no-cree.html][Netanyahu obstaculiza con su ofensiva en Líbano un alto el fuego en el que no cree]]
 - [[https://elpais.com/internacional/2026-04-11/defensa-mosaico-la-estrategia-con-la-que-iran-resiste-la-embestida-de-estados-unidos-e-israel.html][‘Defensa mosaico’, la estrategia con la que Irán resiste la embestida de Estados Unidos e Israel]]
-- [[https://elpais.com/ciencia/2026-04-11/los-astronautas-de-artemis-2-aterrizan-y-concluyen-una-mision-historica-que-ha-llevado-a-los-humanos-a-la-luna-mas-de-50-anos-despues.html][Los astronautas de Artemis 2 aterrizan y concluyen una misión histórica que ha llevado a los humanos a la Luna más de 50 años después]]
-- [[https://elpais.com/ciencia/2026-04-11/el-lazo-de-artemis-2.html][El lazo de Artemis 2]]
+- [[https://elpais.com/videos/2026-04-11/como-continua-el-programa-artemis-y-cuando-sera-la-proxima-mision-a-la-luna.html][¿Cómo continúa el programa Artemis y cuándo será la próxima misión a la Luna?]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/internacional/2026/04/10/69d91bf221efa00c418b457b.html][Hungría: Magyar desafía a Orban con una alternativa aún por construir]]
-- [[https://www.elmundo.es/internacional/2026/04/11/69d920c5e9cf4a777a8b45a2.html]["Todos cruzamos los dedos": la UE suspira por la derrota electoral de Orban, pero nadie espera "un cambio total" en Hungría]]
-- [[https://www.elmundo.es/cronica/2026/04/11/69d68b0de9cf4a87018b458e.html][El batallón de torturadores marroquíes (y un neerlandés) que se ha fugado de España tras propinarle 50 latigazos a un narco por perder 600 kilos de hachís]]
-- [[https://www.elmundo.es/papel/historias/2026/04/11/69da292cfc6c831b398b459d.html][Orgullo y furor en EEUU por el regreso de los astronautas de Artemis 2: el espacio entusiasma tanto a demócratas como a republicanos]]
-- [[https://www.elmundo.es/internacional/2026/04/11/69d9d190e4d4d8d55c8b456d.html][Negociaciones EEUU-Irán: Juego de narrativas en Pakistán ante la falta de acuerdos sólidos]]
+- [[https://www.elmundo.es/espana/2026/04/11/69da7776fdddff89628b456f.html][Las 72 horas de juicio que arrasaron el discurso con el que Pedro Sánchez llegó al poder]]
+- [[https://www.elmundo.es/espana/2026/04/11/69da72d9fc6c8345338b4579.html][Así lanza Vox a sus cargos en las redes sociales contra las "traiciones" de los críticos: "Esto nos concierne a todos"]]
+- [[https://www.elmundo.es/internacional/2026/04/12/69da5f4321efa075678b4596.html][Viktor Orban prepara el relato para 'impugnar' el resultado antes de la votación de hoy en Hungría]]
+- [[https://www.elmundo.es/cronica/2026/04/11/69da0f5be85ece914d8b4591.html][La batalla política y cultural entre Aragón y Cataluña por las pinturas que la Generalitat debe devolver por sentencia en el Supremo: "Las instituciones catalanas siguen reteniendo las obras de Sijena"]]
+- [[https://www.elmundo.es/internacional/2026/04/11/69d8fc50e9cf4a7c368b45a7.html][Tamás Dombos, activista gay húngaro: "Hungría no es un país uniformemente homófobo; es un país donde el poder ha decidido usar esos prejuicios"]]
 
 *** La Vanguardia
 
-- /Feed no disponible temporalmente/
+- [[https://www.lavanguardia.com/internacional/20260411/11511217/iranies-estadounidenses-negocian-ormuz-principal-escollo.html][Iraníes y estadounidenses negocian con Ormuz como principal escollo]]
+- [[https://www.lavanguardia.com/internacional/20260411/11510989/nuevo-lider-supremo-iran-heridas-graves-desfigurantes.html][El nuevo líder supremo de Irán tiene heridas graves y desfigurantes]]
+- [[https://www.lavanguardia.com/politica/20260411/11511139/israel-convoca-encargada-negocios-espanola-quema-muneco-netanyahu-burgo.html][Israel convoca a la máxima responsable de la embajada por la quema de un muñeco de Netanyahu]]
+- [[https://www.lavanguardia.com/internacional/20260411/11511147/grito-papa-delirio-agresivo-locura-guerra.html][El grito del Papa contra el “delirio agresivo” y la “locura” de la guerra]]
+- [[https://www.lavanguardia.com/opinion/20260412/11511106/papa-catolico.html][¿El Papa es católico?]]
 
 *** El Diario de Cantabria
 
@@ -71,7 +75,7 @@
 
 *** The Washington Post
 
-- [[https://www.washingtonpost.com/world/2026/04/11/us-iran-islamabad-hormuz-ceasefire/][Direct U.S.-Iran talks on ending war stretch past midnight in Islamabad]]
+- [[https://www.washingtonpost.com/world/2026/04/11/us-iran-islamabad-hormuz-ceasefire/][Direct U.S.-Iran talks fail to reach resolution after lengthy negotiation]]
 - [[https://www.washingtonpost.com/lifestyle/2026/04/11/bebe-parrot-underwater-submarine-video/][Parrot goes on underwater adventure in his custom-built submarine]]
 - [[https://www.washingtonpost.com/national-security/2026/04/10/us-iran-peace-talks-ceasefire-pakistan/][U.S., Iran prepare for peace talks with a gulf separating the two sides]]
 - [[https://www.washingtonpost.com/world/2026/04/10/iran-united-states-war-peace-talks/][What will it take for U.S. and Iran to end war? Here’s what we know.]]
@@ -79,39 +83,39 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/middle-east/the-u-s-sank-one-of-irans-navies-the-other-still-controls-hormuz-98ea16ff][The U.S. Sank One of Iran’s Navies. The Other Still Controls Hormuz.]]
+- [[https://www.wsj.com/world/middle-east/iran-uranium-stockpile-strategy-333bcc1e][Iran’s Nuclear Program Has Survived, Clouding Talks]]
+- [[https://www.wsj.com/world/middle-east/pakistani-capital-becomes-a-ghost-town-during-iran-talks-b57ec9b9][Pakistani Capital Becomes a Ghost Town During Iran Talks]]
 - [[https://www.wsj.com/world/middle-east/a-naval-standoff-in-hormuz-shows-the-high-stakes-in-u-s-iran-talks-f18df19a][A Naval Standoff in Hormuz Shows the High Stakes in U.S.-Iran Talks]]
 - [[https://www.wsj.com/world/china/how-hong-kong-helps-the-flow-of-irans-hidden-billions-cfffb913][How Hong Kong Helps the Flow of Iran’s Hidden Billions]]
-- [[https://www.wsj.com/world/us-enemies-war-culture-b1d140e6][Why Iran and Other Regimes Are So Hard to Break]]
-- [[https://www.wsj.com/world/america-has-wanted-greenland-for-over-a-century-trump-isnt-giving-up-fef0f397][America Has Wanted Greenland for Over a Century. Trump Isn’t Giving Up.]]
-- [[https://www.wsj.com/world/middle-east/polymarket-iran-war-bets-975909a3][Polymarket’s $269 Million Question: Did U.S. Forces ‘Enter’ Iran?]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/04/11/en-direct-benyamin-netanyahou-soutient-qu-israel-a-aneanti-les-programmes-nucleaire-et-balistique-iraniens-les-etats-unis-affirment-que-deux-de-leurs-navires-ont-traverse-le-detroit-d-ormuz_6676633_3210.html][EN DIRECT - Benyamin Nétanyahou soutient qu’Israël a « anéanti » les programmes nucléaire et balistique iraniens ; les Etats-Unis affirment que deux de leurs navires ont traversé le détroit d’Ormuz]]
-- [[https://www.lemonde.fr/international/live/2026/04/11/en-direct-guerre-en-ukraine-la-treve-pascale-entre-moscou-et-kiev-doit-durer-jusqu-a-dimanche-soir_6676836_3210.html][EN DIRECT, guerre en Ukraine : l’armée ukrainienne affirme que les forces russes ont déjà violé à 469 reprises la trêve pascale proposée par le Kremlin]]
+- [[https://www.lemonde.fr/international/live/2026/04/12/en-direct-guerre-en-iran-les-negociations-entre-teheran-et-washington-se-poursuivent-toute-tentative-de-navires-militaires-de-franchir-le-detroit-d-ormuz-fera-l-objet-d-une-reaction-severe-menacent-les-gardiens-de-la-revolution_6676633_3210.html][EN DIRECT, guerre en Iran : J. D. Vance annonce que les Etats-Unis « n’ont pas obtenu d’accord » avec Téhéran et que la délégation américaine quitte le Pakistan]]
 - [[https://www.lemonde.fr/idees/article/2026/04/11/la-guerre-a-l-heure-de-l-ia-comment-les-algorithmes-bousculent-l-ethique-militaire_6679370_3232.html][La guerre à l’heure de l’IA : comment les algorithmes bousculent l’éthique militaire]]
+- [[https://www.lemonde.fr/campus/article/2026/04/11/ma-mere-est-stressee-par-a-peu-pres-tout-et-beaucoup-sur-mon-dos-entrer-dans-l-age-adulte-avec-des-parents-trop-presents_6679382_4401467.html][« Ma mère est stressée par à peu près tout, et beaucoup sur mon dos » : entrer dans l’âge adulte avec des parents trop présents]]
 - [[https://www.lemonde.fr/international/article/2026/04/11/boualem-sansal-resolu-a-attaquer-en-justice-le-president-algerien-abdelmadjid-tebboune_6679387_3210.html][Boualem Sansal résolu à attaquer en justice le président algérien Abdelmadjid Tebboune]]
-- [[https://www.lemonde.fr/le-monde-des-religions/article/2026/04/11/hela-ouardi-chercheuse-explorer-la-vie-privee-du-prophete-de-l-islam-permet-de-reecrire-sa-biographie-de-fond-en-comble_6679322_6038514.html][Hela Ouardi, chercheuse : « Explorer la vie privée du prophète de l’islam permet de réécrire sa biographie de fond en comble »]]
+- [[https://www.lemonde.fr/international/live/2026/04/12/en-direct-guerre-en-ukraine-l-armee-ukrainienne-a-fait-etat-de-violations-de-la-treve-pascale-sur-le-front-volodymyr-zelensky-a-propose-a-la-russie-une-prolongation-du-cessez-le-feu-au-dela-de-dimanche_6679492_3210.html][EN DIRECT, guerre en Ukraine : l’armée ukrainienne a fait état de violations de la trêve pascale sur le front, Volodymyr Zelensky a proposé à la Russie une prolongation du cessez-le-feu au-delà de dimanche]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/en-direct-guerre-iran-conflit-moyen-orient-etats-unis-israel-liban-negociations-pakistan-jd-vance-donald-trump-20260411][EN DIRECT - Guerre au Moyen-Orient : l’Iran menace d’agir sévèrement contre les navires militaires transitant par le détroit d’Ormuz]]
+- [[https://www.lefigaro.fr/international/en-direct-guerre-iran-conflit-moyen-orient-etats-unis-israel-liban-negociations-pakistan-jd-vance-donald-trump-20260411][EN DIRECT - Guerre au Moyen-Orient : Vance quitte le Pakistan après l’échec des négociations avec l’Iran]]
 - [[https://www.lefigaro.fr/international/detroit-d-ormuz-le-prix-de-la-paix-et-la-logique-paradoxale-d-un-peage-impose-par-les-mollahs-20260411][Détroit d’Ormuz : le prix de la paix et la logique paradoxale d’un péage imposé par les mollahs]]
+- [[https://www.lefigaro.fr/international/londres-plus-de-500-manifestants-soutenant-le-groupe-palestine-action-arretes-20260412][Londres : plus de 500 manifestants soutenant le groupe Palestine Action arrêtés]]
 - [[https://www.lefigaro.fr/international/guerre-au-moyen-orient-netanyahou-affirme-qu-israel-a-aneanti-les-programmes-nucleaire-et-balistique-iraniens-20260411][Guerre au Moyen-Orient : Netanyahou affirme qu'Israël a «anéanti» les programmes nucléaire et balistique iraniens]]
 - [[https://www.lefigaro.fr/international/iran-la-reouverture-du-detroit-d-ormuz-ralentie-par-les-mines-iraniennes-que-teheran-peine-a-localiser-selon-washington-20260411][Iran : la réouverture du détroit d’Ormuz ralentie par les mines iraniennes que Téhéran peine à localiser, selon Washington]]
-- [[https://www.lefigaro.fr/international/la-maison-blanche-affirme-que-les-pourparlers-trilateraux-de-haut-niveau-avec-l-iran-et-le-pakistan-sont-en-cours-20260411][La Maison-Blanche affirme que les pourparlers trilatéraux de haut niveau avec l’Iran et le Pakistan sont «en cours»]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss][Artemis crew home safely after completing historic mission to the Moon]]
+- [[https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss][Hungarians decide whether to end 16 years of Orbán rule and elect rival]]
+- [[https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss]['It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston]]
+- [[https://www.bbc.com/news/articles/cx237vmr2lyo?at_medium=RSS&at_campaign=rss][Why this disillusioned Trump voter spends hours searching Epstein files]]
+- [[https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&at_campaign=rss][Prosecutor probes abuse claims against California governor candidate Swalwell]]
 - [[https://www.bbc.com/news/articles/cz67yy0006jo?at_medium=RSS&at_campaign=rss][Knifeman calling himself 'Lucifer' slashes three at NYC's Grand Central]]
-- [[https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss][Frontrunner for California governor denies sexual assault allegations]]
-- [[https://www.bbc.com/news/articles/cvge1kdmpzwo?at_medium=RSS&at_campaign=rss][Nearly 400 sentenced in Nigeria for links to militant Islamists]]
-- [[https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&at_campaign=rss][Irish cabinet meeting to be held to discuss ongoing fuel protests]]
 
 *** The Guardian
 
@@ -161,11 +165,11 @@
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/04/governo-aposta-em-acoes-na-economia-para-melhorar-desempenho-de-lula-direita-explora-rejeicao-a-petista.shtml][Governo aposta em ações na economia para melhorar desempenho de Lula; direita explora rejeição a petista]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/aegea-refaz-balanco-de-2024-com-baixa-de-r-5-bi-apos-rever-perdas-de-credito-e-investimentos.shtml][Aegea refaz balanço de 2024 com baixa de R$ 5 bi após rever perdas de crédito e investimentos]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/04/morre-john-nolan-ator-de-batman-e-tio-de-christopher-nolan-aos-87.shtml][Morre John Nolan, ator de 'Batman' e tio de Christopher Nolan, aos 87]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/mulher-e-imobilizada-pela-pm-na-paulista-na-frente-da-filha.shtml][Mulher é imobilizada pela PM na Paulista na frente da filha]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/04/musica-pode-ser-tao-potente-no-cerebro-quanto-medicamentos-escreve-neurocientista.shtml][Música pode ser tão potente no cérebro quanto medicamentos, escreve neurocientista]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/04/selecao-brasileira-feminina-goleia-coreia-do-sul-por-5-a-1-na-estreia-na-fifa-series.shtml][Seleção brasileira feminina goleia Coreia do Sul por 5 a 1 na estreia na Fifa Series]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/04/ex-modelo-brasileira-ameaca-expor-sistema-corrupto-de-melania-e-chama-trump-de-pedofilo.shtml][Ex-modelo brasileira ameaça expor 'sistema corrupto' de Melania e chama Trump de 'pedófilo']]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/sobre-trilhos/2026/04/parana-tem-rota-de-trem-alternativa-a-famosa-curitiba-morretes.shtml][Paraná tem rota de trem alternativa à famosa Curitiba-Morretes]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/04/rolling-stones-lancam-rough-and-twisted-faixa-inedita-que-antecipa-novo-album.shtml][Rolling Stones lançam 'Rough and Twisted', faixa inédita que antecipa novo álbum]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/giovana-madalosso/2026/04/minha-carne-publica.shtml][Minha carne pública]]
 
 *** O Globo
 
