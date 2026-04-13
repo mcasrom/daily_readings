@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 39.7°C | ⚖ Load: 0.88 | 🌐 Ping: 15.6ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 41.3°C | ⚖ Load: 0.00 | 🌐 Ping: 9.36ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,67 +41,71 @@
 
 *** El País
 
-- [[https://elpais.com/internacional/2026-04-12/los-primeros-resultados-oficiales-en-hungria-apuntan-a-la-victoria-de-tisza-con-el-334-escrutado.html][El líder opositor Péter Magyar arrasa en las elecciones de Hungría y pone fin a los 16 años de la era Orbán, que admite su derrota]]
-- [[https://elpais.com/internacional/2026-04-12/peter-magyar-el-hombre-que-admiraba-a-orban-y-acabo-con-el.html][Péter Magyar, el hombre que admiraba a Orbán y acabó con él]]
-- [[https://elpais.com/internacional/2026-04-12/la-ue-celebra-la-derrota-de-orban-alfil-de-putin-y-trump-hungria-ha-elegido-europa.html][Euforia en la UE por la derrota de Orbán, alfil de Putin y Trump: “Hungría ha elegido Europa”]]
-- [[https://elpais.com/internacional/2026-04-13/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html][Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán equipara el bloqueo de EE UU en Ormuz a “piratería” y advierte de que si sus puertos son amenazados no habrá seguridad “para nadie”]]
-- [[https://elpais.com/internacional/2026-04-12/trump-anuncia-su-propio-bloqueo-naval-del-estrecho-de-ormuz-y-las-negociaciones-quedan-en-el-aire.html][Trump anuncia su propio bloqueo naval del estrecho de Ormuz y las negociaciones quedan en el aire]]
+- [[https://elpais.com/espana/2026-04-13/el-juez-peinado-procesa-a-begona-gomez-por-malversacion-trafico-de-influencias-corrupcion-en-los-negocios-y-apropiacion-indebida-de-marca.html][El juez Peinado procesa a Begoña Gómez por cuatro delitos, incluidos malversación y tráfico de influencias tras una polémica instrucción]]
+- [[https://elpais.com/espana/2026-04-13/peinado-se-cuela-en-el-banquete-de-xi-jinping.html][Peinado se cuela en el banquete de Xi Jinping con Begoña Gómez]]
+- [[https://elpais.com/internacional/2026-04-13/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html][Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump amenaza con “eliminar inmediatamente” los buques iraníes que desafíen el bloqueo de Ormuz]]
+- [[https://elpais.com/internacional/2026-04-13/el-papa-leon-xiv-responde-al-presidente-de-ee-uu-no-tengo-miedo-a-trump-seguire-hablando-contra-la-guerra.html][El papa León XIV responde al presidente de EE UU: “No tengo miedo a Trump. Seguiré hablando contra la guerra”]]
+- [[https://elpais.com/espana/2026-04-13/choque-en-la-iglesia-por-la-visita-del-papa-que-es-eso-de-la-puerta-de-alcala-el-santo-padre-entrara-por-carabanchel.html][Choque en la Iglesia por la visita del Papa: “¿Qué es eso de la Puerta de Alcalá? El Santo Padre entrará por Carabanchel”]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/internacional/2026/04/12/69dbbb95fdddff366f8b456e.html][Orban pierde el poder y Europa frena al trumpismo global]]
-- [[https://www.elmundo.es/internacional/2026/04/12/69d8f0c4fc6c83c17a8b45a6.html][Viktor Orban, el poder que se convirtió en sistema]]
-- [[https://www.elmundo.es/internacional/2026/04/12/69dbfb9efdddff89628b4585.html][La UE se libra de Orban, de las filtraciones a Rusia y del bloqueo a las medidas de ayuda a Ucrania: "Hungría ha elegido Europa"]]
-- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/04/12/69dba2f2fdddffcc548b4576.html][Juanma Moreno arranca la precampaña de las autonómicas del 17-M con la mayoría absoluta a tiro]]
-- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/04/13/69dba5d1fdddff11758b4576.html][El bipartidismo frena a Vox en las provincias y aleja el 'sorpasso' el 17-M]]
+- [[https://www.elmundo.es/espana/2026/04/13/69dcc4a8fc6c831a468b458c.html][El juez Peinado termina la investigación sobre Begoña Gómez y la envía a juicio con jurado por cuatro delitos]]
+- [[https://www.elmundo.es/espana/2026/04/13/69dcd3c421efa01f788b4589.html]["Indignación" en Moncloa por el auto de Peinado que procesa a Gómez: "No es casual que sea coincidiendo con viajes oficiales del presidente al extranjero"]]
+- [[https://www.elmundo.es/espana/2026/04/13/69dcb95321efa0f7698b457e.html][El ex fiscal general recurre en amparo al TC por vulneración de la presunción de inocencia: "La sentencia hace un razonamiento condenatorio irracional"]]
+- [[https://www.elmundo.es/internacional/2026/04/13/69dbb1b2fdddff11758b457d.html][JD Vance, un MAGA anti intervencionista ante el mayor desafío para sus ambiciones presidenciales]]
+- [[https://www.elmundo.es/internacional/2026/04/13/69dce22efdddff9e378b4574.html][Péter Magyar pide la dimisión del presidente húngaro y le acusa de actuar como "títere" de Orban]]
 
 *** La Vanguardia
 
-- /Feed no disponible temporalmente/
+- [[https://www.lavanguardia.com/internacional/20260413/11512380/trump-advierte-buque-irani-desafie-bloqueo-ormuz-sera-eliminado-inmediato.html][Trump advierte que cualquier buque iraní que desafíe su bloqueo en Ormuz será “eliminado”]]
+- [[https://www.lavanguardia.com/economia/20260413/11512109/ue-exige-libertad-navegacion-ormuz-eleva-factura-crisis-22-000-millones.html][La UE exige la libertad de navegación en Ormuz y eleva la factura de la crisis a 22.000 millones]]
+- [[https://www.lavanguardia.com/internacional/20260413/11511896/vaticano-ve-ataque-trump-papa-declaracion-impotencia.html][El Papa: “No tengo miedo de Trump y seguiré hablando contra la guerra”]]
+- [[https://www.lavanguardia.com/internacional/20260413/11511804/trump-ataca-leon-xiv-critico-guerra-iran-debil-terrible-politica-exterior.html][Trump ataca a León XIV, crítico con la guerra de Irán, por ser “débil” y “terrible” en política exterior]]
+- [[https://www.lavanguardia.com/internacional/20260413/11512036/trumpismo-acerca-final.html][El trumpismo se acerca a su final]]
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/santander/detenida-menor-16-anos-amenaza-dos-cuchillos-madre-santander/20260413115502191395.html][Detenida una menor de 16 años amenaza con dos cuchillos a su madre en Santander]]
-- [[https://eldiariocantabria.publico.es/articulo/saja-besaya/seis-detenidos-dos-investigados-rinas-lesiones-carnavales-cabezon-sal/20260413113233191393.html][Seis detenidos y dos investigados por riñas y lesiones en los carnavales de Cabezón de la Sal]]
-- [[https://eldiariocantabria.publico.es/articulo/comunicados/que-cada-vez-mas-personas-apuestan-pilates/20260413112153191391.html][Por qué cada vez más personas apuestan por el pilates]]
-- [[https://eldiariocantabria.publico.es/articulo/comunicados/como-evoluciona-ocio-visual-era-digital/20260413111420191389.html][Del salón recreativo al scroll infinito: así evoluciona el ocio visual]]
-- [[https://eldiariocantabria.publico.es/articulo/deportes/goleada-racing-consolidar-liderato-5-1/20260413005905191387.html][Goleada del Racing al Almería para consolidar el liderato (5-1)]]
+- [[https://eldiariocantabria.publico.es/articulo/laboral/ccoo-levanta-mesa-decreto-incendios-forestales-bloqueo-negociacion/20260413185354191422.html][CCOO se levanta de la mesa del decreto de incendios forestales ante el bloqueo de la negociación]]
+- [[https://eldiariocantabria.publico.es/articulo/deportes/vuelta-ciclista-asturias-anuncia-homenaje-oscar-freire-condenado-injurias/20260413184055191421.html][La Vuelta Ciclista a Asturias homenajeará a Óscar Freire, condenado por injurias y denunciado por malos tratos]]
+- [[https://eldiariocantabria.publico.es/articulo/laboral/ugt-reafirma-huelga-comercio-textil-aceptarse-orecla-exclusion-cantabria-convenio-estatal/20260413182246191419.html][UGT reafirma la huelga en comercio textil tras no aceptarse en el ORECLA la exclusión de Cantabria del convenio estatal]]
+- [[https://eldiariocantabria.publico.es/articulo/cultura/19-experiencias-artisticas-conectaran-teatro-danza-vii-edicion-santander-escenica/20260413181550191418.html][19 experiencias artísticas conectarán teatro y danza en la VII edición de Santander Escénica]]
+- [[https://eldiariocantabria.publico.es/articulo/cultura/comunicador-paco-pis-presenta-parece-que-estoy-viendo-ii-muriedas-mano-asociacion-cultural-san-vicente/20260413180028191416.html][El comunicador Paco Pis presentará ‘Parece que lo estoy viendo II’ en Muriedas de la mano de la Asociación Cultural San Vicente]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/04/13/iran-blockade-us-trump-hormuz/][U.S. naval blockade taking effect as Trump demands Iran end nuclear program]]
+- [[https://www.washingtonpost.com/world/2026/04/13/pope-leo-president-trump-feud/][Lambasting Pope Leo, Trump risks alienating conservative Catholics]]
+- [[https://www.washingtonpost.com/world/2026/04/13/eu-hungary-viktor-orban-defeated/][E.U. revels in defeat of Hungary’s Orban, Trump ally who defied Brussels]]
 - [[https://www.washingtonpost.com/world/2026/04/12/iran-us-talks-ceasefire-vance/][Trump announces naval blockade of Iran after Islamabad talks yield no deal]]
 - [[https://www.washingtonpost.com/world/2026/04/12/hungary-election-viktor-orban-trump/][Hungary’s Viktor Orban, ally of Trump and Putin, concedes election defeat]]
-- [[https://www.washingtonpost.com/world/2026/04/12/israel-ceasefire-opposition-netanyahu-war/][Ceasefire means Netanyahu can’t keep promises, many Israelis say as elections loom]]
-- [[https://www.washingtonpost.com/world/2026/04/12/pope-leo-africa-trip-polygamy/][On Africa trip, Pope Leo will face debate over polygamy as Catholicism booms]]
-- [[https://www.washingtonpost.com/world/2026/04/12/peru-election-keiko-fujimori/][10 presidents in 10 years: Peru’s leaders don’t last. Voters will try again.]]
 
 *** WSJ.com: World News
 
-- [[https://www.wsj.com/world/middle-east/iran-cease-fire-terms-explained-3a35fb92][Here’s What We Know About the U.S. Cease-Fire With Iran—and What Happens Next]]
-- [[https://www.wsj.com/world/europe/hungary-election-results-orban-b2dbd42a][Hungary’s Orbán Ousted in Landslide Election Defeat]]
-- [[https://www.wsj.com/world/middle-east/trump-weighs-limited-strikes-on-iran-after-talks-collapse-71908883][Trump Weighs Limited Strikes Against Iran After Peace Talks Collapse]]
-- [[https://www.wsj.com/world/africa/pope-leo-critic-of-his-countrys-warlike-turn-promotes-a-global-vision-in-africa-83878b1f][Pope Leo, Critic of His Country’s Warlike Turn, Promotes a Global Vision in Africa]]
+- [[https://www.wsj.com/world/middle-east/iran-cease-fire-terms-explained-3a35fb92][What to Know About the Blockade and How It Could Work]]
+- [[https://www.wsj.com/world/americas/a-journey-into-the-heart-of-colombias-deadly-cocaine-war-f618a352][A Journey Into the Heart of Colombia’s Deadly Cocaine War]]
+- [[https://www.wsj.com/world/europe/iran-wars-economic-shock-wave-is-expected-to-get-even-bigger-3aadf870][Iran War’s Economic Shock Wave Is Expected to Get Even Bigger]]
 - [[https://www.wsj.com/world/middle-east/u-s-threat-to-blockade-hormuz-sets-up-risky-new-showdown-2e9bdb03][U.S. Threat to Blockade Hormuz Sets Up Risky New Showdown]]
+- [[https://www.wsj.com/world/europe/hungary-election-results-orban-b2dbd42a][Hungary’s Orbán Ousted in Landslide Election Defeat]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/04/13/en-direct-elections-en-hongrie-les-dernieres-informations-et-reactions-apres-la-defaite-electorale-historique-de-viktor-orban_6679608_3210.html][EN DIRECT, élections en Hongrie : quelles seront les conséquences de ce séisme électoral sur la guerre en Ukraine ou sur l’extrême droite en Europe ?]]
-- [[https://www.lemonde.fr/international/live/2026/04/13/en-direct-guerre-au-moyen-orient-l-iran-considere-le-blocus-maritime-americain-comme-de-la-piraterie-et-menace-les-ports-du-golfe-et-de-la-mer-d-arabie_6676633_3210.html][EN DIRECT, guerre au Moyen-Orient : les Etats-Unis veulent bloquer les ports iraniens dès lundi ; la France et le Royaume-Uni annoncent une « conférence » pour « restaurer la liberté de navigation » dans le détroit d’Ormuz]]
-- [[https://www.lemonde.fr/international/article/2026/04/13/le-pape-leon-xiv-affirme-ne-pas-avoir-peur-de-l-administration-trump-en-reponse-aux-critiques-du-president-des-etats-unis_6679695_3210.html][Le pape Léon XIV répond aux critiques du président américain : « Je n’ai ni peur de l’administration Trump, ni de dire le message de l’Evangile »]]
-- [[https://www.lemonde.fr/politique/article/2026/04/13/1-mai-face-a-la-colere-des-syndicats-le-gouvernement-temporise_6679701_823448.html][1ᵉʳ-Mai : le gouvernement temporise sur le texte autorisant le recours à des salariés après la colère des syndicats]]
-- [[https://www.lemonde.fr/politique/article/2026/04/13/presidentielle-2027-le-potentiel-politique-de-l-abstention_6679681_823448.html][Présidentielle 2027 : le potentiel politique de l’abstention]]
+- [[https://www.lemonde.fr/international/live/2026/04/13/en-direct-guerre-au-moyen-orient-le-blocus-maritime-de-l-iran-impose-par-les-etats-unis-a-commence-a-16-heures-teheran-previent-qu-aucune-ingerence-americaine-dans-le-detroit-d-ormuz-ne-sera-toleree_6676633_3210.html][EN DIRECT, guerre au Moyen-Orient : le blocus maritime de l’Iran imposé par les Etats-Unis a commencé à 16 heures ; Téhéran prévient qu’aucune ingérence américaine dans le détroit d’Ormuz ne sera tolérée]]
+- [[https://www.lemonde.fr/international/live/2026/04/13/en-direct-elections-en-hongrie-peter-magyar-promet-de-limiter-a-deux-le-nombre-de-mandats-de-premier-ministre-hongrois-empechant-viktor-orban-de-redevenir-chef-du-gouvernement_6679608_3210.html][EN DIRECT, élections en Hongrie : Péter Magyar promet de limiter à deux le nombre de mandats de premier ministre, empêchant Viktor Orban de redevenir chef du gouvernement]]
+- [[https://www.lemonde.fr/societe/article/2026/04/13/le-proces-etape-perfectible-mais-indispensable-pour-les-victimes-de-viol-j-aimerais-que-ce-soit-lui-qui-n-arrive-plus-a-se-regarder-en-face_6679666_3224.html][Le procès, étape perfectible mais indispensable pour les victimes de viol : « J’aimerais que ce soit lui qui n’arrive plus à se regarder en face »]]
+- [[https://www.lemonde.fr/international/article/2026/04/13/le-pape-leon-xiv-affirme-ne-pas-avoir-peur-de-l-administration-trump-en-reponse-aux-critiques-du-president-des-etats-unis_6679695_3210.html][Le pape Léon XIV répond aux critiques du président américain : « Je n’ai peur ni de l’administration Trump ni de dire le message de l’Evangile »]]
+- [[https://www.lemonde.fr/societe/article/2026/04/13/suicide-d-evaelle-son-enseignante-condamnee-a-un-an-de-prison-avec-sursis_6679719_3224.html][Suicide d’Evaëlle : son enseignante condamnée à un an de prison avec sursis]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-armee-americaine-veut-imposer-un-blocus-des-ports-iraniens-lundi-20260413][EN DIRECT - Blocus du détroit d’Ormuz : Paris et Londres vont organiser une «conférence» en vue d’une «mission pacifique» pour «restaurer la liberté de navigation»]]
-- [[https://www.lefigaro.fr/international/l-iran-a-execute-au-moins-1639-personnes-en-2025-un-record-depuis-1989-selon-deux-ong-20260413][L’Iran a exécuté au moins 1639 personnes en 2025, un record depuis 1989 selon deux ONG]]
-- [[https://www.lefigaro.fr/international/apres-l-echec-des-negociations-avec-l-iran-trump-annonce-a-son-tour-le-blocus-du-detroit-d-ormuz-20260412][Après l’échec des négociations avec l’Iran, Trump annonce à son tour le blocus du détroit d’Ormuz]]
-- [[https://www.lefigaro.fr/conjoncture/jean-pierre-robin-etre-l-ennemi-de-l-amerique-est-dangereux-mais-etre-l-ami-de-l-amerique-est-fatal-20260412][Jean-Pierre Robin : « Être l’ennemi de l’Amérique est dangereux, mais être l’ami de l’Amérique est fatal »]]
-- [[https://www.lefigaro.fr/international/la-verite-a-vaincu-le-mensonge-peter-magyar-inflige-une-defaite-historique-a-viktor-orban-20260413][« La vérité a vaincu le mensonge ! » : Péter Magyar inflige une défaite historique à Viktor Orban]]
+- [[https://www.lefigaro.fr/actualite-france/en-direct-pape-leon-xiv-visite-algerie-vatican-afrique-chistianisme-islam-20260413][EN DIRECT - Double tentative d’attentat à 50 km d’Alger en marge de la visite du pape en Algérie]]
+- [[https://www.lefigaro.fr/actualite-france/leon-xiv-delivre-un-message-exigeant-aux-autorites-algeriennes-20260413][Léon XIV délivre un message exigeant aux autorités algériennes]]
+- [[https://www.lefigaro.fr/actualite-france/visite-du-pape-en-algerie-les-images-historiques-de-la-poignee-de-main-entre-leon-xiv-et-le-president-abdelmadjid-tebboune-20260413][Visite du pape en Algérie : les images historiques de la poignée de main entre Léon XIV et le président Abdelmadjid Tebboune]]
+- [[https://www.lefigaro.fr/actualite-france/le-pape-leon-xiv-appelle-les-algeriens-au-pardon-pour-les-guerres-passees-20260413][Le pape Léon XIV appelle les Algériens au «pardon» pour les guerres passées]]
+- [[https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-armee-americaine-veut-imposer-un-blocus-des-ports-iraniens-lundi-20260413][EN DIRECT - Guerre au Moyen-Orient : Trump dit que 34 navires ont franchi le détroit d’Ormuz dimanche]]
 
 ** 🇬🇧 Reino Unido
 
@@ -109,17 +113,17 @@
 
 - [[https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss][Orbán era swept away by Péter Magyar's Hungary election landslide]]
 - [[https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss][Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold]]
-- [[https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss][Trump's threat raises risks and leaves predicaments unchanged]]
-- [[https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss][Pope says he will 'speak out loudly' against war after Trump criticism]]
+- [[https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss][Pope says he has 'no fear' of Trump after scathing criticism]]
 - [[https://www.bbc.com/news/articles/ckgw8dy08m9o?at_medium=RSS&at_campaign=rss][Britney Spears goes into rehab after driving under the influence arrest]]
+- [[https://www.bbc.com/news/articles/crl141ern74o?at_medium=RSS&at_campaign=rss][Ex-Nigerian oil minister denies taking bribes]]
 
 *** The Guardian
 
+- [[https://www.theguardian.com/world/2026/apr/13/pope-leo-visits-algeria-africa-tour-catholic-church][Pope Leo visits Algeria in sign of Africa’s growing importance to Catholic church]]
+- [[https://www.theguardian.com/football/2026/apr/13/dominic-frimpong-killed-armed-robbers-team-bus-ghana][Ghanaian winger Dominic Frimpong killed at age of 20 in attack on team bus]]
+- [[https://www.theguardian.com/global-development/2026/apr/13/elections-africa-soaring-nomination-fees-djibouti-benin][And the election winner is … the candidate who can afford Africa’s soaring nomination fees]]
 - [[https://www.theguardian.com/world/2026/apr/13/abidjan-art-week-cote-d-ivoire-culture][‘This scene is alive’: Abidjan art week showcases city as growing cultural hub]]
 - [[https://www.theguardian.com/world/2026/apr/12/nigeria-airstrike-market-yobe-state-boko-haram][Nigerian airstrike targeting jihadists reportedly kills at least 100 civilians]]
-- [[https://www.theguardian.com/world/2026/apr/12/mauritius-vows-decolonise-chagos-islands-starmer-shelves-handover][Mauritius vows to ‘decolonise’ Chagos Islands after Starmer shelves handover]]
-- [[https://www.theguardian.com/world/2026/apr/12/benin-presidential-election][Benin holds presidential election four months after failed coup]]
-- [[https://www.theguardian.com/uk-news/2026/apr/10/prince-harry-sued-defamation-charity-sentebale][Prince Harry sued for defamation by charity he co-founded]]
 
 ** 🇮🇹 Italia
 
@@ -133,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/giovani-famiglie-figli-e-operai-piu-esposti-rischio-inflazione-AIOVIlPC][Giovani, famiglie con figli e operai: i più esposti al rischio inflazione]]
-- [[https://www.ilsole24ore.com/art/la-consulta-pronta-decidere-caso-almasri-vittima-chiede-processo-AI1O3xSC][La Consulta pronta a decidere sul caso Almasri, una vittima chiede il processo]]
-- [[https://www.ilsole24ore.com/art/al-via-algeri-viaggio-11-giorni-papa-leone-xiv-africa-AIZsfjSC][Comincia da Algeri il viaggio di Papa Leone XIV in Africa]]
-- [[https://www.ilsole24ore.com/art/elezioni-ungheria-schlein-finito-tempo-destre-renzi-orban-ko-tocco-magico-meloni-AInC76SC][Elezioni in Ungheria. Schlein: finito il tempo delle destre. Renzi: «Orban ko, tocco magico Meloni»]]
-- [[https://www.ilsole24ore.com/art/descalzi-necessario-rivedere-stop-gas-russo-2027-carenza-importante-petrolio-AIXWw1SC][Descalzi: necessario rivedere stop a gas russo da 2027. Carenza importante di petrolio]]
+- [[https://www.ilsole24ore.com/art/conte-primarie-siano-aperte-anche-non-iscritti-partiti-schlein-no-dibattiti-politicisti-AI2bhxTC][Conte: «Primarie siano aperte anche ai non iscritti ai partiti». Schlein: «No a dibattiti politicisti»]]
+- [[https://www.ilsole24ore.com/art/eredita-agnelli-chiesto-rinvio-giudizio-john-elkann-suoi-legali-estraneo-reati-AI4vuxTC][Eredità Agnelli, chiesto il rinvio a giudizio per John Elkann. I suoi legali: «Estraneo a reati»]]
+- [[https://www.ilsole24ore.com/art/il-ricordo-verde-monguzzi-tutti-lottatore-AI0MDoTC][Il ricordo del «verde» Monguzzi, per tutti un lottatore]]
+- [[https://www.ilsole24ore.com/art/auto-urso-pensiamo-reintroduzione-incentivi-AIFkMqTC][Auto, Urso: «Prevediamo incentivi mirati per i veicoli commerciali e alcune categorie specifiche»]]
+- [[https://www.ilsole24ore.com/art/il-fattore-sfiducia-amplifica-caro-vita-AIMPhMSC][Il fattore sfiducia amplifica il caro vita]]
 
 ** 🇩🇪 Alemania
 
@@ -151,21 +155,21 @@
 
 *** Deutsche Welle
 
-- [[https://www.dw.com/en/why-africa-remains-divided-over-macky-sall-s-un-bid/a-76739197?maca=en-rss-en-world-4025-rdf][Why Africa remains divided over Macky Sall's UN bid]]
-- [[https://www.dw.com/en/hungary-peter-magyar-s-election-heralds-thaw-in-eu-ties/a-76758641?maca=en-rss-en-world-4025-rdf][Hungary: Peter Magyar's election heralds thaw in EU ties]]
-- [[https://www.dw.com/en/peru-general-elections-fujimori-leading-runoff-likely/a-76756162?maca=en-rss-en-world-4025-rdf][Peru general elections: Fujimori leading, runoff likely]]
-- [[https://www.dw.com/en/us-iran-talks-what-prevented-a-deal-and-what-s-next/a-76755660?maca=en-rss-en-world-4025-rdf][US-Iran talks: What prevented a deal and what's next?]]
-- [[https://www.dw.com/en/hacking-women-s-political-underrepresentation-dutch-style/a-76699402?maca=en-rss-en-world-4025-rdf][Hacking women's political underrepresentation, Dutch-style]]
+- [[https://www.dw.com/en/iran-war-talks-collapse-is-bad-news-for-ordinary-iranians/a-76767100?maca=en-rss-en-world-4025-rdf][Iran war: Talks collapse is bad news for ordinary Iranians]]
+- [[https://www.dw.com/en/end-of-the-orban-era-hungary-and-europe-breathe-again/a-76766410?maca=en-rss-en-world-4025-rdf][End of the Orban era: Hungary and Europe breathe again]]
+- [[https://www.dw.com/en/us-iran-war-is-pakistan-a-real-peacemaker/a-76765623?maca=en-rss-en-world-4025-rdf][US-Iran war: Is Pakistan a real peacemaker?]]
+- [[https://www.dw.com/en/australia-appoints-first-female-army-chief/a-76763950?maca=en-rss-en-world-4025-rdf][Australia appoints first female army chief]]
+- [[https://www.dw.com/en/burkina-faso-moving-forward-without-democracy/a-76760621?maca=en-rss-en-world-4025-rdf][Burkina Faso: Moving forward without democracy]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/04/barbara-carine-debate-conceito-de-parditude-e-seu-lugar-no-movimento-negro.shtml][Bárbara Carine debate conceito de parditude e seu lugar no movimento negro]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/04/papa-leao-14-viajara-a-quatro-paises-da-africa-nos-proximos-dez-dias.shtml][Papa Leão 14 viajará a quatro países da África nos próximos dez dias]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/04/artemis-2-fez-mais-de-7000-fotos-ao-contornar-a-lua-e-deve-fomentar-estudos-sobre-crateras.shtml][Artemis 2 fez mais de 7.000 fotos ao contornar a Lua e deve fomentar estudos sobre crateras]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2026/04/metalurgica-tupy-comeca-a-reciclar-baterias-de-carros-eletricos.shtml][Metalúrgica Tupy começa a reciclar baterias de carros elétricos]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/04/bbb-26-globo-vende-todos-os-comerciais-para-a-final-e-bate-novo-recorde-de-faturamento.shtml][BBB 26: Globo vende todos os comerciais para a final e bate novo recorde de faturamento]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/04/pm-de-brasilia-expulsa-cinco-coroneis-condenados-pelo-stf-por-omissao-no-81.shtml][PM de Brasília expulsa cinco coronéis condenados pelo STF por omissão no 8/1]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/04/ramagem-e-preso-por-servico-de-imigracao-dos-eua-diz-pf.shtml][Ramagem é preso por serviço de imigração dos EUA, diz PF]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/04/guerreiros-do-sol-estreia-na-globo-e-leva-releitura-do-cangaco-para-a-tv-aberta.shtml]['Guerreiros do Sol' estreia na Globo e leva releitura do cangaço para a TV aberta]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/tarcisio-e-nunes-inauguram-terminal-de-onibus-varginha-no-extremo-sul-de-sao-paulo.shtml][Tarcísio e Nunes inauguram terminal de ônibus Varginha, no extremo sul de São Paulo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/04/aliados-do-ex-presidente-do-inss-dizem-que-demissao-e-fruto-de-acordo-para-destravar-sabatina-de-messias.shtml][Aliados do ex-presidente do INSS dizem que demissão é fruto de acordo para destravar sabatina de Messias]]
 
 *** O Globo
 
