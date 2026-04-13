@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T00:00:02.530783",
+  "timestamp": "2026-04-13T06:00:02.547301",
   "data": {
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada": [
       {
@@ -19,13 +19,13 @@
         "link": "https://elpais.com/internacional/2026-04-12/trump-anuncia-su-propio-bloqueo-naval-del-estrecho-de-ormuz-y-las-negociaciones-quedan-en-el-aire.html"
       },
       {
-        "title": "Trump contra sus ‘influencers’: la guerra en Irán desata un cisma en el mundo MAGA",
-        "link": "https://elpais.com/internacional/2026-04-12/trump-contra-sus-influencers-la-guerra-en-iran-desata-un-cisma-en-el-mundo-maga.html"
+        "title": "El nuevo bloqueo de Ormuz dispara el petróleo un 7% y supera los 100 dólares",
+        "link": "https://cincodias.elpais.com/mercados-financieros/2026-04-12/trump-agita-ormuz-y-vuelve-a-tensar-al-petroleo-rumbo-a-los-100-dolares.html"
       }
     ],
     "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml": [
       {
-        "title": "Viktor Orban admite su derrota en Hungría y felicita al ganador Péter Magyar",
+        "title": "Orban pierde el poder y Europa frena al trumpismo global",
         "link": "https://www.elmundo.es/internacional/2026/04/12/69dbbb95fdddff366f8b456e.html"
       },
       {
@@ -33,20 +33,24 @@
         "link": "https://www.elmundo.es/internacional/2026/04/12/69d8f0c4fc6c83c17a8b45a6.html"
       },
       {
-        "title": "Péter Magyar, la grieta que derrumbó el muro de 16 años de poder de Orban",
-        "link": "https://www.elmundo.es/internacional/2026/04/12/69d8fd79e4d4d82a748b457f.html"
-      },
-      {
         "title": "La UE se libra de Orban, de las filtraciones a Rusia y del bloqueo a las medidas de ayuda a Ucrania: \"Hungría ha elegido Europa\"",
         "link": "https://www.elmundo.es/internacional/2026/04/12/69dbfb9efdddff89628b4585.html"
       },
       {
-        "title": "Trump \"ordena\" el bloqueo naval del Estrecho de  Ormuz para que ningún buque pueda atravesarlo",
-        "link": "https://www.elmundo.es/internacional/2026/04/12/69dbaae6fc6c83b0518b4570.html"
+        "title": "Juanma Moreno arranca la precampaña de las autonómicas del 17-M con la mayoría absoluta a tiro",
+        "link": "https://www.elmundo.es/elecciones/elecciones-andalucia/2026/04/12/69dba2f2fdddffcc548b4576.html"
+      },
+      {
+        "title": "El bipartidismo frena a Vox en las provincias y aleja el 'sorpasso' el 17-M",
+        "link": "https://www.elmundo.es/elecciones/elecciones-andalucia/2026/04/13/69dba5d1fdddff11758b4576.html"
       }
     ],
     "https://www.lavanguardia.com/rss/home.xml": [],
     "https://eldiariocantabria.publico.es/rss/": [
+      {
+        "title": "Goleada del Racing al Almería para consolidar el liderato (5-1)",
+        "link": "https://eldiariocantabria.publico.es/articulo/deportes/goleada-racing-consolidar-liderato-5-1/20260413005905191387.html"
+      },
       {
         "title": "UxL pide al Ayuntamiento que aclare el contrato del servicio de basuras",
         "link": "https://eldiariocantabria.publico.es/articulo/municipios/uxl/20260412212117191384.html"
@@ -62,20 +66,16 @@
       {
         "title": "Cantabria se prepara para celebrar el Día de la República",
         "link": "https://eldiariocantabria.publico.es/articulo/cantabria/santander-conmemorara-dia-republica-acto-memorialista-ciriego/20260412204413191380.html"
-      },
-      {
-        "title": "Cantabria se quedará completamente a oscuras durante 2 minutos: esta es la fecha exacta",
-        "link": "https://eldiariocantabria.publico.es/articulo/cantabria/cantabria-quedara-oscuras-2-minutos-es-fecha-exacta/20260412202239191377.html"
       }
     ],
     "https://feeds.washingtonpost.com/rss/world": [
       {
-        "title": "Hungary’s Viktor Orban, ally of Trump and Putin, concedes election defeat",
-        "link": "https://www.washingtonpost.com/world/2026/04/12/hungary-election-viktor-orban-trump/"
-      },
-      {
         "title": "Trump announces naval blockade of Iran after Islamabad talks yield no deal",
         "link": "https://www.washingtonpost.com/world/2026/04/12/iran-us-talks-ceasefire-vance/"
+      },
+      {
+        "title": "Hungary’s Viktor Orban, ally of Trump and Putin, concedes election defeat",
+        "link": "https://www.washingtonpost.com/world/2026/04/12/hungary-election-viktor-orban-trump/"
       },
       {
         "title": "Ceasefire means Netanyahu can’t keep promises, many Israelis say as elections loom",
@@ -92,71 +92,75 @@
     ],
     "https://feeds.content.dowjones.io/public/rss/RSSWorldNews": [
       {
+        "title": "Hungary’s Orbán Ousted in Landslide Election Defeat",
+        "link": "https://www.wsj.com/world/europe/hungary-election-results-orban-b2dbd42a"
+      },
+      {
+        "title": "Trump Weighs Limited Strikes Against Iran After Peace Talks Collapse",
+        "link": "https://www.wsj.com/world/middle-east/trump-weighs-limited-strikes-on-iran-after-talks-collapse-71908883"
+      },
+      {
+        "title": "Pope Leo, Critic of His Country’s Warlike Turn, Promotes a Global Vision in Africa",
+        "link": "https://www.wsj.com/world/africa/pope-leo-critic-of-his-countrys-warlike-turn-promotes-a-global-vision-in-africa-83878b1f"
+      },
+      {
         "title": "U.S. Threat to Blockade Hormuz Sets Up Risky New Showdown",
         "link": "https://www.wsj.com/world/middle-east/u-s-threat-to-blockade-hormuz-sets-up-risky-new-showdown-2e9bdb03"
       },
       {
-        "title": "Hungary’s Viktor Orbán Concedes Defeat in Election",
-        "link": "https://www.wsj.com/world/europe/hungary-election-results-orban-b2dbd42a"
-      },
-      {
         "title": "Russia Blasts Through Ukraine Cease-Fire, as Trump-Backed Talks Drift",
         "link": "https://www.wsj.com/world/russia-blasts-through-ukraine-cease-fire-as-trump-backed-talks-drift-3b76a90e"
-      },
-      {
-        "title": "In Economic War, Chokepoints Beat Tariffs",
-        "link": "https://www.wsj.com/economy/global/kryptonite-to-americas-economic-super-powers-chokepoints-351ee72c"
-      },
-      {
-        "title": "An Iraqi Drone Attack Barely Missed a Convoy Carrying a Freed U.S. Hostage",
-        "link": "https://www.wsj.com/world/middle-east/an-iraqi-drone-attack-barely-missed-a-convoy-carrying-a-freed-u-s-hostage-43687b9d"
       }
     ],
     "https://www.lemonde.fr/rss/une.xml": [
       {
-        "title": "EN DIRECT, élections en Hongrie : Péter Magyar, conservateur pro-européen, en passe de détroner Viktor Orban à la tête du pays",
-        "link": "https://www.lemonde.fr/international/live/2026/04/12/en-direct-elections-en-hongrie-peter-magyar-conservateur-pro-europeen-en-passe-de-detroner-viktor-orban-a-la-tete-de-la-hongrie_6679608_3210.html"
-      },
-      {
-        "title": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine annonce un blocus naval de tous les ports iraniens à partir de lundi après-midi",
+        "title": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine annonce un blocus des ports iraniens dès lundi, l’Iran dit avoir été « à deux doigts » d’un accord à Islamabad",
         "link": "https://www.lemonde.fr/international/live/2026/04/12/en-direct-guerre-au-moyen-orient-l-armee-americaine-annonce-un-blocus-naval-de-tous-les-ports-iraniens-a-partir-de-lundi-apres-midi_6676633_3210.html"
       },
       {
-        "title": "A un an de la présidentielle, un profond désir de changement chez les Français s’exprime dans une nouvelle enquête électorale",
-        "link": "https://www.lemonde.fr/politique/article/2026/04/12/a-un-an-de-la-presidentielle-un-profond-desir-de-changement-chez-les-electeurs_6679586_823448.html"
+        "title": "Après la sévère défaite de Viktor Orban aux élections législatives, les Hongrois célèbrent « leur retour en Europe »",
+        "link": "https://www.lemonde.fr/international/article/2026/04/13/apres-la-severe-defaite-de-viktor-orban-aux-elections-legislatives-les-hongrois-celebrent-leur-retour-en-europe_6679659_3210.html"
       },
       {
-        "title": "Jordan Bardella et Maria Carolina de Bourbon des Deux-Siciles, récit d’un pari médiatique",
-        "link": "https://www.lemonde.fr/politique/article/2026/04/12/jordan-bardella-et-maria-carolina-de-bourbon-des-deux-siciles-recit-d-un-pari-mediatique_6679580_823448.html"
+        "title": "Présidentielle 2027 : au centre des préoccupations des Français, la santé et le pouvoir d’achat",
+        "link": "https://www.lemonde.fr/politique/article/2026/04/13/presidentielle-2027-au-centre-des-preoccupations-des-francais-la-sante-et-le-pouvoir-d-achat_6679656_823448.html"
       },
       {
-        "title": "Wout van Aert frustre Tadej Pogacar et remporte son premier Paris-Roubaix, la consécration d’un « malchanceux » dans une « course chaotique »",
-        "link": "https://www.lemonde.fr/sport/article/2026/04/12/wout-van-aert-frustre-tadej-pogacar-et-remporte-son-premier-paris-roubaix-la-consecration-d-un-malchanceux-dans-une-course-chaotique_6679598_3242.html"
+        "title": "Donald Trump s’en prend avec virulence à Léon XIV : « Je ne veux pas d’un pape qui critique le président des Etats-Unis »",
+        "link": "https://www.lemonde.fr/international/article/2026/04/13/donald-trump-s-en-prend-avec-virulence-a-leon-xiv-je-ne-veux-pas-d-un-pape-qui-critique-le-president-des-etats-unis_6679664_3210.html"
+      },
+      {
+        "title": "Grève des avocats : l’histoire d’une mobilisation, sur fond de malaise de la profession",
+        "link": "https://www.lemonde.fr/societe/article/2026/04/13/greve-des-avocats-l-histoire-d-une-mobilisation-sur-fond-de-malaise-de-la-profession_6679655_3224.html"
       }
     ],
     "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
       {
-        "title": "Législatives en Hongrie: le conservateur pro-européen Peter Magyar détrône le nationaliste Viktor Orbán",
-        "link": "https://www.lefigaro.fr/international/legislatives-en-hongrie-peter-magyar-affirme-avoir-recu-un-appel-de-viktor-orban-le-felicitant-pour-sa-victoire-20260412"
+        "title": "Pourquoi Léon XIV a accepté de visiter l’Algérie",
+        "link": "https://www.lefigaro.fr/actualite-france/pourquoi-leon-xiv-a-accepte-de-visiter-l-algerie-20260412"
       },
       {
-        "title": "«Le cœur de l’Europe bat plus vite en Hongrie»: les félicitations se multiplient après la victoire de Peter Magyar",
-        "link": "https://www.lefigaro.fr/international/le-coeur-de-l-europe-bat-plus-vite-en-hongrie-les-felicitations-se-multiplient-apres-la-victoire-de-peter-magyar-20260412"
+        "title": "La France, l’Algérie, le pape, l’islam et saint Augustin : le grand débat entre Boualem Sansal et le père Michel",
+        "link": "https://www.lefigaro.fr/vox/monde/boualem-sansal-et-pere-michel-l-ame-de-saint-augustin-plane-sur-l-algerie-20260412"
       },
       {
-        "title": "En Hongrie, l’opposant Péter Magyar est l’adversaire que le pouvoir n’avait pas vu venir",
-        "link": "https://www.lefigaro.fr/international/en-hongrie-l-opposant-peter-magyar-est-l-adversaire-que-le-pouvoir-n-avait-pas-vu-venir-20260410"
+        "title": "L’éditorial d’Étienne de Montety : « Pape en Algérie, le message de saint Augustin »",
+        "link": "https://www.lefigaro.fr/vox/societe/l-editorial-d-etienne-de-montety-pape-en-algerie-le-message-de-saint-augustin-20260412"
       },
       {
-        "title": "Après l’échec des négociations avec l’Iran, Trump annonce à son tour le blocus du détroit d’Ormuz",
-        "link": "https://www.lefigaro.fr/international/apres-l-echec-des-negociations-avec-l-iran-trump-annonce-a-son-tour-le-blocus-du-detroit-d-ormuz-20260412"
+        "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine veut imposer un blocus des ports iraniens lundi",
+        "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-armee-americaine-veut-imposer-un-blocus-des-ports-iraniens-lundi-20260413"
       },
       {
-        "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine confirme le début du blocus des ports iraniens lundi à 16h00",
-        "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-etats-unis-iran-pakistan-negociations-echec-detroit-d-ormuz-20260412"
+        "title": "«Je ne suis pas fan du pape»: Trump s'en prend à Léon XIV après son message antiguerre",
+        "link": "https://www.lefigaro.fr/international/je-ne-suis-pas-fan-du-pape-trump-s-en-prend-a-leon-xiv-apres-son-message-antiguerre-20260413"
       }
     ],
     "https://feeds.bbci.co.uk/news/world/rss.xml": [
+      {
+        "title": "Orbán era swept away by Péter Magyar's Hungary election landslide",
+        "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
         "link": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss"
@@ -166,16 +170,12 @@
         "link": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Civilians feared killed after reports of air strike on Nigerian market",
-        "link": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss"
+        "title": "Oil back above $100 as US to blockade Iranian ports after peace talks fail",
+        "link": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
-        "link": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "At least 30 feared dead in crush at Haitian tourist site",
-        "link": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss"
+        "title": "Congressman Eric Swalwell quits California governor race amid sexual misconduct claims",
+        "link": "https://www.bbc.com/news/articles/c74vwdpj7kdo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "https://www.theguardian.com/world/rss": [
@@ -290,24 +290,24 @@
     ],
     "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml": [
       {
-        "title": "BBB 26: Jordana escolhe doce premiado e ganha poder",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/04/bbb-26-jordana-escolhe-doce-premiado-e-ganha-poder.shtml"
+        "title": "Dinheiro não dá em árvore",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/04/dinheiro-nao-da-em-arvore.shtml"
       },
       {
-        "title": "Casal é assassinado dentro de veículo na zona sul de SP; polícia investiga",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/casal-e-assassinado-dentro-de-veiculo-na-zona-sul-de-sp-policia-investiga.shtml"
+        "title": "BBB 26: Ana Paula, Gabriela e Juliano estão no paredão; vote na enquete",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/04/bbb-26-ana-paula-gabriela-e-juliano-estao-no-paredao-vote-na-enquete.shtml"
       },
       {
-        "title": "Péter Magyar diz em discurso de vitória que Hungria será forte aliada da União Europeia e da Otan",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/04/peter-magyar-diz-em-discurso-de-vitoria-que-hungria-sera-forte-aliada-da-uniao-europeia-e-da-otan.shtml"
+        "title": "BBB 26: Jordana é a 16º líder da temporada",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/04/bbb-26-jordana-e-a-16o-lider-da-temporada.shtml"
       },
       {
-        "title": "BBB 26: Samira reencontra Lindolfo ao vivo durante 'Domingão com Huck'",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/04/bbb-26-samira-reencontra-lindolfo-ao-vivo-durante-domingao-com-huck.shtml"
+        "title": "Trump ataca Leão 14: 'Não quero um papa que critica o presidente dos EUA'",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/04/trump-ataca-leao-14-nao-quero-um-papa-que-critica-o-presidente-dos-eua.shtml"
       },
       {
-        "title": "Homem ataca três pessoas com facão em estação de metrô em Nova York e é morto por policial",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/04/homem-ataca-tres-pessoas-com-facao-em-estacao-de-metro-em-nova-york-e-e-morto-por-policial.shtml"
+        "title": "SP-Arte caríssima marca entrada de nova geração para os grandes acervos",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/plastico/2026/04/sp-arte-carissima-marca-entrada-de-nova-geracao-para-os-grandes-acervos.shtml"
       }
     ],
     "https://oglobo.globo.com/rss.xml": []
