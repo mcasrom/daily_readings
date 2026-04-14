@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-14T00:00:03.500994",
+  "timestamp": "2026-04-14T06:00:02.350039",
   "data": {
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada": [
       {
@@ -25,24 +25,24 @@
     ],
     "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml": [
       {
-        "title": "El juez Peinado termina la investigación sobre Begoña Gómez y la envía a juicio con jurado por cuatro delitos",
-        "link": "https://www.elmundo.es/espana/2026/04/13/69dcc4a8fc6c831a468b458c.html"
+        "title": "El banquillo espera a Begoña Gómez por \"aprovecharse\" de un círculo de élite gracias al poder de Sánchez",
+        "link": "https://www.elmundo.es/espana/2026/04/13/69dd388de4d4d880768b45a8.html"
       },
       {
-        "title": "\"Indignación\" en Moncloa por el auto de Peinado que procesa a Gómez: \"No es casual que sea coincidiendo con viajes oficiales del presidente al extranjero\"",
-        "link": "https://www.elmundo.es/espana/2026/04/13/69dcd3c421efa01f788b4589.html"
+        "title": "Los dos purgados por Puente, ante el Supremo para explicar el gran pelotazo de la trama de Ábalos: 4 millones en 38 minutos",
+        "link": "https://www.elmundo.es/espana/2026/04/13/69dd3a64e85ece582d8b45b0.html"
       },
       {
         "title": "El sudoku del 'profesor Sánchez' en China: se come el déficit comercial de España y las ventas al gigante asiático no despegan pese a la diplomacia",
         "link": "https://www.elmundo.es/espana/2026/04/13/69dd2ebbe9cf4ace5a8b4588.html"
       },
       {
-        "title": "JD Vance, un MAGA anti intervencionista ante el mayor desafío para sus ambiciones presidenciales",
-        "link": "https://www.elmundo.es/internacional/2026/04/13/69dbb1b2fdddff11758b457d.html"
+        "title": "Triple golpe a Vox por la caída de Orban: financiero, estratégico y de futuro",
+        "link": "https://www.elmundo.es/espana/2026/04/13/69dd3d40fc6c83c41e8b457d.html"
       },
       {
-        "title": "Péter Magyar pide la dimisión del presidente húngaro y le acusa de actuar como \"títere\" de Orban",
-        "link": "https://www.elmundo.es/internacional/2026/04/13/69dce22efdddff9e378b4574.html"
+        "title": "La Inteligencia ucraniana afirma que Rusia dio a Irán información sobre objetivos energéticos en Israel",
+        "link": "https://www.elmundo.es/internacional/2026/04/14/69d543dee4d4d820498b4599.html"
       }
     ],
     "https://www.lavanguardia.com/rss/home.xml": [
@@ -63,8 +63,8 @@
         "link": "https://www.lavanguardia.com/cultura/musica/20260413/11512598/rosalia-llora-barcelona.html"
       },
       {
-        "title": "La oposición acusa de “desastre político” a Netanyahu por el alto el fuego con Irán",
-        "link": "https://www.lavanguardia.com/internacional/20260408/11508895/oposicion-acusa-desastre-politico-netanyahu-alto-fuego-iran.html"
+        "title": "Yolanda Ramos, la primera invitada del confesionario de Rosalía en Barcelona",
+        "link": "https://www.lavanguardia.com/gente/20260413/11512579/yolanda-ramos-primera-invitada-confesionario-rosalia-barcelona.html"
       }
     ],
     "https://eldiariocantabria.publico.es/rss/": [
@@ -91,6 +91,10 @@
     ],
     "https://feeds.washingtonpost.com/rss/world": [
       {
+        "title": "Hungary’s opposition cheers Orban’s fall but faces challenging transition",
+        "link": "https://www.washingtonpost.com/world/2026/04/13/hungary-orban-magyar-celebration-transition/"
+      },
+      {
         "title": "Fugitive Bolsonaro ally, convicted in 2022 coup attempt, is detained by ICE",
         "link": "https://www.washingtonpost.com/world/2026/04/13/brazil-fugitive-congressman-arrested-alexandre-ramagem/"
       },
@@ -105,54 +109,50 @@
       {
         "title": "Lambasting Pope Leo, Trump risks alienating conservative Catholics",
         "link": "https://www.washingtonpost.com/world/2026/04/13/pope-leo-president-trump-feud/"
-      },
-      {
-        "title": "Trump announces naval blockade of Iran after Islamabad talks yield no deal",
-        "link": "https://www.washingtonpost.com/world/2026/04/12/iran-us-talks-ceasefire-vance/"
       }
     ],
     "https://feeds.content.dowjones.io/public/rss/RSSWorldNews": [
       {
-        "title": "With 10 Presidents in 10 years, Peru’s Real Leader Is Its Central Banker",
-        "link": "https://www.wsj.com/world/americas/with-10-presidents-in-10-years-perus-real-leader-is-its-central-banker-d325bf9e"
+        "title": "Trump’s Blockade on Iran in Strait Begins",
+        "link": "https://www.wsj.com/world/middle-east/trumps-blockade-on-iran-in-strait-begins-fc114536"
       },
       {
-        "title": "Strait of Hormuz Blockade Is Under Way",
-        "link": "https://www.wsj.com/world/asia/strait-of-hormuz-blockade-is-under-way-64239653"
+        "title": "In Talks With U.S., Cuba’s Raúl Castro Leans on ‘The Crab’ and ‘The One-Eyed Man’",
+        "link": "https://www.wsj.com/world/americas/in-talks-with-u-s-cubas-raul-castro-leans-on-the-crab-and-the-one-eyed-man-c08501fc"
       },
       {
-        "title": "How an Upstart Politician Reclaimed Hungarian Nationalism to Topple Orbán",
-        "link": "https://www.wsj.com/world/europe/how-an-upstart-politician-reclaimed-hungarian-nationalism-to-topple-orban-2e2d1611"
+        "title": "The U.S. Warships Poised to Enforce Trump’s Blockade",
+        "link": "https://www.wsj.com/world/middle-east/the-u-s-warships-poised-to-enforce-trumps-blockade-ee98a2d6"
       },
       {
-        "title": "How the U.S. Navy Is Blockading the Strait of Hormuz to Choke Off Iran’s Ports",
-        "link": "https://www.wsj.com/world/middle-east/how-the-u-s-navy-is-blockading-the-strait-of-hormuz-to-choke-off-irans-ports-0a3f9784"
+        "title": "Saudi Arabia Is Pressing U.S. to Drop Its Hormuz Blockade",
+        "link": "https://www.wsj.com/world/middle-east/saudi-arabia-us-strait-of-hormuz-blockade-25fbd430"
       },
       {
-        "title": "What to Know About the Blockade and How It Could Work",
-        "link": "https://www.wsj.com/world/middle-east/iran-cease-fire-terms-explained-3a35fb92"
+        "title": "How Trump’s Iran War Reversals Have Whipsawed Markets",
+        "link": "https://www.wsj.com/finance/how-trumps-iran-war-reversals-have-whipsawed-markets-75880272"
       }
     ],
     "https://www.lemonde.fr/rss/une.xml": [
       {
-        "title": "EN DIRECT, guerre au Moyen-Orient : Téhéran refuse toute « ingérence » américaine dans le détroit d’Ormuz ; le Hezbollah demande l’annulation des négociations israélo-libanaises prévues pour mardi",
-        "link": "https://www.lemonde.fr/international/live/2026/04/14/en-direct-guerre-au-moyen-orient-teheran-refuse-toute-ingerence-americaine-dans-le-detroit-d-ormuz-le-hezbollah-demande-l-annulation-des-negociations-israelo-libanaises-prevues-pour-mardi_6676633_3210.html"
+        "title": "Attaques contre le pape, photomontage en Christ : Donald Trump ouvre une crise avec les catholiques américains et choque sa base",
+        "link": "https://www.lemonde.fr/international/article/2026/04/14/attaques-contre-le-pape-photomontage-en-christ-donald-trump-ouvre-une-crise-avec-les-catholiques-americains-et-choque-sa-base_6679871_3210.html"
       },
       {
-        "title": "Travail le 1ᵉʳ-Mai : Sébastien Lecornu renonce à la commission mixte paritaire ; LR dénonce une « capitulation » de l’exécutif",
-        "link": "https://www.lemonde.fr/economie/article/2026/04/13/travail-le-1-mai-la-cgt-demande-au-gouvernement-de-ne-pas-passer-en-force-sur-la-proposition-de-loi-les-syndicats-recus-par-jean-pierre-farandou_6679691_3234.html"
+        "title": "EN DIRECT, guerre au Moyen-Orient : « La balle est dans le camp » des Iraniens, déclare le vice-président américain, J. D. Vance",
+        "link": "https://www.lemonde.fr/international/live/2026/04/14/en-direct-guerre-au-moyen-orient-la-balle-est-dans-le-camp-des-iraniens-declare-le-vice-president-americain-j-d-vance_6679867_3210.html"
       },
       {
-        "title": "Au procès Lafarge, la justice condamne un « système organisé, opaque et illégal » de financement du terrorisme",
-        "link": "https://www.lemonde.fr/societe/article/2026/04/13/au-proces-lafarge-la-justice-condamne-un-systeme-organise-opaque-et-illegal-de-financement-du-terrorisme_6679757_3224.html"
-      },
-      {
-        "title": "Restitution des biens culturels pillés pendant la colonisation : l’Assemblée adopte une version amendée du projet de loi",
-        "link": "https://www.lemonde.fr/afrique/article/2026/04/13/restitution-des-biens-culturels-pilles-pendant-la-colonisation-l-assemblee-adopte-une-version-amendee-du-projet-de-loi_6679761_3212.html"
+        "title": "Canada : Mark Carney obtient une majorité parlementaire à la faveur de législatives partielles",
+        "link": "https://www.lemonde.fr/international/article/2026/04/14/canada-mark-carney-obtient-une-majorite-parlementaire-a-la-faveur-de-legislatives-partielles_6679875_3210.html"
       },
       {
         "title": "Le premier jour de la visite du pape en Algérie marqué par une tentative d’attentat dans les environs d’Alger",
         "link": "https://www.lemonde.fr/afrique/article/2026/04/14/le-premier-jour-de-la-visite-du-pape-en-algerie-marque-par-une-tentative-d-attentat-dans-les-environs-d-alger_6679763_3212.html"
+      },
+      {
+        "title": "Restitution des biens culturels pillés pendant la colonisation : l’Assemblée adopte une version amendée du projet de loi",
+        "link": "https://www.lemonde.fr/afrique/article/2026/04/13/restitution-des-biens-culturels-pilles-pendant-la-colonisation-l-assemblee-adopte-une-version-amendee-du-projet-de-loi_6679761_3212.html"
       }
     ],
     "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
@@ -179,24 +179,24 @@
     ],
     "https://feeds.bbci.co.uk/news/world/rss.xml": [
       {
-        "title": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
-        "link": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss"
+        "title": "Lebanon enters talks with Israel but with no cards to play",
+        "link": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "BBC joins paramedics on duty in Lebanon after Israeli strikes",
         "link": "https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Italian PM condemns ally Trump over 'unacceptable' Pope criticism",
-        "link": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss"
+        "title": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
+        "link": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Britney Spears goes into rehab after driving under the influence arrest",
-        "link": "https://www.bbc.com/news/articles/ckgw8dy08m9o?at_medium=RSS&at_campaign=rss"
+        "title": "Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming",
+        "link": "https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Ex-Nigerian oil minister denies taking bribes",
-        "link": "https://www.bbc.com/news/articles/crl141ern74o?at_medium=RSS&at_campaign=rss"
+        "title": "Harry and Meghan arrive in Australia for four-day tour",
+        "link": "https://www.bbc.com/news/articles/cvgk3vpyzdqo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "https://www.theguardian.com/world/rss": [
@@ -289,46 +289,46 @@
     ],
     "https://rss.dw.com/rdf/rss-en-world": [
       {
+        "title": "Benin's finance minister wins presidential election with 94%",
+        "link": "https://www.dw.com/en/benin-s-finance-minister-wins-presidential-election-with-94/a-76769500?maca=en-rss-en-world-4025-rdf"
+      },
+      {
+        "title": "US: Fugitive Brazilian ex-spy chief arrested by ICE",
+        "link": "https://www.dw.com/en/us-fugitive-brazilian-ex-spy-chief-arrested-by-ice/a-76769371?maca=en-rss-en-world-4025-rdf"
+      },
+      {
+        "title": "US judge dismisses Trump's lawsuit against Wall Street Journal",
+        "link": "https://www.dw.com/en/us-judge-dismisses-trump-s-lawsuit-against-wall-street-journal/a-76769257?maca=en-rss-en-world-4025-rdf"
+      },
+      {
         "title": "EU applauds Hungary’s election result",
         "link": "https://www.dw.com/en/eu-applauds-hungary-s-election-result/a-76767107?maca=en-rss-en-world-4025-rdf"
       },
       {
         "title": "US maritime restrictions increase economic pressure on Iran",
         "link": "https://www.dw.com/en/us-maritime-restrictions-increase-economic-pressure-on-iran/a-76760110?maca=en-rss-en-world-4025-rdf"
-      },
-      {
-        "title": "Iran war: Talks collapse is bad news for ordinary Iranians",
-        "link": "https://www.dw.com/en/iran-war-talks-collapse-is-bad-news-for-ordinary-iranians/a-76767100?maca=en-rss-en-world-4025-rdf"
-      },
-      {
-        "title": "End of the Orban era: Hungary and Europe breathe again",
-        "link": "https://www.dw.com/en/end-of-the-orban-era-hungary-and-europe-breathe-again/a-76766410?maca=en-rss-en-world-4025-rdf"
-      },
-      {
-        "title": "US-Iran war: Is Pakistan a real peacemaker?",
-        "link": "https://www.dw.com/en/us-iran-war-is-pakistan-a-real-peacemaker/a-76765623?maca=en-rss-en-world-4025-rdf"
       }
     ],
     "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml": [
       {
-        "title": "Folha promove pré-estreia do filme 'Fanon', cinebiografia do intelectual martinicano",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/04/folha-promove-pre-estreia-do-filme-fanon-cinebiografia-do-intelectual-martinicano.shtml"
+        "title": "BBB 26: Leandro Boneco e Gabriela trocam farpas após último Sincerão da temporada",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/04/bbb-26-leandro-boneco-e-gabriela-trocam-farpas-apos-ultimo-sincerao-da-temporada.shtml"
       },
       {
-        "title": "O roteirista está incontrolável",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/andre-borges/2026/04/o-roteirista-esta-incontrolavel.shtml"
+        "title": "CEO da United Airlines propôs a Trump fusão com American Airlines",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/ceo-da-united-airlines-propos-a-trump-fusao-com-american-airlines-para-criar-maior-aerea-do-mundo.shtml"
       },
       {
-        "title": "Lucina e Alzira E homenageiam Doroty Marques em show no Sesc Belenzinho",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/04/lucina-e-alzira-e-homenageiam-doroty-marques-em-show-no-sesc-belenzinho.shtml"
+        "title": "Como funciona o Guia Michelin, que dá estrelas aos melhores restaurantes",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/comida/2026/04/como-funciona-o-guia-michelin-que-da-estrelas-aos-melhores-restaurantes.shtml"
       },
       {
-        "title": "De olho no Rio, Shakira prova comidas típicas e veste camisa do Brasil em vídeo",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/musica/2026/04/de-olho-no-rio-shakira-prova-comidas-tipicas-e-veste-camisa-do-brasil-em-video.shtml"
+        "title": "Demitido do INSS culpa ministério por fila no órgão",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/04/demitido-do-inss-culpa-ministerio-por-fila-no-orgao.shtml"
       },
       {
-        "title": "Deputado renuncia e suspende campanha para governo da Califórnia após acusação de abuso sexual",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/04/deputado-renuncia-e-suspende-campanha-para-governo-da-california-apos-acusacao-de-abuso-sexual.shtml"
+        "title": "Concerto traz trilhas sonoras de 'Naruto' e 'One Piece' a São Paulo",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/cinema/2026/04/concerto-traz-trilhas-sonoras-de-naruto-e-one-piece-a-sao-paulo.shtml"
       }
     ],
     "https://oglobo.globo.com/rss.xml": []
