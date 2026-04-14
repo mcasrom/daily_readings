@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 41.3°C | ⚖ Load: 0.88 | 🌐 Ping: 21.8ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 41.9°C | ⚖ Load: 0.01 | 🌐 Ping: 14.7ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,89 +41,89 @@
 
 *** El País
 
-- [[https://elpais.com/espana/2026-04-14/el-gobierno-ayudara-a-los-inmigrantes-con-la-peticion-de-antecedentes-penales-para-que-la-regularizacion-sea-masiva.html][El Gobierno ayudará a los inmigrantes a certificar que carecen de antecedentes penales para que la regularización sea masiva]]
-- [[https://elpais.com/espana/madrid/2026-04-14/la-regularizacion-de-migrantes-colapsa-la-unica-oficina-que-expide-el-certificado-de-la-tarjeta-de-transporte-de-madrid.html][Colapsada la oficina que expide el certificado de la tarjeta de transporte de Madrid: “En la web no hay citas hasta el 31 de mayo”]]
+- [[https://elpais.com/espana/2026-04-14/el-gobierno-aprueba-la-regularizacion-extraordinaria-de-inmigrantes-siga-en-directo-la-rueda-de-prensa-del-consejo-de-ministros.html][El Gobierno aprueba la regularización extraordinaria de inmigrantes: “Es uno de los grandes hitos de esta legislatura”]]
+- [[https://elpais.com/espana/2026-04-14/feijoo-se-opone-a-la-regularizacion-de-inmigrantes-por-inhumana-injusta-insegura-e-insostenible.html][Feijóo se opone a la regularización de inmigrantes por “inhumana, injusta, insegura e insostenible”]]
 - [[https://elpais.com/espana/2026-04-14/los-extranjeros-en-espana-cuantos-son-donde-viven-y-a-quien-afecta-la-regularizacion.html][Los extranjeros en España: cuántos son, dónde viven y a quién afecta la regularización]]
-- [[https://elpais.com/espana/2026-04-14/pedro-sanchez-defiende-la-regularizacion-de-inmigrantes-en-una-carta-a-la-ciudadania.html][Sánchez defiende la regularización de inmigrantes en una carta a la ciudadanía]]
-- [[https://elpais.com/espana/2026-04-14/sanchez-comparece-en-pekin-tras-su-reunion-con-xi-jinping.html][Sánchez, sobre el procesamiento de Begoña Gómez: “Lo que le pido a la justicia es que haga justicia”]]
+- [[https://elpais.com/internacional/2026-04-14/trump-ataca-a-meloni-su-mejor-aliada-en-la-ue-pensaba-que-tenia-valor-pero-me-equivoque.html][Trump ataca a Meloni, su mejor aliada en la UE: “Pensaba que tenía valor, pero me equivoqué”]]
+- [[https://elpais.com/internacional/2026-04-14/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html][Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump sugiere que las conversaciones con Irán pueden reanudarse en dos días]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/04/14/69dde381fc6c83e44b8b45be.html][Sánchez vuelve a insinuar que Peinado hace política con la investigación a su mujer: "Lo que pido a la justicia es que haga justicia"]]
-- [[https://www.elmundo.es/espana/2026/04/14/69ddb9f4fdddff92678b4599.html][Xi hace equipo con Sánchez ante las guerras que respalda Trump: "China y España estamos del lado correcto de la historia" y rechanzan el "retorno a la ley de la selva"]]
-- [[https://www.elmundo.es/espana/2026/04/13/69dd3a64e85ece582d8b45b0.html][Los dos purgados por Puente, ante el Supremo para explicar el gran pelotazo de la trama de Ábalos: 4 millones en 38 minutos]]
-- [[https://www.elmundo.es/espana/2026/04/13/69dd3d40fc6c83c41e8b457d.html][Triple golpe a Vox por la caída de Orban: financiero, estratégico y de futuro]]
-- [[https://www.elmundo.es/espana/2026/04/14/69ddee50fdddff1b068b4571.html][Otra diputada de Vox en Murcia se va al Grupo Mixto y deja al partido sin capacidad de bloqueo en el Parlamento regional]]
+- [[https://www.elmundo.es/espana/2026/04/14/69ddfe6b21efa0ba238b457e.html][El Gobierno no expulsará a los inmigrantes que no obtengan el permiso tras la regularización: seguirán en España en situación irregular]]
+- [[https://www.elmundo.es/espana/2026/04/14/69ddfb8c21efa0630e8b459b.html][Manual para la regularización extraordinaria de inmigrantes: quién entra, qué pedir y cómo]]
+- [[https://www.elmundo.es/internacional/2026/04/14/69de503621efa0ce188b4581.html][Trump arremete contra su aliada Meloni: "Pensaba que tenía coraje, me equivoqué"]]
+- [[https://www.elmundo.es/espana/2026/04/14/69de3980e85ecea8528b45a4.html][El Gobierno sale en bloque a criticar la instrucción del juez Peinado con Puente a la cabeza, que insinúa que "pretende violentar la acción política" de Sánchez]]
+- [[https://www.elmundo.es/economia/2026/04/14/69ddf61121efa0f7698b45b1.html][El Gobierno descarta una gran conversión de interinos en fijos tras la sentencia del TJUE: "No obliga a hacerlo"]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/politica/20260414/11512920/gobierno-endurece-control-antecedentes-regularizacion-certificado-oficial-habra-permisos.html][El Gobierno endurece el control de antecedentes para la regularización]]
-- [[https://www.lavanguardia.com/economia/20260414/11512850/guerra-pasa-factura-dispara-inflacion-3-4-marzo.html][La guerra pasa factura y dispara la inflación al 3,4% en marzo]]
-- [[https://www.lavanguardia.com/cultura/musica/20260413/11512598/rosalia-llora-barcelona.html][Rosalía llora por Barcelona]]
+- [[https://www.lavanguardia.com/politica/20260414/11512920/gobierno-endurece-control-antecedentes-regularizacion-certificado-oficial-habra-permisos.html][El Gobierno endurece el control de antecedentes para la regularización de inmigrantes]]
+- [[https://www.lavanguardia.com/politica/20260414/11513143/reacciones-pp-vox-izquierda-regularizacion-inmigrantes-batalla-congreso.html][La regularización de inmigrantes desata una nueva batalla política que divide al Congreso]]
+- [[https://www.lavanguardia.com/politica/20260414/11513010/guia-rapida-regularizacion-inmigrantes-requisitos-tramites-plazos-permisos-calendario.html][Guía rápida de la regularización de inmigrantes: requisitos, trámites, plazos, permisos y calendario]]
+- [[https://www.lavanguardia.com/cultura/20260413/11512598/rosalia-llora-barcelona.html][Rosalía llora por Barcelona]]
 - [[https://www.lavanguardia.com/gente/20260413/11512579/yolanda-ramos-primera-invitada-confesionario-rosalia-barcelona.html][Yolanda Ramos, la primera invitada del confesionario de Rosalía en Barcelona]]
-- [[https://www.lavanguardia.com/cultura/20260413/11512319/horas-cola-rosalia-fans-sant-jordi.html][Horas de cola para ver a Rosalía en Barcelona: organización improvisada y amistades de un día]]
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/investigados-conductor-carne-copiloto-que-dijo-estaba-ayudando-aprobar-examen-practico/20260414113313191445.html][Investigados un conductor sin carné y el copiloto que dijo le estaba ayudando a aprobar el examen práctico]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/cierre-puente-peatonal-n-634-obliga-vecinos-caminar-calzada-hace-mas-dos-meses/20260414110739191443.html][El cierre de un puente peatonal en la N-634 "obliga a los vecinos a caminar por la calzada" desde hace más de dos meses]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/herido-conductor-tractor-salirse-via-cabanes/20260414105119191441.html][Herido el conductor de un tractor tras salirse de la vía en Cabañes]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/hacian-pasar-operarios-obras-robar-mas-2000-kilos-cobre-plena-luz-dia-pueblos-cantabria/20260414103458191439.html][Se hacían pasar por operarios de mantenimiento para robar más de dos toneladas de cobre a plena luz del día en pueblos de Cantabria]]
-- [[https://eldiariocantabria.publico.es/articulo/oriental/obras-emisario-submarino-arrancaran-mayo/20260413213208191435.html][Las obras del emisario submarino arrancarán en mayo]]
+- [[https://eldiariocantabria.publico.es/articulo/deportes/registro-obligatorio-comprar-entrada-racing/20260414175519191478.html][El Racing impone un registro obligatorio previo para comprar una entrada]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/piden-multa-430000-euros-empresa-hostelera-suances-dos-anos-carcel-apoderado-eludir-hacienda/20260414174000191477.html][Piden multa de 430.000 euros para una empresa hostelera de Suances y dos años de cárcel para un apoderado por eludir a Hacienda]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/interceptados-irun-10-gallos-pelea-furgoneta-que-habia-salido-cantabria-destino-francia/20260414170128191476.html][Interceptados en Irún 10 gallos de pelea en una furgoneta que había salido de Cantabria con destino a Francia]]
+- [[https://eldiariocantabria.publico.es/articulo/deportes/clave-temporada-siendo-humildad-equipo/20260414165414191473.html][“La clave de la temporada está siendo la humildad del equipo”]]
+- [[https://eldiariocantabria.publico.es/articulo/sanidad/transparencia-da-razon-podemos-reclamar-acceder-convenio-scs-santa-clotilde-mamografias-consejeria-ha-respetado-derecho-solicitante/20260414141829191464.html][Transparencia da la razón a Podemos al reclamar acceder al convenio del SCS con Santa Clotilde para las mamografías: "No se ha respetado el derecho del solicitante"]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
-- [[https://www.washingtonpost.com/lifestyle/2026/04/14/worlds-oldest-gorilla-fatou-berlin/][World’s oldest gorilla, known for her ‘dignified manner,’ turns 69]]
-- [[https://www.washingtonpost.com/national-security/2026/04/14/trump-iran-nuclear-demands/][Peace with Iran hinges on one side bowing to the other’s nuclear demands]]
+- [[https://www.washingtonpost.com/world/2026/04/14/iran-israel-lebanon-talks-washington/][Rubio hosts Israel-Lebanon talks in D.C. Here’s what to know.]]
+- [[https://www.washingtonpost.com/world/interactive/2026/hormuz-strait-control-blockade/][How geography powers Iran’s grip on the Strait of Hormuz, despite U.S. blockade]]
+- [[https://www.washingtonpost.com/lifestyle/2026/04/14/worlds-oldest-gorilla-fatou-berlin/][World’s oldest gorilla, known for her dignified manner, turns 69]]
+- [[https://www.washingtonpost.com/national-security/2026/04/14/trump-iran-nuclear-demands/][Peace with Iran hinges on nuclear compromise, and the two sides are miles apart]]
 - [[https://www.washingtonpost.com/world/2026/04/13/hungary-orban-magyar-celebration-transition/][Hungary’s opposition cheers Orban’s fall but faces challenging transition]]
-- [[https://www.washingtonpost.com/world/2026/04/13/brazil-fugitive-congressman-arrested-alexandre-ramagem/][Fugitive Bolsonaro ally, convicted in 2022 coup attempt, is detained by ICE]]
-- [[https://www.washingtonpost.com/world/2026/04/13/iran-blockade-us-trump-hormuz/][U.S. imposes naval blockade as Trump demands Iran end nuclear program]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/china/the-long-handshake-xis-quiet-grip-on-taiwans-soul-a270e156][The Long Handshake: Xi’s Quiet Grip on Taiwan’s Soul]]
+- [[https://www.wsj.com/world/middle-east/how-the-u-s-navy-is-blockading-the-strait-of-hormuz-to-choke-off-irans-ports-0a3f9784][How the U.S. Navy Is Blockading the Strait of Hormuz to Choke Off Iran’s Ports]]
 - [[https://www.wsj.com/world/china/founder-of-fallen-chinese-property-giant-evergrande-pleads-guilty-to-fraud-25240c8b][Founder of Fallen Chinese Property Giant Evergrande Pleads Guilty to Fraud]]
 - [[https://www.wsj.com/business/energy-oil/global-oil-demand-heads-for-contraction-as-iran-war-chokes-flows-iea-says-6d085e55][Global Oil Demand Heads for Contraction As Iran War Chokes Flows, IEA Says]]
 - [[https://www.wsj.com/world/middle-east/trumps-blockade-on-iran-in-strait-begins-fc114536][Trump’s Blockade on Iran in Strait Begins]]
-- [[https://www.wsj.com/world/americas/in-talks-with-u-s-cubas-raul-castro-leans-on-the-crab-and-the-one-eyed-man-c08501fc][In Talks With U.S., Cuba’s Raúl Castro Leans on ‘The Crab’ and ‘The One-Eyed Man’]]
-- [[https://www.wsj.com/world/middle-east/the-u-s-warships-poised-to-enforce-trumps-blockade-ee98a2d6][The U.S. Warships Poised to Enforce Trump’s Blockade]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/04/14/en-direct-guerre-au-moyen-orient-pekin-juge-dangereux-et-irresponsable-le-blocus-americain-des-ports-iraniens_6679867_3210.html][EN DIRECT, guerre au Moyen-Orient : la Chine juge « dangereux et irresponsable » le blocus américain des ports iraniens]]
-- [[https://www.lemonde.fr/politique/article/2026/04/14/travail-le-1er-mai-le-gouvernement-enterre-la-reforme_6679896_823448.html][Travail le 1ᵉʳ-Mai : Sébastien Lecornu tente de faire retomber la pression autour de la réforme]]
-- [[https://www.lemonde.fr/international/article/2026/04/14/en-hongrie-une-nouvelle-ere-commence-au-lendemain-de-la-defaite-de-viktor-orban_6679874_3210.html][En Hongrie, la défaite de Viktor Orban ouvre une nouvelle ère]]
-- [[https://www.lemonde.fr/politique/article/2026/04/14/services-publics-locaux-la-cour-des-comptes-appelle-les-collectivites-a-serrer-la-vis-sur-la-tarification-sociale_6679897_823448.html][Services publics locaux : la Cour des comptes appelle les collectivités à serrer la vis sur la tarification sociale]]
-- [[https://www.lemonde.fr/planete/article/2026/04/14/jean-marc-jancovici-la-hausse-des-prix-a-la-pompe-n-est-qu-un-aperitif-par-rapport-a-ce-qui-pourrait-advenir-si-la-decarbonation-n-est-pas-geree_6679882_3244.html][Jean-Marc Jancovici : « La hausse des prix à la pompe n’est qu’un apéritif par rapport à ce qui pourrait advenir si la décarbonation n’est pas gérée »]]
+- [[https://www.lemonde.fr/international/live/2026/04/14/en-direct-guerre-au-moyen-orient-washington-s-apprete-a-accueillir-les-pourparlers-de-paix-entre-le-liban-et-israel_6679867_3210.html][EN DIRECT, guerre au Moyen-Orient : deux navires venant d’Iran ont traversé le détroit d’Ormuz malgré le blocus américain ; Libanais et Israéliens sont à Washington pour des pourparlers de paix]]
+- [[https://www.lemonde.fr/les-decodeurs/article/2026/04/14/l-elysee-refuse-une-perquisition-dans-le-cadre-d-une-enquete-sur-l-organisation-des-ceremonies-d-hommage-au-pantheon_6679942_4355770.html][L’Elysée refuse une perquisition dans le cadre d’une enquête sur l’organisation des cérémonies d’hommage au Panthéon]]
+- [[https://www.lemonde.fr/societe/article/2026/04/14/proces-des-chefs-presumes-de-la-dz-mafia-vingt-cinq-ans-de-reclusion-et-un-acquittement-prononces-pour-un-double-meurtre-en-2019_6679953_3224.html][Procès des chefs présumés de la DZ Mafia : vingt-cinq ans de réclusion et un acquittement prononcés pour un double meurtre en 2019]]
+- [[https://www.lemonde.fr/livres/article/2026/04/14/olivier-nora-quitte-la-presidence-des-editions-grasset_6679936_3260.html][Olivier Nora quitte la présidence des éditions Grasset]]
+- [[https://www.lemonde.fr/economie/article/2026/04/14/terres-rares-des-entreprises-europeennes-prises-au-piege-des-restrictions-chinoises_6679935_3234.html][Terres rares : des entreprises européennes prises au piège des restrictions chinoises]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/en-direct-guerre-iran-donald-trump-blocus-detroit-ormuz-israel-liban-etats-unis-negociations-paix-20260414][EN DIRECT - Guerre en Iran : le président iranien dénonce auprès d’Emmanuel Macron «le manque de bonne volonté et les positions maximalistes des États-Unis»]]
-- [[https://www.lefigaro.fr/international/guerre-au-moyen-orient-la-chine-juge-dangereux-et-irresponsable-le-blocus-americain-des-ports-iraniens-decrete-par-donald-trump-20260414][Guerre au Moyen-Orient : la Chine juge «dangereux et irresponsable» le blocus américain des ports iraniens décrété par Donald Trump]]
-- [[https://www.lefigaro.fr/international/un-pays-strategique-et-opportuniste-qui-essaye-de-tirer-son-epingle-du-jeu-quel-role-la-chine-joue-t-elle-dans-la-guerre-en-iran-20260413][«Un pays stratégique et opportuniste qui essaye de tirer son épingle du jeu» : quel rôle la Chine joue-t-elle dans la guerre en Iran ?]]
-- [[https://www.lefigaro.fr/international/guerre-en-iran-les-etats-unis-ont-propose-une-pause-de-20-ans-dans-l-enrichissement-d-uranium-iranien-20260414][Guerre en Iran : les États-Unis ont proposé une pause de 20 ans dans l'enrichissement d'uranium iranien]]
-- [[https://www.lefigaro.fr/international/guerre-au-moyen-orient-donald-trump-impose-un-blocus-pour-asphyxier-l-iran-20260413][Guerre au Moyen-Orient : Donald Trump impose un blocus pour asphyxier l’Iran]]
+- [[https://www.lefigaro.fr/marseille/proces-des-cadres-presumes-de-la-dz-mafia-amine-oualane-acquitte-25-ans-de-prison-contre-gabriel-ory-20260414][Procès des cadres présumés de la DZ Mafia : Gabriel Ory condamné à 25 ans de prison, Amine Oualane acquitté]]
+- [[https://www.lefigaro.fr/faits-divers/puces-de-volaille-excrements-de-chauve-souris-ce-que-disent-les-traces-decouvertes-sur-les-restes-du-petit-emile-20260414][Puces de volaille, excréments de chauve-souris... Ce que disent les traces découvertes sur les restes du petit Émile]]
+- [[https://www.lefigaro.fr/international/en-direct-guerre-iran-donald-trump-blocus-detroit-ormuz-israel-liban-etats-unis-negociations-paix-20260414][EN DIRECT - Guerre au Moyen-Orient : Rubio reçoit les ambassadeurs israéliens et libanais pour de premiers pourparlers directs depuis des décennies]]
+- [[https://www.lefigaro.fr/conjoncture/deux-navires-en-provenance-d-iran-franchissent-le-detroit-d-ormuz-malgre-le-blocus-americain-20260414][Deux navires en provenance d’Iran franchissent le détroit d’Ormuz malgré le blocus américain]]
+- [[https://www.lefigaro.fr/conjoncture/les-bourses-europeennes-terminent-dans-le-vert-voulant-croire-a-la-resolution-du-conflit-au-moyen-orient-20260414][Les Bourses européennes terminent dans le vert, voulant croire à la résolution du conflit au Moyen-Orient]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss][Lebanon seeks peace, but Hezbollah needs to be convinced first]]
-- [[https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss]['They are striking everywhere' - Paramedics in Lebanon speak to BBC after Israeli strikes]]
-- [[https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss][Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war]]
-- [[https://www.bbc.com/news/articles/c86vpq42dl0o?at_medium=RSS&at_campaign=rss][Greek police using masked migrants to forcibly push other migrants back across border]]
-- [[https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss][Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming]]
+- [[https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss][Hamas rejects Gaza disarmament plan, Palestinian official says]]
+- [[https://www.bbc.com/news/articles/c8dll93j7d5o?at_medium=RSS&at_campaign=rss][JD Vance defends backing 'great guy' Orbán's campaign after landslide defeat]]
+- [[https://www.bbc.com/news/articles/c78rr9r4e5po?at_medium=RSS&at_campaign=rss][Accusers seek justice after unwanted explicit messages from Congressman Eric Swalwell]]
+- [[https://www.bbc.com/news/articles/c78lleelxj4o?at_medium=RSS&at_campaign=rss][US blockade of Iran ports irresponsible and dangerous, China says]]
+- [[https://www.bbc.com/news/articles/cj377mm7zzvo?at_medium=RSS&at_campaign=rss][Retrial over death of Argentina legend Maradona to begin]]
 
 *** The Guardian
 
+- [[https://www.theguardian.com/world/2026/apr/14/survivors-ask-why-nigeria-bombed-busy-market-in-effort-to-target-jihadist-group][Survivors ask why busy market bombed in Nigerian anti-terror campaign]]
+- [[https://www.theguardian.com/global-development/2026/apr/14/no-end-sudan-war-conflict-third-anniversary][Anger at ‘bloody unacceptable’ efforts to end Sudan’s war as conflict enters fourth year]]
 - [[https://www.theguardian.com/world/2026/apr/13/chagos-islands-treaty-mauritius-uk-bill-parliament][Chagos Islands treaty is now ‘impossible to agree at political level’, UK minister says]]
 - [[https://www.theguardian.com/world/2026/apr/13/pope-leo-visits-algeria-africa-tour-catholic-church][Pope Leo visits Algeria in sign of Africa’s growing importance to Catholic church]]
 - [[https://www.theguardian.com/football/2026/apr/13/dominic-frimpong-killed-armed-robbers-team-bus-ghana][Ghanaian winger Dominic Frimpong killed at age of 20 in attack on team bus]]
-- [[https://www.theguardian.com/global-development/2026/apr/13/elections-africa-soaring-nomination-fees-djibouti-benin][And the election winner is … the candidate who can afford Africa’s soaring nomination fees]]
-- [[https://www.theguardian.com/world/2026/apr/13/abidjan-art-week-cote-d-ivoire-culture][‘This scene is alive’: Abidjan art week showcases city as growing cultural hub]]
 
 ** 🇮🇹 Italia
 
@@ -137,39 +137,39 @@
 
 *** Il Sole 24 Ore
 
+- [[https://www.ilsole24ore.com/art/appalti-anac-l-effetto-soglia-spezza-lotti-e-riduce-gare-AIe7o8TC][Appalti, Anac: l’effetto soglia spezza i lotti e riduce le gare]]
+- [[https://www.ilsole24ore.com/art/cassa-lombarda-entra-nell-azionariato-finlabo-sim-il-75percento-AIp9H3UC][Cassa Lombarda entra nell’azionariato di Finlabo Sim con il 7,5%]]
+- [[https://www.ilsole24ore.com/art/guerra-e-shock-energia-stangata-consumi-fino-963-euro-meno-famiglia-e-rischio-stagnazione-AIOCwnUC][Guerra e shock energia, stangata sui consumi: fino a 963 euro in meno a famiglia e rischio stagnazione]]
+- [[https://www.ilsole24ore.com/art/mobilita-30-milioni-viaggio-ogni-giorno-l-auto-resta-regina-trasporto-pubblico-fermo-17percento-AI9Mh2TC][Mobilità, 30 milioni in viaggio ogni giorno. L’auto resta regina, trasporto pubblico fermo al 17%]]
 - [[https://www.ilsole24ore.com/art/dalle-stufe-design-modellini-lego-cosi-fibra-aiuta-aziende-italiane-AIXKp1TC][Dalle stufe di design ai modellini in Lego: così la fibra aiuta le aziende italiane]]
-- [[https://www.ilsole24ore.com/art/meloni-subito-stop-patto-stabilita-ue-gas-russo-capisco-descalzi-ma-fare-attenzione-AILwflUC][Meloni: «Subito stop patto stabilità Ue. Sul gas russo capisco Descalzi ma fare attenzione»]]
-- [[https://www.ilsole24ore.com/art/oltre-cento-passeggeri-bloccati-linate-i-ritardi-causati-nuovo-sistema-controllo-elettronico-frontiere-AIBnwcUC][Oltre 120 passeggeri bloccati a Linate per i ritardi causati dal nuovo sistema di controllo elettronico alle frontiere]]
-- [[https://www.ilsole24ore.com/art/ponte-stretto-ecco-perche-anac-insiste-nuova-gara-AIi6KBQC][Ponte sullo Stretto, ecco perché Anac insiste sulla nuova gara]]
-- [[https://www.ilsole24ore.com/art/caro-bollette-24-milioni-famiglie-arriva-bonus-115-euro-AIaB5tSC][Caro bollette, per 2,4 milioni di famiglie arriva il bonus a 115 euro]]
 
 ** 🇩🇪 Alemania
 
 *** Der Spiegel
 
+- [[https://www.spiegel.de/international/world/trumps-blockade-the-lights-are-going-out-in-cuba-a-936fdecc-18e2-4700-83bd-d8ae417c7ec6#ref=rss][Trump's Blockade: The Lights Are Going Out in Cuba]]
 - [[https://www.spiegel.de/international/world/short-term-excursion-trump-has-run-out-of-options-in-iran-a-b76cef19-aabc-45de-8b1e-a0f33f607496#ref=rss][Donald Trump Has Run Out of Options in Iran]]
 - [[https://www.spiegel.de/international/world/ukrainians-soldiers-who-have-abandoned-the-fight-all-quiet-on-the-eastern-front-a-2f51d902-1ba5-4714-b95f-da2ff1c1ad2b#ref=rss][Ukrainians Soldiers Who Have Abandoned the Fight: All Quiet on the Eastern Front]]
 - [[https://www.spiegel.de/international/world/u-s-military-expert-on-oil-tanker-convoys-in-the-strait-of-hormuz-iran-must-only-succeed-once-to-trigger-a-catastrophe-a-1b4f4521-01dd-4711-8a5e-8da225d053b5#ref=rss][U.S. Military Expert on Oil Tanker Convoys in the Strait of Hormuz: "Iran Must Only Succeed Once to Trigger a Catastrophe"]]
 - [[https://www.spiegel.de/international/world/indigenous-activist-nick-tilsen-trump-wants-to-hear-nothing-about-the-genocide-against-indigenous-nations-a-7dd75e1c-ebec-4da8-b228-d6d0770258ed#ref=rss][Indigenous Activist Nick Tilsen: "Trump Wants to Hear Nothing about the Genocide against Indigenous Nations"]]
-- [[https://www.spiegel.de/international/world/a-world-in-chaos-trumps-u-s-abandons-role-as-global-leader-a-e0418524-fb05-4ec2-9688-e3f00a11d9eb#ref=rss][Donald Trump's U.S. Abandons Role as Global Leader]]
 
 *** Deutsche Welle
 
-- [[https://www.dw.com/en/south-korea-90-year-old-woman-gets-jail-for-money-laundering/a-76773971?maca=en-rss-en-world-4025-rdf][South Korea: 90-year-old woman gets jail for money laundering]]
-- [[https://www.dw.com/en/spanish-pm-sanchez-wife-charged-with-corruption/a-76770986?maca=en-rss-en-world-4025-rdf][Spanish PM Sanchez' wife charged with corruption]]
-- [[https://www.dw.com/en/canada-carney-secures-majority-after-special-election/a-76770243?maca=en-rss-en-world-4025-rdf][Canada: Carney secures majority after special election]]
-- [[https://www.dw.com/en/china-evergrande-property-developer-founder-pleads-guilty/a-76770242?maca=en-rss-en-world-4025-rdf][China: Evergrande property developer founder pleads guilty]]
-- [[https://www.dw.com/en/benin-s-finance-minister-wins-presidential-election-with-94/a-76769500?maca=en-rss-en-world-4025-rdf][Benin's finance minister wins presidential election with 94%]]
+- [[https://www.dw.com/en/venezuela-100-days-with-acting-president-delcy-rodriguez/a-76779305?maca=en-rss-en-world-4025-rdf][Venezuela: 100 days with acting President Delcy Rodriguez]]
+- [[https://www.dw.com/en/iran-war-us-blockade-of-hormuz-tests-china-s-restraint/a-76777251?maca=en-rss-en-world-4025-rdf][Iran war: US blockade of Hormuz tests China's restraint]]
+- [[https://www.dw.com/en/why-india-walked-away-from-its-bid-to-host-cop33/a-76778682?maca=en-rss-en-world-4025-rdf][Why India walked away from its bid to host COP33]]
+- [[https://www.dw.com/en/orban-s-defeat-in-hungary-reverberates-across-central-europe/a-76776714?maca=en-rss-en-world-4025-rdf][Orban's defeat in Hungary reverberates across Central Europe]]
+- [[https://www.dw.com/en/haiti-several-police-arrested-over-stampede-which-killed-25/a-76776816?maca=en-rss-en-world-4025-rdf][Haiti: Several police arrested over stampede which killed 25]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/04/tiroteio-em-escola-na-turquia-deixa-ao-menos-7-pessoas-feridas.shtml][Tiroteio em escola na Turquia deixa ao menos 7 pessoas feridas]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/eua-e-china-vivem-empate-tecnico-na-corrida-pela-ia-mostra-relatorio.shtml][EUA e China vivem empate técnico na corrida pela IA, mostra relatório]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/04/apps-falsos-de-emprego-sao-usados-para-fraudar-financiamentos-em-nome-de-vitimas.shtml][Apps falsos de emprego são usados para fraudar financiamentos em nome de vítimas]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/nivel-do-sistema-cantareira-volta-a-cair-apos-atingir-pico-do-ano-em-marco.shtml][Nível do sistema Cantareira volta a cair após atingir pico do ano em março]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/04/controladoria-ve-fragilidades-em-bolsas-do-cnpq-e-fala-em-ate-r-45-milhoes-em-pagamentos-indevidos.shtml][Controladoria vê fragilidades em bolsas do CNPq e fala em até R$ 45 milhões em pagamentos indevidos]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2026/04/enhypen-grupo-de-k-pop-fara-show-unico-no-brasil-veja-como-comprar-ingressos.shtml][Enhypen, grupo de k-pop, fará show único no Brasil; veja como comprar ingressos]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/04/meloni-suspende-acordo-militar-com-israel-trump-critica-falta-de-coragem-na-guerra-do-ira.shtml][Meloni suspende acordo militar com Israel; Trump critica 'falta de coragem' na guerra do Irã]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/04/entenda-a-prisao-de-alexandre-ramagem-nos-eua-e-o-que-pode-acontecer-com-o-ex-deputado.shtml][Entenda a prisão de Alexandre Ramagem nos EUA e o que pode acontecer com o ex-deputado]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/petrobras-comeca-a-devolver-agio-do-gas-de-cozinha-mas-impacto-ao-consumidor-e-limitado.shtml][Petrobras começa a devolver ágio do gás de cozinha, mas impacto ao consumidor é limitado]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/ibge-aumenta-estimativa-e-passa-a-prever-recorde-para-safra-de-graos-em-2026.shtml][IBGE aumenta estimativa e passa a prever recorde para safra de grãos em 2026]]
 
 *** O Globo
 
