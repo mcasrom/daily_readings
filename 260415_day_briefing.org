@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 40.8°C | ⚖ Load: 0.00 | 🌐 Ping: 10.8ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 41.9°C | ⚖ Load: 0.00 | 🌐 Ping: 9.30ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,19 +49,19 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/04/14/69ddfe6b21efa0ba238b457e.html][El Gobierno no expulsará a los inmigrantes que no obtengan el permiso tras la regularización: seguirán en España en situación irregular]]
-- [[https://www.elmundo.es/internacional/2026/04/14/69de503621efa0ce188b4581.html][Trump arremete contra su aliada Meloni: "Pensaba que tenía coraje, me equivoqué"]]
-- [[https://www.elmundo.es/economia/2026/04/14/69de6305fdddff97798b456f.html][La española Amparo Moraleda rompe la tradición francoalemana en Airbus y presidirá el gigante industrial europeo]]
-- [[https://www.elmundo.es/deportes/futbol/champions-league/2026/04/14/69de81a0fc6c83d9588b458f.html][El Atlético se repone a sí mismo y al Barça y pasa a semifinales de la Champions]]
-- [[https://www.elmundo.es/deportes/futbol/champions-league/2026/04/14/69deb133e85ecea8528b45b8.html][El Atleti y el sueño de un loco: ya sólo quedan cuatro]]
+- [[https://www.elmundo.es/espana/2026/04/14/69de84e4e9cf4ad3768b4589.html][Pekín atribuye a Sánchez el apoyo en secreto a la anexión de Taiwán]]
+- [[https://www.elmundo.es/espana/2026/04/15/69de50f0fc6c8360378b459d.html][Los técnicos de la Comisión Europea avisan de que "China tiene la capacidad y ha realizado investigaciones para provocar apagones en la UE"]]
+- [[https://www.elmundo.es/economia/macroeconomia/2026/04/15/69de20c6fdddff5d268b45b6.html][La regularización de inmigrantes elevará el PIB y las horas trabajadas, pero provocará un descenso del 0,6% en los salarios]]
+- [[https://www.elmundo.es/espana/2026/04/14/69de980421efa06c278b4593.html][Las cuatro regularizaciones de la familia Luna: "Si no nos las conceden, no habrá trabajo ni podremos comer"]]
+- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/04/14/69de7e6efdddff59478b4591.html][La regularización sirve al PSOE para sacudir el 17-M: ¿presionará a Moreno?, ¿revivirá Vox?]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/deportes/futbol/20260414/11513509/atletico-de-madrid-barcelona-champions-league-partido-futbol-hoy-en-directo.html][El Barça se vuelve a quedar cerca de la remontada ante el Atlético, que se clasifica para las semifinales (1-2)]]
-- [[https://www.lavanguardia.com/politica/20260414/11512920/gobierno-endurece-control-antecedentes-regularizacion-certificado-oficial-habra-permisos.html][El Gobierno endurece el control de antecedentes para la regularización de inmigrantes]]
-- [[https://www.lavanguardia.com/politica/20260414/11513143/reacciones-pp-vox-izquierda-regularizacion-inmigrantes-batalla-congreso.html][La regularización de inmigrantes desata una nueva batalla política que divide al Congreso]]
-- [[https://www.lavanguardia.com/politica/20260414/11513010/guia-rapida-regularizacion-inmigrantes-requisitos-tramites-plazos-permisos-calendario.html][Guía rápida de la regularización de inmigrantes: requisitos, trámites, plazos, permisos y calendario]]
-- [[https://www.lavanguardia.com/internacional/20260414/11513048/italia-suspende-renovacion-acuerdo-defensa-israel.html][Trump rompe con Meloni por defender al Papa: “Ella es la inaceptable. Pensaba que tenía coraje, me equivoqué”]]
+- [[https://www.lavanguardia.com/internacional/20260414/11513554/libano-e-israel-buscan-alto-fuego-improbable-washington.html][Líbano e Israel buscan un alto el fuego improbable en Washington]]
+- [[https://www.lavanguardia.com/internacional/20260414/11513370/macron-starmer-reuniran-paises-beligerantes-dispuestos-reabrir-ormuz.html][Macron y Starmer reunirán a los países “no beligerantes” dispuestos a reabrir Ormuz]]
+- [[https://www.lavanguardia.com/economia/20260414/11513537/wall-street-ignora-geopolitica-cotiza-mas-alto-conflicto.html][Wall Street ignora la geopolítica y ya cotiza más alto que antes del conflicto]]
+- [[https://www.lavanguardia.com/internacional/20260414/11513048/italia-suspende-renovacion-acuerdo-defensa-israel.html][Trump rompe con Meloni por defender al Papa: “Pensaba que tenía coraje, me equivoqué”]]
+- [[https://www.lavanguardia.com/opinion/20260415/11513599/meloni-cambia-compas.html][Meloni cambia el compás]]
 
 *** El Diario de Cantabria
 
@@ -83,47 +83,47 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/middle-east/iran-ports-are-quiet-as-strait-blockade-holds-up-f43191da][Iran Ports Are Quiet As Strait Blockade Holds Up]]
+- [[https://www.wsj.com/world/middle-east/iran-radical-regime-change-a42d96ea][Iran’s Regime Has Changed—for the Worse]]
+- [[https://www.wsj.com/world/middle-east/heres-what-the-u-s-blockade-of-iran-looks-like-ccb3383a][Here’s What the U.S. Blockade of Iran Looks Like]]
+- [[https://www.wsj.com/world/europe/europe-nato-trump-plans-3a423233][Europe Is Accelerating a NATO Fallback Plan in Case Trump Pulls Out]]
 - [[https://www.wsj.com/world/americas/how-canadas-carney-used-his-political-savvy-to-win-a-majority-eae707f6][How Canada’s Carney Used His Political Savvy to Win a Majority]]
-- [[https://www.wsj.com/world/europe/europe-drafts-postwar-plan-to-free-up-hormuz-without-u-s-5638f5f8][Europe Drafts Postwar Plan to Free Up Hormuz Without U.S.]]
-- [[https://www.wsj.com/world/china/the-long-handshake-xis-quiet-grip-on-taiwans-soul-a270e156][The Long Handshake: Xi’s Quiet Grip on Taiwan’s Soul]]
-- [[https://www.wsj.com/world/middle-east/how-the-u-s-navy-is-blockading-the-strait-of-hormuz-to-choke-off-irans-ports-0a3f9784][How the U.S. Navy Is Blockading the Strait of Hormuz to Choke Off Iran’s Ports]]
-- [[https://www.wsj.com/world/china/founder-of-fallen-chinese-property-giant-evergrande-pleads-guilty-to-fraud-25240c8b][Founder of Fallen Chinese Property Giant Evergrande Pleads Guilty to Fraud]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/04/14/en-direct-guerre-au-moyen-orient-israel-et-le-liban-d-accord-pour-entamer-des-negociations-directes-apres-des-discussions-productives_6679867_3210.html][EN DIRECT, guerre au Moyen-Orient : Israël rejette toute participation de la France aux négociations avec le Liban]]
-- [[https://www.lemonde.fr/economie/article/2026/04/14/carburants-le-gouvernement-pret-a-encadrer-les-marges-des-stations-service-mais-pas-a-geler-les-prix-a-la-pompe_6679983_3234.html][Carburants : le gouvernement prêt à encadrer les marges des stations-service, mais pas à geler les prix à la pompe]]
-- [[https://www.lemonde.fr/education/article/2026/04/14/harcelement-scolaire-pourquoi-l-ex-professeure-d-evaelle-a-ete-condamnee-a-un-an-de-prison-avec-sursis_6679970_1473685.html][Harcèlement scolaire : pourquoi l’ex-professeure d’Evaëlle a été condamnée à un an de prison avec sursis]]
+- [[https://www.lemonde.fr/international/live/2026/04/15/en-direct-guerre-au-moyen-orient-israel-rejette-toute-participation-de-la-france-aux-negociations-de-paix-avec-le-liban_6679867_3210.html][EN DIRECT, guerre au Moyen-Orient : Israël rejette toute participation de la France aux négociations de paix avec le Liban]]
+- [[https://www.lemonde.fr/politique/article/2026/04/15/le-gouvernement-de-sebastien-lecornu-multiplie-les-revers-a-l-assemblee-parfois-venus-de-son-propre-camp_6680202_823448.html][Le gouvernement de Sébastien Lecornu multiplie les revers à l’Assemblée, parfois venus de son propre camp]]
+- [[https://www.lemonde.fr/afrique/article/2026/04/15/comment-l-algerie-a-cherche-a-imposer-le-silence-sur-le-double-attentat-suicide-de-blida-lors-de-la-visite-du-pape-leon-xiv_6680167_3212.html][Comment l’Algérie a cherché à imposer le silence sur le double attentat-suicide de Blida lors de la visite du pape Léon XIV]]
 - [[https://www.lemonde.fr/societe/article/2026/04/14/au-proces-en-appel-de-l-affaire-sarkozy-kadhafi-la-riposte-de-claude-gueant-apres-les-attaques-de-l-ancien-president_6679989_3224.html][Au procès en appel de l’affaire Sarkozy-Kadhafi, la riposte de Claude Guéant après les attaques de l’ancien président]]
-- [[https://www.lemonde.fr/afrique/article/2026/04/14/le-pape-leon-xiv-sur-les-traces-de-saint-augustin-en-algerie-adresse-un-difficile-message-de-paix_6679993_3212.html][Le pape Léon XIV, sur les traces de saint Augustin, en Algérie, adresse un difficile message de paix]]
+- [[https://www.lemonde.fr/economie/article/2026/04/15/le-limogeage-d-olivier-nora-a-la-tete-de-grasset-confirme-la-reprise-en-main-de-l-edition-par-vincent-bollore_6680200_3234.html][Le limogeage d’Olivier Nora à la tête de Grasset confirme la reprise en main de l’édition par Vincent Bolloré]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/actualite-france/agressions-braquages-cambriolages-decouvrez-les-vrais-chiffres-des-crimes-et-delits-en-france-ville-par-ville-20260414][Agressions, braquages, cambriolages… Découvrez les vrais chiffres des crimes et délits en France, ville par ville]]
-- [[https://www.lefigaro.fr/international/navires-indisponibles-fantassins-en-sous-nombre-gaspillage-avec-des-armees-a-bout-de-souffle-le-royaume-uni-serait-en-peril-20260414][Navires indisponibles, fantassins en sous-nombre, gaspillage… Avec des armées à bout de souffle, le Royaume-Uni serait « en péril »]]
+- [[https://www.lefigaro.fr/actualite-france/donald-trump-choque-la-droite-religieuse-en-s-en-prenant-au-pape-leon-xiv-20260414][Donald Trump choque la droite religieuse en s’en prenant au pape Léon XIV]]
+- [[https://www.lefigaro.fr/conjoncture/on-est-oblige-de-le-prendre-en-compte-jamais-personne-n-a-eu-autant-d-effet-sur-la-bourse-que-donald-trump-20260414][« On est obligé de le prendre en compte » : jamais personne n’a eu autant d’effet sur la Bourse que Donald Trump]]
 - [[https://www.lefigaro.fr/international/en-direct-guerre-iran-donald-trump-blocus-detroit-ormuz-israel-liban-etats-unis-negociations-paix-20260414][EN DIRECT - Guerre au Moyen-Orient : Israël ne veut pas de la France dans les négociations avec le Liban]]
+- [[https://www.lefigaro.fr/international/guerre-au-moyen-orient-l-italie-suspend-son-accord-de-defense-avec-israel-20260414][Guerre au Moyen-Orient : l'Italie suspend son accord de défense avec Israël]]
 - [[https://www.lefigaro.fr/international/la-marge-de-manoeuvre-est-tres-etroite-le-liban-s-engage-dans-des-discussions-avec-israel-en-rangs-divises-20260414][«La marge de manœuvre est très étroite» : le Liban s’engage dans des discussions avec Israël en rangs divisés]]
-- [[https://www.lefigaro.fr/conjoncture/deux-navires-en-provenance-d-iran-franchissent-le-detroit-d-ormuz-malgre-le-blocus-americain-20260414][Deux navires en provenance d’Iran franchissent le détroit d’Ormuz malgré le blocus américain]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss][Hamas rejects Gaza disarmament plan, Palestinian official says]]
-- [[https://www.bbc.com/news/articles/c8dll93j7d5o?at_medium=RSS&at_campaign=rss][JD Vance defends backing 'great guy' Orbán's campaign after landslide defeat]]
-- [[https://www.bbc.com/news/articles/c78rr9r4e5po?at_medium=RSS&at_campaign=rss][Another woman accuses Swalwell of drugging and raping her in 2018]]
-- [[https://www.bbc.com/news/articles/c78lleelxj4o?at_medium=RSS&at_campaign=rss][US blockade of Iran ports irresponsible and dangerous, China says]]
-- [[https://www.bbc.com/news/articles/cj377mm7zzvo?at_medium=RSS&at_campaign=rss][Retrial over death of Argentina legend Maradona begins]]
+- [[https://www.bbc.com/news/articles/c20ddnz4w5lo?at_medium=RSS&at_campaign=rss][Trump hints Iran talks could resume this week as US port blockade continues]]
+- [[https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss]['Bit of pain' worth long-term security from Iran, Bessent tells BBC]]
+- [[https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss][Israel and Lebanon hold first direct talks since 1993]]
+- [[https://www.bbc.com/news/articles/cy01d1g0rrjo?at_medium=RSS&at_campaign=rss][Three years of messages at once - a chronicle of Sudan's war pours in as trapped reporter's phone turns on]]
+- [[https://www.bbc.com/news/articles/cq8ww7d72wyo?at_medium=RSS&at_campaign=rss][Man wins €1m Picasso painting in €100 charity raffle]]
 
 *** The Guardian
 
+- [[https://www.theguardian.com/world/2026/apr/15/uk-sudan-war-berlin-talks-aid-rsf-hunger-saudi-uae][UK to call for end to Sudan bloodshed at Berlin talks on third anniversary of war]]
 - [[https://www.theguardian.com/world/2026/apr/14/survivors-ask-why-nigeria-bombed-busy-market-in-effort-to-target-jihadist-group][Survivors ask why busy market bombed in Nigerian anti-terror campaign]]
 - [[https://www.theguardian.com/global-development/2026/apr/14/no-end-sudan-war-conflict-third-anniversary][Anger at ‘bloody unacceptable’ efforts to end Sudan’s war as conflict enters fourth year]]
 - [[https://www.theguardian.com/world/2026/apr/13/chagos-islands-treaty-mauritius-uk-bill-parliament][Chagos Islands treaty is now ‘impossible to agree at political level’, UK minister says]]
 - [[https://www.theguardian.com/world/2026/apr/13/pope-leo-visits-algeria-africa-tour-catholic-church][Pope Leo visits Algeria in sign of Africa’s growing importance to Catholic church]]
-- [[https://www.theguardian.com/football/2026/apr/13/dominic-frimpong-killed-armed-robbers-team-bus-ghana][Ghanaian winger Dominic Frimpong killed at age of 20 in attack on team bus]]
 
 ** 🇮🇹 Italia
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/france-s-renault-slashes-engineer-jobs-amid-pressure-from-chinese-carmakers/a-76783924?maca=en-rss-en-world-4025-rdf][France's Renault slashes engineer jobs amid pressure from Chinese carmakers]]
 - [[https://www.dw.com/en/spain-sanchez-government-finalizes-amnesty-plan-for-undocumented-migrants/a-76782610?maca=en-rss-en-world-4025-rdf][Spain: Sanchez government finalizes amnesty plan for undocumented migrants]]
 - [[https://www.dw.com/en/lebanon-debate-over-fake-plot-to-overthrow-government/a-76782219?maca=en-rss-en-world-4025-rdf][Lebanon: Debate over fake 'plot' to overthrow government]]
 - [[https://www.dw.com/en/antisemitic-violence-at-record-high-for-jews-outside-israel/a-76781707?maca=en-rss-en-world-4025-rdf][Antisemitic violence at record high for Jews outside Israel]]
 - [[https://www.dw.com/en/sudan-iran-war-prompts-massive-food-fuel-price-rises-drones-kill-hundreds-of-civilians-in-2026/a-76779824?maca=en-rss-en-world-4025-rdf][Sudan: Iran war prompts 'massive' food, fuel price rises; drones kill hundreds of civilians in 2026]]
-- [[https://www.dw.com/en/venezuela-100-days-with-acting-president-delcy-rodriguez/a-76779305?maca=en-rss-en-world-4025-rdf][Venezuela: 100 days with acting President Delcy Rodriguez]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/mae-de-suspeito-assume-responsabilidade-por-acidente-com-porsche-em-sp-e-contraria-testemunhas.shtml][Mãe de suspeito assume responsabilidade por acidente com Porsche em SP e contraria testemunhas]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/motta-insiste-em-pec-para-fim-da-escala-6x1-mas-lula-mandara-projeto-mesmo-assim.shtml][Motta insiste em PEC para fim da escala 6x1, mas Lula mandará projeto mesmo assim]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/jerson-kelman/2026/04/descentralizacao-no-saneamento-e-na-energia-eletrica.shtml][Descentralização no saneamento e na energia elétrica]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2026/04/tiradentes-era-dentista-mesmo.shtml][Tiradentes era dentista mesmo?]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/disney-demite-1000-funcionarios-em-nova-onda-de-cortes.shtml][Disney demite 1.000 funcionários em nova onda de cortes]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/04/bbb-26-ana-paula-jordana-e-juliano-estao-no-paredao-vote-na-enquete.shtml][BBB 26: Ana Paula, Jordana e Juliano estão no paredão; vote na enquete]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/04/bbb-26-leandro-boneco-e-o-ultimo-lider-da-temporada.shtml][BBB 26: Leandro Boneco é o último líder da temporada]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marceloviana/2026/04/o-experimento-do-tensor-liquido.shtml][O experimento do tensor líquido]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/deirdre-nansen-mccloskey/2026/04/o-neoinstitucionalismo-nao-tem-bases-historicas.shtml][O neoinstitucionalismo não tem bases históricas]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/04/guerra-esquecida-no-sudao-chega-a-3-anos-com-dezenas-de-milhares-de-mortos-e-catastrofe-humanitaria.shtml]['Guerra esquecida' no Sudão chega a 3 anos com dezenas de milhares de mortos e catástrofe humanitária]]
 
 *** O Globo
 
