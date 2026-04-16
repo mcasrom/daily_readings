@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 42.4°C | ⚖ Load: 0.00 | 🌐 Ping: 9.22ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 41.3°C | ⚖ Load: 0.24 | 🌐 Ping: 9.75ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -42,24 +42,24 @@
 *** El País
 
 - [[https://elpais.com/internacional/2026-04-15/iran-amenaza-con-impedir-el-comercio-maritimo-en-la-region-si-ee-uu-sigue-bloqueando-ormuz.html][Irán y EE UU buscan retomar el diálogo en medio de amenazas sobre Ormuz]]
-- [[https://elpais.com/internacional/2026-04-15/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html][Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Netanyahu ordena reforzar el territorio ocupado en el sur de Líbano]]
+- [[https://elpais.com/internacional/2026-04-15/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html][Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tres nuevos ataques israelíes en el sur de Líbano dejan al menos diez muertos]]
 - [[https://elpais.com/economia/2026-04-15/bruselas-plantea-un-dia-de-teletrabajo-obligatorio-y-abaratar-el-transporte-publico-para-paliar-la-crisis-energetica.html][Bruselas plantea un día de teletrabajo obligatorio y abaratar el transporte público para paliar la crisis energética]]
 - [[https://elpais.com/economia/2026-04-15/la-fiscalia-irrumpe-sin-previo-aviso-en-las-obras-de-la-reserva-federal-en-plena-investigacion-sobre-su-remodelacion.html][Trump amenaza con despedir a Jerome Powell si en mayo no abandona su puesto como presidente de la Reserva Federal]]
 - [[https://elpais.com/sociedad/2026-04-15/lipoproteina-a-la-prueba-para-el-colesterol-que-todo-el-mundo-deberia-hacerse-y-que-no-ofrece-la-sanidad-publica.html][Lipoproteína A: la prueba para el colesterol que todo el mundo debería hacerse y que no ofrece la sanidad pública]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/04/15/69dfe4eafc6c83f3278b45c4.html][Pardo de Vera y el ex secretario general de Puertos destacan la influencia de Aldama en el Ministerio de Transportes]]
+- [[https://www.elmundo.es/espana/2026/04/15/69dfc2c221efa0ed3f8b4573.html][Aldama pagó un catering para 5 ministros de Sánchez con Delcy Rodríguez en el chalé de El Viso]]
 - [[https://www.elmundo.es/espana/2026/04/15/69dfc459fdddff06108b4585.html][Tuvimos a la más bella Teresa de Calcuta en Adif]]
-- [[https://www.elmundo.es/espana/2026/04/15/69df8f60fdddff0d518b4585.html][Vox sale en defensa de su "aliada" Meloni y ve "poco comprensibles" algunas posiciones de Trump]]
+- [[https://www.elmundo.es/espana/2026/04/15/69dfc083e4d4d8e4478b459c.html][Lora se llevó a una reunión de la Sepi para rescatar Duro Felguera al comisionista Vicente Fernández aunque llevaba un año cesado]]
 - [[https://www.elmundo.es/deportes/futbol/champions-league/2026/04/15/69dfe4e3e9cf4a5f2d8b45af.html][El orgullo en Múnich no evita una derrota que aboca al Madrid a un año en blanco]]
-- [[https://www.elmundo.es/deportes/futbol/champions-league/2026/04/15/69dff11efdddff0d518b459a.html][La roja a Camavinga que decidió el Bayern-Real Madrid y la duda con el árbitro: "Creo que no sabía que era la segunda"]]
+- [[https://www.elmundo.es/deportes/futbol/champions-league/2026/04/15/69dff11efdddff0d518b459a.html][La decisiva roja a Camavinga en el Bayern-Real Madrid y la duda con el árbitro: "Creo que no sabía que era la segunda"]]
 
 *** La Vanguardia
 
 - [[https://www.lavanguardia.com/internacional/20260415/11514169/iran-amenaza-bloquear-mar-rojo-ee-uu-retira-ormuz.html][Irán amenaza con bloquear el mar Rojo si EE.UU. no se va de Ormuz]]
 - [[https://www.lavanguardia.com/internacional/20260415/11513069/bloqueo-ormuz-trump-apuesta-peligrosa.html][El bloqueo de Ormuz de Trump es una apuesta peligrosa]]
-- [[https://www.lavanguardia.com/internacional/20260415/11513618/guerra-iran-ataque-estados-unidos-trump-israel-libano-hoy-en-directo.html][Última hora de la guerra contra Irán de EE.UU. e Israel, en directo | El diálogo entre Estados Unidos e Irán sigue vivo tras el bloqueo de Islamabad]]
+- [[https://www.lavanguardia.com/internacional/20260415/11514555/casa-blanca-reconoce-contactos-nueva-ronda-conversaciones-iran.html][La Casa Blanca reconoce contactos para una nueva ronda de conversaciones con Irán]]
 - [[https://www.lavanguardia.com/internacional/20260415/11514041/agencia-internacional-energia-atomica-alerta-sobre-capacidades-corea-norte.html][La Agencia Internacional de la Energía Atómica alerta sobre las capacidades de Corea del Norte]]
 - [[https://www.lavanguardia.com/internacional/20260415/11514266/trump-vuelve-incendiar-redes-imagen-jesus-dios-jugando-carta-ganadora.html][Trump desafía a las críticas con otra imagen de Jesucristo: “Dios podría estar jugando su carta ganadora”]]
 
@@ -75,47 +75,47 @@
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/national-security/2026/04/15/trump-un-trade-over-aid/][Trump administration pushes nations to sign ‘trade over aid’ declaration]]
+- [[https://www.washingtonpost.com/business/2026/04/15/haiti-tps-trump/][House defies Trump on immigration with move to shield Haitians]]
 - [[https://www.washingtonpost.com/national-security/2026/04/15/us-troops-iran-blockade/][U.S. sends thousands more troops to Mideast as Trump seeks to squeeze Iran]]
 - [[https://www.washingtonpost.com/national-security/2026/04/15/trump-china-iran/][Trump says China has agreed not to send weapons to Iran]]
-- [[https://www.washingtonpost.com/business/2026/04/15/haiti-tps-trump/][House defies Trump on immigration with move to shield Haitians]]
 - [[https://www.washingtonpost.com/national-security/2026/04/14/us-blockade-hormuz/][Iranian sea trade blocked as six ships forced to turn back, U.S. military says]]
-- [[https://www.washingtonpost.com/world/2026/04/14/iran-israel-lebanon-talks-washington/][Lebanese, Israeli diplomats hold rare face-to-face meeting in Washington]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/middle-east/irans-war-shattered-economy-means-it-has-an-urgent-reason-to-negotiate-43937f36][Iran’s War-Shattered Economy Means It Has an Urgent Reason to Negotiate]]
+- [[https://www.wsj.com/world/europe/trump-turns-against-italys-giorgia-meloni-broadening-clash-with-europe-ba37f1d4][Trump Turns Against Italy’s Giorgia Meloni, Broadening Clash With Europe]]
 - [[https://www.wsj.com/world/middle-east/trump-aims-to-force-a-quick-iran-deal-with-a-slow-squeeze-8b7c9693][Trump Aims to Force a Quick Iran Deal With a Slow Squeeze]]
 - [[https://www.wsj.com/world/africa/how-the-u-s-is-uniting-libyan-rivals-to-squeeze-out-russia-16634ee3][How the U.S. Is Uniting Libyan Rivals to Squeeze Out Russia]]
 - [[https://www.wsj.com/world/middle-east/what-the-u-s-iran-conflict-reveals-about-chinas-diplomacy-84365864][What the U.S.-Iran Conflict Reveals About China’s Diplomacy]]
-- [[https://www.wsj.com/world/middle-east/irans-shadow-fleet-meets-its-match-in-u-s-blockade-8533f23b][Iran’s Shadow Fleet Meets Its Match in U.S. Blockade]]
-- [[https://www.wsj.com/world/asia/north-korea-suspected-of-being-behind-april-fools-day-crypto-heist-616d2f81][North Korea Suspected of Being Behind April Fools’ Day Crypto Heist]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/04/15/en-direct-guerre-au-moyen-orient-les-objectifs-d-israel-et-des-etats-unis-sont-identiques-concernant-l-iran-affirme-benyamin-netanyahou_6679867_3210.html][EN DIRECT, guerre au Moyen-Orient : les objectifs d’Israël et des Etats-Unis sont « identiques » concernant l’Iran, affirme Benyamin Nétanyahou]]
-- [[https://www.lemonde.fr/international/visuel/2026/04/15/la-mise-sous-cloche-d-internet-ou-comment-vladimir-poutine-veut-couper-la-russie-du-reste-du-monde_6680307_3210.html][La mise sous cloche d’Internet, ou comment Vladimir Poutine veut couper la Russie du reste du monde]]
+- [[https://www.lemonde.fr/economie/article/2026/04/16/grasset-apres-le-limogeage-d-olivier-nora-la-prestigieuse-maison-d-edition-confrontee-a-l-hemorragie-de-ses-auteurs_6680457_3234.html][Grasset : après le limogeage d’Olivier Nora, la prestigieuse maison d’édition confrontée à l’hémorragie de ses auteurs]]
+- [[https://www.lemonde.fr/international/live/2026/04/16/en-direct-guerre-au-moyen-orient-le-conseiller-militaire-du-guide-supreme-iranien-menace-de-couler-les-navires-americains-dans-le-detroit-d-ormuz_6679867_3210.html][EN DIRECT, guerre au Moyen-Orient : le conseiller militaire du guide suprême iranien menace de couler les navires américains dans le détroit d’Ormuz]]
 - [[https://www.lemonde.fr/politique/article/2026/04/15/le-rn-se-projette-deja-dans-l-apres-marine-le-pen-un-an-avant-la-presidentielle_6680318_823448.html][Le RN se projette déjà dans l’après-Marine Le Pen, un an avant la présidentielle]]
-- [[https://www.lemonde.fr/planete/article/2026/04/15/la-circulation-oceanique-qui-maintient-un-climat-doux-en-europe-pourrait-s-affaiblir-davantage-que-prevu_6680335_3244.html][La circulation océanique qui maintient un climat doux en Europe pourrait s’affaiblir davantage que prévu]]
-- [[https://www.lemonde.fr/afrique/article/2026/04/15/dans-le-nord-est-du-nigeria-l-armee-accusee-de-bavure-lors-de-bombardements-aeriens_6680322_3212.html][Dans le nord-est du Nigeria, l’armée accusée de bavure lors de bombardements aériens]]
+- [[https://www.lemonde.fr/economie/article/2026/04/15/travaux-dans-les-transports-paris-et-l-ile-de-france-se-preparent-a-un-ete-intense_6680339_3234.html][Travaux dans les transports : Paris et l’Ile-de-France se préparent à un été « intense »]]
+- [[https://www.lemonde.fr/international/article/2026/04/15/live-nation-maison-mere-du-geant-de-l-evenementiel-ticketmaster-jugee-coupable-de-monopole-illegal-aux-etats-unis_6680347_3210.html][Live Nation, maison mère du géant de l’évènementiel Ticketmaster, jugée coupable de monopole illégal aux Etats-Unis]]
 
 *** Le Figaro
 
+- [[https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-donald-trump-israel-liban-detroit-ormuz-netanyahou-hezbollah-20260415][EN DIRECT - Guerre au Moyen-Orient : Donald Trump annonce des pourparlers entre Israël et le Liban ce jeudi]]
+- [[https://www.lefigaro.fr/politique/proche-orient-marine-le-pen-recue-discretement-ce-mercredi-par-l-ambassadeur-d-israel-en-france-20260415][Proche-Orient : Marine Le Pen reçue discrètement ce mercredi par l’ambassadeur d’Israël en France]]
+- [[https://www.lefigaro.fr/international/guerre-en-iran-la-tentation-americaine-d-un-retour-a-l-accord-nucleaire-de-2015-20260415][Guerre en Iran : la tentation américaine d’un retour à l’accord nucléaire de 2015]]
 - [[https://www.lefigaro.fr/international/donald-trump-espere-faire-plier-le-regime-iranien-avec-le-blocus-du-detroit-d-ormuz-20260415][Donald Trump espère faire plier le régime iranien avec le blocus du détroit d’Ormuz]]
 - [[https://www.lefigaro.fr/international/guerre-des-mines-dans-le-detroit-d-ormuz-demunie-la-marine-americaine-compte-sur-le-savoir-faire-des-europeens-20260415][Guerre des mines dans le détroit d’Ormuz : démunie, la marine américaine compte sur le savoir-faire des Européens]]
-- [[https://www.lefigaro.fr/international/derivantes-amarrees-de-patelles-ou-de-fond-quelles-sont-les-mines-dont-dispose-le-regime-iranien-20260415][Dérivantes, amarrées, de patelles ou de fond... Quelles sont les mines dont dispose le régime iranien ?]]
-- [[https://www.lefigaro.fr/fig-data/un-blocus-inverse-quels-sont-les-objectifs-de-donald-trump-dans-le-detroit-d-ormuz-la-reponse-grace-aux-cartes-20260414/][«Un blocus inversé» : quels sont les objectifs de Donald Trump dans le détroit d'Ormuz ? La réponse grâce aux cartes]]
-- [[https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-donald-trump-israel-liban-detroit-ormuz-netanyahou-hezbollah-20260415][EN DIRECT - Guerre au Moyen-Orient : la Maison-Blanche dit discuter d’une deuxième session de négociations avec l’Iran au Pakistan]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
 - [[https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss][Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done]]
+- [[https://www.bbc.com/news/articles/c20q2n0l9vgo?at_medium=RSS&at_campaign=rss][Former US Marine pilot loses appeal against extradition from Australia]]
 - [[https://www.bbc.com/news/articles/c070jxyjrmeo?at_medium=RSS&at_campaign=rss][Trump's rift with Pope is playing out in public - it's costing him valuable support]]
 - [[https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&at_campaign=rss][Frank Gardner: What is China's role in the Iran war?]]
 - [[https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss][Trump threatens to fire Fed chair Powell if he doesn't leave in May]]
-- [[https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss][Nine killed in second Turkish school shooting in two days]]
 
 *** The Guardian
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/uk-signs-deal-to-rejoin-eu-s-erasmus-exchange-scheme/a-76802456?maca=en-rss-en-world-4025-rdf][UK signs deal to rejoin EU's Erasmus exchange scheme]]
 - [[https://www.dw.com/en/can-trump-get-a-better-iran-deal-than-obama/a-76798388?maca=en-rss-en-world-4025-rdf][Can Trump get a better Iran deal than Obama?]]
 - [[https://www.dw.com/en/germany-the-uk-warn-the-iran-war-distracts-from-ukraine-and-oil-price-rises-help-russia/a-76797004?maca=en-rss-en-world-4025-rdf][Germany, the UK warn the Iran war distracts from Ukraine and oil price rises help Russia]]
 - [[https://www.dw.com/en/south-africa-appoints-veteran-afrikaner-politician-roelf-meyer-as-us-ambassador-amid-tense-trump-ties/a-76794872?maca=en-rss-en-world-4025-rdf][South Africa appoints veteran Afrikaner politician Roelf Meyer as US ambassador amid tense Trump ties]]
 - [[https://www.dw.com/en/what-s-behind-israel-s-attacks-along-lebanon-s-litani-river/a-76783514?maca=en-rss-en-world-4025-rdf][What's behind Israel's attacks along Lebanon's Litani River?]]
-- [[https://www.dw.com/en/iran-hundreds-of-thousands-of-jobs-lost-due-to-war/a-76794860?maca=en-rss-en-world-4025-rdf][Iran: Hundreds of thousands of jobs lost due to war]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/04/folha-promove-sessao-de-a-conspiracao-condor-seguida-de-debate-com-mel-lisboa.shtml][Folha promove sessão de 'A Conspiração Condor' seguida de debate com Mel Lisboa]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/04/monica-martelli-tera-programa-sobre-comportamento-no-diatv.shtml][Mônica Martelli terá programa sobre comportamento no DiaTV]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/btg-fecha-acordo-para-controlar-jardim-das-perdizes-bairro-planejado-em-sp.shtml][BTG fecha acordo para controlar Jardim das Perdizes, bairro planejado em SP]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/04/lula-usa-bone-que-pede-fim-da-escala-6x1-apos-governo-enviar-proposta-ao-congresso.shtml][Lula usa boné que pede fim da escala 6x1 após governo enviar proposta ao Congresso]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/04/psol-pressiona-psb-em-sp-ao-lancar-marina-ao-senado-e-cogitar-mais-espaco-em-chapa.shtml][PSOL pressiona PSB em SP ao lançar Marina ao Senado e cogitar mais espaço em chapa]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/04/bbb-26-milena-recebe-mensagem-de-alfonso-herrera-do-rbd-nas-redes-sociais.shtml][BBB 26: Milena recebe mensagem de Alfonso Herrera, do RBD, nas redes sociais]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/04/bbb-26-brothers-se-emocionam-com-recados-de-artistas.shtml][BBB 26: Brothers se emocionam com recados de artistas]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/exportacao-de-petroleo-do-brasil-para-a-china-mais-do-que-dobra-no-primeiro-trimestre.shtml][Exportação de petróleo do Brasil para a China mais do que dobra no primeiro trimestre]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/04/shakira-anuncia-clipe-com-colombiano-beele-as-vesperas-de-megashow-no-rio.shtml][Shakira anuncia clipe com colombiano Beéle às vésperas de megashow no Rio]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/04/vorcaro-apresentara-proposta-de-delacao-so-em-maio-e-tensao-segue-alta-em-brasilia.shtml][Vorcaro apresentará proposta de delação só em maio e tensão segue alta em Brasília]]
 
 *** O Globo
 
