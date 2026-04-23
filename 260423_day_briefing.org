@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
-#+HTML: <div class='telemetry'>🌡 44.5°C | ⚖ Load: 0.32 | 🌐 Ping: 9.26ms</div>
+#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
+#+HTML: <div class='telemetry'>🌡 44.0°C | ⚖ Load: 0.01 | 🌐 Ping: 9.30ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,19 +49,19 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/aragon/2026/04/22/69e8b194e4d4d804038b4594.html][PP y Vox cierran el acuerdo para investir a Azcón presidente: "prioridad nacional" y una consejería más para los de Abascal que en Extremadura]]
-- [[https://www.elmundo.es/espana/2026/04/22/69e8f5d721efa00e178b458a.html][El ex gerente del PSOE rechaza que Ferraz repartiera 'txistorras' de 500 euros mientras la abogada de Koldo muestra liquidaciones de gastos para desmontar su versión]]
-- [[https://www.elmundo.es/espana/2026/04/22/69e901ed21efa0fc348b459a.html][La emboscada de Koldo y dos testigos para la incredulidad]]
-- [[https://www.elmundo.es/cronica/2026/04/19/69e330abfdddfff0718b4582.html][Anatomía de '5.000 manadas', una década después de la de Pamplona: la mayoría de los agresores son extranjeros, sólo el hospital de referencia de Barcelona trata una víctima por semana...]]
-- [[https://www.elmundo.es/internacional/2026/04/22/69e922abfdddff55048b4577.html][Irán tiene la capacidad de fabricar "diez bombas nucleares en dos semanas", asegura el director general del OIEA]]
+- [[https://www.elmundo.es/espana/2026/04/22/69e914f3fc6c83aa298b45c7.html][Koldo pone contra las cuerdas al PSOE y exhibe el descontrol de gastos en Ferraz]]
+- [[https://www.elmundo.es/espana/2026/04/22/69e902a121efa0ba1b8b45a6.html][Rajoy, ante el juez hoy convertido en la 'X' sin despejar de la 'Kitchen': todas las preguntas que aún no respondió]]
+- [[https://www.elmundo.es/espana/2026/04/22/69e914a9fc6c83cf6d8b45ae.html][Vox desata una operación para desgastar a Feijóo mientras acumula poder autonómico con el PP]]
+- [[https://www.elmundo.es/internacional/2026/04/22/69e91222e4d4d8f50e8b459a.html]["Sácame de aquí que no quiero morir": la odisea de los 20.000 marineros varados por el bloqueo de Ormuz]]
+- [[https://www.elmundo.es/galicia/2026/04/23/69e82fb1e4d4d879078b458a.html]["Vaya escote, con lo guapa que eres no sé qué haces aquí": el alcalde socialista de Tui, investigado por acoso sexual a una funcionaria]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/cultura/20260422/11519990/guia-sant-jordi-barcelona-2026-fiesta-literaria-vanguardia-mapa-paradas-puertas-abiertas-conciertos-todos-planes.html][La fiesta literaria de 'La Vanguardia' abre la diada de Sant Jordi 2026]]
+- [[https://www.lavanguardia.com/cultura/20260422/11520431/fiesta-la-vanguardia-inaugura-primavera-cultural-sant-jordi-2026.html][La fiesta que inaugura la primavera cultural]]
 - [[https://www.lavanguardia.com/cultura/20260422/11519955/sant-jordi-2026-busca-donde-cuando-firman-escritores-favoritos.html][Sant Jordi 2026: Busca dónde y cuándo firman tus autores favoritos]]
-- [[https://www.lavanguardia.com/cultura/culturas/20260422/11519408/diez-propuestas-disfrutar-sant-jordi.html][Los diez libros imprescindibles para disfrutar este Sant Jordi]]
-- [[https://www.lavanguardia.com/cultura/culturas/20260417/11515139/libros-recomendados-cultura-s-regalar-sant-jordi-2026.html][Los libros recomendados por Cultura/s para regalar este Sant Jordi 2026]]
 - [[https://www.lavanguardia.com/cultura/20260422/11519428/maraton-firmas-periodistas-articulistas-vanguardia-sant-jordi.html][Maratón de firmas de los periodistas y articulistas de ‘La Vanguardia’ por Sant Jordi]]
+- [[https://www.lavanguardia.com/cultura/20260423/11520429/fiesta-sant-jordi-vanguardia-imagenes.html][La fiesta de Sant Jordi de 'La Vanguardia', en imágenes]]
+- [[https://www.lavanguardia.com/opinion/20260423/11520451/diada-todos.html][La diada de todos]]
 
 *** El Diario de Cantabria
 
@@ -83,11 +83,11 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/middle-east/air-war-in-iran-gives-way-to-crippling-stalemate-in-hormuz-4f083808][Air War in Iran Gives Way to Crippling Stalemate in Hormuz]]
+- [[https://www.wsj.com/world/middle-east/how-u-s-ship-boardings-have-kicked-off-a-new-phase-of-the-iran-war-b7858e83][How U.S. Ship Boardings Have Kicked Off a New Phase of the Iran War]]
 - [[https://www.wsj.com/world/africa/u-s-seeks-to-reset-ties-with-reclusive-but-strategically-vital-african-state-c8380995][U.S. Seeks to Reset Ties With Reclusive but Strategically Vital African State]]
 - [[https://www.wsj.com/world/middle-east/u-s-blocks-iraqs-dollar-shipments-to-squeeze-its-iran-backed-militias-3270d5af][U.S. Blocks Iraq’s Dollar Shipments to Squeeze Its Iran-Backed Militias]]
 - [[https://www.wsj.com/world/asia/as-iran-talks-stall-mediator-pakistan-tries-to-keep-hopes-up-a5827462][As Iran Talks Stall, Mediator Pakistan Tries to Keep Hopes Up]]
-- [[https://www.wsj.com/world/india/indias-factory-workers-were-getting-by-then-the-strait-of-hormuz-closed-76003964][India’s Factory Workers Were Getting By. Then the Strait of Hormuz Closed.]]
-- [[https://www.wsj.com/world/europe/ukraine-poised-to-get-100-billion-from-eu-unlocked-by-orbans-loss-in-hungary-a4a8bf9a][Ukraine Poised to Get $100 Billion From EU, Unlocked by Orbán’s Loss in Hungary]]
 
 ** 🇫🇷 Francia
 
@@ -104,8 +104,8 @@
 - [[https://www.lefigaro.fr/international/entre-etats-unis-et-iran-les-risques-d-une-strategie-de-ni-guerre-ni-paix-20260422][Entre États-Unis et Iran, les risques d’une stratégie de « ni guerre ni paix »]]
 - [[https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-etats-unis-israel-liban-pakistan-negociations-pourparlers-cessez-le-feu-donald-trump-benyamin-netanyahou-detroit-ormuz-20260422][EN DIRECT - Guerre au Moyen-Orient : Trump «n’a pas fixé de date limite pour recevoir une proposition de l’Iran»]]
 - [[https://www.lefigaro.fr/conjoncture/guerre-au-moyen-orient-la-commission-europeenne-s-efforce-de-repousser-le-risque-de-penurie-de-kerosene-20260422][Guerre au Moyen-Orient : la Commission européenne s’efforce de repousser le risque de pénurie de kérosène]]
+- [[https://www.lefigaro.fr/international/le-plus-haut-responsable-civil-de-la-marine-americaine-quitte-ses-fonctions-avec-effet-immediat-20260423][Le plus haut responsable civil de la Marine américaine quitte ses fonctions «avec effet immédiat»]]
 - [[https://www.lefigaro.fr/societes/la-compagnie-aerienne-united-augmente-ses-prix-de-15-a-20-pour-compenser-les-couts-du-kerosene-20260422][La compagnie aérienne United augmente ses prix de 15 à 20% pour compenser les coûts du kérosène]]
-- [[https://www.lefigaro.fr/international/guerre-au-moyen-orient-qui-etait-le-caporal-chef-anicet-girardin-tue-au-liban-20260422][Guerre au Moyen-Orient : qui était le caporal-chef Anicet Girardin, tué au Liban ?]]
 
 ** 🇬🇧 Reino Unido
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/uk-france-agree-3‑year-deal-to-curb-channel-crossings/a-76903367?maca=en-rss-en-world-4025-rdf][UK, France agree 3‑year deal to curb Channel crossings]]
+- [[https://www.dw.com/en/germany-s-merz-climate-protection-must-not-hold-economy-back/a-76903241?maca=en-rss-en-world-4025-rdf][Germany's Merz: Climate protection must not hold economy back]]
 - [[https://www.dw.com/en/school-s-out-in-iran-no-phone-no-internet-no-classes/a-76901420?maca=en-rss-en-world-4025-rdf][School's out in Iran: No phone, no internet, no classes]]
 - [[https://www.dw.com/en/japan-south-korean-arrested-outside-yasukuni-shrine-ceremony-for-war-dead/a-76900830?maca=en-rss-en-world-4025-rdf][Japan: South Korean arrested outside Yasukuni Shrine ceremony for war dead]]
 - [[https://www.dw.com/en/nepal-interior-minister-elected-on-anti-corruption-platform-steps-down-amid-financial-investigation/a-76897665?maca=en-rss-en-world-4025-rdf][Nepal: Interior minister elected on anti-corruption platform steps down amid financial investigation]]
-- [[https://www.dw.com/en/iran-war-fuels-crisis-for-africa-s-aviation-sector/a-76874774?maca=en-rss-en-world-4025-rdf][Iran war fuels crisis for Africa's aviation sector]]
-- [[https://www.dw.com/en/russia-to-block-kazakh-oil-flows-on-key-pipeline-supplying-berlin/a-76895743?maca=en-rss-en-world-4025-rdf][Russia to block Kazakh oil flows on key pipeline supplying Berlin]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/sergio-rodrigues/2026/04/a-verdade-que-so-um-romance-sabe-dizer.shtml][A verdade que só um romance sabe dizer]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/04/virginia-fonseca-lanca-rede-de-academias-e-preve-mensalidade-de-37-dias-para-mulheres.shtml][Virginia Fonseca lança rede de academias e prevê mensalidade de 37 dias para mulheres]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/04/zema-reforca-criticas-ao-stf-apos-reacao-de-gilmar-e-diz-que-tribunal-e-incendiario.shtml][Zema reforça críticas ao STF após reação de Gilmar e diz que tribunal é incendiário]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/musica/2026/04/com-equilibrium-anitta-estreia-no-topo-de-ranking-global-do-spotify-pela-primeira-vez.shtml][Com 'Equilibrium', Anitta estreia no topo de ranking global do Spotify pela primeira vez]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/04/brasil-poderia-aproveitar-o-sol-do-nordeste-para-plantar-cannabis-diz-jean-wyllys.shtml][Brasil poderia aproveitar o sol do Nordeste para plantar cannabis, diz Jean Wyllys]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/04/servidores-rejeitam-proposta-da-usp-para-encerrar-greve-e-ampliam-demandas.shtml][Servidores rejeitam proposta da USP para encerrar greve e ampliam demandas]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/04/bbb-26-ana-paula-juliano-e-maxiane-se-ausentam-de-reencontro-do-elenco.shtml][BBB 26: Ana Paula, Juliano e Maxiane se ausentam de reencontro do elenco]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/04/como-a-biografia-de-michael-jackson-fez-o-moonwalk-nas-polemicas-do-rei-do-pop.shtml][Como a biografia de Michael Jackson fez o 'moonwalk' e fugiu de polêmicas do astro]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/04/brasileira-processa-empresa-de-mr-beast-por-assedio-sexual-e-discriminacao.shtml][Brasileira processa empresa de Mr Beast por assédio sexual e discriminação]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/04/general-do-paquistao-tenta-negociar-acordo-historico-entre-eua-e-ira.shtml][General do Paquistão tenta negociar acordo histórico entre EUA e Irã]]
 
 *** O Globo
 
