@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
-#+HTML: <div class='telemetry'>🌡 43.5°C | ⚖ Load: 0.42 | 🌐 Ping: 9.33ms</div>
+#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
+#+HTML: <div class='telemetry'>🌡 43.5°C | ⚖ Load: 0.00 | 🌐 Ping: 9.16ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,11 +41,11 @@
 
 *** El País
 
-- [[https://elpais.com/espana/2026-04-24/los-obispos-acusan-de-injurias-a-abascal-por-acusar-a-la-iglesia-de-hacer-negocio-con-la-inmigracion-ilegal.html][Los obispos rechazan la “prioridad nacional” del PP y Vox y critican que el fin es buscar “una polarización”]]
-- [[https://elpais.com/espana/2026-04-24/page-denuncia-que-hubo-un-intento-de-pucherazo-en-el-comite-federal-de-octubre-de-2016.html][Page denuncia que hubo un intento de “pucherazo” en el Comité Federal de octubre de 2016]]
-- [[https://elpais.com/internacional/2026-04-24/trump-reintroduce-el-peloton-de-fusilamiento-en-las-ejecuciones-federales.html][Trump reintroduce el pelotón de fusilamiento en las ejecuciones federales]]
-- [[https://elpais.com/internacional/2026-04-24/trump-envia-a-pakistan-a-sus-dos-principales-negociadores-para-retomar-el-dialogo-con-teheran.html][Trump envía a Pakistán a sus dos principales negociadores para retomar el diálogo con Teherán]]
-- [[https://elpais.com/internacional/2026-04-24/un-correo-del-pentagono-plantea-suspender-a-espana-de-la-otan-por-los-desacuerdos-sobre-iran.html][El Pentágono plantea en un correo electrónico suspender a España de la OTAN por desacuerdos sobre Irán]]
+- [[https://elpais.com/espana/2026-04-25/vox-ordena-a-sus-grupos-municipales-retar-al-pp-con-la-prioridad-nacional-en-los-ayuntamientos.html][Vox ordena a sus grupos municipales retar al PP con la “prioridad nacional” en los ayuntamientos]]
+- [[https://elpais.com/espana/2026-04-25/abascal-vuelve-a-cargar-contra-los-obispos-y-dice-que-su-prioridad-es-el-negocio.html][Abascal vuelve a cargar contra los obispos y dice que “su prioridad es el negocio”]]
+- [[https://elpais.com/economia/2026-04-25/ignacio-rivera-estoy-a-favor-de-la-inmigracion-regulada-espana-necesita-mano-de-obra.html][Ignacio Rivera: “Estoy a favor de la inmigración regulada. España necesita mano de obra”]]
+- [[https://elpais.com/espana/madrid/2026-04-25/madrid-ataca-la-crisis-de-la-vivienda-con-un-plan-de-crecimiento-equivalente-a-meter-zaragoza-o-sevilla-dentro-de-la-capital.html][El megaplan de vivienda de Madrid: un crecimiento equivalente a meter Zaragoza o Sevilla dentro de la capital]]
+- [[https://elpais.com/actualidad/newsletter-kiko-llaneras/2026-04-25/que-pasa-con-los-salarios-llevan-tres-decadas-casi-estancados.html][¿Suben los salarios? En realidad llevan 30 años estancados]]
 
 *** El Mundo
 
@@ -57,29 +57,29 @@
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/internacional/20260424/11522188/trump-enviara-witkoff-kushner-pakistan-retomar-dialogo-paz-iran.html][Trump enviará a Witkoff y Kushner a Pakistán para retomar el diálogo de paz con Irán]]
-- [[https://www.lavanguardia.com/internacional/20260424/11521571/correo-interno-pentagono-plantea-suspender-espana-otan.html][Un correo interno del Pentágono plantea suspender a España de la OTAN]]
-- [[https://www.lavanguardia.com/politica/20260424/11521607/sanchez-resta-importancia-correo-pentagono-sobre-documentos-oficiales.html][Sánchez muestra “tranquilidad absoluta” y la OTAN aclara que no se puede suspender a un miembro]]
-- [[https://www.lavanguardia.com/internacional/20260424/11522036/pentagono-amenaza-europa-han-aprovechado-proteccion-ee-uu-anos-acabo.html][El Pentágono amenaza a Europa: “Se han aprovechado de la protección de EE.UU. durante años. Eso se acabó”]]
+- [[https://www.lavanguardia.com/internacional/20260425/11522227/cual-secreto-fortaleza-irani.html][El secreto de la resistencia iraní frente a EE.UU.: nacionalismo y religión]]
+- [[https://www.lavanguardia.com/internacional/20260424/11522188/trump-enviara-witkoff-kushner-pakistan-retomar-dialogo-paz-iran.html][Trump envía a Witkoff y Kushner a Pakistán para retomar el diálogo de paz con Irán]]
+- [[https://www.lavanguardia.com/internacional/20260425/11522302/guerra-iran-ataque-estados-unidos-trump-israel-hoy-en-directo.html][Irán asegura que no hay ninguna reunión planeada con Estados Unidos en Pakistán]]
+- [[https://www.lavanguardia.com/internacional/20260425/11522184/trump-amenaza-reconsiderar-soberania-islas-malvinas.html][Trump amenaza con reconsiderar la soberanía de las islas Malvinas]]
 - [[https://www.lavanguardia.com/internacional/20260424/11522117/ue-activa-clausula-defensa-mutua-paises-comunitarios.html][La UE activa su cláusula de defensa mutua entre países comunitarios]]
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/deportes/agote-futbol-gol-venas/20260425115423192044.html][Los Agote, fútbol y gol en las venas]]
+- [[https://eldiariocantabria.publico.es/articulo/politica/comparte-credo-duro-reproche-alcalde-marina-cudeyo-popular-roberto-media-okupacion-orejo/20260425113459192043.html]["El señor Media no comparte mi credo": El duro reproche del alcalde de Marina de Cudeyo al consejero 'popular' tras la 'okupación' de Orejo]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/egipto-espejo-desierto-2-oasis-ciudades-perdidas/20260425111825192018.html][Egipto, el espejo del desierto (2): Oasis y ciudades perdidas]]
 - [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/camargo-sera-primer-municipio-cheque-banera-ayudas-celiacos/20260424211239192012.html][Camargo será el primer municipio con el ‘cheque bañera’ y ayudas a celíacos]]
 - [[https://eldiariocantabria.publico.es/articulo/torrelavega/nuevo-skatepark-nueva-ciudad-estara-finalizado-junio/20260424210642192011.html][El nuevo skatepark de Nueva Ciudad estará finalizado en junio]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/prc-denuncia-vertedero-incontrolado-penacastillo/20260424205942192009.html][El PRC denuncia un vertedero “incontrolado” en Peñacastillo]]
-- [[https://eldiariocantabria.publico.es/articulo/educacion/psoe-exige-pp-bajada-ratio-alumnos-aula-que-cumpliendo-cantabria/20260424205116192007.html][El PSOE exige al PP una bajada de ratio de alumnos por aula que ya se está cumpliendo en Cantabria]]
-- [[https://eldiariocantabria.publico.es/articulo/deportes/cambios-recorrido-nueva-modalidad-btt-principales-cambios-10000-soplao-22-23-mayo/20260424195907192006.html][Cambios en el recorrido y una nueva modalidad de BTT, los principales cambios de Los 10.000 del Soplao para el 22 y 23 de mayo]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/04/25/flavio-bolsonaro-lula-brazil-election/][Bolsonaro’s son runs for president with a mission: Get dad out of prison]]
 - [[https://www.washingtonpost.com/national-security/2026/04/24/china-iran-oil-treasury-sanctions/][U.S. targets China’s shadow trade with Iran in sweeping sanctions]]
 - [[https://www.washingtonpost.com/world/2026/04/24/netanyahu-prostate-cancer-treatment-iran-war/][Netanyahu says he hid prostate cancer from public because of Iran war]]
 - [[https://www.washingtonpost.com/world/2026/04/24/iran-us-israel-lebanon-ceasefire/][Hezbollah defiant in face of Israel-Lebanon ceasefire extension]]
 - [[https://www.washingtonpost.com/national-security/2026/04/23/us-israel-lebanon-ceasefire-talks/][Israel and Lebanon extend ceasefire for three weeks, Trump says]]
-- [[https://www.washingtonpost.com/national-security/2026/04/23/trump-putin-g20/][Trump intends to invite Putin to G-20 summit in Miami, officials say]]
 
 *** WSJ.com: World News
 
@@ -93,37 +93,37 @@
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/04/24/en-direct-guerre-au-moyen-orient-les-emissaires-de-donald-trump-steve-witkoff-et-jared-kushner-se-rendront-a-islamabad-samedi-l-iran-ne-confirme-pas-sa-participation-a-des-pourparlers-avec-la-delegation-americaine_6681958_3210.html][EN DIRECT, guerre au Moyen-Orient : les émissaires de Donald Trump, Steve Witkoff et Jared Kushner, se rendront à Islamabad samedi ; l’Iran ne confirme pas sa participation à des pourparlers avec la délégation américaine]]
-- [[https://www.lemonde.fr/m-le-mag/article/2026/04/24/le-media-en-ligne-brut-interlocuteur-prefere-de-l-elysee_6682991_4500055.html][Le média en ligne « Brut », interlocuteur préféré de l’Elysée]]
-- [[https://www.lemonde.fr/education/article/2026/04/24/assassinat-d-agnes-lassalle-en-2023-l-eleve-condamne-a-quinze-ans-de-reclusion-par-la-cour-d-assises-des-mineurs_6683117_1473685.html][Assassinat d’Agnès Lassalle en 2023 : l’élève condamné à quinze ans de réclusion par la cour d’assises des mineurs]]
-- [[https://www.lemonde.fr/politique/article/2026/04/24/au-service-de-pierre-edouard-sterin-francois-durvye-le-nouveau-conseiller-economique-de-jordan-bardella-au-bilan-conteste_6683090_823448.html][François Durvye, nouveau conseiller économique de Jordan Bardella au bilan contesté auprès de Pierre-Edouard Stérin]]
-- [[https://www.lemonde.fr/afrique/article/2026/04/25/au-togo-jean-noel-barrot-minimise-l-influence-russe-en-afrique-et-plaide-pour-un-avenir-commun-avec-le-continent_6683200_3212.html][Au Togo, Jean-Noël Barrot minimise l’influence russe en Afrique et plaide pour un « avenir commun » avec le continent]]
+- [[https://www.lemonde.fr/international/live/2026/04/25/en-direct-guerre-au-moyen-orient-l-iran-affirme-que-les-etats-unis-cherchent-un-moyen-de-sauver-la-face-avant-la-venue-des-emissaires-de-donald-trump-a-islamabad-pour-des-pourparlers_6681958_3210.html][EN DIRECT, guerre au Moyen-Orient : l’Iran affirme que les Etats-Unis cherchent « un moyen de sauver la face », avant la venue des émissaires de Donald Trump à Islamabad pour des pourparlers]]
+- [[https://www.lemonde.fr/international/article/2026/04/25/en-russie-l-aller-sans-retour-des-combattants-etrangers_6683214_3210.html][En Russie, l’aller sans retour des combattants étrangers]]
+- [[https://www.lemonde.fr/economie/article/2026/04/25/l-economie-americaine-semble-naviguer-resolument-a-travers-toutes-les-tempetes_6683223_3234.html][L’économie américaine semble naviguer résolument à travers toutes les tempêtes]]
+- [[https://www.lemonde.fr/societe/article/2026/04/25/le-cambrioleur-de-stars-le-chat-ecroue-pour-une-serie-de-casses-parisiens-a-10-millions-d-euros_6683234_3224.html][Le cambrioleur de stars « Le Chat » écroué pour une série de casses parisiens à 10 millions d’euros]]
+- [[https://www.lemonde.fr/planete/article/2026/04/25/voitures-electriques-des-beneficiaires-du-leasing-social-enthousiastes-mais-qui-pointent-les-limites-du-dispositif_6683166_3244.html][Voitures électriques : des bénéficiaires du leasing social enthousiastes, mais qui pointent les limites du dispositif]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/medias/fusion-de-chaines-interdiction-des-emissions-de-telerealite-les-propositions-chocs-du-rapport-de-charles-alloncle-sur-l-audiovisuel-public-20260424][Fusion de chaînes, interdiction des émissions de téléréalité... Les propositions chocs du rapport de Charles Alloncle sur l’audiovisuel public]]
-- [[https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-etats-unis-israel-liban-donald-trump-prolongation-treve-cessez-le-feu-benyamin-netanyahou-20260424][EN DIRECT - Guerre au Moyen-Orient : les gardiens de la révolution iraniens annoncent la saisie d’un navire accusé de liens avec l’armée américaine]]
-- [[https://www.lefigaro.fr/international/liban-un-casque-bleu-indonesien-blesse-le-29-mars-est-mort-20260424][Liban : un Casque bleu indonésien, blessé le 29 mars, est mort]]
-- [[https://www.lefigaro.fr/international/cessez-le-feu-au-liban-donald-trump-annonce-une-prolongation-de-trois-semaines-entre-tel-aviv-et-beyrouth-20260424][Cessez-le-feu au Liban : Donald Trump annonce une prolongation de trois semaines entre Tel Aviv et Beyrouth]]
-- [[https://www.lefigaro.fr/conjoncture/si-le-blocage-d-ormuz-perdure-encore-deux-ou-trois-mois-la-france-entrera-dans-une-ere-de-penurie-energetique-previent-le-patron-de-totalenergies-20260424][Si le blocage d’Ormuz «perdure encore deux ou trois mois», la France entrera «dans une ère de pénurie énergétique», prévient le patron de TotalEnergies]]
+- [[https://www.lefigaro.fr/faits-divers/herault-un-homme-qui-venait-de-braquer-une-epicerie-abattu-par-des-gendarmes-20260425][Hérault : un homme qui braquait une boulangerie abattu par les gendarmes]]
+- [[https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-donald-trump-etats-unis-pakistan-negociations-detroit-ormuz-20260425][EN DIRECT - Guerre au Moyen-Orient : le ministère de la Défense iranien affirme que les États-Unis cherchent «un moyen de sauver la face»]]
+- [[https://www.lefigaro.fr/international/iran-un-homme-condamne-pour-cooperation-avec-israel-a-ete-pendu-20260425][Iran : un homme, condamné pour collaboration avec Israël, a été pendu]]
+- [[https://www.lefigaro.fr/conjoncture/les-etats-unis-gelent-344-millions-de-dollars-de-cryptomonnaies-liees-a-l-iran-20260425][Les États-Unis gèlent 344 millions de dollars de cryptomonnaies liées à l'Iran]]
+- [[https://www.lefigaro.fr/international/otan-apres-les-menaces-americaines-de-suspension-de-l-espagne-giorgia-meloni-appelle-l-alliance-a-rester-unie-20260424][Otan : après les menaces américaines de suspension de l’Espagne, Giorgia Meloni appelle l’Alliance à «rester unie»]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/cy8103xklreo?at_medium=RSS&at_campaign=rss][Trump's envoys Witkoff and Kushner to fly to Pakistan for Iran talks]]
 - [[https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss][Nato says 'no provision' to expel members after report US could seek to suspend Spain]]
 - [[https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss][Katya Adler: Europe's Nato allies push back at reported US threat to Spain]]
 - [[https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss][No 10 says Falklands sovereignty rests with UK after report of US 'review']]
 - [[https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss][Thousands at risk after multi-million dollar Everest flood warning system left to rust]]
+- [[https://www.bbc.com/news/videos/cwy37w2y64ro?at_medium=RSS&at_campaign=rss][Epstein survivor: Meeting the King would be a 'grand step']]
 
 *** The Guardian
 
+- [[https://www.theguardian.com/global-development/2026/apr/25/discovery-children-fatal-disfiguring-disease-noma-unknown-bacteria][‘Astonishing’ discovery could help save children from deadly disfiguring condition]]
 - [[https://www.theguardian.com/us-news/2026/apr/24/millionaire-hunter-dies-elephants-gabon][US millionaire big-game hunter dies after being crushed by elephants]]
 - [[https://www.theguardian.com/uk-news/2026/apr/22/british-woman-died-in-ghana-trying-to-recoup-money-from-scammers-inquest-told][British woman died in Ghana trying to recoup money from scammers, inquest told]]
 - [[https://www.theguardian.com/global-development/2026/apr/22/climate-change-extreme-weather-heatwaves-floods-wildfires-threat-democracy-elections][Heatwaves, floods and wildfires pose rising threat to democracy, report finds]]
 - [[https://www.theguardian.com/us-news/2026/apr/21/afghan-refugees-us-congo][Trump officials consider sending 1,100 Afghans who aided US forces to Congo]]
-- [[https://www.theguardian.com/world/2026/apr/21/taiwan-president-blames-china-cancel-eswatini-revoke-flight][Taiwan president blames China for forced cancellation of Eswatini trip]]
 
 ** 🇮🇹 Italia
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/orsini-l-europa-faccia-l-europa-serve-sforare-patto-stabilita-AIquoBhC][Orsini: «L’Europa faccia l’Europa, serve sforare il Patto di stabilità»]]
-- [[https://www.ilsole24ore.com/art/disputa-italia-svizzera-rimborso-108mila-euro-cure-mediche-feriti-rogo-crans-montana-AI2JE5gC][Disputa Italia-Svizzera sul rimborso  per cure mediche a tre feriti del rogo di Crans-Montana]]
-- [[https://www.ilsole24ore.com/art/procura-pavia-pronta-chiedere-revisione-processo-stasi-pg-nanni-studio-carte-ne-facile-ne-veloce-AIkU9rgC][Procura generale di Milano valuta revisione processo Stasi, Pg Nanni: studio carte né facile né veloce]]
-- [[https://www.ilsole24ore.com/art/condizioni-inumane-e-degradanti-carcere-ridotta-pena-alemanno-AIOoamgC][Gianni Alemanno ottiene riduzione pena per condizioni carcerarie degradanti a Rebibbia]]
-- [[https://www.ilsole24ore.com/art/il-premio-nobel-la-fisica-arthur-mcdonald-ad-amici-e-nemici-radio-24-AIPUXfgC][Il premio Nobel per la fisica Arthur McDonald ad Amici e nemici su Radio 24]]
+- [[https://www.ilsole24ore.com/art/pensioni-cosi-l-uscita-baby-boomer-lavoro-aumentera-spesa-fino-2041-AICupygC][Pensioni, così l’uscita dei baby-boomer dal lavoro aumenterà la spesa fino al 2041]]
+- [[https://www.ilsole24ore.com/art/it-wallet-ecco-regole-la-sperimentazione-AI3QLsgC][It-Wallet, ecco  le regole per la sperimentazione]]
+- [[https://www.ilsole24ore.com/art/lupi-uccisi-mobilitate-associazioni-e-istituzioni-AI2lfhhC][Lupi uccisi, mobilitate associazioni e istituzioni]]
+- [[https://www.ilsole24ore.com/art/25-aprile-mattarella-all-altare-patria-crosetto-liberta-non-e-bene-acquisito-sempre-AI0GlhhC][25 aprile, Mattarella all’Altare della Patria. Meloni: sia momento di coesione nazionale]]
+- [[https://www.ilsole24ore.com/art/possibile-caldo-globale-record-el-nino-sta-tornare-quando-si-sviluppera-e-quanto-incidera-AIGCaHhC][«Possibile caldo globale record». El Niño sta per tornare: quando si svilupperà e quanto inciderà]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/tunisia-suspends-rights-group-amid-widening-repression/a-76931737?maca=en-rss-en-world-4025-rdf][Tunisia suspends rights group amid widening repression]]
+- [[https://www.dw.com/en/palestinians-vote-in-municipal-elections-in-gaza-west-bank/a-76930149?maca=en-rss-en-world-4025-rdf][Palestinians vote in municipal elections in Gaza, West Bank]]
+- [[https://www.dw.com/en/colombia-venezuela-hold-key-talks-in-post-maduro-visit/a-76930133?maca=en-rss-en-world-4025-rdf][Colombia, Venezuela hold  key talks in post-Maduro visit]]
 - [[https://www.dw.com/en/us-justice-department-drops-investigation-into-fed-chair-powell/a-76929212?maca=en-rss-en-world-4025-rdf][US: Justice Department drops investigation into Fed Chair Powell]]
 - [[https://www.dw.com/en/ukraine-zelenskyy-visits-saudi-arabia-putin-weighs-g20-attendance/a-76928614?maca=en-rss-en-world-4025-rdf][Ukraine: Zelenskyy visits Saudi Arabia, Putin weighs G20 attendance]]
-- [[https://www.dw.com/en/how-iran-is-wielding-the-strait-of-hormuz-as-leverage/a-76925896?maca=en-rss-en-world-4025-rdf][How Iran is wielding the Strait of Hormuz as leverage]]
-- [[https://www.dw.com/en/indians-forced-to-return-home-as-iran-war-rocks-gulf-economy/a-76923855?maca=en-rss-en-world-4025-rdf][Indians forced to return home as Iran war rocks Gulf economy]]
-- [[https://www.dw.com/en/nepal-mount-everest-ice-block-obstructs-large-group-of-spring-climbers/a-76920047?maca=en-rss-en-world-4025-rdf][Nepal: Mount Everest ice block obstructs large group of spring climbers]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/fachin-suspende-decisao-que-barrava-uso-de-imoveis-para-salvar-brb.shtml][Fachin suspende decisão que barrava uso de imóveis para salvar BRB]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/passagem-aerea-domestica-sobe-178-em-marco-e-chega-a-media-de-r-707-no-brasil-diz-anac.shtml][Passagem aérea doméstica sobe 17,8% em março e chega à média de R$ 707 no Brasil, diz Anac]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/04/morre-fabiano-thomas-vannucci-que-foi-ator-mirim-da-globo-aos-53-anos.shtml][Morre Fabiano Thomas Vannucci, que foi ator mirim da Globo, aos 53 anos]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/laura-machado/2026/04/no-brasil-reduzir-a-pobreza-pouco-afeta-a-desigualdade.shtml][No Brasil, reduzir a pobreza pouco afeta a desigualdade]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marina-izidro/2026/04/defender-neymar-na-copa-e-viver-no-passado.shtml][Defender Neymar na Copa é viver no passado]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/preco-de-acesso-a-recepcao-vip-para-investidores-da-memecoin-de-trump-despenca.shtml][Preço de acesso à recepção VIP para investidores da memecoin de Trump despenca]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/04/oposicao-decide-parar-de-citar-janja-em-requerimentos-de-informacao-para-driblar-negativas-do-governo.shtml][Oposição decide parar de citar Janja em requerimentos de informação para driblar negativas do governo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/04/elon-musk-troca-missao-a-marte-por-projetos-de-ia-e-bases-na-lua.shtml][Elon Musk troca missão a Marte por projetos de IA e bases na Lua]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/justica-de-sao-paulo-condena-enel-a-devolver-r-14-mil-a-restaurante.shtml][Justiça de São Paulo condena Enel a devolver R$ 14 mil a restaurante]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/04/ana-paula-renault-pede-a-fas-que-nao-gastem-com-presentes-caros.shtml][Ana Paula Renault pede a fãs que não gastem com presentes caros]]
 
 *** O Globo
 
