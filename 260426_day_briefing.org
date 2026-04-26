@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 42.9°C | ⚖ Load: 0.00 | 🌐 Ping: 9.68ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 42.4°C | ⚖ Load: 0.00 | 🌐 Ping: 12.6ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,45 +41,45 @@
 
 *** El País
 
-- [[https://elpais.com/internacional/2026-04-25/trump-cancela-el-viaje-de-sus-enviados-a-pakistan-despues-de-que-el-negociador-irani-abandonase-el-pais.html][Trump cancela el viaje de sus enviados a Pakistán después de que el negociador iraní abandonase el país]]
-- [[https://elpais.com/internacional/2026-04-25/los-petroestados-lanzan-un-sos-a-trump-ante-el-cataclismo-economico.html][Las petromonarquías mandan un SOS a Trump ante el cataclismo económico]]
-- [[https://elpais.com/espana/madrid/2026-04-25/monica-garcia-anuncia-que-regresa-a-la-comunidad-de-madrid-quiero-que-se-vaya-ayuso.html][Mónica García anuncia que regresa a la Comunidad de Madrid: “Quiero que se vaya Ayuso”]]
-- [[https://elpais.com/espana/2026-04-25/vox-ordena-a-sus-grupos-municipales-retar-al-pp-con-la-prioridad-nacional-en-los-ayuntamientos.html][Vox ordena a sus grupos municipales retar al PP con la “prioridad nacional” en los ayuntamientos]]
-- [[https://elpais.com/espana/2026-04-25/abascal-vuelve-a-cargar-contra-los-obispos-y-dice-que-su-prioridad-es-el-negocio.html][Abascal vuelve a cargar contra los obispos y dice que “su prioridad es el negocio”]]
+- [[https://elpais.com/internacional/2026-04-26/el-presidente-trump-evacuado-de-la-cena-de-corresponsales-de-la-casa-blanca.html][Trump, evacuado ileso de la cena de corresponsales de la Casa Blanca tras un tiroteo]]
+- [[https://elpais.com/us/2026-04-26/video-los-momentos-claves-del-intento-de-atentado-a-trump.html][Video | Los momentos claves del intento de atentado a Trump]]
+- [[https://elpais.com/videos/2026-04-26/el-momento-de-la-evacuacion-del-vicepresiente-de-ee-uu-jd-vance-de-la-cena-de-corresponsales-tras-el-tiroteo.html][El momento de la evacuación del vicepresidente de EE UU, J.D. Vance, de la cena de corresponsales tras el tiroteo]]
+- [[https://elpais.com/us/2026-04-26/el-atacante-de-la-cena-de-corresponsales-un-maestro-californiano-de-31-anos-esta-detenido.html][Quién es Cole Allen, el maestro californiano detenido por disparar en la cena de corresponsales de la Casa Blanca con Trump]]
+- [[https://elpais.com/us/2026-04-26/video-asi-fue-el-momento-de-la-detencion-del-sospechoso-del-intendo-de-atentado-a-trump.html][Video | Así fue el momento de la detención del sospechoso del intento de atentado a Trump]]
 
 *** El Mundo
 
 - [[https://www.elmundo.es/internacional/2026/04/26/69ed63e0fdddff3f058b45ac.html][El Servicio Secreto detiene a un tirador y evacúa a Trump, la primera dama y la plana mayor del Gobierno durante una cena de gala con periodistas en Washington]]
-- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/04/25/69eb8a48e9cf4a5e4a8b45b3.html][Juanma Moreno llega a la campaña con mayoría absoluta pese a los pactos del PP con Vox]]
-- [[https://www.elmundo.es/cronica/2026/04/25/69ea63b0e9cf4a917b8b45a8.html][Marroquíes, extremeños y con "prioridad nacional": "Si los extranjeros quisiéramos, un día podríamos paralizar el país por completo"]]
-- [[https://www.elmundo.es/espana/2026/04/26/69ed1783e85ece677f8b456d.html][40 años de IU: del minero y los "afganos" en una notaría a la amenaza por la cercanía al PSOE]]
-- [[https://www.elmundo.es/espana/2026/04/26/69ed02bce4d4d8f15b8b4585.html][Los testigos resquebrajan la defensa de Ábalos mientras se reafirma el desbarajuste en los pagos en la sede del PSOE]]
+- [[https://www.elmundo.es/internacional/2026/04/26/69edabf5e9cf4ab65e8b4571.html][El presunto tirador de la cena de corresponsales de la Casa Blanca es un profesor particular y programador informático de California]]
+- [[https://www.elmundo.es/internacional/2026/04/26/69edcc89fdddff1a2c8b4582.html][Así vivieron el tiroteo los corresponsales en la cena junto a Trump: "En cuestión de segundos, todos estábamos bajo las mesas"]]
+- [[https://www.elmundo.es/internacional/2026/04/26/69eda1cee9cf4a991e8b4579.html][El tiroteo en el hotel Hilton resucita las dudas sobre la seguridad de Trump y la violencia política en EEUU]]
+- [[https://www.elmundo.es/internacional/2026/04/26/69edd1c521efa09f0e8b4582.html][Una noche accidentada en Washington]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/internacional/20260425/11522482/aragchi-islamabad-dice-negociara-enviados-trump.html][Trump cancela el viaje de sus negociadores a Pakistán tras otro plantón de Irán]]
-- [[https://www.lavanguardia.com/internacional/20260425/11522227/cual-secreto-fortaleza-irani.html][El secreto de la fortaleza iraní frente a EE.UU.: nacionalismo y religión]]
-- [[https://www.lavanguardia.com/internacional/20260425/11522184/trump-amenaza-reconsiderar-soberania-islas-malvinas.html][Trump amenaza con reconsiderar la soberanía de las islas Malvinas]]
-- [[https://www.lavanguardia.com/internacional/20260425/11522230/newsletter-europa-ue-alemania-rearme-defensa-rusia-ee-uu-otan-ucrania.html][¿Quién teme al rearme de Alemania?]]
-- [[https://www.lavanguardia.com/politica/20260425/11522628/sanchez-tilda-infamia-pacto-pp-vox-extremadura-avisa-vendra-mas-involucion.html][Sánchez tilda de “infamia” el pacto de PP y Vox en Extremadura y avisa: “Vendrá más involución”]]
+- [[https://www.lavanguardia.com/internacional/20260426/11522986/evacuan-trump-cena-corresponsales-casa-blanca-sonido-posibles-disparos.html][Evacúan a Trump de la Cena de Corresponsales de la Casa Blanca tras un tiroteo]]
+- [[https://www.lavanguardia.com/fotos/20260426/11522990/evacuan-trump-tiroteo-cena-hotel-hilton.html][El intento de atentado contra Donald Trump, en imágenes]]
+- [[https://www.lavanguardia.com/internacional/20260426/11522992/atacante-lobo-solitario-31-anos-california.html][El atacante, un “lobo solitario” de 31 años de California]]
+- [[https://www.lavanguardia.com/internacional/20260426/11522994/ultima-hora-reacciones-intento-asesinato-donald-trump-directo.html][Trump: “El tirador estaba muy lejos. Era un loco”]]
+- [[https://www.lavanguardia.com/internacional/20260426/11522699/guerra-paz-iran.html][Ni guerra ni paz en Irán]]
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/politica/presupuestos-cantabria-2026-protagonistas-pleno-lunes/20260426114333192073.html][Los Presupuestos de Cantabria para 2026, protagonistas el Pleno de este lunes]]
+- [[https://eldiariocantabria.publico.es/articulo/deportes/santillana-camacho-leyendas-futbol-que-visitaron-suances-favor-investigacion-sanitaria/20260426112440192072.html][De Santillana a Camacho: Las leyendas del fútbol que visitaron Suances a favor de la investigación sanitaria]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/supremo-obliga-autoescuela-devolver-35500-E-subvencion-gobierno-cantabro/20260426110834192070.html][El Supremo obliga a una autoescuela a devolver 35.500 € de una subvención del Gobierno cántabro]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/maquina-afeitar-provoca-incendio-residencia-mayores-laredo/20260426105635192069.html][Una máquina de afeitar provoca un incendio en la Residencia de Mayores de Laredo]]
 - [[https://eldiariocantabria.publico.es/articulo/deportes/marta-beti-sub23-femenino-raul-lopez-junior-masculino-campeones-espana-gravel-alcaraz/20260425203418192067.html][Marta Beti y Raúl López se coronan campeones de España Sub-23 de gravel en Alcaraz]]
-- [[https://eldiariocantabria.publico.es/articulo/sociedad/sabes-cuales-siguen-siendo-nombres-mas-frecuentes-cantabria/20260425194248192064.html][¿Sabes cuáles siguen siendo los nombres más frecuentes en Cantabria?]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/agora-luis-toca-rinde-homenaje-matilde-torre-regreso-cenizas-mexico-aqui-estamos-aqui-matilde-pesar-perder-guerra-humillaciones/20260425191649192061.html][El Ágora Luis Toca rinde homenaje a Matilde de la Torre tras el regreso de sus cenizas desde México:  “Aquí estamos. Aquí estás, Matilde. A pesar de perder una guerra, de las humillaciones..."]]
-- [[https://eldiariocantabria.publico.es/articulo/mar-y-montana/cocido-montanes-croquetas-chocolate-festin-tradicional-creativo-restaurante-coventosa/20260425182916192060.html][Del cocido montañés a las croquetas de chocolate: el festín tradicional y creativo de Restaurante Coventosa]]
-- [[https://eldiariocantabria.publico.es/articulo/cultura/jimeno-s-band-mucho-mas-que-tributo-banda-que-volvera-hacer-vibrar-santander-espiritu-sabina-sabado-2-mayo/20260425180820192059.html][Jimeno’s Band, mucho más que un tributo: la banda que volverá a hacer vibrar a Santander con el espíritu de Sabina el sábado 2 de mayo]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/04/26/chernobyl-40-anniversary-ukraine-russia/][40 years after Chernobyl, war brings new rounds of disaster and displacement]]
+- [[https://www.washingtonpost.com/world/2026/04/26/russia-public-despair-war-ukraine/][Mood in Russia turns bleak as war in Ukraine drags and economy suffers]]
+- [[https://www.washingtonpost.com/world/2026/04/26/king-charles-washington-vis/][The 1939 royal visit and the party that tested U.S.-British relations]]
 - [[https://www.washingtonpost.com/world/2026/04/25/iran-us-pakistan-ceasefire-talks/][Trump calls off Witkoff, Kushner trip to Pakistan for Iran peace talks]]
 - [[https://www.washingtonpost.com/world/2026/04/25/mali-attacks-militants/][Militants launch coordinated attacks across Mali]]
-- [[https://www.washingtonpost.com/world/2026/04/25/flavio-bolsonaro-lula-brazil-election/][Bolsonaro’s son runs for president with a mission: Get dad out of prison]]
-- [[https://www.washingtonpost.com/national-security/2026/04/24/china-iran-oil-treasury-sanctions/][U.S. targets China’s shadow trade with Iran in sweeping sanctions]]
-- [[https://www.washingtonpost.com/world/2026/04/24/netanyahu-prostate-cancer-treatment-iran-war/][Netanyahu says he hid prostate cancer from public because of Iran war]]
 
 *** WSJ.com: World News
 
@@ -93,29 +93,29 @@
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/article/2026/04/26/donald-trump-evacue-apres-des-tirs-au-diner-des-correspondants-de-la-maison-blanche_6683378_3210.html][Donald Trump évacué et indemne après des tirs au dîner des correspondants de la Maison Blanche]]
-- [[https://www.lemonde.fr/international/live/2026/04/26/en-direct-guerre-au-moyen-orient-l-annulation-du-deplacement-des-emissaires-americains-au-pakistan-pour-negocier-avec-l-iran-ne-signifie-pas-la-reprise-de-la-guerre-dit-donald-trump_6681958_3210.html][EN DIRECT, guerre au Moyen-Orient : l’annulation du déplacement des émissaires américains au Pakistan pour négocier avec l’Iran ne signifie pas la reprise de la guerre, dit Donald Trump]]
-- [[https://www.lemonde.fr/afrique/article/2026/04/26/au-mali-les-djihadistes-font-vaciller-la-junte-en-menant-une-attaque-sans-precedent_6683312_3212.html][Au Mali, les djihadistes font vaciller la junte en menant une attaque sans précédent]]
-- [[https://www.lemonde.fr/les-decodeurs/article/2026/04/25/transports-publics-leur-organisation-ne-correspond-pas-a-nos-mobilites-quotidiennes-selon-une-analyse-inedite-de-donnees-telephoniques_6683220_4355770.html][Transports publics : leur organisation ne correspond pas à nos mobilités quotidiennes, selon une analyse inédite de données téléphoniques]]
-- [[https://www.lemonde.fr/international/live/2026/04/26/en-direct-guerre-en-ukraine-deux-morts-dans-une-attaque-de-drones-russes-pres-de-la-frontiere_6683420_3210.html][EN DIRECT, guerre en Ukraine : deux morts dans une attaque de drones russes près de la frontière]]
+- [[https://www.lemonde.fr/international/article/2026/04/26/un-homme-arme-tente-de-forcer-l-entree-d-un-gala-de-la-presse-a-washington-accueillant-donald-trump_6683433_3210.html][Donald Trump évacué après des tirs au gala de la presse : « Personne ne m’avait dit que c’était une profession si dangereuse »]]
+- [[https://www.lemonde.fr/international/live/2026/04/26/en-direct-guerre-au-moyen-orient-l-iran-assure-qu-il-ne-negociera-pas-tant-que-le-blocus-maritime-americain-se-poursuivra-apres-l-annulation-de-la-venue-au-pakistan-des-emissaires-de-donald-trump_6681958_3210.html][EN DIRECT, guerre au Moyen-Orient : l’Iran assure qu’il ne négociera pas tant que le blocus maritime américain se poursuivra, après l’annulation de la venue au Pakistan des émissaires de Donald Trump]]
+- [[https://www.lemonde.fr/international/video/2026/04/26/la-catastrophe-de-tchernobyl-a-change-ma-vie-entretien-exclusif-avec-une-rescapee-de-l-accident-nucleaire_6683445_3210.html][VIDÉO - « La catastrophe de Tchernobyl a changé ma vie » - entretien exclusif avec une rescapée de l’accident nucléaire]]
+- [[https://www.lemonde.fr/international/article/2026/04/26/mali-reprise-des-combats-a-kidal-entre-l-armee-appuyee-par-la-russie-et-des-rebelles-touareg-allies-aux-djihadistes_6683450_3210.html][Au Mali, reprise des combats à Kidal entre l’armée appuyée par la Russie et des rebelles touareg alliés aux djihadistes]]
+- [[https://www.lemonde.fr/idees/article/2026/04/26/si-ecrire-permet-d-organiser-nos-idees-comment-comprendrons-nous-le-monde-si-nous-laissons-l-ia-rediger-a-notre-place_6683425_3232.html][« Si écrire permet d’organiser nos idées, comment comprendrons-nous le monde si nous laissons l’IA rédiger à notre place ? »]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/en-direct-trump-evacue-du-diner-des-correspondants-de-la-maison-blanche-apres-des-tirs-un-homme-arrete-20260426][EN DIRECT - Trump évacué du dîner des correspondants de la Maison Blanche après des tirs, un homme arrêté]]
-- [[https://www.lefigaro.fr/international/dans-les-entrailles-du-reacteur-n04-de-tchernobyl-quarante-ans-apres-la-catastrophe-20260418][500 millions de dégâts et un confinement fragilisé : dans les entrailles de Tchernobyl, où la Russie a rouvert les plaies de la catastrophe]]
-- [[https://www.lefigaro.fr/sciences/le-nuage-radioactif-s-est-arrete-a-la-frontiere-le-mythe-du-mensonge-d-etat-ne-d-une-communication-catastrophique-apres-tchernobyl-20260424][«Le nuage radioactif s’est arrêté à la frontière» : le mythe du mensonge d’État né d’une communication catastrophique après Tchernobyl]]
-- [[https://www.lefigaro.fr/sciences/tchernobyl-quarante-ans-apres-la-radioactivite-du-nuage-est-elle-encore-mesurable-en-france-20260425][Tchernobyl, quarante ans après : la radioactivité du nuage est‑elle encore mesurable en France ?]]
-- [[https://www.lefigaro.fr/international/galia-ackerman-la-nature-du-regime-preparait-la-catastrophe-de-tchernobyl-20260425][Galia Ackerman : « La nature du régime préparait la catastrophe de Tchernobyl »]]
+- [[https://www.lefigaro.fr/international/en-direct-trump-evacue-du-diner-des-correspondants-de-la-maison-blanche-apres-des-tirs-un-homme-arrete-20260426][EN DIRECT - Donald Trump évacué après des tirs au dîner des correspondants de la Maison-Blanche : Emmanuel Macron dénonce une «attaque inacceptable»]]
+- [[https://www.lefigaro.fr/international/trump-evacue-du-diner-des-correspondants-de-la-maison-blanche-apres-des-detonations-20260426][Donald Trump exfiltré et indemne, suspect interpellé… Ce que l’on sait des tirs lors du dîner des correspondants de la Maison-Blanche]]
+- [[https://www.lefigaro.fr/international/il-y-aura-des-coups-de-feu-ce-soir-quand-la-porte-parole-de-la-maison-blanche-plaisante-quelques-minutes-avant-l-evacuation-de-trump-a-washington-20260426][«Il y aura des coups de feu ce soir» : quand la porte-parole de la Maison-Blanche plaisante quelques minutes avant l’évacuation de Trump à Washington]]
+- [[https://www.lefigaro.fr/international/ecartez-vous-monsieur-les-images-de-l-exfiltration-en-urgence-de-donald-trump-apres-des-tirs-au-diner-des-correspondants-de-la-maison-blanche-20260426][«Écartez-vous monsieur !» : les images de l’exfiltration en urgence de Donald Trump après des tirs au dîner des correspondants de la Maison-Blanche]]
+- [[https://www.lefigaro.fr/international/la-troisieme-fois-en-trois-ans-la-presse-americaine-reagit-au-nouvel-incident-de-securite-dont-donald-trump-a-ete-victime-a-washington-20260426][«La troisième fois en trois ans» : la presse américaine réagit au nouvel incident de sécurité dont Donald Trump a été victime à Washington]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
+- [[https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss][What it was like in the room as shots rang out at correspondents' dinner]]
 - [[https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss][Trump cancels US envoys' trip to Pakistan for talks on Iran war]]
-- [[https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss][Explosions and gunfire as armed groups launch co-ordinated attacks across Mali]]
+- [[https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss][Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon]]
+- [[https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss][Armed groups launch coordinated attacks across Mali]]
 - [[https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss][Mexico says US agents killed in crash weren't permitted to operate there]]
-- [[https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss][Palestinians in West Bank and some in Gaza vote in local elections]]
-- [[https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss][Rights groups critical as Venezuela prisoner release scheme 'coming to an end']]
 
 *** The Guardian
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
+- [[https://www.ilsole24ore.com/art/governo-ora-norme-occupazione-e-casa-resta-l-urgenza-energia-AIQWtxhC][Governo, ora le norme su occupazione e casa. Resta l’urgenza energia]]
 - [[https://www.ilsole24ore.com/art/per-l-arcivescovo-sarah-mullally-visita-vaticano-e-preghiera-papa-leone-xiv-AIvzz7hC][Per l’arcivescovo Sarah Mullally visita in Vaticano e preghiera con Papa Leone XIV]]
 - [[https://www.ilsole24ore.com/art/treviso-bimba-18-mesi-rimane-incastrata-tosaerba-e-pericolo-vita-AIsHx8hC][Treviso: bimba di 18 mesi rimane incastrata nel tosaerba, è in pericolo di vita]]
 - [[https://www.ilsole24ore.com/art/mondello-rischio-disordini-concessione-demaniale-non-si-tocca-AIAX5uhC][Mondello: rischio disordini, la concessione demaniale non si tocca]]
 - [[https://www.ilsole24ore.com/art/fisco-conto-rovescia-il-730-caccia-bonus-ricevute-scontrini-e-175-pagine-istruzioni-AIJb0mhC][Fisco, conto alla rovescia per il 730. Caccia ai bonus tra ricevute, scontrini e 175 pagine di istruzioni]]
-- [[https://www.ilsole24ore.com/art/conti-opzione-scostamento-ma-ue-e-subito-stop-AIogbuhC][Conti, opzione scostamento ma dalla Ue è subito stop]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/colombia-highway-bomb-attack-kills-14/a-76939450?maca=en-rss-en-world-4025-rdf][Colombia highway bomb attack kills 14]]
 - [[https://www.dw.com/en/40-years-after-chernobyl-pripyat-today/a-76925905?maca=en-rss-en-world-4025-rdf][40 years after Chernobyl: Pripyat today]]
 - [[https://www.dw.com/en/palestinians-vote-in-municipal-elections-in-gaza-west-bank/a-76930149?maca=en-rss-en-world-4025-rdf][Palestinians vote in municipal elections in Gaza, West Bank]]
 - [[https://www.dw.com/en/uk-us-ties-tested-britain-courts-trump-with-king-charles/a-76928978?maca=en-rss-en-world-4025-rdf][UK-US ties tested: Britain courts Trump with King Charles]]
 - [[https://www.dw.com/en/zelenskyy-ready-to-hold-ukraine-russia-talks-in-azerbaijan/a-76933298?maca=en-rss-en-world-4025-rdf][Zelenskyy ready to hold Ukraine-Russia talks in Azerbaijan]]
-- [[https://www.dw.com/en/tunisia-suspends-rights-group-amid-widening-repression/a-76931737?maca=en-rss-en-world-4025-rdf][Tunisia suspends rights group amid widening repression]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/o-mundo-e-uma-bola/2026/04/futebol-2020-x-futebol-1980.shtml][Futebol 2020 x Futebol 1980]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/04/magnetismo-de-joao-gomes-conduz-dominguinho-em-show-de-gala-com-fagner-no-allianz.shtml][Magnetismo de João Gomes conduz 'Dominguinho' em show de gala com Fagner no Allianz]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/geracao-z-prioriza-crescimento-no-trabalho-enquanto-boomers-focam-equilibrio-diz-levantamento.shtml][Geração Z prioriza crescimento no trabalho, enquanto boomers focam equilíbrio, diz levantamento]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/sobre-trilhos/2026/04/projetos-de-trens-e-metros-precisam-de-governanca-metropolitana-afirma-executiva-de-associacao.shtml][Projetos de trens e metrôs precisam de governança metropolitana, afirma executiva de associação]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/becky-korich/2026/04/saudades-das-placas-de-carro-com-tres-letras-e-quatro-numeros.shtml][Saudades das placas de carro com três letras e quatro números]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/04/saiba-quem-e-o-suspeito-de-ataque-em-jantar-com-trump.shtml][Saiba quem é o suspeito de ataque em jantar com Trump]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/04/o-que-e-a-leitura-profunda-e-por-que-ela-faz-bem-para-o-cerebro.shtml][O que é a leitura profunda e por que ela faz bem para o cérebro]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/04/salmao-exposto-a-cocaina-nada-mais-rapido-e-percorre-maior-distancia.shtml][Salmão exposto à cocaína nada mais rápido e percorre maior distância]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/04/desafeto-de-moro-concorre-ao-governo-do-pr-com-objetivo-de-escrutinar-senador.shtml][Desafeto de Moro concorre ao Governo do PR com objetivo de 'escrutinar' senador]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/gatices/2026/04/gatofest-confirma-segunda-edicao-de-festival-de-videos-de-felinos-em-sao-paulo.shtml][GatoFest confirma segunda edição de festival de vídeos de felinos em São Paulo]]
 
 *** O Globo
 
