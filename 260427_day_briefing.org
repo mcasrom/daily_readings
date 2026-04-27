@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 42.9°C | ⚖ Load: 0.00 | 🌐 Ping: 9.33ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 42.4°C | ⚖ Load: 0.04 | 🌐 Ping: 17.5ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -43,33 +43,33 @@
 
 - [[https://elpais.com/internacional/2026-04-26/intento-de-atentado-a-donald-trump-en-la-cena-de-corresponsales-de-la-casa-blanca.html][Última hora del intento de atentado contra Trump, en directo | Trump afirma que el autor del tiroteo en Washington actuó movido por el “odio” a los cristianos]]
 - [[https://elpais.com/internacional/2026-04-26/trump-afirma-que-la-motivacion-el-autor-del-ataque-en-la-cena-de-corresponsales-fue-el-odio-a-los-cristianos.html][El autor del ataque escribió un manifiesto contra Trump]]
-- [[https://elpais.com/internacional/2026-04-26/el-presidente-trump-evacuado-de-la-cena-de-corresponsales-de-la-casa-blanca.html][Trump, evacuado ileso de la cena de corresponsales de la Casa Blanca tras un tiroteo]]
 - [[https://elpais.com/us/2026-04-26/el-atacante-de-la-cena-de-corresponsales-un-maestro-californiano-de-31-anos-esta-detenido.html][Quién es Cole Allen, el profesor californiano detenido por disparar en la cena de corresponsales de la Casa Blanca con Trump]]
 - [[https://elpais.com/internacional/2026-04-26/todos-al-suelo-en-el-primer-plato-el-intento-de-atentado-de-trump-desde-el-interior-de-la-cena-de-corresponsales.html][El tiroteo desde dentro: “Se oyeron cinco sonidos secos, no eran bandejas cayendo sino disparos”]]
+- [[https://elpais.com/videos/2026-04-26/videoanalisis-la-polarizacion-que-empieza-en-los-politicos-y-acaba-en-los-ciudadanos.html][Videoanálisis | La polarización que empieza en los políticos y acaba en los ciudadanos]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/internacional/2026/04/26/69ee1e7de4d4d8c35c8b4577.html][Los investigadores del intento de atentado contra Trump en el hotel Hilton sospechan que el objetivo del tirador era cualquier "miembro de la Administración"]]
-- [[https://www.elmundo.es/internacional/2026/04/26/69eda1cee9cf4a991e8b4579.html][El tiroteo en el hotel Hilton resucita las dudas sobre la seguridad de Trump y la violencia política en EEUU]]
-- [[https://www.elmundo.es/internacional/2026/04/26/69edabf5e9cf4ab65e8b4571.html][El presunto tirador de la cena de corresponsales de la Casa Blanca es un profesor particular y programador informático de California]]
-- [[https://www.elmundo.es/internacional/2026/04/26/69edcc89fdddff1a2c8b4582.html][Así vivieron el tiroteo los corresponsales en la cena junto a Trump: "En cuestión de segundos, todos estábamos bajo las mesas"]]
-- [[https://www.elmundo.es/internacional/2026/04/26/69ee12dc21efa0d2138b4579.html][La viuda del influencer asesinado Charlie Kirk sale entre lágrimas tras el tiroteo en Washington: "Solo quiero irme a casa"]]
+- [[https://www.elmundo.es/espana/2026/04/26/69ee1cf1e9cf4ade2b8b4571.html][Reconstrucción del día que el Gobierno se fue a negro con el gran apagón: "Un drama que no nos tenía que  haber pasado"]]
+- [[https://www.elmundo.es/espana/2026/04/27/69ee1df7fdddff9a0b8b457c.html][Los 'whatsapps' de la purga de Ortega Smith: expulsado en 13 minutos por "daño a Vox"]]
+- [[https://www.elmundo.es/internacional/2026/04/26/69ee471afdddff15208b4585.html][La violencia política en la historia de EEUU: cuatro presidentes asesinados y tres más heridos en atentados]]
+- [[https://www.elmundo.es/internacional/2026/04/27/69ee5dff21efa098678b4579.html][El tercer atentado contra Trump deja en shock a unos Estados Unidos rotos: "¿Por qué no hubo ningún control de identificación?"]]
+- [[https://www.elmundo.es/internacional/2026/04/27/69ee579021efa0830c8b457d.html][Una nación fracturada y bajo  un nivel de tensión irrespirable]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/internacional/20260426/11522986/evacuan-trump-cena-corresponsales-casa-blanca-sonido-posibles-disparos.html][Donald Trump sale ileso de un tiroteo durante la Cena de Corresponsales de la Casa Blanca]]
+- [[https://www.lavanguardia.com/internacional/20260427/11523265/conmocion-estados-unidos-tercer-intento-asesinato-trump.html][Conmoción en Estados Unidos por el tercer intento de asesinato de Trump]]
 - [[https://www.lavanguardia.com/internacional/20260426/11523011/trump-tiroteo-nunca-me-dijeron-presidente-profesion-peligrosa.html][Trump, tras el tiroteo: “Nunca me dijeron que ser presidente era un profesión tan peligrosa”]]
 - [[https://www.lavanguardia.com/politica/20260426/11523032/pedro-sanchez-condena-ataque-donald-trump-violencia-nunca-camino.html][Pedro Sánchez condena el ataque a Donald Trump: “La violencia nunca es el camino”]]
-- [[https://www.lavanguardia.com/internacional/20260426/11523207/pistolero-washington-envio-escritos-trump-cristianos.html][Cole Tomas Allen, el pistolero de Washington, envió escritos contra Trump y los cristianos]]
+- [[https://www.lavanguardia.com/internacional/20260426/11523207/pistolero-washington-envio-escritos-trump-cristianos.html][El pistolero llama a Trump “pedófilo, violador y traidor” en su texto]]
 - [[https://www.lavanguardia.com/internacional/20260426/11523215/solidaridad-total-trump-une-aliados-cercanos-mas-criticos.html][La solidaridad total con Trump une a los aliados cercanos y los más críticos]]
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/deportes/racing-merece-mas-suma-punto-ceuta/20260427012010192093.html][El Racing, aunque merece más, suma un punto en Ceuta (0-0)]]
 - [[https://eldiariocantabria.publico.es/articulo/deportes/bathco-bm-torrelavega-reconcilia-consigo-mismo/20260426210531192092.html][El Bathco BM Torrelavega se reconcilia consigo mismo]]
 - [[https://eldiariocantabria.publico.es/articulo/cantabria/aviso-amarillo-cantabria-fuertes-lluvias-tormentas-granizo-lunes/20260426203528192090.html][Aviso amarillo en Cantabria: fuertes lluvias y tormentas con granizo para este lunes]]
 - [[https://eldiariocantabria.publico.es/articulo/cantabria/suerte-sonrie-castro-urdiales-boleto-primitiva-deja-mas-32000-euros/20260426193549192088.html][La suerte sonríe a Castro Urdiales: un boleto de La Primitiva deja más de 32.000 euros]]
 - [[https://eldiariocantabria.publico.es/articulo/cantabria/compras-comida-internet-son-consejos-que-debes-seguir/20260426192622192086.html][¿Compras comida por internet? Estos son los consejos que debes seguir]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/repartidas-primeras-ayudas-natalidad-2026-entre-42-familias/20260426185841192084.html][Repartidas las primeras ayudas a las familias que hayan tenido o adoptado un hijo en 2026]]
 
 ** 🇺🇸 Estados Unidos
 
@@ -83,29 +83,29 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/politics/how-to-avoid-fistfights-and-dna-leaks-at-a-world-leaders-summit-051741e8][How to Avoid Fistfights and DNA Leaks at a World Leaders Summit]]
+- [[https://www.wsj.com/world/uk/king-charles-is-on-a-mission-to-salvage-u-k-relations-with-trump-5df933e3][King Charles Is on a Mission to Salvage U.K. Relations With Trump]]
+- [[https://www.wsj.com/world/middle-east/aborted-pakistan-trip-leaves-trump-with-tough-choices-on-iran-talks-e062f8fd][Aborted Pakistan Trip Leaves Trump With Tough Choices on Iran Talks]]
 - [[https://www.wsj.com/world/americas/colombia-hit-by-deadliest-wave-of-bombings-for-civilians-in-years-db2c47c8][Colombia Hit by Deadliest Wave of Bombings for Civilians in Years]]
 - [[https://www.wsj.com/world/middle-east/gaza-election-vote-b25d8206][Gaza Holds First Local Election in 20 Years]]
-- [[https://www.wsj.com/world/middle-east/aborted-pakistan-trip-leaves-trump-with-tough-choices-on-iran-talks-e062f8fd][Aborted Pakistan Trip Leaves Trump With Tough Choices on Iran Talks]]
-- [[https://www.wsj.com/politics/trumps-fears-on-the-iran-war-2a28b672][Trump’s Fears on the Iran War]]
-- [[https://www.wsj.com/world/what-happened-to-just-war-why-modern-popes-have-become-peace-activists-a8cd7ecb][What Happened to Just War? Why Modern Popes Have Become Peace Activists]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/article/2026/04/26/coups-de-feu-au-gala-de-la-presse-a-washington-ce-que-l-on-sait-de-l-homme-suspecte-d-avoir-tire_6683458_3211.html][Coups de feu au gala de la presse à Washington : ce que l’on sait de l’homme suspecté d’avoir tiré]]
+- [[https://www.lemonde.fr/international/article/2026/04/27/a-washington-l-homme-ayant-planifie-une-fusillade-au-gala-de-la-presse-visait-les-membres-de-l-administration-trump-selon-les-autorites_6683603_3210.html][A Washington, l’homme ayant planifié une fusillade au gala de la presse visait les membres de l’administration Trump, selon les autorités]]
+- [[https://www.lemonde.fr/international/live/2026/04/27/en-direct-guerre-au-moyen-orient-abbas-araghtchi-ministre-des-affaires-etrangeres-iranien-rejoint-la-russie-ou-il-pourrait-rencontrer-vladimir-poutine_6681958_3210.html][EN DIRECT, guerre au Moyen-Orient : Abbas Araghtchi, ministre des affaires étrangères iranien, va rencontrer, lundi, Vladimir Poutine en Russie]]
+- [[https://www.lemonde.fr/afrique/article/2026/04/27/au-mali-la-junte-plus-fragilisee-que-jamais-alors-que-les-assaillants-negocient-avec-les-forces-russes_6683493_3212.html][Au Mali, la junte plus fragilisée que jamais alors que les assaillants négocient avec les forces russes]]
 - [[https://www.lemonde.fr/economie/article/2026/04/26/le-groupe-lagardere-a-tente-de-peser-sur-la-commission-d-enquete-sur-l-audiovisuel-public_6683479_3234.html][Le groupe Lagardère a tenté de peser sur la commission d’enquête sur l’audiovisuel public]]
-- [[https://www.lemonde.fr/international/live/2026/04/26/en-direct-guerre-au-moyen-orient-abbas-araghtchi-ministre-des-affaires-etrangeres-iranien-est-de-retour-a-islamabad-vingt-quatre-heures-apres-son-depart-du-pakistan-sans-avoir-rencontre-les-americains_6681958_3210.html][EN DIRECT, guerre au Moyen-Orient : Abbas Araghtchi, ministre des affaires étrangères iranien, est de retour à Islamabad, vingt-quatre heures après son départ du Pakistan sans avoir rencontré les Américains]]
-- [[https://www.lemonde.fr/societe/article/2026/04/26/la-double-vie-des-femmes-qui-cumulent-travail-et-parcours-de-pma-en-parler-a-mon-employeur-c-est-prendre-le-risque-d-etre-jugee_6683418_3224.html][La « double vie » des femmes qui cumulent travail et parcours de PMA : « En parler à mon employeur, c’est prendre le risque d’être jugée » ou « mise sur la touche »]]
-- [[https://www.lemonde.fr/international/article/2026/04/26/en-cisjordanie-le-fatah-est-arrive-en-tete-des-elections-municipales-dans-plusieurs-villes_6683487_3210.html][En Cisjordanie, le Fatah est arrivé en tête des élections municipales dans plusieurs villes]]
+- [[https://www.lemonde.fr/international/article/2026/04/27/des-depenses-militaires-mondiales-toujours-en-augmentation-l-europe-et-l-asie-enregistrant-les-plus-fortes-hausses-en-2025_6683561_3210.html][Des dépenses militaires mondiales toujours en augmentation, l’Europe et l’Asie enregistrant les plus fortes hausses en 2025]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/conjoncture/inondations-secheresse-canicule-toutes-les-catastrophes-naturelles-pourraient-ne-plus-etre-couvertes-a-l-avenir-20260424][Inondations, sécheresse, canicule : toutes les catastrophes naturelles pourraient ne plus être couvertes à l’avenir]]
-- [[https://www.lefigaro.fr/meteo/la-meteo-de-la-semaine-une-goutte-froide-s-installe-des-mardi-sur-une-partie-du-pays-20260426][La météo de la semaine : une goutte froide s’installe dès mardi sur une partie du pays]]
-- [[https://www.lefigaro.fr/international/la-violence-politique-exacerbee-sous-donald-trump-20260426][« Je ne peux pas imaginer une profession plus dangereuse, mais je suis là pour ça... » : la violence politique exacerbée sous Donald Trump]]
-- [[https://www.lefigaro.fr/international/donald-trump-vise-une-nouvelle-fois-par-une-tentative-d-assassinat-20260426][Donald Trump visé une nouvelle fois par une tentative d’assassinat]]
-- [[https://www.lefigaro.fr/international/la-longue-liste-des-presidents-americains-tues-ou-vises-par-des-assaillants-armes-20260426][La longue liste des présidents américains tués ou visés par des assaillants armés]]
+- [[https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-le-chef-de-la-diplomatie-iranienne-est-arrive-en-russie-pour-rencontrer-poutine-20260427][EN DIRECT - Guerre au Moyen-Orient : le chef de la diplomatie iranienne est arrivé en Russie pour rencontrer Poutine]]
+- [[https://www.lefigaro.fr/conjoncture/carburants-tant-que-le-detroit-d-ormuz-sera-bloque-les-prix-resteront-extremement-eleves-previent-le-president-de-l-ufip-20260426][Carburants : «Tant que le détroit d’Ormuz sera bloqué», les prix resteront «extrêmement élevés», prévient le président de l’Ufip]]
+- [[https://www.lefigaro.fr/conjoncture/guerre-au-moyen-orient-nous-n-avons-plus-de-marges-de-manoeuvre-budgetaires-avertit-pierre-moscovici-20260426][Guerre au Moyen-Orient : «Nous n’avons plus de marges de manœuvre» budgétaires, avertit Pierre Moscovici]]
+- [[https://www.lefigaro.fr/economie/la-course-a-l-armement-s-accelere-2887-milliards-de-dollars-ont-ete-depenses-dans-le-monde-en-2025-20260427][La course à l’armement s’accélère : 2887 milliards de dollars ont été dépensés dans le monde en 2025]]
+- [[https://www.lefigaro.fr/international/en-direct-tirs-au-diner-de-la-presse-a-washington-le-tireur-presente-a-la-justice-ce-lundi-20260427][EN DIRECT - Tirs au dîner de la presse à Washington : le tireur présenté à la justice ce lundi]]
 
 ** 🇬🇧 Reino Unido
 
@@ -119,11 +119,11 @@
 
 *** The Guardian
 
+- [[https://www.theguardian.com/world/2026/apr/26/mali-defence-minister-killed-amid-flurry-of-insurgent-attacks][Mali defence minister killed amid flurry of insurgent attacks]]
 - [[https://www.theguardian.com/world/2026/apr/25/militants-and-separatists-launch-coordinated-attacks-across-mali][Militants and separatists launch coordinated attacks across Mali]]
 - [[https://www.theguardian.com/global-development/2026/apr/25/discovery-children-fatal-disfiguring-disease-noma-unknown-bacteria][‘Astonishing’ discovery could help save children from deadly disfiguring condition]]
 - [[https://www.theguardian.com/us-news/2026/apr/24/millionaire-hunter-dies-elephants-gabon][US millionaire big-game hunter dies after being crushed by elephants]]
 - [[https://www.theguardian.com/uk-news/2026/apr/22/british-woman-died-in-ghana-trying-to-recoup-money-from-scammers-inquest-told][British woman died in Ghana trying to recoup money from scammers, inquest told]]
-- [[https://www.theguardian.com/global-development/2026/apr/22/climate-change-extreme-weather-heatwaves-floods-wildfires-threat-democracy-elections][Heatwaves, floods and wildfires pose rising threat to democracy, report finds]]
 
 ** 🇮🇹 Italia
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/sipri-record-arms-spending-again/a-76901397?maca=en-rss-en-world-4025-rdf][SIPRI: Record arms spending, again]]
 - [[https://www.dw.com/en/russia-north-korea-agree-long-term-military-cooperation/a-76945404?maca=en-rss-en-world-4025-rdf][Russia, North Korea agree 'long-term' military cooperation]]
 - [[https://www.dw.com/en/colombia-highway-bomb-attack-kills-at-least-19/a-76939450?maca=en-rss-en-world-4025-rdf][Colombia highway bomb attack kills at least 19]]
 - [[https://www.dw.com/en/syria-first-trial-of-assad-era-officials-opens-in-damascus/a-76944735?maca=en-rss-en-world-4025-rdf][Syria: First trial of Assad-era officials opens in Damascus]]
 - [[https://www.dw.com/en/40-years-after-chernobyl-pripyat-today/a-76925905?maca=en-rss-en-world-4025-rdf][40 years after Chernobyl: Pripyat today]]
-- [[https://www.dw.com/en/palestinians-vote-in-municipal-elections-in-gaza-west-bank/a-76930149?maca=en-rss-en-world-4025-rdf][Palestinians vote in municipal elections in Gaza, West Bank]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/musculo/2026/04/ramon-dino-diz-que-adversarios-vao-brigar-pelo-segundo-lugar-no-olympia-2026.shtml][Ramon Dino diz que adversários 'vão brigar pelo segundo lugar' no Olympia 2026]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/musculo/2026/04/mister-olympia-de-2024-samson-dauda-diz-que-gostaria-de-competir-no-brasil.shtml][Mister Olympia de 2024, Samson Dauda diz que gostaria de competir no Brasil]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/04/com-um-a-menos-corinthians-vence-o-vasco-e-sai-da-zona-de-rebaixamento.shtml][Com um a menos, Corinthians vence o Vasco e sai da zona de rebaixamento]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/04/rivais-de-netanyahu-unem-forcas-de-olho-nas-proximas-eleicoes-em-israel.shtml][Rivais de Netanyahu unem forças de olho nas próximas eleições em Israel]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/04/projeto-criado-por-ex-alunos-da-usp-vai-atender-estudantes-da-rede-publica-de-sp.shtml][Projeto criado por ex-alunos da USP vai atender estudantes da rede pública de SP]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/04/frente-a-frente-programa-de-folha-e-uol-sobre-eleicoes-entrevista-renan-santos-nesta-segunda.shtml][Frente a Frente, programa de Folha e UOL sobre eleições, entrevista Renan Santos nesta segunda]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/pms-do-rio-monitoraram-empresario-antes-de-mata-lo-na-pavuna-aponta-investigacao.shtml][PMs do Rio monitoraram empresário antes de matá-lo na Pavuna, aponta investigação]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/04/kelly-key-diz-que-marido-passara-por-cirurgia-apos-avc.shtml][Kelly Key diz que marido passará por cirurgia após AVC]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/cinema/2026/04/pre-venda-de-ingressos-de-cinema-para-mortal-kombat-2-ja-esta-aberta.shtml][Pré-venda de ingressos de cinema para 'Mortal Kombat 2' já está aberta]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/04/bolsonaro-cumpre-pena-em-casa-com-piscina-e-de-tornozeleira-veja-infografico.shtml][Bolsonaro cumpre pena em casa com piscina e de tornozeleira; veja infográfico]]
 
 *** O Globo
 
