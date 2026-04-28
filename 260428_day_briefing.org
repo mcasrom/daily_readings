@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
-#+HTML: <div class='telemetry'>🌡 42.4°C | ⚖ Load: 0.00 | 🌐 Ping: 9.80ms</div>
+#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
+#+HTML: <div class='telemetry'>🌡 42.9°C | ⚖ Load: 0.00 | 🌐 Ping: 13.3ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,19 +41,19 @@
 
 *** El País
 
-- [[https://elpais.com/economia/2026-04-28/las-grandes-empresas-mantendran-la-batalla-judicial-para-reclamar-danos-por-el-apagon.html][Las grandes empresas darán la batalla judicial para reclamar daños por el apagón]]
-- [[https://elpais.com/videos/2026-04-28/un-ano-del-apagon-que-podemos-hacer-para-que-no-vuelva-a-repetirse.html][Un año del apagón: qué podemos hacer para que no vuelva a repetirse]]
+- [[https://elpais.com/espana/2026-04-28/ultima-hora-de-la-actualidad-politica-en-directo.html][Última hora de la actualidad política, en directo | Azcón dice ahora que priorizará las ayudas públicas por el arraigo, independientemente de la nacionalidad]]
 - [[https://elpais.com/espana/2026-04-28/pp-vox-y-junts-se-preparan-para-tumbar-la-prorroga-de-alquileres-pese-al-ultimo-esfuerzo-de-sumar.html][PP, Vox y Junts se preparan para tumbar la prórroga de alquileres pese al último esfuerzo de Sumar]]
 - [[https://elpais.com/deportes/2026-04-28/yomif-kejelcha-el-buzz-aldrin-del-maraton-en-menos-de-dos-horas.html][Yomif Kejelcha, el atleta que hizo historia y al que nadie recordará]]
-- [[https://elpais.com/eps/2026-04-28/estel-blay-carreras-la-cientifica-de-manresa-que-comandara-una-mision-al-artico-para-simular-una-expedicion-a-marte.html][Estel Blay Carreras, la científica de Manresa que comandará una expedición al Ártico para simular una misión a Marte]]
+- [[https://elpais.com/cultura/2026-04-28/recorra-el-cuadro-del-hambre.html][‘El año del hambre en Madrid’: recorra el cuadro que encumbró a Aparicio por encima de Goya para después ser desterrado al olvido]]
+- [[https://elpais.com/economia/2026-04-28/mariana-mazzucato-los-anos-de-hegemonia-de-estados-unidos-han-terminado-estamos-viendo-el-final-del-imperio-romano.html][Mariana Mazzucato: “Los años de hegemonía de Estados Unidos han terminado, estamos viendo el final del Imperio Romano”]]
 
 *** El Mundo
 
+- [[https://www.elmundo.es/espana/2026/04/28/69f06e22e85ece430d8b45a2.html][Los socios clave de Sánchez, incluido ahora el PNV, ya decretan el fin de la legislatura: "¿Cómo pretende seguir sin mayoría?"]]
 - [[https://www.elmundo.es/espana/2026/04/27/69ef8e1421efa027518b4571.html][Vox presionó a los dirigentes de la cúpula para que echaran a Ortega: "Te lo está pidiendo Abascal como un favor"]]
-- [[https://www.elmundo.es/espana/2026/04/27/69ef8f07e9cf4a88088b4574.html][Alivio en el PP sobre la "prioridad nacional": su primera encuesta interna revela que el 40% de los votantes del PSOE también la apoya]]
+- [[https://www.elmundo.es/madrid/2026/04/28/69f07ecbe4d4d837018b45a8.html][La crispación en Más Madrid se eleva: afines a Emilio Delgado se rebelan contra los planes de Mónica García y exigen anular parte del nuevo reglamento de las primarias porque "vulnera la democracia interna"]]
 - [[https://www.elmundo.es/economia/los-mas-ricos/2026/04/28/69ea083ce4d4d873698b45a0.html][Emporio Entrecanales:  así gestionan su fortuna las dos sagas propietarias en la era dorada de Acciona]]
-- [[https://www.elmundo.es/economia/2026/04/27/69ef83d3fdddff7d2f8b45aa.html][La respuesta excepcional de un día que también lo fue: "Entré en 14 portales a ver si había gente atrapada en el ascensor"]]
-- [[https://www.elmundo.es/economia/empresas/2026/04/27/69eba7e8fc6c83536b8b45bd.html][El peor apagón de la historia de España, sin responsables un año después]]
+- [[https://www.elmundo.es/espana/2026/04/27/69ef8f07e9cf4a88088b4574.html][Alivio en el PP sobre la "prioridad nacional": su primera encuesta interna revela que el 40% de los votantes del PSOE también la apoya]]
 
 *** La Vanguardia
 
@@ -65,11 +65,11 @@
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/campoo/empresa-denuncia-indefension-recibir-sabado-notificacion-campoo-enmedio-denegando-actividad/20260427205114192137.html][Una empresa denuncia “indefensión” al recibir un sábado una notificación de Campoo de Enmedio denegando su actividad]]
-- [[https://eldiariocantabria.publico.es/articulo/oriental/castro-crea-servicio-atender-extranjeros-que-opten-regularizacion-extraordinaria/20260427202500192135.html][El Ayuntamiento crea un servicio para atender a los extranjeros que opten a la regularización extraordinaria]]
-- [[https://eldiariocantabria.publico.es/articulo/torrelavega/creada-bolsa-empleo-municipal-tecnicos-gestion/20260427201605192134.html][Creada una bolsa de empleo municipal de técnicos de gestión]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/santander-puede-estar-vallada-precintada-motivos/20260427200813192133.html][“Santander no puede estar vallada y precintada sin motivos”]]
-- [[https://eldiariocantabria.publico.es/articulo/educacion/anpe-rechaza-discriminacion-acceso-jubilacion-profesorado-publico-adscrito-seguridad-social/20260427195735192132.html][ANPE rechaza la “discriminación” en el acceso a la jubilación del profesorado público adscrito a la Seguridad Social]]
+- [[https://eldiariocantabria.publico.es/articulo/sociedad/un-ano-del-apagon/20260428115838192145.html][Un año del apagón]]
+- [[https://eldiariocantabria.publico.es/articulo/laboral/advierte-retroceso-sector-industrial-cantabria-puede-causar-estragos-mercado-trabajo/20260428114250192144.html][Advierten del retroceso del sector industrial en Cantabria: "Puede causar estragos en el mercado de trabajo"]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/comprar-casa-santander-cuesta-casi-300000-euros-media/20260428111357192143.html][Comprar casa en Santander cuesta ya casi 300.000 euros de media]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/investigan-camionero-circular-138-km-h-dar-positivo-cocaina/20260428105323192142.html][Investigan a un camionero por circular a 138 km/h y dar positivo en cocaína]]
+- [[https://eldiariocantabria.publico.es/articulo/laboral/cantabria-registra-2100-desempleados-mas-marzo-mantiene-tasa-paro-mas-baja-espana/20260428103510192140.html][Cantabria registra 2.100 desempleados más hasta marzo, aunque mantiene la tasa de paro más baja de España]]
 
 ** 🇺🇸 Estados Unidos
 
@@ -83,47 +83,47 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/americas/claudia-sheinbaum-appeasing-trump-c1b445a6][Claudia Sheinbaum Is Learning the Price of Appeasing Trump]]
 - [[https://www.wsj.com/world/middle-east/iran-offers-a-new-proposal-to-end-war-b88da96c][Iran Offers a New Proposal to End War]]
 - [[https://www.wsj.com/world/africa/the-indian-ocean-islanders-who-were-pummeled-by-historyand-now-by-trump-too-622004f4][The Indian Ocean Islanders Who Were Pummeled by History—and Now by Trump, Too]]
 - [[https://www.wsj.com/world/middle-east/iran-is-flooded-with-so-much-unsold-oil-that-its-stashing-it-in-derelict-tanks-ed8e62b1][Iran Is Flooded With So Much Unsold Oil That It’s Stashing It in Derelict Tanks]]
-- [[https://www.wsj.com/world/americas/claudia-sheinbaum-appeasing-trump-c1b445a6][Claudia Sheinbaum Is Learning the Price of Appeasing Trump]]
 - [[https://www.wsj.com/world/uk/tea-scones-and-geopolitics-what-to-know-about-king-charless-u-s-visit-0b9f50a6][Tea, Scones and Geopolitics: What to Know About King Charles’s U.S. Visit]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/politique/article/2026/04/28/commission-d-enquete-sur-l-audiovisuel-public-la-journee-sous-tension-qui-a-abouti-a-l-adoption-d-un-rapport-decrie_6683824_823448.html][Commission d’enquête sur l’audiovisuel public : la journée sous tension qui a abouti à l’adoption d’un rapport décrié]]
-- [[https://www.lemonde.fr/international/live/2026/04/28/en-direct-guerre-au-moyen-orient-quatre-morts-dans-des-frappes-israeliennes-sur-le-sud-du-liban_6681958_3210.html][EN DIRECT, guerre au Moyen-Orient : quatre morts dans des frappes israéliennes sur le sud du Liban]]
-- [[https://www.lemonde.fr/international/article/2026/04/28/pour-nous-adherer-a-l-ue-n-est-pas-un-reve-mais-une-strategie-de-survie-en-tant-qu-etat-democratique-clame-la-presidente-moldave-maia-sandu_6683823_3210.html][« Pour nous, adhérer à l’UE n’est pas un rêve mais une stratégie de survie en tant qu’Etat démocratique », clame la présidente moldave, Maia Sandu]]
-- [[https://www.lemonde.fr/societe/article/2026/04/28/port-de-marseille-gestion-opaque-achats-dispendieux-deux-elus-cgt-du-comite-d-entreprise-en-proces-pour-abus-de-confiance_6683822_3224.html][Port de Marseille : gestion opaque, achats dispendieux… deux élus CGT du comité d’entreprise en procès pour « abus de confiance »]]
-- [[https://www.lemonde.fr/societe/article/2026/04/27/mort-d-yvan-colonna-en-prison-pourquoi-franck-elong-abe-va-etre-juge-pour-assassinat-en-relation-avec-une-entreprise-terroriste_6683679_3224.html][Mort d’Yvan Colonna en prison : pourquoi Franck Elong Abé va être jugé pour « assassinat en relation avec une entreprise terroriste »]]
+- [[https://www.lemonde.fr/international/article/2026/04/28/l-embarras-de-la-france-face-a-la-crise-au-mali_6683888_3210.html][Mali : l’embarras de la France face à la crise]]
+- [[https://www.lemonde.fr/international/live/2026/04/28/en-direct-guerre-au-moyen-orient-israel-justifie-la-poursuite-de-ses-attaques-au-liban-au-moins-40-personnes-tuees-depuis-le-debut-du-cessez-le-feu-du-17-avril_6681958_3210.html][EN DIRECT, guerre au Moyen-Orient : Israël poursuit ses attaques contre le Hezbollah malgré le cessez-le-feu et appelle à évacuer seize localités au Liban]]
+- [[https://www.lemonde.fr/idees/article/2026/04/28/audiovisuel-public-une-commission-aux-methodes-d-extreme-droite_6683895_3232.html][Audiovisuel public : une commission aux méthodes d’extrême droite]]
+- [[https://www.lemonde.fr/societe/article/2026/04/28/a-mayotte-des-interventions-toujours-dangereuses-pour-intercepter-les-kwassa-kwassa-des-migrants-comoriens_6683896_3224.html][A Mayotte, des interventions toujours dangereuses pour intercepter les kwassa-kwassa des migrants comoriens]]
+- [[https://www.lemonde.fr/international/live/2026/04/28/en-direct-guerre-en-ukraine-nouvel-incendie-a-la-raffinerie-russe-de-touapse_6683420_3210.html][EN DIRECT, guerre en Ukraine : nouvel incendie à la raffinerie russe de Touapsé]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/medias/12-pour-10-contre-8-abstentions-les-coulisses-du-vote-qui-a-sauve-le-rapport-alloncle-de-la-censure-20260427][12 pour, 10 contre, 8 abstentions... Les coulisses du vote très serré qui a sauvé le rapport Alloncle de la censure]]
-- [[https://www.lefigaro.fr/politique/victoire-pour-tous-triste-jour-pour-l-assemblee-la-classe-politique-entre-felicitations-et-amertume-apres-l-adoption-du-rapport-alloncle-20260427][«Victoire pour tous», «triste jour pour l’Assemblée» : la classe politique entre félicitations et amertume après l’adoption du rapport Alloncle]]
-- [[https://tvmag.lefigaro.fr/programme-tv/actu-tele/tacle-a-nagui-fiches-de-paies-manquantes-suites-d-hotel-a-1900-charles-alloncle-reagit-a-l-adoption-de-son-rapport-20260427][Tacle à Nagui, fiches de paies manquantes, suites d’hôtel à 1900€... Charles Alloncle réagit à l’adoption de son rapport]]
-- [[https://www.lefigaro.fr/medias/commission-d-enquete-sur-l-audiovisuel-public-quel-avenir-pour-le-rapport-de-charles-alloncle-selon-l-issue-du-vote-20260427][Commission d’enquête sur l’audiovisuel public : quel avenir pour le rapport de Charles Alloncle, désormais voté ?]]
+- [[https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-donald-trump-etats-unis-israel-liban-hezbollah-benyamin-netanyahou-20260428][EN DIRECT - Guerre au Moyen-Orient : l’Iran affirme que les États-Unis ne sont plus en position de «dicter leur politique» aux autres pays]]
 - [[https://www.lefigaro.fr/international/le-moyen-orient-pris-de-vertige-en-attendant-le-jour-d-apres-20260427][Le Moyen-Orient pris de vertige en attendant le jour d’après]]
+- [[https://www.lefigaro.fr/conjoncture/guerre-au-moyen-orient-un-methanier-charge-de-gnl-franchit-le-detroit-d-ormuz-une-premiere-depuis-le-debut-du-conflit-20260428][Guerre au Moyen-Orient : un méthanier chargé de GNL franchit le détroit d’Ormuz, une première depuis le début du conflit]]
+- [[https://www.lefigaro.fr/international/une-lecon-militaire-l-iran-est-parvenu-a-frapper-une-base-americaine-au-koweit-avec-un-avion-de-chasse-vieillissant-20260427][«Une leçon militaire» : l’Iran est parvenu à frapper une base américaine au Koweït avec un avion de chasse vieillissant]]
+- [[https://www.lefigaro.fr/nantes/disparition-de-manon-relandeau-pres-de-nantes-le-conjoint-interpelle-en-algerie-20260428][Disparition de Manon Relandeau près de Nantes : le conjoint interpellé en Algérie, la fillette retrouvée]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss][Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke]]
-- [[https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss][Trump says King will be 'very safe' during US visit after security talks]]
-- [[https://www.bbc.com/news/articles/cvg0gxrgklro?at_medium=RSS&at_campaign=rss][Pakistan accused of attacking Afghan university]]
-- [[https://www.bbc.com/news/articles/cx2d2ennv95o?at_medium=RSS&at_campaign=rss][Venice opera house drops incoming music director after nepotism remarks]]
-- [[https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&at_campaign=rss][Rescuers race to free survivors trapped inside train after fatal crash]]
+- [[https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss][Suspect charged with attempted assassination of Trump at Washington dinner]]
+- [[https://www.bbc.com/news/articles/cje4eeyq27lo?at_medium=RSS&at_campaign=rss][US political violence generates a familiar cycle - this time it's in overdrive]]
+- [[https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss][Jimmy Kimmel rejects White House criticism over Melania widow joke]]
+- [[https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss][Russian superyacht sails through Strait of Hormuz despite blockade]]
+- [[https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss][Austrian goes on trial accused of plotting attack on Taylor Swift concert]]
 
 *** The Guardian
 
+- [[https://www.theguardian.com/world/2026/apr/28/taking-power-in-mali-might-be-a-stretch-but-insurgents-can-force-hand-of-weakened-regime][Taking power in Mali might be a stretch but insurgents can force hand of weakened regime]]
 - [[https://www.theguardian.com/world/2026/apr/27/gunmen-kill-at-least-29-at-football-pitch-in-north-east-nigeria-governor-says][Gunmen kill at least 29 at football pitch in north-east Nigeria, governor says]]
 - [[https://www.theguardian.com/world/2026/apr/27/german-tourist-dies-bite-snake-show-holiday-egypt][German tourist dies after being bitten at snake show on family holiday in Egypt]]
 - [[https://www.theguardian.com/world/2026/apr/27/mali-militant-attacks-putin-russia-africa][Mali’s militant attacks expose limits of Putin’s power in Africa]]
 - [[https://www.theguardian.com/world/2026/apr/27/mali-attacks-insurgents-seize-towns-kill-defence-minister][Mali in turmoil after insurgents seize towns and kill defence minister]]
-- [[https://www.theguardian.com/world/2026/apr/26/mali-defence-minister-killed-amid-flurry-of-insurgent-attacks][Mali defence minister killed amid flurry of insurgent attacks]]
 
 ** 🇮🇹 Italia
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/inchiesta-cecchini-week-end-imprenditore-brianzolo-ascoltato-pm-sarajevo-parte-civile-AIqjhujC][Inchiesta sui “cecchini del week end”, imprenditore brianzolo ascoltato dal Pm. Sarajevo parte civile]]
-- [[https://www.ilsole24ore.com/art/il-quirinale-scrive-ministero-giustizia-chieste-informazioni-caso-minetti-AIEpijjC][Caso Minetti, lettera del Quirinale al ministero della Giustizia: ok a nuove verifiche. Lei si difende: «Notizie lesive»]]
-- [[https://www.ilsole24ore.com/art/dfp-confindustria-rischio-piu-grave-crisi-energetica-storia-AI1bKdjC][Confindustria: «Se la guerra dura fino a fine anno rischio crisi energetica più grave della storia»]]
-- [[https://www.ilsole24ore.com/art/il-sole-24-ore-spa-l-assemblea-ordinaria-azionisti-approva-bilancio-esercizio-2025-AIOPZejC][Il Sole 24 Ore SpA, l’assemblea ordinaria degli azionisti approva il bilancio di esercizio 2025]]
-- [[https://www.ilsole24ore.com/art/un-grosso-squalo-attacca-motoscafo-gallipoli-paura-i-pescatori-AIp5yNjC][Squalo mako ferito attacca motoscafo durante battuta di pesca a Gallipoli]]
+- [[https://www.ilsole24ore.com/art/nuova-bozza-decreto-lavoro-spunta-l-incentivo-stabilizzare-precari-con-contratti-brevi-AIgM1akC][Nuova bozza del decreto Lavoro: spunta l’incentivo per stabilizzare i precari (con contratti brevi)]]
+- [[https://www.ilsole24ore.com/art/bankitalia-guerra-frena-domanda-prestiti-e-mutui-banche-AIBQzckC][Bankitalia, la guerra frena la domanda di prestiti e mutui alle banche]]
+- [[https://www.ilsole24ore.com/art/fisco-conto-rovescia-il-730-caccia-bonus-ricevute-scontrini-e-175-pagine-istruzioni-AIJb0mhC][Precompilata al via, 730 disponibili sul sito delle Entrate dal 30 aprile]]
+- [[https://www.ilsole24ore.com/art/agcm-multa-amica-chips-pata-e-preziosi-food-cartello-snack-salati-marchio-privato-AIaTBZkC][Agcm multa da 23 milioni a Amica Chips, Pata e Preziosi Food per cartello negli snack salati a marchio privato]]
+- [[https://www.ilsole24ore.com/art/istat-ruolo-indipendente-coordiniamo-dati-seguendo-regole-ue-AIr8MWkC][Bankitalia: cruciale monitorare la spesa. Istat al Governo: ruolo indipendente]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/indonesia-many-killed-in-train-collision-near-jakarta/a-76959000?maca=en-rss-en-world-4025-rdf][Indonesia: Many killed in train collision near Jakarta]]
 - [[https://www.dw.com/en/mali-on-edge-as-insurgency-tests-junta-s-resolve/a-76955690?maca=en-rss-en-world-4025-rdf][Mali on edge as insurgency tests junta's resolve]]
 - [[https://www.dw.com/en/china-blocks-meta-s-2b-acquisition-of-ai-startup-manus/a-76957480?maca=en-rss-en-world-4025-rdf][China blocks Meta's $2B acquisition of AI startup Manus]]
 - [[https://www.dw.com/en/putin-pledges-support-for-iran-in-talks-with-fm-araghchi/a-76947020?maca=en-rss-en-world-4025-rdf][Putin pledges support for Iran in talks with FM Araghchi]]
 - [[https://www.dw.com/en/how-the-iran-war-is-bringing-back-citizenship-as-a-weapon/a-76935737?maca=en-rss-en-world-4025-rdf][How the Iran war is bringing back 'citizenship as a weapon']]
-- [[https://www.dw.com/en/china-seeks-southeast-asia-gains-as-us-influence-falters/a-76954075?maca=en-rss-en-world-4025-rdf][China seeks Southeast Asia gains as US influence falters]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/thiagostivaletti/2026/04/casa-do-patrao-estreia-com-bom-elenco-e-menos-tretas-que-a-fazenda.shtml]['Casa do Patrão' estreia com bom elenco e menos tretas que 'A Fazenda']]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/04/casa-do-patrao-luis-fellipe-se-torna-primeiro-o-patrao-da-temporada.shtml][Casa do Patrão: Luis Fellipe se torna primeiro o patrão da temporada]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/04/4-entre-10-brasileiros-nao-sabem-nomear-uma-mulher-poderosa-mostra-levantamento.shtml][4 entre 10 brasileiros não sabem nomear uma mulher poderosa, mostra levantamento]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/04/estou-mais-consciente-em-destruir-o-machismo-diz-jose-loreto.shtml]['Estou mais consciente em destruir o machismo', diz José Loreto]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/04/dalton-paula-reve-historia-oficial-com-trabalhos-que-ilustram-a-imaginacao.shtml][Dalton Paula revê 'história oficial' com trabalhos que ilustram a imaginação]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/04/cientistas-descobrem-primeiro-ovo-fossilizado-de-ancestral-de-mamiferos.shtml][Cientistas descobrem primeiro ovo fossilizado de ancestral de mamíferos]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/04/romance-narra-execucao-de-comunista-na-argelia-por-bomba-que-nao-matou-ninguem.shtml][Romance narra execução de comunista na Argélia por bomba que não matou ninguém]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/04/com-aldo-estagnado-pre-candidatura-deve-ser-reavaliada-ate-o-final-de-maio.shtml][Com Aldo estagnado, pré-candidatura deve ser reavaliada até o final de maio]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/04/globo-negocia-renovacao-de-contrato-com-milena-segunda-colocada-do-bbb-26.shtml][Globo negocia renovação de contrato com Milena, segunda colocada do BBB 26]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/resultados-do-1o-tri-devem-ser-liderados-por-petroleiras-e-bancos-dizem-analistas.shtml][Resultados do 1º tri devem ser liderados por petroleiras e bancos, dizem analistas]]
 
 *** O Globo
 
