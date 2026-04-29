@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 42.9°C | ⚖ Load: 0.00 | 🌐 Ping: 9.08ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 42.9°C | ⚖ Load: 0.20 | 🌐 Ping: 9.32ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,19 +41,19 @@
 
 *** El País
 
-- [[https://elpais.com/espana/2026-04-28/las-derechas-tumban-el-decreto-del-alquiler-entre-reproches-al-psoe-desde-su-izquierda.html][Las derechas tumban el decreto del alquiler entre reproches al PSOE desde su izquierda]]
-- [[https://elpais.com/economia/vivienda/2026-04-28/que-pasa-ahora-con-la-prorroga-de-los-alquileres-los-expertos-discrepan-sobre-los-efectos-de-la-derogacion-en-el-congreso.html][¿Qué pasa ahora con la prórroga de los alquileres? Los expertos discrepan sobre los efectos de la derogación en el Congreso]]
-- [[https://elpais.com/videos/2026-04-28/haced-algo-ya-cono-una-mujer-grita-desde-la-grada-del-congreso-durante-la-votacion-de-la-prorroga-de-los-alquileres.html][“¡Haced algo ya, coño!”: una mujer grita desde la grada del Congreso durante la votación de la prórroga de los alquileres]]
-- [[https://elpais.com/espana/2026-04-28/un-tuit-del-pse-con-una-imagen-de-ia-de-aitor-esteban-abre-una-crisis-entre-el-pnv-y-los-socialistas.html][Un tuit del PSE con una imagen de IA de Aitor Esteban abre una crisis entre el PNV y los socialistas]]
-- [[https://elpais.com/espana/madrid/2026-04-28/emilistas-y-moniquistas-rompen-su-silencio-en-mas-madrid-el-tiempo-de-monica-se-acabo-emilio-quiere-quemarlo-todo.html][‘Emilistas’ y ‘moniquistas’ rompen su silencio en Más Madrid: “El tiempo de Mónica se acabó”; “Emilio quiere quemarlo todo”]]
+- [[https://elpais.com/espana/2026-04-29/primer-juicio-contra-abalos-koldo-y-aldama-por-la-trama-de-las-mascarillas-en-directo.html][Primer juicio contra Ábalos, Koldo y Aldama por la trama de las mascarillas, en directo | Aldama sitúa la supuesta frase de Sánchez (“sé lo que estás haciendo”) antes de que empezaran las irregularidades que se investigan]]
+- [[https://elpais.com/espana/2026-04-29/juicio-de-kitchen-por-la-trama-de-corrupcion-policial-vinculada-al-pp-en-directo.html][Juicio de Kitchen por la trama de corrupción policial vinculada al PP, en directo | El inspector jefe del caso Gürtel dice que la Kitchen fue “una operación policial sin autorización judicial”]]
+- [[https://elpais.com/economia/2026-04-29/el-bce-pide-a-la-banca-planes-de-contingencia-ante-el-nuevo-modelo-de-ia-de-anthropic.html][El BCE pide a la banca planes de contingencia ante el nuevo modelo de IA de Anthropic]]
+- [[https://elpais.com/tecnologia/2026-04-28/elon-musk-testigo-y-protagonista-de-la-primera-jornada-del-juicio-contra-openai-podria-matarnos-a-todos-no-queremos-un-terminator.html][Elon Musk, testigo y protagonista de la primera jornada del juicio contra OpenAI: “Podría matarnos a todos. No queremos un ‘Terminator”]]
+- [[https://elpais.com/tecnologia/2026-04-29/es-un-error-pensar-que-en-todas-partes-te-van-a-pagar-igual-por-que-un-ingeniero-en-espana-puede-cobrar-entre-42000-y-227000-euros.html][“Es un error pensar que en todas partes te van a pagar igual”: ¿Por qué un ingeniero en España puede cobrar entre 42.000 y 227.000 euros?]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/04/28/69f0effdfc6c83935a8b45ad.html][Aldama apuntará a Sánchez hoy en el Supremo: el presidente dio a Koldo todo su "poder transversal"]]
-- [[https://www.elmundo.es/espana/2026/04/28/69f0fb39fc6c83406c8b45b4.html][Los socios huyen ahora de Sánchez para no verse castigados en las elecciones]]
-- [[https://www.elmundo.es/espana/2026/04/28/69f0f142fc6c837f298b458d.html][El PSOE culpa a Sumar de debilitar al Gobierno con una derrota innecesaria: "No tienen la fuerza que se creen"]]
+- [[https://www.elmundo.es/espana/2026/04/29/69f1c0fae9cf4aa6258b456d.html][Aldama afirma que se hizo la foto con Sánchez porque era "una oportunidad" y revela que Koldo presumía: "El presidente me debe mucho y él sabe por qué"]]
+- [[https://www.elmundo.es/espana/2026/04/29/69f1ab6ae9cf4a16678b45ac.html][Sánchez evita pedir disculpas por el tuit contra Aitor Esteban y la portavoz del PNV le replica: "Usted sabrá si quiere compañía o no"]]
 - [[https://www.elmundo.es/internacional/2026/04/28/69f0e440e4d4d834038b4587.html][Fujaira, un oasis petrolero frente al bloqueo de EEUU: "Seguimos saliendo al mar, pero lo hacemos con miedo"]]
-- [[https://www.elmundo.es/espana/2026/04/29/69f0f5d3fdddffe8788b4595.html][La guerra de Mónica García en Más Madrid ya salpica a Sánchez y descompone más a la izquierda]]
+- [[https://www.elmundo.es/economia/macroeconomia/2026/04/29/69f1b872e4d4d8d5458b4584.html][La guerra en Irán encarece en más de 27.000 millones de euros la importación de combustibles y Europa advierte: "Las consecuencias podrían prolongarse meses o incluso años"]]
+- [[https://www.elmundo.es/cataluna/2026/04/28/69f0e530e85ecedf038b4593.html][Illa forzará a los clubes y eventos deportivos a usar el catalán para recibir financiación pública]]
 
 *** La Vanguardia
 
@@ -61,15 +61,15 @@
 - [[https://www.lavanguardia.com/economia/20260428/11524734/que-ocurre-alquileres-decreto-decaiga-preven-demandas-inquilinos.html][¿Qué ocurre con los alquileres cuando el decreto decaiga? Se prevén demandas de los inquilinos]]
 - [[https://www.lavanguardia.com/opinion/20260429/11525026/cambio.html][Un no a cambio de nada]]
 - [[https://www.lavanguardia.com/politica/20260429/11525005/consorcio-inversiones-naufraga-distancia-aun-mas-erc-junts.html][El consorcio de inversiones naufraga y distancia aún más a ERC y Junts]]
-- [[https://www.lavanguardia.com/politica/20260429/11524600/turno-crucial-acusados-aldama-reconocera-corrupcion-abalos-niega.html][Turno crucial de los acusados: Aldama reconocerá la corrupción que Ábalos niega]]
+- [[https://www.lavanguardia.com/politica/20260429/11524537/juicio-caso-mascarillas-declaraciones-abalos-koldo-aldama-en-directo.html][Turno crucial de los acusados: Aldama reconocerá la corrupción que Ábalos niega]]
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/saja-besaya/gobierno-mejora-seguridad-vial-entorno-ies-valle-saja/20260428212621192190.html][El Gobierno mejora la seguridad vial en el entorno del IES Valle del Saja]]
-- [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/ayuntamiento-ultima-mejora-red-abastecimiento-agua-barrio-santa-cruz-escobedo/20260428211023192188.html][El Ayuntamiento ultima la mejora de la red de abastecimiento de agua en el barrio Santa Cruz de Escobedo]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/psoe-exige-subrogacion-total-plantilla-servicio-limpieza-despues-que-igual-sembrara-dudas-futuro-trabajadores/20260428210211192186.html][El PSOE exige la subrogación total de la plantilla del servicio de limpieza después de que Igual sembrara “dudas” sobre el futuro de los trabajadores]]
-- [[https://eldiariocantabria.publico.es/articulo/educacion/junta-docente-entrega-silva-papel-peticion-reunion-reivindicaciones/20260428204838192185.html][La Junta Docente entrega a Silva un papel con su petición de reunión y reivindicaciones]]
-- [[https://eldiariocantabria.publico.es/articulo/medio-ambiente/denuncian-danos-ambientales-graves-pozo-tremeo-actuacion-irresponsable-administraciones/20260428203605192184.html][Denuncian daños ambientales graves en el Pozo Tremeo por la “actuación irresponsable de las administraciones”]]
+- [[https://eldiariocantabria.publico.es/articulo/comunicados/entretenimiento-tiene-horarios/20260429113438192201.html][El entretenimiento ya no tiene horarios]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/identificado-cliente-como-presunto-autor-robo-cajetin-caja-registradora-hotel-pielagos/20260429112333192199.html][Identificado un cliente como presunto autor del robo del cajetín de la caja registradora de un hotel de Piélagos]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/policia-nacional-detiene-profesor-santander-agredir-sexualmente-alumno-clases-refuerzo/20260429110611192197.html][La Policía Nacional detiene a un profesor en Santander como presunto autor de una agresión sexual a un menor al que daba clases particulares]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/cantabro-antonio-garcia-rivero-reelegido-presidente-federacion-nacional-excavadores/20260429104758192195.html][El cántabro Antonio García Rivero, reelegido presidente de la Federación Nacional de Excavadores]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/interceptado-moto-avenida-marques-valdecilla-conductor-permiso-ni-domicilio-conocido-espana/20260429103406192193.html][Interceptado en la avenida Marqués de Valdecilla un conductor de una moto que no tenía carné ni domicilio conocido]]
 
 ** 🇺🇸 Estados Unidos
 
@@ -93,37 +93,37 @@
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/04/29/en-direct-guerre-en-ukraine-charles-iii-appelle-les-etats-unis-a-faire-preuve-d-une-determination-sans-faille-aux-cotes-de-kiev_6683420_3210.html][EN DIRECT, guerre en Ukraine : Charles III appelle les Etats-Unis à faire preuve d’une « détermination sans faille » aux côtés de Kiev]]
-- [[https://www.lemonde.fr/economie/article/2026/04/29/au-proces-openai-elon-musk-dresse-son-autoportrait-en-bienfaiteur-de-l-humanite_6684076_3234.html][Au procès OpenAI, Elon Musk dresse son autoportrait en bienfaiteur de l’humanité]]
-- [[https://www.lemonde.fr/afrique/article/2026/04/29/au-mali-djihadistes-et-independantistes-accentuent-la-pression-sur-la-junte-a-partir-d-aujourd-hui-nous-bloquons-bamako_6684074_3212.html][Au Mali, djihadistes et indépendantistes accentuent la pression sur la junte : « A partir d’aujourd’hui, nous bloquons Bamako »]]
-- [[https://www.lemonde.fr/sport/article/2026/04/29/psg-bayern-les-parisiens-remportent-une-demi-finale-aller-aux-airs-de-match-de-legende_6684066_3242.html][PSG-Bayern : en Ligue des champions, les Parisiens remportent une demi-finale aller aux airs de match de légende]]
-- [[https://www.lemonde.fr/societe/article/2026/04/29/accidents-et-morts-au-travail-les-annonces-cosmetiques-du-gouvernement-sur-la-prevention-aupres-des-jeunes-irritent-les-syndicats_6684070_3224.html][Accidents et morts au travail : les annonces « cosmétiques » du gouvernement sur la prévention auprès des jeunes irritent les syndicats]]
+- [[https://www.lemonde.fr/politique/article/2026/04/29/la-presidentielle-de-2027-face-au-risque-d-un-pays-a-nouveau-ingouvernable_6684082_823448.html][Après les législatives de 2027, le risque d’un pays de nouveau ingouvernable et d’une présidence impuissante]]
+- [[https://www.lemonde.fr/international/live/2026/04/29/en-direct-guerre-au-moyen-orient-le-benefice-net-de-totalenergies-en-forte-hausse-grace-a-la-flambee-des-prix-du-petrole_6684072_3210.html][EN DIRECT, guerre au Moyen-Orient | « No more Mr. Nice Guy » : Donald Trump menace l’Iran, qui a « intérêt à se montrer malin rapidement »]]
+- [[https://www.lemonde.fr/economie/article/2026/04/29/totalenergies-les-benefices-bondissent-avec-la-guerre-en-iran_6684229_3234.html][TotalEnergies : les bénéfices bondissent avec la guerre en Iran]]
+- [[https://www.lemonde.fr/international/article/2026/04/29/le-roi-charles-iii-appelle-les-etats-unis-a-ne-pas-ceder-au-repli-sur-soi-lors-d-un-discours-au-congres-a-washington_6684089_3210.html][Le roi Charles III appelle les Etats-Unis à ne pas céder au repli sur soi lors d’un discours au Congrès à Washington]]
+- [[https://www.lemonde.fr/sport/article/2026/04/29/ligue-des-champions-football-de-demi-dieux-chef-d-uvre-match-du-siecle-la-presse-etrangere-dithyrambique-apres-le-psg-bayern-munich_6684246_3242.html][Ligue des champions : « Football de demi-dieux », « chef-d’œuvre », « match du siècle »… la presse étrangère dithyrambique après le PSG-Bayern Munich]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/a-washington-charles-iii-s-adresse-au-congres-et-indirectement-a-donald-trump-20260429][À Washington, Charles III s'adresse au Congrès, et indirectement à Donald Trump]]
-- [[https://www.lefigaro.fr/international/c-est-un-homme-courageux-et-formidable-donald-trump-reserve-un-accueil-radieux-au-roi-charles-iii-20260428][« C’est un homme courageux et formidable » : Donald Trump réserve un accueil radieux au roi Charles III]]
-- [[https://www.lefigaro.fr/international/les-etats-unis-n-ont-pas-d-amis-plus-proches-que-les-britanniques-declare-donald-trump-au-roi-charles-iii-20260428][Les États-Unis «n'ont pas d'amis plus proches que les Britanniques», déclare Donald Trump au roi Charles III]]
-- [[https://madame.lefigaro.fr/royaute/en-image-ce-geste-amical-de-donald-trump-a-charles-iii-pendant-la-visite-d-etat-qui-a-brise-le-protocole-royal-20260428][Ce geste amical de Donald Trump à Charles III a-t-il brisé le protocole royal ?]]
-- [[https://madame.lefigaro.fr/royaute/tapis-rouge-toasts-et-tenues-de-gala-les-images-du-fastueux-banquet-de-donald-trump-en-l-honneur-de-charles-iii-20260429][Tapis rouge, toasts et tenues de gala : les images du fastueux banquet de Donald Trump en l’honneur de Charles III]]
+- [[https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-donald-trump-etats-unis-israel-liban-benyamin-netanyahou-hezbollah-20260429][EN DIRECT - Guerre au Moyen-Orient : «Monsieur gentil, c’est terminé !», Donald Trump menace à nouveau l’Iran «qui ferait mieux de se ressaisir rapidement»]]
+- [[https://www.lefigaro.fr/international/guerre-au-moyen-orient-il-ne-sait-pas-de-quoi-il-parle-donald-trump-s-en-prend-au-chancelier-allemand-sur-l-iran-20260429][Guerre au Moyen-Orient : «Il ne sait pas de quoi il parle», Donald Trump s’en prend au chancelier allemand sur l’Iran]]
+- [[https://www.lefigaro.fr/international/guerre-en-iran-donald-trump-se-preparerait-a-prolonger-le-blocus-du-detroit-d-ormuz-20260429][Guerre en Iran : Donald Trump se préparerait à prolonger le blocus du détroit d’Ormuz]]
+- [[https://www.lefigaro.fr/international/le-chef-du-pentagone-pete-hegseth-va-s-expliquer-ce-mercredi-sur-la-guerre-en-iran-devant-les-deputes-americains-20260429][Le chef du Pentagone Pete Hegseth va s'expliquer ce mercredi sur la guerre en Iran devant les députés américains]]
+- [[https://www.lefigaro.fr/sports/football/ligue-des-champions/football-total-match-legendaire-demi-dieux-la-presse-europeenne-emerveillee-apres-la-victoire-du-psg-face-au-bayern-20260429][«Football total», «match légendaire», «demi-dieux» : la presse européenne émerveillée après la victoire du PSG face au Bayern]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
+- [[https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss][Five takeaways from the King's historic address to Congress]]
 - [[https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss][Comey charged with threatening Trump's life in Instagram post]]
-- [[https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss][United Arab Emirates to quit oil cartel Opec]]
-- [[https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss][Musk says basis of charitable giving at stake in OpenAI lawsuit]]
-- [[https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss][Third Ukrainian strike hits Russian oil refinery and prompts evacuations]]
-- [[https://www.bbc.com/news/articles/c4g0zwxl3k0o?at_medium=RSS&at_campaign=rss][US regulator to review Disney broadcast licences after Jimmy Kimmel joke about Melania Trump]]
+- [[https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss][Faisal Islam: Why the UAE's exit from Opec is a big deal]]
+- [[https://www.bbc.com/news/articles/cddp7pzqdvjo?at_medium=RSS&at_campaign=rss][Kim Jong Un praises troops who 'self-blasted' to avoid capture by Ukraine]]
+- [[https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss][Former US officials criticise Pentagon silence on deadly Iran school attack]]
 
 *** The Guardian
 
+- [[https://www.theguardian.com/global-development/2026/apr/29/humanitarian-corridor-strait-of-hormuz-iran-war-hits-vital-aid][Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid]]
+- [[https://www.theguardian.com/world/2026/apr/29/africa-music-industry-ai-artificial-intelligence][‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards]]
 - [[https://www.theguardian.com/world/2026/apr/28/russia-claims-its-africa-corps-group-prevented-coup-in-mali-after-rebels-seize-towns][Russia claims its Africa Corps group prevented coup in Mali after rebels seize towns]]
 - [[https://www.theguardian.com/world/2026/apr/28/fears-resurgence-somalia-piracy-three-vessels-hijacked-past-week][Fears of resurgence in Somali piracy after three vessels hijacked in a week]]
 - [[https://www.theguardian.com/world/2026/apr/28/taking-power-in-mali-might-be-a-stretch-but-insurgents-can-force-hand-of-weakened-regime][Taking power in Mali might be a stretch but insurgents can force hand of weakened regime]]
-- [[https://www.theguardian.com/world/2026/apr/27/gunmen-kill-at-least-29-at-football-pitch-in-north-east-nigeria-governor-says][Gunmen kill at least 29 at football pitch in north-east Nigeria, governor says]]
-- [[https://www.theguardian.com/world/2026/apr/27/german-tourist-dies-bite-snake-show-holiday-egypt][German tourist dies after being bitten at snake show on family holiday in Egypt]]
 
 ** 🇮🇹 Italia
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
+- [[https://www.ilsole24ore.com/art/preso-roma-sparatore-25-aprile-e-21enne-AI9nrilC][Fermato per tentato omicidio per gli spari a Roma 21enne: «Appartengo a Brigata Ebraica»]]
+- [[https://www.ilsole24ore.com/art/nel-2025-spesa-militare-dell-italia-cresce-20percento-ma-e-di-sotto-2percento-pil-AIurgqkC][Nel 2025 la spesa militare dell’Italia cresce del 20% ma è al di sotto del 2% del Pil]]
+- [[https://www.ilsole24ore.com/art/minetti-madre-bambino-all-intervento-tutte-falle-richiesta-grazia-AIFN8flC][Minetti, dalla madre del bambino all’intervento, tutte le “falle” nella richiesta di grazia]]
+- [[https://www.ilsole24ore.com/art/dagli-incentivi-salario-giusto-ecco-pacchetto-lavoro-varato-governo-AIUiWElC][Dagli incentivi al salario giusto, ecco il pacchetto lavoro varato dal governo]]
 - [[https://www.ilsole24ore.com/art/a-maggio-tre-scioperi-generali-scuola-e-trasporti-mirino-AIPPzwjC][A maggio tre scioperi generali, scuola e trasporti nel mirino]]
-- [[https://www.ilsole24ore.com/art/si-parlamento-cessione-gratis-nave-garibaldi-all-indonesia-ecco-quanto-sarebbe-costato-mantenerla-AIUrnykC][Sì del parlamento alla cessione gratis di nave Garibaldi all’Indonesia: ecco quanto sarebbe costato mantenerla]]
-- [[https://www.ilsole24ore.com/art/marco-sai-chi-era-pannella-leader-radicale-raccontato-un-video-podcast-AIYrmGlC][Marco. Sai chi era Pannella? Il leader radicale raccontato in un video podcast]]
-- [[https://www.ilsole24ore.com/art/via-libera-senato-ddl-produzione-e-vendita-pane-ecco-cosa-prevede-AIdMM5kC][Via libera del Senato al ddl sulla produzione e vendita del pane: ecco cosa prevede]]
-- [[https://www.ilsole24ore.com/art/regione-lazio-chiude-2025-un-avanzo-3218-milioni-AIqNr1kC][Regione Lazio chiude il 2025 con un avanzo di 321,8 milioni]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/hungary-s-magyar-meets-eu-s-von-der-leyen-in-high-stakes-brussels-visit/a-76976109?maca=en-rss-en-world-4025-rdf][Hungary's Magyar meets EU's von der Leyen in high-stakes Brussels visit]]
+- [[https://www.dw.com/en/israel-in-lebanon-is-the-security-buffer-zone-legal/a-76971183?maca=en-rss-en-world-4025-rdf][Israel in Lebanon: Is the 'security buffer zone' legal?]]
+- [[https://www.dw.com/en/extreme-weather-and-green-energy-on-the-rise-in-europe/a-76962870?maca=en-rss-en-world-4025-rdf][Extreme weather and green energy on the rise in Europe]]
 - [[https://www.dw.com/en/us-to-produce-passports-featuring-trump-s-image/a-76974434?maca=en-rss-en-world-4025-rdf][US to produce passports featuring Trump's image]]
 - [[https://www.dw.com/en/eu-parliament-approves-common-definition-of-rape/a-76972748?maca=en-rss-en-world-4025-rdf][EU Parliament approves common definition of rape]]
-- [[https://www.dw.com/en/how-a-controversial-gas-pipeline-deal-could-further-stall-bosnia-s-eu-accession/a-76965210?maca=en-rss-en-world-4025-rdf][How a controversial gas pipeline deal could further stall Bosnia's EU accession]]
-- [[https://www.dw.com/en/iran-war-who-in-tehran-could-shape-talks-with-the-us/a-76967105?maca=en-rss-en-world-4025-rdf][Iran war: Who in Tehran could shape talks with the US?]]
-- [[https://www.dw.com/en/ukraine-s-zelenskyy-rebukes-israel-for-buying-grain-stolen-by-russia/a-76966917?maca=en-rss-en-world-4025-rdf][Ukraine's Zelenskyy rebukes Israel for buying grain 'stolen' by Russia]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/04/jonas-e-cowboy-afirmam-que-vitoria-de-ana-paula-no-bbb-26-nao-foi-justa.shtml][Jonas e Cowboy afirmam que vitória de Ana Paula no BBB 26 não foi justa]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/04/nova-lei-do-reino-unido-que-proibe-cigarros-para-jovens-nao-vale-para-vapes.shtml][Nova lei do Reino Unido que proíbe cigarros para jovens não vale para vapes]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/rui-tavares/2026/04/desejo-de-pais-melhor-e-antidoto-contra-medo.shtml][Desejo de país melhor é antídoto contra medo]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/04/messias-chega-a-sabatina-para-stf-sob-risco-de-derrota-historica-e-com-incerteza-sobre-alcolumbre.shtml][Messias chega a sabatina para STF sob risco de derrota histórica e com incerteza sobre Alcolumbre]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/04/lilia-cabral-posa-pela-primeira-vez-caracterizada-como-rita-lee-veja-foto.shtml][Lilia Cabral posa pela primeira vez caracterizada como Rita Lee; veja foto]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/mc-ryan-diz-a-policia-que-tem-renda-mensal-de-r-15-milhao-e-nega-crimes.shtml][MC Ryan diz à polícia que tem renda mensal de R$ 1,5 milhão e nega crimes]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/04/prefeitura-de-sp-paga-r-183-mil-por-contrato-da-gcm-com-instituto-de-andre-mendonca.shtml][Prefeitura de SP paga R$ 183 mil por contrato da GCM com instituto de André Mendonça]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/04/polemica-nao-diminui-prestigio-de-juliano-cazarre-na-globo-que-ja-o-escalou-para-novo-trabalho.shtml][Polêmica não diminui prestígio de Juliano Cazarré na Globo, que já o escalou para novo trabalho]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/04/ucrania-demite-oficial-apos-denuncia-de-soldados-desnutridos.shtml][Ucrânia demite oficial após denúncia de soldados desnutridos]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/presidente-e-relator-resistem-a-compensacao-por-fim-da-6x1-e-querem-votacao-ate-28-de-maio.shtml][Presidente e relator resistem a compensação por fim da 6x1 e querem votação até 28 de maio]]
 
 *** O Globo
 
