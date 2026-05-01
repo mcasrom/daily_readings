@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 44.0°C | ⚖ Load: 0.00 | 🌐 Ping: 11.2ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 44.0°C | ⚖ Load: 0.00 | 🌐 Ping: 9.16ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,11 +49,11 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/04/30/69f34cddfc6c834c4b8b45bd.html][Koldo reconoce que el PSOE le pagaba con 'chistorras' y desmiente al ex gerente del partido, que negó el uso de billetes de 500]]
-- [[https://www.elmundo.es/espana/2026/04/30/69f37f25fdddff45418b45d2.html][Los billetes de don Koldo]]
-- [[https://www.elmundo.es/espana/2026/04/30/69f38ef0e4d4d868158b4578.html][El PSOE contradice a Koldo García y se reafirma en que "nunca" ha entregado billetes de 500: "Cada euro está controlado y verificado"]]
-- [[https://www.elmundo.es/internacional/2026/04/30/69f22dc021efa0f21c8b45b2.html][La paradoja de la logística de EEUU: cuando de 11 superportaviones sólo tres pueden ir a la guerra contra Irán]]
-- [[https://www.elmundo.es/internacional/2026/04/30/69f3b0b821efa0eb218b4572.html][Trump dice que podría retirar sus tropas de España e Italia por su postura sobre Irán: "¿Por qué no debería hacerlo?"]]
+- [[https://www.elmundo.es/espana/2026/04/30/69f38d2ee85ece60538b45d3.html][Koldo provoca otro temblor en el PSOE con el inesperado reconocimiento de las "chistorras": "Anticipo 500+500"]]
+- [[https://www.elmundo.es/espana/2026/04/30/69f3114dfc6c83bc368b4591.html][El PSOE admite récord de donaciones privadas en el año que Aldama dice que entregó el botín: "Fue por una campaña especial para investigar el Covid"]]
+- [[https://www.elmundo.es/espana/2026/04/30/69f3a780e85ecef87b8b4591.html][La 'vendetta' de Peramato culmina seis años de politización de la Fiscalía con el amparo de Sánchez]]
+- [[https://www.elmundo.es/internacional/2026/04/30/69f3944be85ecec1718b458b.html][Irán se queda sin depósitos para su petróleo]]
+- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/04/30/69f3438cfc6c83a2798b45bd.html][Primera vuelta de las generales el 17-M: todos contra el PP para echarlo en brazos de Vox y cómo salvar a la 'sanchista' más fiel]]
 
 *** La Vanguardia
 
@@ -75,35 +75,35 @@
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/04/30/venezuela-miami-caracas-flight/][Direct flights to Venezuela resume, but many still can’t go home]]
 - [[https://www.washingtonpost.com/world/2026/04/29/london-stabbing-jewish-starmer-investigation/][U.K. investigates attacks on Jewish targets for possible links to Iran]]
 - [[https://www.washingtonpost.com/world/2026/04/30/russia-victory-day-parade-ukraine-moscow/][Russia scales back Victory Day plans as Ukraine’s military reach expands]]
 - [[https://www.washingtonpost.com/world/2026/04/28/mali-jnim-fla-attacks/][Mali’s junta asked Russians to bring order. Militants just stormed in.]]
 - [[https://www.washingtonpost.com/world/2026/04/29/sinaloa-cartel-mexico-indictment/][Justice Department indicts Mexican governor on drug charges]]
-- [[https://www.washingtonpost.com/national-security/2026/04/29/us-aircraft-carrier-iran-war/][U.S. aircraft carrier to leave Mideast, reducing military might amid Iran war]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/middle-east/iran-us-blockade-oil-641b89f2][Iran Is Grasping for a Solution to an American Blockade It Can’t Break]]
+- [[https://www.wsj.com/world/middle-east/hezbollah-israel-fpv-drones-970c510f][Hezbollah Has Learned How to Pilot Deadly Drones Into Israeli Troops]]
+- [[https://www.wsj.com/world/middle-east/five-takeaways-from-the-journals-analysis-of-the-u-a-e-s-exit-from-opec-b2111219][Five Takeaways From the Journal’s Analysis of the U.A.E.’s Exit From OPEC]]
 - [[https://www.wsj.com/world/americas/a-jet-to-caracas-becomes-the-face-of-trumps-venezuela-reset-ebb5efb7][A Jet to Caracas Becomes the Face of Trump’s Venezuela Reset]]
 - [[https://www.wsj.com/world/europe/trumps-threat-to-pull-troops-from-germany-risks-eroding-u-s-power-projection-13b6443d][Trump’s Threat to Pull Troops From Germany Risks Eroding U.S. Power Projection]]
-- [[https://www.wsj.com/world/middle-east/u-a-e-opec-new-middle-east-32ceda56][The U.A.E.’s OPEC Bombshell Signals a New Middle East Order]]
-- [[https://www.wsj.com/world/uk/what-brings-feuding-americans-together-a-king-it-turns-out-f2d99b9a][What Brings Feuding Americans Together? A King, It Turns Out]]
-- [[https://www.wsj.com/world/americas/mexicos-president-questions-u-s-case-against-sinaloa-governor-b73571bb][Mexico’s President Questions U.S. Case Against Sinaloa Governor]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/04/30/en-direct-guerre-au-moyen-orient-dans-le-sud-du-liban-quinze-personnes-ont-ete-tuees-ce-jeudi-par-l-armee-israelienne-selon-les-autorites_6684072_3210.html][EN DIRECT, guerre au Moyen-Orient : dans le sud du Liban, quinze personnes ont été tuées, ce jeudi, par l’armée israélienne, selon les autorités]]
-- [[https://www.lemonde.fr/international/article/2026/04/30/comment-l-ukraine-est-devenue-en-quatre-ans-un-laboratoire-mondial-de-l-industrie-de-defense_6684541_3210.html][Comment l’Ukraine est devenue, en quatre ans, un laboratoire mondial de l’industrie de défense]]
+- [[https://www.lemonde.fr/economie-francaise/article/2026/05/01/plus-de-100-000-personnes-attendues-dans-les-rues-320-manifestations-prevues-les-syndicats-mobilises-pour-defendre-le-1-mai_6684672_1656968.html][Plus de 100 000 personnes attendues dans les rues, 320 manifestations prévues : les syndicats mobilisés pour défendre le 1ᵉʳ-Mai]]
+- [[https://www.lemonde.fr/international/live/2026/05/01/en-direct-guerre-au-moyen-orient-la-situation-est-de-nouveau-normale-a-teheran-apres-l-activation-des-systemes-de-defense-aerienne-selon-les-agences-iraniennes_6684072_3210.html][EN DIRECT, guerre au Moyen-Orient : la situation est de nouveau « normale » à Téhéran après l’activation des systèmes de défense aérienne, selon les agences iraniennes]]
+- [[https://www.lemonde.fr/international/article/2026/04/30/apres-les-cotes-de-la-mer-noire-les-drones-ukrainiens-ciblent-les-installations-petrolieres-russes-dans-l-oural_6684659_3210.html][Après les côtes de la mer Noire, les drones ukrainiens ciblent les installations pétrolières russes dans l’Oural]]
 - [[https://www.lemonde.fr/pixels/article/2026/04/30/piratage-de-l-ants-sebastien-lecornu-annonce-le-deblocage-de-200-millions-d-euros_6684651_4408996.html][Piratage de l’ANTS : Sébastien Lecornu annonce le déblocage de 200 millions d’euros]]
-- [[https://www.lemonde.fr/les-decodeurs/article/2026/04/30/ils-comptent-parmi-les-elus-les-plus-puissants-de-france-qui-sont-les-nouveaux-presidents-des-grandes-intercommunalites_6684615_4355770.html][Ils comptent parmi les élus les plus puissants de France : qui sont les nouveaux présidents des grandes intercommunalités ?]]
 - [[https://www.lemonde.fr/sport/article/2026/04/30/gianni-infantino-brigue-un-dernier-mandat-a-la-tete-de-la-fifa-et-assure-que-l-iran-ira-au-mondial-2026_6684662_3242.html][Gianni Infantino va briguer un dernier mandat à la tête de la FIFA et assure que l’Iran ira au Mondial 2026]]
 
 *** Le Figaro
 
 - [[https://www.lefigaro.fr/social/boulangers-fleuristes-restaurants-qui-aura-vraiment-le-droit-d-ouvrir-ce-1er-mai-20260430][Boulangers, fleuristes, restaurants... Qui aura vraiment le droit d’ouvrir ce 1er mai ?]]
-- [[https://www.lefigaro.fr/meteo/meteo-du-week-end-du-1er-mai-douceur-printaniere-et-instabilite-orageuse-se-partagent-le-pays-20260430][Météo du week-end du 1er mai : douceur printanière et instabilité orageuse se partagent le pays]]
 - [[https://www.lefigaro.fr/conjoncture/repas-a-un-euro-pour-les-etudiants-impots-prix-du-gaz-ce-qui-change-en-mai-2026-20260428][Repas à un euro pour les étudiants, impôts, prix du gaz... Ce qui change en mai 2026]]
+- [[https://www.lefigaro.fr/meteo/meteo-du-week-end-du-1er-mai-douceur-printaniere-et-instabilite-orageuse-se-partagent-le-pays-20260430][Météo du week-end du 1er mai : douceur printanière et instabilité orageuse se partagent le pays]]
 - [[https://www.lefigaro.fr/politique/gabriel-attal-au-figaro-le-droit-du-travail-empeche-trop-souvent-le-droit-au-travail-20260430][Gabriel Attal au Figaro : «Le droit du travail empêche trop souvent le droit au travail»]]
 - [[https://www.lefigaro.fr/international/en-direct-guerre-iran-moyen-orient-etats-unis-donald-trump-vladimir-poutine-israel-liban-20260430][EN DIRECT - Guerre au Moyen-Orient : le président iranien qualifie le blocus naval américain de «prolongement des opérations militaires»]]
 
@@ -111,11 +111,11 @@
 
 *** BBC News
 
+- [[https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss][Violence in Australian town after arrest of man over girl's murder]]
 - [[https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss][Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says]]
-- [[https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss][Oil price hits highest since 2022 after report Trump to be briefed on new Iran options]]
-- [[https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss][US House votes to end record shutdown over immigration enforcement]]
-- [[https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss][Deadly Israeli strikes on southern Lebanon despite ceasefire]]
-- [[https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss][Trump says US studying troop cuts in Germany, as spat with Merz intensifies]]
+- [[https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss][Venice Biennale jury resigns days before start of exhibition]]
+- [[https://www.bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss][Britney Spears charged in California with driving under influence]]
+- [[https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss][China scraps tariffs for all but one African nation]]
 
 *** The Guardian
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/us-prosecutors-release-new-footage-of-trump-shooting-suspect/a-77006783?maca=en-rss-en-world-4025-rdf][US prosecutors release new footage of Trump shooting suspect]]
 - [[https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-world-4025-rdf][Kosovo to hold snap elections in June]]
 - [[https://www.dw.com/en/how-serbia-s-government-dominates-the-country-s-media/a-77004243?maca=en-rss-en-world-4025-rdf][How Serbia's government dominates the country's media]]
 - [[https://www.dw.com/en/uae-oil-exit-from-opec-signals-focus-on-domestic-priorities/a-76998152?maca=en-rss-en-world-4025-rdf][UAE oil exit from OPEC signals focus on domestic priorities]]
 - [[https://www.dw.com/en/hong-kong-pro-democracy-publisher-jimmy-lai-honored-by-dw/a-76991604?maca=en-rss-en-world-4025-rdf][Hong Kong pro-democracy publisher Jimmy Lai honored by DW]]
-- [[https://www.dw.com/en/why-uae-s-opec-exit-is-a-blow-to-saudi-arabia/a-76975354?maca=en-rss-en-world-4025-rdf][Why UAE's OPEC exit is a blow to Saudi Arabia]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/bc-limita-a-instituicoes-autorizadas-prestacao-de-servicos-no-mercado-de-cambio.shtml][BC limita a instituições autorizadas prestação de serviços no mercado de câmbio]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/04/ala-do-stf-ve-alianca-entre-moraes-e-alcolumbre-para-derrotar-messias-e-corte-vive-novo-conflito.shtml][Ala do STF vê aliança entre Moraes e Alcolumbre para derrotar Messias, e corte vive novo conflito]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/iphone-17-impulsiona-crescimento-da-apple-que-supera-expectativas-no-1o-tri.shtml][iPhone 17 impulsiona crescimento da Apple, que supera expectativas no 1º tri]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/lula-anuncia-aumento-no-percentual-de-etanol-e-biodiesel-em-combustiveis.shtml][Lula anuncia aumento no percentual de etanol e biodiesel em combustíveis]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/04/meryl-streep-revela-que-quase-recusou-papel-em-o-diabo-veste-prada.shtml][Meryl Streep revela que quase recusou papel em 'O Diabo Veste Prada']]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/04/casa-do-patrao-skova-e-eliminado-com-2160-dos-votos.shtml][Casa do Patrão: Skova é eliminado com 21,60% dos votos]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/04/fabiano-da-dupla-com-cesar-menotti-perde-mais-de-60-quilos-em-tres-anos.shtml][Fabiano, da dupla com César Menotti, perde mais de 60 quilos em três anos]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/o-mundo-e-uma-bola/2026/04/biceps-femoral-um-vilao-as-portas-da-copa-do-mundo.shtml][Bíceps femoral, um vilão às portas da Copa do Mundo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/04/possivel-rompimento-com-alcolumbre-e-grande-oportunidade-diz-fundador-do-movimento-pelo-fim-da-6x1.shtml]['Possível rompimento com Alcolumbre é grande oportunidade', diz fundador do movimento pelo fim da 6x1]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/04/apos-crise-com-lula-alcolumbre-deve-dar-aval-a-apoio-de-uniao-e-pp-a-flavio.shtml][Após crise com Lula, Alcolumbre deve dar aval a apoio de União e PP a Flávio]]
 
 *** O Globo
 
