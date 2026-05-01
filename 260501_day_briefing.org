@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
-#+HTML: <div class='telemetry'>🌡 44.0°C | ⚖ Load: 0.00 | 🌐 Ping: 9.16ms</div>
+#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
+#+HTML: <div class='telemetry'>🌡 43.5°C | ⚖ Load: 0.00 | 🌐 Ping: 9.92ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,11 +41,11 @@
 
 *** El País
 
-- [[https://elpais.com/espana/2026-04-30/la-fiscal-general-releva-a-la-fiscal-superior-de-madrid-que-senalo-a-garcia-ortiz-en-el-juicio-por-la-filtracion.html][Peramato releva a la fiscal Superior de Madrid, que señaló a García Ortiz en el juicio por la filtración]]
-- [[https://elpais.com/espana/2026-04-30/video-el-juicio-de-kitchen-en-directo-el-inspector-jefe-morocho-vuelve-a-declarar-ante-el-tribunal.html][El inspector jefe Morocho denuncia que le hicieron “vigilancias” mientras investigaba el ‘caso Gürtel’]]
-- [[https://elpais.com/espana/2026-04-30/koldo-garcia-se-presenta-como-un-subordinado-leal-de-abalos-y-victima-de-aldama.html][Koldo García se presenta como un subordinado leal de Ábalos y víctima de Aldama]]
-- [[https://elpais.com/videos/2026-04-30/el-exasesor-que-ejerce-de-escudo-protector-del-exministro.html][El exasesor que ejerce de escudo protector del exministro]]
-- [[https://elpais.com/espana/madrid/2026-04-30/ayuso-viaja-a-mexico-a-un-acto-en-homenaje-a-hernan-cortes-en-medio-de-su-controversia-con-claudia-sheinbaum.html][Ayuso viaja a México a un acto en homenaje a Hernán Cortés en medio de su controversia con Claudia Sheinbaum]]
+- [[https://elpais.com/aniversario/2026-05-01/los-50-personajes-mas-influyentes-de-los-ultimos-50-anos.html][Los 50 personajes más influyentes de los últimos 50 años]]
+- [[https://elpais.com/aniversario/2026-05-01/video-protagonistas-de-50-anos-de-noticias.html][Vídeo | Protagonistas de 50 años de noticias]]
+- [[https://elpais.com/aniversario/2026-05-01/grande-marlaska-y-rosa-montero-20-anos-despues-de-su-entrevista-en-el-eps-por-que-las-mujeres-y-los-homosexuales-no-podemos-vivir-tranquilos.html][Grande-Marlaska y Rosa Montero, 20 años después de su entrevista en el EPS: “¿Por qué las mujeres y los homosexuales no podemos vivir tranquilos?”]]
+- [[https://elpais.com/economia/2026-05-01/los-sindicatos-se-manifiestan-en-toda-espana-contra-el-precio-de-la-vivienda-y-el-crecimiento-de-la-ultraderecha.html][Los sindicatos se manifiestan por el Día del Trabajo contra el precio de la vivienda y el crecimiento de la ultraderecha]]
+- [[https://elpais.com/icon/2026-05-01/alvaro-pombo-me-agobia-la-malicia-estas-polemicas-las-de-ucles-y-otros-parecen-optar-al-chisme-del-ano.html][Álvaro Pombo: “Me agobia la malicia. Estas polémicas, las de Uclés y otros, parecen optar al chisme del año”]]
 
 *** El Mundo
 
@@ -53,23 +53,23 @@
 - [[https://www.elmundo.es/espana/2026/04/30/69f3114dfc6c83bc368b4591.html][El PSOE admite récord de donaciones privadas en el año que Aldama dice que entregó el botín: "Fue por una campaña especial para investigar el Covid"]]
 - [[https://www.elmundo.es/espana/2026/04/30/69f3a780e85ecef87b8b4591.html][La 'vendetta' de Peramato culmina seis años de politización de la Fiscalía con el amparo de Sánchez]]
 - [[https://www.elmundo.es/internacional/2026/04/30/69f3944be85ecec1718b458b.html][Irán se queda sin depósitos para su petróleo]]
-- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/04/30/69f3438cfc6c83a2798b45bd.html][Primera vuelta de las generales el 17-M: todos contra el PP para echarlo en brazos de Vox y cómo salvar a la 'sanchista' más fiel]]
+- [[https://www.elmundo.es/internacional/2026/04/30/69f3b0b821efa0eb218b4572.html][Trump dice que podría retirar sus tropas de España e Italia por su postura sobre Irán: "¿Por qué no debería hacerlo?"]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/politica/20260429/11525538/aldama-me-dijeron-parte-ese-dinero-financiacion-partido-presidente-sabia.html][Aldama: “Llevé dinero a Ábalos, me dijeron que era para financiar al PSOE y que el presidente lo sabía”]]
-- [[https://www.lavanguardia.com/politica/20260429/11525700/aldama-calcula-que-pago-comisiones-3-5-cuatro-millones-euros-abalos-koldo.html][Aldama calcula que pagó comisiones de entre 3,5 y cuatro millones de euros a Ábalos y Koldo]]
-- [[https://www.lavanguardia.com/politica/20260429/11525670/psoe-pedira-amparo-supremo-injurias-calumnias-aldama-sanchez.html][El PSOE pedirá amparo al Supremo ante las “injurias y calumnias” de Aldama contra Sánchez]]
-- [[https://www.lavanguardia.com/politica/20260429/11525973/feijoo-almeria-queremos-instaurar-andalucia-abalos-pandilla-montero.html][Feijóo, en Almería: “No queremos instaurar la Andalucía de los Ábalos y de la pandilla de Montero”]]
-- [[https://www.lavanguardia.com/politica/20260429/11525379/sanchez-trata-aplacar-irritacion-pnv-le-advierte-quiere-compania.html][Sánchez trata de aplacar la irritación del PNV, que le advierte: “¿Quiere compañía o no?”]]
+- [[https://www.lavanguardia.com/politica/20260430/11527112/moreno-inicia-campana-sevilla-reto-preservar-mayoria-absoluta.html][El PP busca una mayoría absoluta en Andalucía que frene a Vox]]
+- [[https://www.lavanguardia.com/politica/20260501/11527076/dia-entusiasmo-cero.html][Día uno, entusiasmo cero]]
+- [[https://www.lavanguardia.com/economia/20260501/11527392/sindicatos-toman-calle-primero-mayo-guerras-fascismo.html][Los sindicatos toman la calle el Primero de Mayo “contra las guerras y el fascismo”]]
+- [[https://www.lavanguardia.com/politica/20260501/11527081/koldo-garcia-escudero-abalos-protege-exjefe.html][Koldo García, el escudero de Ábalos, protege a su exjefe]]
+- [[https://www.lavanguardia.com/economia/20260501/11527436/sabadell-cierra-venta-tsb-santander-3-300-millones-300-son-plusvalias.html][El Sabadell cierra la venta del TSB al Santander por 3.300 millones, de los que 300 son plusvalías]]
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/vuelve-emocion-campanu-cantabria-salmon-mas-buscado-ano/20260501114430192284.html][Vuelve la emoción del ‘campanu’ a Cantabria: el salmón más buscado del año]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/puente-mayo-llega-lluvias-tormentas-cantabria-aemet-activa-aviso-amarillo-varias-zonas/20260501111012192282.html][El puente de mayo llega con cambio de tiempo en Cantabria: la AEMET activa el aviso amarillo por lluvias y tormentas en varias zonas]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/detenido-centro-acogida-santander-hombre-que-llevaba-semanas-buscado-justicia/20260501104233192281.html][Detenido en un centro de acogida de Santander un hombre que llevaba semanas buscado por la Justicia]]
 - [[https://eldiariocantabria.publico.es/articulo/oriental/ayuntamiento-anuncia-acciones-administrativas-penales-director-general-montes-angel-serdio-exclusion-politica-subastas-forestales/20260430213600192279.html][El Ayuntamiento anuncia acciones administrativas y penales contra el director general de Montes, Ángel Serdio, por la exclusión “política” de subastas forestales]]
 - [[https://eldiariocantabria.publico.es/articulo/oriental/pleno-aprueba-gasto-plurianual-auto-judicial-edificio-tenis/20260430212232192278.html][El Pleno aprueba el gasto plurianual para el auto judicial del Edificio Tenis]]
-- [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/movilizados-cerca-7-millones-reordenacion-cros-plan-vidriera-360o-inversiones-barrios/20260430210328192277.html][Movilizados cerca de 7 millones para la reordenación de Cros, el plan La Vidriera 360º o inversiones en barrios]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/pleno-rechaza-mocion-relativa-rehabilitacion-consultorio-cueto-porque-todo-solucionado-compromiso-gobierno-pp/20260430204854192276.html][El Pleno rechaza la moción relativa a la rehabilitación del consultorio de Cueto porque “está todo solucionado” con el compromiso del Gobierno del PP]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/hombre-provoca-alarma-caos-bahia-santander-ayuda-van-matar/20260430204043192275.html][Un hombre provoca la alarma y el caos en la Bahía de Santander: “¡Ayuda, me van a matar!”]]
 
 ** 🇺🇸 Estados Unidos
 
@@ -93,19 +93,19 @@
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/economie-francaise/article/2026/05/01/plus-de-100-000-personnes-attendues-dans-les-rues-320-manifestations-prevues-les-syndicats-mobilises-pour-defendre-le-1-mai_6684672_1656968.html][Plus de 100 000 personnes attendues dans les rues, 320 manifestations prévues : les syndicats mobilisés pour défendre le 1ᵉʳ-Mai]]
-- [[https://www.lemonde.fr/international/live/2026/05/01/en-direct-guerre-au-moyen-orient-la-situation-est-de-nouveau-normale-a-teheran-apres-l-activation-des-systemes-de-defense-aerienne-selon-les-agences-iraniennes_6684072_3210.html][EN DIRECT, guerre au Moyen-Orient : la situation est de nouveau « normale » à Téhéran après l’activation des systèmes de défense aérienne, selon les agences iraniennes]]
-- [[https://www.lemonde.fr/international/article/2026/04/30/apres-les-cotes-de-la-mer-noire-les-drones-ukrainiens-ciblent-les-installations-petrolieres-russes-dans-l-oural_6684659_3210.html][Après les côtes de la mer Noire, les drones ukrainiens ciblent les installations pétrolières russes dans l’Oural]]
-- [[https://www.lemonde.fr/pixels/article/2026/04/30/piratage-de-l-ants-sebastien-lecornu-annonce-le-deblocage-de-200-millions-d-euros_6684651_4408996.html][Piratage de l’ANTS : Sébastien Lecornu annonce le déblocage de 200 millions d’euros]]
-- [[https://www.lemonde.fr/sport/article/2026/04/30/gianni-infantino-brigue-un-dernier-mandat-a-la-tete-de-la-fifa-et-assure-que-l-iran-ira-au-mondial-2026_6684662_3242.html][Gianni Infantino va briguer un dernier mandat à la tête de la FIFA et assure que l’Iran ira au Mondial 2026]]
+- [[https://www.lemonde.fr/politique/article/2026/05/01/pourquoi-le-1-mai-est-il-ferie-une-conquete-sociale-devenue-un-rituel-toujours-debattu_6684695_823448.html][Pourquoi le 1ᵉʳ-Mai est-il férié, chômé et payé ? Une conquête sociale toujours débattue depuis]]
+- [[https://www.lemonde.fr/international/live/2026/05/01/en-direct-guerre-au-moyen-orient-soixante-jours-apres-le-debut-du-conflit-en-iran-l-administration-trump-prete-a-continuer-sans-l-autorisation-du-congres_6684072_3210.html][EN DIRECT, guerre au Moyen-Orient : le coût de la guerre contre l’Iran pour les Etats-Unis, évalué à 25 milliards de dollars, est remis en question]]
+- [[https://www.lemonde.fr/international/live/2026/05/01/en-direct-guerre-en-ukraine-donald-trump-repete-un-mensonge-recurrent-sur-le-conflit-qui-se-poursuivrait-parce-que-biden-leur-a-donne-350-milliards-de-dollars_6683420_3210.html][EN DIRECT, guerre en Ukraine : Touapsé, ville pétrolière russe du sud de la Russie, à nouveau attaqué par des drones ukrainiens]]
+- [[https://www.lemonde.fr/idees/article/2026/05/01/joschka-fischer-ancien-chef-de-la-diplomatie-allemande-la-dissolution-de-l-alliance-atlantique-a-deja-commence_6684673_3232.html][Joschka Fischer, ancien chef de la diplomatie allemande : « La dissolution de l’OTAN a déjà commencé »]]
+- [[https://www.lemonde.fr/economie/article/2026/05/01/affaire-helios-quand-une-panne-informatique-menace-la-paie-de-millions-de-fonctionnaires_6684701_3234.html][Helios : quand une panne du logiciel de comptabilité publique menace la paie de millions de fonctionnaires]]
 
 *** Le Figaro
 
+- [[https://www.lefigaro.fr/international/en-direct-guerre-iran-moyen-orient-donald-trump-etats-unis-israel-liban-benyamin-netanyahou-detroit-ormuz-20260501][EN DIRECT - Guerre au Moyen-Orient : l’Iran active ses défenses aériennes contre des drones, Trump prêt à ignorer le Congrès pour poursuivre le conflit]]
+- [[https://www.lefigaro.fr/flash-actu/c-est-le-debut-d-un-nouveau-chapitre-extraordinaire-entre-nos-deux-nations-donald-trump-felicite-le-nouveau-premier-ministre-irakien-designe-20260430][«C’est le début d’un nouveau chapitre extraordinaire entre nos deux nations» : Donald Trump félicite le nouveau premier ministre irakien désigné]]
+- [[https://www.lefigaro.fr/international/guerre-au-moyen-orient-le-porte-avions-americain-uss-gerald-ford-rentre-au-port-apres-un-deploiement-record-de-plus-de-300-jours-20260430][Guerre au Moyen-Orient : le porte-avions américain USS Gerald Ford rentre au port après un déploiement record de plus de 300 jours]]
+- [[https://www.lefigaro.fr/politique/1er-mai-bruno-retailleau-promet-d-eriger-le-travail-qui-devrait-etre-mieux-valorise-et-mieux-paye-au-rang-de-priorite-nationale-20260501][1er mai : Bruno Retailleau promet d’ériger le travail, «qui devrait être mieux valorisé et mieux payé», au rang de «priorité nationale»]]
 - [[https://www.lefigaro.fr/social/boulangers-fleuristes-restaurants-qui-aura-vraiment-le-droit-d-ouvrir-ce-1er-mai-20260430][Boulangers, fleuristes, restaurants... Qui aura vraiment le droit d’ouvrir ce 1er mai ?]]
-- [[https://www.lefigaro.fr/conjoncture/repas-a-un-euro-pour-les-etudiants-impots-prix-du-gaz-ce-qui-change-en-mai-2026-20260428][Repas à un euro pour les étudiants, impôts, prix du gaz... Ce qui change en mai 2026]]
-- [[https://www.lefigaro.fr/meteo/meteo-du-week-end-du-1er-mai-douceur-printaniere-et-instabilite-orageuse-se-partagent-le-pays-20260430][Météo du week-end du 1er mai : douceur printanière et instabilité orageuse se partagent le pays]]
-- [[https://www.lefigaro.fr/politique/gabriel-attal-au-figaro-le-droit-du-travail-empeche-trop-souvent-le-droit-au-travail-20260430][Gabriel Attal au Figaro : «Le droit du travail empêche trop souvent le droit au travail»]]
-- [[https://www.lefigaro.fr/international/en-direct-guerre-iran-moyen-orient-etats-unis-donald-trump-vladimir-poutine-israel-liban-20260430][EN DIRECT - Guerre au Moyen-Orient : le président iranien qualifie le blocus naval américain de «prolongement des opérations militaires»]]
 
 ** 🇬🇧 Reino Unido
 
@@ -113,17 +113,17 @@
 
 - [[https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss][Violence in Australian town after arrest of man over girl's murder]]
 - [[https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss][Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says]]
-- [[https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss][Venice Biennale jury resigns days before start of exhibition]]
-- [[https://www.bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss][Britney Spears charged in California with driving under influence]]
-- [[https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss][China scraps tariffs for all but one African nation]]
+- [[https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss][Oscar goes missing after Academy Award winner is blocked from taking it on flight]]
+- [[https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss][Brazil's Congress approves plan to drastically cut Bolsonaro's jail term]]
+- [[https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss][Venice Biennale jury resigns days before start of top art exhibition]]
 
 *** The Guardian
 
+- [[https://www.theguardian.com/global-development/2026/may/01/bae-lawsuit-scrap-support-aid-aircraft-encomm-aviation][BAE faces £120m lawsuit over decision to scrap support for aid aircraft]]
+- [[https://www.theguardian.com/business/2026/may/01/iran-war-may-cause-food-shortages-in-africa-world-largest-fertiliser-firm-yara-says][Iran war may cause food shortages in Africa, world’s largest fertiliser firm says]]
 - [[https://www.theguardian.com/world/2026/apr/29/south-africa-deports-mugabes-son-after-separate-offences-three-months-after-shooting-at-family-home][South Africa deports Mugabe’s son for unrelated offences after employee shot at family home]]
 - [[https://www.theguardian.com/world/2026/apr/29/africa-music-industry-ai-artificial-intelligence][‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards]]
 - [[https://www.theguardian.com/global-development/2026/apr/29/humanitarian-corridor-strait-of-hormuz-iran-war-hits-vital-aid][Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid]]
-- [[https://www.theguardian.com/world/2026/apr/28/russia-claims-its-africa-corps-group-prevented-coup-in-mali-after-rebels-seize-towns][Russia claims its Africa Corps group prevented coup in Mali after rebels seize towns]]
-- [[https://www.theguardian.com/world/2026/apr/28/fears-resurgence-somalia-piracy-three-vessels-hijacked-past-week][Fears of resurgence in Somali piracy after three vessels hijacked in a week]]
 
 ** 🇮🇹 Italia
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/siglato-contratto-nazionale-federculture-aumenti-75percento-e-raddoppio-contributi-la-sanita-integrativa-AIaTXRnC][Siglato il contratto nazionale Federculture. Aumenti del 7,5% e raddoppio dei contributi per la sanità integrativa]]
-- [[https://www.ilsole24ore.com/art/diesel-e-benzina-ecco-come-cambia-sconto-accise-2-maggio-AIE1CynC][Diesel e benzina, ecco come cambia lo sconto sulle accise dal 2 maggio]]
-- [[https://www.ilsole24ore.com/art/silicondev-entra-capitale-sirtlife-pronto-nuovo-progetto-nutrigenomica-AIJbghnC][SiliconDev entra nel capitale di SirtLife: pronto un nuovo progetto di nutrigenomica]]
-- [[https://www.ilsole24ore.com/art/alfredo-cospito-rinnovato-41-bis-l-anarchico-AIfuAinC][Alfredo Cospito, rinnovato il 41 bis per l’anarchico]]
-- [[https://www.ilsole24ore.com/art/rilascio-e-rinnovo-passaporto-7500-uffici-postali-progetto-polis-amplia-l-accesso-piccoli-comuni-AI71PinC][Rilascio e rinnovo del passaporto in 7.500 uffici postali: il progetto Polis amplia l’accesso nei piccoli comuni]]
+- [[https://www.ilsole24ore.com/art/meloni-supera-berlusconi-iv-suo-e-secondo-governo-piu-longevo-ma-nodi-aumentano-AIThZLoC][Meloni supera il Berlusconi IV: il suo è il secondo governo più longevo. Ma i nodi aumentano]]
+- [[https://lab24.ilsole24ore.com/crisi-abitativa-europa-italia-report-house4all-affitti-mutui/][Lab24 / La crisi della casa in Europa]]
+- [[https://www.ilsole24ore.com/art/non-solo-concertone-come-si-celebra-festa-lavoratori-mondo-AIBIWxnC][Non solo Concertone: come si celebra la Festa dei lavoratori nel mondo]]
+- [[https://www.ilsole24ore.com/art/meloni-risorse-pubbliche-devono-andare-chi-rispetta-lavoratori-AIY1khoC][Meloni: risorse pubbliche a chi rispetta i lavoratori. Landini: è propaganda, non c’è aumento dei salari]]
+- [[https://www.ilsole24ore.com/art/festa-lavoratori-sua-storia-e-perche-si-festeggia-AIgi8vnC][Primo maggio, la sua storia e perché si festeggia]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/hungary-what-will-become-of-orban-and-his-system/a-77000968?maca=en-rss-en-world-4025-rdf][Hungary: What will become of Orban and his system?]]
+- [[https://www.dw.com/en/first-direct-us-venezuela-flight-in-7-years-lands-in-caracas/a-77006846?maca=en-rss-en-world-4025-rdf][First direct US-Venezuela flight in 7 years lands in Caracas]]
 - [[https://www.dw.com/en/us-prosecutors-release-new-footage-of-trump-shooting-suspect/a-77006783?maca=en-rss-en-world-4025-rdf][US prosecutors release new footage of Trump shooting suspect]]
 - [[https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-world-4025-rdf][Kosovo to hold snap elections in June]]
 - [[https://www.dw.com/en/how-serbia-s-government-dominates-the-country-s-media/a-77004243?maca=en-rss-en-world-4025-rdf][How Serbia's government dominates the country's media]]
-- [[https://www.dw.com/en/uae-oil-exit-from-opec-signals-focus-on-domestic-priorities/a-76998152?maca=en-rss-en-world-4025-rdf][UAE oil exit from OPEC signals focus on domestic priorities]]
-- [[https://www.dw.com/en/hong-kong-pro-democracy-publisher-jimmy-lai-honored-by-dw/a-76991604?maca=en-rss-en-world-4025-rdf][Hong Kong pro-democracy publisher Jimmy Lai honored by DW]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/04/casa-do-patrao-skova-e-eliminado-com-2160-dos-votos.shtml][Casa do Patrão: Skova é eliminado com 21,60% dos votos]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/04/fabiano-da-dupla-com-cesar-menotti-perde-mais-de-60-quilos-em-tres-anos.shtml][Fabiano, da dupla com César Menotti, perde mais de 60 quilos em três anos]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/o-mundo-e-uma-bola/2026/04/biceps-femoral-um-vilao-as-portas-da-copa-do-mundo.shtml][Bíceps femoral, um vilão às portas da Copa do Mundo]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/04/possivel-rompimento-com-alcolumbre-e-grande-oportunidade-diz-fundador-do-movimento-pelo-fim-da-6x1.shtml]['Possível rompimento com Alcolumbre é grande oportunidade', diz fundador do movimento pelo fim da 6x1]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/04/apos-crise-com-lula-alcolumbre-deve-dar-aval-a-apoio-de-uniao-e-pp-a-flavio.shtml][Após crise com Lula, Alcolumbre deve dar aval a apoio de União e PP a Flávio]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/05/fernanda-torres-volta-ao-teatro-em-sp-para-apresentacao-unica-de-a-casa-dos-budas-ditosos.shtml][Fernanda Torres volta ao teatro em SP para apresentação única de 'A Casa dos Budas Ditosos']]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/nivel-do-sistema-cantareira-continua-baixando-na-grande-sao-paulo.shtml][Nível do sistema Cantareira continua baixando na Grande São Paulo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/05/queria-ter-mais-uns-tres-filhos-mas-nao-esta-facil-achar-uma-namorada-diz-lucas-lucco.shtml]['Queria ter mais uns três filhos, mas não está fácil achar uma namorada', diz Lucas Lucco]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/05/cientistas-encontram-pegada-gigante-de-dinossauro-carnivoro-na-paraiba.shtml][Cientistas encontram pegada gigante de dinossauro carnívoro na Paraíba]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/guerra-no-ira-e-el-nino-ameacam-producao-mundial-de-arroz.shtml][Guerra no Irã e El Niño ameaçam produção mundial de arroz]]
 
 *** O Globo
 
