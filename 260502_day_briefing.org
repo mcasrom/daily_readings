@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 42.9°C | ⚖ Load: 0.08 | 🌐 Ping: 9.51ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 42.9°C | ⚖ Load: 0.30 | 🌐 Ping: 15.9ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -42,18 +42,18 @@
 *** El País
 
 - [[https://elpais.com/internacional/2026-05-01/trump-agrava-su-cisma-con-la-otan-y-retira-5000-soldados-de-alemania.html][Trump agrava su cisma con la OTAN y retira 5.000 soldados de Alemania]]
+- [[https://elpais.com/internacional/2026-05-02/alemania-defiende-la-importancia-estrategica-de-la-presencia-de-soldados-de-ee-uu-en-las-bases-del-pais-tras-el-anuncio-de-retirada-de-trump.html][Alemania defiende la importancia estratégica de la presencia de soldados de EE UU en las bases del país tras el anuncio de retirada de Trump]]
+- [[https://elpais.com/planeta-futuro/2026-05-02/la-vida-bajo-el-fragil-alto-el-fuego-en-teheran-la-guerra-fue-aterradora-pero-lo-que-me-preocupa-hoy-es-la-inflacion.html][La vida bajo el frágil alto el fuego en Teherán: “La guerra fue aterradora, pero lo que me preocupa hoy es subsistir”]]
+- [[https://elpais.com/internacional/2026-05-02/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html][Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán considera “probable” que vuelva la guerra tras el rechazo a su propuesta de tregua]]
 - [[https://elpais.com/internacional/2026-05-01/60-dias-de-conflicto-la-guerra-de-trump-en-iran-ya-es-tan-impopular-como-la-de-vietnam.html][60 días de conflicto: la guerra de Trump en Irán ya es tan impopular como la de Vietnam]]
-- [[https://elpais.com/internacional/2026-05-01/trump-anuncia-aranceles-del-25-a-la-importacion-de-coches-europeos.html][Trump anuncia aranceles del 25% a la importación de coches europeos]]
-- [[https://elpais.com/economia/2026-05-01/los-sindicatos-se-manifiestan-en-toda-espana-contra-el-precio-de-la-vivienda-y-el-crecimiento-de-la-ultraderecha.html][Miles de trabajadores se manifiestan por la vivienda el Primero de Mayo: “Es insostenible que haya alquileres a 1.000 euros en barrios obreros”]]
-- [[https://elpais.com/espana/elecciones-andalucia/2026-05-01/el-psoe-y-por-andalucia-cargan-juntos-contra-la-derecha-en-un-primero-de-mayo-en-plena-campana.html][El PSOE y Por Andalucía cargan juntos contra la derecha en un Primero de Mayo en plena campaña]]
 
 *** El Mundo
 
 - [[https://www.elmundo.es/espana/encuestas/2026/05/01/69f4e56ce4d4d876618b45ae.html][Ayuso salva su mayoría absoluta por un escaño: limita a Vox por debajo del 10% y la izquierda sigue desfigurada]]
+- [[https://www.elmundo.es/madrid/2026/05/02/69f5aacce9cf4a38298b4581.html][Mónica García y Emilio Delgado, protagonistas (ausentes) del Dos de Mayo: "La izquierda se está sacando los ojos y las uñas"]]
 - [[https://www.elmundo.es/espana/2026/05/02/69f4c6cd21efa0df3d8b458c.html][La negra perspectiva del enviado especial de Sánchez en Madrid]]
-- [[https://www.elmundo.es/espana/2026/05/01/69d4ed9cfdddff9e6a8b457b.html][La hemeroteca condena a Ábalos: en una carta hace hoy seis años pedía "valores" al PSOE mientras avanzaba su trama]]
-- [[https://www.elmundo.es/economia/empresas/2026/05/01/69f2260ae85ece193a8b4593.html][La prueba clave: Red Eléctrica dejó por escrito que los fallos en la red iban a empeorar solo cinco días antes del gran apagón]]
-- [[https://www.elmundo.es/internacional/2026/05/02/69f4b9cee4d4d857578b4587.html][De TACO a NACHO: las sogas sobre los cuellos del comercio mundial se estrechan]]
+- [[https://www.elmundo.es/internacional/2026/05/02/69f52b5421efa08d778b456f.html][Trump ordena retirar 5.000 soldados de Alemania tras el desafío del canciller Merz]]
+- [[https://www.elmundo.es/internacional/2026/05/02/69f5864ce4d4d8a3358b4588.html][Trump envía el portaaviones Abraham Lincoln a las costas cubanas: "Estaremos tomando Cuba casi de inmediato"]]
 
 *** La Vanguardia
 
@@ -65,47 +65,46 @@
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/proximo-festivo-espana-2-mayo-llega-dentro-meses-sera-siguiente-dia-libre/20260502115018192335.html][El próximo festivo en España tras el Día del Trabajador no llega hasta dentro de meses: este será el siguiente día libre]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/aparatoso-incendio-santa-maria-cayon-furgoneta-varios-contenedores-calcinados/20260502105323192333.html][Aparatoso incendio calcina una furgoneta y cuatro contenedores en Santa María de Cayón]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/mas-12000-litros-agua-sofocar-incendio-vivienda-somo/20260502103921192331.html][Más de 12.000 litros de agua para sofocar un incendio en una vivienda de Somo]]
 - [[https://eldiariocantabria.publico.es/articulo/trasmiera/bolera-san-pedruco-estrena-cubierta-final-torneo-presidenta-cantabria-pasabolo-tablon/20260501204250192328.html][La bolera de San Pedruco estrena cubierta con el Torneo Presidenta de Cantabria de Pasabolo Tablón]]
 - [[https://eldiariocantabria.publico.es/articulo/saja-besaya/fomento-licita-532000-euros-segunda-fase-canalizacion-ampliacion-arroyo-muriago/20260501203123192325.html][Fomento licita en 532.818 euros la segunda fase de canalización y ampliación del arroyo Muriago]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/rabas-vuelven-ser-protagonistas-mes-jornadas-gastronomicas-degustaciones/20260501202427192324.html][Las rabas vuelven a ser las protagonistas de la ciudad este mes con jornadas gastronómicas y degustaciones]]
-- [[https://eldiariocantabria.publico.es/articulo/sanidad/cantabria-segunda-comunidad-mayor-tasa-trasplantes-medula-osea-2025/20260501200955192323.html][Cantabria, segunda comunidad con mayor tasa de trasplantes de médula ósea en 2025]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/cantabria-inicia-campana-que-dia-europeo-trabajador-autonomo-reciba-maximo-respaldo-social/20260501194727192321.html][Cantabria inicia una campaña para que el Día Europeo del Trabajador Autónomo reciba "el máximo respaldo social"]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
 - [[https://www.washingtonpost.com/national-security/2026/05/01/us-troops-germany-trump-merz/][Trump to downsize U.S. military presence in Germany]]
+- [[https://www.washingtonpost.com/world/2026/05/02/ireland-daniel-kinahan-arrested-dubai/][A mob hit in Ireland, a 10-year manhunt and an arrest in Dubai]]
 - [[https://www.washingtonpost.com/world/2026/04/30/venezuela-miami-caracas-flight/][Direct flights to Venezuela resume, but many still can’t go home]]
 - [[https://www.washingtonpost.com/world/2026/04/29/london-stabbing-jewish-starmer-investigation/][U.K. investigates attacks on Jewish targets for possible links to Iran]]
-- [[https://www.washingtonpost.com/world/2026/04/30/russia-victory-day-parade-ukraine-moscow/][Russia scales back Victory Day plans as Ukraine’s military reach expands]]
-- [[https://www.washingtonpost.com/world/2026/04/28/mali-jnim-fla-attacks/][Mali’s junta asked Russians to bring order. Militants just stormed in.]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/americas/mexican-governor-indicted-by-u-s-steps-down-b9e91ec8][Mexican Governor Indicted by U.S. Steps Down]]
 - [[https://www.wsj.com/world/iran-war-gives-u-s-rivals-a-real-time-look-at-its-firepower-165c40f2][Iran War Gives U.S.’s Rivals a Real-Time Look at Its Firepower]]
 - [[https://www.wsj.com/world/middle-east/chinas-teapot-refiners-targeted-by-u-s-offer-financial-lifeline-to-iran-d3e0604f][China’s ‘Teapot’ Refiners, Targeted by U.S., Offer Financial Lifeline to Iran]]
 - [[https://www.wsj.com/world/europe/trump-orders-the-withdrawal-of-5-000-u-s-troops-from-germany-e6e7ca87][Trump Orders the Withdrawal of 5,000 U.S. Troops From Germany]]
 - [[https://www.wsj.com/world/middle-east/hezbollah-is-here-to-stay-and-has-no-immediate-plans-to-disarm-spokesman-says-b21c6b75][Hezbollah Is Here to Stay and Has No Immediate Plans to Disarm, Spokesman Says]]
-- [[https://www.wsj.com/politics/national-security/trumps-qatari-gifted-air-force-one-will-keep-its-luxurious-royal-interior-c37a6451][Trump’s Qatari-Gifted Air Force One Will Keep Its Luxurious Royal Interior]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/article/2026/05/01/donald-trump-rattrape-par-la-realite-de-l-impasse-en-iran-a-ses-revers-judiciaires_6684729_3210.html][Donald Trump rattrapé par la réalité, de l’impasse en Iran à ses revers judiciaires]]
-- [[https://www.lemonde.fr/politique/article/2026/05/01/rassemblement-national-a-macon-marine-le-pen-et-jordan-bardella-s-offrent-un-dernier-pas-de-deux-avant-le-couperet-judiciaire_6684750_823448.html][Rassemblement national : à Mâcon, Marine Le Pen et Jordan Bardella s’offrent un dernier pas de deux avant le couperet judiciaire]]
-- [[https://www.lemonde.fr/international/article/2026/05/01/donald-trump-annonce-vouloir-relever-a-25-des-la-semaine-prochaine-les-droits-de-douane-sur-les-vehicules-europeens_6684739_3210.html][Donald Trump annonce vouloir relever à 25 %, dès « la semaine prochaine », les droits de douane sur les véhicules européens]]
-- [[https://www.lemonde.fr/culture/article/2026/05/01/oscars-les-acteurs-et-les-scenarios-generes-par-ia-ne-sont-pas-eligibles-annonce-l-academie_6684752_3246.html][Oscars : les acteurs et les scénarios générés par IA ne sont pas éligibles, annonce l’Académie]]
-- [[https://www.lemonde.fr/international/article/2026/05/01/au-pays-de-galles-les-independantistes-esperent-arriver-en-tete-d-un-scrutin-pour-la-premiere-fois-de-leur-histoire_6684702_3210.html][Au Pays de Galles, les indépendantistes espèrent arriver en tête d’un scrutin pour la première fois de leur histoire]]
+- [[https://www.lemonde.fr/international/live/2026/05/02/en-direct-guerre-au-moyen-orient-israel-mene-de-nouveaux-bombardements-meurtriers-au-liban-donald-trump-contourne-le-congres-sur-l-iran_6684072_3210.html][EN DIRECT, guerre au Moyen-Orient : le retrait de 5 000 soldats américains était « attendu » par le ministère de la défense allemand ; Israël mène de nouveaux bombardements meurtriers au Liban]]
+- [[https://www.lemonde.fr/societe/article/2026/05/02/a-agon-coutainville-dans-la-manche-le-marche-immobilier-sous-la-menace-de-l-erosion-cotiere-on-est-au-tout-debut-de-la-prise-de-conscience_6684836_3224.html][A Agon-Coutainville, dans la Manche, le marché immobilier sous la menace de l’érosion côtière : « On est au tout début de la prise de conscience »]]
+- [[https://www.lemonde.fr/intimites/article/2026/05/02/apres-la-naissance-d-un-enfant-l-indispensable-grand-mere-maternelle-elle-a-debarque-avec-des-vieux-bodys-et-un-tire-lait-dans-sa-valise_6684846_6190330.html][Après la naissance d’un enfant, l’indispensable grand-mère maternelle : « Elle a débarqué avec des vieux bodys et un tire-lait dans sa valise »]]
+- [[https://www.lemonde.fr/international/article/2026/05/02/refus-de-visa-au-defenseur-palestinien-des-droits-humains-shawan-jabarin-le-ministere-de-l-interieur-somme-de-revoir-sa-decision_6684857_3210.html][Refus de visa au défenseur palestinien des droits humains Shawan Jabarin : le ministère de l’intérieur sommé de revoir sa décision]]
+- [[https://www.lemonde.fr/international/live/2026/05/02/en-direct-guerre-en-ukraine-le-port-ukrainien-d-izmail-sur-le-danube-attaque-par-des-drones-russes_6683420_3210.html][EN DIRECT, guerre en Ukraine : le port ukrainien d’Izmaïl, sur le Danube, attaqué par des drones russes]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/plus-haut-arc-de-triomphe-du-monde-salle-de-bal-geante-250-statues-de-heros-americains-a-washington-la-folie-des-grandeurs-de-trump-20260501][Plus haut arc de triomphe du monde, salle de bal géante, 250 statues de héros américains... À Washington, la folie des grandeurs de Trump]]
+- [[https://www.lefigaro.fr/medias/si-ce-n-est-pas-la-c-est-nulle-part-grandeur-et-decadence-de-gibert-joseph-monument-de-la-librairie-francaise-20260502][Grandeur et décadence de Gibert Joseph, monument de la librairie française en péril]]
+- [[https://www.lefigaro.fr/international/en-direct-donald-trump-guerre-moyen-orient-informe-le-congres-que-les-hostilites-avec-l-iran-sont-terminees-20260502][EN DIRECT - Guerre au Moyen-Orient : Donald Trump informe le Congrès américain que les hostilités avec l’Iran sont «terminées»]]
+- [[https://www.lefigaro.fr/conso/carburants-l-indemnite-de-50-euros-pour-travailleurs-modestes-grands-rouleurs-est-publiee-au-journal-officiel-20260502][Carburants : l’indemnité de 50 euros pour «travailleurs modestes grands rouleurs» est publiée au journal officiel]]
 - [[https://www.lefigaro.fr/international/donald-trump-fait-main-basse-sur-les-parcours-de-golf-20260501][Donald Trump fait main basse sur les parcours de golf]]
-- [[https://www.lefigaro.fr/vox/monde/l-editorial-de-philippe-gelie-donald-trump-et-la-quete-de-l-immortalite-20260501][L’éditorial de Philippe Gélie : «Donald Trump et la quête de l’immortalité»]]
-- [[https://www.lefigaro.fr/international/en-direct-guerre-iran-moyen-orient-donald-trump-etats-unis-israel-liban-benyamin-netanyahou-detroit-ormuz-20260501][EN DIRECT - Guerre au Moyen-Orient : Trump se dit «pas satisfait» de la nouvelle proposition iranienne]]
-- [[https://www.lefigaro.fr/flash-actu/c-est-le-debut-d-un-nouveau-chapitre-extraordinaire-entre-nos-deux-nations-donald-trump-felicite-le-nouveau-premier-ministre-irakien-designe-20260430][«C’est le début d’un nouveau chapitre extraordinaire entre nos deux nations» : Donald Trump félicite le nouveau premier ministre irakien désigné]]
+- [[https://www.lefigaro.fr/international/plus-haut-arc-de-triomphe-du-monde-salle-de-bal-geante-250-statues-de-heros-americains-a-washington-la-folie-des-grandeurs-de-trump-20260501][Plus haut arc de triomphe du monde, salle de bal géante, 250 statues de héros américains... À Washington, la folie des grandeurs de Trump]]
 
 ** 🇬🇧 Reino Unido
 
@@ -113,17 +112,17 @@
 
 - [[https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss][US to cut troop levels in Germany by 5,000 amid Trump spat with Merz]]
 - [[https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss][Trump tells Congress ceasefire means he does not need their approval for Iran war]]
-- [[https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss][Billions of meals at risk due to Iran war, says fertiliser boss]]
-- [[https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss][Australia wants to become the first country to eliminate a cancer - can it?]]
-- [[https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss][Who shot a Secret Service officer at the Trump press dinner?]]
+- [[https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss][Thirteen killed in Israeli strikes on southern Lebanon, health ministry says]]
+- [[https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss][Spirit Airlines shutting down after rescue talks collapse]]
+- [[https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss]['If we sleep, they bite': Rats and weasels infest camps for displaced Gazans]]
 
 *** The Guardian
 
+- [[https://www.theguardian.com/global-development/2026/may/02/new-drug-coartem-baby-babies-malaria-who-treatment][First malaria drug for babies is approved in ‘major public health milestone’]]
 - [[https://www.theguardian.com/global-development/2026/may/01/sabastian-sawe-hero-welcome-kenya-sub-two-marathon][Sabastian Sawe receives hero’s welcome in Kenya after sub-two hour marathon feat]]
 - [[https://www.theguardian.com/global-development/2026/may/01/uganda-copying-russia-and-china-with-new-bill-designed-to-crush-dissent-say-critics][Uganda copying Russia and China with new bill designed to crush dissent, say critics]]
 - [[https://www.theguardian.com/global-development/2026/may/01/bae-lawsuit-scrap-support-aid-aircraft-encomm-aviation][BAE faces £120m lawsuit over decision to scrap support for aid aircraft]]
 - [[https://www.theguardian.com/business/2026/may/01/iran-war-may-cause-food-shortages-in-africa-world-largest-fertiliser-firm-yara-says][Iran war may cause food shortages in Africa, world’s largest fertiliser firm says]]
-- [[https://www.theguardian.com/world/2026/apr/29/south-africa-deports-mugabes-son-after-separate-offences-three-months-after-shooting-at-family-home][South Africa deports Mugabe’s son for unrelated offences after employee shot at family home]]
 
 ** 🇮🇹 Italia
 
@@ -137,11 +136,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/casa-arrivo-bonus-fino-500-euro-i-genitori-separati-che-lasciano-l-abitazione-AIffE3oC][Casa, in arrivo un bonus fino a 500 euro per i genitori separati che lasciano l’abitazione]]
-- [[https://www.ilsole24ore.com/art/benzina-prezzi-i-2-euro-litro-piu-cara-bolzano-e-sud-AIxsqzoC][Benzina, prezzi verso i 2 euro al litro. Più cara a Bolzano e al Sud]]
-- [[https://www.ilsole24ore.com/art/spari-25-aprile-bondi-domiciliari-mi-vergogno-non-ho-legami-la-brigata-ebraica-AIemvwoC][Spari del 25 aprile, Bondì ai domiciliari: «Mi vergogno, non ho legami con la Brigata ebraica»]]
-- [[https://www.ilsole24ore.com/art/1-maggio-torino-scontri-autonomi-e-polizia-cariche-e-lacrimogeni-AIMYStoC][1 maggio, a Torino scontri tra autonomi e polizia tra cariche e lacrimogeni]]
-- [[https://www.ilsole24ore.com/art/amici-e-nemici-celebra-marco-pannella-emma-bonino-e-vasco-rossi-AITNBsoC][Amici e nemici celebra Marco Pannella con Emma Bonino e Vasco Rossi]]
+- [[https://www.ilsole24ore.com/art/treni-bloccati-ferrovia-adriatica-abruzzo-ritardi-oltre-6-ore-AIjsnWpC][Treni bloccati su ferrovia adriatica in Abruzzo, ritardi di oltre 6 ore]]
+- [[https://www.ilsole24ore.com/art/mirella-parachini-compagna-pannella-adesioni-trasversali-una-targa-piazza-navona-AIlTwnoC][Mirella Parachini, compagna di Pannella: «Adesioni trasversali per una targa a piazza Navona»]]
+- [[https://www.ilsole24ore.com/art/flotilla-presidio-farnesina-governo-si-adoperi-rilascio-attivisti-AIyMNTpC][Flotilla, presidio alla Farnesina: «Governo si adoperi per rilascio attivisti»]]
+- [[https://www.ilsole24ore.com/art/e-morto-alex-zanardi-aveva-60-anni-AIf9DTpC][È morto Alex Zanardi. Aveva 59 anni]]
+- [[https://www.ilsole24ore.com/art/al-via-candidature-il-programma-nato-dedicato-giovani-professionisti-AIR5nPpC][Nato, al via le candidature per i giovani professionisti]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +154,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/iran-jailed-nobel-winner-narges-mohammadi-hospitalized/a-77017010?maca=en-rss-en-world-4025-rdf][Iran: Jailed Nobel winner Narges Mohammadi hospitalized]]
+- [[https://www.dw.com/en/how-the-iran-war-is-hurting-travelers-airline-industry/a-77000742?maca=en-rss-en-world-4025-rdf][How the Iran war is hurting travelers, airline industry]]
+- [[https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-world-4025-rdf][Kosovo to hold snap elections in June]]
+- [[https://www.dw.com/en/spirit-airlines-says-they-are-going-out-of-business/a-77016867?maca=en-rss-en-world-4025-rdf][Spirit Airlines says they are going out of business]]
 - [[https://www.dw.com/en/can-iran-withstand-the-us-naval-blockade/a-77014627?maca=en-rss-en-world-4025-rdf][Can Iran withstand the US naval blockade?]]
-- [[https://www.dw.com/en/ukraine-plans-army-pay-hikes-phased-discharge-zelenskyy/a-77014629?maca=en-rss-en-world-4025-rdf][Ukraine plans army pay hikes, phased discharge — Zelenskyy]]
-- [[https://www.dw.com/en/pentagon-inks-deals-with-ai-giants-but-not-anthropic/a-77012715?maca=en-rss-en-world-4025-rdf][Pentagon inks deals with AI giants, but not Anthropic]]
-- [[https://www.dw.com/en/germany-needs-no-tips-from-donald-trump-says-merz-s-deputy/a-77013396?maca=en-rss-en-world-4025-rdf][Germany needs no tips from Donald Trump, says Merz's deputy]]
-- [[https://www.dw.com/en/is-myanmar-s-military-winning-the-civil-war/a-77009903?maca=en-rss-en-world-4025-rdf][Is Myanmar's military winning the civil war?]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/musica/2026/05/mc-brinquedo-anuncia-fim-da-carreira-no-funk-e-cita-religiao.shtml][MC Brinquedo anuncia fim da carreira no funk e cita religião]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/livro-ouve-endividados-para-discutir-efeitos-ambiguos-do-credito-nas-periferias.shtml][Livro ouve endividados para discutir efeitos ambíguos do crédito nas periferias]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/05/escritores-socorro-acioli-e-caetano-w-galindo-passam-a-assinar-colunas-na-folha.shtml][Escritores Socorro Acioli e Caetano W. Galindo passam a assinar colunas na Folha]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/saiba-passo-a-passo-o-que-falta-para-pl-da-dosimetria-beneficiar-bolsonaro-e-condenados-do-81.shtml][Saiba passo a passo o que falta para PL da Dosimetria beneficiar Bolsonaro e condenados do 8/1]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/influenciadores-pro-trump-gerados-por-ia-inundam-redes-sociais.shtml][Influenciadores pró-Trump gerados por IA inundam redes sociais]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/05/dna-mostra-infiltracao-gradual-e-miscigenacao-apos-queda-do-imperio-romano.shtml][DNA mostra infiltração gradual e miscigenação após queda do Império Romano]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/05/inscricoes-para-o-premio-octavio-frias-de-oliveira-terminam-na-sexta-feira-8.shtml][Inscrições para o Prêmio Octavio Frias de Oliveira terminam na sexta-feira (8)]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/campanha-de-haddad-ve-pecuarista-como-plano-a-para-vice-e-diz-que-conversas-avancaram.shtml][Campanha de Haddad vê pecuarista como plano A para vice e diz que conversas avançaram]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/ceo-da-disney-quer-criar-super-app-que-une-streaming-ingressos-para-parques-e-produtos.shtml][CEO da Disney quer criar 'super app' que une streaming, ingressos para parques e produtos]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/chuva-diminui-em-recife-neste-sabado-2-mas-deve-aumentar-em-joao-pessoa-natal-e-fortaleza.shtml][Chuva diminui em Recife neste sábado (2), mas deve aumentar em João Pessoa, Natal e Fortaleza]]
 
 *** O Globo
 
