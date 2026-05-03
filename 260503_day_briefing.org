@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 43.5°C | ⚖ Load: 0.00 | 🌐 Ping: 9.15ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 43.5°C | ⚖ Load: 0.00 | 🌐 Ping: 9.32ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,19 +41,19 @@
 
 *** El País
 
-- [[https://elpais.com/internacional/2026-05-02/trump-lanza-una-advertencia-a-toda-europa-con-la-retirada-de-tropas-de-alemania.html][Trump lanza una advertencia a toda Europa con la retirada de tropas de Alemania]]
+- [[https://elpais.com/internacional/2026-05-02/trump-lanza-una-advertencia-a-toda-europa-con-la-retirada-de-tropas-de-alemania.html][Trump advierte a Europa con la retirada de tropas de Alemania: “serán más de 5.000″]]
 - [[https://elpais.com/internacional/2026-05-02/las-bases-militares-en-alemania-la-columna-vertebral-de-estados-unidos-en-europa.html][Las bases militares en Alemania, la columna vertebral de Estados Unidos en Europa]]
 - [[https://elpais.com/internacional/2026-05-02/alemania-defiende-la-importancia-estrategica-de-la-presencia-de-soldados-de-ee-uu-en-las-bases-del-pais-tras-el-anuncio-de-retirada-de-trump.html][Alemania defiende la importancia estratégica de la presencia de soldados de EE UU en las bases del país tras el anuncio de retirada de Trump]]
+- [[https://elpais.com/internacional/2026-05-02/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html][Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump asegura que Irán “aún no ha pagado un precio suficientemente alto”]]
 - [[https://elpais.com/planeta-futuro/2026-05-02/la-vida-bajo-el-fragil-alto-el-fuego-en-teheran-la-guerra-fue-aterradora-pero-lo-que-me-preocupa-hoy-es-la-inflacion.html][La vida bajo el frágil alto el fuego en Teherán: “La guerra fue aterradora, pero lo que me preocupa hoy es subsistir”]]
-- [[https://elpais.com/america/2026-05-02/trump-dice-que-estados-unidos-tomara-cuba-casi-inmediatamente.html][Trump dice que Estados Unidos “tomará Cuba casi inmediatamente”]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/internacional/2026/05/02/69f63ef8fc6c8378318b4589.html][Trump acorrala al régimen castrista: "La situación se pone mucho más tensa, deben hacer lo que es correcto para el pueblo"]]
-- [[https://www.elmundo.es/espana/encuestas/2026/05/01/69f4e56ce4d4d876618b45ae.html][Ayuso salva su mayoría absoluta por un escaño: limita a Vox por debajo del 10% y la izquierda sigue desfigurada]]
-- [[https://www.elmundo.es/madrid/2026/05/02/69f5d3d3fdddff55248b4587.html][Ayuso clama contra "el poco apoyo administrativo" que recibe Madrid de un Gobierno que "todo lo politiza": "¿Cuántas oportunidades estamos perdiendo?"]]
-- [[https://www.elmundo.es/ciencia-y-salud/salud/2026/05/02/69f2560ee9cf4a6c698b459a.html][¿Por qué los centenarios no suelen tener cáncer? El secreto está en su sistema inmune]]
-- [[https://www.elmundo.es/internacional/2026/05/02/69f52b5421efa08d778b456f.html][Trump ordena retirar 5.000 soldados de Alemania tras el desafío del canciller Merz]]
+- [[https://www.elmundo.es/espana/2026/05/02/69f648bbfdddffcf678b4577.html][Mattias Guyomar, presidente del Tribunal Europeo de Derechos Humanos: "Los ataques personales a jueces son ataques al Estado de Derecho"]]
+- [[https://www.elmundo.es/espana/encuestas/2026/05/03/69f60060e85ececb588b458b.html][La virulencia del ataque del PSOE a los jueces hace dudar a muchos de sus votantes: un tercio no secunda las críticas ni la ofensiva por Begoña]]
+- [[https://www.elmundo.es/cronica/2026/05/02/69f5d70b21efa0eb218b4596.html][El 'falso' milagro español de Santa Madre... es pura ciencia: nutrición y planificación de Fórmula 1 para el "Ferrari" humano Kejelcha]]
+- [[https://www.elmundo.es/espana/2026/05/03/69f5e918fc6c8398168b4572.html][El Gobierno pierde socios en el final más "loco" de legislatura: "Les mandamos flores y cajas de bombones, pero..."]]
+- [[https://www.elmundo.es/internacional/2026/05/03/69f358f4e9cf4a3f0e8b4580.html][Merz cumple un año en el poder con la popularidad bajo mínimos y la AfD al alza]]
 
 *** La Vanguardia
 
@@ -77,43 +77,42 @@
 
 - [[https://www.washingtonpost.com/national-security/2026/05/01/us-troops-germany-trump-merz/][Pentagon to pull 5,000 troops from Germany, alarming Republican lawmakers]]
 - [[https://www.washingtonpost.com/world/2026/05/02/ireland-daniel-kinahan-arrested-dubai/][A mob hit in Ireland, a 10-year manhunt and an arrest in Dubai]]
-- [[https://www.washingtonpost.com/world/2026/04/30/venezuela-miami-caracas-flight/][Direct flights to Venezuela resume, but many still can’t go home]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/europe/germany-has-the-cash-to-revitalize-its-economy-but-cant-seem-to-spend-it-5bd38dfe][Germany Has the Cash to Revitalize Its Economy, but Can’t Seem to Spend It]]
+- [[https://www.wsj.com/politics/national-security/the-u-s-wants-to-break-chinas-drone-dominance-heres-where-it-will-struggle-39e69e18][The U.S. Wants to Break China’s Drone Dominance. Here’s Where It Will Struggle.]]
+- [[https://www.wsj.com/world/standoff-in-strait-has-wall-street-stephen-colbert-glued-to-tiny-blinking-ships-d84919a1][Standoff in Strait Has Wall Street, Stephen Colbert Glued to Tiny Blinking Ships]]
 - [[https://www.wsj.com/world/europe/u-s-troop-withdrawal-expands-yawning-rift-between-u-s-and-europe-2f5c49cc][Germany and Europe Have Bigger Trump Problems Than U.S. Troop Withdrawal]]
 - [[https://www.wsj.com/world/russia/russia-oil-exports-ukraine-war-35fa6322][Russia Oil Exports Keep Flowing Despite Ukrainian Attacks]]
-- [[https://www.wsj.com/world/europe/trump-orders-the-withdrawal-of-5-000-u-s-troops-from-germany-e6e7ca87][Trump Orders the Withdrawal of 5,000 U.S. Troops From Germany]]
-- [[https://www.wsj.com/world/americas/mexican-governor-indicted-by-u-s-steps-down-b9e91ec8][Mexican Governor Indicted by U.S. Steps Down]]
-- [[https://www.wsj.com/world/iran-war-gives-u-s-rivals-a-real-time-look-at-its-firepower-165c40f2][Iran War Gives U.S.’s Rivals a Real-Time Look at Its Firepower]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/05/02/en-direct-guerre-au-moyen-orient-l-iran-se-dit-pret-a-reprendre-la-guerre-ou-a-privilegier-la-diplomatie-estimant-que-la-balle-est-dans-le-camp-des-etats-unis_6684072_3210.html][EN DIRECT, guerre au Moyen-Orient : l’Iran se dit « prêt » à reprendre la guerre ou à privilégier la diplomatie, estimant que « la balle est dans le camp des Etats-Unis »]]
-- [[https://www.lemonde.fr/afrique/article/2026/05/02/la-russie-alliee-coute-que-coute-du-mali_6684871_3212.html][Mali : la Russie, alliée coûte que coûte de la junte militaire]]
+- [[https://www.lemonde.fr/international/live/2026/05/03/en-direct-guerre-au-moyen-orient-donald-trump-annonce-qu-il-va-etudier-un-plan-iranien-mais-doute-qu-il-soit-acceptable_6684072_3210.html][EN DIRECT, guerre au Moyen-Orient : Donald Trump annonce qu’il va étudier un plan iranien mais doute qu’il soit « acceptable »]]
+- [[https://www.lemonde.fr/international/article/2026/05/03/donald-trump-va-retirer-bien-davantage-de-soldats-d-allemagne-que-la-baisse-d-effectifs-de-5-000-annoncee-par-le-pentagone_6684958_3210.html][Troupes américaines en Allemagne : Donald Trump affirme qu’il va retirer « bien davantage » de soldats que les 5 000 annoncés par le Pentagone]]
 - [[https://www.lemonde.fr/international/article/2026/05/02/comment-l-amerique-latine-est-devenue-une-terre-d-election-pour-l-extreme-droite_6684880_3210.html][Comment l’Amérique latine est devenue une terre d’élection pour l’extrême droite]]
-- [[https://www.lemonde.fr/m-perso/article/2026/05/02/il-m-a-empoignee-par-le-cou-ces-violences-faites-aux-femmes-cyclistes_6684838_4497916.html][« Il m’a empoignée par le cou » : des femmes cyclistes racontent agressions et harcèlement sexuel pour un regard ou un mot de trop]]
-- [[https://www.lemonde.fr/international/article/2026/05/02/donald-trump-menace-cuba-d-une-intervention-militaire-la-havane-alerte-sur-un-niveau-dangereux-et-sans-precedent_6684887_3210.html][Donald Trump menace Cuba d’une intervention militaire : La Havane alerte sur un « niveau dangereux et sans précédent »]]
+- [[https://www.lemonde.fr/international/article/2026/05/03/syrie-la-television-d-etat-fait-etat-de-frappes-jordaniennes-sur-des-depots-de-drogues-et-d-armes-dans-la-province-de-souweida_6684924_3210.html][Syrie : la télévision d’Etat fait état de frappes jordaniennes sur des dépôts de drogues et d’armes dans la province de Souweïda]]
+- [[https://www.lemonde.fr/international/article/2026/05/03/aux-etats-unis-la-crise-energetique-a-precipite-la-chute-de-la-compagnie-aerienne-spirit-airlines_6684925_3210.html][Aux Etats-Unis, la crise énergétique a précipité la chute de la compagnie aérienne Spirit Airlines]]
 
 *** Le Figaro
 
+- [[https://www.lefigaro.fr/international/washington-va-retirer-5-000-soldats-d-allemagne-trump-en-annonce-bien-davantage-20260503][Washington va retirer 5 000 soldats d'Allemagne, Trump en annonce «bien davantage»]]
 - [[https://www.lefigaro.fr/politique/sebastien-lecornu-encourage-totalenergies-a-un-plafonnement-genereux-des-prix-a-la-pompe-20260502][Sébastien Lecornu encourage TotalEnergies à «un plafonnement généreux» des prix à la pompe]]
 - [[https://www.lefigaro.fr/politique/totalenergies-marine-le-pen-reclame-une-taxation-des-surprofits-si-le-plafonnement-des-prix-n-est-pas-suffisant-20260502][TotalEnergies : Marine Le Pen réclame une taxation des surprofits si le plafonnement des prix n'est pas suffisant]]
 - [[https://www.lefigaro.fr/conso/carburants-l-indemnite-de-50-euros-pour-travailleurs-modestes-grands-rouleurs-est-publiee-au-journal-officiel-20260502][Carburants : l’indemnité de 50 euros pour «travailleurs modestes grands rouleurs» est publiée au journal officiel]]
 - [[https://www.lefigaro.fr/actualite-france/nous-sommes-rackettes-agriculteurs-boulangers-et-pecheurs-manifestent-a-paris-contre-l-explosion-du-prix-du-carburant-20260502][«Nous sommes rackettés!» : agriculteurs, boulangers et pêcheurs manifestent à Paris contre l’explosion du prix du carburant]]
-- [[https://www.lefigaro.fr/vox/histoire/l-histoire-de-ces-670-soldats-morts-pour-la-france-et-de-ces-milliers-des-blesses-dont-on-parle-trop-peu-20260502][L’histoire de ces 670 soldats morts pour la France et de ces milliers des blessés dont on parle trop peu]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
 - [[https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss][Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification]]
+- [[https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss][The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?]]
+- [[https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss][The clandestine network smuggling Starlink tech into Iran to beat internet blackout]]
+- [[https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss][Concern for jailed Iranian Nobel laureate as family say health deteriorating]]
 - [[https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss][US threatens shipping firms with sanctions if they pay Iran tolls]]
-- [[https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss][Thirteen killed in Israeli strikes on southern Lebanon, health ministry says]]
-- [[https://www.bbc.com/news/articles/cpwprl0v2npo?at_medium=RSS&at_campaign=rss][Oil tanker hijacked off coast of Yemen and taken towards Somalia]]
-- [[https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss]['If we sleep, they bite': Rats and weasels infest camps for displaced Gazans]]
 
 *** The Guardian
 
@@ -163,11 +162,11 @@
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/05/leitores-lamentam-morte-do-campeao-paralimpico-alex-zanardi.shtml][Leitores lamentam morte do campeão paralímpico Alex Zanardi]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/nuvem-rolo-impressiona-banhistas-em-bertioga-sp.shtml][Nuvem rolo impressiona banhistas em Bertioga (SP)]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/05/do-que-lula-precisa-no-congresso.shtml][Do que Lula precisa no Congresso]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/05/inteligencia-artificial-grava-consultas-medicas-e-levanta-questoes-eticas.shtml][Inteligência artificial grava consultas médicas e levanta questões éticas]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/deputado-do-novo-diz-que-sofreu-tentativa-de-intimidacao-de-general-e-pede-processo-administrativo.shtml][Deputado do Novo diz que sofreu tentativa de intimidação de general e pede processo administrativo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/05/quem-e-william-mebarak-chadid-pai-de-shakira-que-tem-94-anos-e-saude-fragil.shtml][Quem é William Mebarak Chadid, pai de Shakira que tem 94 anos e saúde frágil]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/sobre-trilhos/2026/05/museu-em-uberaba-exibe-historia-do-gado-zebu-e-memorias-ferroviarias.shtml][Museu em Uberaba exibe história do gado zebu e memórias ferroviárias]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/05/show-de-shakira-tem-ao-menos-185-apreensoes-de-objetos-cortantes-informa-a-pm.shtml][Show de Shakira tem ao menos 185 apreensões de objetos cortantes, informa a PM]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/05/milton-cunha-brinca-com-careca-e-gringos-e-rouba-atencao-na-transmissao-do-show-da-shakira.shtml][Milton Cunha brinca com careca e gringos e rouba cena na transmissão do show da Shakira no Rio]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/05/gabriela-loran-curte-show-de-shakira-apos-finalizar-tres-gracas-mudou-a-minha-vida.shtml][Gabriela Loran curte show de Shakira após finalizar 'Três Graças': 'Mudou a minha vida']]
 
 *** O Globo
 
