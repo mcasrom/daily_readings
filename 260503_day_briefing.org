@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 43.5°C | ⚖ Load: 0.00 | 🌐 Ping: 9.32ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 42.9°C | ⚖ Load: 0.00 | 🌐 Ping: 10.6ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,19 +41,19 @@
 
 *** El País
 
-- [[https://elpais.com/internacional/2026-05-02/trump-lanza-una-advertencia-a-toda-europa-con-la-retirada-de-tropas-de-alemania.html][Trump advierte a Europa con la retirada de tropas de Alemania: “serán más de 5.000″]]
-- [[https://elpais.com/internacional/2026-05-02/las-bases-militares-en-alemania-la-columna-vertebral-de-estados-unidos-en-europa.html][Las bases militares en Alemania, la columna vertebral de Estados Unidos en Europa]]
-- [[https://elpais.com/internacional/2026-05-02/alemania-defiende-la-importancia-estrategica-de-la-presencia-de-soldados-de-ee-uu-en-las-bases-del-pais-tras-el-anuncio-de-retirada-de-trump.html][Alemania defiende la importancia estratégica de la presencia de soldados de EE UU en las bases del país tras el anuncio de retirada de Trump]]
-- [[https://elpais.com/internacional/2026-05-02/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html][Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump asegura que Irán “aún no ha pagado un precio suficientemente alto”]]
-- [[https://elpais.com/planeta-futuro/2026-05-02/la-vida-bajo-el-fragil-alto-el-fuego-en-teheran-la-guerra-fue-aterradora-pero-lo-que-me-preocupa-hoy-es-la-inflacion.html][La vida bajo el frágil alto el fuego en Teherán: “La guerra fue aterradora, pero lo que me preocupa hoy es subsistir”]]
+- [[https://elpais.com/espana/2026-05-03/regularizacion-de-migrantes-esta-ley-nos-salva-la-vida.html][Regularización de migrantes: “Tener papeles nos salva la vida”]]
+- [[https://elpais.com/tecnologia/2026-05-03/luchas-de-poder-avaricia-guerra-y-tecnofascismo-la-ia-se-quita-la-careta.html][Luchas de poder, avaricia, guerra y ‘tecnofascismo’: la IA se quita la careta]]
+- [[https://elpais.com/tecnologia/2026-05-03/los-amos-de-la-ia-en-la-sombra.html][Los amos de la IA en la sombra]]
+- [[https://elpais.com/america/2026-05-03/el-hijo-de-maduro-habla-de-su-padre-preso-en-estados-unidos-lee-la-biblia-intercambia-libros-y-se-enfada-por-el-barca.html][El hijo de Maduro habla de su padre preso en Estados Unidos: lee la Biblia, intercambia libros y se enfada por el Barça]]
+- [[https://elpais.com/espana/2026-05-03/doce-dias-a-la-deriva-sin-motor-ni-radio-y-con-olas-de-cinco-metros-asi-vencio-aureliano-al-mar.html][Doce días a la deriva, sin motor, ni radio y con olas de cinco metros: así venció Aureliano al mar]]
 
 *** El Mundo
 
 - [[https://www.elmundo.es/espana/2026/05/02/69f648bbfdddffcf678b4577.html][Mattias Guyomar, presidente del Tribunal Europeo de Derechos Humanos: "Los ataques personales a jueces son ataques al Estado de Derecho"]]
 - [[https://www.elmundo.es/espana/encuestas/2026/05/03/69f60060e85ececb588b458b.html][La virulencia del ataque del PSOE a los jueces hace dudar a muchos de sus votantes: un tercio no secunda las críticas ni la ofensiva por Begoña]]
 - [[https://www.elmundo.es/cronica/2026/05/02/69f5d70b21efa0eb218b4596.html][El 'falso' milagro español de Santa Madre... es pura ciencia: nutrición y planificación de Fórmula 1 para el "Ferrari" humano Kejelcha]]
-- [[https://www.elmundo.es/espana/2026/05/03/69f5e918fc6c8398168b4572.html][El Gobierno pierde socios en el final más "loco" de legislatura: "Les mandamos flores y cajas de bombones, pero..."]]
-- [[https://www.elmundo.es/internacional/2026/05/03/69f358f4e9cf4a3f0e8b4580.html][Merz cumple un año en el poder con la popularidad bajo mínimos y la AfD al alza]]
+- [[https://www.elmundo.es/espana/2026/05/03/69f625b9fc6c83b5668b457b.html][Ayuso baja el tono el Dos de Mayo para ayudar a Moreno]]
+- [[https://www.elmundo.es/internacional/2026/05/02/69f4a6e9fdddff290f8b4580.html][Quién es quién en la órbita Epstein: la trama del pederasta más famoso del mundo]]
 
 *** La Vanguardia
 
@@ -65,54 +65,55 @@
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/asi-sera-tiempo-cantabria-domingo-temperaturas-aumento-cielos-nubosos-viento-sur/20260502215216192369.html][Así será el tiempo en Cantabria este domingo: lluvias, tormentas y descenso de temperaturas]]
-- [[https://eldiariocantabria.publico.es/articulo/cultura/mago-oz-convierte-maliano-autentica-fiesta-pagana-15000-personas/20260502213746192368.html][Mägo de Oz convierte Maliaño en una auténtica ‘fiesta pagana’ de 15.000 personas]]
-- [[https://eldiariocantabria.publico.es/articulo/municipios/talla-san-pedro-vuelve-casa-permanecer-guerra-civil-colegiata-santillana/20260502212408192366.html][La talla de San Pedro vuelve a casa tras permanecer desde la Guerra Civil en la Colegiata de Santillana]]
-- [[https://eldiariocantabria.publico.es/articulo/liebana/cientos-fieles-acompanan-procesion-santuca-mas-largas-espana/20260502211313192363.html]['La Santuca' reúne a cientos de lebaniegos en una de las procesiones más largas de España]]
-- [[https://eldiariocantabria.publico.es/articulo/liebana/fomento-licitara-medio-millon-euros-mejora-abastecimiento-tudes-tollo/20260502205046192361.html][Fomento licitará en medio millón de euros la mejora del abastecimiento a Tudes y Tollo]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/dia-madre-cantabria-planes-playas-pueblos-actividades-disfrutar-familia-domingo/20260503115411192380.html][Qué hacer en Cantabria el Día de la Madre 2026: planes originales para sorprenderla este domingo]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/racing-pone-autobuses-gratuitos-distintos-puntos-cantabria-partido-frente-huesca-sardinero/20260503112802192378.html][El Racing pone autobuses gratuitos desde varios puntos de Cantabria para el partido frente al Huesca en El Sardinero]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/coche-vuelca-ca-812-mazcuerras-provoca-derrame-aceite-via/20260503111255192377.html][Un coche vuelca y provoca problemas en el tráfico por derrames de aceite en la CA-812]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/accidente-8-laredo-moviliza-bomberos-salirse-coche-via/20260503105121192375.html][Accidente en la A-8 a la altura de Laredo moviliza a los bomberos]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/rescatada-ilesa-menor/20260503103235192372.html][Rescatan a una menor del tejado de unos apartamentos en Boo de Piélagos]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/05/03/ukraine-soldier-trapped-wife-voice-war/][Trapped in a kill zone for 177 days, his wife’s voice was his lifeline]]
 - [[https://www.washingtonpost.com/national-security/2026/05/01/us-troops-germany-trump-merz/][Pentagon to pull 5,000 troops from Germany, alarming Republican lawmakers]]
 - [[https://www.washingtonpost.com/world/2026/05/02/ireland-daniel-kinahan-arrested-dubai/][A mob hit in Ireland, a 10-year manhunt and an arrest in Dubai]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/asia/taiwan-outfoxes-china-in-test-of-wills-over-tiny-african-country-071d6fae][Taiwan Outfoxes China in Test of Wills Over Tiny African Country]]
 - [[https://www.wsj.com/world/europe/germany-has-the-cash-to-revitalize-its-economy-but-cant-seem-to-spend-it-5bd38dfe][Germany Has the Cash to Revitalize Its Economy, but Can’t Seem to Spend It]]
 - [[https://www.wsj.com/politics/national-security/the-u-s-wants-to-break-chinas-drone-dominance-heres-where-it-will-struggle-39e69e18][The U.S. Wants to Break China’s Drone Dominance. Here’s Where It Will Struggle.]]
 - [[https://www.wsj.com/world/standoff-in-strait-has-wall-street-stephen-colbert-glued-to-tiny-blinking-ships-d84919a1][Standoff in Strait Has Wall Street, Stephen Colbert Glued to Tiny Blinking Ships]]
 - [[https://www.wsj.com/world/europe/u-s-troop-withdrawal-expands-yawning-rift-between-u-s-and-europe-2f5c49cc][Germany and Europe Have Bigger Trump Problems Than U.S. Troop Withdrawal]]
-- [[https://www.wsj.com/world/russia/russia-oil-exports-ukraine-war-35fa6322][Russia Oil Exports Keep Flowing Despite Ukrainian Attacks]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/05/03/en-direct-guerre-au-moyen-orient-donald-trump-annonce-qu-il-va-etudier-un-plan-iranien-mais-doute-qu-il-soit-acceptable_6684072_3210.html][EN DIRECT, guerre au Moyen-Orient : Donald Trump annonce qu’il va étudier un plan iranien mais doute qu’il soit « acceptable »]]
-- [[https://www.lemonde.fr/international/article/2026/05/03/donald-trump-va-retirer-bien-davantage-de-soldats-d-allemagne-que-la-baisse-d-effectifs-de-5-000-annoncee-par-le-pentagone_6684958_3210.html][Troupes américaines en Allemagne : Donald Trump affirme qu’il va retirer « bien davantage » de soldats que les 5 000 annoncés par le Pentagone]]
-- [[https://www.lemonde.fr/international/article/2026/05/02/comment-l-amerique-latine-est-devenue-une-terre-d-election-pour-l-extreme-droite_6684880_3210.html][Comment l’Amérique latine est devenue une terre d’élection pour l’extrême droite]]
-- [[https://www.lemonde.fr/international/article/2026/05/03/syrie-la-television-d-etat-fait-etat-de-frappes-jordaniennes-sur-des-depots-de-drogues-et-d-armes-dans-la-province-de-souweida_6684924_3210.html][Syrie : la télévision d’Etat fait état de frappes jordaniennes sur des dépôts de drogues et d’armes dans la province de Souweïda]]
-- [[https://www.lemonde.fr/international/article/2026/05/03/aux-etats-unis-la-crise-energetique-a-precipite-la-chute-de-la-compagnie-aerienne-spirit-airlines_6684925_3210.html][Aux Etats-Unis, la crise énergétique a précipité la chute de la compagnie aérienne Spirit Airlines]]
+- [[https://www.lemonde.fr/economie/article/2026/05/03/flambee-du-prix-du-kerosene-des-centaines-d-annulations-de-vols-laissent-les-passagers-entre-frustration-embarras-et-colere_6685180_3234.html][Annulations de vols : des centaines de suppressions laissent les passagers entre frustration, embarras et colère]]
+- [[https://www.lemonde.fr/international/live/2026/05/03/en-direct-guerre-au-moyen-orient-donald-trump-dit-qu-une-reprise-des-bombardements-sur-l-iran-est-une-possibilite_6684072_3210.html][EN DIRECT, guerre au Moyen-Orient : Donald Trump dit qu’une reprise des bombardements sur l’Iran est « une possibilité »]]
+- [[https://www.lemonde.fr/m-le-mag/article/2026/05/03/laure-ferrari-la-francaise-qui-murmure-a-l-oreille-de-nigel-farage-le-patron-de-l-extreme-droite-britannique_6684996_4500055.html][Laure Ferrari, la Française qui murmure à l’oreille de Nigel Farage, le patron de l’extrême droite britannique]]
+- [[https://www.lemonde.fr/societe/article/2026/05/03/teknival-pres-de-bourges-laurent-nunez-attendu-sur-place-17-000-personnes-participent-au-troisieme-jour-de-la-free-party_6685215_3224.html][Le « Teknival de Bourges » se poursuit sans incident majeur depuis vendredi, le ministre de l’intérieur Laurent Nuñez attendu sur place]]
+- [[https://www.lemonde.fr/idees/article/2026/05/03/ce-que-l-on-croyait-impossible-a-chiffrer-comme-la-sante-d-un-sol-ou-le-bien-etre-des-agriculteurs-devient-mesurable_6685179_3232.html][« Ce que l’on croyait impossible à chiffrer, comme la santé d’un sol ou le bien-être des agriculteurs, devient mesurable »]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/washington-va-retirer-5-000-soldats-d-allemagne-trump-en-annonce-bien-davantage-20260503][Washington va retirer 5 000 soldats d'Allemagne, Trump en annonce «bien davantage»]]
-- [[https://www.lefigaro.fr/politique/sebastien-lecornu-encourage-totalenergies-a-un-plafonnement-genereux-des-prix-a-la-pompe-20260502][Sébastien Lecornu encourage TotalEnergies à «un plafonnement généreux» des prix à la pompe]]
-- [[https://www.lefigaro.fr/politique/totalenergies-marine-le-pen-reclame-une-taxation-des-surprofits-si-le-plafonnement-des-prix-n-est-pas-suffisant-20260502][TotalEnergies : Marine Le Pen réclame une taxation des surprofits si le plafonnement des prix n'est pas suffisant]]
-- [[https://www.lefigaro.fr/conso/carburants-l-indemnite-de-50-euros-pour-travailleurs-modestes-grands-rouleurs-est-publiee-au-journal-officiel-20260502][Carburants : l’indemnité de 50 euros pour «travailleurs modestes grands rouleurs» est publiée au journal officiel]]
-- [[https://www.lefigaro.fr/actualite-france/nous-sommes-rackettes-agriculteurs-boulangers-et-pecheurs-manifestent-a-paris-contre-l-explosion-du-prix-du-carburant-20260502][«Nous sommes rackettés!» : agriculteurs, boulangers et pêcheurs manifestent à Paris contre l’explosion du prix du carburant]]
+- [[https://www.lefigaro.fr/faits-divers/ils-etaient-tous-un-peu-comme-nos-enfants-l-emotion-des-familles-des-cinq-jeunes-de-17-a-20-ans-tues-dans-un-accident-de-la-route-en-ardeche-20260503][«Ils étaient tous un peu comme nos enfants» : l’émotion des familles des cinq jeunes de 17 à 20 ans tués dans un accident de la route en Ardèche]]
+- [[https://www.lefigaro.fr/faits-divers/ardeche-un-accident-de-la-route-fait-au-moins-quatre-morts-20260501][Accident mortel de cinq jeunes en Ardèche : le conducteur de la voiture roulait à une vitesse «excessive» selon les premières constatations]]
+- [[https://www.lefigaro.fr/actualite-france/l-universite-est-soumise-aux-diktats-ideologiques-ces-professeurs-broyes-par-les-accusations-et-les-commissions-disciplinaires-20260503][«L’université est soumise aux diktats idéologiques» : ces professeurs «broyés» par les accusations et les commissions disciplinaires]]
+- [[https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-donald-trump-va-etudier-le-plan-de-l-iran-mais-doute-qu-il-soit-acceptable-20260503][EN DIRECT - Guerre au Moyen-Orient : pour les Gardiens de la Révolution, Donald Trump n’a le choix qu’entre une opération militaire «impossible» ou un «mauvais accord»]]
+- [[https://www.lefigaro.fr/international/sur-le-chemin-du-retour-d-iran-donald-trump-evoque-l-envoi-d-un-porte-avions-pour-prendre-le-controle-de-cuba-20260502][«Sur le chemin du retour d’Iran» : Donald Trump évoque l’envoi d’un porte-avions pour prendre le contrôle de Cuba]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss][Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification]]
+- [[https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss][Germany troop cuts send wrong signal to Russia, say two top US Republicans]]
 - [[https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss][The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?]]
 - [[https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss][The clandestine network smuggling Starlink tech into Iran to beat internet blackout]]
-- [[https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss][Concern for jailed Iranian Nobel laureate as family say health deteriorating]]
-- [[https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss][US threatens shipping firms with sanctions if they pay Iran tolls]]
+- [[https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss][Man charged with murder and sexual assault of 5-year-old Australian girl]]
+- [[https://www.bbc.com/news/videos/c8r8j50zxnno?at_medium=RSS&at_campaign=rss][Huge crowd attends free Shakira Copacabana beach concert]]
 
 *** The Guardian
 
@@ -134,11 +135,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/genova-sindaca-salis-risarcimenti-insulti-social-centri-antiviolenza-AImNWnpC][Genova, la sindaca Salis: risarcimenti per insulti social ai centri antiviolenza]]
-- [[https://www.ilsole24ore.com/art/irpef-10-anni-redditi-piemonte-veneto-nord-coda-aumenti-AIMxgohC][Irpef, 10 anni di redditi: dal Piemonte al Veneto, Nord in coda agli aumenti]]
-- [[https://www.ilsole24ore.com/art/valle-d-aosta-decaduto-presidente-testolin-tribunale-era-ineleggibile-AITqmipC][Valle d’Aosta, decaduto il presidente Testolin. Il Tribunale: era ineleggibile]]
-- [[https://www.ilsole24ore.com/art/case-affitto-e-poche-opportunita-i-figli-conseguenze-salari-fermi-italia-AIkZT6oC][Case in affitto e poche opportunità per i figli: le conseguenze dei salari fermi in Italia]]
-- [[https://www.ilsole24ore.com/art/fisco-caf-lanciano-volata-il-730-dati-allineati-taglio-cuneo-AIJLdbpC][Fisco, i Caf lanciano la volata per il 730. Dati allineati sul taglio al cuneo]]
+- [[https://www.ilsole24ore.com/art/fisco-l-agenda-maggio-parte-48-scadenze-conto-rovescia-il-concordato-partite-iva-AIs5blpC][Fisco, l’agenda di maggio parte con 48 scadenze. Conto alla rovescia per il concordato delle partite Iva]]
+- [[https://www.ilsole24ore.com/art/ponte-1-maggio-roma-controlli-carabinieri-stazioni-metro-32-arresti-e-16-denunce-AIoPQLqC][Ponte del 1° maggio, a Roma controlli dei Carabinieri dalle stazioni alle metro: 32 arresti e 16 denunce]]
+- [[https://www.ilsole24ore.com/art/cinema-torna-fascino-film-sala-2026-c-e-l-effetto-zalone-AIR8gppC][Cinema, torna il fascino dei film in sala nel 2026. C’è l’effetto Zalone]]
+- [[https://www.ilsole24ore.com/art/maglie-calcio-abiti-firmati-e-carte-bambini-ecco-mercatini-online-e-social-falso-AIcbQHqC][Maglie da calcio, abiti firmati e carte per bambini: ecco i mercatini online e social del falso]]
+- [[https://www.ilsole24ore.com/art/roma-controlli-sicurezza-nell-area-stazione-termini-cinque-arresti-AICXwFqC][Roma, controlli sicurezza nell’area della stazione Termini con cinque arresti]]
 
 ** 🇩🇪 Alemania
 
@@ -162,11 +163,11 @@
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/05/quem-e-william-mebarak-chadid-pai-de-shakira-que-tem-94-anos-e-saude-fragil.shtml][Quem é William Mebarak Chadid, pai de Shakira que tem 94 anos e saúde frágil]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/sobre-trilhos/2026/05/museu-em-uberaba-exibe-historia-do-gado-zebu-e-memorias-ferroviarias.shtml][Museu em Uberaba exibe história do gado zebu e memórias ferroviárias]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/05/show-de-shakira-tem-ao-menos-185-apreensoes-de-objetos-cortantes-informa-a-pm.shtml][Show de Shakira tem ao menos 185 apreensões de objetos cortantes, informa a PM]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/05/milton-cunha-brinca-com-careca-e-gringos-e-rouba-atencao-na-transmissao-do-show-da-shakira.shtml][Milton Cunha brinca com careca e gringos e rouba cena na transmissão do show da Shakira no Rio]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/05/gabriela-loran-curte-show-de-shakira-apos-finalizar-tres-gracas-mudou-a-minha-vida.shtml][Gabriela Loran curte show de Shakira após finalizar 'Três Graças': 'Mudou a minha vida']]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/05/pasteur-quer-monitorar-ratos-em-sp-em-busca-de-virus-que-podem-infectar-humanos.shtml][Pasteur quer monitorar ratos em SP em busca de vírus que podem infectar humanos]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/mercado-de-maquinas-agricolas-sofre-com-juros-e-precos-baixos-de-graos.shtml][Mercado de máquinas agrícolas sofre com juros e preços baixos de grãos]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/para-reforcar-acusacao-de-corrupcao-campanha-de-flavio-vai-chamar-presidente-de-pai-do-lulinha.shtml][Para reforçar acusação de corrupção, campanha de Flávio vai chamar presidente de 'pai do Lulinha']]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/exercito-de-israel-ordena-novo-esvaziamento-de-cidades-no-sul-do-libano.shtml][Exército de Israel ordena novo esvaziamento de cidades no sul do Líbano]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/05/game-de-terror-subversive-memories-resgata-memorias-da-ditadura-militar-no-brasil.shtml][Game de terror 'Subversive Memories' resgata memórias da ditadura militar no Brasil]]
 
 *** O Globo
 
