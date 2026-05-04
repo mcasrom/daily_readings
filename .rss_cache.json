@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-04T00:00:03.185150",
+  "timestamp": "2026-05-04T06:00:02.799134",
   "data": {
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada": [
       {
@@ -7,8 +7,8 @@
         "link": "https://elpais.com/internacional/2026-05-03/alemania-se-lanza-a-un-rearme-con-dudas-por-los-fantasmas-del-pasado.html"
       },
       {
-        "title": "Luchas de poder, avaricia, guerra y ‘tecnofascismo’: la IA se quita la careta",
-        "link": "https://elpais.com/tecnologia/2026-05-03/luchas-de-poder-avaricia-guerra-y-tecnofascismo-la-ia-se-quita-la-careta.html"
+        "title": "Estados Unidos movilizará a destructores, aviones y 15.000 soldados para guiar a barcos atrapados en Ormuz",
+        "link": "https://elpais.com/internacional/2026-05-04/estados-unidos-guiara-a-los-barcos-mercantes-neutrales-atrapados-en-ormuz-desde-este-lunes.html"
       },
       {
         "title": "Doce días a la deriva, sin motor, ni radio y con olas de cinco metros: así venció Aureliano al mar",
@@ -25,24 +25,24 @@
     ],
     "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml": [
       {
+        "title": "La Fiscalía considera \"esencial\" la colaboración de Aldama para destapar a Ábalos y aflorar la corrupción en el Gobierno",
+        "link": "https://www.elmundo.es/espana/2026/05/03/69f7303afc6c83d5648b456f.html"
+      },
+      {
         "title": "Aldama entrega al Supremo una cinta de Koldo en la que pacta con Ábalos una comisión de 5 millones por la venta del cuartel general de la Sepi",
         "link": "https://www.elmundo.es/espana/2026/05/03/69f792c421efa078258b4586.html"
       },
       {
-        "title": "Feijóo explota la corrupción del PSOE para el 17-M: \"Votad a Juanma Moreno, no queremos más los ERE y Ábalos\"",
-        "link": "https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/03/69f7359be4d4d8214f8b4587.html"
+        "title": "Muy tarde, Aitor: tú fuiste el que compró el 'pack Ábalos'",
+        "link": "https://www.elmundo.es/espana/2026/05/04/69f76d8d21efa013588b4579.html"
       },
       {
-        "title": "Una incidencia en su avión obliga a Sánchez a aterrizar en Turquía cuando iba a Armenia",
-        "link": "https://www.elmundo.es/espana/2026/05/03/69f7a3c2fc6c8308448b4595.html"
+        "title": "De la empresa de vivienda de Zapatero a la calle desahuciado por la Seguridad Social: \"O compramos el piso a casi 700.000 euros o nos tenemos que ir\"",
+        "link": "https://www.elmundo.es/economia/vivienda/2026/05/03/69dfa77921efa0a0118b45ca.html"
       },
       {
-        "title": "Sinner arrolla a un pusilánime Zverev y se convierte en Madrid en el primer jugador que encadena cinco Masters 1000 consecutivos",
-        "link": "https://www.elmundo.es/deportes/tenis/2026/05/03/69f74f87e85ece543c8b457f.html"
-      },
-      {
-        "title": "Trump anuncia el 'Proyecto Libertad' para escoltar buques a través del estrecho de Ormuz",
-        "link": "https://www.elmundo.es/internacional/2026/05/03/69f7c2a0e85ece543c8b4590.html"
+        "title": "Sumar se desangra con su peor resultado en un año ante el 'No a la guerra' de Sánchez, que blanquea su botín con 8 diputados más",
+        "link": "https://www.elmundo.es/espana/encuestas/2026/05/03/69f7890fe85ecefc7a8b4582.html"
       }
     ],
     "https://www.lavanguardia.com/rss/home.xml": [
@@ -91,7 +91,7 @@
     ],
     "https://feeds.washingtonpost.com/rss/world": [
       {
-        "title": "Rubio expected to meet with Leo amid Trump’s clash with pope on Iran",
+        "title": "Rubio expected to meet with Pope Leo amid Trump’s clash with pontiff on Iran",
         "link": "https://www.washingtonpost.com/world/2026/05/03/rubio-pope-trump-vatican/"
       },
       {
@@ -109,24 +109,24 @@
     ],
     "https://feeds.content.dowjones.io/public/rss/RSSWorldNews": [
       {
+        "title": "America’s Pacific Allies Train to Face Down China Together",
+        "link": "https://www.wsj.com/world/asia/americas-pacific-allies-train-to-face-down-china-together-5671e723"
+      },
+      {
+        "title": "How Iran’s Chief Sanctions Buster Went From Death Row to Crypto",
+        "link": "https://www.wsj.com/world/middle-east/how-irans-chief-sanctions-buster-went-from-death-row-to-crypto-51424fe7"
+      },
+      {
+        "title": "Trump Says U.S. Will Guide Stranded Ships Through Strait of Hormuz",
+        "link": "https://www.wsj.com/world/middle-east/trump-says-u-s-will-guide-stranded-ships-through-strait-of-hormuz-09e0d7cf"
+      },
+      {
         "title": "Germany and Europe Have Bigger Trump Problems Than U.S. Troop Withdrawal",
         "link": "https://www.wsj.com/world/europe/u-s-troop-withdrawal-expands-yawning-rift-between-u-s-and-europe-2f5c49cc"
       },
       {
         "title": "The Archaeologist Caught Up in a Prisoner Swap Between Russia and the West",
         "link": "https://www.wsj.com/world/russia/the-archaeologist-caught-up-in-a-prisoner-swap-between-russia-and-the-west-1bdcc415"
-      },
-      {
-        "title": "Europe’s Trump Problems",
-        "link": "https://www.wsj.com/world/europes-trump-problems-b756fa3f"
-      },
-      {
-        "title": "Two U.S. Soldiers Reported Missing in Morocco",
-        "link": "https://www.wsj.com/world/africa/two-u-s-soldiers-reported-missing-in-morocco-914f8087"
-      },
-      {
-        "title": "OPEC Signals Unity After U.A.E. Exit With Pledge to Boost Oil Output",
-        "link": "https://www.wsj.com/world/middle-east/opec-signals-unity-after-u-a-e-exit-with-pledge-to-boost-oil-output-4bd82d07"
       }
     ],
     "https://www.lemonde.fr/rss/une.xml": [
@@ -143,15 +143,19 @@
         "link": "https://www.lemonde.fr/societe/article/2026/05/03/laurent-nunez-moi-je-n-ai-pas-de-probleme-avec-l-islam-en-france-mais-je-combats-ceux-qui-l-utilisent-pour-porter-atteinte-a-notre-republique_6685238_3224.html"
       },
       {
-        "title": "Marco Rubio va se rendre à Rome et rencontrer le pape, après la vive polémique avec Donald Trump",
-        "link": "https://www.lemonde.fr/international/article/2026/05/03/marco-rubio-va-se-rendre-a-rome-et-rencontrer-le-pape-apres-la-vive-polemique-avec-donald-trump_6685254_3210.html"
-      },
-      {
         "title": "Un foyer de syndrome respiratoire aigu s’est déclaré à bord du bateau de croisière « MV Hondius », trois personnes sont mortes",
         "link": "https://www.lemonde.fr/planete/article/2026/05/03/un-foyer-de-syndrome-respiratoire-aigu-s-est-declare-a-bord-du-bateau-de-croisiere-mv-hondius-deux-personnes-sont-mortes-et-une-troisieme-est-en-soins-intensifs_6685243_3244.html"
+      },
+      {
+        "title": "Marco Rubio va rencontrer le pape au Vatican, après la vive polémique avec Donald Trump",
+        "link": "https://www.lemonde.fr/international/article/2026/05/03/marco-rubio-va-se-rendre-a-rome-et-rencontrer-le-pape-apres-la-vive-polemique-avec-donald-trump_6685254_3210.html"
       }
     ],
     "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
+      {
+        "title": "Les dix mesures chocs du rapport Alloncle pour réformer l’audiovisuel public",
+        "link": "https://www.lefigaro.fr/medias/les-dix-mesures-choc-de-charles-alloncle-pour-reformer-l-audiovisuel-public-20260504"
+      },
       {
         "title": "EN DIRECT - Guerre au Moyen-Orient : Trump annonce que la marine américaine va escorter des navires bloqués dans le détroit d’Ormuz à partir de lundi",
         "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-donald-trump-va-etudier-le-plan-de-l-iran-mais-doute-qu-il-soit-acceptable-20260503"
@@ -165,12 +169,8 @@
         "link": "https://www.lefigaro.fr/international/sur-le-chemin-du-retour-d-iran-donald-trump-evoque-l-envoi-d-un-porte-avions-pour-prendre-le-controle-de-cuba-20260502"
       },
       {
-        "title": "Donald Trump accentue sa pression sur le président libanais pour un sommet avec Netanyahou",
-        "link": "https://www.lefigaro.fr/international/donald-trump-accentue-sa-pression-sur-le-president-libanais-pour-un-sommet-avec-netanyahou-20260503"
-      },
-      {
-        "title": "Avec ses drones sous-marins, le français Bubble Robotics se rêve en futur SpaceX des océans",
-        "link": "https://www.lefigaro.fr/economie/avec-ses-drones-sous-marins-le-francais-bubble-robotics-se-reve-en-futur-spacex-des-oceans-20260503"
+        "title": "Attentat de Bondi: ouverture des audiences publiques de la commission d'enquête",
+        "link": "https://www.lefigaro.fr/international/attentat-de-bondi-ouverture-des-audiences-publiques-de-la-commission-d-enquete-20260504"
       }
     ],
     "https://feeds.bbci.co.uk/news/world/rss.xml": [
@@ -307,24 +307,24 @@
     ],
     "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml": [
       {
-        "title": "\"Você é de verdade\", diz Marcus Buaiz à Isis Valverde",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/05/voce-e-de-verdade-diz-marcus-buaiz-a-isis-valverde.shtml"
+        "title": "Frente a Frente, programa de Folha e UOL sobre eleições, entrevista Romeu Zema nesta segunda",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/frente-a-frente-programa-de-folha-e-uol-sobre-eleicoes-entrevista-romeu-zema-nesta-segunda.shtml"
       },
       {
-        "title": "Preços de energia devem cair ainda neste ano, diz secretário dos EUA",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/precos-de-energia-devem-cair-ainda-neste-ano-diz-secretario-dos-eua.shtml"
+        "title": "GameStop faz oferta de US$ 56 bilhões para comprar o eBay",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/gamestop-faz-oferta-de-us-56-bilhoes-para-comprar-o-ebay.shtml"
       },
       {
-        "title": "Ouvintes da Rádio Eldorado protestam na Paulista contra fechamento da emissora",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/05/ouvintes-da-radio-eldorado-protestam-na-paulista-contra-fechamento-da-emissora.shtml"
+        "title": "Reforma do Judiciário e código de ética são desejáveis, mas não agora, diz ex-secretário",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/reforma-do-judiciario-e-codigo-de-etica-sao-desejaveis-mas-nao-agora-diz-ex-secretario.shtml"
       },
       {
-        "title": "Líder do PT defende que governo mantenha taxa das blusinhas e mude discurso sobre 6x1",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/lider-do-pt-defende-que-governo-mantenha-taxa-das-blusinhas-e-mude-discurso-sobre-6x1.shtml"
+        "title": "De olho na geração Z, candidato a governador na Flórida promete recuperar 'masculinidade'",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/de-olho-na-geracao-z-candidato-a-governador-na-florida-promete-recuperar-masculinidade.shtml"
       },
       {
-        "title": "Médico brasileiro é único tricologista da América Latina a palestrar em congresso internacional",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/05/medico-brasileiro-e-unico-tricologista-da-america-latina-a-palestrar-em-congresso-internacional.shtml"
+        "title": "Maioria das empresas que abriram capital desde 2016 vale menos que no IPO",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/maioria-das-empresas-que-abriram-capital-desde-2016-vale-menos-que-no-ipo.shtml"
       }
     ],
     "https://oglobo.globo.com/rss.xml": []
