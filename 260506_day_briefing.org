@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 44.0°C | ⚖ Load: 0.00 | 🌐 Ping: 9.30ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 43.5°C | ⚖ Load: 0.00 | 🌐 Ping: 9.58ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,19 +41,19 @@
 
 *** El País
 
-- [[https://elpais.com/comunicacion/2026-05-05/muere-soledad-gallego-diaz-la-periodista-total.html][Muere Soledad Gallego-Díaz, la periodista total]]
-- [[https://elpais.com/opinion/2026-05-05/la-mejor-periodista.html][La mejor periodista]]
-- [[https://elpais.com/opinion/2026-05-05/sol-la-auctoritas-del-periodismo.html][Sol, la ‘auctoritas’ del periodismo]]
-- [[https://elpais.com/comunicacion/2026-05-05/politicos-y-juristas-reconocen-el-compromiso-con-el-periodismo-de-soledad-gallego-diaz.html][Políticos y juristas reconocen el compromiso con el periodismo de Soledad Gallego-Díaz]]
-- [[https://elpais.com/opinion/2026-05-05/razon-y-corazon.html][Razón y corazón]]
+- [[https://elpais.com/espana/2026-05-06/primer-juicio-contra-abalos-koldo-y-aldama-por-la-trama-de-las-mascarillas-en-directo.html][Primer juicio contra Ábalos, Koldo y Aldama por la trama de las mascarillas, en directo | El fiscal niega un pacto con Aldama y defiende su rebaja de pena: “Es la estricta aplicación de la ley”]]
+- [[https://elpais.com/mexico/2026-05-05/diaz-ayuso-lleva-su-discurso-libertario-a-la-universidad-de-salinas-pliego.html][Díaz Ayuso lleva su discurso libertario a la universidad de Salinas Pliego]]
+- [[https://elpais.com/salud-y-bienestar/2026-05-06/bitacora-del-mv-hondius-de-ushuaia-a-canarias-diario-de-a-bordo-de-un-brote-de-hantavirus.html][Bitácora del ‘MV Hondius’: de Ushuaia a Canarias, diario de a bordo de un brote de hantavirus]]
+- [[https://elpais.com/sociedad/2026-05-06/ultima-hora-del-brote-de-hantavirus-en-el-crucero-mv-hondius-en-directo.html][Última hora del brote de Hantavirus, en directo | Clavijo se queja de “falta de lealtad y transparencia” por parte del Gobierno y pide reunirse con Sánchez]]
+- [[https://elpais.com/sociedad/2026-05-06/por-que-el-hantavirus-no-tiene-nada-que-ver-con-la-covid.html][Por qué el hantavirus no tiene nada que ver con la covid]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/05/05/69fa3028e85eceed3a8b459e.html][El PSOE, Ábalos y Koldo se lanzan contra el hombre que los ha acorralado mientras el fiscal Luzón pondrá en valor la colaboración de Aldama con la Justicia]]
-- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/06/69fa37c5fc6c8360628b4584.html][2,7 millones de andaluces todavía dudan sobre su voto el 17-M, con una batalla abierta por ser la referencia de las izquierdas]]
+- [[https://www.elmundo.es/espana/2026/05/06/69fa1a47e4d4d82c538b4571.html][La última palabra de Ábalos en el Supremo: "Aldama ha metido a Jésica, tras coaccionarla, en el pacto con la Fiscalía"]]
 - [[https://www.elmundo.es/espana/2026/05/05/69fa54d0e4d4d814218b4575.html][El informe final de Anticorrupción incluye a Hidalgo en el cohecho de Air Europa: "gestionó" con Aldama las vacaciones gratis para Ábalos a cambio de la nota de prensa]]
+- [[https://www.elmundo.es/espana/2026/05/06/69fae95dfc6c8371518b4576.html][Clavijo rechaza que el crucero con hantavirus haga escala en Canarias por falta de "seguridad" y el Gobierno pide "no generar alarmismos"]]
+- [[https://www.elmundo.es/ciencia-y-salud/salud/2026/05/06/69fa27ede9cf4a78478b459c.html][Cero contacto con la población, medidas de aislamiento y equipos de protección en el desembarco de los casos sospechosos del barco con el brote de hantavirus]]
 - [[https://www.elmundo.es/espana/2026/05/05/69fa3ebe21efa018208b4593.html][El Gobierno introduce una 'cláusula Juana Rivas' en la Ley de la Infancia que protege a las mujeres en la custodia de los menores]]
-- [[https://www.elmundo.es/economia/2026/05/05/69fa1545e4d4d8ea138b45b2.html][El Tribunal de Cuentas desnuda la contabilidad de Montero: uso de deuda y fondos UE para tapar que no hay Presupuestos y nuevo 'agujero' récord de las pensiones]]
 
 *** La Vanguardia
 
@@ -65,21 +65,21 @@
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/campoo/ayuntamiento-compromete-futura-implantacion-punto-violeta-oficina-mujer/20260505201505192515.html][El Ayuntamiento se compromete con la futura implantación de un Punto Violeta y una Oficina de la Mujer]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/nao-victoria-atraca-santander-horarios-como-visitar-replica-primera-vuelta-mundo/20260505195335192513.html][La Nao Victoria atraca en Santander: horarios y cómo visitar la réplica de la primera vuelta al mundo]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/denuncian-impacto-estetico-patrimonial-obras-casco-historico-san-vicente-es-atentado/20260505193554192512.html][Denuncian el impacto estético y patrimonial de las obras en el casco histórico de San Vicente: "Es un atentado"]]
-- [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/comienza-derribo-ocho-viviendas-sentencia-derribo-cerrias/20260505191734192510.html][Comienza el derribo de ocho viviendas en Cerrias]]
-- [[https://eldiariocantabria.publico.es/articulo/torrelavega/urraca-acusa-pp-dar-espalda-ciudadanos-ponerse-perfil-falta-personal-sierrallana/20260505190409192507.html][Urraca acusa al PP de “dar la espalda a los ciudadanos” al ponerse de perfil ante la falta de personal en Sierrallana]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/catorce-jabalies-mueren-ser-atropellados-dos-coches-n-611-cantabria/20260506115947192526.html][Catorce jabalíes atropellados por dos coches en la N-611 en Cantabria]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/camargo-cumple-propone-cambio-calle-alcalde-arche-calle-standard-electrica/20260506113517192524.html][Camargo cumple con la Ley de Memoria Democrática y propone el cambio de la calle Alcalde Arche por 'Calle Standard Eléctrica']]
+- [[https://eldiariocantabria.publico.es/articulo/politica/europa-afronta-encrucijada-geopolitica-precedentes-ii-guerra-mundial/20260506111207192522.html]["Europa afronta una encrucijada geopolítica sin precedentes desde la II Guerra Mundial”: reclaman mayor unidad ante la situación internacional]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/herida-mujer-83-anos-santander-choque-entre-autobus-turismo/20260506105112192521.html][Herida una mujer de 83 años tras un choque entre un autobús y un turismo en Santander]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/olvida-mochila-4400-euros-aeropuerto-santander/20260506103121192518.html][Olvida una mochila con 4.400 euros en el aeropuerto de Santander y se la devuelven una hora después]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/05/06/kremlin-infighting-putin-russia-war/][Pro-Kremlin lawyer’s turn against Putin reveals rift in Russian power circles]]
 - [[https://www.washingtonpost.com/world/2026/05/05/hegseth-briefing-iran-strait-hormuz-ceasefire/][Trump orders military to pause effort to reopen the Strait of Hormuz]]
 - [[https://www.washingtonpost.com/world/2026/05/05/trump-rubio-pope-leo-rift/][Trump lashes out at Pope Leo again ahead of Rubio trip to Rome]]
 - [[https://www.washingtonpost.com/world/2026/05/04/us-ships-iran-hormuz-ceasefire/][U.S. and Iran exchange taunts as attacks imperil fragile ceasefire]]
 - [[https://www.washingtonpost.com/world/2026/05/05/trump-changing-strategy-iran-war/][Trump keeps changing his timeline for ending the Iran war]]
-- [[https://www.washingtonpost.com/national-security/2026/05/05/israel-nuclear-program-democrat-letter/][Some Democrats press Trump to break silence on Israel’s nuclear arsenal]]
 
 *** WSJ.com: World News
 
@@ -93,29 +93,29 @@
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/05/06/en-direct-guerre-au-moyen-orient-le-secretaire-d-etat-americain-marco-rubio-assure-que-la-phase-offensive-du-conflit-avec-l-iran-est-finie_6684072_3210.html][EN DIRECT, guerre au Moyen-Orient : Donald Trump suspend l’opération d’escorte des bateaux dans le détroit d’Ormuz en raison de « progrès considérables » pour un accord avec l’Iran]]
-- [[https://www.lemonde.fr/politique/article/2026/05/06/sebastien-lecornu-se-resout-a-envisager-une-hausse-des-aides-economiques-pour-faire-face-a-la-prolongation-de-la-guerre-au-moyen-orient_6685828_823448.html][Sébastien Lecornu se résout à envisager une hausse des aides économiques pour faire face à la prolongation de la guerre au Moyen-Orient]]
-- [[https://www.lemonde.fr/societe/article/2026/05/05/au-proces-de-l-affaire-libyenne-l-emouvante-plaidoirie-des-parties-civiles-l-inversion-victimaire-a-commence-il-y-a-des-annees_6685656_3224.html][Au procès de l’affaire libyenne, l’émouvante plaidoirie des parties civiles : « L’inversion victimaire a commencé il y a des années »]]
-- [[https://www.lemonde.fr/economie/article/2026/05/06/la-publication-du-rapport-alloncle-clot-la-commission-d-enquete-pas-les-debats-sur-l-avenir-de-l-audiovisuel-public_6685826_3234.html][La publication du rapport Alloncle clôt la commission d’enquête, pas les débats sur l’avenir de l’audiovisuel public]]
-- [[https://www.lemonde.fr/international/live/2026/05/05/en-direct-guerre-en-ukraine-plus-de-20-morts-dans-les-frappes-russes-de-mardi-la-treve-annoncee-par-kiev-est-censee-avoir-commence_6684995_3210.html][EN DIRECT, guerre en Ukraine : une attaque russe rapportée pendant la trêve unilatérale annoncée par Kiev]]
+- [[https://www.lemonde.fr/sante/live/2026/05/06/en-direct-hantavirus-dans-un-navire-de-croisiere-un-passager-hospitalise-en-suisse-le-bateau-attend-au-large-du-cap-vert_6686093_1651302.html][EN DIRECT, hantavirus sur un navire de croisière : un passager hospitalisé en Suisse ; le bateau attend au large du Cap-Vert]]
+- [[https://www.lemonde.fr/international/article/2026/05/06/donald-trump-renonce-provisoirement-a-rouvrir-le-detroit-d-ormuz-par-la-force_6686086_3210.html][Donald Trump renonce provisoirement à rouvrir le détroit d’Ormuz par la force]]
+- [[https://www.lemonde.fr/societe/article/2026/05/06/dysfonctionnements-a-l-hopital-pedopsychiatrique-fondation-vallee-l-agence-regionale-de-sante-confirme-le-recours-a-des-pratiques-d-isolement_6686089_3224.html][Dysfonctionnements à l’hôpital pédopsychiatrique Fondation Vallée : l’agence régionale de santé confirme le recours à des pratiques d’isolement]]
+- [[https://www.lemonde.fr/politique/article/2026/05/06/le-projet-de-loi-contre-les-fraudes-sociales-et-fiscales-est-adopte-en-deuxieme-lecture-par-l-assemblee-nationale_6686085_823448.html][Le projet de loi contre les fraudes sociales et fiscales est adopté en deuxième lecture par l’Assemblée nationale]]
+- [[https://www.lemonde.fr/international/live/2026/05/06/en-direct-guerre-en-ukraine-plus-de-180-combats-mardi-selon-l-etat-major-ukrainien-le-cessez-le-feu-annonce-par-kiev-n-a-pas-ete-respecte-par-moscou_6684995_3210.html][EN DIRECT, guerre en Ukraine : des coupures d’électricité dans les oblasts de Donetsk, Kharkiv et Zaporijia à la suite d’attaques russes nocturnes]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/on-en-revient-toujours-a-la-question-des-valeurs-entre-paris-et-berlin-le-rendez-vous-manque-d-emmanuel-macron-et-de-friedrich-merz-20260506][« On en revient toujours à la question des valeurs » : entre Paris et Berlin, le rendez-vous manqué d’Emmanuel Macron et de Friedrich Merz]]
-- [[https://www.lefigaro.fr/international/l-ukraine-fait-etat-d-une-attaque-russe-pendant-le-cessez-le-feu-unilateral-de-kiev-20260506][L’Ukraine fait état d’une attaque russe pendant le cessez-le-feu unilatéral de Kiev]]
-- [[https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-emirats-arabes-unis-attaque-drones-missiles-detroit-ormuz-donald-trump-20260505][EN DIRECT - Conflit au Moyen-Orient : Israël se dit prêt à déployer «toute l’armée de l’air» contre l’Iran si nécessaire]]
-- [[https://www.lefigaro.fr/international/pete-hegseth-le-visage-de-la-guerre-en-iran-de-plus-en-plus-isole-et-conteste-20260505][Pete Hegseth, ministre de la Guerre américain : le visage de la guerre en Iran de plus en plus isolé et contesté]]
-- [[https://www.lefigaro.fr/international/guerre-en-iran-ce-qu-il-faut-retenir-de-la-conference-de-presse-de-pete-hegseth-20260505][Guerre en Iran : ce qu’il faut retenir de la conférence de presse de Pete Hegseth]]
+- [[https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-donald-trump-detroit-ormuz-navires-etats-unis-negociations-israel-liban-20260506][EN DIRECT - Guerre au Moyen-Orient : «Ce n’est en aucun cas la France qui a été visée», assure Emmanuel Macron après l’attaque contre un navire de CMA CGM]]
+- [[https://www.lefigaro.fr/societes/guerre-au-moyen-orient-un-porte-conteneurs-du-francais-cma-cgm-attaque-mardi-dans-le-detroit-d-ormuz-20260506][Guerre au Moyen-Orient : un porte-conteneurs du français CMA CGM attaqué mardi dans le détroit d'Ormuz]]
+- [[https://www.lefigaro.fr/international/guerre-au-moyen-orient-donald-trump-suspend-son-projet-liberte-d-escorte-de-navires-dans-le-detroit-d-ormuz-20260506][Guerre au Moyen-Orient : Donald Trump suspend son «Projet Liberté» d’escorte de navires dans le détroit d’Ormuz]]
+- [[https://www.lefigaro.fr/international/guerre-au-moyen-orient-l-iran-reprend-sa-strategie-de-riposte-asymetrique-contre-les-emirats-20260505][Guerre au Moyen-Orient : l’Iran reprend sa stratégie de riposte asymétrique contre les Émirats]]
+- [[https://www.lefigaro.fr/sciences/en-direct-hantavirus-un-patient-infecte-soigne-en-suisse-le-bateau-de-croisiere-toujours-au-large-du-cap-vert-20260506][EN DIRECT - Hantavirus : un passager du bateau de croisière hospitalisé en Suisse, un Français identifié comme cas contact selon le ministère de la Santé]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss][Trump says US to pause operation to guide vessels through Strait of Hormuz]]
-- [[https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss][Hantavirus may have spread between passengers on cruise ship, WHO says]]
+- [[https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss][To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city]]
+- [[https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss][BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon]]
+- [[https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss][Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war]]
 - [[https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss][Vivek Ramaswamy wins Republican nomination for Ohio governor]]
-- [[https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss][Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow]]
-- [[https://www.bbc.com/news/articles/cdxpe02y05go?at_medium=RSS&at_campaign=rss][Nine coal miners die in gas explosion in Colombia]]
+- [[https://www.bbc.com/news/articles/cy82x9wve2xo?at_medium=RSS&at_campaign=rss][Dressed for succession: What Kim Ju Ae's outfits tell us about North Korea]]
 
 *** The Guardian
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/treni-gara-intercity-bando-tre-lotti-sindacati-piede-guerra-AIxqZEtC][Treni, gara Intercity con bando a tre lotti: sindacati sul piede di guerra]]
-- [[https://www.ilsole24ore.com/art/torre-annunziata-ruspe-palazzo-clan-gionta-AIE3IqsC][Torre Annunziata, ruspe sul Palazzo del clan Gionta]]
-- [[https://www.ilsole24ore.com/art/fisco-perche-entrate-non-faranno-mai-accertamenti-l-intelligenza-artificiale-AIA2WhrC][Agenzia delle Entrate: l’intelligenza artificiale non sarà mai usata per accertamenti fiscali]]
-- [[https://www.ilsole24ore.com/art/piccola-industria-unindustria-dionisi-confermata-squadra-presidenza-servono-pmi-piu-forti-AIOl2xsC][Piccola industria di Unindustria, Dionisi: confermata squadra di presidenza. Servono Pmi più forti]]
-- [[https://www.ilsole24ore.com/art/benzina-prezzi-sfiorano-1950-euro-litro-campania-piu-economica-AIrP5isC][Benzina, i prezzi sfiorano 1,950 euro al litro. In Campania la più economica]]
+- [[https://www.ilsole24ore.com/art/nonostante-stretta-governo-pensioni-anticipate-sono-aumento-primo-trimestre-ecco-perche-AIAVKosC][Nonostante la stretta del governo le pensioni anticipate sono in aumento nel primo trimestre. Ecco perché]]
+- [[https://www.ilsole24ore.com/art/bce-cipollone-scenario-base-piu-lontano-aumentano-probabilita-rialzo-tassi-AIlgaotC][Bce, Cipollone: scenario base più lontano, aumentano probabilità rialzo tassi]]
+- [[https://www.ilsole24ore.com/art/trump-leone-scontro-inedito-e-precedente-storico-schiaffo-anagni-AIhoqitC][Trump-Leone, lo scontro inedito e il precedente storico dello schiaffo di Anagni]]
+- [[https://www.ilsole24ore.com/art/la-nave-scuola-russa-ts-shtandart-diretta-palermo-non-potra-attraccare-AITMCusC][La nave scuola russa Ts Shtandart diretta verso Palermo: non potrà attraccare]]
+- [[https://www.ilsole24ore.com/art/amministrative-20-capoluoghi-voto-centrosinistra-scommette-venezia-centrodestra-reggio-calabria-AIRbA9sC][Amministrative, 20 capoluoghi al voto: il centrosinistra scommette su Venezia, il centrodestra su Reggio Calabria]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/north-korea-drops-reunification-goal-from-constitution/a-77061282?maca=en-rss-en-world-4025-rdf][North Korea drops reunification goal from constitution]]
+- [[https://www.dw.com/en/here-s-what-happens-when-cities-ban-cars/a-76984918?maca=en-rss-en-world-4025-rdf][Here's what happens when cities ban cars]]
+- [[https://www.dw.com/en/australia-suspect-in-bondi-massacre-to-face-more-charges/a-77060769?maca=en-rss-en-world-4025-rdf][Australia: Suspect in Bondi massacre to face more charges]]
 - [[https://www.dw.com/en/spain-to-receive-hantavirus-hit-ship-in-canary-islands/a-77059425?maca=en-rss-en-world-4025-rdf][Spain to receive hantavirus-hit ship in Canary Islands]]
 - [[https://www.dw.com/en/iran-war-will-tensions-escalate-in-the-strait-of-hormuz/a-77057831?maca=en-rss-en-world-4025-rdf][Iran war: Will tensions escalate in the Strait of Hormuz?]]
-- [[https://www.dw.com/en/strategic-neutrality-how-syria-is-winning-in-the-iran-war/a-77053362?maca=en-rss-en-world-4025-rdf][Strategic neutrality: How Syria is winning in the Iran war]]
-- [[https://www.dw.com/en/india-west-bengal-election-win-boosts-modi-s-bjp/a-77058088?maca=en-rss-en-world-4025-rdf][India: West Bengal election win boosts Modi's BJP]]
-- [[https://www.dw.com/en/armenia-balances-on-the-tightrope-between-russia-and-the-eu/a-77055231?maca=en-rss-en-world-4025-rdf][Armenia balances on the tightrope between Russia and the EU]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/05/aviso-de-ferias.shtml][Aviso de férias]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/lutadora-de-jiu-jitsu-relata-ter-sofrido-abusos-sexuais-de-melqui-galvao-por-14-anos.shtml][Lutadora de jiu-jítsu relata ter sofrido abusos sexuais de Melqui Galvão por 14 anos]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/05/apos-briga-e-notificacao-judicial-neymar-celebra-gol-com-abraco-em-robinho-jr.shtml][Após briga e notificação judicial, Neymar celebra gol com abraço em Robinho Jr.]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/pao-de-acucar-fecha-acordo-com-credores-e-diz-que-divida-de-r-45-bi-vai-cair-em-50.shtml][Pão de Açúcar fecha acordo com credores e diz que dívida de R$ 4,5 bi vai cair em 50%]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2026/05/djavan-canta-sucessos-em-shows-em-sao-paulo-veja-agenda-da-semana.shtml][Djavan canta sucessos em shows em São Paulo; veja agenda da semana]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/apesar-de-pressao-de-motta-deputados-acham-que-pec-da-6x1-fica-para-junho.shtml][Apesar de pressão de Motta, deputados acham que PEC da 6x1 fica para junho]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/05/agregadores-de-ia-vendem-praticidade-mas-recursos-limitados-frustram-clientes.shtml][Agregadores de IA vendem praticidade, mas recursos limitados frustram clientes]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/pastoral-carceraria-envia-dossie-ao-papa-leao-14-relatando-restricoes-para-entrar-em-presidios.shtml][Pastoral Carcerária envia dossiê ao papa Leão 14 relatando restrições para entrar em presídios]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/05/acordo-abre-caminho-para-a-devolucao-do-dinossauro-irritator-ao-brasil.shtml][Acordo abre caminho para a devolução do dinossauro Irritator ao Brasil]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/05/galanteador-dono-de-porco-e-rei-da-tequila-veja-curiosidades-sobre-george-clooney.shtml][Galanteador, dono de porco e rei da tequila: veja curiosidades sobre George Clooney]]
 
 *** O Globo
 
