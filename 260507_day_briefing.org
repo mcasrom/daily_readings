@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 43.5°C | ⚖ Load: 0.05 | 🌐 Ping: 13.5ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 43.5°C | ⚖ Load: 0.08 | 🌐 Ping: 13.3ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,19 +41,19 @@
 
 *** El País
 
-- [[https://elpais.com/sociedad/2026-05-07/ultima-hora-del-brote-de-hantavirus-en-el-crucero-mv-hondius-en-directo.html][Última hora del brote de Hantavirus, en directo | La compañía del crucero eleva a 30 los pasajeros del barco que bajaron antes de detectarse el brote]]
-- [[https://elpais.com/sociedad/2026-05-07/los-pasajeros-rastrean-el-origen-del-brote-de-hantavirus-aqui-se-dice-que-es-posible-que-fuera-el-matrimonio-holandes.html][Los pasajeros rastrean el origen del brote de hantavirus: “Aquí se dice que es posible que fuera el matrimonio holandés”]]
-- [[https://elpais.com/sociedad/2026-05-07/estos-son-los-ocho-casos-confirmados-y-sospechosos-de-hantavirus-del-crucero-mv-hondius.html][Estos son los ocho casos confirmados y sospechosos de hantavirus del crucero ‘MV Hondius’]]
+- [[https://elpais.com/sociedad/2026-05-07/ultima-hora-del-brote-de-hantavirus-en-el-crucero-mv-hondius-en-directo.html][Última hora del brote de hantavirus, en directo | La OMS confirma que cinco de los ocho casos sopechosos del barco han dado positivo en hantavirus]]
+- [[https://elpais.com/espana/2026-05-07/el-pp-aviva-la-guerra-politica-por-el-hantavirus-esto-es-un-caos-absoluto.html][El PP aviva la guerra política por el hantavirus mientras Moncloa intenta rebajar para que el barco pueda fondear en Canarias]]
+- [[https://elpais.com/videos/2026-05-07/todas-las-diferencias-entre-el-hantavirus-y-el-coronavirus.html][Todas las diferencias entre el Hantavirus y el Coronavirus]]
+- [[https://elpais.com/ciencia/2026-05-07/un-brote-de-2018-en-un-cumpleanos-con-11-muertos-muestra-que-el-hantavirus-de-los-andes-no-solo-se-transmite-por-contacto-estrecho.html][Un brote de 2018 en un cumpleaños con 11 muertos muestra que el hantavirus de los Andes no solo se transmite por contacto estrecho]]
 - [[https://elpais.com/sociedad/2026-05-07/como-se-ha-transmitido-el-hantavirus-explicacion-visual-del-brote-del-barco.html][¿Cómo se ha transmitido el hantavirus? Explicación visual del brote del barco]]
-- [[https://elpais.com/sociedad/2026-05-07/el-operativo-sanitario-cuando-el-crucero-con-el-brote-de-hantavirus-llegue-a-canarias-control-de-sintomas-en-el-puerto-repatriaciones-y-cuarentenas-en-madrid.html][El operativo sanitario cuando el crucero con el brote de hantavirus llegue a Canarias: control de síntomas en el puerto, repatriaciones y cuarentenas en Madrid]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/05/06/69fb8c9bfc6c8345138b458d.html][Mónica García impuso a Canarias la acogida del barco del hantavirus en dos llamadas de máxima tensión: "¿Qué es eso de que viene para acá?"]]
-- [[https://www.elmundo.es/espana/2026/05/07/69fc4d31e4d4d812318b4598.html][Canarias exige que el barco del hantavirus fondee lejos del puerto: "En ningún caso puede atracar"]]
-- [[https://www.elmundo.es/cronica/2026/05/06/69fb3ffe21efa052358b4593.html][Un muerto por hantavirus en la planta 3; bingo, pingüinos y gin&vodka fizz en la planta 5: así navegó el MV Hondius mientras avanzaba el brote mortal]]
-- [[https://www.elmundo.es/espana/2026/05/07/69fc5699e85ece91468b4593.html][Mónica García amenaza con imponer cuarentenas a los pasajeros españoles que no presten consentimiento para ello: "Apelamos al sentido común"]]
-- [[https://www.elmundo.es/ciencia-y-salud/salud/2026/05/06/69fb1a24fc6c833d238b458e.html][El dispositivo del Gobierno ante el hantavirus: evacuación en avión militar el lunes y 45 días de cuarentena "voluntaria" en el Gómez Ulla]]
+- [[https://www.elmundo.es/espana/2026/05/07/69fc4d31e4d4d812318b4598.html][Clavijo logra que el barco del hantavirus fondee lejos del puerto tras reunirse con dos ministros]]
+- [[https://www.elmundo.es/galicia/2026/05/07/69fc8ac6fdddff41558b459f.html][El ornitólogo gallego a bordo del barco infectado del hantavirus: "Vamos a pagar el pato de tanta ignorancia confinados en Madrid"]]
+- [[https://www.elmundo.es/espana/2026/05/07/69fc5699e85ece91468b4593.html][Mónica García amenaza ahora con imponer cuarentenas a los pasajeros españoles que no presten consentimiento para ello: "Apelamos al sentido común"]]
+- [[https://www.elmundo.es/ciencia-y-salud/salud/2026/05/07/69fc520a21efa04b408b45a1.html][Así fueron mis dos semanas de cuarentena en la planta 17 del Gómez Ulla al inicio de la pandemia de coronavirus]]
+- [[https://www.elmundo.es/deportes/futbol/2026/05/07/69fc905de85eceb1548b456e.html][Máxima tensión en el Madrid: Fede Valverde acaba en el hospital tras una pelea con Tchouaméni]]
 
 *** La Vanguardia
 
@@ -65,57 +65,57 @@
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/laboral/sindicato-csif-exige-retirada-ere-nestle-acusa-empresa-maquillar-situacion-financiera/20260507113616192573.html][El sindicato CSIF exige la retirada del ERE en Nestlé y acusa a la empresa de "maquillar" su situación financiera]]
-- [[https://eldiariocantabria.publico.es/articulo/deportes/antiviolencia-pide-fuertes-multas-seis-aficionados-racing-enfrentarse-policias-previa-burgos/20260507111438192572.html][Antiviolencia pide fuertes multas para seis aficionados del Racing por enfrentarse a policías en la previa del Burgos]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/ha-devuelto-hacienda-55100-cantabros-han-recibido-398-millones-primer-mes-campana/20260507110240192571.html][¿Ya te ha devuelto Hacienda? 55.100 cántabros ya han recibido 39,8 millones en el primer mes de campaña]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/investigado-cantabria-conductor-camion-cisterna-quintuplicar-tasa-alcohol/20260507104637192570.html][Investigado en Cantabria el conductor de un camión cisterna por quintuplicar la tasa de alcohol]]
-- [[https://eldiariocantabria.publico.es/articulo/comunicados/que-toda-empresa-necesita-consultora-tecnologica-crecer/20260507104003192568.html][Por qué toda empresa necesita una consultora tecnológica para crecer]]
+- [[https://eldiariocantabria.publico.es/articulo/politica/concluyen-obras-refuerzo-seguridad-16-tuneles-carreteras-estado-cantabria/20260507175734192598.html][Concluyen las obras de refuerzo de la seguridad en los 16 túneles de las carreteras del Estado en Cantabria]]
+- [[https://eldiariocantabria.publico.es/articulo/politica/pctcan-encuentra-practicamente-100-compra-parcela-google/20260507175041192597.html][El PCTCAN se encuentra “prácticamente al 100%” tras la compra de la parcela de Google]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/nace-colectivo-defensa-sanidad-publica-concienciar-retroceso-que-sufriendo-atencion-cantabria/20260507173548192594.html][Nace el colectivo en Defensa de la Sanidad Pública para “concienciar del retroceso que está sufriendo la atención” a pacientes en Cantabria]]
+- [[https://eldiariocantabria.publico.es/articulo/deportes/sector-estatal-infantil-balonmano-llega-torrelavega-primera-vez-fin-semana/20260507171718192592.html][El Sector Estatal Infantil de Balonmano llega a Torrelavega por primera vez durante este fin de semana]]
+- [[https://eldiariocantabria.publico.es/articulo/cultura/conferencia-asociaciones-escritoras-escritores-reunira-14-agrupaciones-autores-potes-dias-10-11-mayo/20260507164610192588.html][La Conferencia de Asociaciones de Escritoras y Escritores reunirá 14 agrupaciones de autores en Potes los días 10 y 11 de mayo]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/national-security/2026/05/07/cia-intelligence-iran-trump-blockade-missiles/][U.S. intelligence says Iran can outlast Trump’s Hormuz blockade for months]]
+- [[https://www.washingtonpost.com/investigations/2026/05/07/iran-blockade-oil-ship-transfers/][As U.S. blockades Iran, its oil still flows ship to ship an ocean away]]
 - [[https://www.washingtonpost.com/world/2026/05/07/trump-pope-leo-rubio-rift/][Rubio visits Rome aiming to repair White House ties with Pope Leo]]
-- [[https://www.washingtonpost.com/national-security/2026/05/07/trump-xi-us-china-summit-iran/][Trump and Xi set to meet under shadow of Iran negotiations]]
 - [[https://www.washingtonpost.com/world/2026/05/07/israel-ukraine-grain-russia-iran/][Grain dispute splits Ukraine and Israel even as they fight allied enemies]]
 - [[https://www.washingtonpost.com/world/2026/05/06/israel-hezbollah-radwan-beirut-attack-haret-hreik/][Israel strikes Beirut suburbs, threatening already shaky ceasefire]]
-- [[https://www.washingtonpost.com/world/2026/05/05/hegseth-briefing-iran-strait-hormuz-ceasefire/][Trump threatens intense bombing if Iran peace deal is not reached]]
 
 *** WSJ.com: World News
 
-- [[https://www.wsj.com/world/russia/putins-strongman-image-is-fading-as-ukraine-brings-war-home-to-russia-985ec454][Putin’s Strongman Image Is Fading as Ukraine Brings War Home to Russia]]
-- [[https://www.wsj.com/world/india/india-is-increasingly-ruled-by-a-single-partymodis-c6f616e9][India Is Increasingly Ruled by a Single Party—Modi’s]]
-- [[https://www.wsj.com/world/china/u-s-and-china-pursue-guardrails-to-stop-ai-rivalry-from-spiraling-into-crisis-4c50bd70][U.S. and China Pursue Guardrails to Stop AI Rivalry From Spiraling Into Crisis]]
+- [[https://www.wsj.com/world/middle-east/u-s-to-sanction-iraqi-official-over-allegedly-aiding-iranian-oil-sales-7ca16548][U.S. Sanctions Iraqi Official Over Allegedly Aiding Iranian Oil Sales]]
+- [[https://www.wsj.com/world/europe/marco-rubio-meeting-pope-leo-giorgia-meloni-703c5323][In Rome, Rubio Tries to Calm Waters After Trump-Pope Tensions]]
+- [[https://www.wsj.com/world/europe/the-surprising-x-factor-in-britains-local-elections-gaza-8e78f748][The Surprising X Factor in Britain’s Local Elections: Gaza]]
+- [[https://www.wsj.com/world/china/china-hands-suspended-death-sentences-to-former-defense-ministers-for-corruption-6802b078][China Hands Suspended Death Sentences to Former Defense Ministers for Corruption]]
 - [[https://www.wsj.com/health/hantavirus-contact-tracing-cruise-ship-3a9afe33][Inside the Global Effort to Figure Out Where Hantavirus Will Strike Next]]
-- [[https://www.wsj.com/world/middle-east/over-20-000-sailors-are-trapped-in-the-strait-of-hormuz-this-is-who-they-call-2bb8ac1a][Over 20,000 Sailors Are Stranded by the Iran War. This Is Who They Call.]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/sante/live/2026/05/07/en-direct-hantavirus-sur-un-navire-de-croisiere-le-debut-de-l-evacuation-des-passagers-prevu-lundi-aux-iles-canaries-deux-passagers-de-retour-au-royaume-uni-invites-a-se-confiner_6686093_1651302.html][EN DIRECT, hantavirus sur un navire de croisière : mode de transmission, létalité, espèce Andes… Delphine Roucaute, journaliste spécialiste des enjeux de santé au « Monde », répond à vos questions]]
-- [[https://www.lemonde.fr/international/article/2026/05/07/aux-etats-unis-marco-rubio-essaye-de-donner-un-sens-a-la-politique-erratique-de-donald-trump-en-iran_6686448_3210.html][Aux Etats-Unis, Marco Rubio essaie de donner un sens à la politique erratique de Donald Trump en Iran]]
-- [[https://www.lemonde.fr/education/article/2026/05/07/le-reseau-d-ecoles-excellence-ruralites-liees-a-la-galaxie-reactionnaire-de-pierre-edouard-sterin-dans-le-viseur-de-l-etat_6686520_1473685.html][Le réseau d’écoles Excellence Ruralités, liées à la galaxie réactionnaire de Pierre-Edouard Stérin, dans le viseur de l’Etat]]
-- [[https://www.lemonde.fr/societe/article/2026/05/07/dany-leprince-la-cour-de-revision-examine-une-possible-reouverture-du-dossier-du-quadruple-meurtre-en-1994-dans-la-sarthe_6686534_3224.html][Dany Leprince : la Cour de révision examine une possible réouverture du dossier du quadruple meurtre en 1994 dans la Sarthe]]
-- [[https://www.lemonde.fr/economie/article/2026/05/07/derriere-l-ebullition-dans-le-secteur-des-drones-militaires-en-france-une-montee-en-puissance-incertaine_6686531_3234.html][Derrière l’ébullition dans le secteur des drones militaires en France, une montée en puissance incertaine]]
+- [[https://www.lemonde.fr/economie-francaise/article/2026/05/07/comment-la-france-a-perdu-les-trois-quarts-de-ses-raffineries-de-petrole-en-un-demi-siecle_6686446_1656968.html][Comment la France a perdu les trois quarts de ses raffineries de pétrole en un demi-siècle]]
+- [[https://www.lemonde.fr/sante/live/2026/05/07/en-direct-hantavirus-sur-un-navire-de-croisiere-cinq-cas-confirmes-a-ce-jour-selon-le-chef-de-l-oms-qui-juge-possible-que-d-autres-personnes-soient-signalees_6686093_1651302.html][EN DIRECT, hantavirus sur un navire de croisière : cinq cas confirmés à ce jour, selon le chef de l’OMS, qui juge « possible » que d’autres personnes soient signalées]]
+- [[https://www.lemonde.fr/pixels/article/2026/05/07/elon-musk-vise-par-une-information-judiciaire-francaise-concernant-son-reseau-social-x_6686569_4408996.html][Elon Musk visé par une information judiciaire française concernant son réseau social X]]
+- [[https://www.lemonde.fr/politique/article/2026/05/07/le-rassemblement-national-conteste-les-accusations-sur-le-media-training-de-jordan-bardella_6686580_823448.html][Le Rassemblement national conteste les accusations sur le « média training » de Jordan Bardella]]
+- [[https://www.lemonde.fr/economie/article/2026/05/07/le-journal-liberation-nomme-sonia-delesalle-stolper-a-la-direction-de-la-redaction_6686566_3234.html][Le journal « Libération » nomme Sonia Delesalle-Stolper directrice de la rédaction, la première femme à accéder à ce poste]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/politique/empecher-un-second-tour-qui-sera-terrible-attal-donne-rendez-vous-a-philippe-debut-2027-20260507][«Empêcher un second tour qui sera terrible» : Attal donne rendez-vous à Philippe «début 2027»]]
-- [[https://www.lefigaro.fr/politique/les-francais-ne-nous-pardonneraient-pas-toute-forme-de-division-inutile-en-plein-divorce-borne-attal-lecornu-tente-de-ressouder-ses-troupes-20260506][«Les Français ne nous pardonneraient pas toute forme de division inutile» : en plein divorce Borne-Attal, Lecornu tente de ressouder ses troupes]]
-- [[https://www.lefigaro.fr/sports/football/ligue-des-champions/bayern-psg-historique-mode-guerrier-olise-invisible-coups-de-coeur-et-coups-de-griffe-20260507][Bayern-PSG : historique, mode guerrier, Olise invisible… Coups de cœur et coups de griffe]]
-- [[https://www.lefigaro.fr/sports/football/ligue-des-champions/bete-noire-grande-maturite-la-presse-europeenne-encense-le-psg-apres-la-qualification-pour-la-finale-20260507][«Bête noire», «grande maturité», la presse européenne encense le PSG après la qualification pour la finale]]
-- [[https://www.lefigaro.fr/sports/football/ligue-des-champions/qualification-du-psg-en-finale-de-ligue-des-champions-posez-vos-questions-a-notre-envoye-special-20260507][Qualification du PSG en finale de Ligue des champions : posez vos questions à notre envoyé spécial]]
+- [[https://www.lefigaro.fr/sciences/en-direct-hantavirus-un-patient-infecte-soigne-en-suisse-le-bateau-de-croisiere-toujours-au-large-du-cap-vert-20260506][EN DIRECT - Hantavirus : ce n’est ni «le début d’une épidémie», ni celui «d’une pandémie», assure l’OMS]]
+- [[https://www.lefigaro.fr/sciences/origine-transmission-symptomes-letalite-tout-comprendre-a-l-hantavirus-en-six-infographies-20260506][Origine, transmission, symptômes, létalité... Tout comprendre à l’hantavirus en six infographies]]
+- [[https://www.lefigaro.fr/faits-divers/collegienne-tuee-a-l-arme-blanche-dans-l-aisne-le-suspect-a-reconnu-les-faits-20260507][Collégienne tuée à l’arme blanche dans l’Aisne : le suspect a reconnu les faits]]
+- [[https://www.lefigaro.fr/faits-divers/aisne-une-collegienne-de-14-ans-tuee-a-l-arme-blanche-en-pleine-rue-20260506][Aisne : une collégienne de 14 ans tuée à l’arme blanche en pleine rue]]
+- [[https://www.lefigaro.fr/sciences/l-an-dernier-un-megatsunami-de-480-metres-de-haut-a-frappe-les-cotes-de-l-alaska-20260506][Ce mégatsunami de 480 mètres de haut qui a frappé les côtes de l’Alaska]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss][Hantavirus-hit cruise ship on way to Canary Islands after three evacuated]]
+- [[https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss][Race to trace passengers who left hantavirus cruise ship at island]]
+- [[https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss][Three women linked to Islamic State arrested in Australia on return from Syria]]
+- [[https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&at_campaign=rss][Fears of renewed Gaza war as Hamas disarmament talks stall]]
+- [[https://www.bbc.com/news/articles/cd7pd0rqwreo?at_medium=RSS&at_campaign=rss][US judge releases Jeffrey Epstein's purported suicide note]]
 - [[https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss][Iran considering US proposal as Trump says war will be 'over quickly']]
-- [[https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss][Islamic State-linked women arrive home in Australia from Syria]]
-- [[https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss][Shell latest oil giant to see profits surge due to Iran war impact]]
-- [[https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss][Israel strikes Beirut for first time since Hezbollah ceasefire]]
 
 *** The Guardian
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/il-cortocircuito-dell-invecchiamento-ora-anche-colf-e-badanti-sono-anziani-nel-2029-ne-serviranno-22-milioni-AIxH3AuC][Il cortocircuito dell’invecchiamento: ora anche colf e badanti sono anziani. «Nel 2029 ne serviranno 2,2 milioni»]]
-- [[https://www.ilsole24ore.com/art/il-papa-chiama-servizio-clienti-sua-banca-ma-nessuno-crede-AIz1cMvC][Il Papa chiama il servizio clienti della sua banca ma nessuno gli crede]]
-- [[https://www.ilsole24ore.com/art/papa-leone-oggi-vede-rubio-chiesa-e-parte-vittime-guerra-AIM75KvC][Papa Leone vede Rubio, il segretario di Stato Usa in Vaticano]]
-- [[https://www.ilsole24ore.com/art/uno-bianca-sette-anni-terrore-rapine-e-morti-ecco-perche-banda-e-tornata-centro-dell-attenzione-AIl5TiuC][Uno Bianca, sette anni di terrore tra rapine e morti. Ecco perché la Banda è tornata al centro dell’attenzione]]
-- [[https://www.ilsole24ore.com/art/dal-vetro-murano-prodotti-pelle-il-decreto-igp-artigianali-2026-oggi-entra-vigore-sigillo-ecco-come-funziona-AIJ8q9tC][Dai vetri di Murano alle ceramiche, in vigore il logo Igp per industria e artigianato: ecco come richiederlo]]
+- [[https://www.ilsole24ore.com/art/con-smart-working-possibile-taglio-emissioni-co2-75percento-AI8lD5vC][Con lo smart working possibile taglio alle emissioni di CO2 del 75%]]
+- [[https://www.ilsole24ore.com/art/caso-claudia-conte-ministro-piantedosi-querela-dagospia-replica-e-solo-giornalismo-AI81egvC][Caso Claudia Conte, il ministro Piantedosi querela Dagospia. La replica: «È solo giornalismo»]]
+- [[https://www.ilsole24ore.com/art/crisi-hormuz-tajani-nasce-roma-coalizione-che-si-occupera-sicurezza-alimentare-e-fertilizzanti-AIzJtnvC][Crisi di Hormuz, Tajani: «Nasce a Roma una coalizione che si occuperà di sicurezza alimentare e fertilizzanti»]]
+- [[https://www.ilsole24ore.com/art/auto-l-italia-ha-record-europeo-700-vetture-ogni-mille-abitanti-AIfL6ivC][Auto, l’Italia ha il record europeo: 700 vetture ogni mille abitanti]]
+- [[https://www.ilsole24ore.com/art/incentivi-riforma-rinviata-manovra-mimit-contro-ragioneria-AIioHytC][Incentivi, riforma rinviata alla manovra.  Mimit contro Ragioneria]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/south-africa-a-timeline-of-recurring-waves-of-xenophobic-violence/a-77077874?maca=en-rss-en-world-4025-rdf][South Africa: A timeline of recurring waves of xenophobic violence]]
+- [[https://www.dw.com/en/austria-police-report-3-dead-in-shooting-in-linz-say-no-further-danger-to-public/a-77081505?maca=en-rss-en-world-4025-rdf][Austria: Police report 3 dead in shooting in Linz, say no further danger to public]]
+- [[https://www.dw.com/en/is-russian-oil-becoming-a-lifeline-for-southeast-asia/a-77079277?maca=en-rss-en-world-4025-rdf][Is Russian oil becoming a lifeline for Southeast Asia?]]
 - [[https://www.dw.com/en/eu-reaches-tentative-deal-on-simpler-ai-rules-plans-ban-on-nudifier-apps/a-77073411?maca=en-rss-en-world-4025-rdf][EU reaches tentative deal on simpler AI rules, plans ban on 'nudifier' apps]]
 - [[https://www.dw.com/en/dark-patterns-investigating-online-manipulation/a-77072137?maca=en-rss-en-world-4025-rdf]['Dark patterns': Investigating online manipulation]]
-- [[https://www.dw.com/en/uk-votes-in-key-local-and-regional-elections/a-77073410?maca=en-rss-en-world-4025-rdf][UK votes in key local and regional elections]]
-- [[https://www.dw.com/en/us-new-york-judge-makes-alleged-esptein-suicide-note-public/a-77072765?maca=en-rss-en-world-4025-rdf][US: New York judge makes alleged Esptein suicide note public]]
-- [[https://www.dw.com/en/myanmar-what-s-behind-suu-kyi-s-transfer-to-house-arrest/a-77066625?maca=en-rss-en-world-4025-rdf][Myanmar: What's behind Suu Kyi's transfer to house arrest?]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/com-trump-e-divida-publica-em-alta-investidores-fogem-dos-eua.shtml][Com Trump e dívida pública em alta, investidores fogem dos EUA]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/flavio-escala-tropa-de-choque-de-parlamentares-influenciadores-contra-fake-news.shtml][Flávio escala tropa de choque de parlamentares influenciadores contra 'fake news']]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/coronel-preso-sob-suspeita-da-morte-da-pm-gisele-e-denunciado-a-corregedoria-por-suposto-assedio-a-soldado.shtml][Coronel preso sob suspeita da morte da PM Gisele é denunciado à Corregedoria por suposto assédio a soldado]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/05/com-481-metros-tsunami-no-alasca-e-o-segundo-maior-ja-registrado.shtml][Com 481 metros, tsunami no Alasca é o segundo maior já registrado]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/05/confianca-do-consumidor-paulistano-recua-com-juros-altos-e-inflacao.shtml][Confiança do consumidor paulistano recua com juros altos e inflação]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/05/filho-de-murilo-benicio-e-giovanna-antonelli-surpreende-globo-nos-bastidores-de-novela.shtml][Filho de Murilo Benício e Giovanna Antonelli surpreende Globo nos bastidores de novela]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/lula-busca-encerrar-escala-6x1-e-fazer-o-que-ford-criou-ha-cem-anos.shtml][Lula busca encerrar escala 6x1 e fazer o que Ford criou há cem anos]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/05/pepita-se-casa-em-cerimonia-produzida-pelo-programa-fabrica-de-casamentos.shtml][Pepita se casa em cerimônia produzida pelo programa Fábrica de Casamentos]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/entidades-articulam-campanha-para-indicacao-de-mulher-negra-ao-stf.shtml][Entidades articulam campanha para indicação de mulher negra ao STF]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/05/gestao-nunes-tem-30-dias-para-apresentar-plano-contra-queda-de-matriculas-na-eja.shtml][Gestão Nunes tem 30 dias para apresentar plano contra queda de matrículas na EJA]]
 
 *** O Globo
 
