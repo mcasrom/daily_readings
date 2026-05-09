@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 42.9°C | ⚖ Load: 0.40 | 🌐 Ping: 8.91ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 42.9°C | ⚖ Load: 0.00 | 🌐 Ping: 9.33ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,11 +49,11 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/ciencia-y-salud/salud/2026/05/08/69fdeb55e4d4d8260f8b459a.html][Aislamiento con presión negativa y pruebas cada 24 horas: así es el protocolo de actuación ante casos sospechosos de hantavirus, como el detectado en Alicante]]
-- [[https://www.elmundo.es/economia/empresas/2026/05/08/69fe1f66e4d4d85f038b45b2.html][Moderna anuncia trabajos para desarrollar una vacuna contra el hantavirus y repunta un 14% en bolsa]]
-- [[https://www.elmundo.es/espana/2026/05/08/69fe155bfdddff51338b458a.html][Leo y Mirjam, los ornitólogos holandeses a bordo del  MV Hondius convertidos en pacientes cero del hantavirus]]
-- [[https://www.elmundo.es/ciencia-y-salud/salud/2026/05/08/69fe41f2e4d4d8334d8b45b0.html][Tierra del Fuego niega que el contagio de hantavirus se haya producido allí: "Hay una campaña de desprestigio"]]
-- [[https://www.elmundo.es/ciencia-y-salud/salud/2026/05/07/69fc752be9cf4a901f8b45a7.html][Los ocho casos confirmados de hantavirus demuestran que no es necesario un contacto muy estrecho para el contagio]]
+- [[https://www.elmundo.es/ciencia-y-salud/salud/2026/05/08/69fdd269e9cf4a2e798b4582.html][El caso sospechoso de Alicante amenaza el cerco al hantavirus]]
+- [[https://www.elmundo.es/pais-vasco/2026/05/09/69fe3849fdddffde588b45ac.html][El Gobierno vasco desoye a la Justicia y deja en semilibertad al asesino de Joseba Pagaza]]
+- [[https://www.elmundo.es/espana/2026/05/08/69fe2c8bfdddff29458b4590.html][Los correos del Hospital Gómez Ulla a Sanidad por el hantavirus: "Podemos atender a dos pacientes críticos"]]
+- [[https://www.elmundo.es/espana/2026/05/08/69fe36e221efa0752c8b45b1.html][Del crucero a una zódiac y en autobús al avión: cuenta atrás para el desembarco en Tenerife]]
+- [[https://www.elmundo.es/madrid/2026/05/09/69fe22dae9cf4ac6428b4582.html][Una planta vacía para "los 14" del barco del hantavirus en el Gómez Ulla, pero los sindicatos lamentan la falta de personal: "Esto puede ser un cóctel molotov"]]
 
 *** La Vanguardia
 
@@ -83,19 +83,19 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/china/chinas-export-growth-accelerated-in-april-49032b3b][China’s Export Growth Accelerated in April]]
+- [[https://www.wsj.com/world/europe/europeans-are-fed-up-and-taking-it-out-on-their-leaders-a96f16d5][Europeans Are Fed Up and Taking It Out on Their Leaders]]
+- [[https://www.wsj.com/world/middle-east/iran-us-ceasefire-deal-gulf-countries-9402cac4][Muted U.S. Response to Iranian Attacks Deepens Gulf Fears About Cease-Fire]]
+- [[https://www.wsj.com/world/middle-east/iran-hormuz-sailors-ships-stranded-07f792a7][Trapped in the Strait: The Sailors Low on Supplies and Stuck in a War Zone]]
 - [[https://www.wsj.com/world/russia-and-ukraine-agree-to-three-day-ceasefire-trump-says-a2b9d4f4][Russia and Ukraine Agree to Three-Day Ceasefire, Trump Says]]
-- [[https://www.wsj.com/world/middle-east/iran-war-internet-memes-2c77e734][How Iran Is Gaining Ground in the Information War]]
-- [[https://www.wsj.com/world/uk/u-k-s-starmer-jolted-by-anti-immigration-party-in-local-elections-f3516fd0][U.K.’s Starmer Is Jolted by Anti-Immigration Party in Local Elections]]
-- [[https://www.wsj.com/world/europe/rubio-challenges-european-allies-to-make-nato-more-useful-5a1f9bc5][Rubio Challenges European Allies to Make NATO More Useful]]
-- [[https://www.wsj.com/world/asia/north-koreas-new-nuclear-capable-warship-poses-fresh-threat-to-south-korea-u-s-30ddf311][North Korea’s New Nuclear-Capable Warship Poses Fresh Threat to South Korea, U.S.]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/05/08/en-direct-guerre-en-ukraine-donald-trump-annonce-un-cessez-le-feu-de-trois-jours-entre-l-ukraine-et-la-russie-a-partir-de-samedi_6684995_3210.html][EN DIRECT, guerre en Ukraine : Moscou et Kiev confirment le cessez-le-feu de trois jours annoncé par Donald Trump]]
-- [[https://www.lemonde.fr/societe/article/2026/05/08/hantavirus-comment-le-systeme-sanitaire-et-les-etablissements-de-sante-de-reference-francais-se-preparent_6687083_3224.html][Hantavirus : comment le système sanitaire et les établissements de santé de référence français se préparent]]
-- [[https://www.lemonde.fr/economie/article/2026/05/08/le-yoyo-irrationnel-des-marches-petroliers-suspendus-aux-propos-de-donald-trump_6687094_3234.html][Le yoyo irrationnel des marchés pétroliers, suspendus aux propos de Donald Trump]]
+- [[https://www.lemonde.fr/international/live/2026/05/09/en-direct-guerre-au-moyen-orient-une-maree-noire-a-ete-reperee-au-large-de-l-ile-de-kharg-en-iran_6686485_3210.html][EN DIRECT, guerre au Moyen-Orient : une marée noire a été repérée au large de l’île de Kharg, en Iran]]
+- [[https://www.lemonde.fr/international/article/2026/05/09/elon-musk-insulte-les-magistrats-francais-charges-d-enqueter-sur-de-possibles-abus-de-son-reseau-social-x_6687244_3210.html][Elon Musk insulte les magistrats français chargés d’enquêter sur de possibles abus de son réseau social X]]
+- [[https://www.lemonde.fr/sante/live/2026/05/09/en-direct-hantavirus-le-nombre-de-cas-confirmes-s-eleve-a-six-annonce-l-oms_6686093_1651302.html][EN DIRECT, hantavirus : le nombre de cas confirmés s’élève à six, annonce l’OMS]]
 - [[https://www.lemonde.fr/politique/article/2026/05/08/boris-vallaud-et-l-ensemble-de-son-courant-quittent-la-direction-du-ps_6687090_823448.html][Boris Vallaud et l’ensemble de son courant quittent la direction du PS]]
 - [[https://www.lemonde.fr/international/article/2026/05/08/elections-locales-au-royaume-uni-percee-historique-de-la-droite-radicale-effondrement-des-travaillistes-et-fin-du-bipartisme_6687097_3210.html][Elections locales au Royaume-Uni : percée historique de la droite radicale, effondrement des travaillistes et fin du bipartisme]]
 
@@ -105,7 +105,7 @@
 - [[https://www.lefigaro.fr/faits-divers/un-ukrainien-soupconne-de-tortures-dans-la-prison-d-izoliatsia-ecroue-en-france-pour-crimes-contre-l-humanite-20260508][Un Ukrainien soupçonné de tortures dans la prison d’Izoliatsia écroué en France pour crimes contre l’humanité]]
 - [[https://www.lefigaro.fr/international/ukraine-les-images-de-l-important-feu-de-foret-qui-se-propage-dans-la-zone-radioactive-de-tchernobyl-apres-la-chute-d-un-drone-20260508][Ukraine : les images de l’important feu de forêt qui se propage dans la zone radioactive de Tchernobyl après la chute d’un drone]]
 - [[https://www.lefigaro.fr/vox/monde/l-editorial-de-philippe-gelie-pour-l-ukraine-guerre-oubliee-n-est-pas-perdue-20260508][L’éditorial de Philippe Gélie : «Pour l’Ukraine, guerre oubliée n’est pas perdue»]]
-- [[https://www.lefigaro.fr/international/on-a-laisse-tomber-les-mitrailleuses-elles-ne-servent-plus-a-rien-en-ukraine-ces-intercepteurs-qui-revolutionnent-la-defense-antidrones-20260508][«On a laissé tomber les mitrailleuses, elles ne servent plus à rien» : en Ukraine, ces intercepteurs qui révolutionnent la défense antidrones]]
+- [[https://www.lefigaro.fr/sciences/en-direct-hantavirus-bateau-de-croisiere-mv-hondius-cas-contact-cap-vert-tenerife-canaries-20260508][EN DIRECT - Hantavirus : six cas confirmés à ce jour, selon l’OMS]]
 
 ** 🇬🇧 Reino Unido
 
@@ -113,9 +113,9 @@
 
 - [[https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss][Iran accuses US of 'reckless military adventure']]
 - [[https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss][Trump says Russia and Ukraine to observe three-day ceasefire]]
-- [[https://www.bbc.com/news/articles/clyp1505p84o?at_medium=RSS&at_campaign=rss][Worldwide race to trace passengers from hantavirus-hit cruise ship]]
+- [[https://www.bbc.com/news/articles/c5y0gkg038yo?at_medium=RSS&at_campaign=rss][Anger and resignation in Tenerife as hantavirus ship approaches]]
 - [[https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss][Greece examines mystery naval drone found in Ionian Sea]]
-- [[https://www.bbc.com/news/articles/c4g723pkgllo?at_medium=RSS&at_campaign=rss][White House calls Mark Hamill 'sick' after actor's Trump grave post]]
+- [[https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&at_campaign=rss][Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon]]
 
 *** The Guardian
 
@@ -165,11 +165,11 @@
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/05/congestionamento-no-ceu-de-brasilia.shtml][Congestionamento no céu de Brasília]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/05/lula-diz-que-se-uma-mulher-batesse-em-um-homem-ele-nao-contaria-por-vergonha.shtml][Lula diz que se uma mulher batesse em um homem, ele não contaria por vergonha]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/05/angelina-jolie-poe-imovel-historico-de-r-147-milhoes-a-venda-e-planeja-deixar-hollywood.shtml][Angelina Jolie põe imóvel histórico de R$ 147 milhões à venda e planeja deixar Hollywood]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/stf-forma-maioria-para-manter-o-prefeito-de-sorocaba-sp-no-cargo.shtml][STF forma maioria para manter o prefeito de Sorocaba no cargo]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/05/nicholas-galitzine-e-camila-mendes-vao-visitar-sp-para-promover-live-action-de-he-man.shtml][Nicholas Galitzine e Camila Mendes vão visitar SP para promover live-action de He-Man]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/05/morte-acende-alerta-sobre-coleta-de-ovulos-entenda-os-riscos-do-procedimento.shtml][Morte acende alerta sobre coleta de óvulos; entenda os riscos do procedimento]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/nao-se-resolve-crime-organizado-no-prazo-de-processo-eleitoral-diz-procurador-eleitoral-de-sp.shtml]['Não se resolve crime organizado no prazo de processo eleitoral', diz procurador eleitoral de SP]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/05/meryl-streep-negociou-cache-igual-para-protagonistas-de-o-diabo-veste-prada-2.shtml][Meryl Streep negociou cachê igual para protagonistas de 'O Diabo Veste Prada 2']]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/05/universidades-precisam-trocar-prestigio-por-impacto-no-mundo-real-diz-professor-sul-coreano.shtml][Universidades precisam trocar prestígio por impacto no mundo real, diz professor sul-coreano]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/zema-reforca-aceno-a-eleitorado-bolsonarista-a-partir-de-operacao-da-pf-contra-ciro-nogueira.shtml][Zema reforça aceno a eleitorado bolsonarista a partir de operação da PF contra Ciro Nogueira]]
 
 *** O Globo
 
