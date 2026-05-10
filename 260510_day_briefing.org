@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 42.9°C | ⚖ Load: 0.56 | 🌐 Ping: 9.05ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 42.9°C | ⚖ Load: 0.00 | 🌐 Ping: 9.68ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,35 +41,35 @@
 
 *** El País
 
-- [[https://elpais.com/sociedad/2026-05-10/ultima-hora-del-brote-de-hantavirus-en-directo.html][Última hora del brote de hantavirus, en directo | Los 14 pasajeros españoles del ‘MV Hondius’ llegan al aeropuerto de Tenerife Sur]]
+- [[https://elpais.com/sociedad/2026-05-10/ultima-hora-del-brote-de-hantavirus-en-directo.html][Última hora del brote de hantavirus, en directo | Los pasajeros españoles evacuados del ‘MV Hondius’ llegan al Hospital Gómez Ulla de Madrid]]
+- [[https://elpais.com/sociedad/2026-05-10/el-gomez-ulla-vuelve-a-primera-linea-asi-recibira-a-los-pasajeros-espanoles-del-crucero-del-hantavirus.html][El Gómez Ulla vuelve a primera línea: así vigilará a los pasajeros españoles del crucero del hantavirus]]
 - [[https://elpais.com/sociedad/2026-05-10/el-misterio-de-los-ratones-nadadores-que-estuvo-a-punto-de-bloquear-una-operacion-internacional-de-la-oms.html][El misterio de los ratones nadadores que estuvo a punto de bloquear una operación internacional de la OMS]]
 - [[https://elpais.com/sociedad/2026-05-10/el-gobierno-impone-a-canarias-la-acogida-del-crucero-mv-hondius-ante-la-negativa-de-clavijo-de-autorizar-el-fondeo.html][El Gobierno impone a Canarias la acogida del crucero ‘MV Hondius’ ante la negativa de Clavijo de autorizar el fondeo]]
 - [[https://elpais.com/sociedad/2026-05-10/muerto-a-bordo-los-cabos-sueltos-de-la-gestion-de-la-crisis-del-crucero-del-hantavirus.html][Muerto a bordo: los cabos sueltos de la gestión de la crisis del crucero del hantavirus]]
-- [[https://elpais.com/sociedad/2026-05-09/cuarenta-dias-a-bordo-del-mv-hondius-asi-se-vivio-desde-dentro-la-crisis-del-hantavirus-en-la-odisea-del-atlantico.html][Cuarenta días a bordo del ‘MV Hondius’: así se vivió desde dentro la crisis del hantavirus en la ‘Odisea del Atlántico’]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/05/10/69ffafd2e85eceb2488b456d.html][Desembarco del MV Hondius bajo alta tensión política en Tenerife:  se realizará sin autorización de Clavijo tras negarse a que permanezca  el barco más de 12 horas]]
-- [[https://www.elmundo.es/espana/2026/05/09/69ff5d9ae4d4d831028b4572.html][Una crisis 'obligada' para Sánchez: "Pedro no podía negarse a acoger el barco del hantavirus"]]
+- [[https://www.elmundo.es/espana/2026/05/10/6a005f2bfdddffb43b8b456e.html][Sánchez vende la gestión de su Gobierno aprovechando el foco por la crisis del hantavirus: "España cumple con los suyos y con el resto del mundo"]]
+- [[https://www.elmundo.es/espana/2026/05/10/69ffafd2e85eceb2488b456d.html][Desembarco bajo  tensión: se realiza con la oposición de Clavijo y Mónica García advierte de que "las polémicas están alejadas de la preservación de la salud pública"]]
+- [[https://www.elmundo.es/ciencia-y-salud/salud/2026/05/10/6a007cdbe9cf4ab1058b4588.html][Si hubiera roedores portadores de hantavirus en el barco, ¿podrían infectar a roedores locales?]]
 - [[https://www.elmundo.es/espana/2026/05/10/69ff7a10e9cf4a946d8b456f.html][Mandos de la Guardia Civil desmontan a Marlaska: "No fue un accidente, las narcolanchas provocaron el choque de las patrulleras"]]
-- [[https://www.elmundo.es/ciencia-y-salud/salud/2026/05/09/69ff3839e9cf4a2e798b45b3.html][Cinco fantasmas del covid que ha despertado el hantavirus: las situaciones y escenarios que se repiten seis años después]]
-- [[https://www.elmundo.es/papel/historias/2026/05/09/69fe2317e4d4d85f038b45b9.html][Borja Sémper regresa tras superar el cáncer: "La muerte me persigue desde hace años... pero de momento yo corro más"]]
+- [[https://www.elmundo.es/cronica/2026/05/09/69fe4d63e4d4d8260f8b45b7.html][La epopeya de los Repetto, los primeros confinados por el hantavirus en Tristán de Acuña y Santa Elena, las islas del confinamiento eterno]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/vida/20260510/11534264/despliegue-inedito-cercar-brote-hantavirus-hondius-espana.html][Despliegue inédito para cercar el brote de hantavirus del ‘Hondius’ en España]]
-- [[https://www.lavanguardia.com/vida/20260509/11534239/oms-dirige-sociedad-canaria-tranquilizarla-esto-covid-19.html][La OMS se dirige a la sociedad canaria para calmarla: “Esto no es otra covid-19”]]
-- [[https://www.lavanguardia.com/ciencia/20260509/11533643/aparecen-mas-casos-hantavirus-asusten.html][Si aparecen más casos de hantavirus, no se asusten]]
-- [[https://www.lavanguardia.com/vida/20260509/11534053/primer-contacto-catalunya-victima-hantavirus-vive-barcelona.html][El primer contacto en Catalunya de una víctima de hantavirus vive en Barcelona]]
-- [[https://www.lavanguardia.com/vida/20260509/11534201/brote-hantavirus-crucero-mv-hondius-que-como-contagia-nuevo-covid.html][El brote de hantavirus del crucero MV Hondius: qué es, cómo se contagia y por qué no es un nuevo COVID]]
+- [[https://www.lavanguardia.com/vida/20260510/11534535/hantavirus-crucero-mv-hondius-cuarentena-canarias-ultima-hora-hoy-en-directo.html][Los 14 españoles del crucero con un brote de hantavirus ya vuelan hacia el hospital de Madrid]]
+- [[https://www.lavanguardia.com/vida/20260509/11534244/que-pasara-proximas-horas-mv-hondius-llegue-tenerife.html][Así será el desembarco del Hondius: control de posibles síntomas de hantavirus, estrictas medidas sanitarias y evacuación en aviones]]
+- [[https://www.lavanguardia.com/vida/20260510/11534261/hantavirus-covid.html][Por qué el hantavirus no es como la covid]]
+- [[https://www.lavanguardia.com/local/valencia/20260510/11534565/sanidad-repite-pcr-mujer-ingresada-alicante-confirmar-negativo-hantavirus.html][Sanidad repite la PCR a la mujer ingresada en Alicante para confirmar el negativo por Hantavirus]]
+- [[https://www.lavanguardia.com/vida/20260510/11534535/hantavirus-crucero-mv-hondius-cuarentena-canarias-ultima-hora-hoy-en-directo.html][Los 14 españoles del crucero con un brote de hantavirus ya vuelan hacia el hospital de Madrid]]
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/politica/prioridad-nacional-vox-llega-parlamento-cantabria/20260510114522192708.html][La ‘prioridad nacional’ de Vox llega al Parlamento de Cantabria]]
-- [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/millar-personas-asisten-xxxiv-gala-deporte-que-homenajea-club-montana-federico-cobo/20260509210815192706.html][Un millar de personas asisten a la XXXIV Gala del Deporte, que homenajea al Club de Montaña y a Federico Cobo]]
-- [[https://eldiariocantabria.publico.es/articulo/deportes/triunfo-avasallamiento-naranja/20260509204102192703.html][Triunfo por avasallamiento naranja]]
-- [[https://eldiariocantabria.publico.es/articulo/municipios/vecinos-playa-meron-denuncian-discriminacion-arbitraria-ayuntamiento-nueva-ordenanza-aparcamiento/20260509202157192701.html][Vecinos de la playa de Merón denuncian una “discriminación arbitraria” del Ayuntamiento en la nueva ordenanza de aparcamiento]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/dos-puntos-cantabria-entre-mas-calurosos-pais-sabado-mientras-que-registra-mayor-racha-viento/20260509194502192699.html][Dos puntos de Cantabria, entre los más calurosos del país este sábado, mientras que otro registra la mayor racha de viento]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/dos-detenidos-valladolid-robar-mas-8000-euros-joyas-santander-otras-ciudades-espana/20260510172856192720.html][Dos detenidos en Valladolid por robar más de 8.000 euros en joyas en Santander y otras ciudades de España]]
+- [[https://eldiariocantabria.publico.es/articulo/oriental/entorno-playa-brazomar-quedara-cortado-partir-martes-asfaltado-varias-calles/20260510171625192719.html][El entorno de la playa de Brazomar quedará cortado a partir de este martes por el asfaltado de varias calles]]
+- [[https://eldiariocantabria.publico.es/articulo/torrelavega/dos-heridos-arma-blanca-fiestas-campuzano/20260510165506192717.html][Dos heridos por arma blanca durante las fiestas de Campuzano]]
+- [[https://eldiariocantabria.publico.es/articulo/cultura/espacio-joven-acoge-mes-muestra-ilustradora-poky-belleza-inquietante/20260510135839192716.html][Espacio Joven acoge este mes una muestra de la ilustradora Poky sobre la belleza de lo inquietante]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/ayuntamiento-enfermeros-colaboran-promocion-salud-centros-educativos/20260510133615192714.html][Ayuntamiento y enfermeros colaboran en la promoción de la salud en los centros educativos]]
 
 ** 🇺🇸 Estados Unidos
 
@@ -77,45 +77,45 @@
 
 - [[https://www.washingtonpost.com/world/2026/05/10/trump-third-country-deportations-ghana-togo/][She fled genital mutilation in Togo. The U.S. deported her.]]
 - [[https://www.washingtonpost.com/world/2026/05/10/ukraine-war-tourism-increasing/][Spring in Ukraine means the return of blooms, battles and wartime tourists]]
-- [[https://www.washingtonpost.com/business/2026/05/10/iran-war-oil-gulf-economies/][Gulf nations hoped to move beyond oil. The Iran war made that much harder.]]
+- [[https://www.washingtonpost.com/business/2026/05/10/iran-war-oil-gulf-economies/][Iran war threatens the dream of a post-oil economy in the Gulf]]
 - [[https://www.washingtonpost.com/world/2026/05/09/iran-farms-thailand-food/][Iran war is crushing Asia’s farmers, threatening global food supply]]
 - [[https://www.washingtonpost.com/national-security/2026/05/08/us-iran-ceasefire-hormuz-attacks/][U.S. strikes two Iranian-flagged tankers as tensions continue amid ceasefire]]
 
 *** WSJ.com: World News
 
-- [[https://www.wsj.com/world/hantavirus-cruise-ship-arrives-as-passengers-prepare-for-repatriation-1bbf8528][Hantavirus Cruise Ship Reaches Port as Passengers Prepare for Repatriation]]
+- [[https://www.wsj.com/world/hantavirus-cruise-ship-arrives-as-passengers-prepare-for-repatriation-1bbf8528][Hantavirus Cruise Passengers Head for Home Countries After Ship Reaches Port]]
+- [[https://www.wsj.com/world/asia/the-factory-town-known-as-chinas-furniture-capital-is-fighting-to-survive-0875bc99][The Factory Town Known as China’s Furniture Capital Is Fighting to Survive]]
 - [[https://www.wsj.com/world/middle-east/irans-supreme-leader-is-mia-just-when-negotiators-need-him-most-eb4bdc56][Iran’s Supreme Leader Is MIA, Just When Negotiators Need Him Most]]
 - [[https://www.wsj.com/world/middle-east/israel-built-and-defended-a-secret-iran-war-base-in-iraq-3590851a][Israel Built and Defended a Secret Iran War Base in Iraq]]
 - [[https://www.wsj.com/world/africa/the-hunter-gatherers-weighing-whether-to-join-the-modern-world-0cc1bf6f][The Hunter-Gatherers Weighing Whether to Join the Modern World]]
-- [[https://www.wsj.com/world/russia/putin-victory-day-parade-moscow-803efb57][Putin Presides Over Downsized Military Parade as Ukraine War Drags On]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/politique/article/2026/05/10/au-rassemblement-national-les-nouveaux-maires-ciblent-l-europe-la-culture-et-les-syndicats-ils-y-vont-plus-franchement_6687664_823448.html][Au Rassemblement national, les nouveaux maires ciblent l’Europe, la culture et les syndicats : « Ils y vont plus franchement »]]
-- [[https://www.lemonde.fr/sante/live/2026/05/10/en-direct-hantavirus-l-evacuation-des-premiers-passagers-du-navire-de-croisiere-mv-hondius-a-commence_6686093_1651302.html][EN DIRECT, hantavirus : l’évacuation des premiers passagers du navire de croisière MV « Hondius » a commencé]]
-- [[https://www.lemonde.fr/economie/article/2026/05/10/superprofits-a-travers-le-monde-les-entreprises-cotees-multiplient-des-benefices-record_6687681_3234.html][Superprofits : les entreprises cotées multiplient les bénéfices record à travers le monde]]
-- [[https://www.lemonde.fr/international/live/2026/05/10/en-direct-guerre-en-ukraine-cent-quarante-sept-combats-entre-russes-et-ukrainiens-enregistres-samedi-selon-l-etat-major-ukrainien_6687661_3210.html][EN DIRECT, guerre en Ukraine : cent quarante-sept combats entre Russes et Ukrainiens enregistrés samedi, selon l’état-major ukrainien]]
-- [[https://www.lemonde.fr/international/article/2026/05/10/le-pakistan-mediateur-interesse-de-la-guerre-en-iran_6687669_3210.html][Le Pakistan, médiateur intéressé de la guerre en Iran]]
+- [[https://www.lemonde.fr/sante/live/2026/05/10/en-direct-hantavirus-l-arrivee-du-vol-sanitaire-rapatriant-les-cinq-francais-qui-se-trouvaient-a-bord-du-mv-hondius-est-prevue-d-ici-a-17-heures-a-l-aeroport-du-bourget_6686093_1651302.html][EN DIRECT, hantavirus : l’avion ramenant les cinq Français évacués du MV « Hondius » a atterri à l’aéroport du Bourget]]
+- [[https://www.lemonde.fr/international/article/2026/05/10/en-cartes-la-crise-d-ormuz-a-revele-l-importance-strategique-des-detroits-autant-que-leur-vulnerabilite_6687676_3210.html][En cartes : la crise d’Ormuz a révélé l’importance stratégique des détroits autant que leur vulnérabilité]]
+- [[https://www.lemonde.fr/idees/article/2026/05/10/la-sortie-de-francois-ruffin-sur-l-immigration-est-bienvenue-car-la-gauche-n-echappera-pas-a-un-debat-sur-le-sujet_6687678_3232.html][« La sortie de François Ruffin sur l’immigration est bienvenue, car la gauche n’échappera pas à un débat sur le sujet »]]
+- [[https://www.lemonde.fr/les-decodeurs/article/2026/05/10/pourquoi-la-geothermie-solution-miracle-a-la-crise-energetique-peine-a-decoller-l-explication-en-quatre-graphiques_6687704_4355770.html][Pourquoi la géothermie, solution durable à la crise énergétique, peine à décoller : l’explication en quatre graphiques]]
+- [[https://www.lemonde.fr/campus/article/2026/05/10/mes-proches-parlent-de-pacte-avec-le-diable-quand-le-premier-emploi-provoque-une-dissonance-cognitive-chez-les-jeunes_6687675_4401467.html][« Mes proches parlent de pacte avec le diable ! » : quand le premier emploi provoque une dissonance cognitive chez les jeunes]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/faits-divers/val-d-oise-un-policier-municipal-soupconne-d-avoir-tue-son-ex-compagne-et-leurs-deux-enfants-avant-de-se-suicider-20260510][Val-d’Oise : un policier municipal soupçonné d’avoir tué son ex-compagne et leurs deux enfants avant de se suicider]]
-- [[https://www.lefigaro.fr/international/en-direct-hantavirus-le-mv-hondius-s-approche-des-cotes-de-tenerife-aux-canaries-20260510][EN DIRECT - Hantavirus : les passagers du MV Hondius ont commencé à débarquer aux Canaries]]
-- [[https://www.lefigaro.fr/international/hantavirus-qu-adviendra-t-il-des-passagers-francais-evacues-du-mv-hondius-20260509][Hantavirus : qu’adviendra-t-il des passagers français évacués du MV Hondius ?]]
-- [[https://www.lefigaro.fr/sciences/origine-transmission-symptomes-letalite-tout-comprendre-a-l-hantavirus-en-six-infographies-20260506][Origine, transmission, symptômes, létalité... Tout comprendre à l’hantavirus en six infographies]]
-- [[https://www.lefigaro.fr/international/craignez-vous-la-propagation-de-l-hantavirus-en-france-20260510][Craignez-vous la propagation de l'Hantavirus en France ?]]
+- [[https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-iran-menace-d-une-lourde-riposte-contre-les-etats-unis-apres-l-attaque-de-ses-petroliers-20260510][EN DIRECT - Conflit au Moyen-Orient : l’Iran avertit d’une «réponse immédiate» en cas de déploiement français et britannique dans le détroit d’Ormuz]]
+- [[https://www.lefigaro.fr/international/guerre-au-moyen-orient-l-iran-repond-a-une-proposition-americaine-20260510][Guerre au Moyen-Orient : l'Iran répond à une proposition américaine]]
+- [[https://www.lefigaro.fr/international/israel-a-expulse-deux-militants-de-la-flottille-pour-gaza-20260510][Israël : deux militants de la «flottille pour Gaza» libérés]]
+- [[https://www.lefigaro.fr/international/guerre-au-moyen-orient-une-vaste-nappe-de-petrole-detectee-au-large-du-principal-terminal-petrolier-iranien-20260509][Guerre au Moyen-Orient : une vaste nappe de pétrole détectée au large du principal terminal pétrolier iranien]]
+- [[https://www.lefigaro.fr/international/dans-l-oasis-de-khaybar-le-mysterieux-royaume-juif-d-arabie-saoudite-20260510][Dans l’oasis de Khaybar, le mystérieux royaume juif d’Arabie saoudite]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss][Spain starts evacuating virus-hit cruise ship in Tenerife]]
+- [[https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss][Countries airlift nationals evacuated from from virus-hit cruise ship]]
+- [[https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss][Army parachutes onto remote island to help Briton with suspected hantavirus]]
+- [[https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss][Iran sends response to US proposals to end war]]
 - [[https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss][Putin says he thinks Ukraine conflict 'coming to an end']]
 - [[https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss][Lebanon says Israeli strikes killed 39]]
-- [[https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss][Australia's right-wing One Nation party scores historic parliamentary win]]
-- [[https://www.bbc.com/news/articles/cy42kp0x92jo?at_medium=RSS&at_campaign=rss][Buddhist monk arrested over alleged rape of teen in Sri Lanka]]
 
 *** The Guardian
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
+- [[https://www.ilsole24ore.com/art/terremoto-ministero-cultura-giuli-licenzia-vertici-suo-staff-AIOBTD0C][Terremoto al ministero della Cultura: Giuli licenzia i vertici del suo staff]]
+- [[https://www.ilsole24ore.com/art/hantavirus-progressi-e-sfide-sviluppo-vaccino-dati-promettenti-ma-restano-ostacoli-AIVof9zC][Hantavirus, progressi e sfide nello sviluppo del vaccino: dati promettenti ma restano ostacoli]]
 - [[https://www.ilsole24ore.com/art/simest-via-misura-anti-rincari-le-pmi-pronti-800-milioni-come-funziona-AIi5CxzC][Simest: al via la misura  anti rincari per le pmi: pronti 800 milioni. Come funziona]]
 - [[https://www.ilsole24ore.com/art/costruiamo-societa-guardare-futuro-AI5YV9xC][Costruiamo una società per guardare al futuro]]
 - [[https://www.ilsole24ore.com/art/il-part-time-e-rinuncia-carriera-trappole-le-madri-che-lavorano-AIPZWutC][Il part-time e la rinuncia alla carriera: le trappole per le madri che lavorano]]
-- [[https://www.ilsole24ore.com/art/giulia-e-altre-storie-bimbe-sottratte-madri-sentenza-AIsWE5tC][Giulia e le altre: storie di bimbe sottratte alle madri per sentenza]]
-- [[https://www.ilsole24ore.com/art/figli-no-grazie-fatica-madri-scoraggia-maternita-ragazze-AICTbyrC][Figli? No grazie. La fatica delle madri scoraggia la maternità delle ragazze]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/rsf-urges-niger-to-ditch-abusive-french-media-ban/a-77110893?maca=en-rss-en-world-4025-rdf][RSF urges Niger to ditch 'abusive' French media ban]]
+- [[https://www.dw.com/en/africa-summit-in-kenya-france-seeks-new-partners/a-77098131?maca=en-rss-en-world-4025-rdf][Africa summit in Kenya: France seeks new partners]]
+- [[https://www.dw.com/en/no-comment-after-schröder-named-by-putin-for-ukraine-talks/a-77110295?maca=en-rss-en-world-4025-rdf]['No comment' after Schröder named by Putin for Ukraine talks]]
 - [[https://www.dw.com/en/the-weaponization-of-shipping-channels/a-77108496?maca=en-rss-en-world-4025-rdf][The weaponization of shipping channels]]
 - [[https://www.dw.com/en/greek-minister-says-mystery-drone-from-a-foreign-state/a-77107116?maca=en-rss-en-world-4025-rdf][Greek minister says mystery drone from a 'foreign state']]
-- [[https://www.dw.com/en/putin-says-he-thinks-ukraine-war-is-coming-to-an-end/a-77106772?maca=en-rss-en-world-4025-rdf][Putin says he thinks Ukraine war is 'coming to an end']]
-- [[https://www.dw.com/en/tariffs-or-not-how-eu-is-dealing-with-us-dealmaking/a-77100109?maca=en-rss-en-world-4025-rdf][Tariffs or not? How EU is dealing with US 'dealmaking']]
-- [[https://www.dw.com/en/eurovision-2026-politics-collide-with-a-blockbuster-show/a-77069828?maca=en-rss-en-world-4025-rdf][Eurovision 2026: Politics collide with a blockbuster show]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/pm-usa-bombas-corredor-polones-e-gas-para-desocupar-reitoria-da-usp.shtml][PM usa bombas, 'corredor polonês' e gás para desocupar reitoria da USP]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/prisioneiros-ucranianos-dizem-ter-sofrido-torturas-sistematicas-em-prisoes-da-russia.shtml][Prisioneiros ucranianos dizem ter sofrido torturas sistemáticas em prisões da Rússia]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/05/um-mes-apos-volta-da-artemis-2-entenda-dez-fotos-feitas-pela-missao-ao-redor-da-lua.shtml][Um mês após volta da Artemis 2, entenda dez fotos feitas pela missão ao redor da Lua]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/com-racha-entre-deputados-base-do-pl-tenta-manter-presidencia-da-alesp.shtml][Com racha entre deputados, base do PL tenta manter presidência da Alesp]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/05/cruzeiro-com-hantavirus-chega-as-ilhas-canarias-para-evacuacao-de-passageiros.shtml][Espanha inicia retirada de passageiros de navio com surto de hantavírus]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/05/derrotado-joao-fonseca-se-queixa-do-comportamento-da-torcida-brasileira.shtml][Derrotado, João Fonseca se queixa do comportamento da torcida brasileira]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/05/usp-diz-nao-ter-sido-avisada-pela-policia-sobre-desocupacao-da-reitoria-e-repudia-violencia.shtml][USP diz não ter sido avisada pela polícia sobre desocupação da reitoria e repudia violência]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/ato-em-sp-reune-politicos-e-ativistas-de-esquerda-em-homenagem-a-ivan-valente.shtml][Ato em SP reúne políticos e ativistas de esquerda em homenagem a Ivan Valente]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/05/cruzeiro-se-impoe-na-decisao-e-leva-sua-decima-superliga.shtml][Cruzeiro se impõe na decisão e leva sua décima Superliga]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/05/moraes-mantem-suspensao-da-lei-da-dosimetria-em-resposta-a-pedido-de-debora-do-batom.shtml][Moraes mantém suspensão da Lei da Dosimetria em resposta a pedido de 'Débora do batom']]
 
 *** O Globo
 
