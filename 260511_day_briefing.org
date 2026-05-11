@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 43.5°C | ⚖ Load: 0.00 | 🌐 Ping: 8.94ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 44.0°C | ⚖ Load: 0.49 | 🌐 Ping: 9.51ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,19 +41,19 @@
 
 *** El País
 
-- [[https://elpais.com/sociedad/2026-05-11/ultima-hora-del-brote-de-hantavirus-en-directo.html][Última hora del brote de hantavirus, en directo | Francia confirma un positivo entre uno de sus cinco repatriados]]
+- [[https://elpais.com/sociedad/2026-05-11/ultima-hora-del-brote-de-hantavirus-en-directo.html][Última hora del brote de hantavirus, en directo | Sanidad informa de que finalmente los pasajeros que quedan en el barco viajarán a Países Bajos]]
 - [[https://elpais.com/espana/2026-05-11/clavijo-critica-que-se-le-ha-querido-ridiculizar-y-llevar-a-la-anecdota-y-el-meme.html][Clavijo critica que el Gobierno le ha querido “ridiculizar” y llevar “a la anécdota y el meme”]]
-- [[https://elpais.com/opinion/2026-05-11/el-populismo-perjudica-la-salud.html][El populismo perjudica la salud]]
+- [[https://elpais.com/sociedad/2026-05-11/asi-son-las-pruebas-diagnosticas-y-los-sintomas-del-hantavirus-que-permiten-identificar-a-las-personas-contagiadas.html][Así son las pruebas diagnósticas y los síntomas del hantavirus que permiten identificar a las personas contagiadas]]
+- [[https://elpais.com/sociedad/2026-05-11/los-tests-a-bordo-el-positivo-debil-y-los-tiempos-de-los-resultados-de-las-pcr-levantan-suspicacias-el-analisis-no-es-automatico.html][Los tests a bordo, el “positivo débil” y los tiempos de los resultados de las PCR levantan suspicacias: “El análisis no es automático”]]
 - [[https://elpais.com/espana/elecciones-andalucia/2026-05-11/el-pp-acaricia-la-mayoria-absoluta-en-andalucia-con-el-doble-de-escanos-que-el-psoe.html][El PP acaricia la mayoría absoluta en Andalucía con el doble de escaños que el PSOE]]
-- [[https://elpais.com/educacion/2026-05-11/tendran-un-0-cuatro-autonomias-blindan-la-selectividad-con-detectores-de-frecuencia-ante-el-aumento-de-alumnos-que-copian-con-la-ia.html][“Tendrán un 0”: cuatro autonomías blindan la Selectividad con detectores de frecuencia ante el aumento de alumnos que copian con la IA]]
 
 *** El Mundo
 
+- [[https://www.elmundo.es/ciencia-y-salud/salud/2026/05/11/6a01c1e8fc6c8395748b45a4.html][Sanidad está a la espera de los resultados de las PCR de los 14 españoles aislados en el Gómez Ulla]]
+- [[https://www.elmundo.es/madrid/2026/05/11/6a01c316e9cf4ab00e8b459c.html][Así es la cuarentena dentro del Gómez Ulla: turnos de 12 horas, tranquilidad entre contactos sanos del hantavirus y petición de apoyo psicológico]]
+- [[https://www.elmundo.es/ciencia-y-salud/salud/2026/05/11/6a00997ce4d4d825488b457f.html][Sanidad Exterior se rebela contra la ministra: "Ahora que usa nuestro chaleco exigimos que cumpla el reglamento de la OMS y mejore las condiciones en puertos y aeropuertos"]]
 - [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/10/6a0095f021efa0da448b4583.html][Moreno apuntala la mayoría absoluta mientras PSOE y Vox se atascan]]
-- [[https://www.elmundo.es/economia/dinero-inversion/2026/05/11/69fc6403e85ece92448b4594.html][Bizum planta cara al oligopolio 'yankee': aspira a arrebatar un negocio de 68.000 millones de euros de pagos en comercios a Visa, Mastercard y las grandes tecnológicas]]
-- [[https://www.elmundo.es/andalucia/2026/05/11/69ff3963e85ece6f7d8b457c.html][La tragedia de Huelva remueve el dolor en Barbate: "La muerte de mi hijo no ha servido para nada"]]
-- [[https://www.elmundo.es/espana/2026/05/11/6a00ae88e85eceb9278b4577.html][Ración de cogobernanza para Clavijo]]
-- [[https://www.elmundo.es/ciencia-y-salud/salud/2026/05/11/6a00d6ce21efa0da448b4595.html][Batas francesas ante los EPIs españoles y trajes con respiración autónoma: "Son seguros pero innecesarios"]]
+- [[https://www.elmundo.es/espana/2026/05/11/6a01c9d0e4d4d8e9608b4583.html][Vox descarta una abstención si Juanma Moreno se queda al borde de la absoluta en Andalucía]]
 
 *** La Vanguardia
 
@@ -65,11 +65,11 @@
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/herido-motorista-accidente-turismo-67/20260511114652192740.html][Herido un motorista en un accidente con un turismo en la A-67]]
-- [[https://eldiariocantabria.publico.es/articulo/deportes/mas-200-aficionados-reciben-racing-madrugada-albericia-vengo-ver-ascender/20260511113436192738.html][Más de 200 aficionados reciben al Racing de madrugada en Santander tras la victoria en Leganés: “¡Que sí joder, que vamos a ascender!”]]
-- [[https://eldiariocantabria.publico.es/articulo/comunicados/auto-crypto-trading-guia-completa-trading-automatizado-bots-criptomonedas/20260511110616192730.html][Auto crypto trading: guía completa sobre trading automatizado con bots de criptomonedas]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/retenciones-kilometricas-67-altura-mogro-accidente/20260511103026192729.html][Retenciones kilométricas en la A-67 a la altura de Mogro]]
-- [[https://eldiariocantabria.publico.es/articulo/deportes/otro-paso-mas/20260510203254192727.html][Otro paso más]]
+- [[https://eldiariocantabria.publico.es/articulo/politica/oposicion-bloque-exige-gobierno-cantabria-ayudas-urgentes-sector-primario-guerra-oriente-medio-urge/20260511173133192764.html][La oposición en bloque exige al Gobierno de Cantabria ayudas urgentes para el sector primario por la Guerra en Oriente Medio: "Urge ya"]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/cruceros-que-atracaran-santander-proximamente-silver-spirit-diana/20260511172042192763.html][Los cruceros que atracarán en Santander próximamente: 'Silver Spirit' y 'Diana]]
+- [[https://eldiariocantabria.publico.es/articulo/deportes/carlos-calle-pondra-fin-trayectoria-deportiva-bathco-bm-torrelavega/20260511170347192759.html][Carlos Calle pondrá fin a su trayectoria deportiva en el Bathco BM Torrelavega]]
+- [[https://eldiariocantabria.publico.es/articulo/deportes/sardinero-sera-epicentro-fiesta-ascenso-racing/20260511170010192761.html][El Sardinero será el epicentro de la fiesta del ascenso del Racing]]
+- [[https://eldiariocantabria.publico.es/articulo/deportes/sono-pitido-final/20260511162544192757.html][Y sonó el pitido final]]
 
 ** 🇺🇸 Estados Unidos
 
@@ -83,39 +83,39 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/u-s-hantavirus-cruise-passengers-fly-to-quarantine-center-after-positive-test-726e2392][American Hantavirus Cruise Passengers Flown to Quarantine Center After Positive Test]]
+- [[https://www.wsj.com/politics/the-two-major-decisions-trump-faces-on-the-world-stage-this-week-e8d46fb7][The Two Major Decisions Trump Faces on the World Stage This Week]]
 - [[https://www.wsj.com/world/middle-east/the-u-s-tied-his-bank-to-iran-proxies-now-hes-trumps-choice-to-run-iraq-ea6117ae][The U.S. Tied His Bank to Iran Proxies. Now He’s Trump’s Choice to Run Iraq.]]
 - [[https://www.wsj.com/world/china/xi-china-technology-military-economy-mess-10eb1e22][Xi’s China: Dazzling Technology, Military Muscle—and an Economic Mess]]
 - [[https://www.wsj.com/world/trump-xi-meeting-iran-war-409c4ea1][Iran War Hangs Over China Summit]]
-- [[https://www.wsj.com/world/middle-east/irans-supreme-leader-is-mia-just-when-negotiators-need-him-most-eb4bdc56][Iran’s Supreme Leader Is MIA, Just When Negotiators Need Him Most]]
-- [[https://www.wsj.com/world/hantavirus-cruise-ship-arrives-as-passengers-prepare-for-repatriation-1bbf8528][Hantavirus Cruise Passengers Head for Home Countries After Ship Reaches Port]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/05/11/en-direct-guerre-au-moyen-orient-l-iran-exige-la-fin-de-la-guerre-dans-la-region-et-le-deblocage-des-avoirs-geles-le-prix-du-petrole-bondit-apres-l-echec-des-negociations_6686485_3210.html][EN DIRECT, guerre au Moyen-Orient : l’Iran exige la « fin de la guerre dans la région » et le déblocage des avoirs gelés ; le prix du pétrole bondit après l’échec des négociations]]
-- [[https://www.lemonde.fr/politique/article/2026/05/11/presidentielle-2027-une-precampagne-confuse-a-l-heure-de-l-affaiblissement-des-partis-de-gouvernement_6687938_823448.html][Présidentielle 2027 : une précampagne confuse à l’heure de l’affaiblissement des partis de gouvernement]]
-- [[https://www.lemonde.fr/sante/live/2026/05/11/en-direct-hantavirus-une-francaise-rapatriee-du-navire-diagnostiquee-positive-l-espagne-espere-terminer-les-evacuations-au-plus-vite-lundi_6686093_1651302.html][EN DIRECT, hantavirus : une Française rapatriée du navire diagnostiquée positive ; l’Espagne espère terminer les évacuations au plus vite lundi]]
-- [[https://www.lemonde.fr/societe/article/2026/05/11/fin-de-vie-la-justice-face-aux-cas-de-refus-d-administrer-une-sedation-terminale_6687940_3224.html][Fin de vie : la justice face aux cas de refus d’administrer une sédation terminale]]
-- [[https://www.lemonde.fr/politique/article/2026/05/11/olivier-faure-appelle-les-socialistes-a-sortir-du-congres-permanent-apres-le-depart-de-boris-vallaud-de-la-direction-du-ps_6688099_823448.html][Olivier Faure appelle les socialistes à sortir du « congrès permanent », après le départ de Boris Vallaud de la direction du PS]]
+- [[https://www.lemonde.fr/international/live/2026/05/11/en-direct-guerre-au-moyen-orient-le-conflit-a-provoque-le-plus-grand-choc-energetique-connu-selon-le-pdg-d-aramco_6686485_3210.html][EN DIRECT, guerre au Moyen-Orient : le conflit a provoqué « le plus grand choc énergétique » connu, selon le PDG d’Aramco]]
+- [[https://www.lemonde.fr/sante/live/2026/05/11/en-direct-hantavirus-le-hondius-partira-pour-les-pays-bas-lundi-apres-midi-avec-les-bagages-de-passagers-et-le-corps-de-la-personne-morte-a-bord-une-francaise-rapatriee-a-ete-diagnostiquee-positive_6686093_1651302.html][EN DIRECT, hantavirus : le « Hondius » partira pour les Pays-Bas lundi après-midi avec le corps de la personne morte à bord ; une Française rapatriée a été diagnostiquée positive]]
+- [[https://www.lemonde.fr/international/article/2026/05/11/a-nairobi-emmanuel-macron-clot-une-decennie-de-tempetes-dans-les-relations-entre-la-france-et-l-afrique_6687955_3210.html][A Nairobi, Emmanuel Macron clôt une décennie de tempêtes dans les relations entre la France et l’Afrique]]
+- [[https://www.lemonde.fr/m-le-mag/article/2026/05/11/juge-depuis-mars-le-maire-d-istanbul-ekrem-imamoglu-opposant-numero-un-a-erdogan-denonce-de-sa-prison-l-autocratie-qui-a-fabrique-ce-proces-inequitable_6687949_4500055.html][Jugé depuis mars, le maire d’Istanbul Ekrem Imamoglu, opposant numéro un à Erdogan, dénonce, de sa prison, « l’autocratie qui a fabriqué ce procès inéquitable »]]
+- [[https://www.lemonde.fr/societe/article/2026/05/11/sos-homophobie-alerte-sur-le-mal-de-vivre-des-personnes-lgbt-face-aux-violences-dites-ordinaires_6688139_3224.html][SOS Homophobie alerte sur le « mal de vivre » des personnes LGBT face aux violences dites ordinaires]]
 
 *** Le Figaro
 
+- [[https://www.lefigaro.fr/nice/nice-une-fusillade-aux-moulins-fait-deux-morts-et-plusieurs-blesses-20260511][Nice : une fusillade aux Moulins fait deux morts et plusieurs blessés]]
+- [[https://www.lefigaro.fr/international/en-direct-hantavirus-17-americains-rapatries-aux-etats-unis-un-cas-confirme-et-un-autre-suspecte-20260511][EN DIRECT - Hantavirus : Lecornu va recevoir des épidémiologistes ce lundi soir à Matignon]]
+- [[https://sante.lefigaro.fr/social/sante-publique/hantavirus-une-femme-testee-positive-deux-veterinaires-et-journalistes-animaliers-ce-que-l-on-sait-des-cinq-francais-rapatries-20260511][Hantavirus : une femme testée positive, deux vétérinaires et journalistes animaliers... Ce que l’on sait des cinq Français rapatriés]]
+- [[https://sante.lefigaro.fr/social/sante-publique/une-francaise-positive-22-cas-contacts-ce-qu-il-faut-savoir-ce-lundi-sur-la-propagation-du-hantavirus-20260511][Une Française positive, 22 cas contacts... Ce qu’il faut savoir ce lundi sur la propagation de l’hantavirus]]
 - [[https://madame.lefigaro.fr/societe/actu/ce-couple-de-neerlandais-decede-lors-d-une-croisiere-en-atlantique-apres-une-probable-infection-a-l-hantavirus-20260504][Hantavirus : qui est le «patient zéro», cet ornithologue qui a embarqué le virus sur le MV Hondius ?]]
-- [[https://sante.lefigaro.fr/medecine/hantavirus-les-passagers-du-navire-de-croisiere-evacues-a-tenerife-malgre-la-crainte-d-une-contamination-de-l-ile-par-des-rats-nageurs-20260510][Hantavirus : crainte d’une contamination par des rats nageurs, mesures de protections maximales… Le récit de l’évacuation des passagers du MV Hondius]]
-- [[https://www.lefigaro.fr/international/en-direct-hantavirus-17-americains-rapatries-aux-etats-unis-un-cas-confirme-et-un-autre-suspecte-20260511][EN DIRECT - Hantavirus : une Française testée positive, nouvelle réunion prévue à Matignon cet après-midi]]
-- [[https://sante.lefigaro.fr/social/sante-publique/hantavirus-le-gouvernement-durcit-le-dispositif-sanitaire-avec-des-mesures-tres-strictes-face-au-risque-de-propagation-20260511][Hantavirus : le gouvernement durcit le dispositif sanitaire avec des mesures «très strictes» face au risque de propagation]]
-- [[https://sante.lefigaro.fr/hantavirus-un-americain-passager-du-mv-hondius-teste-positif-20260511][Hantavirus : un Américain passager du MV Hondius testé positif]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
 - [[https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss][US and French nationals test positive for hantavirus after leaving ship]]
+- [[https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss][Portrait looted by Nazis found in home of Dutch SS leader's descendants]]
+- [[https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&at_campaign=rss][Washington dinner shooting suspect pleads not guilty]]
+- [[https://www.bbc.com/news/articles/cz02dkkd9j9o?at_medium=RSS&at_campaign=rss][Whales could be harmed by diverted ships avoiding Middle East, scientists warn]]
 - [[https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss][Trump calls Iran response to US proposal to end war 'totally unacceptable']]
-- [[https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss][Philippine VP Sara Duterte impeached for a second time]]
-- [[https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss][His father had just been buried. Then West Bank settlers forced him to dig up the body]]
-- [[https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss][French national shows symptoms on return from hantavirus-hit ship]]
 
 *** The Guardian
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/maggioranza-il-vertice-legge-elettorale-dubbi-pd-AI9jQm0C][Maggioranza verso il vertice sulla legge elettorale, dubbi Pd]]
-- [[https://www.ilsole24ore.com/art/il-sole-24-ore-torna-salone-libro-torino-AIumLa0C][Il Sole 24 Ore torna al Salone del Libro di Torino]]
-- [[https://www.ilsole24ore.com/art/terremoto-ministero-cultura-giuli-licenzia-vertici-suo-staff-AIOBTD0C][Terremoto al ministero della Cultura: Giuli licenzia i vertici del suo staff]]
-- [[https://www.ilsole24ore.com/art/simest-via-misura-anti-rincari-le-pmi-pronti-800-milioni-come-funziona-AIi5CxzC][Simest: al via la misura  anti rincari per le pmi: pronti 800 milioni. Come funziona]]
-- [[https://www.ilsole24ore.com/art/costruiamo-societa-guardare-futuro-AI5YV9xC][Costruiamo una società per guardare al futuro]]
+- [[https://www.ilsole24ore.com/art/piantedosi-lione-dall-interpol-vertice-progetto-i-can-cosi-sono-caduti-boss-latitanti-ndrangheta-globale-AIGg980C][Piantedosi a Lione dall’Interpol, vertice sul progetto I-Can: così sono caduti i boss latitanti della ’ndrangheta globale]]
+- [[https://www.ilsole24ore.com/art/turismo-lazio-formazione-e-lavoro-qualificato-affrontare-rivoluzione-post-giubileo-AIHIT70C][Turismo nel Lazio: formazione e lavoro qualificato per affrontare la rivoluzione post-Giubileo]]
+- [[https://www.ilsole24ore.com/art/lavoro-ultime-novita-incentivi-e-tutele-AIGg5rrC][Lavoro, le ultime novità: incentivi e tutele]]
+- [[https://www.ilsole24ore.com/art/calcio-fifa-dice-addio-panini-2031-figurine-saranno-topps-AIcLLyxC][Calcio, Fifa dice addio a Panini: dal 2031 le figurine saranno Topps]]
+- [[https://www.ilsole24ore.com/art/crosetto-ipotesi-avvicinamento-navi-hormuz-ma-missione-non-parte-AIXg5r0C][Crosetto: ipotesi avvicinamento navi a Hormuz ma missione non parte]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
-- [[https://www.dw.com/en/former-thai-prime-minister-thaksin-let-out-of-prison-early/a-77113447?maca=en-rss-en-world-4025-rdf][Former Thai Prime Minister Thaksin let out of prison early]]
-- [[https://www.dw.com/en/syria-court-charges-bashar-assad-s-cousin-atef-najib-with-war-crimes-amid-2011-uprising/a-77111373?maca=en-rss-en-world-4025-rdf][Syria: Court charges Bashar Assad's cousin Atef Najib with war crimes amid 2011 uprising]]
-- [[https://www.dw.com/en/rsf-urges-niger-to-ditch-abusive-french-media-ban/a-77110893?maca=en-rss-en-world-4025-rdf][RSF urges Niger to ditch 'abusive' French media ban]]
-- [[https://www.dw.com/en/france-turns-to-africa-for-strategic-partnerships/a-77098131?maca=en-rss-en-world-4025-rdf][France turns to Africa for strategic partnerships]]
-- [[https://www.dw.com/en/no-comment-after-schröder-named-by-putin-for-ukraine-talks/a-77110295?maca=en-rss-en-world-4025-rdf]['No comment' after Schröder named by Putin for Ukraine talks]]
+- [[https://www.dw.com/en/religion-steers-bengal-politics-in-bangladesh-india-again/a-77123609?maca=en-rss-en-world-4025-rdf][Religion steers Bengal politics in Bangladesh, India — again]]
+- [[https://www.dw.com/en/nigeria-s-solar-boom-faces-cost-and-policy-barriers/a-77122375?maca=en-rss-en-world-4025-rdf][Nigeria's solar boom faces cost and policy barriers]]
+- [[https://www.dw.com/en/what-will-happen-to-iran-s-nuclear-material/a-77122353?maca=en-rss-en-world-4025-rdf][What will happen to Iran's nuclear material?]]
+- [[https://www.dw.com/en/uk-prime-minister-keir-starmer-not-walking-away-after-local-election-mauling/a-77116149?maca=en-rss-en-world-4025-rdf][UK Prime Minister Keir Starmer 'not walking away' after local election mauling]]
+- [[https://www.dw.com/en/somali-piracy-adds-new-strain-to-global-shipping-and-trade-routes/a-77047750?maca=en-rss-en-world-4025-rdf][Somali piracy adds new strain to global shipping and trade routes]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/incendio-de-grandes-proporcoes-atinge-fabrica-de-velas-em-maua-sp.shtml][Incêndio de grandes proporções atinge fábrica de velas em Mauá (SP)]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/05/tecnologia-que-rediz-filas-no-porto-de-santos-chega-a-279-mil-caminhoneiros.shtml][Tecnologia que reduz filas no porto de Santos chega a 27,9 mil caminhoneiros]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/05/globo-acerta-ampliacao-de-contrato-para-produzir-o-big-brother-brasil-ate-2030.shtml][Globo acerta ampliação de contrato para produzir o Big Brother Brasil até 2030]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/05/estudo-revela-ocupacao-humana-recorrente-em-caverna-nos-pirineus-por-5000-anos.shtml][Estudo revela ocupação humana recorrente em caverna nos Pirineus por 5.000 anos]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/zema-mantem-embate-e-publica-mais-um-capitulo-da-serie-que-irritou-gilmar.shtml][Zema mantém embate e publica mais um capítulo da série que irritou Gilmar]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/brasileiro-aumenta-parcelamento-nas-compras-com-cartao.shtml][Brasileiro aumenta parcelamento nas compras com cartão]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/05/ze-felipe-elogia-virginia-em-homenagem-de-dia-das-maes-voce-e-incrivel.shtml][Zé Felipe elogia Virginia em homenagem de Dia das Mães: 'Você é incrível']]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/05/marina-ruy-barbosa-volta-a-globo-apos-dois-anos-para-protagonizar-novela-no-streaming.shtml][Marina Ruy Barbosa volta à Globo após dois anos para protagonizar novela no streaming]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/05/com-messi-e-prestianni-argentina-divulga-pre-lista-de-convocados-para-copa-do-mundo.shtml][Com Messi e Prestianni, Argentina divulga pré-lista de convocados para Copa do Mundo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/lula-sanciona-lei-que-muda-regras-dos-rotulos-de-chocolate-empresas-terao-360-dias.shtml][Lula sanciona lei que muda regras dos rótulos de chocolate; empresas terão 360 dias]]
 
 *** O Globo
 
