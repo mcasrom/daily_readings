@@ -1,7 +1,11 @@
 {
-  "timestamp": "2026-05-14T00:00:02.750252",
+  "timestamp": "2026-05-14T06:00:02.949995",
   "data": {
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada": [
+      {
+        "title": "Donald Trump ante Xi Jinping: “La relación entre China y Estados Unidos va a ser mejor que nunca”",
+        "link": "https://elpais.com/internacional/2026-05-14/donald-trump-ante-xi-jinping-la-relacion-entre-china-y-estados-unidos-va-a-ser-mejor-que-nunca.html"
+      },
       {
         "title": "Mónica García, sobre la crisis del hantavirus: “Aquí hay 14 españoles a los que había gente que quería dejar tirados”",
         "link": "https://elpais.com/sociedad/2026-05-13/monica-garcia-sobre-la-crisis-del-hantavirus-aqui-hay-14-espanoles-a-los-que-habia-gente-que-queria-dejar-tirados.html"
@@ -17,32 +21,28 @@
       {
         "title": "Florentino Pérez, en su entrevista con Pedrerol en La Sexta: “Solo he recibido felicitaciones”",
         "link": "https://elpais.com/deportes/futbol/2026-05-13/florentino-perez-en-su-entrevista-con-pedrerol-en-la-sexta-solo-he-recibido-felicitaciones.html"
-      },
-      {
-        "title": "Kevin Warsh, nombrado oficialmente presidente de la Reserva Federal con el aval del Senado",
-        "link": "https://elpais.com/economia/2026-05-13/kevin-warsh-nombrado-oficialmente-presidente-de-la-reserva-federal-con-el-aval-del-senado.html"
       }
     ],
     "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml": [
       {
-        "title": "Enrique Riquelme pide \"diálogo\" a Florentino, pero le advierte de que cumple los requisitos para ser presidente del Real Madrid",
-        "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/05/13/6a04d20221efa0af138b45be.html"
+        "title": "Moreno aprovecha la crisis de Montero para rematar la campaña: \"Se está muriendo ella sola\"",
+        "link": "https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/13/6a04cdcce4d4d84f338b4574.html"
       },
       {
-        "title": "Florentino sobre Riquelme, su posible rival en las elecciones del Real Madrid: ''No conozco a ese señor, que se presente\"",
-        "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/05/13/6a04c3cae9cf4abd098b457e.html"
+        "title": "Moncloa admite más \"violencia\" del narco con \"armas de guerra\" en un informe remitido al Congreso el día que Montero habló de \"accidente laboral\"",
+        "link": "https://www.elmundo.es/espana/2026/05/13/6a04bed7fdddff2a358b457b.html"
+      },
+      {
+        "title": "La costa andaluza anticipa las elecciones: arrasa el PP, la abstención hunde al PSOE y Vox vive de feudos antiimigración",
+        "link": "https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/13/6a04cacbe4d4d8ca0c8b4593.html"
       },
       {
         "title": "La millonaria 'operación Quila' que desafía al Real Madrid de Florentino Pérez",
         "link": "https://www.elmundo.es/economia/empresas/2026/05/13/6a04a7c3e85ece30718b456e.html"
       },
       {
-        "title": "El PP exprime en el Congreso la crisis de Montero por la muerte de dos guardias civiles: \"¿Por qué no había medios aéreos operativos en Huelva?\"",
-        "link": "https://www.elmundo.es/espana/2026/05/13/6a0467fafdddff392c8b45b0.html"
-      },
-      {
-        "title": "Marlaska, abucheado en la jura de los nuevos guardias civiles tras la muerte de los dos agentes de Huelva: \"Comprendo vuestro dolor. Yo también estoy dolido, estoy rabioso\"",
-        "link": "https://www.elmundo.es/espana/2026/05/13/6a0448bbfc6c832a2d8b457c.html"
+        "title": "Enrique Riquelme pide \"diálogo\" a Florentino, pero le advierte de que cumple los requisitos para ser presidente del Real Madrid",
+        "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/05/13/6a04d20221efa0af138b45be.html"
       }
     ],
     "https://www.lavanguardia.com/rss/home.xml": [
@@ -113,27 +113,31 @@
     ],
     "https://feeds.content.dowjones.io/public/rss/RSSWorldNews": [
       {
+        "title": "Trump and Xi Begin Superpowers’ Summit on Trade and War",
+        "link": "https://www.wsj.com/world/china/trump-and-xi-begin-superpowers-summit-on-trade-and-war-82bea6fc"
+      },
+      {
+        "title": "Military Snipers Are Being Put Out of a Job by Drones",
+        "link": "https://www.wsj.com/world/europe/military-snipers-are-being-put-out-of-a-job-by-drones-ae85a271"
+      },
+      {
+        "title": "The Reign of ‘El Chapo’ Is Over but the Bodies Keep Piling Up",
+        "link": "https://www.wsj.com/world/americas/el-chapo-sinaloa-cartel-civil-war-42fa0470"
+      },
+      {
         "title": "We Joined a Taiwan Coast Guard Mission on the Front Line Against China",
         "link": "https://www.wsj.com/world/asia/inside-taiwans-coast-guard-mission-to-thwart-a-chinese-blockade-136cabcc"
       },
       {
         "title": "Gulf Countries Tout Operations Targeting Alleged Iranian Sabotage Networks",
         "link": "https://www.wsj.com/world/middle-east/gulf-countries-tout-operations-targeting-alleged-iranian-sabotage-networks-064f485d"
-      },
-      {
-        "title": "Shots Fired in Standoff Over Philippine Senator’s Arrest Warrant on Drug-War Charges",
-        "link": "https://www.wsj.com/world/asia/shots-fired-in-standoff-over-philippine-senators-arrest-warrant-on-drug-war-charges-d364e363"
-      },
-      {
-        "title": "The Hantavirus Outbreak",
-        "link": "https://www.wsj.com/world/the-hantavirus-outbreak-2026-4c74d1e5"
-      },
-      {
-        "title": "What Trump and Xi Want to Achieve at Their High-Stakes Summit",
-        "link": "https://www.wsj.com/world/china/trump-xi-china-meeting-5863a949"
       }
     ],
     "https://www.lemonde.fr/rss/une.xml": [
+      {
+        "title": "Liban-Israël : à Washington, les négociations s’annoncent difficiles pour deux délégations sous pression",
+        "link": "https://www.lemonde.fr/international/article/2026/05/14/liban-israel-a-washington-les-negociations-s-annoncent-difficiles-pour-deux-delegations-sous-pression_6689026_3210.html"
+      },
       {
         "title": "Hantavirus : ce que l’on sait sur les traitements à l’essai et les candidats-vaccins",
         "link": "https://www.lemonde.fr/planete/article/2026/05/13/hantavirus-existe-t-il-des-traitements-et-vaccins_6688730_3244.html"
@@ -143,16 +147,12 @@
         "link": "https://www.lemonde.fr/societe/article/2026/05/13/au-proces-en-appel-de-l-affaire-libyenne-le-parquet-requiert-des-sanctions-a-la-hauteur-de-la-gravite-des-faits_6688755_3224.html"
       },
       {
-        "title": "La hausse du smic relance la bataille des allègements de charges",
-        "link": "https://www.lemonde.fr/politique/article/2026/05/13/la-hausse-du-smic-relance-la-bataille-des-allegements-de-charges_6688749_823448.html"
+        "title": "EN DIRECT, guerre en Ukraine : des drones et des missiles balistiques lancés sur Kiev, au moins un mort",
+        "link": "https://www.lemonde.fr/international/live/2026/05/14/en-direct-guerre-en-ukraine-des-drones-et-des-missiles-balistiques-lances-sur-kiev_6687661_3210.html"
       },
       {
         "title": "Le PSG à nouveau sacré champion de France, une quête devenue secondaire dans une Ligue 1 dévalorisée",
         "link": "https://www.lemonde.fr/sport/article/2026/05/13/le-psg-a-nouveau-sacre-champion-de-france-une-quete-devenue-secondaire-dans-une-ligue-1-devalorisee_6688758_3242.html"
-      },
-      {
-        "title": "Le Sénat américain approuve la nomination du candidat de Donald Trump, Kevin Warsh, à la tête de la Fed",
-        "link": "https://www.lemonde.fr/international/article/2026/05/13/le-senat-americain-approuve-la-nomination-du-candidat-de-donald-trump-kevin-warsh-a-la-tete-de-la-fed_6688750_3210.html"
       }
     ],
     "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
@@ -173,8 +173,8 @@
         "link": "https://www.lefigaro.fr/international/visite-de-donald-trump-en-chine-marco-rubio-photographie-avec-meme-survetement-que-nicolas-maduro-lors-de-sa-capture-20260513"
       },
       {
-        "title": "Nord : déjà condamné, un baby-sitter mis en examen pour viols ou agressions sexuelles sur une vingtaine d’enfants",
-        "link": "https://www.lefigaro.fr/actualite-france/nord-un-baby-sitter-deja-condamne-mis-en-examen-pour-viols-ou-agressions-sexuelles-sur-une-vingtaine-d-enfants-20260513"
+        "title": "Visite d’État en Chine : Donald Trump rencontre Xi Jinping au Palais du Peuple à Pékin",
+        "link": "https://www.lefigaro.fr/international/donald-trump-est-arrive-au-palais-du-peuple-a-pekin-pour-le-sommet-avec-xi-jinping-20260514"
       }
     ],
     "https://feeds.bbci.co.uk/news/world/rss.xml": [
@@ -201,6 +201,10 @@
     ],
     "https://www.theguardian.com/world/rss": [
       {
+        "title": "Remains of second US soldier who went missing during military exercises in Morocco have been recovered",
+        "link": "https://www.theguardian.com/world/2026/may/13/second-us-soldier-recovered-remains-morocco"
+      },
+      {
         "title": "‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown",
         "link": "https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights"
       },
@@ -215,10 +219,6 @@
       {
         "title": "Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa",
         "link": "https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa"
-      },
-      {
-        "title": "Body of missing US soldier recovered off coast of Morocco",
-        "link": "https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco"
       }
     ],
     "https://www.corriere.it/rss/homepage.xml": [
@@ -311,24 +311,24 @@
     ],
     "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml": [
       {
-        "title": "Nobel de Literatura chinês, Mo Yan vê IA superar barreiras linguísticas e transformar tradição oral",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/nobel-de-literatura-chines-mo-yan-ve-ia-superar-barreiras-linguisticas-e-transformar-tradicao-oral.shtml"
+        "title": "Trump chama Xi Jinping de 'grande líder' em início de cúpula histórica na China",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/trump-chama-xi-jinping-de-grande-lider-em-inicio-de-cupula-historica-na-china.shtml"
       },
       {
-        "title": "Nescau lança linha de roupas em campanha para a Copa do Mundo",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/05/nescau-lanca-linha-de-roupas-em-campanha-para-a-copa-do-mundo.shtml"
+        "title": "Instituto argentino que pesquisa hantavírus sofre com cortes orçamentários de Milei",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/05/centro-argentino-que-pesquisa-hantavirus-sofre-com-cortes-orcamentarios-de-milei.shtml"
       },
       {
-        "title": "Amazon, Shein e Shopee e outras lojas virtuais removem 'taxa das blusinhas' após decisão de Lula",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/amazon-shein-e-shopee-e-outras-lojas-virtuais-removem-taxa-das-blusinhas-apos-decisao-de-lula.shtml"
+        "title": "Prêmio Sim à Igualdade Racial reúne Péricles, Duquesa, Melly, Jotapê e Kaê Guajajara no Rio de Janeiro",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/premio-sim-a-igualdade-racial-reune-pericles-duquesa-melly-jotape-e-kae-guajajara-no-rio-de-janeiro.shtml"
       },
       {
-        "title": "Cliente é presa suspeita de agredir gerente e funcionária de spa em Niterói (RJ)",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/cliente-e-presa-suspeita-de-agredir-gerente-e-funcionaria-de-spa-em-niteroi-rj.shtml"
+        "title": "Musical sobre Diana explora a vida e as emoções da princesa britânica",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/teatro/2026/05/musical-sobre-diana-explora-a-vida-e-as-emocoes-da-princesa-britanica.shtml"
       },
       {
-        "title": "Professores da USP assinam carta em apoio à greve estudantil",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/05/professores-da-usp-assinam-carta-em-apoio-a-greve-estudantil.shtml"
+        "title": "Ministro extremista de Israel transformou segurança pública em plataforma de radicalização política",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/ministro-extremista-de-israel-transformou-seguranca-publica-em-plataforma-de-radicalizacao-politica.shtml"
       }
     ],
     "https://oglobo.globo.com/rss.xml": []
