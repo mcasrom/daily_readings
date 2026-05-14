@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 44.0°C | ⚖ Load: 0.00 | 🌐 Ping: 9.01ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 45.1°C | ⚖ Load: 0.00 | 🌐 Ping: 9.20ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,11 +41,11 @@
 
 *** El País
 
-- [[https://elpais.com/internacional/2026-05-14/donald-trump-ante-xi-jinping-la-relacion-entre-china-y-estados-unidos-va-a-ser-mejor-que-nunca.html][Donald Trump ante Xi Jinping: “La relación entre China y Estados Unidos va a ser mejor que nunca”]]
-- [[https://elpais.com/sociedad/2026-05-13/monica-garcia-sobre-la-crisis-del-hantavirus-aqui-hay-14-espanoles-a-los-que-habia-gente-que-queria-dejar-tirados.html][Mónica García, sobre la crisis del hantavirus: “Aquí hay 14 españoles a los que había gente que quería dejar tirados”]]
-- [[https://elpais.com/espana/2026-05-13/el-congreso-suspende-de-manera-indefinida-las-acreditaciones-de-vito-quiles-y-bertrand-ndongo.html][El Congreso suspende de manera indefinida las acreditaciones de Vito Quiles y Bertrand Ndongo]]
+- [[https://elpais.com/internacional/2026-05-14/donald-trump-ante-xi-jinping-la-relacion-entre-china-y-estados-unidos-va-a-ser-mejor-que-nunca.html][Xi Jinping advierte a Donald Trump que las relaciones entre China y EE UU dependen de Taiwán]]
+- [[https://elpais.com/videos/2026-05-14/la-relacion-entre-china-y-estados-unidos-tambien-importa-en-espana.html][La relación entre China y Estados Unidos también importa en España]]
+- [[https://elpais.com/espana/2026-05-14/begona-gomez-intenta-frenar-el-juicio-ante-jurado-popular-y-acusa-a-peinado-de-actuar-en-su-contra-por-ser-conyuge-del-presidente.html][Begoña Gómez intenta frenar el juicio ante jurado popular y acusa a Peinado de actuar en su contra “por ser cónyuge del presidente”]]
+- [[https://elpais.com/espana/madrid/2026-05-14/ayuso-vuelve-a-la-asamblea-de-madrid-despues-de-su-tormentoso-viaje-a-mexico.html][Ayuso defiende en la Asamblea de Madrid su tormentoso viaje: “México no existió hasta que llegaron los españoles”]]
 - [[https://elpais.com/deportes/futbol/2026-05-13/y-de-repente-una-campana-electoral-para-la-presidencia-del-real-madrid.html][Y de repente, una campaña electoral para la presidencia del Real Madrid]]
-- [[https://elpais.com/deportes/futbol/2026-05-13/florentino-perez-en-su-entrevista-con-pedrerol-en-la-sexta-solo-he-recibido-felicitaciones.html][Florentino Pérez, en su entrevista con Pedrerol en La Sexta: “Solo he recibido felicitaciones”]]
 
 *** El Mundo
 
@@ -53,37 +53,37 @@
 - [[https://www.elmundo.es/espana/2026/05/13/6a04bed7fdddff2a358b457b.html][Moncloa admite más "violencia" del narco con "armas de guerra" en un informe remitido al Congreso el día que Montero habló de "accidente laboral"]]
 - [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/13/6a04cacbe4d4d8ca0c8b4593.html][La costa andaluza anticipa las elecciones: arrasa el PP, la abstención hunde al PSOE y Vox vive de feudos antiimigración]]
 - [[https://www.elmundo.es/economia/empresas/2026/05/13/6a04a7c3e85ece30718b456e.html][La millonaria 'operación Quila' que desafía al Real Madrid de Florentino Pérez]]
-- [[https://www.elmundo.es/deportes/futbol/primera-division/2026/05/13/6a04d20221efa0af138b45be.html][Enrique Riquelme pide "diálogo" a Florentino, pero le advierte de que cumple los requisitos para ser presidente del Real Madrid]]
+- [[https://www.elmundo.es/deportes/futbol/primera-division/2026/05/13/6a04ea6b21efa047478b4576.html][El mensaje de la carta de Riquelme a Florentino, entre el halago y la advertencia: "He de dejar claro que cumplo con todos los requisitos"]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/deportes/real-madrid/20260512/11536672/florentino-convoca-elecciones-presenta-dicen-enfermo-cancer-terminal.html][Florentino convoca elecciones, solo se irá “a tiros” y carga contra los “enemigos del Real Madrid”]]
-- [[https://www.lavanguardia.com/deportes/futbol/20260512/11536731/significativa-reaccion-iker-casillas-comparecencia-florentino-perez.html][La significativa reacción de Iker Casillas a la comparecencia de Florentino Pérez]]
-- [[https://www.lavanguardia.com/deportes/fc-barcelona/20260512/11536739/barcelona-reserva-emprender-acciones-legales-acusaciones-florentino-perez-caso-negreira.html][El Barcelona se reserva emprender acciones legales tras las acusaciones de Florentino Pérez]]
-- [[https://www.lavanguardia.com/deportes/real-madrid/20260512/11536706/florentino-perez-ofrece-imposible-nadie-presentarse-elecciones-blancas.html][Florentino Pérez ofrece un imposible: casi nadie puede presentarse a las elecciones blancas]]
-- [[https://www.lavanguardia.com/deportes/20260512/11536743/florentino-dispara-prensa-senalados.html][Florentino dispara contra la prensa: uno a uno, los señalados]]
+- [[https://www.lavanguardia.com/internacional/20260513/11537690/carlos-iii-inaugura-legislatura-momento-mas-critico-primer-ministro-starmer.html][Carlos III inaugura la legislatura en el momento más crítico del primer ministro Starmer]]
+- [[https://www.lavanguardia.com/internacional/20260514/11537342/reino-unido-seis-lideres-decada.html][Reino Unido: seis líderes en una década]]
+- [[https://www.lavanguardia.com/internacional/20260513/11537389/xi-jinping-lleva-trump-ombligo-sagrado-pekin.html][Xi Jinping lleva a Trump al ombligo sagrado de Pekín]]
+- [[https://www.lavanguardia.com/internacional/20260513/11537654/inteligencia-estadounidense-reconoce-iran-aun-retiene-gran-parte-capacidades-militares.html][La inteligencia estadounidense reconoce que Irán aun retiene gran parte de sus capacidades militares]]
+- [[https://www.lavanguardia.com/internacional/20260514/11537365/guerra-secreta-golfo-arabia-saudi-emiratos-arabes-unidos-atacaron-iran.html][La guerra secreta de Arabia Saudí y Emiratos Árabes contra Irán]]
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/santander/vecinos-denuncian-que-cierre-parking-plaza-pombo-santander-comunico-boca-boca-nadie-ha-recibido-nada-oficial/20260514112906192874.html][Vecinos de Pombo denuncian que el cierre del parking se comunicó “por el boca a boca”: “No hemos recibido aviso oficial del Ayuntamiento”]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/ciclista-acaba-detenida-santander-negarse-circular-calzada/20260514104130192873.html][Una ciclista detenida en Santander tras negarse a circular por la calzada y a identificarse]]
 - [[https://eldiariocantabria.publico.es/articulo/valles-pasiegos/fomento-mejora-saneamiento-coterillo-licitara-obras-finalizar-acometidas-agua-monte-saro/20260513210458192871.html][Fomento mejora el saneamiento de Coterillo y licitará las obras para finalizar las acometidas de agua en Monte de Saro]]
 - [[https://eldiariocantabria.publico.es/articulo/laboral/sindicato-solidaridad-rechaza-ere-nestle-que-achaca-politicas-globalistas/20260513204706192869.html][El sindicato Solidaridad rechaza el ERE de Nestlé, que achaca a “políticas globalistas”]]
 - [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/plazo-inscripcion-nuevo-alumnado-escuela-municipal-musica-arrancara-proximo-lunes-18-mayo/20260513203745192868.html][El plazo de inscripción para el nuevo alumnado de la Escuela Municipal de Música arrancará el próximo lunes 18 de mayo]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/ies-santa-clara-estrena-patio-cubierto/20260513202750192866.html][El IES Santa Clara estrena patio cubierto]]
-- [[https://eldiariocantabria.publico.es/articulo/sociedad/buscan-espana-mujeres-afectadas-protesis-pip-adherirse-demanda-colectiva-francia/20260513201520192864.html][Buscan en España a mujeres afectadas por prótesis PIP para adherirse a una demanda colectiva en Francia]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/photography/interactive/2026/05/14/more-than-100-lebanese-medical-workers-killed-israel-hezbollah-war/][Lebanon’s medics vow to carry on through grief, injuries: ‘These are our people’]]
+- [[https://www.washingtonpost.com/world/2026/05/14/officially-marco-rubio-is-still-banned-china-so-how-is-he-beijing/][Officially, Marco Rubio is still banned from China. So how is he in Beijing?]]
+- [[https://www.washingtonpost.com/politics/2026/05/14/trump-chinas-xi-hold-opening-session-two-day-summit/][Xi warns Trump that mishandling Taiwan could spark ‘conflicts’]]
 - [[https://www.washingtonpost.com/national-security/2026/05/13/china-gains-major-edge-us-amid-iran-war-us-intelligence-finds/][China gains major edge on U.S. amid Iran war, intelligence report finds]]
 - [[https://www.washingtonpost.com/politics/2026/05/13/trump-arrives-china-meet-with-xi-jinping-taiwan-trade-iran/][Facing headwinds at home, Trump signals eagerness to make deals at China summit]]
-- [[https://www.washingtonpost.com/world/2026/05/13/kremlin-is-throttling-internet-access-russians-are-finding-workarounds/][As the Kremlin throttles internet access, Russians find scrappy work-arounds]]
-- [[https://www.washingtonpost.com/world/2026/05/13/hezbollahs-unjammable-drones-pose-new-threat-israel/][Hezbollah’s unjammable drones pose new threat to Israel]]
-- [[https://www.washingtonpost.com/national-security/2026/05/11/us-ukraine-trump-weapons-purl/][As Iran war hits U.S. weapons stocks, allies fear impact on Ukraine]]
 
 *** WSJ.com: World News
 
-- [[https://www.wsj.com/world/china/trump-and-xi-begin-superpowers-summit-on-trade-and-war-82bea6fc][Trump and Xi Begin Superpowers’ Summit on Trade and War]]
+- [[https://www.wsj.com/world/china/trump-and-xi-begin-superpowers-summit-on-trade-and-war-82bea6fc][Xi’s Taiwan Warning to Trump Highlights Tensions in Beijing Summit]]
 - [[https://www.wsj.com/world/europe/military-snipers-are-being-put-out-of-a-job-by-drones-ae85a271][Military Snipers Are Being Put Out of a Job by Drones]]
 - [[https://www.wsj.com/world/americas/el-chapo-sinaloa-cartel-civil-war-42fa0470][The Reign of ‘El Chapo’ Is Over but the Bodies Keep Piling Up]]
 - [[https://www.wsj.com/world/asia/inside-taiwans-coast-guard-mission-to-thwart-a-chinese-blockade-136cabcc][We Joined a Taiwan Coast Guard Mission on the Front Line Against China]]
@@ -93,29 +93,29 @@
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/article/2026/05/14/liban-israel-a-washington-les-negociations-s-annoncent-difficiles-pour-deux-delegations-sous-pression_6689026_3210.html][Liban-Israël : à Washington, les négociations s’annoncent difficiles pour deux délégations sous pression]]
-- [[https://www.lemonde.fr/planete/article/2026/05/13/hantavirus-existe-t-il-des-traitements-et-vaccins_6688730_3244.html][Hantavirus : ce que l’on sait sur les traitements à l’essai et les candidats-vaccins]]
-- [[https://www.lemonde.fr/societe/article/2026/05/13/au-proces-en-appel-de-l-affaire-libyenne-le-parquet-requiert-des-sanctions-a-la-hauteur-de-la-gravite-des-faits_6688755_3224.html][Au procès en appel de l’affaire libyenne, le parquet requiert des sanctions « à la hauteur de la gravité des faits »]]
-- [[https://www.lemonde.fr/international/live/2026/05/14/en-direct-guerre-en-ukraine-des-drones-et-des-missiles-balistiques-lances-sur-kiev_6687661_3210.html][EN DIRECT, guerre en Ukraine : des drones et des missiles balistiques lancés sur Kiev, au moins un mort]]
-- [[https://www.lemonde.fr/sport/article/2026/05/13/le-psg-a-nouveau-sacre-champion-de-france-une-quete-devenue-secondaire-dans-une-ligue-1-devalorisee_6688758_3242.html][Le PSG à nouveau sacré champion de France, une quête devenue secondaire dans une Ligue 1 dévalorisée]]
+- [[https://www.lemonde.fr/sante/live/2026/05/14/en-direct-hantavirus-les-26-francais-cas-contacts-de-la-passagere-morte-d-une-infection-ont-ete-diagnostiques-negatifs-annonce-stephanie-rist-ministre-de-la-sante_6688609_1651302.html][EN DIRECT, hantavirus : les 26 Français cas contacts de la passagère morte d’une infection ont été diagnostiqués négatifs, annonce Stéphanie Rist, ministre de la santé]]
+- [[https://www.lemonde.fr/economie/article/2026/05/14/avec-cma-media-rodolphe-saade-batit-un-empire-mediatique-aso-et-m6-en-ligne-de-mire_6688993_3234.html][Avec CMA Média, Rodolphe Saadé bâtit un empire médiatique, ASO et M6 en ligne de mire]]
+- [[https://www.lemonde.fr/international/live/2026/05/14/en-direct-guerre-au-moyen-orient-israel-accentue-ses-bombardements-sur-le-liban-faisant-plus-de-20-morts-alors-que-des-discussions-s-ouvrent-entre-les-deux-pays-a-washington_6688992_3210.html][EN DIRECT, guerre au Moyen-Orient : le secrétaire d’Etat américain, Marco Rubio, espère que la Chine va « clarifier sa position à l’égard de l’Iran » ; Israël et le Liban vont entamer des pourparlers à Washington jeudi]]
+- [[https://www.lemonde.fr/international/article/2026/05/14/a-pekin-xi-jinping-previent-donald-trump-du-risque-de-conflit-sur-taiwan_6689038_3211.html][A Pékin, Xi Jinping prévient Donald Trump du risque de « conflit » sur Taïwan]]
+- [[https://www.lemonde.fr/international/live/2026/05/14/en-direct-guerre-en-ukraine-la-premiere-ministre-lettone-annonce-sa-demission-apres-l-intrusion-de-drones-ukrainiens-trois-morts-a-kiev-apres-une-attaque-nocturne-russe-de-grande-ampleur_6687661_3210.html][EN DIRECT, guerre en Ukraine : la première ministre lettone annonce sa démission après l’intrusion de drones ukrainiens ; trois morts à Kiev après une attaque nocturne russe de grande ampleur]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/affaibli-par-la-guerre-en-iran-donald-trump-en-visite-a-pekin-pour-chercher-la-detente-20260513][Affaibli par la guerre en Iran, Donald Trump en visite à Pékin pour chercher la détente]]
-- [[https://www.lefigaro.fr/vox/monde/l-editorial-de-philippe-gelie-trump-au-pied-du-mur-xi-20260513][L’éditorial de Philippe Gélie : «Trump au pied du mur Xi»]]
-- [[https://www.lefigaro.fr/international/pourquoi-la-chine-est-la-cible-indirecte-des-guerres-de-l-amerique-20260513][Pourquoi la Chine est la cible indirecte des guerres de l’Amérique]]
-- [[https://www.lefigaro.fr/international/visite-de-donald-trump-en-chine-marco-rubio-photographie-avec-meme-survetement-que-nicolas-maduro-lors-de-sa-capture-20260513][Visite de Donald Trump en Chine : Marco Rubio photographié avec le même survêtement que Nicolas Maduro lors de sa capture]]
-- [[https://www.lefigaro.fr/international/donald-trump-est-arrive-au-palais-du-peuple-a-pekin-pour-le-sommet-avec-xi-jinping-20260514][Visite d’État en Chine : Donald Trump rencontre Xi Jinping au Palais du Peuple à Pékin]]
+- [[https://www.lefigaro.fr/sciences/en-direct-hantavirus-virus-contamination-mv-hondius-croisiere-cas-contacts-20260514][EN DIRECT - Hantavirus : tous les cas contacts français testés négatifs, annonce la ministre de la Santé]]
+- [[https://www.lefigaro.fr/sciences/hantavirus-les-trois-scenarios-possibles-d-evolution-de-l-epidemie-dans-les-semaines-a-venir-20260514][Hantavirus : les trois scénarios possibles d’évolution de l’épidémie dans les semaines à venir]]
+- [[https://sante.lefigaro.fr/medecine/hantavirus-une-souche-du-virus-infecte-discretement-des-dizaines-de-francais-chaque-annee-20260513][Hantavirus : une souche du virus infecte discrètement des dizaines de Français chaque année]]
+- [[https://www.lefigaro.fr/actualite-france/la-maladie-a-l-air-assez-brutale-avec-les-contaminations-au-hantavirus-la-crainte-de-revivre-le-traumatisme-du-covid-20260513][«La maladie a l’air assez brutale» : avec les contaminations au hantavirus, la crainte de revivre le «traumatisme» du Covid]]
+- [[https://www.lefigaro.fr/international/en-direct-conflit-moyen-orient-guerre-iran-etats-unis-liban-israel-emirats-arabes-unis-qatar-cessez-le-feu-donald-trump-benyamin-netanyahou-20260514][EN DIRECT - Guerre au Moyen-Orient: Donald Trump et Xi Jinping d’accord sur le fait que le détroit d’Ormuz «doit rester ouvert»]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
 - [[https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss][Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi]]
+- [[https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&at_campaign=rss][Watch: What happened on day one of Trump's China visit?]]
 - [[https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss][Court overturns Alex Murdaugh's murder convictions and orders new trial]]
-- [[https://www.bbc.com/news/articles/c1j2n008k5lo?at_medium=RSS&at_campaign=rss][Dozens of dogs rescued and suspect arrested in Uganda after BBC investigation]]
-- [[https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss][Woman isolating on British island in South Pacific after hantavirus contact]]
-- [[https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss][What to know as Trump visits Xi in China]]
+- [[https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss]['They shot my neighbour in the head' - the lakeside city traumatised by war]]
+- [[https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss][Israeli strikes in southern Lebanon kill 22 people, health ministry says]]
 
 *** The Guardian
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/dall-imu-multe-stradali-rottamazione-quinquies-anche-le-cartelle-comuni-AI6nkt3C][Dall’Imu alle multe stradali: rottamazione quinquies anche per le cartelle dei Comuni]]
-- [[https://www.ilsole24ore.com/art/consob-federico-freni-si-chiama-fuori-corsa-la-presidenza-AIf0pb3C][Consob, Federico Freni si chiama fuori dalla corsa per la presidenza]]
-- [[https://www.ilsole24ore.com/art/pensioni-studio-proroga-dell-isopensione-il-2026-e-l-estensione-canali-uscita-il-pensionamento-AIRzEW3C][Pensioni, allo studio proroga dell’isopensione dopo il 2026 e l’estensione dei canali di uscita]]
-- [[https://www.ilsole24ore.com/art/nucleare-meloni-entro-l-estate-via-libera-legge-delega-AILeIK3C][Nucleare, Meloni: entro l’estate via libera alla legge delega]]
-- [[https://www.ilsole24ore.com/art/pnrr-foti-in-arrivo-provvedimento-i-trasporti-isole-AIbMaJ3C][Pnrr, Foti: «In arrivo un provvedimento per i trasporti sulle Isole»]]
+- [[https://www.ilsole24ore.com/art/polizia-locale-riforma-senza-fondi-comuni-conto-nuove-tutele-AIlLvM4C][Polizia locale, riforma senza fondi: ai Comuni il conto delle nuove tutele]]
+- [[https://www.ilsole24ore.com/art/spiagge-bandiere-blu-salgono-257-liguria-testa-AIF4pK4C][Spiagge, le Bandiere Blu salgono a 257: entra Rimini, esce San Felice Circeo]]
+- [[https://www.ilsole24ore.com/art/corte-conti-pnrr-e-linea-ma-restano-criticita-infrastrutture-AIE8rH4C][Corte dei conti sul Pnrr: è in linea, ma restano criticità nelle infrastrutture]]
+- [[https://www.ilsole24ore.com/art/estate-2026-via-centri-estivi-agricoli-bambini-riscoprire-campagna-e-tradizioni-rurali-AIZ3rG3C][Estate 2026, al via i centri estivi agricoli per bambini per riscoprire campagna e tradizioni rurali]]
+- [[https://www.ilsole24ore.com/art/ferrovie-angelo-holding-vito-pertosa-cede-siemens-attivita-mer-mec-AI01mE4C][Ferrovie, Angel holding di Vito Pertosa cede a Siemens attività di Mermec]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/latvia-prime-minister-evika-silina-resigns-over-handling-of-drone-incidents-after-coalition-ally-s-withdrawal/a-77159518?maca=en-rss-en-world-4025-rdf][Latvia: Prime Minister Evika Silina resigns over handling of drone incidents after coalition ally's withdrawal]]
+- [[https://www.dw.com/en/honda-reports-first-loss-since-1957-as-it-waters-down-ev-strategy-but-shares-rise-on-2026-forecasts/a-77158590?maca=en-rss-en-world-4025-rdf][Honda reports first loss since 1957 as it waters down EV strategy, but shares rise on 2026 forecasts]]
+- [[https://www.dw.com/en/regime-change-hungary-s-magyar-exposes-orban-s-decadence/a-77153692?maca=en-rss-en-world-4025-rdf]['Regime change': Hungary's Magyar exposes Orban's decadence]]
 - [[https://www.dw.com/en/tigray-tensions-raise-fears-of-ethiopia-eritrea-war/a-77133464?maca=en-rss-en-world-4025-rdf][Tigray tensions raise fears of Ethiopia-Eritrea war]]
 - [[https://www.dw.com/en/can-south-africa-s-president-ramaphosa-avoid-impeachment-again/a-77132788?maca=en-rss-en-world-4025-rdf][Can South Africa's President Ramaphosa avoid impeachment again?]]
-- [[https://www.dw.com/en/indians-growing-anxious-as-modi-asks-them-to-cut-on-fuel/a-77146787?maca=en-rss-en-world-4025-rdf][Indians growing anxious as Modi asks them to cut on fuel]]
-- [[https://www.dw.com/en/ceasefire-in-sight-what-s-next-for-russia-s-war-in-ukraine/a-77138367?maca=en-rss-en-world-4025-rdf][Ceasefire in sight? What's next for Russia's war in Ukraine]]
-- [[https://www.dw.com/en/china-s-new-rules-give-the-west-a-new-headache/a-77075741?maca=en-rss-en-world-4025-rdf][China’s new rules give the West a new headache]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/trump-chama-xi-jinping-de-grande-lider-em-inicio-de-cupula-historica-na-china.shtml][Trump chama Xi Jinping de 'grande líder' em início de cúpula histórica na China]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/05/centro-argentino-que-pesquisa-hantavirus-sofre-com-cortes-orcamentarios-de-milei.shtml][Instituto argentino que pesquisa hantavírus sofre com cortes orçamentários de Milei]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/premio-sim-a-igualdade-racial-reune-pericles-duquesa-melly-jotape-e-kae-guajajara-no-rio-de-janeiro.shtml][Prêmio Sim à Igualdade Racial reúne Péricles, Duquesa, Melly, Jotapê e Kaê Guajajara no Rio de Janeiro]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/teatro/2026/05/musical-sobre-diana-explora-a-vida-e-as-emocoes-da-princesa-britanica.shtml][Musical sobre Diana explora a vida e as emoções da princesa britânica]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/ministro-extremista-de-israel-transformou-seguranca-publica-em-plataforma-de-radicalizacao-politica.shtml][Ministro extremista de Israel transformou segurança pública em plataforma de radicalização política]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/05/repensem-a-masculinidade-diz-vera-iaconelli-em-debate-com-juliana-cazarre.shtml]['Repensem a masculinidade', diz Vera Iaconelli em debate com Juliana Cazarré]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/alcolumbre-e-mucio-se-encontram-um-dia-apos-constrangimento-em-posse-do-tse.shtml][Alcolumbre e Múcio se encontram um dia após constrangimento em posse do TSE]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/estilo/2026/05/teste-de-coloracao-pessoal-no-chatgpt-funciona-comparamos-resultado-com-avaliacao-profissional.shtml][Teste de coloração pessoal no ChatGPT funciona? Comparamos resultado com avaliação profissional]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/05/neandertal-tratou-carie-em-dente-possivelmente-com-ferramenta-de-pedra.shtml][Neandertal tratou cárie em dente possivelmente com ferramenta de pedra]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/mp-sp-tenta-ampliar-receitas-proprias-apos-decisoes-do-stf-sobre-penduricalhos.shtml][MP-SP tenta ampliar receitas próprias após decisões do STF sobre penduricalhos]]
 
 *** O Globo
 
