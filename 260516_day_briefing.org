@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 44.0°C | ⚖ Load: 0.00 | 🌐 Ping: 9.22ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 44.5°C | ⚖ Load: 0.00 | 🌐 Ping: 9.37ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,19 +41,19 @@
 
 *** El País
 
-- [[https://elpais.com/us/2026-05-16/una-cuba-al-borde-del-colapso-se-asoma-al-vertigo-del-cambio-impuesto-desde-estados-unidos.html][Una Cuba al borde del colapso se asoma al vértigo del cambio impuesto desde Estados Unidos]]
-- [[https://elpais.com/us/2026-05-16/el-cangrejo-el-nieto-favorito-de-raul-castro-que-se-sienta-a-hablar-con-estados-unidos.html][El Cangrejo, el nieto “favorito” de Raúl Castro que se sienta a hablar con Estados Unidos]]
+- [[https://elpais.com/sociedad/2026-05-16/ana-redondo-ministra-de-igualdad-el-caso-abalos-ha-hecho-muchisimo-dano-y-ha-afectado-a-nuestra-credibilidad.html][Ana Redondo, ministra de Igualdad: “El ‘caso Ábalos’ ha hecho muchísimo daño y ha afectado a nuestra credibilidad”]]
+- [[https://elpais.com/espana/2026-05-16/hallados-muertos-un-guardia-civil-su-mujer-y-su-hijo-en-alicante.html][Hallados los cuerpos de un guardia civil, su mujer y su hijo en un cuartel de Alicante, en un presunto caso de violencia machista]]
+- [[https://elpais.com/espana/elecciones-andalucia/2026-05-16/familia-amigos-y-vida-cotidiana-asi-pasan-el-dia-de-reflexion-los-candidatos-a-la-junta-de-andalucia.html][Familia, amigos y vida cotidiana, así pasan el día de reflexión los candidatos a la Junta de Andalucía]]
 - [[https://elpais.com/actualidad/newsletter-kiko-llaneras/2026-05-16/que-dicen-las-encuestas-en-andalucia-el-pinchazo-del-pp-y-otras-posibles-sorpresas.html][¿Qué dicen las encuestas en Andalucía? El pinchazo del PP y otras posibles sorpresas]]
 - [[https://elpais.com/espana/elecciones-andalucia/2026-05-16/mapa-asi-han-votado-los-andaluces-desde-1982-municipio-a-municipio.html][Mapa | Así han votado los andaluces desde 1982, municipio a municipio]]
-- [[https://elpais.com/espana/elecciones-andalucia/2026-05-16/ultima-hora-de-la-actualidad-politica-en-directo.html][Última hora de la actualidad política, en directo | Los candidatos dedican la jornada de reflexión a estar con la familia, pasear por la playa e ir a la feria]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/15/6a076eb6e9cf4aa20b8b4587.html][Moreno se multiplica en el sprint final para amarrar la mayoría frente a una Montero desdibujada y atada a Pedro Sánchez]]
-- [[https://www.elmundo.es/espana/2026/05/16/6a07338ce4d4d8dd0d8b4579.html][Elecciones como plebiscitos existenciales]]
+- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/16/6a070786fc6c8336218b45ac.html][Andalucía pone a prueba la vía moderada de Juanma Moreno y su influencia para que Feijóo la abrace en el resto de España]]
 - [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/15/6a072971fdddffd4418b4589.html][Los últimos escaños en cinco provincias decidirán si el PP alcanza la mayoría absoluta en Andalucía]]
-- [[https://www.elmundo.es/cataluna/2026/05/16/6a0770aae4d4d8c72c8b457d.html][Illa y Junqueras cierran el acuerdo de los Presupuestos catalanes y lo presentarán justo después de las elecciones andaluzas]]
-- [[https://www.elmundo.es/economia/empresas/2026/05/16/6a060de3fc6c83bf678b45ba.html][El opaco rastro de las renuncias a fondos europeos: 1.400 millones devueltos por entidades públicas y empresas entre el tapón burocrático  y el silencio de varios Ministerios]]
+- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/15/6a076eb6e9cf4aa20b8b4587.html][Moreno se multiplica en el sprint final para amarrar la mayoría frente a una Montero desdibujada y atada a Pedro Sánchez]]
+- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/16/69fca3d8e4d4d8f5268b4571.html][Las elecciones andaluzas en clave verdiblanca: por qué todos los partidos han querido subirse ahora al carro del andalucismo]]
+- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/16/6a085a9de9cf4ae6678b456e.html][Así pasan los candidatos del 17-M la jornada de reflexión: compras, librería, comida con amigos y hasta un rato en la feria de Jerez]]
 
 *** La Vanguardia
 
@@ -65,57 +65,57 @@
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/santander/sindicatos-policia-local-denuncian-que-solo-habra-12-agentes-calle-partido-racing-resto-ciudad/20260516113237192993.html][Los sindicatos de la Policía Local denuncian que solo habrá 12 agentes en la calle para el partido del Racing y el resto de la ciudad]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/fallece-manuel-vinatea-expresidente-federacion-cofradias-pescadores-cantabria/20260516110438192992.html][Fallece Manuel Vinatea, expresidente de la Federación de Cofradías de Pescadores de Cantabria]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/ciudades-barro-oceanos-arena/20260516104500192965.html][Egipto, el espejo del desierto (3): Ciudades de barro, océanos de arena]]
-- [[https://eldiariocantabria.publico.es/articulo/politica/reabierta-zona-marisquera-argonos-autorizada-parcialmente-actividad-ria-tinamenor/20260515211316192963.html][Reabierta la zona marisquera de Argoños y autorizada parcialmente la actividad en la Ría de Tinamenor]]
-- [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/abierto-plazo-inscripcion-36o-concurso-pintura-rapida-aire-libre/20260515210638192962.html][Abierto el plazo de inscripción del 36º Concurso de Pintura Rápida al aire libre]]
+- [[https://eldiariocantabria.publico.es/articulo/cultura/mas-celebra-dia-museos-semana-arte-teatro-musica/20260516171613193002.html][El MAS celebra el Día de los Museos con una semana de arte, teatro y música]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/coche-apartado-ladera-8-moviliza-dispositivo-emergencias/20260516165204193000.html][Un coche apartado en una ladera de la A-8 moviliza un dispositivo de emergencias]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/indemnizada-mujer-73700-euros-subasta-indebida-casa-juzgado-santander/20260516132010192998.html][Indemnizada una mujer con 73.700 euros por la subasta indebida de su casa en un Juzgado de Santander]]
+- [[https://eldiariocantabria.publico.es/articulo/deportes/dia-ilusion-todo-que-necesitas-saber-posible-regreso-racing-elite/20260516123457192997.html][El día de la ilusión: Todo lo que necesitas saber sobre el posible regreso del Real Racing Club a la élite]]
+- [[https://eldiariocantabria.publico.es/articulo/deportes/bathco-bm-torrelavega-ficha-lateral-brasileno-mikael-lopes/20260516121931192995.html][El Bathco BM Torrelavega ficha al lateral brasileño Mikael Lopes]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/05/16/senior-isis-commander-killed-by-us-nigerian-forces-trump-says/][Trump says top Islamic State leader was killed in Nigeria strike]]
+- [[https://www.washingtonpost.com/politics/2026/05/16/china-summit-showed-how-trump-problems-hobble-his-diplomacy/][Trump’s China summit shows toll of a difficult year for the president]]
 - [[https://www.washingtonpost.com/world/2026/05/15/us-sunk-970-million-mission-that-left-haiti-worse-now-its-trying-again/][U.S. sank $970 million in mission that left Haiti worse off. It’s trying again.]]
 - [[https://www.washingtonpost.com/world/2026/05/15/bloody-week-unfolds-ukraine-russia-after-brief-ceasefire/][Tumultuous, bloody week unfolds in Ukraine and Russia after brief ceasefire]]
 - [[https://www.washingtonpost.com/world/2026/05/15/russian-drones-hunt-ukrainians-human-safari-boy-fought-back/][In northern Ukraine, it was boy vs. Russian drone. The boy won.]]
-- [[https://www.washingtonpost.com/politics/2026/05/15/beijing-summit-yields-chinese-goal-equal-footing-with-us/][In pageantry and politics, China summit yields Xi’s goal — equal footing with U.S.]]
-- [[https://www.washingtonpost.com/politics/2026/05/14/trump-chinas-xi-hold-opening-session-two-day-summit/][Xi warns Trump that mishandling Taiwan could spark ‘conflicts’]]
 
 *** WSJ.com: World News
 
 - [[https://www.wsj.com/world/africa/u-s-nigerian-forces-kill-top-islamic-state-leader-6b4c3034][U.S., Nigerian Forces Kill Top Islamic State Leader]]
+- [[https://www.wsj.com/world/middle-east/israel-kills-hamass-ghost-after-years-of-failed-attempts-665130fe][Israel Kills Hamas’s ‘Ghost’ After Years of Failed Attempts]]
 - [[https://www.wsj.com/world/europe/how-eurovision-became-a-global-soft-power-play-d02d6948][How Eurovision Became a Global Soft Power Play]]
 - [[https://www.wsj.com/world/middle-east/how-secret-u-a-e-and-saudi-strikes-on-iran-shattered-an-uneasy-coexistence-2e4502b6][How Secret U.A.E. and Saudi Strikes on Iran Shattered an Uneasy Coexistence]]
 - [[https://www.wsj.com/world/americas/trump-cuba-raul-castro-e52f25a4][U.S. Prosecutors Zero In on Cuban Revolutionary Patriarch Raúl Castro]]
-- [[https://www.wsj.com/world/china/beijings-industrial-policy-of-everything-leaves-rest-of-the-world-in-the-dust-8b94a046][Beijing’s ‘Industrial Policy of Everything’ Leaves Rest of the World in the Dust]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/05/16/en-direct-guerre-au-moyen-orient-le-liban-appelle-a-une-stabilite-durable-avec-israel-apres-la-prolongation-du-cessez-le-feu_6688992_3210.html][EN DIRECT, guerre au Moyen-Orient : l’armée israélienne mène de nouveaux bombardements dans le sud du Liban, au lendemain de la prolongation du cessez-le-feu]]
-- [[https://www.lemonde.fr/international/article/2026/05/16/aux-etats-unis-la-police-de-l-immigration-revoit-sa-communication-mais-pas-ses-methodes_6689683_3210.html][Aux Etats-Unis, la police de l’immigration revoit sa communication, mais pas ses méthodes]]
-- [[https://www.lemonde.fr/societe/article/2026/05/16/hantavirus-recit-d-une-semaine-sous-pression-en-france-entre-inconnues-scientifiques-et-a-coups-de-l-executif_6689602_3224.html][Hantavirus : récit d’une semaine sous pression en France, entre inconnues scientifiques et à-coups de l’exécutif]]
-- [[https://www.lemonde.fr/international/article/2026/05/16/au-royaume-uni-le-va-tout-d-andy-burnham-en-pole-position-pour-defier-keir-starmer_6689675_3210.html][Au Royaume-Uni, le va-tout d’Andy Burnham, en pole position pour défier Keir Starmer]]
-- [[https://www.lemonde.fr/economie/article/2026/05/16/tourisme-les-reservations-de-voyages-en-net-recul-chez-les-tour-operateurs-francais_6689724_3234.html][Tourisme : les réservations de voyages en net recul chez les tour-opérateurs français]]
+- [[https://www.lemonde.fr/international/live/2026/05/16/en-direct-guerre-au-moyen-orient-au-liban-bombardements-israeliens-malgre-le-cessez-le-feu-msf-condamne-les-attaques-contre-des-secouristes_6688992_3210.html][EN DIRECT, guerre au Moyen-Orient : au Liban, bombardements israéliens malgré le cessez-le-feu, MSF condamne les attaques contre des secouristes]]
+- [[https://www.lemonde.fr/international/article/2026/05/16/a-londres-la-police-se-prepare-a-encadrer-une-nouvelle-marche-d-extreme-droite-a-l-appel-de-tommy-robinson_6689759_3210.html][A Londres, des dizaines de milliers de manifestants d’extrême droite ont commencé à se rassembler à l’appel du militant Tommy Robinson]]
+- [[https://www.lemonde.fr/les-decodeurs/article/2026/05/16/eurovision-2026-le-petit-guide-pour-comprendre-cette-nouvelle-edition_6689897_4355770.html][Eurovision 2026 : le guide pour comprendre cette nouvelle édition]]
+- [[https://www.lemonde.fr/societe/article/2026/05/16/le-pape-leon-xiv-se-rendra-en-france-du-25-au-28-septembre-pour-une-visite-d-etat-annonce-le-vatican_6689873_3224.html][Le pape Léon XIV se rendra en France du 25 au 28 septembre pour une visite d’Etat, annonce le Vatican]]
+- [[https://www.lemonde.fr/culture/article/2026/05/16/cannes-2026-dans-memoire-de-fille-judith-godreche-livre-une-adaptation-sans-relief-du-livre-d-annie-ernaux_6689890_3246.html][Cannes 2026 : dans « Mémoire de fille », Judith Godrèche livre une adaptation sans relief du livre d’Annie Ernaux]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/actualite-france/gerald-darmanin-se-rend-a-alger-lundi-pour-evoquer-la-cooperation-judiciaire-et-le-cas-de-christophe-gleizes-20260516][Gérald Darmanin se rendra à Alger lundi pour évoquer la coopération judiciaire et le cas de Christophe Gleizes]]
-- [[https://www.lefigaro.fr/vox/monde/eugenie-bastie-france-algerie-sortir-de-la-nevrose-memorielle-20260513][Eugénie Bastié : « France-Algérie : sortir de la névrose mémorielle »]]
-- [[https://www.lefigaro.fr/international/l-elysee-annonce-le-retour-de-son-ambassadeur-a-alger-et-amorce-un-degel-prudent-20260508][France-Algérie : l’Élysée annonce le retour de son ambassadeur à Alger et amorce un dégel prudent]]
-- [[https://www.lefigaro.fr/faits-divers/paris-des-militants-d-extinction-rebellion-suspendent-un-drapeau-palestinien-sur-la-tour-eiffel-six-interpellations-20260516][Paris : des militants d’Extinction Rébellion suspendent un drapeau palestinien sur la tour Eiffel, six interpellations]]
-- [[https://www.lefigaro.fr/international/et-si-l-europe-devenait-la-macedoine-le-drole-de-songe-historique-de-jean-noel-barrot-pour-sortir-par-le-haut-du-piege-de-thucydide-20260516][Et si l’Europe devenait la Macédoine ? Le drôle de songe historique de Jean-Noël Barrot pour sortir par le haut du «piège de Thucydide»]]
+- [[https://www.lefigaro.fr/actualite-france/la-dz-mafia-point-nevralgique-de-la-visite-de-gerald-darmanin-en-algerie-20260516][La DZ Mafia, point névralgique de la visite de Gérald Darmanin en Algérie]]
+- [[https://www.lefigaro.fr/actualite-france/gerald-darmanin-se-rend-a-alger-lundi-pour-evoquer-la-cooperation-judiciaire-et-le-cas-de-christophe-gleizes-20260516][Visite en Algérie : le cas de Christophe Gleizes, la délicate mission de Gérald Darmanin]]
+- [[https://www.lefigaro.fr/international/en-direct-apres-l-annonce-d-une-extension-de-45-jours-de-la-treve-avec-israel-le-liban-espere-obtenir-une-paix-durable-20260516][EN DIRECT - Guerre au Moyen-Orient : selon l’Iran, «des Européens ont entamé des négociations» pour franchir le détroit d’Ormuz]]
+- [[https://www.lefigaro.fr/international/des-hackers-iraniens-s-en-sont-pris-a-certaines-stations-service-americaines-revele-cnn-20260516][Des hackers iraniens s’en sont pris à certaines stations-service américaines, révèle CNN]]
+- [[https://www.lefigaro.fr/international/gaza-ce-que-l-on-sait-sur-la-mort-du-chef-de-la-branche-armee-du-hamas-ezzedine-al-haddad-tue-dans-une-frappe-israelienne-20260516][Gaza : ce que l’on sait sur la mort du chef de la branche armée du Hamas, Ezzedine al-Haddad, tué dans une frappe israélienne]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss][Senior IS leader killed by US and Nigerian forces]]
+- [[https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss][Senior IS leader killed in joint operation, US and Nigeria say]]
+- [[https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss][Rescue diver dies during search for bodies of Italians who drowned in Maldives caves]]
+- [[https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss][US planning to charge ex-Cuban leader Raúl Castro]]
+- [[https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss][Toddlers among more than 50 schoolchildren kidnapped in Nigeria]]
 - [[https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss][Trump warns Taiwan against declaring independence, hours after summit with China's Xi]]
-- [[https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss][Trump and Xi conclude 'very successful' talks but few deals confirmed]]
-- [[https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss][Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele]]
-- [[https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss][Man killed by 13ft great white shark in Western Australia]]
 
 *** The Guardian
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/migranti-nenonata-morta-ipotermia-lo-sbarco-lampedusa-AIvSUy6C][Migranti, nenonata morta per ipotermia dopo lo sbarco a Lampedusa]]
-- [[https://www.ilsole24ore.com/art/abi-ad-aprile-salgono-tassi-mutui-la-casa-343percento-AIseMu6C][Abi, ad aprile salgono i tassi sui mutui per la casa: 3,43%]]
-- [[https://www.ilsole24ore.com/art/porta-porta-bufera-le-parole-concita-borrelli-lo-stupro-e-ognuno-AIAfUt6C][Porta a Porta, bufera per le parole di Concita Borrelli: «Lo stupro è in ognuno di noi»]]
-- [[https://www.ilsole24ore.com/art/meloni-oggi-grecia-all-europe-gulf-antenna-group-incontrera-premier-qatarino-AIV2NY6C][Meloni oggi in Grecia all’Europe Gulf di Antenna Group. Incontrerà il premier qatarino]]
-- [[https://www.ilsole24ore.com/art/sp-conferma-rating-italia-bbb-outlook-positivo-AICa8C6C][S&amp;P conferma rating Italia: BBB+ con outlook positivo]]
+- [[https://www.ilsole24ore.com/art/auto-falcia-decina-pedoni-modena-ci-sono-feriti-AIrgZF7C][Modena: in auto falcia una decina di pedoni, poi accoltella passanti. Ci sono feriti]]
+- [[https://www.ilsole24ore.com/art/mondello-concessione-bilico-l-estate-decisione-giudici-lunedi-e-martedi-AIfS794C][Mondello, concessione in bilico per l’estate: la decisione dei giudici tra lunedì e martedì]]
+- [[https://www.ilsole24ore.com/art/salario-giusto-e-salario-minimo-qual-e-differenza-AIQfK76C][Salario giusto e salario minimo, qual è la differenza?]]
+- [[https://www.ilsole24ore.com/art/tassisti-dichiarazioni-19mila-euro-redditi-crescita-lenta-AIA9Qz6C][Redditi dei tassisti italiani: crescita modesta e disparità territoriali nel 2024]]
+- [[https://www.ilsole24ore.com/art/carburanti-settimana-fine-sconto-cosa-potrebbe-accadere-AIxTTg6C][Carburanti, il taglio alle accise scade tra sette giorni: cosa potrebbe accadere]]
 
 ** 🇩🇪 Alemania
 
@@ -165,11 +165,11 @@
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/05/eua-pressionaram-argentina-e-chile-para-barrar-telescopios-chineses-nos-dois-paises.shtml][EUA pressionaram Argentina e Chile para barrar telescópios chineses nos dois países]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/05/fundo-de-advogado-de-eduardo-que-administrou-dinheiro-de-vorcaro-para-filme-comprou-casa-no-texas.shtml][Fundo de advogado de Eduardo que administrou dinheiro de Vorcaro para filme comprou casa no Texas]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/em-menos-de-24h-no-ar-vaquinha-a-pre-candidatos-soma-mais-de-r-200-mil.shtml][Em menos de 24h no ar, vaquinha a pré-candidatos soma mais de R$ 200 mil]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/sabado-16-deve-ter-sol-entre-nuvens-e-chuva-fraca-a-tarde-em-sao-paulo.shtml][Sábado (16) deve ter sol entre nuvens e chuva fraca à tarde em São Paulo]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/lider-do-estado-islamico-e-morto-na-nigeria-afirma-trump.shtml][Líder do Estado Islâmico é morto na Nigéria, afirma Trump]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/05/guardiola-conquista-o-3o-titulo-da-copa-da-inglaterra-com-vitoria-sobre-chelsea.shtml][Guardiola conquista o 3º título da Copa da Inglaterra com vitória sobre Chelsea]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/policia-apreende-6-adolescentes-investigados-sob-suspeita-de-estupro-coletivo-no-rio.shtml][Polícia apreende 6 adolescentes investigados sob suspeita de estupro coletivo no Rio]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/flavio-bolsonaro-diz-que-tentaram-enterra-lo-vivo-e-compara-lula-ao-diabo.shtml][Flávio Bolsonaro diz que tentaram enterrá-lo vivo e compara Lula ao diabo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/05/malta-fecha-acordo-para-populacao-receber-chatgpt-plus-de-graca-por-um-ano.shtml][Malta fecha acordo para população receber ChatGPT plus de graça por um ano]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/05/gabriela-loran-revela-desejo-de-ser-mae-e-de-gerar-nasci-para-a-maternidade.shtml][Gabriela Loran revela desejo de ser mãe e de gerar: 'Nasci para a maternidade']]
 
 *** O Globo
 
