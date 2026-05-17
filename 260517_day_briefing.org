@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 43.5°C | ⚖ Load: 0.08 | 🌐 Ping: 9.43ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 43.5°C | ⚖ Load: 0.00 | 🌐 Ping: 9.96ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,19 +41,19 @@
 
 *** El País
 
-- [[https://elpais.com/espana/elecciones-andalucia/2026-05-17/directo-jornada-electoral-17m-votaciones-participacion-sondeos-recuento-y-resultados.html][Elecciones en Andalucía 17M, en directo | La participación a las 11.30 es del 15,09%, un dato muy similar al de 2022]]
+- [[https://elpais.com/espana/elecciones-andalucia/2026-05-17/directo-jornada-electoral-17m-votaciones-participacion-sondeos-recuento-y-resultados.html][Elecciones en Andalucía 17M, en directo | La publicación de resultados se retrasa a las 20.43 por problemas en la constitución de tres colegios]]
+- [[https://elpais.com/espana/elecciones-andalucia/2026-05-17/datos-de-participacion-de-las-elecciones-en-andalucia-17m.html][La participación en las elecciones andaluzas sube tres puntos a las 14.00 respecto a 2022]]
+- [[https://elpais.com/espana/elecciones-andalucia/2026-05-17/cinco-numeros-para-seguir-el-recuento-en-andalucia-y-saber-quien-gana-y-quien-pierde.html][Cinco números para seguir el recuento en Andalucía y saber quién gana y quién pierde]]
 - [[https://elpais.com/espana/elecciones-andalucia/2026-05-17/el-pp-prueba-la-eficacia-de-la-via-andaluza-para-frenar-a-vox.html][El PP prueba la eficacia de la “vía andaluza” para frenar a Vox]]
-- [[https://elpais.com/espana/2026-05-17/sanchez-descarta-cambios-ante-un-mal-resultado-las-andaluzas-no-son-las-generales.html][La crónica | Andalucía cierra ciclo electoral sin alterar el plan de Pedro Sánchez]]
-- [[https://elpais.com/ideas/2026-05-17/patria-y-agravio-en-las-elecciones-andaluzas.html][Patria y agravio en las elecciones andaluzas]]
-- [[https://elpais.com/opinion/2026-05-17/el-misterio-del-liderazgo-moreno-bonilla-o-ayuso.html][El misterio del liderazgo: ¿Moreno Bonilla o Ayuso?]]
+- [[https://elpais.com/espana/elecciones-andalucia/2026-05-17/de-la-andalucia-roja-a-la-azul-asi-se-comporta-en-elecciones-la-comunidad-mas-poblada.html][De la Andalucía roja a la azul: así se comporta en elecciones la comunidad más poblada]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/17/6a09897a21efa0e74a8b4582.html][La participación a las 11.30 horas en las elecciones andaluzas supera ligeramente el 15%, similar a la de 2022]]
-- [[https://www.elmundo.es/espana/2026/05/16/6a0885ab21efa0e45f8b4592.html][Pedro Sánchez se prepara para ignorar un castigo electoral en Andalucía pero los críticos advierten: "Hay una corriente en el PSOE que está harta de perder elecciones"]]
+- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/17/6a09897a21efa0e74a8b4582.html][La participación a las 14.00 horas en las elecciones en Andalucía es del 37,25%, tres puntos superior a la de 2022]]
 - [[https://www.elmundo.es/cronica/2026/05/16/6a063e17fc6c83641a8b4597.html][La alerta roja de la fiscal antidroga de Huelva: "España, lentamente, se está convirtiendo en un narcoestado"]]
-- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/17/69fa1d2ae9cf4a38748b4578.html][Las dos caras de la inmigración en Almería: el contraste entre El Ejido y Arboleas]]
-- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/17/6a062a48fdddff22628b459d.html][Los cuatro gráficos que explican cómo el PP se blindó en las zonas más ricas de Andalucía mientras Vox se alzaba en las pobres]]
+- [[https://www.elmundo.es/espana/2026/05/16/6a0885ab21efa0e45f8b4592.html][Pedro Sánchez se prepara para ignorar un castigo electoral en Andalucía pero los críticos advierten: "Hay una corriente en el PSOE que está harta de perder elecciones"]]
+- [[https://www.elmundo.es/deportes/motociclismo/2026/05/17/6a09ba0321efa04b0f8b4586.html][Un grave accidente de Álex Márquez en el Gran Premio de Cataluña de MotoGP obliga a interrumpir la carrera]]
+- [[https://www.elmundo.es/deportes/motociclismo/2026/05/17/6a09cf63e9cf4a38228b457d.html][Di Giannantonio se lleva un accidentadísimo Gran Premio de Cataluña]]
 
 *** La Vanguardia
 
@@ -65,57 +65,57 @@
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/santander/dos-detenidos-santander-robos-fuerza-comercios-celebraciones-ascenso-racing/20260517120004193030.html][Dos detenidos en Santander por robos con fuerza en comercios durante las celebraciones del ascenso del Racing]]
-- [[https://eldiariocantabria.publico.es/articulo/deportes/junior-scott-seguira-bathco-bm-torrelavega-proxima-temporada/20260517115547193029.html][Junior Scott no seguirá en el Bathco BM Torrelavega la próxima temporada]]
-- [[https://eldiariocantabria.publico.es/articulo/politica/ley-caza-decreto-autocaravanas-listas-espera-sanitarias-cad-laredo-pleno-lunes/20260517112558193027.html][Ley de Caza, el decreto de autocaravanas, listas de espera sanitarias y el CAD de Laredo, al Pleno de este lunes]]
-- [[https://eldiariocantabria.publico.es/articulo/deportes/canadio-lidera-celebracion-ascenso-racinguista-noche-sabado/20260517104929193026.html][Cañadío lidera la celebración del ascenso racinguista en la noche del sábado]]
-- [[https://eldiariocantabria.publico.es/articulo/deportes/santander-tine-verde-blanco-guia-completa-gran-fiesta-ascenso-racing-domingo/20260516231923193023.html][Santander se tiñe de verde y blanco: guía completa de la gran fiesta del ascenso del Racing para este domingo]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/cerrada-trafico-calle-san-jose-desprendimiento-varios-cascotes-fachada/20260517170916193046.html][Cerrada al tráfico la calle San José tras el desprendimiento de varios cascotes de una fachada]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/calvo-sotelo-sufrira-restricciones-parciales-trafico-lunes/20260517165918193045.html][Calvo Sotelo sufrirá restricciones parciales de tráfico desde el lunes]]
+- [[https://eldiariocantabria.publico.es/articulo/sanidad/valdecilla-implanta-urgencias-circuito-digital-acortar-tiempos-atencion-optimizar-esperas/20260517165111193044.html][Valdecilla implanta en Urgencias un circuito digital para acortar tiempos de atención y optimizar esperas]]
+- [[https://eldiariocantabria.publico.es/articulo/sanidad/ati-acusa-pascual-menospreciar-tcae-lleva-protesta-parlamento-es-intolerable/20260517142305193042.html][ATI acusa a Pascual de "menospreciar" a las TCAE y lleva su protesta al Parlamento: "Es intolerable"]]
+- [[https://eldiariocantabria.publico.es/articulo/saja-besaya/golpe-fortuna-12000-euros-loteria-nacional-caen-cartes/20260517124349193033.html][Un golpe de fortuna: 12.000 euros de la Lotería Nacional caen en Cartes]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
 - [[https://www.washingtonpost.com/world/2026/05/17/ukrainian-drones-hit-moscow-russias-capital-region-killing-three/][Ukrainian drones hit Moscow and surrounding area, killing three]]
-- [[https://www.washingtonpost.com/world/2026/05/17/chinas-xi-got-what-he-wanted-out-summit-with-trump-beijing/][At summit, China’s Xi eased tensions with Trump without giving ground]]
+- [[https://www.washingtonpost.com/world/2026/05/17/chinas-xi-got-what-he-wanted-out-summit-with-trump-beijing/][Xi, in summit victory, projected stability and conceded nothing to Trump]]
 - [[https://www.washingtonpost.com/obituaries/2026/05/16/flicien-kabuga-rwandan-accused-financing-genocide-dies/][Félicien Kabuga, Rwandan accused of financing genocide, has died]]
 - [[https://www.washingtonpost.com/world/2026/05/16/senior-isis-commander-killed-by-us-nigerian-forces-trump-says/][Trump says top Islamic State leader was killed in Nigeria strike]]
 - [[https://www.washingtonpost.com/politics/2026/05/16/china-summit-showed-how-trump-problems-hobble-his-diplomacy/][Trump’s China summit shows toll of a difficult year for the president]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/business/this-arkansas-town-is-humming-with-the-sound-of-missile-making-d7a301ac][This Arkansas Town Is Humming With the Sound of Missile Making]]
+- [[https://www.wsj.com/world/middle-east/drone-strike-sparks-fire-near-u-a-e-nuclear-plant-b061ab0d][Drone Strike Sparks Fire Near U.A.E. Nuclear Plant]]
+- [[https://www.wsj.com/world/africa/who-declares-global-health-emergency-after-ebola-outbreak-in-congo-4ec2b74b][WHO Declares Global Health Emergency After Ebola Outbreak in Congo]]
 - [[https://www.wsj.com/world/china/china-says-it-has-agreed-with-u-s-to-set-up-trade-and-investment-bodies-f4752b03][China Says It Has Agreed With U.S. to Set Up Trade and Investment Bodies]]
 - [[https://www.wsj.com/world/china/irans-seizure-of-chinese-security-ship-shows-its-favors-for-friends-have-limits-f245618e][Iran’s Seizure of Chinese Security Ship Shows Its Favors for Friends Have Limits]]
-- [[https://www.wsj.com/world/africa/u-s-nigerian-forces-kill-top-islamic-state-leader-6b4c3034][U.S., Nigerian Forces Kill Top Islamic State Leader]]
-- [[https://www.wsj.com/world/middle-east/israel-kills-hamass-ghost-after-years-of-failed-attempts-665130fe][Israel Kills Hamas’s ‘Ghost’ After Years of Failed Attempts]]
-- [[https://www.wsj.com/world/middle-east/how-secret-u-a-e-and-saudi-strikes-on-iran-shattered-an-uneasy-coexistence-2e4502b6][How Secret U.A.E. and Saudi Strikes on Iran Shattered an Uneasy Coexistence]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/politique/article/2026/05/17/presidentielle-2027-edouard-philippe-et-gabriel-attal-preparent-leurs-equipes-de-campagne_6690020_823448.html][Présidentielle 2027 : Edouard Philippe et Gabriel Attal préparent leurs équipes de campagne]]
-- [[https://www.lemonde.fr/international/live/2026/05/17/en-direct-guerre-en-ukraine-la-russie-affirme-avoir-abattu-plus-de-500-drones-ukrainiens-dans-la-nuit-au-moins-quatre-morts-et-une-vingtaine-de-blesses_6690053_3210.html][EN DIRECT, guerre en Ukraine : la Russie affirme avoir abattu plus de 500 drones ukrainiens dans la nuit ; au moins quatre morts et une vingtaine de blessés]]
-- [[https://www.lemonde.fr/planete/article/2026/05/17/hantavirus-au-canada-une-passagere-du-mv-hondius-a-ete-testee-presumee-positive_6690174_3244.html][Hantavirus : au Canada, une passagère du MV « Hondius » a été diagnostiquée « présumée positive »]]
-- [[https://www.lemonde.fr/societe/video/2026/05/17/drogue-comment-les-milliards-d-euros-du-narcotrafic-echappent-a-la-police_6690178_3224.html][VIDEO. Drogue : les quatre solutions privilégiées par les narcotrafiquants pour blanchir de l’argent]]
-- [[https://www.lemonde.fr/societe/article/2026/05/17/des-familles-d-accueil-de-la-protection-judiciaire-de-la-jeunesse-hebergent-des-mineurs-sanctionnes-par-la-justice-pour-les-aider-a-s-en-sortir_6690058_3224.html][Des familles d’accueil de la protection judiciaire de la jeunesse hébergent des mineurs sanctionnés par la justice, pour les « aider à s’en sortir »]]
+- [[https://www.lemonde.fr/actualite-medias/article/2026/05/17/le-patron-de-canal-premier-financeur-du-cinema-francais-annonce-qu-il-ne-travaillera-plus-avec-les-signataires-d-une-tribune-contre-son-actionnaire-vincent-bollore_6690245_3236.html][Le patron de Canal+, premier financeur du cinéma français, annonce qu’il ne travaillera plus avec les 600 signataires d’une tribune contre son actionnaire Vincent Bolloré]]
+- [[https://www.lemonde.fr/international/article/2026/05/17/la-russie-desormais-vulnerable-aux-attaques-en-profondeur-des-drones-ukrainiens_6690247_3210.html][La Russie désormais vulnérable aux attaques en profondeur des drones ukrainiens]]
+- [[https://www.lemonde.fr/sport/live/2026/05/17/en-direct-france-angleterre-suivez-la-finale-du-tournoi-des-six-nations-2026-feminin_6690240_3242.html][EN DIRECT, France-Angleterre : Pauline Bourdon Sansus donne l’avantage aux Bleues]]
+- [[https://www.lemonde.fr/international/live/2026/05/17/en-direct-guerre-au-moyen-orient-un-drone-frappe-pres-de-la-centrale-nucleaire-de-barakah-aux-emirats-arabes-unis-israel-intensifie-ses-bombardements-sur-le-sud-du-liban_6688992_3210.html][EN DIRECT, guerre au Moyen-Orient : frappe d’un drone près de la centrale nucléaire de Barakah, aux Emirats arabes unis ; près de 20 morts au Liban alors qu’Israël intensifie ses bombardements]]
+- [[https://www.lemonde.fr/le-monde-des-religions/article/2026/05/17/en-pologne-ces-chemins-de-croix-de-l-extreme-qui-battent-des-records-de-popularite_6690060_6038514.html][En Pologne, ces « chemins de croix de l’extrême » qui battent des records de popularité]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/conjoncture/des-centaines-de-camions-citernes-dans-la-fournaise-la-syrie-nouveau-corridor-pour-evacuer-le-petrole-irakien-en-evitant-ormuz-20260517][Des centaines de camions-citernes dans la fournaise : la Syrie, nouveau corridor pour évacuer le pétrole irakien en évitant Ormuz]]
-- [[https://www.lefigaro.fr/conjoncture/missiles-peche-et-attente-interminable-dans-le-detroit-d-ormuz-le-quotidien-sous-tension-des-marins-bloques-par-la-guerre-20260513][Missiles, pêche et attente interminable : dans le Golfe persique, le quotidien sous tension des marins bloqués par la guerre]]
-- [[https://www.lefigaro.fr/economie/en-deux-mois-les-prix-des-carburants-ont-augmente-de-90-l-afrique-durement-frappee-par-le-choc-petrolier-d-ormuz-20260515][« En deux mois, les prix des carburants ont augmenté de 90 % » : l’Afrique durement frappée par le choc pétrolier d’Ormuz]]
-- [[https://www.lefigaro.fr/international/guerre-au-moyen-orient-une-explosion-mysterieuse-en-israel-seme-la-panique-une-entreprise-israelienne-a-l-origine-de-l-experience-20260517][Guerre au Moyen-Orient : une explosion mystérieuse en Israël sème la panique, une entreprise israélienne à l’origine de «l’expérience»]]
-- [[https://www.lefigaro.fr/international/en-direct-apres-l-annonce-d-une-extension-de-45-jours-de-la-treve-avec-israel-le-liban-espere-obtenir-une-paix-durable-20260516][EN DIRECT - Guerre au Moyen-Orient : le président du Parlement iranien, principal négociateur avec les États-Unis, va superviser les relations avec la Chine]]
+- [[https://www.lefigaro.fr/actualite-france/apprentissage-la-ruee-vers-l-or-des-ecoles-privees-ou-la-gabegie-de-l-argent-public-20260517][Achats démesurés, fraude aux visas étudiants et concerts de rap : quand l’argent public finance les dérives de l’apprentissage]]
+- [[https://www.lefigaro.fr/societes/coup-de-massue-dans-l-hotellerie-francaise-park-hyatt-paris-vendome-mandarin-oriental-paris-et-l-hotel-du-palais-a-biarritz-perdent-leur-statut-de-palace-20260517][Coup de massue dans l’hôtellerie française : trois grands hôtels de luxe perdent leur statut de palace]]
+- [[https://www.lefigaro.fr/faits-divers/saint-etienne-un-homme-mortellement-blesse-alors-qu-il-tentait-de-voler-une-voiture-20260517][Saint-Étienne : un homme mortellement blessé alors qu'il tentait de voler une voiture]]
+- [[https://www.lefigaro.fr/vox/economie/l-economie-francaise-laminee-par-un-triple-choc-20260517][Nicolas Baverez : « L’économie française laminée par un triple choc »]]
+- [[https://www.lefigaro.fr/international/les-republicains-ont-tente-de-faire-payer-aux-contribuables-la-facture-le-senat-americain-bloque-le-financement-de-la-salle-de-bal-de-donald-trump-20260517][«Les Républicains ont tenté de faire payer aux contribuables la facture» : le Sénat américain bloque le financement de la salle de bal de Donald Trump]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss][WHO declares Ebola outbreak in DR Congo a global health emergency]]
-- [[https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss][Hezbollah drone strike videos show evolving tactics against Israel]]
-- [[https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss][Taiwan insists it is independent after Trump warning]]
+- [[https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss][WHO declares Ebola outbreak in DR Congo an international emergency]]
+- [[https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss][How worrying is the Ebola outbreak in DR Congo?]]
 - [[https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss][Large-scale Ukrainian drone attack kills three in Moscow region, says Russia]]
 - [[https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss][Man drives car into pedestrians in Italy, injuring eight]]
+- [[https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss][Hezbollah drone strike videos show evolving tactics against Israel]]
 
 *** The Guardian
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/modena-nessuna-radicalizzazione-el-koudri-mattarella-e-meloni-visita-AItyph7C][Modena, nessuna radicalizzazione per El Koudri.  Mattarella e Meloni in visita]]
+- [[https://www.ilsole24ore.com/art/esorcismo-truffe-arrivano-anche-dall-intelligenza-artificiale-AISTYs7C][Esorcismo, le truffe arrivano anche dall’intelligenza artificiale]]
+- [[https://www.ilsole24ore.com/art/italpress-lancia-qui-new-york-nuovo-format-video-claudio-pagliara-AI651p7C][Italpress lancia «Qui New York», nuovo format video di Claudio Pagliara]]
+- [[https://www.ilsole24ore.com/art/ai-papa-leone-ogni-innovazione-tecnologica-sia-orientata-verita-dell-uomo-AIKNDj7C][AI, Papa Leone: ogni innovazione tecnologica sia orientata alla verità dell’uomo]]
+- [[https://www.ilsole24ore.com/art/modena-nessuna-radicalizzazione-el-koudri-mattarella-e-meloni-visita-AItyph7C][Modena, Meloni ringrazia Signorelli: «Eroe è chi sceglie il bene anche quando è rischioso». Piantedosi: «Fatto collocabile nel disagio psichiatrico»]]
 - [[https://www.ilsole24ore.com/art/dalla-moneta-difesa-diritti-politica-big-tech-occupano-stato-AIMgKSzC][«Dalla moneta alla difesa, dai diritti alla politica: le Big Tech occupano lo Stato»]]
-- [[https://www.ilsole24ore.com/art/chi-e-salim-el-koudri-italiano-seconda-generazione-e-laureato-AIZvjL7C][Chi è Salim El Koudri, italiano di seconda generazione e laureato]]
-- [[https://www.ilsole24ore.com/art/editoriale-nazionale-passa-lmdv-chiusa-l-operazione-monrif-AIyqwH7C][Editoriale Nazionale passa a Lmdv, chiusa l’operazione con Monrif]]
-- [[https://www.ilsole24ore.com/art/auto-falcia-decina-pedoni-modena-ci-sono-feriti-AIrgZF7C][Modena, accusato di strage l’uomo che ha investito i passanti]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/young-czechs-drink-less-beer-but-risk-other-addictions/a-77175549?maca=en-rss-en-world-4025-rdf][Young Czechs drink less beer, but risk other addictions]]
 - [[https://www.dw.com/en/north-korean-women-s-football-team-makes-rare-visit-to-south/a-77186062?maca=en-rss-en-world-4025-rdf][North Korean women's football team makes rare visit to South]]
 - [[https://www.dw.com/en/venezuela-deports-maduro-ally-alex-saab-to-us/a-77184876?maca=en-rss-en-world-4025-rdf][Venezuela deports Maduro ally Alex Saab to US]]
 - [[https://www.dw.com/en/germany-gets-ahead-in-the-new-space-race/a-77177359?maca=en-rss-en-world-4025-rdf][Germany gets ahead in the new space race]]
 - [[https://www.dw.com/en/could-romania-and-moldova-reunite/a-77181648?maca=en-rss-en-world-4025-rdf][Could Romania and Moldova reunite?]]
-- [[https://www.dw.com/en/china-us-israel-compete-in-fast-growing-laser-weapons-race/a-77174766?maca=en-rss-en-world-4025-rdf][China, US, Israel compete in fast-growing laser weapons race]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/o-mundo-e-uma-bola/2026/05/a-espera-do-esperado-na-convocacao-da-selecao.shtml][À espera do esperado na convocação da seleção]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/flavio-defendeu-cloroquina-e-criticou-medidas-contra-covid-antes-de-ser-pro-vacina.shtml][Flávio defendeu cloroquina e criticou medidas contra Covid, antes de ser pró-vacina]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/05/radiotelescopio-bingo-no-sertao-da-paraiba-pode-ter-1o-teste-ainda-neste-ano.shtml][Radiotelescópio Bingo, no sertão da Paraíba, pode ter 1º teste ainda neste ano]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/donald-trump-aumenta-a-pressao-dos-eua-sobre-cuba.shtml][Donald Trump aumenta a pressão dos EUA sobre Cuba]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/ataques-com-drones-matam-tres-pessoas-na-regiao-de-moscou-afirma-governo.shtml][Ataques com drones matam três pessoas na região de Moscou, afirma governo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/venezuela-extradita-para-eua-empresario-colombiano-aliado-de-maduro.shtml][Venezuela extradita para EUA empresário colombiano aliado de Maduro]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/cacique-raoni-e-internado-novamente.shtml][Cacique Raoni é internado novamente]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/datafolha-governo-lula-se-sai-pior-em-areas-vistas-como-prioritarias-para-proximo-presidente.shtml][Datafolha: Governo Lula tem pior avaliação em áreas prioritárias, como segurança e corrupção]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/05/nasa-aposta-na-propulsao-nuclear-para-reduzir-tempo-de-viagens-a-marte.shtml][Nasa aposta na propulsão nuclear para reduzir tempo de viagens a Marte]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/deputado-propoe-cashback-das-blusinhas-para-compensar-industria-nacional.shtml][Deputado propõe 'cashback das blusinhas' para compensar indústria nacional]]
 
 *** O Globo
 
