@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 44.0°C | ⚖ Load: 0.17 | 🌐 Ping: 9.53ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 43.5°C | ⚖ Load: 0.00 | 🌐 Ping: 10.5ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -42,18 +42,18 @@
 *** El País
 
 - [[https://elpais.com/espana/elecciones-andalucia/2026-05-17/el-pp-pierde-la-mayoria-absoluta-en-andalucia-y-el-psoe-rebaja-su-suelo.html][Moreno pierde la mayoría absoluta en Andalucía y dependerá de Vox para gobernar]]
-- [[https://elpais.com/espana/elecciones-andalucia/2026-05-17/directo-jornada-electoral-17m-votaciones-participacion-sondeos-recuento-y-resultados.html][Elecciones en Andalucía 17M, resultados en directo | Vox celebra la pérdida de la mayoría absoluta del PP al grito de “¡Prioridad nacional!”]]
-- [[https://elpais.com/espana/elecciones-andalucia/2026-05-17/los-resultados-de-las-elecciones-en-andalucia-en-tiempo-real-y-en-cada-municipio.html][Los resultados de las elecciones en Andalucía, en tiempo real y en cada municipio]]
 - [[https://elpais.com/espana/elecciones-andalucia/2026-05-17/el-pp-baja-cinco-diputados-y-se-mete-en-el-lio-contra-el-que-ha-alertado-toda-la-campana.html][El PP baja cinco diputados y se mete en “el lío” contra el que ha alertado toda la campaña]]
-- [[https://elpais.com/espana/elecciones-andalucia/2026-05-17/montero-empeora-el-peor-resultado-historico-del-psoe-en-andalucia.html][Montero lleva al PSOE andaluz a su peor resultado histórico]]
+- [[https://elpais.com/opinion/2026-05-17/el-momento-de-la-verdad.html][El momento de la verdad]]
+- [[https://elpais.com/espana/elecciones-andalucia/2026-05-18/los-resultados-de-las-elecciones-en-andalucia-calle-a-calle.html][Los resultados de las elecciones en Andalucía, calle a calle]]
+- [[https://elpais.com/videos/2026-05-17/del-sobresaliente-de-moreno-a-la-prioridad-nacional-de-vox-la-noche-electoral-de-andalucia-en-cuatro-titulares.html][Del “sobresaliente” de Moreno a la “¡prioridad nacional!" de Vox: la noche electoral de Andalucía, en cuatro titulares]]
 
 *** El Mundo
 
+- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/18/6a09edbcfdddff20758b45af.html][Moreno logra un triunfo  insuficiente para evitar a Vox pese al descalabro histórico del PSOE]]
 - [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/17/6a09ee71fdddff027b8b4573.html][Las urnas en Andalucía vapulean el proyecto de Sánchez y le diagnostican el 'síndrome del esqueísmo']]
-- [[https://www.elmundo.es/espana/2026/05/17/6a09ef04fdddfff2708b4572.html][Juanma Moreno se mete en el lío]]
-- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/17/6a09eaa6e85ecea8498b4571.html][El PP gana las elecciones pero está a dos escaños de la mayoría absoluta en Andalucía, con el 97% del voto escrutado]]
+- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/18/6a09ee51fdddffb8188b458a.html][¿Mayoría o lío? Pues lío: el 17-M refrena la vía de la centralidad en el PP]]
+- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/18/6a09eec7fdddfffe418b458d.html][Vox vuelve a tener voz en Andalucía y camufla un resultado que le baja de su ola]]
 - [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/17/6a0a03a9e85ecea8498b457d.html][Los resultados de las elecciones de Andalucía 2026, municipio a municipio]]
-- [[https://www.elmundo.es/elecciones/elecciones-andalucia/2026/05/17/6a0a011121efa0d4148b457a.html][Teresa Rodríguez revela que padece cáncer al responder a una tuitera que se mofó de su aspecto al ir a votar: "¿De qué vas disfrazada?" "De señora con quimio"]]
 
 *** La Vanguardia
 
@@ -83,39 +83,39 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/kyiv-enters-a-hopeful-spring-after-surviving-the-wars-darkest-winter-2c65b0a4][Kyiv Enters a Hopeful Spring After Surviving the War’s Darkest Winter]]
 - [[https://www.wsj.com/world/europe/french-prosecutors-have-identified-more-victims-in-epstein-probe-69f1060b][French Prosecutors Have Identified More Victims in Epstein Probe]]
 - [[https://www.wsj.com/world/china/china-says-it-has-agreed-with-u-s-to-set-up-trade-and-investment-bodies-f4752b03][China Says It Has Agreed With U.S. to Set Up Trade and Investment Bodies]]
 - [[https://www.wsj.com/world/russia/ukraine-increases-pressure-on-russia-with-biggest-strikes-on-moscow-this-year-6a75d265][Ukraine Increases Pressure on Russia With Biggest Strikes on Moscow This Year]]
 - [[https://www.wsj.com/world/middle-east/drone-strike-sparks-fire-near-u-a-e-nuclear-plant-b061ab0d][Drone Strike Sparks Fire Near U.A.E. Nuclear Plant]]
-- [[https://www.wsj.com/business/this-arkansas-town-is-humming-with-the-sound-of-missile-making-d7a301ac][This Arkansas Town Is Humming With the Sound of Missile Making]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/actualite-medias/article/2026/05/17/le-patron-de-canal-premier-financeur-du-cinema-francais-annonce-qu-il-ne-travaillera-plus-avec-les-signataires-d-une-tribune-contre-son-actionnaire-vincent-bollore_6690245_3236.html][Le patron de Canal+, premier financeur du cinéma français, annonce qu’il ne travaillera plus avec les 600 signataires d’une tribune contre son actionnaire Vincent Bolloré]]
-- [[https://www.lemonde.fr/international/article/2026/05/17/la-russie-desormais-vulnerable-aux-attaques-en-profondeur-des-drones-ukrainiens_6690247_3210.html][La Russie désormais vulnérable aux attaques en profondeur des drones ukrainiens]]
-- [[https://www.lemonde.fr/international/live/2026/05/17/en-direct-guerre-au-moyen-orient-donald-trump-menace-une-nouvelle-fois-l-iran-et-affirme-qu-il-ne-restera-plus-rien-du-pays-un-accord-n-est-pas-rapidement-signe-avec-les-etats-unis_6688992_3210.html][EN DIRECT, guerre au Moyen-Orient : Donald Trump menace une nouvelle fois l’Iran et affirme qu’il « ne restera plus rien » du pays si un accord n’est pas rapidement signé avec les Etats-Unis]]
-- [[https://www.lemonde.fr/culture/article/2026/05/17/cannes-2026-le-long-metrage-moulin-fait-revivre-au-plus-pres-le-supplice-du-heros-de-la-resistance_6690269_3246.html][Cannes 2026 : le long-métrage « Moulin » fait revivre au plus près le supplice du héros de la Résistance]]
-- [[https://www.lemonde.fr/politique/article/2026/05/17/les-macron-un-couple-dans-les-affres-du-pouvoir_6690264_823448.html][Les Macron, un couple dans les affres du pouvoir]]
+- [[https://www.lemonde.fr/actualite-medias/article/2026/05/18/la-liste-noire-annoncee-par-le-patron-de-canal-legitime-les-craintes-d-une-partie-du-monde-du-cinema-a-l-egard-de-vincent-bollore_6690516_3236.html][​La liste noire annoncée par le patron de Canal+ légitime les craintes d’une partie du monde du cinéma à l’égard de Vincent Bolloré]]
+- [[https://www.lemonde.fr/international/live/2026/05/18/en-direct-guerre-au-moyen-orient-un-chef-du-jihad-islamique-tue-dans-une-frappe-israelienne-au-liban-selon-l-agence-de-presse-officielle-libanaise_6688992_3210.html][EN DIRECT, guerre au Moyen-Orient : un chef du Jihad islamique tué dans une frappe israélienne au Liban, selon l’agence de presse officielle libanaise]]
+- [[https://www.lemonde.fr/international/article/2026/05/18/royaume-uni-l-inquietude-de-la-communaute-juive-apres-une-serie-d-attaques-antisemites_6690513_3210.html][Royaume-Uni : l’inquiétude de la communauté juive, après une série d’attaques antisémites]]
+- [[https://www.lemonde.fr/planete/article/2026/05/18/hantavirus-l-oms-considere-que-le-risque-pour-la-sante-publique-est-faible-a-la-veille-de-l-arrivee-du-hondius-aux-pays-bas_6690377_3244.html][Hantavirus : l’OMS considère que le risque pour la santé publique est « faible » à la veille de l’arrivée du « Hondius » aux Pays-Bas]]
+- [[https://www.lemonde.fr/culture/article/2026/05/18/cannes-2026-avec-hope-na-hong-jin-signe-un-ebouriffant-film-de-monstre_6690276_3246.html][Cannes 2026 : avec « Hope », Na Hong-jin signe un ébouriffant film de monstre]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/comment-le-clan-trump-profite-du-pouvoir-pour-s-enrichir-20260517][Comment le clan Trump profite du pouvoir pour s’enrichir]]
-- [[https://www.lefigaro.fr/international/a-washington-trump-et-les-religieux-conservateurs-organisent-un-festival-de-prieres-20260517][À Washington, Trump et les religieux conservateurs organisent un « festival de prières »]]
-- [[https://www.lefigaro.fr/international/les-republicains-ont-tente-de-faire-payer-aux-contribuables-la-facture-le-senat-americain-bloque-le-financement-de-la-salle-de-bal-de-donald-trump-20260517][«Les Républicains ont tenté de faire payer aux contribuables la facture» : le Sénat américain bloque le financement de la salle de bal de Donald Trump]]
-- [[https://www.lefigaro.fr/medias/le-patron-de-canal-ne-souhaite-plus-travailler-avec-les-signataires-d-une-petition-contre-vincent-bollore-20260517][« Nous l’avons vécu comme une injustice » : Canal+ ne veut plus travailler avec les figures du cinéma signataires d’une pétition contre Vincent Bolloré]]
-- [[https://www.lefigaro.fr/international/a-kiev-la-jeunesse-danse-sous-les-bombes-pour-defier-l-ennemi-20260517][À Kiev, la jeunesse danse sous les bombes pour défier l’ennemi]]
+- [[https://www.lefigaro.fr/international/hantavirus-le-mv-hondius-attendu-aux-pays-bas-avec-27-passagers-20260518][Hantavirus: le MV Hondius attendu aux Pays-Bas avec 27 passagers]]
+- [[https://www.lefigaro.fr/international/hantavirus-a-ushuaia-debute-la-traque-d-un-eventuel-rongeur-porteur-du-virus-20260518][Hantavirus: à Ushuaïa débute la traque d'un éventuel rongeur porteur du virus]]
+- [[https://www.lefigaro.fr/vox/societe/samuel-fitoussi-les-100-jours-de-lutte-epique-contre-l-hantavirus-20260517][Samuel Fitoussi : « Les 100 jours de lutte épique contre l’hantavirus »]]
+- [[https://www.lefigaro.fr/international/hantavirus-un-cas-confirme-au-canada-le-royaume-uni-rapatrie-neuf-cas-contacts-depuis-des-territoires-britanniques-d-outre-mer-20260517][Hantavirus : un cas confirmé au Canada, le Royaume-Uni rapatrie neuf cas contacts depuis des territoires britanniques d’outre-mer]]
+- [[https://www.lefigaro.fr/international/kim-jong-un-veut-renforcer-la-premiere-ligne-contre-l-ennemi-jure-sud-coreen-20260518][Kim Jong-un veut renforcer la première ligne contre «l'ennemi juré» sud-coréen]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
+- [[https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss][Trump warns 'clock is ticking' for Iran as peace progress stalls]]
 - [[https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss][WHO declares Ebola outbreak in DR Congo an international emergency]]
 - [[https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss][How worrying is the Ebola outbreak in DR Congo?]]
-- [[https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss][Large-scale Ukrainian drone attack kills three in Moscow region, says Russia]]
-- [[https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss][UAE reports strike near Abu Dhabi nuclear power plant]]
-- [[https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss][Man drives car into pedestrians in Italy, injuring eight]]
+- [[https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss]['This may be the last time you hear my voice': Political executions surge in Iran since start of war]]
+- [[https://www.bbc.com/news/videos/ce8pzkg7klgo?at_medium=RSS&at_campaign=rss][Moment two fighter jets collide mid-air at US air show]]
 
 *** The Guardian
 
@@ -165,11 +165,11 @@
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/05/adam-driver-desconversa-pergunta-sobre-lena-dunham-estou-guardando-para-o-meu-livro.shtml][Adam Driver desconversa sobre Lena Dunham: 'Estou guardando para o meu livro']]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/avioes-colidem-e-caem-durante-apresentacao-aerea-nos-eua-veja-video.shtml][Aviões colidem e caem durante apresentação aérea nos EUA; veja vídeo]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/musculo/2026/05/veja-o-fisico-apresentado-por-ramon-dino-no-guest-posing-do-pittsburgh-pro-2026.shtml][Veja o físico apresentado por Ramon Dino no 'guest posing' do Pittsburgh Pro 2026]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/homem-e-esfaqueado-dentro-de-carro-de-luxo-no-butanta-em-sao-paulo.shtml][Homem é esfaqueado dentro de carro de luxo no Butantã, em São Paulo]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/apostas-para-mega-sena-de-r-300-milhoes-tem-inicio-neste-domingo-17.shtml][Apostas para Mega-Sena de R$ 300 milhões têm início neste domingo (17)]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/imposto-do-pecado-entra-na-guerra-eleitoral-e-eleva-pressao-para-lula-adiar-pl-das-aliquotas.shtml]['Imposto do Pecado' entra na guerra eleitoral e eleva pressão para Lula adiar PL das alíquotas]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/05/um-ano-apos-chegada-ancelotti-escolhe-o-brasil-que-levara-a-copa-do-mundo.shtml][Um ano após chegada, Ancelotti escolhe o Brasil que levará à Copa do Mundo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/comissao-da-camara-retira-mecanismos-de-rastreabilidade-do-programa-celular-seguro.shtml][Comissão da Câmara retira mecanismos de rastreabilidade do programa Celular Seguro]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/universidades-replicam-antagonismo-politico-em-ano-eleitoral-com-relatos-de-censura.shtml][Universidades replicam antagonismo político em ano eleitoral com relatos de censura]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/05/filme-males-e-erika-hilton-o-que-ver-na-tv-e-no-streaming-nesta-segunda.shtml][Filme 'Malês' e Erika Hilton: o que ver na TV e no streaming nesta segunda]]
 
 *** O Globo
 
