@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 47.2°C | ⚖ Load: 0.00 | 🌐 Ping: 9.31ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 47.2°C | ⚖ Load: 0.00 | 🌐 Ping: 9.60ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,19 +41,19 @@
 
 *** El País
 
-- [[https://elpais.com/internacional/2026-05-29/estados-unidos-e-iran-admiten-un-preacuerdo-pero-discrepan-sobre-sus-terminos.html][Estados Unidos e Irán admiten un preacuerdo, pero discrepan sobre sus términos]]
-- [[https://elpais.com/internacional/2026-05-29/la-casa-blanca-lanza-una-web-que-equipara-a-los-migrantes-con-extraterrestres-caminan-entre-nosotros.html][La Casa Blanca lanza una web que equipara a los migrantes con extraterrestres: “Caminan entre nosotros”]]
-- [[https://elpais.com/espana/catalunya/2026-05-29/la-defensa-usa-una-caida-previa-y-la-artrosis-de-isak-andic-para-concluir-que-su-muerte-en-montserrat-fue-accidental.html][La defensa usa una caída previa y la artrosis de Isak Andic para concluir que su muerte en Montserrat fue accidental]]
-- [[https://elpais.com/espana/2026-05-29/junts-rechaza-una-mocion-de-censura-no-estamos-aqui-para-poner-o-quitar-gobiernos-espanoles.html][Junts rechaza una moción de censura: “No estamos aquí para poner o quitar gobiernos españoles”]]
-- [[https://elpais.com/espana/2026-05-29/camila-ya-tiene-papeles-la-venezolana-ha-completado-con-exito-su-regularizacion-en-espana.html][Camila ya tiene papeles: la venezolana ha completado con éxito su regularización en España]]
+- [[https://elpais.com/espana/2026-05-30/la-defensa-de-la-raza-blanca-gana-fuerza-en-la-ofensiva-xenofoba-en-espana-de-la-mano-de-vox.html][La defensa de la raza “blanca” gana fuerza en la ofensiva xenófoba en España de la mano de Vox]]
+- [[https://elpais.com/espana/2026-05-30/carmen-calvo-presidenta-del-consejo-de-estado-el-sueldo-de-expresidente-tendria-que-ser-suficiente-porque-el-honor-del-cargo-es-inmaterial.html][Carmen Calvo, presidenta del Consejo de Estado: “El sueldo de expresidente tendría que ser suficiente porque el honor del cargo es inmaterial”]]
+- [[https://elpais.com/espana/2026-05-30/pnv-y-junts-presionan-con-elecciones-sin-margen-para-apoyar-la-censura-a-sanchez.html][PNV y Junts presionan con elecciones sin margen para apoyar la censura a Sánchez]]
+- [[https://elpais.com/espana/2026-05-30/el-peligroso-discurso-del-complot.html][El peligroso discurso del complot]]
+- [[https://elpais.com/espana/2026-05-30/zarrias-el-consejero-con-mas-poder-de-andalucia-de-nuevo-en-el-punto-de-mira.html][Zarrías, el consejero con más poder de Andalucía, de nuevo en el punto de mira]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/05/29/6a19e4f9fc6c830d4d8b458b.html][Zapatero cobró de fondos energéticos y lobbies del partido comunista chino que hacen negocios en España]]
+- [[https://www.elmundo.es/espana/2026/05/29/6a19e4f9fc6c830d4d8b458b.html][Zapatero cobró de fondos energéticos y lobbies del Partido Comunista Chino que hacen negocios en España]]
 - [[https://www.elmundo.es/espana/2026/05/29/6a19d320e85ecec4258b45bb.html][Los socios imprescindibles para hacer presidente a Sánchez lo desautorizan para seguir otro año en Moncloa]]
+- [[https://www.elmundo.es/espana/2026/05/30/6a1aaef2fdddff1d758b458c.html][La princesa Leonor se estrena en el día de las Fuerzas Armadas en un desfile aéreo reducido por las nubes]]
 - [[https://www.elmundo.es/espana/2026/05/29/69f0c1a8e4d4d89b2a8b45af.html][Los alcaldes del PSOE se desconectan de Sánchez a un año de sus propias reválidas en las urnas]]
-- [[https://www.elmundo.es/espana/2026/05/30/6a19e7b0fc6c833b2a8b45a8.html][El PP se reserva la moción de censura mientras "hace negocio con la ansiedad de Sánchez"]]
-- [[https://www.elmundo.es/espana/2026/05/29/6a19c7a521efa0c77c8b459d.html][Por métodos no democráticos]]
+- [[https://www.elmundo.es/espana/2026/05/29/6a19dd1de4d4d891198b45c6.html][David Sánchez no aporta el título ruso original de director de orquesta que se homologó en España a toda velocidad]]
 
 *** La Vanguardia
 
@@ -65,16 +65,18 @@
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/torrelavega/torrelavega-cambia-multas-zbe-zonas-peatonales-solo-tramitara-primera-todas-que-acumulen-antes-primera-notificacion/20260530115743193672.html][Torrelavega cambia las multas de la ZBE y las zonas peatonales: solo se tramitará la primera de todas las que se acumulen antes de la primera notificación]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/calor-sofocante-temperaturas-mas-frias-espana-cantabria-amanece-91-grados/20260530113025193671.html][Del calor sofocante a una de las temperaturas más frías de España: Cantabria amanece a 9,1 grados]]
+- [[https://eldiariocantabria.publico.es/articulo/saja-besaya/vehiculo-incendia-hazas-cesto/20260530111807193670.html][Un vehículo se incendia en Hazas de Cesto]]
 - [[https://eldiariocantabria.publico.es/articulo/campoo/ministro-oscar-puente-participara-celebracion-centenario-psoe-municipal-proximo-6-junio/20260529211818193666.html][El ministro Óscar Puente participará en la celebración del centenario del PSOE municipal el próximo 6 de junio]]
 - [[https://eldiariocantabria.publico.es/articulo/saja-besaya/entregados-premios-iii-concurso-cuentos-infantiles-costa-quebrada/20260529211334193665.html][Entregados los premios del III Concurso de Cuentos Infantiles ‘Costa Quebrada’]]
-- [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/modificado-horario-examen-administrativo-facilitar-participacion-tambien-santander/20260529205819193663.html][Modificado el horario del examen de administrativo para facilitar la participación también en el de Santander]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/furgoneta-logo-santander-que-promueve-movilidad-sostenible-bicis-electricas-aparcada-plena-acera/20260529205258193662.html][Una furgoneta con el logo de Santander que promueve la movilidad sostenible con bicis eléctricas, aparcada en plena acera]]
-- [[https://eldiariocantabria.publico.es/articulo/torrelavega/ayuntamiento-oferta-108-plazas-15-cursos-natacion-verano-lechera/20260529203519193660.html][El Ayuntamiento oferta 108 plazas en 15 cursos de natación durante este verano en La Lechera]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/05/30/some-iranians-abroad-say-theyd-fight-regime-others-want-topple-it/][Some Iranians abroad say they’d fight for the regime. Others want to topple it.]]
+- [[https://www.washingtonpost.com/lifestyle/2026/05/30/scientists-find-cancer-gene-similarities-cats-humans-study-says/][Cats could help scientists better understand human cancer, study says]]
 - [[https://www.washingtonpost.com/world/2026/05/29/kenya-court-temporarily-blocks-us-plan-ebola-quarantine-facility/][A court in Kenya blocks U.S. plan to keep American Ebola patients in Africa]]
 - [[https://www.washingtonpost.com/world/2026/05/29/after-brutal-winter-ukraines-drones-are-breaking-russian-defenses/][After a brutal winter, Ukraine’s drones are breaking Russian defenses]]
 - [[https://www.washingtonpost.com/world/2026/05/28/cannes-director-andrei-zvyagintsev-rebuked-putins-war-ukrainians-are-furious/][A condemnation of Putin in glitzy Cannes still angers Ukrainians besieged by war]]
@@ -82,38 +84,38 @@
 *** WSJ.com: World News
 
 - [[https://www.wsj.com/world/middle-east/ships-are-sailing-dark-to-sneak-out-of-strait-of-hormuz-0db91dcf][Ships Are Sailing ‘Dark’ to Sneak Out of Strait of Hormuz]]
+- [[https://www.wsj.com/world/china/hegseth-says-u-s-needs-more-from-asian-allies-to-secure-balance-against-china-ab9c79f9][Hegseth Says U.S. Needs More From Asian Allies to Secure Balance Against China]]
 - [[https://www.wsj.com/world/the-u-n-is-going-broke-as-the-u-s-and-china-withhold-billions-bd1fae5e][The U.N. Is Going Broke as the U.S. and China Withhold Billions]]
 - [[https://www.wsj.com/world/europe/russian-drone-crashes-into-apartment-building-in-nato-member-romania-16a50198][Russian Drone Crash in Romania Raises Tensions With NATO]]
 - [[https://www.wsj.com/world/middle-east/the-u-a-e-s-secret-role-in-the-war-involved-dozens-of-strikes-on-iran-7fd28c40][The U.A.E.’s Secret Role in the War Involved Dozens of Strikes on Iran]]
-- [[https://www.wsj.com/world/americas/cuba-political-prisoners-who-80589427][Cuba’s Most Prominent Political Prisoners Are a Rapper and a Visual Artist]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/05/30/en-direct-guerre-au-moyen-orient-aucune-decision-annoncee-a-propos-de-l-iran-apres-une-reunion-a-la-maison-blanche_6694380_3210.html][EN DIRECT, guerre au Moyen-Orient : aucune décision annoncée à propos de l’Iran après une réunion à la Maison Blanche]]
-- [[https://www.lemonde.fr/politique/article/2026/05/29/au-rn-l-explosion-du-dossier-inflammable-jordan-bardella-enterre-la-reforme-des-retraites-de-marine-le-pen-et-l-age-legal-de-depart_6694791_823448.html][Au RN, l’explosion du « dossier inflammable » : Jordan Bardella enterre la réforme des retraites de Marine Le Pen et l’âge légal de départ]]
-- [[https://www.lemonde.fr/sport/article/2026/05/29/roland-garros-2026-novak-djokovic-emporte-par-la-tempete-joao-fonseca_6694825_3242.html][Roland-Garros 2026 : Novak Djokovic emporté par la tempête Joao Fonseca]]
-- [[https://www.lemonde.fr/societe/article/2026/05/29/obesite-le-remboursement-sous-conditions-des-medicaments-wegovy-et-mounjaro-des-la-mi-juin-saluee-par-patients-et-soignants_6694818_3224.html][Obésité : le remboursement sous conditions des médicaments Wegovy et Mounjaro, dès la mi-juin, salué par patients et soignants]]
-- [[https://www.lemonde.fr/societe/article/2026/05/29/psg-arsenal-la-ville-de-paris-se-prepare-a-un-week-end-sous-haute-tension_6694778_3224.html][PSG-Arsenal : Paris se prépare à un week-end sous tension, entre la finale de Ligue des champions et plusieurs concerts d’ampleur]]
+- [[https://www.lemonde.fr/disparitions/article/2026/05/30/edgar-morin-sociologue-du-temps-present-et-agitateur-d-idees-est-mort-a-l-age-de-104-ans_6695210_3382.html][Edgar Morin, sociologue du temps présent et agitateur d’idées, est mort à l’âge de 104 ans]]
+- [[https://www.lemonde.fr/international/article/2026/05/30/pourquoi-l-onu-met-en-cause-israel-a-propos-des-violences-sexuelles-commises-contre-des-prisonniers-palestiniens_6695217_3210.html][Pourquoi l’ONU met en cause Israël à propos des violences sexuelles commises contre des prisonniers palestiniens]]
+- [[https://www.lemonde.fr/international/article/2026/05/30/le-prochain-g7-a-evian-envenime-les-relations-entre-la-suisse-et-la-france_6695221_3210.html][Le prochain G7 à Evian envenime les relations entre la Suisse et la France]]
+- [[https://www.lemonde.fr/sport/article/2026/05/30/psg-arsenal-a-budapest-les-fans-deja-mobilises-avant-la-finale-de-la-ligue-des-champions_6695209_3242.html][PSG-Arsenal : à Budapest, les fans déjà mobilisés avant la finale de la Ligue des champions]]
+- [[https://www.lemonde.fr/sport/article/2026/05/30/roland-garros-2026-meme-sans-ses-leaders-le-tennis-italien-demeure-en-haut-de-l-affiche_6695233_3242.html][Roland-Garros 2026 : même sans ses leaders, le tennis italien demeure en haut de l’affiche]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/sciences/l-explosion-spectaculaire-de-la-fusee-new-glenn-de-blue-origin-bouleverse-les-plans-d-amazon-et-de-la-nasa-20260529][L’explosion spectaculaire de la fusée New Glenn de Blue Origin bouleverse les plans d’Amazon et de la Nasa]]
-- [[https://www.lefigaro.fr/conjoncture/l-agence-s-p-maintient-la-note-de-la-france-20260529][L’agence S&P maintient la note de la France]]
-- [[https://www.lefigaro.fr/international/trump-est-toujours-en-excellente-sante-et-apte-a-exercer-toutes-les-fonctions-de-chef-de-l-etat-selon-son-medecin-20260530][Donald Trump «est toujours en excellente santé» mais doit perdre du poids, selon son médecin]]
-- [[https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-les-etats-unis-et-l-iran-ont-fait-beaucoup-de-progres-vers-un-accord-selon-jd-vance-20260529][EN DIRECT - Guerre en Iran : Donald Trump ne signera avec l’Iran que si ses «lignes rouges sont satisfaites»]]
-- [[https://www.lefigaro.fr/international/guerre-au-moyen-orient-donald-trump-s-apprete-a-prendre-sa-decision-finale-sur-un-possible-accord-avec-l-iran-20260529][Guerre au Moyen-Orient : Donald Trump s'apprête à prendre «sa décision finale» sur un possible accord avec l'Iran]]
+- [[https://www.lefigaro.fr/culture/edgar-morin-un-humaniste-de-la-complexite-est-mort-a-l-age-de-104-ans-20260530][Edgar Morin, un humaniste de la complexité, est mort à l’âge de 104 ans]]
+- [[https://www.lefigaro.fr/actualite-france/mort-d-edgar-morin-jean-luc-melenchon-rend-hommage-a-celui-qui-avait-pris-sa-part-dans-la-protestation-sur-gaza-20260530][Mort d’Edgar Morin : «soldat de la Résistance», «théoricien de la complexité», «l’intelligence à l’état pur»... Pluie d’hommages du monde politique]]
+- [[https://www.lefigaro.fr/faits-divers/ce-sera-notre-secret-dans-l-affaire-patrick-bruel-autopsie-de-la-procedure-des-masseuses-qui-rattrape-le-chanteur-20260530][«Ce sera notre secret» : dans l’affaire Patrick Bruel, autopsie de la procédure des «masseuses», qui rattrape le chanteur]]
+- [[https://www.lefigaro.fr/musique/apres-son-depart-des-enfoires-patrick-bruel-annule-ses-concerts-dans-les-festivals-cet-ete-20260529][Patrick Bruel annule tous ses concerts jusqu’à l’automne]]
+- [[https://tvmag.lefigaro.fr/programme-tv/people/il-faut-respecter-la-presomption-d-innocence-arthur-juge-prematuree-la-decision-de-nagui-de-boycotter-les-chansons-de-patrick-bruel-20260529][«Il faut respecter la présomption d’innocence» : Arthur juge «prématurée» la décision de Nagui de boycotter les chansons de Patrick Bruel]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
+- [[https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss][No deal announced after Trump meeting to make 'final determination' on Iran]]
+- [[https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss][US not 'turning back' on Asia allies, but expects them to boost defence - Hegseth]]
 - [[https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss]['Poison seller' who sold toxic chemicals online to people across world admits aiding suicides]]
 - [[https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss][Nato and EU condemn Russia after drone hits Romanian residential block]]
-- [[https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss][No deal announced after Trump meeting to make 'final determination' on Iran]]
 - [[https://www.bbc.com/news/articles/cvgzxjrkvn8o?at_medium=RSS&at_campaign=rss][First of five men found alive in flooded Laos cave rescued]]
-- [[https://www.bbc.com/news/articles/c5yedendprko?at_medium=RSS&at_campaign=rss][Ghana parliament passes anti-LGBTQ+ bill]]
 
 *** The Guardian
 
@@ -135,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/dalla-casa-scouting-parlamenteri-battaglia-tutto-campo-vannacci-e-salvini-AIZxMkMD][Dalla casa allo scouting dei parlamentari, battaglia a tutto campo tra Vannacci e Salvini]]
-- [[https://www.ilsole24ore.com/art/quarant-anni-ciclonatura-tradizione-che-continua-unire-generazioni-AIzfepMD][Quarant’anni di Ciclonatura: una tradizione che continua a unire generazioni]]
-- [[https://www.ilsole24ore.com/art/difesa-l-import-soddisfa-terzo-fabbisogno-equipaggiamenti-militari-dell-italia-AIwZTFMD][Difesa, l’import soddisfa un terzo del fabbisogno di equipaggiamenti militari dell’Italia]]
-- [[https://www.ilsole24ore.com/art/radio-24-bizzarri-cavaglia-damilano-pregliasco-ospiti-ad-amici-e-nemici-AILARZMD][Radio 24: Bizzarri, Cavaglià, Damilano, Pregliasco ospiti ad Amici e nemici]]
-- [[https://www.ilsole24ore.com/art/la-tomba-francois-entra-patrimonio-stato-grande-esposizione-museo-etrusco-villa-giulia-25-giugno-AIPY1QMD][La Tomba François entra nel patrimonio dello Stato. Grande esposizione al Museo etrusco di Villa Giulia dal 25 giugno]]
+- [[https://www.ilsole24ore.com/art/gruppo-san-donato-rinnovata-gestione-ospedale-al-najaf-al-ashraf-teaching-iraq-AIt9PPND][Gruppo San Donato: rinnovata gestione ospedale Al-Najaf Al-Ashraf Teaching in Iraq]]
+- [[https://www.ilsole24ore.com/art/caro-carburanti-6-giugno-scadono-sconti-accise-tutte-ipotesi-campo-AII5LLND][Caro carburanti, il 6 giugno scadono gli sconti sulle accise: tutte le ipotesi in campo]]
+- [[https://www.ilsole24ore.com/art/ebola-italia-obbligo-dichiarazione-chi-proviene-congo-e-uganda-AIviKNND][Ebola, in Italia obbligo di dichiarazione per chi proviene da Congo e Uganda]]
+- [[https://www.ilsole24ore.com/art/drone-romania-meloni-condanna-russia-lega-lavorare-la-pace--cosa-dice-l-articolo-4-nato-AIK4MvMD][Drone sulla Romania, Meloni condanna la Russia. La Lega: lavorare per la pace - Cosa dice l’articolo 4 della Nato]]
+- [[https://www.ilsole24ore.com/art/drone-cosa-dice-l-articolo-4-nato-che-romania-potrebbe-invocare-AILW0jMD][Drone, cosa dice l’articolo 4 della Nato che la Romania potrebbe invocare]]
 
 ** 🇩🇪 Alemania
 
@@ -153,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/russia-recalls-armenia-ambassador-over-eu-ties/a-77354081?maca=en-rss-en-world-4025-rdf][Russia recalls Armenia ambassador over EU ties]]
+- [[https://www.dw.com/en/malta-votes-in-snap-parliamentary-election/a-77353620?maca=en-rss-en-world-4025-rdf][Malta votes in snap parliamentary election]]
 - [[https://www.dw.com/en/three-latvian-mountaineers-die-on-north-america-s-tallest-peak/a-77353020?maca=en-rss-en-world-4025-rdf][Three Latvian mountaineers die on North America's tallest peak]]
 - [[https://www.dw.com/en/romania-s-political-crisis-deepens/a-77351943?maca=en-rss-en-world-4025-rdf][Romania's political crisis deepens]]
 - [[https://www.dw.com/en/eu-unblocks-€16-billion-in-hungary-assistance-as-magyar-promises-reforms/a-77349350?maca=en-rss-en-world-4025-rdf][EU unblocks €16 billion in Hungary assistance as Magyar promises reforms]]
-- [[https://www.dw.com/en/ethiopia-election-2026-tigray-excluded-and-on-edge/a-77346844?maca=en-rss-en-world-4025-rdf][Ethiopia election 2026: Tigray excluded and on edge]]
-- [[https://www.dw.com/en/fuel-hikes-is-ride-hailing-becoming-a-luxury-in-lagos/a-77299355?maca=en-rss-en-world-4025-rdf][Fuel hikes: Is ride-hailing becoming a luxury in Lagos?]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/gustavo-alonso/2026/05/o-futebol-nao-e-o-opio-do-povo-e-a-netflix-acaba-de-provar-isso.shtml][O futebol não é o ópio do povo, e a Netflix acaba de provar isso]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/receita-deixa-de-receber-declaracoes-do-imposto-de-renda-neste-sabado-30-e-so-volta-dia-1o.shtml][Receita recebe 44.498 milhões de declarações do Imposto de Renda 2026]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/governo-bloqueia-r-46-bi-em-emendas-para-cumprir-regras-fiscais-trava-tambem-atinge-ministerios.shtml][Governo bloqueia R$ 4,6 bi em emendas para cumprir regras fiscais; trava também atinge ministérios]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/moro-se-lanca-no-pr-ao-lado-de-flavio-ataca-lula-e-chama-ato-de-trump-sobre-pcc-e-cv-de-extraordinario.shtml][Moro se lança no PR ao lado de Flávio, ataca Lula e chama ato de Trump sobre PCC e CV de 'extraordinário']]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marina-izidro/2026/05/nao-ignorem-os-jogos-olimpicos-dos-dopados.shtml][Não ignorem os 'Jogos Olímpicos dos Dopados']]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/mergulhadores-resgatam-mais-4-homens-presos-em-caverna-inundada-no-laos.shtml][Mergulhadores resgatam mais 4 homens presos em caverna inundada no Laos]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/carro-invade-calcada-e-atropela-sete-pessoas-na-zona-norte-de-sp.shtml][Carro invade calçada e atropela sete pessoas na zona norte de SP]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/pt-diz-que-isencao-do-ir-demorou-para-ter-impacto-e-preve-cenario-parecido-com-fim-da-6x1.shtml][PT diz que isenção do IR demorou para ter impacto e prevê cenário parecido com fim da 6x1]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/motorista-usa-lancador-de-fumaca-para-tentar-fugir-da-policia-no-parana.shtml][Motorista usa lançador de fumaça para tentar fugir da polícia no Paraná]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/05/astrologia-e-pseudociencia-e-nao-deveria-estar-no-dia-a-dia-das-pessoas-diz-novo-livro.shtml][Astrologia é pseudociência e não deveria estar no dia a dia das pessoas, diz novo livro]]
 
 *** O Globo
 
