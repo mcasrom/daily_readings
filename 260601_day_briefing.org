@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
-#+HTML: <div class='telemetry'>🌡 48.9°C | ⚖ Load: 0.00 | 🌐 Ping: 9.87ms</div>
+#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
+#+HTML: <div class='telemetry'>🌡 48.3°C | ⚖ Load: 0.62 | 🌐 Ping: 9.41ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,19 +41,19 @@
 
 *** El País
 
+- [[https://elpais.com/espana/2026-06-01/ultima-hora-de-la-actualidad-politica-en-directo.html][Última hora de la actualidad política, en directo | Feijóo presiona a Junts y PNV para una moción de censura que lleve a elecciones]]
+- [[https://elpais.com/espana/2026-06-01/el-juez-del-caso-plus-ultra-investiga-la-relacion-de-un-broker-venezolano-con-el-amigo-de-zapatero.html][El juez del ‘caso Plus Ultra’ investiga la relación de un bróker venezolano con el amigo de Zapatero]]
 - [[https://elpais.com/america-colombia/elecciones-presidenciales/2026-05-31/de-la-espriella-y-cepeda-se-disputaran-la-presidencia-de-colombia-con-un-pais-partido-en-dos.html][De la Espriella y Cepeda se disputarán la presidencia de Colombia mientras Petro cuestiona los resultados]]
 - [[https://elpais.com/america-colombia/elecciones-presidenciales/2026-06-01/petro-se-niega-a-aceptar-el-conteo-provisional-de-la-primera-vuelta.html][Petro se niega a aceptar los resultados de la primera vuelta]]
-- [[https://elpais.com/america-colombia/elecciones-presidenciales/2026-05-31/resultados-de-las-elecciones-colombia-2026-en-vivo.html][Resultados de las elecciones en Colombia 2026, en vivo | El petrismo invita a un café a Juan Daniel Oviedo]]
-- [[https://elpais.com/america-colombia/elecciones-presidenciales/2026-05-31/la-derecha-colombiana-se-vuelca-con-el-ultra-abelardo-de-la-espriella-y-da-la-espalda-a-alvaro-uribe.html][La derecha colombiana se vuelca con el ultra Abelardo de la Espriella y da la espalda a Álvaro Uribe]]
-- [[https://elpais.com/america-colombia/elecciones-presidenciales/2026-05-31/la-izquierda-de-ivan-cepeda-se-ve-obligada-a-remontar-para-asegurar-un-segundo-gobierno-progresista.html][La izquierda de Iván Cepeda se ve obligada a remontar para asegurar un segundo Gobierno progresista]]
+- [[https://elpais.com/america-colombia/elecciones-presidenciales/2026-06-01/abelardo-de-la-espriella-celebra-su-victoria-en-la-primera-vuelta-vamos-a-derrotar-la-tirania-y-el-absolutismo.html][Abelardo de la Espriella, tras su victoria en Colombia y los cuestionamientos de Petro: “Defenderemos la democracia por la razón o por la fuerza”]]
 
 *** El Mundo
 
+- [[https://www.elmundo.es/espana/2026/06/01/6a1d4507e4d4d8bd6d8b4574.html][Feijóo presiona a Junts y PNV para que apoyen una moción sólo para activar las elecciones: "184 diputados estamos pidiendo urnas"]]
 - [[https://www.elmundo.es/espana/2026/05/31/6a1c85c8fc6c834b388b4570.html][La crisis de Sánchez hunde al PSOE en comunidades clave mientras él se aferra "hasta 2027 y más allá"]]
-- [[https://www.elmundo.es/espana/2026/06/01/6a1c5038fc6c8364478b45d0.html][El PSOE se enfrenta a una imputación como persona jurídica en la causa de las cloacas de Ferraz]]
+- [[https://www.elmundo.es/espana/2026/06/01/6a1c2991fc6c8343538b457e.html][Ocho años de Sánchez: la sonrisa de la moción de censura convertida en mueca]]
 - [[https://www.elmundo.es/espana/2026/05/31/6a1c5730fdddffe74d8b4572.html][Arranca una Selectividad todavía desigual y con atajos para sacar nota: en 12 autonomías se puede brillar sin saber nada de Kant]]
-- [[https://www.elmundo.es/internacional/2026/06/01/6a1c554afdddff03128b45a2.html][La logística rusa, a tiro de dron: el Hornet ucraniano amenaza todas sus carreteras]]
-- [[https://www.elmundo.es/economia/2026/05/31/6a1bfb02fc6c83eb5f8b4576.html][El 'caso Zapatero' genera inquietud en Bruselas por el papel de Ribera y debilita a España: "La posición de Sánchez en la UE se resiente"]]
+- [[https://www.elmundo.es/espana/extremadura/2026/06/01/6a1d39a6e85ece9d538b4582.html][La Audiencia de Badajoz exculpa al hermano de Pedro Sánchez del delito de "aceptación de nombramiento ilegal" y sigue adelante con el juicio por los otros dos]]
 
 *** La Vanguardia
 
@@ -65,62 +65,61 @@
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/caos-n-623-arbol-caido-corta-carretera-puente-viesgo-provoca-largas-retenciones-primera-hora-manana/20260601114544193753.html][Caos en la N-623: un árbol caído corta la carretera en Puente Viesgo y provoca largas retenciones a primera hora de la mañana]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/coche-arde-unquera-vecinos-sofocan-incendio-antes-llegada-bomberos/20260601111655193751.html][Vecinos sofocan el incendio de un coche en Unquera antes de la llegada de los bomberos]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/cantabria-registra-temperaturas-mas-bajas-pais-amanecer/20260601110323193749.html][Cantabria registra las temperaturas más bajas del país al amanecer]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/gordo-primitiva-deja-mas-171000-euros-pontejos/20260601104843193748.html][Un único acertante del 'Gordo de la Primitiva' gana más de 171.000 euros en Pontejos]]
 - [[https://eldiariocantabria.publico.es/articulo/deportes/campeones-segunda-division/20260531235018193746.html][Campeones de Segunda División]]
-- [[https://eldiariocantabria.publico.es/articulo/oriental/rescatadas-helicoptero-dos-personas-enriscadas-liendo/20260531203931193734.html][Rescatadas en helicóptero dos personas enriscadas en Liendo]]
-- [[https://eldiariocantabria.publico.es/articulo/sanidad/ati-denuncia-que-gerente-valdecilla-obliga-celadores-rasurar-pacientes-programados-quirofano-interpretaciones-tergiversadas-manipuladas/20260531202741193732.html][ATI denuncia que el gerente de Valdecilla obliga a los celadores a rasurar pacientes programados para el quirófano con “interpretaciones tergiversadas y manipuladas”]]
-- [[https://eldiariocantabria.publico.es/articulo/liebana/rescatada-austriaca-caer-agua-barranco-liebana/20260531193105193731.html][Rescatada una austríaca tras caer al agua en un barranco de Liébana]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/igual-desprecia-labor-oposicion-grabas-video-haces-nota-prensa-altura-santanderinos/20260531191332193729.html][Igual desprecia la labor de la oposición: “Grabas un vídeo y haces una nota de prensa, pero eso no está a la altura de los santanderinos”]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
 - [[https://www.washingtonpost.com/world/2026/05/31/ukrainian-drone-operators-compete-kill-russian-invaders/][Ukraine turns real-life kills into video game thrills for drone pilots]]
-- [[https://www.washingtonpost.com/world/2026/05/30/some-iranians-abroad-say-theyd-fight-regime-others-want-topple-it/][Some Iranians abroad say they’d fight for the regime. Others want to topple it.]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/middle-east/u-s-strikes-iranian-air-defenses-drone-site-in-new-hormuz-skirmish-727b9193][U.S. Strikes Iranian Air Defenses, Drone Site in New Hormuz Skirmish]]
 - [[https://www.wsj.com/world/middle-east/trump-wants-arab-states-to-recognize-israel-the-war-has-made-that-harder-32cb449e][Trump Wants Arab States to Recognize Israel. The War Has Made That Harder.]]
 - [[https://www.wsj.com/world/china/taiwans-opposition-leader-comes-to-u-s-with-a-message-straight-out-of-beijing-1561596b][Taiwan’s Opposition Leader Comes to U.S. With a Message Straight Out of Beijing]]
 - [[https://www.wsj.com/world/americas/colombia-election-results-d920ce6e][Right-Wing Firebrand Surges Into Colombia Runoff, Shaking Political Establishment]]
 - [[https://www.wsj.com/world/africa/trump-wants-minerals-health-data-for-aid-african-nations-are-pushing-back-c04bed87][Trump Wants Minerals, Health Data for Aid. African Nations Are Pushing Back.]]
-- [[https://www.wsj.com/world/china/hegseth-says-u-s-needs-more-from-asian-allies-to-secure-balance-against-china-ab9c79f9][Hegseth Says U.S. Needs More From Asian Allies to Secure Balance Against China]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/article/2026/06/01/la-prise-du-chateau-de-beaufort-au-sud-du-liban-un-atout-strategique-mais-un-fardeau-historique-pour-l-armee-israelienne_6695811_3210.html][La prise du château de Beaufort, au sud du Liban, un atout stratégique mais un fardeau historique pour l’armée israélienne]]
-- [[https://www.lemonde.fr/sport/article/2026/05/31/a-paris-le-psg-celebre-sa-deuxieme-ligue-des-champions-et-se-prend-a-viser-toujours-plus-haut_6695611_3242.html][Le PSG célèbre avec une parade à Paris sa deuxième Ligue des champions et se prend à viser toujours plus haut]]
-- [[https://www.lemonde.fr/politique/article/2026/05/31/violences-en-milieu-scolaire-apres-un-parcours-seme-d-embuches-la-proposition-de-loi-betharram-arrive-a-l-assemblee-nationale_6695591_823448.html][Violences en milieu scolaire : après un parcours semé d’embûches, la proposition de loi « Bétharram » arrive à l’Assemblée nationale]]
-- [[https://www.lemonde.fr/sciences/article/2026/05/31/cancers-du-pancreas-l-efficacite-d-un-traitement-innovant-presente-a-chicago-alors-qu-un-programme-de-prevention-se-deploie-en-france_6695584_1650684.html][Cancers du pancréas : l’efficacité d’un traitement innovant présenté à Chicago, alors qu’un programme de prévention se déploie en France]]
-- [[https://www.lemonde.fr/international/article/2026/06/01/presidentielle-en-colombie-abelardo-de-la-espriella-un-millionnaire-admirateur-de-donald-trump-et-ivan-cepeda-le-candidat-de-la-gauche-s-affronteront-au-second-tour_6695677_3210.html][Présidentielle en Colombie : Abelardo de la Espriella, un millionnaire admirateur de Donald Trump, et Ivan Cepeda, le candidat de la gauche, s’affronteront au second tour]]
+- [[https://www.lemonde.fr/international/live/2026/06/01/en-direct-guerre-au-moyen-orient-nouveaux-tirs-de-missiles-entre-les-etats-unis-et-l-iran-au-cours-du-week-end_6694380_3210.html][EN DIRECT, guerre au Moyen-Orient : l’Iran répète qu’un cessez-le-feu au Liban est « une condition essentielle » pour mettre fin à la guerre avec les Etats-Unis]]
+- [[https://www.lemonde.fr/international/live/2026/06/01/en-direct-guerre-en-ukraine-la-russie-suspend-ses-exportations-de-kerosene-pour-assurer-la-stabilite-du-marche-interieur-apres-des-attaques-sur-ses-raffineries_6695365_3210.html][EN DIRECT, guerre en Ukraine : la Russie suspend ses exportations de kérosène « pour assurer la stabilité du marché intérieur », après des attaques sur ses raffineries]]
+- [[https://www.lemonde.fr/politique/article/2026/06/01/le-titre-de-sejour-de-xenia-fedorova-la-chroniqueuse-pro-kremlin-des-medias-bollore-provoque-des-interrogations-au-sommet-de-l-etat_6695923_823448.html][Le titre de séjour de Xenia Fedorova, la chroniqueuse pro-Kremlin des médias Bolloré, provoque l’embarras au sommet de l’Etat]]
+- [[https://www.lemonde.fr/les-decodeurs/article/2026/06/01/pourquoi-la-hausse-des-indemnites-des-arrets-de-travail-ne-s-explique-pas-par-les-abus_6695846_4355770.html][Pourquoi la hausse des indemnités des arrêts de travail ne s’explique pas par les « abus »]]
+- [[https://www.lemonde.fr/disparitions/article/2026/06/01/andre-santini-maire-d-issy-les-moulineaux-et-ancien-depute-udi-est-mort-a-l-age-de-85-ans_6695930_3382.html][André Santini, maire d’Issy-les-Moulineaux et ancien député UDI, est mort à l’âge de 85 ans]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/les-droits-des-travailleurs-dans-le-monde-en-crise-systemique-notamment-en-france-20260601][Les droits des travailleurs dans le monde en «crise systémique», notamment en France]]
-- [[https://www.lefigaro.fr/societes/ia-energie-sante-les-investissements-affluent-en-france-20260531][IA, énergie, santé : les investissements affluent en France]]
-- [[https://www.lefigaro.fr/economie/softbank-promet-jusqu-a-75-milliards-d-euros-d-investissement-dans-les-data-centers-20260531][Softbank promet jusqu’à 75 milliards d’euros d’investissement dans les data centers]]
-- [[https://www.lefigaro.fr/economie/la-der-d-emmanuel-macron-a-choose-france-20260531][La «der» d’Emmanuel Macron à Choose France]]
-- [[https://www.lefigaro.fr/societes/a-dunkerque-orano-et-xtc-concretisent-une-promesse-choose-france-trois-ans-apres-son-annonce-20260531][À Dunkerque, Orano et XTC concrétisent une promesse Choose France, trois ans après son annonce]]
+- [[https://www.lefigaro.fr/politique/ligue-des-champions-jordan-bardella-denonce-des-scenes-de-guerre-civile-et-propose-d-arreter-l-immigration-20260601][Violences après PSG-Arsenal : Jordan Bardella dénonce des «scènes de guerre civile» et propose «d’arrêter l’immigration»]]
+- [[https://www.lefigaro.fr/actualite-france/violences-apres-psg-arsenal-des-responsables-etrangers-dont-alice-wendel-et-geert-wilders-appellent-a-la-remigration-20260601][Violences après PSG-Arsenal : des responsables étrangers, dont Alice Weidel et Geert Wilders, appellent à la «remigration»]]
+- [[https://www.lefigaro.fr/faits-divers/ligue-des-champions-plus-de-890-interpellations-en-hausse-de-plus-de-45-par-rapport-a-2025-annonce-laurent-nunez-20260601][Violences après PSG-Arsenal : «Plus de 890 interpellations, en hausse de plus de 45%» par rapport à 2025, annonce Laurent Nunez]]
+- [[https://www.lefigaro.fr/actualite-france/pillages-attaques-de-policiers-agressions-en-cascades-comment-la-france-a-replonge-dans-une-nuit-ensauvagee-20260531][Pillages, attaques de policiers, agressions en cascade : comment la France a replongé dans une nuit ensauvagée]]
+- [[https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-le-hezbollah-doit-cesser-les-tirs-en-premier-selon-un-responsable-americain-20260601][EN DIRECT - Guerre en Iran : le pétrole grimpe après de nouvelles attaques entre les États-Unis et l’Iran]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss][Israel seizes castle in Lebanon as it expands ground offensive]]
-- [[https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss][Colombia presidential runoff pits leftist senator against pro-Trump rival]]
-- [[https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss][Trump seeking edits to US-Iran deal, US media report]]
+- [[https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss][US says it struck Iranian radar sites as Kuwait reports missile and drone attacks]]
+- [[https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss][Iran attacks damage 20 US military sites since start of war, satellite images show]]
+- [[https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss][Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates]]
 - [[https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss][Huge blast kills dozens in rebel-held village in Myanmar]]
-- [[https://www.bbc.com/news/articles/c1d2ld91635o?at_medium=RSS&at_campaign=rss][Poland's controversial 'Highway to Hel' 666 bus revived]]
+- [[https://www.bbc.com/news/articles/cz928xq588no?at_medium=RSS&at_campaign=rss][Five patients recover from Ebola in DR Congo and leave hospital]]
 
 *** The Guardian
 
+- [[https://www.theguardian.com/world/2026/jun/01/wildfires-devastating-richer-areas-but-fewer-hectares-burned-globally-study][Wildfires devastating richer areas but fewer hectares burned globally – study]]
 - [[https://www.theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak][WHO calls for community cooperation to contain Ebola outbreak in DRC]]
 - [[https://www.theguardian.com/world/2026/may/31/yves-sakila-death-congolese-man-ireland-race-relations][Death of Congolese man renews scrutiny of race relations in Ireland]]
 - [[https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition][Bound by blood: new film highlights Jamaica’s outlawed obeah belief system]]
 - [[https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic][WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC]]
-- [[https://www.theguardian.com/world/2026/may/29/friday-briefing-what-do-the-cuts-in-aid-mean-for-the-fight-against-ebola-in-the-drc][Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?]]
 
 ** 🇮🇹 Italia
 
@@ -134,11 +133,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/allarme-un-sospetto-caso-ebola-cagliari-paziente-ospedale-AI6YuUOD][Allarme per un sospetto caso di Ebola a Cagliari, paziente con sintomi in isolamento in ospedale]]
+- [[https://www.ilsole24ore.com/art/mattarella-compito-repubblica-consolidare-fiducia-istituzioni-e-cittadini-AIlvsxOD][Mattarella, compito della Repubblica consolidare fiducia tra istituzioni e cittadini]]
+- [[https://www.ilsole24ore.com/art/vannacci-alza-posta-il-centrodestra-presto-nostro-candidato-milano-AIk0zWOD][Vannacci alza la posta con il centrodestra: presto nostro candidato per Milano]]
+- [[https://www.ilsole24ore.com/art/allarme-un-sospetto-caso-ebola-cagliari-paziente-ospedale-AI6YuUOD][Ebola, negativo il test del paziente rientrato in Sardegna dalla RD Congo]]
 - [[https://www.ilsole24ore.com/art/dalla-sanita-pensioni-ecco-divari-che-frenano-opportunita-donne-AIoozlND][Dalla sanità alle pensioni, ecco i divari che frenano le opportunità delle donne]]
 - [[https://www.ilsole24ore.com/art/73-raduno-nazionale-bersaglieri-meloni-mattarella-e-crosetto-celebrano-coraggio-e-dedizione-corpo-AI92zNOD][73° Raduno Nazionale Bersaglieri: Meloni, Mattarella e Crosetto celebrano il coraggio e la dedizione del Corpo]]
-- [[https://www.ilsole24ore.com/art/famiglie-allarme-bankitalia-salira-divario-ricchezza-AIcZFeND][Famiglie, allarme Bankitalia: salirà il divario sulla ricchezza]]
-- [[https://www.ilsole24ore.com/art/fermo-milano-il-manager-turco-caddell-construction-nell-inchiesta-caporalato-cantiere-consolato-usa-AI6j7NOD][Fermo a Milano per il manager Caddell Construction Co nell’inchiesta sul caporalato al Consolato Usa]]
 
 ** 🇩🇪 Alemania
 
@@ -152,21 +151,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/how-china-keeps-north-korea-s-economy-alive/a-77295494?maca=en-rss-en-world-4025-rdf][How China keeps North Korea's economy alive]]
 - [[https://www.dw.com/en/shangri-la-conference-asia-pacific-on-path-to-rearmament/a-77366299?maca=en-rss-en-world-4025-rdf][Shangri-La conference: Asia-Pacific on path to rearmament]]
 - [[https://www.dw.com/en/space-race-why-portugal-is-reaching-for-the-stars/a-77303795?maca=en-rss-en-world-4025-rdf][Space race: Why Portugal is reaching for the stars]]
 - [[https://www.dw.com/en/brazil-is-set-to-cut-in-on-china-s-rare-earths-dominance/a-77344696?maca=en-rss-en-world-4025-rdf][Brazil is set to cut in on China's rare earths dominance]]
 - [[https://www.dw.com/en/meteor-explodes-over-united-states-triggering-sonic-boom/a-77361548?maca=en-rss-en-world-4025-rdf][Meteor explodes over United States, triggering sonic boom]]
-- [[https://www.dw.com/en/ukraine-iaea-seeks-access-to-zaporizhzhia-nuclear-plant-after-reported-drone-strike/a-77361296?maca=en-rss-en-world-4025-rdf][Ukraine: IAEA seeks access to Zaporizhzhia nuclear plant after reported drone strike]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/06/vinicius-junior-defende-virginia-apos-influenciadora-ser-xingada-no-maracana.shtml][Vinicius Junior defende Virginia após influenciadora ser xingada no Maracanã]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/petro-diz-que-nao-aceita-resultados-de-apuracao-previa-na-colombia-que-coloca-apadrinhado-em-2o-lugar.shtml][Petro diz que não aceita resultados de apuração prévia na Colômbia, que coloca apadrinhado em 2º lugar]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/06/frente-a-frente-programa-da-folha-e-do-uol-entrevista-fernando-haddad-nesta-segunda.shtml][Frente a Frente, programa da Folha e do UOL, entrevista Fernando Haddad nesta segunda]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/05/o-alerta-de-mastrorosa-para-quem-comprou-imovel-na-planta.shtml][O alerta de Mastrorosa para quem comprou imóvel na planta]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcos-de-vasconcellos/2026/05/lobo-tera-r-1-bi-na-cvm-para-cacar-lobos-de-wall-street-genericos.shtml][Lobo terá R$ 1 bi na CVM para caçar lobos de Wall Street genéricos]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/06/leitora-voraz-e-rainha-da-alcachofra-curiosidades-sobre-marilyn-monroe-que-completaria-100-anos.shtml][Leitora voraz e Rainha da Alcachofra: curiosidades sobre Marilyn Monroe, que completaria 100 anos]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2026/06/eletrica-e-pesada-ferrari-luce-pode-ser-um-fracasso-genial.shtml][Elétrica e pesada, Ferrari Luce pode ser um fracasso genial]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/06/evolucao-de-presas-pode-explicar-os-minusculos-bracos-do-t-rex.shtml][Evolução de presas pode explicar os minúsculos braços do T. rex]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/como-um-reporter-do-new-york-times-vendeu-a-propria-casa-somente-com-ajuda-de-ia.shtml][Como um repórter do New York Times vendeu a própria casa somente com ajuda de IA]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2026/06/desafio-de-matematica-pedra-papel-e-tesoura.shtml][Desafio de Matemática: Pedra, Papel e Tesoura]]
 
 *** O Globo
 
