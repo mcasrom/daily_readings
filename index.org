@@ -30,17 +30,17 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«La geopolítica es el arte de mirar el mapa para entender el poder».</div>
-#+HTML: <div class='timestamp'>Sincronizado: 01-06-2026 18:00:03</div>
-#+HTML: <div class='visit-counter'>📊 <strong>VISITAS TOTALES:</strong> 532</div>
+#+HTML: <div class='quote-box'>«La geografía no cambia, pero el código que la gobierna se escribe cada día».</div>
+#+HTML: <div class='timestamp'>Sincronizado: 02-06-2026 00:00:03</div>
+#+HTML: <div class='visit-counter'>📊 <strong>VISITAS TOTALES:</strong> 533</div>
 * 🗂 Archivo de Noticias
+#+HTML: <div class='briefing-item'><a href='260602_day_briefing.html'>⚡ Edición: 260602</a></div>
 #+HTML: <div class='briefing-item'><a href='260601_day_briefing.html'>⚡ Edición: 260601</a></div>
 #+HTML: <div class='briefing-item'><a href='260531_day_briefing.html'>⚡ Edición: 260531</a></div>
 #+HTML: <div class='briefing-item'><a href='260530_day_briefing.html'>⚡ Edición: 260530</a></div>
 #+HTML: <div class='briefing-item'><a href='260529_day_briefing.html'>⚡ Edición: 260529</a></div>
 #+HTML: <div class='briefing-item'><a href='260528_day_briefing.html'>⚡ Edición: 260528</a></div>
 #+HTML: <div class='briefing-item'><a href='260527_day_briefing.html'>⚡ Edición: 260527</a></div>
-#+HTML: <div class='briefing-item'><a href='260526_day_briefing.html'>⚡ Edición: 260526</a></div>
 
 #+HTML: <div class="cta-blog"><h3>🗺📜 El Mapa y El Código</h3><p>Por el mismo autor de "El Mapa y El Código", explorando la intersección entre la tecnología y el poder global.</p><a href="https://elmapayelcodigo.netlify.app/" style="color:var(--primary); font-weight:bold; text-decoration:none;">Visitar Blog →</a></div>
 #+HTML: <div class="footer-hub">
