@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
-#+HTML: <div class='telemetry'>🌡 49.4°C | ⚖ Load: 0.03 | 🌐 Ping: 9.88ms</div>
+#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
+#+HTML: <div class='telemetry'>🌡 48.9°C | ⚖ Load: 0.00 | 🌐 Ping: 15.1ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,19 +49,19 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/06/01/6a1d4507e4d4d8bd6d8b4574.html][Feijóo presiona a Junts y PNV para que apoyen una moción sólo para activar las elecciones: "184 diputados estamos pidiendo urnas"]]
-- [[https://www.elmundo.es/espana/2026/06/01/6a1d82fffc6c8342708b4576.html][Los directores de los Conservatorios reculan ahora en el juicio: "La ayuda de David Sánchez nos vino muy bien"]]
-- [[https://www.elmundo.es/espana/extremadura/2026/06/01/6a1d39a6e85ece9d538b4582.html][La Audiencia de Badajoz exculpa al hermano de Pedro Sánchez del delito de "aceptación de nombramiento ilegal" y sigue adelante con el juicio por los otros dos]]
-- [[https://www.elmundo.es/espana/2026/06/01/69f8ebfcfc6c83df198b458d.html][Notas de corte de Selectividad: consulta aquí la nota de PAU en cada carrera y cada universidad en 2025 - 2026]]
-- [[https://www.elmundo.es/economia/empresas/2026/06/01/69eb35d1e9cf4a65678b457c.html][España encara otro verano de récord que pone a prueba la capacidad de sus infraestructuras]]
+- [[https://www.elmundo.es/espana/2026/06/01/6a1dbda4fc6c8390668b4586.html][Feijóo azuzará con la moción a los empresarios catalanes: "No os podéis conformar con este bloqueo"]]
+- [[https://www.elmundo.es/espana/2026/06/01/6a1dc6ab21efa0715a8b4581.html][Sánchez, señalado por la carta que dejó a sus ministros hace ocho años: "Respondamos a la ejemplaridad que cabe esperar de este nuevo Gobierno"]]
+- [[https://www.elmundo.es/espana/2026/06/01/6a1dbdfafc6c83872b8b458c.html][Feijóo ganaría con la moción... aun perdiendo]]
+- [[https://www.elmundo.es/economia/empresas/2026/06/01/6a1d961efdddff55268b45aa.html][Florentino planea traspasar el negocio del fútbol del Real Madrid a una nueva filial y vender hasta un 10% a un inversor privado]]
+- [[https://www.elmundo.es/espana/2026/06/01/6a1dbe5ffc6c8320038b4594.html][Las acusaciones del caso del 'hermanísimo' confían en un testimonio clave: la aspirante a la que no le preguntaron "nada" en la entrevista]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/internacional/20260601/11553327/trump-presiona-netanyahu-posponer-ataques-sobre-beirut.html][Trump presiona a Netanyahu para “posponer” los ataques sobre Beirut]]
-- [[https://www.lavanguardia.com/economia/20260601/11553294/petroleo-repunta-iran-suspenda-negociaciones-paz-com-ee-uu.html][El petróleo repunta después de que Irán suspenda las negociaciones de paz con EE. UU.]]
-- [[https://www.lavanguardia.com/internacional/20260601/11553304/trump-dice-negocia-nuevo-iran-compromiso-israel-atacar-libano.html][Trump: “Tuve una buena conversación con Hezbolá y acordaron que cesarán todos los disparos”]]
-- [[https://www.lavanguardia.com/politica/20260601/11553100/villarejo-filtros-rajoy-queria-trincar-coronas-jefes-incapaces.html][Villarejo sin filtros: Rajoy quería “trincar”, el “coronas” y jefes incapaces]]
-- [[https://www.lavanguardia.com/politica/20260601/11552664/sanchez-feijoo-examinan.html][Sánchez y Feijóo se examinan]]
+- [[https://www.lavanguardia.com/internacional/20260602/11553357/trump-intenta-contener-israel-salvar-negociacion-iran.html][Trump intenta contener a Israel para salvar la negociación con Irán]]
+- [[https://www.lavanguardia.com/internacional/20260601/11553304/trump-dice-negocia-nuevo-iran-compromiso-israel-atacar-libano.html][Trump dice que se negocia de nuevo con Irán tras el compromiso de Israel de no atacar Líbano]]
+- [[https://www.lavanguardia.com/internacional/20260602/11553529/onu-acusa-israel-violar-soberania-libanesa-incursion-militar.html][La ONU acusa a Israel de violar la soberanía libanesa con su incursión militar]]
+- [[https://www.lavanguardia.com/economia/20260601/11553294/petroleo-repunta-iran-suspenda-negociaciones-paz-com-ee-uu.html][El petróleo repunta después de que Irán suspenda las negociaciones con EE. UU.]]
+- [[https://www.lavanguardia.com/opinion/20260602/11553380/tentacion-netanyahu.html][La tentación de Netanyahu]]
 
 *** El Diario de Cantabria
 
@@ -76,35 +76,35 @@
 *** The Washington Post
 
 - [[https://www.washingtonpost.com/world/2026/06/01/eu-gets-tougher-migration-wealthy-nations-question-asylum-claims/][Hardening views on migrants push Europe toward Trump-like tactics]]
-- [[https://www.washingtonpost.com/world/2026/06/01/iran-us-trade-strikes-deal-end-war-remains-elusive/][Iran says it is breaking off talks to end war after U.S. and Israeli strikes]]
+- [[https://www.washingtonpost.com/world/2026/06/01/iran-us-trade-strikes-deal-end-war-remains-elusive/][Iran says it is breaking off ceasefire talks over Israeli attacks on Lebanon]]
 - [[https://www.washingtonpost.com/world/2026/06/01/kenyans-protest-us-plan-ebola-field-hospital-air-base/][Kenyans protest U.S. plan for Ebola field hospital to treat Americans]]
 - [[https://www.washingtonpost.com/world/2026/05/31/ukrainian-drone-operators-compete-kill-russian-invaders/][Ukraine turns real-life kills into video game thrills for drone pilots]]
 
 *** WSJ.com: World News
 
-- [[https://www.wsj.com/world/middle-east/u-s-strikes-iranian-air-defenses-drone-site-in-new-hormuz-skirmish-727b9193][Trump Says Israel and Hezbollah Have Agreed ‘All Shooting Will Stop’]]
+- [[https://www.wsj.com/world/americas/colombia-elections-abelardo-espriella-daf81653][How a Far-Right Outsider Became the Front-Runner in Colombia’s Presidential Race]]
+- [[https://www.wsj.com/world/middle-east/us-oman-iran-ties-3e056744][U.S. Presses Neutral Oman to Pick a Side and Cut Ties With Iran]]
+- [[https://www.wsj.com/world/middle-east/u-s-strikes-iranian-air-defenses-drone-site-in-new-hormuz-skirmish-727b9193][Trump Pushes to End Lebanon Conflict in Hope of Unlocking a Deal With Iran]]
+- [[https://www.wsj.com/world/middle-east/russia-syria-air-base-c068ea9e][Russia Resupplies Its Syria Air Base, Hanging On to a Strategic Foothold]]
 - [[https://www.wsj.com/world/europe/soccer-glory-in-france-spurs-violence-againand-political-backlash-7df0ee59][Soccer Glory in France Spurs Violence Again—and Political Backlash]]
-- [[https://www.wsj.com/world/middle-east/trump-wants-arab-states-to-recognize-israel-the-war-has-made-that-harder-32cb449e][Trump Wants Arab States to Recognize Israel. The War Has Made That Harder.]]
-- [[https://www.wsj.com/world/china/taiwans-opposition-leader-comes-to-u-s-with-a-message-straight-out-of-beijing-1561596b][Taiwan’s Opposition Leader Comes to U.S. With a Message Straight Out of Beijing]]
-- [[https://www.wsj.com/world/americas/colombia-election-results-d920ce6e][Right-Wing Firebrand Surges Into Colombia Runoff, Shaking Political Establishment]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/06/01/en-direct-guerre-au-moyen-orient-donald-trump-affirme-avoir-obtenu-un-accord-de-cessez-le-feu-entre-israel-et-le-hezbollah-et-ecarte-tout-bombardement-de-beyrouth_6694380_3210.html][EN DIRECT, guerre au Moyen-Orient : Donald Trump affirme avoir obtenu un accord de cessez-le-feu entre Israël et le Hezbollah et que l’armée israélienne ne frappera pas Beyrouth]]
-- [[https://www.lemonde.fr/economie/article/2026/06/01/duralex-place-en-redressement-judiciaire-malgre-son-succes-aupres-du-grand-public_6696014_3234.html][Duralex placé en redressement judiciaire, malgré son succès auprès du grand public]]
-- [[https://www.lemonde.fr/economie/article/2026/06/01/depuis-la-derniere-usine-europeenne-de-penicilline-sandoz-exhorte-l-europe-a-agir-face-a-la-chine_6696011_3234.html][Depuis la dernière usine européenne de pénicilline, Sandoz exhorte l’Europe à agir face à la Chine]]
-- [[https://www.lemonde.fr/politique/article/2026/06/01/budget-la-justice-et-france-2030-touches-de-plein-fouet-par-le-plan-d-economies_6696017_823448.html][Budget : la justice et France 2030 touchés de plein fouet par le plan d’économies]]
+- [[https://www.lemonde.fr/international/article/2026/06/02/vladimir-poutine-essuie-une-serie-de-revers-qui-alimentent-le-mecontentement-en-russie-et-interrogent-sa-strategie_6696294_3210.html][Vladimir Poutine essuie une série de revers qui alimentent le mécontentement en Russie et interrogent sa stratégie]]
+- [[https://www.lemonde.fr/international/live/2026/06/02/en-direct-guerre-au-moyen-orient-donald-trump-encourage-israel-et-le-hezbollah-a-cesser-les-hostilites-pour-toujours-apres-avoir-annonce-un-cessez-le-feu-entre-les-deux-parties_6694380_3210.html][EN DIRECT, guerre au Moyen-Orient : les attaques reprennent entre le Hezbollah et Israël malgré les déclarations d’apaisement de Donald Trump]]
+- [[https://www.lemonde.fr/politique/article/2026/06/02/violences-en-milieu-scolaire-l-assemblee-adopte-a-l-unanimite-la-proposition-de-loi-post-betharram_6696227_823448.html][Violences en milieu scolaire : l’Assemblée nationale adopte à l’unanimité la proposition de loi « post-Bétharram »]]
+- [[https://www.lemonde.fr/international/article/2026/06/02/immigration-l-union-europeenne-se-dote-d-un-regime-draconien-d-expulsion-des-etrangers-sans-papiers_6696028_3210.html][Immigration : l’Union européenne se dote d’un régime draconien d’expulsion des étrangers sans papiers]]
 - [[https://www.lemonde.fr/societe/article/2026/06/01/apres-les-violences-qui-ont-suivi-la-victoire-du-psg-des-peines-de-prison-prononcees-sommes-nous-une-societe-du-chaos-non_6696024_3224.html][Après les violences qui ont suivi la victoire du PSG, des peines de prison prononcées : « Sommes-nous une société du chaos ? Non »]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/flash-actu/l-ue-donne-son-feu-vert-pour-creer-des-centres-ou-renvoyer-les-migrants-illegaux-20260601][L'UE donne son feu vert pour créer des centres où renvoyer les migrants illégaux]]
-- [[https://www.lefigaro.fr/politique/immigration-illegale-le-combat-de-francois-xavier-bellamy-pour-une-application-immediate-du-reglement-retour-20260527][Immigration illégale : le combat de François-Xavier Bellamy pour une application immédiate du règlement retour]]
-- [[https://www.lefigaro.fr/faits-divers/disparition-de-lyhanna-un-pere-de-famille-mis-en-examen-pour-sequestration-20260601][Disparition de Lyhanna : un père de famille mis en examen pour «séquestration»]]
-- [[https://www.lefigaro.fr/faits-divers/le-temps-joue-contre-nous-apres-la-disparition-de-lyhanna-11-ans-fleurance-s-accroche-tant-bien-que-mal-a-l-espoir-20260601][«Le temps joue contre nous» : après la disparition de Lyhanna, 11 ans, le village de Fleurance s’accroche tant bien que mal à l’espoir]]
-- [[https://www.lefigaro.fr/musique/hotel-haut-de-gamme-vignoble-huile-d-olive-de-luxe-l-empire-de-patrick-bruel-vacille-20260601][Hôtel haut de gamme, vignoble, huile d’olive de luxe... L’empire de Patrick Bruel vacille]]
+- [[https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-le-hezbollah-doit-cesser-les-tirs-en-premier-selon-un-responsable-americain-20260601][EN DIRECT - Guerre au Moyen-Orient : Netanyahou affirme qu’Israël frappera Beyrouth en cas d’attaques du Hezbollah]]
+- [[https://www.lefigaro.fr/flash-actu/la-france-interdit-les-armes-offensives-israeliennes-au-salon-eurosatory-20260601][La France interdit les armes offensives israéliennes au salon Eurosatory]]
+- [[https://www.lefigaro.fr/international/les-ministres-allemand-et-norvegien-en-route-pour-beyrouth-rebroussent-chemin-20260601][Les ministres allemand et norvégien en route pour Beyrouth rebroussent chemin]]
+- [[https://www.lefigaro.fr/international/donald-trump-assure-qu-israel-et-le-hezbollah-lui-ont-promis-un-apaisement-20260601][Le Liban annonce l’accord du Hezbollah à un plan de «cessation mutuelle des attaques» avec Israël]]
+- [[https://www.lefigaro.fr/international/la-prochaine-crise-sera-celle-de-l-obeissance-l-armee-israelienne-de-plus-en-plus-influencee-par-les-mouvements-messianiques-20260531][« La prochaine crise sera celle de l’obéissance » : l’armée israélienne de plus en plus influencée par les mouvements messianiques]]
 
 ** 🇬🇧 Reino Unido
 
@@ -112,9 +112,9 @@
 
 - [[https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss][Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel]]
 - [[https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss][Bowen: Trump needs this war to end but Iran is not backing down]]
+- [[https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss][Massive Russian attack on cities across Ukraine kills at least nine people]]
 - [[https://www.bbc.com/news/articles/cn8pw93929wo?at_medium=RSS&at_campaign=rss][Three Ebola vaccines in development amid growing outbreak fears]]
 - [[https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss][OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims]]
-- [[https://www.bbc.com/news/articles/c3w2vdd6jj3o?at_medium=RSS&at_campaign=rss][Hungarian PM threatens to oust Orbán-era president]]
 
 *** The Guardian
 
@@ -164,11 +164,11 @@
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/cecilia-machado/2026/06/acesso-a-credito-nao-e-sinonimo-de-bem-estar-financeiro.shtml][Acesso a crédito não é sinônimo de bem-estar financeiro]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/governo-trump-suspende-fundo-antiaparelhamento-de-us-18-bi-apos-criticas-de-aliados-diz-agencia.shtml][Governo Trump suspende 'fundo antiaparelhamento' de US$ 1,8 bi após críticas de aliados, diz agência]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/michael-franca/2026/06/audiencia-vale-mais-que-curriculo-que-tal-virginia-fonseca-operar-seu-coracao.shtml][Audiência vale mais que currículo? Que tal Virginia Fonseca operar seu coração?]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/06/atriz-de-margos-got-money-troubles-revela-ter-sido-abandonada-ainda-bebe-em-escadaria.shtml][Atriz de 'Margo's Got Money Troubles' revela ter sido abandonada ainda bebê em escadaria]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/guru-mental-reforca-time-de-rival-de-joao-fonseca.shtml][Guru mental reforça time de rival de João Fonseca]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/a-frente-de-empresas-de-investimentos-executiva-relata-o-que-faz-para-ser-levada-a-serio.shtml][À frente de empresas de investimentos, executiva relata o que faz para ser 'levada a sério']]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/06/projeto-que-dificulta-aborto-legal-em-menores-de-14-anos-entra-na-pauta-do-senado.shtml][Projeto que dificulta aborto legal em menores de 14 anos entra na pauta do Senado]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/torcedor-do-paysandu-atropela-torcida-do-remo-e-mata-quatro-homens-em-belem.shtml][Torcedor do Paysandu atropela torcida do Remo e mata quatro homens em Belém]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/plastico/2026/06/tarsila-do-amaral-tera-obras-milionarias-da-fase-aurea-a-venda-na-art-basel.shtml][Tarsila do Amaral terá obras milionárias da fase áurea à venda na Art Basel]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/06/ia-desenvolve-estrategias-de-sobrevivencia-sem-instrucao-humana-diz-estudo-de-harvard.shtml][IA desenvolve estratégias de sobrevivência sem instrução humana, diz estudo de Harvard]]
 
 *** O Globo
 
