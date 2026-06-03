@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 49.4°C | ⚖ Load: 0.00 | 🌐 Ping: 15.2ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 49.4°C | ⚖ Load: 0.01 | 🌐 Ping: 14.4ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,19 +49,19 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/extremadura/2026/06/02/6a1ea3de21efa0ad338b45b0.html][La Diputación de Badajoz elaboró dos actas con distinta puntuación para baremar a los 11 candidatos que se presentaron a la plaza que ganó David Sánchez]]
-- [[https://www.elmundo.es/espana/extremadura/2026/06/02/6a1ebd9021efa07b138b45a0.html][La testigo clave pone en jaque la puntuación del concurso de la plaza que ganó David Sánchez: no le hicieron ninguna pregunta y le pusieron un 0 en experiencia, que tenía, y en idiomas, pese a hablar inglés y portugués]]
-- [[https://www.elmundo.es/espana/2026/06/02/6a1ed300e4d4d8a1088b459b.html][El PSOE eleva ahora de 15.000 a 45.000 euros lo que pagó a la 'fontanera' Leire Díez como periodista cuando dejó de ser concejal en Cantabria]]
-- [[https://www.elmundo.es/cronica/2026/06/02/6a1c09edfdddff806c8b456f.html][Tras la herencia de los 'Zapatero Espinosa' en el pueblo del abuelo Zapatero pudiente: "No ha querido saber nada"]]
-- [[https://www.elmundo.es/cataluna/2026/06/02/6a1ee39afdddff0d658b4597.html][Feijóo y Rueda frenan en Barcelona el nuevo intento de Sánchez de relanzar la financiación pactada con Junqueras: "No vamos a participar"]]
+- [[https://www.elmundo.es/espana/2026/06/02/6a1f102ee85ece00578b457e.html][Zapatero renuncia al 'lawfare' pero centrará su defensa en anular las pruebas]]
+- [[https://www.elmundo.es/espana/2026/06/02/6a1f179621efa07b4c8b45d6.html][La autoprofecía de Zapatero: ironizó con la "preocupación" por lo que veía venir días antes de su imputación]]
+- [[https://www.elmundo.es/espana/2026/06/02/6a1f104fe85ece25728b4570.html][Turno de la UCO ante el tribunal del 'hermanísimo': la desaparición de correos y las alteración de las actas marcan el juicio]]
+- [[https://www.elmundo.es/espana/2026/06/02/69fcd1b4e4d4d8b85d8b4595.html][Cómo elegir carrera: estos son los grados con mayor y menor tasa de empleabilidad y sueldo en 2026]]
+- [[https://www.elmundo.es/espana/2026/06/02/6a1f3210e85ece244e8b4586.html][Dopaje' de notas hacia la Selectividad: el doble de sobresalientes en el Bachillerato de Murcia que en el de Navarra]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/economia/20260602/11553734/feijoo-dice-vengo-pedir-favores-defiende-mayoria-alternativa.html][Feijóo rechaza negociar con Puigdemont: “Hablemos de cosas serias”]]
-- [[https://www.lavanguardia.com/politica/20260602/11553837/mocion-censura-instrumental-acto-fe.html][¿Qué es una moción de censura instrumental y por qué Feijóo no estaría obligado a convocar elecciones si la ganara?]]
-- [[https://www.lavanguardia.com/videos/claves-del-dia/20260602/11554200/gran-baza-sanchez-nadie-le-convienen-elecciones.html][“La gran baza de Sánchez es que a casi nadie le convienen elecciones”]]
+- [[https://www.lavanguardia.com/politica/20260603/11554282/oferta-feijoo-junts-pnv-desbancar-sanchez-queda-punto-muerto.html][La oferta de Feijóo a Junts y PNV para desbancar a Sánchez queda en punto muerto]]
 - [[https://www.lavanguardia.com/politica/20260602/11554064/gobierno-acusa-feijoo-cinismo-desesperacion-pedir-ayuda-pnv-junts.html][El Gobierno acusa ahora a Feijóo de “cinismo y desesperación” por pedir ayuda al PNV y Junts]]
+- [[https://www.lavanguardia.com/opinion/20260603/11554334/falta-arriesgar.html][No hace falta arriesgar]]
 - [[https://www.lavanguardia.com/gente/20260602/11553676/leonor-convierte-primera-princesa-saltar-paracaidas.html][Leonor se convierte en la primera princesa en saltar en paracaídas]]
+- [[https://www.lavanguardia.com/politica/20260602/11554213/tres-testigos-abrir-brecha-defensa-david-sanchez.html][Los tres testigos que pueden abrir una brecha en la defensa de David Sánchez]]
 
 *** El Diario de Cantabria
 
@@ -83,39 +83,39 @@
 
 *** WSJ.com: World News
 
-- [[https://www.wsj.com/politics/national-security/army-jailbreaks-its-own-weapon-systems-to-counter-drone-threats-3f57f032][Army ‘Jailbreaks’ Its Own Weapon Systems to Counter Drone Threats]]
+- [[https://www.wsj.com/world/middle-east/u-s-iran-trade-heavy-fire-in-persian-gulf-testing-fragile-ceasefire-d4787573][U.S., Iran Trade Heavy Fire in Persian Gulf, Testing Fragile Ceasefire]]
+- [[https://www.wsj.com/world/middle-east/see-how-the-middle-easts-ceasefires-remain-plagued-by-violence-b7505ddf][See How the Middle East’s Ceasefires Remain Plagued by Violence]]
+- [[https://www.wsj.com/world/uk/student-murder-sparks-accusations-u-k-police-are-biased-against-white-victims-e91f374f][Student Murder Sparks Accusations U.K. Police Are Biased Against White Victims]]
 - [[https://www.wsj.com/world/middle-east/trump-netanyahu-iran-war-lebanon-8fdba5cb][Trump and Netanyahu Are Clashing Over How to End the Iran War]]
 - [[https://www.wsj.com/world/does-the-world-need-chinese-rare-earths-not-necessarily-say-these-companies-2eb95309][Does the World Need Chinese Rare Earths? Not Necessarily, Say These Companies]]
-- [[https://www.wsj.com/world/russias-attacks-on-civilians-grow-more-vicious-as-it-stalls-on-battlefield-d65039c2][Russia’s Attacks on Civilians Grow More Vicious as It Stalls on Battlefield]]
-- [[https://www.wsj.com/world/china/chinas-chip-ambitions-run-into-a-global-tech-wall-669a1835][China’s Chip Ambitions Run Into a Global Tech Wall]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/article/2026/06/02/seul-e-dans-alger-comment-les-opposants-du-systeme-luttent-pour-preserver-l-esprit-du-hirak_6696436_3210.html][Seul(e) dans Alger : comment les opposants du « système » luttent pour préserver l’esprit du Hirak]]
-- [[https://www.lemonde.fr/societe/article/2026/06/02/de-neuilly-a-la-frontiere-suisse-ces-20-villes-ou-se-concentrent-les-francais-aises_6696419_3224.html][De Neuilly à la frontière suisse, ces 20 villes où se concentrent les Français aisés]]
-- [[https://www.lemonde.fr/international/live/2026/06/02/en-direct-guerre-en-ukraine-volodymyr-zelensky-met-en-garde-contre-une-frappe-massive-qui-pourrait-avoir-lieu-cette-nuit-au-lendemain-de-bombardements-massifs-russes_6695365_3210.html][EN DIRECT, guerre en Ukraine : Volodymyr Zelensky met en garde contre « une frappe massive qui pourrait avoir lieu cette nuit » au lendemain de bombardements massifs russes]]
-- [[https://www.lemonde.fr/planete/article/2026/06/02/les-fruits-et-legumes-bio-associes-a-une-baisse-du-risque-de-cancer-du-sein-post-menopause_6696417_3244.html][Les fruits et légumes bio associés à une baisse du risque de cancer du sein post-ménopause]]
-- [[https://www.lemonde.fr/economie/article/2026/06/02/crise-energetique-l-italie-obtient-un-amenagement-minimal-du-pacte-de-stabilite-et-de-croissance_6696444_3234.html][Crise énergétique : l’Italie obtient un aménagement minimal du pacte de stabilité et de croissance]]
+- [[https://www.lemonde.fr/international/article/2026/06/03/l-administration-trump-sous-pression-des-elus-republicains-recule-sur-la-creation-d-un-fonds-d-indemnisation-dont-auraient-pu-beneficier-les-emeutiers-du-capitole_6696531_3210.html][L’administration Trump, sous pression des élus républicains, recule sur la création d’un fonds d’indemnisation dont auraient pu bénéficier les émeutiers du Capitole]]
+- [[https://www.lemonde.fr/economie/article/2026/06/02/comment-compter-les-riches-en-france-la-reflexion-sur-les-indicateurs-progresse_6696418_3234.html][Comment compter les riches ? En France, la réflexion sur les indicateurs progresse]]
+- [[https://www.lemonde.fr/politique/article/2026/06/03/le-senat-s-offre-une-passe-d-armes-inattendue-sur-la-loi-de-programmation-militaire_6696525_823448.html][Défense : le gouvernement enregistre un revers inattendu au Sénat sur la loi de programmation militaire]]
+- [[https://www.lemonde.fr/international/article/2026/06/03/au-royaume-uni-l-extreme-droite-instrumentalise-les-errances-de-la-police-apres-le-meurtre-d-un-etudiant-par-un-jeune-sikh_6696528_3210.html][Au Royaume-Uni, l’extrême droite instrumentalise les errances de la police après le meurtre d’un étudiant par un jeune Sikh]]
+- [[https://www.lemonde.fr/international/live/2026/06/03/en-direct-guerre-en-ukraine-volodymyr-zelensky-craint-une-nouvelle-frappe-massive-russe-sur-l-ukraine-apres-les-attaques-qui-ont-fait-23-morts-la-nuit-precedente_6695365_3210.html][EN DIRECT, guerre en Ukraine : Volodymyr Zelensky craint une nouvelle frappe massive russe sur l’Ukraine, après les attaques qui ont fait 23 morts la nuit précédente]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/accord-de-paix-menace-de-teheran-donald-trump-dans-le-bourbier-iranien-20260602][Accord de paix, menace de Téhéran... Donald Trump dans le bourbier iranien]]
-- [[https://www.lefigaro.fr/international/c-est-une-enorme-perte-d-expertise-derriere-l-echec-des-negociations-en-iran-l-amateurisme-diplomatique-de-donald-trump-20260602][« C’est une énorme perte d’expertise » : derrière l’échec des négociations en Iran, l’amateurisme diplomatique de Donald Trump]]
-- [[https://www.lefigaro.fr/vox/monde/l-editorial-de-patrick-saint-paul-donald-trump-en-iran-de-l-art-du-deal-a-l-art-de-la-guerre-20260602][L’éditorial de Patrick Saint-Paul : «Donald Trump en Iran, de “l’art du deal” à “l’art de la guerre”»]]
-- [[https://www.lefigaro.fr/international/vous-etes-completement-fou-tout-le-monde-vous-deteste-maintenant-trump-furieux-contre-netanyahou-selon-axios-20260602][« Vous êtes complètement fou ! Tout le monde vous déteste maintenant » : Trump furieux contre Netanyahou, selon Axios]]
-- [[https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-donald-trump-exhorte-israel-et-le-hezbollah-a-arreter-de-se-battre-pour-toujours-le-liban-sous-tension-20260602][EN DIRECT - Guerre au Moyen-Orient : les États-Unis disent avoir mis hors service un navire violant leur blocus des ports iraniens]]
+- [[https://www.lefigaro.fr/conjoncture/l-amerique-de-donald-trump-fait-main-basse-sur-les-entreprises-etrangeres-a-cuba-20260602][Comment Donald Trump fait main basse sur les entreprises étrangères à Cuba]]
+- [[https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-donald-trump-exhorte-israel-et-le-hezbollah-a-arreter-de-se-battre-pour-toujours-le-liban-sous-tension-20260602][EN DIRECT - Guerre au Moyen-Orient : le Koweït de nouveau attaqué par des missiles et des drones, annonce l’armée]]
+- [[https://www.lefigaro.fr/international/liban-quatre-morts-et-127-blesses-dont-du-personnel-hospitalier-dans-des-frappes-israeliennes-sur-tyr-20260602][Liban : quatre morts et 127 blessés, dont du personnel hospitalier, dans des frappes israéliennes sur Tyr]]
+- [[https://www.lefigaro.fr/international/une-attaque-totale-contre-la-population-en-iran-le-regime-des-mollahs-entrouvre-internet-mais-accentue-la-repression-20260602][« Une attaque totale contre la population » : en Iran, le régime des mollahs entrouvre Internet mais accentue la répression]]
+- [[https://www.lefigaro.fr/international/liban-une-frappe-israelienne-tue-un-pere-et-ses-deux-enfants-qui-circulaient-en-voiture-dans-le-sud-du-pays-20260602][Liban : une frappe israélienne tue un père et ses deux enfants qui circulaient en voiture dans le sud du pays]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
 - [[https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss][Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold]]
+- [[https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss][US and Iran launch new strikes as ceasefire negotiations stalled]]
+- [[https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss][Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?]]
 - [[https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss]['They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike]]
 - [[https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss][British couple lose Iran jail sentence appeal, family says]]
-- [[https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss][US says it fired missile at Iran-bound oil tanker]]
-- [[https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss][Microsoft says new quantum chip 1,000 times more reliable than predecessor]]
 
 *** The Guardian
 
@@ -165,11 +165,11 @@
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/06/eu-mesma-ja-vi-tres-diz-yasmin-brunet-sobre-suposta-aparicao-de-ovni-no-parana.shtml]['Eu mesma já vi três', diz Yasmin Brunet sobre suposta aparição de Ovni no Paraná]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/06/socorro-accioli-participa-de-clube-de-leitura-do-ccbb-rio.shtml][Socorro Accioli participa de Clube de Leitura do CCBB Rio]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/06/usar-informacoes-publicas-para-treinar-ia-nao-e-ilegal-diz-executivo-da-openai.shtml][Usar informações públicas para treinar IA não é ilegal, diz executivo da OpenAI]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/06/como-e-o-ultimo-video-feito-por-jerry-gogosian-artista-que-morreu-no-rosewood.shtml][Como é o último vídeo feito por Jerry Gogosian, artista que morreu no Rosewood]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/06/fachin-se-reune-com-representante-da-onu-e-fala-em-pressoes-externas-a-constranger-juizes.shtml][Fachin se reúne com representante da ONU e fala em 'pressões externas' a constranger juízes]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/eua-concluem-investigacao-sobre-trabalho-forcado-e-propoem-mais-uma-tarifa-contra-brasil.shtml][EUA concluem investigação sobre trabalho forçado e propõem mais uma tarifa contra Brasil]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/relatorio-dos-eua-contra-brasil-cita-avanco-da-soja-e-pico-de-desmatamento-sob-bolsonaro.shtml][Relatório dos EUA contra Brasil cita avanço da soja e pico de desmatamento sob Bolsonaro]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/caetano-w-galindo/2026/06/quando-menos-se-espera-vem-um-versinho-explicar-o-que-e-beleza.shtml][Quando menos se espera, vem um versinho explicar o que é beleza]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/mulher-cai-em-vao-entre-trem-e-plataforma-em-estacao-da-zona-sul-de-sp.shtml][Mulher cai em vão entre trem e plataforma em estação da zona sul de SP]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/lula-critica-trump-e-flavio-mas-nao-prioriza-o-pix-ao-cortar-verba-do-bc.shtml][Lula critica Trump e Flávio, mas não prioriza o Pix ao cortar verba do BC]]
 
 *** O Globo
 
