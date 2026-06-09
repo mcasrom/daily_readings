@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 49.4°C | ⚖ Load: 0.19 | 🌐 Ping: 14.5ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 49.4°C | ⚖ Load: 0.04 | 🌐 Ping: 32.5ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,11 +49,11 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/madrid/2026/06/08/6a271316fc6c831c1b8b4578.html][El 'galáctico' León XIV pone en pie a un Bernabéu entregado al Papa: "Esto ha sido un golazo"]]
-- [[https://www.elmundo.es/madrid/2026/06/08/6a272a3dfdddffe21d8b45a4.html][Fervor por el Papa en las inmediaciones del Bernabéu: "León XIV les ha pegado un buen repaso a los políticos"]]
-- [[https://www.elmundo.es/madrid/2026/06/08/6a26f915e9cf4a1f6a8b45b5.html][Calor, cabreo y bebés sin bendecir en el gran chasco papal de la calle Toledo: "¡Atención, atención, por aquí no va a pasar el papamóvil!"]]
-- [[https://www.elmundo.es/madrid/2026/06/08/6a26c861e85ece33738b457f.html][Encuentro entre el Papa y Ayuso antes de la Almudena y con sabor a despedida: "Sabía que la generosidad de los madrileños le emocionaría"]]
-- [[https://www.elmundo.es/espana/2026/06/08/6a268c94e85ece39608b4581.html][Junts 'retiene' al Papa y le pide que hable catalán en Barcelona y Sumar le entrega las peticiones del Sindicato de Inquilinas]]
+- [[https://www.elmundo.es/cataluna/2026/06/08/6a2702d1e9cf4ae9678b45a4.html][Illa se despeña y perdería la presidencia mientras Aliança Catalana se dispara 10 puntos en una Cataluña ingobernable]]
+- [[https://www.elmundo.es/espana/2026/06/08/6a270504fc6c83dd218b45ad.html][El independentismo impulsa un boicot al Papa por no hablar "más catalán" durante su visita a Barcelona]]
+- [[https://www.elmundo.es/metropoli/gastronomia/2026/06/09/6a1d2b10e9cf4a807e8b4571.html][Bas, el comedor de Retiro que sorprende con su cocina de vivencias y una lengua a la brasa que deja huella]]
+- [[https://www.elmundo.es/espana/2026/06/09/6a2749b5e85ece254f8b4587.html][Y alguien dijo algo bueno de España al fin]]
+- [[https://www.elmundo.es/espana/2026/06/09/6a27185fe9cf4a1f6a8b45bd.html]["La legislatura aguanta hasta con una imputación de Sánchez": la oposición también asume que las elecciones no serán este año]]
 
 *** La Vanguardia
 
@@ -83,21 +83,21 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/politics/national-security/u-s-expands-list-of-chinese-tech-companies-it-says-assists-beijings-military-a2c6c6b9][U.S. Expands List of Chinese Tech Companies It Says Assist Beijing’s Military]]
+- [[https://www.wsj.com/world/china/a-new-front-is-opening-in-the-fight-to-break-chinas-rare-earth-dominance-8b96729d][The Fight to Break China’s Rare-Earth Dominance Moves to a New Front in Brazil]]
+- [[https://www.wsj.com/world/middle-east/lebanon-civil-war-cb8f63e1][Lebanon Is Teetering at the Abyss of a New Civil War]]
+- [[https://www.wsj.com/world/middle-east/irans-attack-on-israel-reveals-new-and-aggressive-regional-ambitions-46a63383][Iran’s Attack on Israel Reveals New and Aggressive Regional Ambitions]]
 - [[https://www.wsj.com/world/europe/germany-drops-jet-project-with-france-in-setback-for-european-defense-sovereignty-3f7a8b27][Germany Drops Jet Project With France in Setback for European Defense Sovereignty]]
-- [[https://www.wsj.com/world/middle-east/trump-and-netanyahus-rift-over-lebanon-is-deepening-df16b6c9][Trump Struggled to Rein In Netanyahu’s Strikes on Iran]]
-- [[https://www.wsj.com/world/middle-east/iran-fires-missiles-at-israel-after-israeli-airstrike-on-beirut-a93b4da7][Iran and Israel Halt Exchanges of Fire]]
-- [[https://www.wsj.com/world/asia/powerful-earthquake-rocks-southern-philippines-6f10662c][Powerful Earthquake Kills at Least 35 in Southern Philippines]]
-- [[https://www.wsj.com/world/asia/what-xi-and-kim-want-from-their-summit-in-north-korea-99a330b3][What Xi and Kim Want From Their Summit in North Korea]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/article/2026/06/08/l-iran-montre-clairement-qu-il-n-est-ni-dissuade-ni-vaincu-et-qu-il-ne-baisse-pas-les-bras-en-israel-les-questions-et-les-craintes-apres-l-escalade-militaire_6699638_3210.html][« L’Iran montre clairement qu’il n’est ni dissuadé ni vaincu, et qu’il ne baisse pas les bras » : en Israël, les questions et les craintes après l’escalade militaire]]
-- [[https://www.lemonde.fr/societe/article/2026/06/08/affaire-lyhanna-gerald-darmanin-sur-une-ligne-de-crete-entre-opinion-et-magistrats_6699647_3224.html][Affaire Lyhanna : Gérald Darmanin sur une ligne de crête entre opinion et magistrats]]
+- [[https://www.lemonde.fr/societe/article/2026/06/09/affaire-lyhanna-mais-ils-sont-ou-les-garcons-a-paris-toulouse-ou-bourgoin-jallieu-des-rassemblements-en-majorite-feminins-denoncent-le-dysfonctionnement-des-institutions_6700054_3224.html][Affaire Lyhanna | « Mais ils sont où les garçons ? » : à Paris, Toulouse ou Bourgoin-Jallieu, des rassemblements en majorité féminins dénoncent le dysfonctionnement des institutions]]
+- [[https://www.lemonde.fr/international/live/2026/06/09/en-direct-guerre-au-moyen-orient-14-personnes-tuees-lundi-dans-des-frappes-israeliennes-dans-le-sud-du-liban_6697888_3210.html][EN DIRECT, guerre au Moyen-Orient : 14 personnes tuées, lundi, dans des frappes israéliennes dans le sud du Liban]]
 - [[https://www.lemonde.fr/international/article/2026/06/08/berlin-et-paris-officialisent-l-arret-du-projet-franco-allemand-d-avion-de-combat-de-nouvelle-generation_6699652_3210.html][Berlin et Paris officialisent l’arrêt du projet franco-allemand d’avion de combat de nouvelle génération]]
-- [[https://www.lemonde.fr/international/article/2026/06/08/en-algerie-l-inlassable-attente-d-une-relation-apaisee-avec-la-france-pour-mes-enfants-je-veux-qu-on-se-reconcilie-et-qu-on-tourne-la-page_6699636_3210.html][En Algérie, l’inlassable attente d’une relation apaisée avec la France : « Pour mes enfants, je veux qu’on se réconcilie et qu’on tourne la page »]]
-- [[https://www.lemonde.fr/les-decodeurs/article/2026/06/08/environ-3-millions-d-habitants-en-moins-d-ici-a-2070-visualisez-comment-la-population-francaise-pourrait-evoluer-d-apres-l-insee_6699627_4355770.html][Environ 3 millions d’habitants en moins d’ici à 2070 : visualisez comment la population française pourrait évoluer d’après l’Insee]]
+- [[https://www.lemonde.fr/planete/article/2026/06/09/en-camargue-les-opposants-au-projet-de-ligne-a-tres-haute-tension-prets-a-durcir-leurs-actions_6699986_3244.html][En Camargue, les opposants au projet de ligne à très haute tension prêts à durcir leurs actions]]
+- [[https://www.lemonde.fr/sport/article/2026/06/09/france-irlande-du-nord-avec-un-triple-de-michael-olise-les-bleus-se-rassurent-avant-de-s-envoler-pour-la-coupe-du-monde-2026_6699885_3242.html][France-Irlande du Nord : avec un triplé de Michael Olise, les Bleus se rassurent avant de s’envoler pour la Coupe du monde 2026]]
 
 *** Le Figaro
 
@@ -112,18 +112,18 @@
 *** BBC News
 
 - [[https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss][Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again]]
-- [[https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss][Iran's strike on Israel suggests the regime's sense of resilience is growing]]
+- [[https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss][Watch: Trump tells BBC Netanyahu did not defy him]]
+- [[https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss][Israel and Iran flare-up could strengthen Tehran's negotiating hand]]
+- [[https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss][SpaceX's stock market blast-off could be Musk's biggest gamble yet]]
 - [[https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss][At least 35 dead after major earthquake strikes southern Philippines]]
-- [[https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss][Armenia's pro-West government wins election despite Russian pressure]]
-- [[https://www.bbc.com/news/articles/cnv9dz3reego?at_medium=RSS&at_campaign=rss][Malawians repatriated from South Africa amid xenophobia concerns]]
 
 *** The Guardian
 
+- [[https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks][Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks]]
 - [[https://www.theguardian.com/world/2026/jun/08/extreme-fear-among-immigrants-as-backlash-sweeps-south-africa][‘Extreme fear’ among immigrants as backlash sweeps South Africa]]
 - [[https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say][Ebola spread in central Africa could match 2014 record outbreak, US health officials say]]
 - [[https://www.theguardian.com/global-development/2026/jun/05/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights][‘Family values’ African charter condemned by rights groups as regressive and dangerous]]
 - [[https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya][Experts criticise plan for American-only Ebola quarantine centre in Kenya]]
-- [[https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire][Civilians flee as Somali troops and opposition-allied militias trade fire in Mogadishu]]
 
 ** 🇮🇹 Italia
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
+- [[https://www.ilsole24ore.com/art/giurisprudenza-tributaria-punto-fisco-e-professionisti-AIW6kZPD][Giurisprudenza tributaria: il punto su Fisco e professionisti]]
 - [[https://www.ilsole24ore.com/art/da-don-panizza-agricoltori-goel-storie-impegno-contro-caporali-organizzati-stile-ndrangheta-AIrqlwXD][Da Don Panizza agli agricoltori di Goel, storie di impegno contro i caporali organizzati in stile ’ndrangheta]]
 - [[https://www.ilsole24ore.com/art/liti-fiscali-arrivo-concorso-177-nuovi-giudici-tributari-sempre-piu-spazio-digitale-AI8ekGXD][Liti fiscali, in arrivo il concorso per 177 nuovi giudici tributari. Sempre più spazio al digitale]]
 - [[https://www.ilsole24ore.com/art/stop-dazi-ue-fertilizzanti-italia-100-milioni-il-credito-d-imposta-AI3EjeXD][Stop ai dazi Ue sui fertilizzanti. In Italia 100 milioni per il credito d’imposta]]
 - [[https://www.ilsole24ore.com/art/caccia-sesta-generazione-progetto-germania-francia-e-spagna-titoli-coda-giorni-incertezza-il-gcap-AItlEjXD][Caccia sesta generazione, il progetto di Germania, Francia e Spagna ai titoli di coda. Giorni di incertezza per il Gcap]]
-- [[https://www.ilsole24ore.com/art/il-centrosinistra-conquista-agrigento-chi-e-sodano-l-assistente-onu-ed-ex-deputato-m5s-che-ha-partecipato-x-factor-AIvkdcXD][Il centrosinistra conquista Agrigento. Chi è Sodano: l’assistente Onu ed ex deputato M5s che ha partecipato a X Factor]]
 
 ** 🇩🇪 Alemania
 
@@ -165,11 +165,11 @@
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/cerimonia-de-abertura-da-copa-do-mundo-veja-horario-e-onde-assistir.shtml][Cerimônia de abertura da Copa do Mundo: veja horário e onde assistir]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/governo-do-rio-quer-recuperar-cerca-de-r-14-bi-do-que-aportou-no-master.shtml][Governo do Rio quer recuperar cerca de R$ 1,4 bi do que aportou no Master]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/06/como-medicina-veterinaria-e-ciencia-do-comportamento-animal-ajudam-consultora-a-entender-enigmas-felinos.shtml][Como medicina veterinária e ciência do comportamento animal ajudam consultora a entender 'enigmas felinos']]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/argentina-estreia-no-grupo-j-com-titulo-e-anfitriao-da-copa.shtml][Argentina estreia no Grupo J com título e anfitrião da Copa]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/06/quem-ama-cuida-adriana-e-presa-acusada-de-matar-arthur-brandao.shtml]['Quem Ama Cuida': Adriana é presa acusada de matar Arthur Brandão]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/06/pt-lanca-carta-a-evangelicos-critica-manipulacao-da-fe-e-acena-a-igrejas.shtml][PT lança carta a evangélicos, critica 'manipulação da fé' e acena a igrejas]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/06/desembargador-e-suspeito-de-corrupcao-em-mt-relembre-outras-operacoes-sobre-venda-de-decisoes.shtml][Desembargador é suspeito de corrupção em MT; relembre outras operações sobre venda de decisões]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/trump-e-recebido-com-vaias-em-jogo-das-finais-da-nba-em-nova-york-veja-video.shtml][Trump é recebido com vaias em jogo das finais da NBA, em Nova York; veja vídeo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/06/advogados-divergem-sobre-suspensao-de-pesquisa-eleitoral-por-kassio-no-tse.shtml][Advogados divergem sobre suspensão de pesquisa eleitoral por Kassio no TSE]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/06/quem-e-cameron-winter-considerado-um-dos-artistas-promissores-do-rock-aos-24.shtml][Quem é Cameron Winter, considerado um dos artistas promissores do rock aos 24]]
 
 *** O Globo
 
