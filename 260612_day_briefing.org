@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 47.8°C | ⚖ Load: 0.00 | 🌐 Ping: 15.2ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 48.3°C | ⚖ Load: 0.80 | 🌐 Ping: 16.7ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -42,18 +42,18 @@
 *** El País
 
 - [[https://elpais.com/deportes/mundial-futbol/2026-06-05/todas-las-selecciones-del-mundial-de-estados-unidos-canada-y-mexico.html][Todas las selecciones del Mundial 2026 en Estados Unidos, Canadá y México]]
+- [[https://elpais.com/espana/2026-06-12/el-portavoz-de-zapatero-pide-perdon-por-haber-inducido-a-error-sobre-el-valor-de-las-joyas-halladas-en-su-despacho.html][El portavoz de Zapatero pide perdón por “haber inducido a error” sobre el valor de las joyas halladas en el despacho del expresidente]]
+- [[https://elpais.com/economia/2026-06-12/herencia-compra-o-donacion-el-origen-de-las-joyas-de-zapatero-determinara-si-hay-incumplimiento-fiscal.html][Herencia, compra o donación: el origen de las joyas de Zapatero determinará si hay incumplimiento fiscal]]
 - [[https://elpais.com/espana/2026-06-11/la-tasacion-de-las-joyas-incautadas-a-zapatero-cifra-su-valor-en-unos-13-millones-de-euros.html][La tasación de las joyas incautadas a Zapatero cifra su valor en unos 1,3 millones de euros]]
-- [[https://elpais.com/internacional/2026-06-11/trump-cancela-subitamente-sus-amenazas-de-atacar-iran-y-anuncia-un-posible-acuerdo.html][Trump anuncia un acuerdo de paz que Irán desmiente]]
-- [[https://elpais.com/mexico/2026-06-11/mexico-rompe-el-maleficio-2-0-ante-sudafrica-en-la-fiesta-de-la-capital-mundial-del-futbol.html][México rompe el maleficio ante Sudáfrica en la fiesta de la capital mundial del fútbol]]
-- [[https://elpais.com/mexico/2026-06-11/una-ceremonia-neutra-para-un-mundial-revuelto.html][Una ceremonia neutra para un Mundial revuelto]]
+- [[https://elpais.com/economia/2026-06-12/la-salida-a-bolsa-de-spacex-convierte-a-elon-musk-en-el-primer-billonario-del-mundo.html][La salida a Bolsa de SpaceX convierte a Elon Musk en el primer billonario del mundo]]
 
 *** El Mundo
 
 - [[https://www.elmundo.es/espana/2026/06/11/6a2b1ceafc6c83db148b45c1.html][El comandante que se vio en secreto con la 'fontanera' reflejó llamadas con Mercedes González: "Leire dio a la directora de la Guardia Civil el 'feedback' de las reuniones"]]
-- [[https://www.elmundo.es/espana/2026/06/11/6a2ab5affdddff53028b456d.html][La UCO interroga como testigo al ex 'número 2' de Calviño que aprobó el rescate de Tubos Reunidos tras poner objeciones]]
-- [[https://www.elmundo.es/espana/2026/06/11/6a2b066ce85ecef4558b45a6.html][La tasación encargada por el juez estima en 1,3 millones de euros el valor de las joyas intervenidas a Zapatero]]
+- [[https://www.elmundo.es/espana/2026/06/12/6a2bd32b21efa061658b457f.html][El juez del 'caso Leire Díez' cita el 25 de junio como investigado al abogado de Cerdán por presuntos delitos de revelación de secretos, cohecho y contra las instituciones del Estado]]
+- [[https://www.elmundo.es/espana/2026/06/12/6a2bba42e85ece1f2b8b4595.html][Luis Arroyo, portavoz de Zapatero, pide perdón por "haber inducido a error" sobre el valor de las joyas halladas en el despacho del ex presidente]]
 - [[https://www.elmundo.es/espana/2026/06/11/6a2b1643e9cf4ab53d8b45b7.html][Valeria, la mejor alumna de la Selectividad de Madrid que ha llegado al 13,99 estudiando 10 horas al día: "La clave es la constancia"]]
-- [[https://www.elmundo.es/economia/macroeconomia/2026/06/11/6a2ac2b4fc6c83d5378b45b9.html][Hogares empobrecidos y un petróleo a 97 dólares a finales de año: el BCE empeora su visión ante un impacto mayor de la guerra en Irán]]
+- [[https://www.elmundo.es/economia/dinero-inversion/2026/06/12/6a22c96ae9cf4acb648b4596.html][Hipotecas más caras y depósitos igual de rácanos: la banca toma posiciones ante la subida de tipos de BCE]]
 
 *** La Vanguardia
 
@@ -65,56 +65,57 @@
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/interceptan-mariscador-furtivo-cantabro-18-kilos-percebes-asturias/20260612112531194267.html][Interceptan a un mariscador furtivo cántabro con más de 18 kilos de percebes en Asturias]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/empleo-extranjero-dispara-cantabria-es-comunidad-que-mas-crece-toda-espana/20260612111011194265.html][El empleo extranjero se dispara en Cantabria: es la comunidad donde más crece de España, un 12,75%]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/mujer-estafa-190000-euros-hombre-84-anos-que-acabo-durmiendo-calle-cantabria/20260612104000194263.html][Una mujer estafa a un hombre de 84 años al que dejó sin ahorros y acabó durmiendo en la calle en Cantabria]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/bonoloto-deja-pellizco-mas-35000-euros/20260612102258194261.html][La Bonoloto deja un pellizco de más de 35.000 euros en Ramales de la Victoria]]
 - [[https://eldiariocantabria.publico.es/articulo/campoo/plazo-inscribirse-sorteo-19-vpo-capital-campoo-sera-15-junio-31-julio/20260611213852194257.html][El plazo para inscribirse en el sorteo de 19 VPO en la capital de Campoo será del 15 de junio al 31 de julio]]
-- [[https://eldiariocantabria.publico.es/articulo/saja-besaya/nueva-lider-psoe-municipio-aboga-dialogo-escucha-activa-solucionar-problemas-vecinales/20260611212625194255.html][La nueva líder del PSOE en el municipio aboga por “el diálogo y la escucha activa” para solucionar los problemas vecinales]]
-- [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/maica-melgar-asume-secretaria-prc-astillero-recuperar-confianza-representacion-ayuntamiento/20260611212039194253.html][Maica Melgar asume la secretaría del PRC en Astillero para “recuperar la confianza y la representación en el Ayuntamiento”]]
-- [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/pena-racinguista-ojancanos-sera-pregonera-fiestas-san-juan-maliano/20260611211156194251.html][La Peña Racinguista Ojáncanos será la pregonera de las Fiestas de San Juan de Maliaño]]
-- [[https://eldiariocantabria.publico.es/articulo/torrelavega/gomez-bueno-hace-homenaje-diversidad-identidad-colectiva-torrelavega/20260611210327194249.html][Gómez Bueno hace un homenaje a la diversidad y la identidad colectiva de Torrelavega]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/06/12/iran-war-drags-some-fear-dubais-oasis-aura-will-be-lost-forever/][Behind veneer of normalcy in Dubai, war fatigue and a sense of uncertainty]]
+- [[https://www.washingtonpost.com/weather/2026/06/12/why-notably-warm-start-year-foreshadows-whats-ahead/][Why a notably warm start to the year foreshadows what’s ahead]]
 - [[https://www.washingtonpost.com/world/2026/06/11/iran-targets-five-us-bases-raising-fears-return-all-out-war/][Trump says he has canceled plans to strike Iran, claiming deal is near]]
 - [[https://www.washingtonpost.com/weather/2026/06/11/el-nio-is-here-noaa-declares/][El Niño is officially here, bringing domino weather effects across the planet]]
 - [[https://www.washingtonpost.com/world/2026/06/10/trump-threatens-iran-after-it-targets-us-assets-middle-east/][U.S. launches new strikes on Iran, hours after Trump issued warning]]
-- [[https://www.washingtonpost.com/world/2026/06/10/belfast-riots-mayhem-follow-alleged-stabbing-by-sudanese-asylum-seeker/][A new wave of anti-immigrant violence hits U.K. as riots convulse Belfast]]
 
 *** WSJ.com: World News
 
 - [[https://www.wsj.com/world/europe/switzerlands-radical-proposal-on-immigration-cap-the-population-467967f5][Switzerland’s Radical Proposal on Immigration: Cap the Population]]
 - [[https://www.wsj.com/world/uk/scotland-peter-murrell-nicola-sturgeon-embezzled-f468f0bb][He Stole Money From the Scots. But His Real Crime Was How He Spent It.]]
 - [[https://www.wsj.com/world/americas/the-daughter-of-a-dictator-wins-power-in-peru-d384158d][The Daughter of a ‘Dictator’ Wins Power in Peru]]
-- [[https://www.wsj.com/world/middle-east/trump-iran-strikes-peace-talks-38996e77][Trump Cancels Iran Strikes, Says Peace Deal Could Be Signed in ‘Coming Days’]]
+- [[https://www.wsj.com/world/middle-east/trump-iran-strikes-peace-talks-38996e77][Trump Says Iran Deal Is Close but Tehran Says No Decision Has Been Made]]
 - [[https://www.wsj.com/world/europe/u-k-defense-secretary-quits-over-lack-of-military-spending-0c64ce1e][U.K. Defense Secretary Quits Over Lack of Military Spending]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/politique/article/2026/06/12/presidentielle-2027-la-fascination-du-rn-pour-la-machine-de-guerre-lfi_6701037_823448.html][Présidentielle 2027 : la fascination du RN pour la « machine de guerre » LFI]]
-- [[https://www.lemonde.fr/sport/article/2026/06/12/coupe-du-monde-2026-le-mexique-coorganisateur-frustre-du-tournoi-reussit-son-entree-en-lice_6701040_3242.html][Coupe du monde 2026 : le Mexique, coorganisateur frustré du tournoi, réussit son entrée en lice]]
-- [[https://www.lemonde.fr/international/live/2026/06/11/en-direct-guerre-au-moyen-orient-donald-trump-evoque-la-signature-d-un-accord-avec-l-iran-peut-etre-en-europe-dans-les-prochains-jours_6697888_3210.html][EN DIRECT, guerre au Moyen-Orient : Donald Trump évoque la signature d’un accord avec l’Iran, Téhéran dément toute « conclusion définitive »]]
-- [[https://www.lemonde.fr/societe/article/2026/06/11/affaire-lyhanna-jerome-barella-avait-ete-signale-a-la-police-francaise-par-un-organisme-anti-pedocriminalite-americain_6700762_3224.html][Affaire Lyhanna : Jérôme Barella avait été signalé à la police française par un organisme antipédocriminalité américain]]
-- [[https://www.lemonde.fr/international/article/2026/06/11/israel-empeche-l-entree-en-cisjordanie-d-une-journaliste-de-rfi-et-accroit-la-pression-sur-la-presse-etrangere_6700784_3210.html][Israël empêche l’entrée en Cisjordanie d’une journaliste de RFI et accroît la pression sur la presse étrangère]]
+- [[https://www.lemonde.fr/disparitions/article/2026/06/12/david-hockney-grand-peintre-britannique-est-mort-a-l-age-de-88-ans_6701081_3382.html][David Hockney, grand peintre britannique, est mort à l’âge de 88 ans]]
+- [[https://www.lemonde.fr/international/article/2026/06/12/vali-nasr-ancien-conseiller-au-departement-d-etat-americain-les-iraniens-ne-parviennent-pas-a-se-mettre-d-accord-parce-que-trump-ne-cesse-de-changer-d-avis_6701004_3210.html][Vali Nasr, ancien conseiller au département d’Etat américain : « Les Iraniens ne parviennent pas à se mettre d’accord parce que Trump ne cesse de changer d’avis »]]
+- [[https://www.lemonde.fr/societe/live/2026/06/12/en-direct-bac-de-maths-2026-decouvrez-les-trois-sujets-et-posez-vos-questions-sur-cette-nouvelle-epreuve_6701048_3224.html][Bac de maths 2026 : retrouvez les sujets et les réponses à vos questions sur la nouvelle épreuve]]
+- [[https://www.lemonde.fr/economie/article/2026/06/12/les-banques-rationnent-l-usage-de-l-ia-terrifiees-par-les-couts-qu-elle-engendre_6701070_3234.html][Les banques rationnent l’usage de l’IA, terrifiées par les coûts qu’elle engendre]]
+- [[https://www.lemonde.fr/planete/article/2026/06/12/pendant-la-coupe-du-monde-2026-les-joueurs-vont-devoir-composer-avec-des-temperatures-elevees-voire-dangereuses-pour-la-sante_6701073_3244.html][Pendant la Coupe du monde 2026, les joueurs vont devoir composer avec des températures élevées, voire dangereuses pour la santé]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/secteur/high-tech/vous-n-achetez-pas-une-entreprise-vous-achetez-un-reve-avec-l-entree-de-spacex-a-wall-street-elon-musk-defie-les-lois-de-la-gravite-financiere-20260611][«Vous n’achetez pas une entreprise. Vous achetez un rêve» : avec l’entrée de SpaceX à Wall Street, Elon Musk défie les lois de la gravité financière]]
-- [[https://www.lefigaro.fr/sciences/si-starship-ne-tient-pas-toutes-ses-promesses-tout-s-ecroule-quand-les-plans-de-spacex-reposent-sur-le-succes-de-sa-fusee-geante-20260612][« Si Starship ne tient pas toutes ses promesses, tout s’écroule » : quand les plans de SpaceX reposent sur le succès de sa fusée géante]]
-- [[https://www.lefigaro.fr/vox/economie/l-editorial-de-jacques-olivier-martin-l-amerique-invente-toujours-le-futur-20260611][L’éditorial de Jacques-Olivier Martin : «L’Amérique invente toujours le futur»]]
-- [[https://www.lefigaro.fr/economie/spacex-openai-anthropic-wall-street-peut-il-absorber-trois-introductions-en-bourse-de-cette-ampleur-20260611][SpaceX, OpenAI, Anthropic… Wall Street peut-il absorber trois introductions en Bourse de cette ampleur ?]]
-- [[https://bourse.lefigaro.fr/actu-conseils/pourquoi-l-action-spacex-n-a-pas-sa-place-dans-un-portefeuille-de-bon-pere-de-famille-20260611][Pourquoi l’action SpaceX n’a pas sa place dans un portefeuille de «bon père de famille»]]
+- [[https://www.lefigaro.fr/arts-expositions/david-hockney-le-peintre-qui-a-mis-l-art-contemporain-en-couleurs-est-mort-20260612][David Hockney, le peintre qui a mis l’art contemporain en couleurs, est mort à l’âge de 88 ans]]
+- [[https://www.lefigaro.fr/style/par-ses-costumes-colores-david-hockney-se-fondait-non-pas-dans-le-paysage-mais-dans-ses-paysages-la-disparition-de-l-artiste-au-bigger-look-20260612][«Par ses costumes colorés, David Hockney se fondait, non pas dans le paysage, mais dans ses paysages»: la disparition de l’artiste au « bigger look»]]
+- [[https://madame.lefigaro.fr/celebrites/culture/rencontre-avec-david-hockney-le-peintre-vivant-le-plus-connu-au-monde-20240318][David Hockney : «Pour voir vraiment, il faut regarder intensément. Peu de gens s’en donnent la peine…»]]
+- [[https://www.lefigaro.fr/faits-divers/mort-de-nahel-la-cour-de-cassation-annule-la-requalification-des-faits-pour-le-policier-et-rouvre-la-voie-a-un-possible-proces-pour-meurtre-20260612][Mort de Nahel : la Cour de cassation annule la requalification des faits pour le policier et rouvre la voie à un possible procès pour meurtre]]
+- [[https://www.lefigaro.fr/international/reouverture-du-detroit-d-ormuz-programme-nucleaire-avoirs-geles-ce-que-pourrait-contenir-l-accord-entre-les-etats-unis-et-l-iran-20260612][Réouverture du détroit d’Ormuz, programme nucléaire, avoirs gelés... Ce que pourrait contenir l’accord entre les États-Unis et l’Iran]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss][El Niño under way and threatens weather extremes, scientists say]]
-- [[https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss][Deadly Sudan drone strike targets funeral procession]]
-- [[https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss][World Cup kicks off in Mexico with Shakira, dancing, and protests]]
-- [[https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss][Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises]]
-- [[https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss][The furious dispute over what caused Air India flight 171 to crash]]
+- [[https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss][Tehran says 'nothing' finalised after Trump claims deal to end Iran war near]]
+- [[https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss][Flip flop or deliberate? - Unpacking Trump’s strategy on Iran]]
+- [[https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss][Thai Princess Bajrakitiyabha dies after more than three years in coma]]
+- [[https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss][Why the economics make this the craziest World Cup ever]]
+- [[https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss]['They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem]]
 
 *** The Guardian
 
@@ -136,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/intelligenza-artificiale-e-lavoro-nulle-decisioni-automatizzate-AIBkSkaD][Intelligenza artificiale e lavoro, nulle le decisioni automatizzate]]
-- [[https://www.ilsole24ore.com/art/il-paradosso-aqui-terme-assessora-creata-l-ai-delega-all-umanizzazione-AIb5HFbD][Il paradosso di Aqui Terme: assessora creata con l’AI con delega all’Umanizzazione]]
-- [[https://www.ilsole24ore.com/art/innalzamento-mare-cinque-terre-sotto-minaccia-entro-2150-AIpfBacD][Innalzamento del mare, Cinque Terre sotto minaccia entro il 2150]]
-- [[https://www.ilsole24ore.com/art/caso-sospetta-dengue-milanese-via-disinfestazione-AIsLgQcD][Caso di sospetta dengue nel Milanese, al via disinfestazione]]
-- [[https://www.ilsole24ore.com/art/unem-auto-benzina-e-gasolio-piu-convenienti-quelle-elettriche-ecco-perche-AIFdzraD][Unem: auto a benzina e gasolio più convenienti di quelle elettriche, ecco perché]]
+- [[https://www.ilsole24ore.com/art/covip-mario-pepe-fondi-pensione-via-1-luglio-senza-rinvii-collaborazione-commissione-vigilanza-AIkl64aD][Covip, Mario Pepe: «Fondi pensione al via il 1° luglio senza rinvii, collaborazione dalla Commissione di vigilanza»]]
+- [[https://www.ilsole24ore.com/art/partite-iva-l-allarme-upb-ecco-perche-fedelta-fiscale-autonomi-e-le-piu-basse-d-europa-AIbvqzbD][Partite Iva, l’allarme Upb: ecco perché la fedeltà fiscale degli autonomi è tra le più basse d’Europa]]
+- [[https://www.ilsole24ore.com/art/iperammortamento-via-portale-la-prima-fase-prenotazione-AI7CCXcD][Iperammortamento, al via il portale per la prima fase di prenotazione]]
+- [[https://www.ilsole24ore.com/art/mini-pacchi-doppio-prelievo-1-luglio-dazio-ue-e-tassa-italiana-AIaPUKUD][Mini pacchi, doppio prelievo dal 1° luglio: ecco quanto pagheremo]]
+- [[https://www.ilsole24ore.com/art/nyt-usa-vogliono-ritirare-terzo-caccia-e-diverse-navi-dall-europa-AIiAlDdD][Nyt: Usa pronti a ritirare un terzo di caccia e navi dall’Europa]]
 
 ** 🇩🇪 Alemania
 
@@ -164,11 +165,11 @@
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/06/podcast-da-folha-vence-concurso-dom-phillips-e-bruno-pereira-de-jornalismo.shtml][Podcast da Folha vence Concurso Dom Phillips e Bruno Pereira de Jornalismo]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/06/inscricoes-para-o-enem-2026-terminam-nesta-sexta-12-tire-suas-duvidas-na-reta-final.shtml][Inscrições para o Enem 2026 terminam nesta sexta (12); tire suas dúvidas na reta final]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/06/justica-eleitoral-manda-randolfe-suspender-evento-de-pre-campanha-no-amapa.shtml][Justiça Eleitoral manda Randolfe suspender evento de pré-campanha no Amapá]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/anfitriao-canada-busca-contra-a-bosnia-sua-1a-vitoria-em-copas-do-mundo.shtml][Anfitrião, Canadá busca contra a Bósnia sua 1ª vitória em Copas do Mundo]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/lula-titula-oito-territorios-quilombolas-e-diz-que-divida-do-brasil-nao-tem-dinheiro-que-pague.shtml][Lula titula oito territórios quilombolas e diz que dívida do Brasil 'não tem dinheiro que pague']]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/argentino-descobre-parente-desaparecido-apos-criar-album-de-figurinhas-das-maes-da-praca-de-maio.shtml][Argentino descobre parente desaparecido após criar álbum de figurinhas das Mães da Praça de Maio]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/pec-do-fim-da-escala-6x1-pode-aumentar-em-ate-30-o-valor-de-cada-hora-extra.shtml][PEC do fim da escala 6x1 pode aumentar em até 30% o valor de cada hora extra]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/06/cientistas-desvendam-segredo-por-tras-de-armadilha-de-planta-carnivora.shtml][Cientistas desvendam segredo por trás de armadilha de planta carnívora]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/06/governo-do-df-torce-por-devolucao-de-dinheiro-de-vorcaro-para-quitar-emprestimo-do-brb.shtml][Governo do DF torce por devolução de dinheiro de Vorcaro para quitar empréstimo do BRB]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/taxa-turistica-em-angra-rj-gera-protestos-e-ate-incendio-de-totem-valor-pode-chegar-a-r-100.shtml][Taxa turística em Angra (RJ) gera protestos e até incêndio de totem; valor pode chegar a R$ 100]]
 
 *** O Globo
 
