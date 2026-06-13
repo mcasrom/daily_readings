@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
-#+HTML: <div class='telemetry'>🌡 47.8°C | ⚖ Load: 0.41 | 🌐 Ping: 14.7ms</div>
+#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
+#+HTML: <div class='telemetry'>🌡 47.8°C | ⚖ Load: 0.00 | 🌐 Ping: 15.8ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -42,34 +42,34 @@
 *** El País
 
 - [[https://elpais.com/deportes/mundial-futbol/2026-06-05/todas-las-selecciones-del-mundial-de-estados-unidos-canada-y-mexico.html][Todas las selecciones del Mundial 2026 en Estados Unidos, Canadá y México]]
-- [[https://elpais.com/espana/2026-06-12/el-juez-del-caso-plus-ultra-abre-una-pieza-separada-para-investigar-a-zapatero-por-delito-fiscal-y-contrabando-por-las-joyas.html][El juez del ‘caso Plus Ultra’ abre una pieza separada para investigar a Zapatero por delito fiscal y contrabando por las joyas halladas en su despacho]]
-- [[https://elpais.com/espana/2026-06-12/el-valor-de-las-joyas-de-zapatero-desde-baratijas-sin-valor-hasta-un-collar-de-278000-euros.html][El valor de las joyas de Zapatero: desde baratijas “sin valor” hasta un collar de 278.000 euros]]
-- [[https://elpais.com/espana/2026-06-12/dirigentes-del-psoe-reprochan-a-zapatero-que-diese-un-valor-inferior-a-las-joyas-nos-esta-arrastrando-con-el.html][Dirigentes del PSOE reprochan a Zapatero que diese un valor inferior a las joyas: “Nos está arrastrando con él”]]
-- [[https://elpais.com/espana/madrid/2026-06-12/el-ejecutivo-de-ayuso-deja-en-fuera-de-juego-a-migrantes-y-estudiantes-al-exigir-estar-empadronado-para-la-tarjeta-de-transportes.html][El Ejecutivo de Ayuso condiciona la tarjeta de transporte al empadronamiento y excluye a miles de usuarios, sobre todo migrantes y estudiantes]]
+- [[https://elpais.com/america/2026-06-13/trump-anuncia-que-el-ejercito-de-estados-unidos-ha-matado-al-nino-guerrero-lider-del-tren-de-aragua.html][Trump anuncia que el ejército de Estados Unidos ha matado en Venezuela al Niño Guerrero, líder del Tren de Aragua]]
+- [[https://elpais.com/economia/2026-06-13/la-investigacion-a-zapatero-por-posible-delito-fiscal-con-las-joyas-limita-cualquier-regularizacion-ante-hacienda.html][La investigación a Zapatero por posible delito fiscal con las joyas limita cualquier regularización ante Hacienda]]
+- [[https://elpais.com/economia/2026-06-13/cerca-de-30000-ricos-en-espana-declaran-joyas-y-bienes-de-lujo-con-un-valor-medio-de-41500-euros.html][Cerca de 30.000 ricos en España declaran joyas y bienes de lujo, con un valor medio de 41.500 euros]]
+- [[https://elpais.com/espana/catalunya/2026-06-13/los-excursionistas-que-auxiliaron-a-jonathan-andic-el-quebradero-de-cabeza-de-los-mossos.html][Los excursionistas que auxiliaron a Jonathan Andic, el quebradero de cabeza de los Mossos]]
 
 *** El Mundo
 
 - [[https://www.elmundo.es/espana/2026/06/12/6a2c585ee4d4d848278b4571.html][El juez impide que Zapatero se zafe del delito fiscal por el botín de las joyas]]
-- [[https://www.elmundo.es/espana/2026/06/12/6a2c5956e85ece5c478b4591.html][El ex presidente con 1,3 millones clandestinos que se juega condena por delincuente fiscal y contrabandista continuado]]
 - [[https://www.elmundo.es/espana/2026/06/12/6a2c464321efa0533f8b4585.html][Las joyas de Zapatero hunden al PSOE en el estupor: "No sabíamos ni que tenía caja fuerte"]]
+- [[https://www.elmundo.es/espana/2026/06/12/6a2c5956e85ece5c478b4591.html][El ex presidente con 1,3 millones clandestinos que se juega una condena por delincuente fiscal y contrabandista continuado]]
 - [[https://www.elmundo.es/economia/2026/06/13/6a2c72dde85ece5c478b459b.html][SpaceX, la operación de todos los récords que ha hecho millonarias a 4.000 personas en su primer día cotizando  y a Elon Musk en el primer billonario]]
 - [[https://www.elmundo.es/espana/2026/06/12/6a2c5e1ce4d4d83c118b4580.html][León XIV enlaza su pontificado a España en siete días para la historia]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/politica/20260612/11563145/juez-acuerda-investigar-zapatero-delito-fiscal-contrabando-joyas-oficina.html][El juez investiga a Zapatero por delito fiscal y contrabando por las joyas halladas en su despacho]]
-- [[https://www.lavanguardia.com/politica/20260612/11563053/joyas-zapatero-tasadas-1-3-millones-euros-generan-enorme-incomodidad-psoe.html][Las joyas del expresidente generan una enorme incomodidad en el PSOE]]
-- [[https://www.lavanguardia.com/politica/20260612/11562877/portavoz-zapatero-disculpa-haber-inducido-error-sobre-valor-joyas-expresidente.html][El portavoz de Zapatero se disculpa por “haber inducido a error” sobre el valor de las joyas del expresidente]]
-- [[https://www.lavanguardia.com/politica/20260612/11563239/son-joyas-zapatero-mas-cara-tasada-278-000-euros-mas-barata-25-euros.html][Diamantes, esmeraldas, zafiros y rubíes: este es el valor de cada una de las joyas guardadas en la caja fuerte de Zapatero]]
-- [[https://www.lavanguardia.com/politica/20260612/11563337/feijoo-pide-elecciones-sanchez-nunca-pense-me-enfrentaria-nivel-degradacion.html][Feijóo pide elecciones a Sánchez: “Nunca pensé que me enfrentaría a este nivel de degradación”]]
+- [[https://www.lavanguardia.com/politica/20260613/11563503/juez-sospecha-joyas-zapatero-pudieron-importadas-forma-clandestina.html][El juez sospecha que las joyas de Zapatero pudieron ser “importadas de forma clandestina”]]
+- [[https://www.lavanguardia.com/politica/20260613/11563519/sanchez-cielo-infierno-zapatero-joyas.html][Sánchez, del cielo al infierno]]
+- [[https://www.lavanguardia.com/politica/20260613/11563829/hundimiento-centroizquierda.html][El hundimiento del centroizquierda]]
+- [[https://www.lavanguardia.com/opinion/20260613/11563533/crecido-estrella.html][Ha crecido una estrella]]
+- [[https://www.lavanguardia.com/politica/20260613/11561441/liberia-entonar-virolai-leon-xiv.html][De Liberia a entonar el Virolai ante León XIV]]
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/municipios/trenes-especiales-renfe-1800-plazas-extra-fiestas-san-antonio-renedo/20260613113619194320.html][Trenes especiales y 1.800 plazas extra por las fiestas de San Antonio en Renedo: así será el refuerzo de Cercanías este fin de semana]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/rescatan-potro-que-habia-caido-torca-seis-metros-ruesga/20260613111523194318.html][Rescatan a un potro que había caído a una torca de seis metros en Ruesga]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/frio-calor-extremo-valderredible-registra-temperatura-mas-baja-espana-51-oc/20260613105856194316.html][Del amanecer más frío de España a rozar los 34 grados: este pueblo de Cantabria vivirá un contraste de casi 30 ºC en un día]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/muere-hombre-reyerta-zona-ocio-santander/20260613101212194315.html][Muere un hombre en una pelea en la zona de ocio de Santander y hay dos detenidos]]
 - [[https://eldiariocantabria.publico.es/articulo/saja-besaya/ejecutivo-pp-sortea-ocho-viviendas-publicas-regimen-alquiler-asequible-municipio/20260612212311194313.html][El Ejecutivo del PP sortea ocho viviendas públicas en régimen de alquiler asequible en el municipio]]
-- [[https://eldiariocantabria.publico.es/articulo/saja-besaya/gobierno-compra-dos-edificios-63-viviendas-destinarlas-alquiler-asequible/20260612211527194311.html][El Gobierno compra dos edificios con 63 viviendas para destinarlas a alquiler asequible]]
-- [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/nuevo-servicio-movil-expedicion-renovacion-dni-pasaporte-incorporara-partir-agosto/20260612210821194309.html][El nuevo servicio móvil de expedición y renovación de DNI y pasaporte se incorporará a partir de agosto]]
-- [[https://eldiariocantabria.publico.es/articulo/torrelavega/convocadas-cuatro-becas-analizar-comercio-tejido-empresarial-comarca-besaya/20260612205651194307.html][Convocadas cuatro becas para analizar el comercio y el tejido empresarial de la comarca del Besaya]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/ayuntamiento-reconoce-implicacion-alcaldes-rehabilitacion-palacio-magdalena/20260612204801194305.html][El Ayuntamiento reconoce la implicación de sus alcaldes en la rehabilitación del Palacio de La Magdalena]]
 
 ** 🇺🇸 Estados Unidos
 
@@ -83,8 +83,8 @@
 
 *** WSJ.com: World News
 
-- [[https://www.wsj.com/world/americas/trump-says-u-s-executed-venezuelan-tren-de-aragua-gang-leader-63d92e7a][Trump Says U.S. Killed Venezuelan Tren de Aragua Gang Leader]]
 - [[https://www.wsj.com/world/middle-east/iran-war-peace-talks-what-happened-d033900f][How the U.S. and Iran Turned From Renewed War to the Cusp of Peace]]
+- [[https://www.wsj.com/world/americas/trump-says-u-s-executed-venezuelan-tren-de-aragua-gang-leader-63d92e7a][Trump Says U.S. Killed Venezuelan Tren de Aragua Gang Leader]]
 - [[https://www.wsj.com/world/druzhkivka-ukraine-russia-war-58c74cfc][One Ukrainian City’s Agonizing Year as the Russian Army Closed In]]
 - [[https://www.wsj.com/world/middle-east/trumps-iran-deal-still-has-to-get-past-the-revolutionary-guard-c13ea381][Deal With Iran Is Close, but Accord Will Kickstart Toughest Phase of Talks]]
 - [[https://www.wsj.com/world/europe/nord-stream-explosion-pipeline-9a109da9][The Mysterious Woman Behind the Nord Stream Explosion]]
@@ -93,28 +93,28 @@
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/societe/article/2026/06/12/mort-de-lyhanna-ce-que-l-on-sait-des-traces-pedocriminelles-de-jerome-barella_6701156_3224.html][Mort de Lyhanna : ce que l’on sait des traces pédocriminelles de Jérôme Barella]]
-- [[https://www.lemonde.fr/international/live/2026/06/13/en-direct-guerre-au-moyen-orient-l-iran-propose-de-diluer-ses-stocks-d-uranium-enrichi_6701050_3210.html][EN DIRECT, guerre au Moyen-Orient : l’Iran propose de diluer ses stocks d’uranium enrichi]]
-- [[https://www.lemonde.fr/sport/live/2026/06/13/en-direct-etats-unis-paraguay-suivez-le-match-de-la-coupe-du-monde-2026-de-football_6701169_3242.html][Etats-Unis-Paraguay : la Team USA réussit son entrée en lice dans le Mondial en s’imposant avec la manière face aux Paraguayens]]
-- [[https://www.lemonde.fr/economie/article/2026/06/12/avec-l-introduction-en-bourse-demesuree-de-spacex-la-fortune-d-elon-musk-depasse-1-000-milliards-de-dollars_6701131_3234.html][Avec l’introduction en Bourse démesurée de SpaceX, la fortune d’Elon Musk dépasse 1 000 milliards de dollars]]
-- [[https://www.lemonde.fr/economie/article/2026/06/13/le-rachat-de-warner-bros-par-paramount-approuve-par-le-ministere-de-la-justice-americain_6701167_3234.html][Le rachat de Warner Bros par Paramount approuvé par le ministère de la justice américain]]
+- [[https://www.lemonde.fr/societe/article/2026/06/13/remy-heitz-ce-que-revele-l-affaire-lyhanna-c-est-une-crise-systemique-qui-depasse-la-question-des-seuls-moyens-de-l-institution-judiciaire_6701358_3224.html][Rémy Heitz :  l’affaire Lyhanna révèle « une crise systémique qui dépasse la question des moyens de la seule institution judiciaire »]]
+- [[https://www.lemonde.fr/planete/article/2026/06/13/39-c-a-paris-plus-de-40-c-dans-le-sud-la-france-face-a-un-nouvel-episode-de-chaleur-tres-intense-et-etendu_6701307_3244.html][39 °C à Paris, plus de 40 °C dans le Sud : la France face à un nouvel épisode de chaleur « très intense et étendu »]]
+- [[https://www.lemonde.fr/international/live/2026/06/13/en-direct-guerre-au-moyen-orient-l-armee-israelienne-annonce-des-bombardements-imminents-sur-le-sud-du-liban_6701050_3210.html][EN DIRECT, guerre au Moyen-Orient : l’armée israélienne annonce des bombardements dans le sud du Liban]]
+- [[https://www.lemonde.fr/sport/article/2026/06/13/coupe-du-monde-2026-la-fete-hollywoodienne-de-la-selection-americaine-pour-son-entree-en-lice-vue-par-la-presse-internationale_6701633_3242.html][Coupe du monde 2026 : la « fête hollywoodienne » de la sélection américaine pour son entrée en lice, vue par la presse internationale]]
+- [[https://www.lemonde.fr/societe/article/2026/06/13/a-lyon-au-proces-d-un-alter-ego-de-dominique-pelicot-la-mecanique-perverse-de-la-domination-masculine_6701426_3224.html][A Lyon, au procès d’un « alter ego » de Dominique Pelicot, la mécanique perverse de la domination masculine]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/menaces-annonces-et-volte-face-donald-trump-un-president-devenu-inaudible-20260612][Menaces, annonces et volte-face : Donald Trump, un président devenu inaudible]]
-- [[https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-donald-trump-assure-qu-un-accord-pourrait-etre-signe-ce-week-end-l-iran-affirme-ne-pas-avoir-pris-de-decision-definitive-20260612][EN DIRECT - Guerre au Moyen-Orient : les États-Unis affirment avoir abattu des drones iraniens qui ciblaient des navires dans le détroit d’Ormuz]]
-- [[https://www.lefigaro.fr/international/guerre-au-moyen-orient-donald-trump-appelle-l-iran-a-se-ressaisir-et-vite-20260612][Guerre au Moyen-Orient : Donald Trump appelle l’Iran «à se ressaisir, et vite»]]
-- [[https://www.lefigaro.fr/international/reouverture-du-detroit-d-ormuz-programme-nucleaire-avoirs-geles-ce-que-pourrait-contenir-l-accord-entre-les-etats-unis-et-l-iran-20260612][Réouverture du détroit d’Ormuz, programme nucléaire, avoirs gelés... Ce que pourrait contenir l’accord entre les États-Unis et l’Iran]]
-- [[https://www.lefigaro.fr/sports/avant-les-24-heures-du-mans-les-confidences-de-la-legende-jacky-ickx-au-figaro-je-n-ai-ete-qu-un-voleur-de-lumiere-qui-gardait-le-feu-20260612][Avant les 24 Heures du Mans, les confidences de la légende Jacky Ickx au Figaro : « Je n’ai été qu’un voleur de lumière qui gardait le feu »]]
+- [[https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-la-multiplication-des-candidatures-symbole-d-une-course-desordonnee-pour-l-elysee-20260613][Présidentielle 2027 : la multiplication des candidatures, symbole d’une course désordonnée pour l’Élysée]]
+- [[https://www.lefigaro.fr/elections/presidentielles/il-trace-sa-route-vers-la-presidentielle-coute-que-coute-pour-bruno-retailleau-l-espoir-d-une-epopee-a-la-chirac-20260613][Il trace sa route vers la présidentielle, coûte que coûte : pour Bruno Retailleau, l’espoir d’une épopée à la Chirac]]
+- [[https://www.lefigaro.fr/politique/presidentielle-2027-que-disent-les-derniers-sondages-20260505][Présidentielle 2027 : que disent les derniers sondages ?]]
+- [[https://www.lefigaro.fr/politique/presentielle-2027-estimez-vous-qu-il-y-a-trop-de-candidats-20260612][Présidentielle 2027 : estimez-vous qu'il y a trop de candidats ?]]
+- [[https://www.lefigaro.fr/sports/football/coupe-du-monde/en-direct-coupe-du-monde-2026-depart-de-reve-pour-les-etats-unis-cambriolage-chez-les-anglais-un-cadavre-retrouve-devant-le-stade-d-entrainement-de-l-iran-20260613][EN DIRECT - Coupe du monde 2026 : les supporters haïtiens se cachent à Boston, les Anglais retrouvent leur équipement volé avant un Brésil-Maroc explosif]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
 - [[https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss][Deal to end fighting would lead to Hormuz reopening, Iran says]]
+- [[https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss][Switzerland to vote on plan to cap population at 10 million]]
+- [[https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss][Married at First Sight Australia stars not told partners had drug and violence convictions]]
 - [[https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss][Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut]]
-- [[https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&at_campaign=rss][French town buries murdered child as questions mount over police failings]]
-- [[https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss][Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM]]
 - [[https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss][Fans on concourses instead of in seats, claims Fifa]]
 
 *** The Guardian
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
+- [[https://www.ilsole24ore.com/art/estate-anticipo-e-caroprezzi-energia-ecco-quanto-costa-una-famiglia-media-accendere-condizionatore-AIyH9ddD][Estate in anticipo e caroprezzi energia: ecco quanto costa a una famiglia media accendere il condizionatore]]
+- [[https://www.ilsole24ore.com/art/la-nato-ridurra-contingente-kfor-kosovo-l-italia-frena-missione-indispensabile-stabilita-balcani-AIVo2IdD][La Nato ridurrà il contingente Kfor in Kosovo. L’Italia frena: «Missione indispensabile per stabilità Balcani»]]
+- [[https://www.ilsole24ore.com/art/remigrazione-oggi-roma-quattro-cortei-contrapposti-campo-migliaia-agenti-AIZlsfdD][Remigrazione, oggi a Roma quattro cortei contrapposti: in campo migliaia di agenti]]
+- [[https://www.ilsole24ore.com/art/turismo-prezzi-stelle-tranne-che-i-voli-all-estero-ecco-perche-AIDr6XdD][Turismo, prezzi alle stelle tranne che per i voli all’estero: ecco perché]]
 - [[https://www.ilsole24ore.com/art/demanio-sace-e-terzo-settore-cosi-si-allargano-confini-piano-casa-AI0B8rdD][Demanio, Sace e Terzo settore: così si allargano i confini del Piano casa]]
-- [[https://www.ilsole24ore.com/art/vannacci-via-l-assemblea-costituente-partito-generale-prepara-contrattacco-meloni-AIvXondD][Vannacci, al via l’assemblea costituente del partito. Il generale prepara il contrattacco a Meloni]]
-- [[https://www.ilsole24ore.com/art/meloni-e-macron-sara-ad-antibes-primo-bilaterale-prove-disgelo-i-bastioni-AIq4GydD][Meloni e Macron, sarà ad Antibes il primo bilaterale: prove di disgelo tra i bastioni]]
-- [[https://www.ilsole24ore.com/art/lega-stallo-l-opzione-salvini-viminale-non-decolla-e-zaia-chiede-vera-svolta-AIZikNdD][Lega in stallo, l’opzione Salvini al Viminale non decolla e Zaia chiede una svolta vera]]
-- [[https://www.ilsole24ore.com/art/fisco-piano-la-manovra-taglio-irpef-e-sconti-giovani-la-casa-AI6xLldD][Fisco, piano per la manovra: taglio Irpef e sconti per affitti ai giovani]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/anthropic-cuts-top-tier-ai-access-after-us-foreigner-ban/a-77534688?maca=en-rss-en-world-4025-rdf][Anthropic cuts top-tier AI access after US foreigner ban]]
+- [[https://www.dw.com/en/us-venezuela-say-tren-de-aragua-leader-killed-in-strike/a-77534071?maca=en-rss-en-world-4025-rdf][US, Venezuela say Tren de Aragua leader killed in strike]]
+- [[https://www.dw.com/en/sudan-war-uae-denies-supporting-rsf-and-colombian-recruits/a-77530527?maca=en-rss-en-world-4025-rdf][Sudan war: UAE denies supporting RSF and Colombian recruits]]
+- [[https://www.dw.com/en/swiss-to-vote-on-whether-to-cap-population-at-10-million/a-77492750?maca=en-rss-en-world-4025-rdf][Swiss to vote on whether to cap population at 10 million]]
 - [[https://www.dw.com/en/iran-us-deal-what-are-the-main-sticking-points/a-77526613?maca=en-rss-en-world-4025-rdf][Iran-US deal: What are the main sticking points?]]
-- [[https://www.dw.com/en/sahel-juntas-are-crushing-basic-freedoms/a-77500618?maca=en-rss-en-world-4025-rdf][Sahel juntas are 'crushing' basic freedoms]]
-- [[https://www.dw.com/en/india-bets-big-on-domestic-drones-for-future-warfare/a-77523962?maca=en-rss-en-world-4025-rdf][India bets big on domestic drones for future warfare]]
-- [[https://www.dw.com/en/why-bear-attacks-are-rising-fast-in-japan/a-77521911?maca=en-rss-en-world-4025-rdf][Why bear attacks are rising fast in Japan]]
-- [[https://www.dw.com/en/fast-track-border-checks-return-centers-mandatory-solidarity-what-the-eu-s-new-asylum-rules-could-change-and-what-they-may-not/a-77508144?maca=en-rss-en-world-4025-rdf][Fast-track border checks, return centers, 'mandatory solidarity': What the EU’s new asylum rules could change — and what they may not.]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/06/goleada-dos-eua-contra-paraguai-vira-meme-nas-redes-sociais.shtml][Goleada dos EUA contra Paraguai vira meme nas redes sociais]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/com-2-gols-de-filho-de-imigrantes-eua-goleiam-paraguai-por-4-a-1-na-estreia-na-copa.shtml][Com 2 gols de filho de imigrantes, EUA goleiam Paraguai por 4 a 1 na estreia na Copa; veja melhores momentos]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/haiti-x-escocia-encontro-tem-80-anos-de-ausencia-somados-na-copa-do-mundo.shtml][Haiti x Escócia: encontro tem 80 anos de ausência somados na Copa do Mundo]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/06/corrida-por-hit-da-copa-tem-viral-de-inteligencia-artificial-disco-da-fifa-e-mistureba-de-ritmos.shtml][Corrida por hit da Copa tem viral de inteligência artificial, disco da Fifa e mistureba de ritmos]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/peruanos-no-brasil-votam-por-keiko-em-eleicao-acirrada-no-pais-vizinho.shtml][Peruanos no Brasil votam por Keiko em eleição acirrada no país vizinho]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/quiz-voce-conhece-as-novas-regras-de-arbitragem-da-copa-do-mundo-de-2026.shtml][Quiz: você conhece as novas regras de arbitragem da Copa do Mundo de 2026?]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/06/com-crise-do-brbmaster-governo-do-df-contrata-auditoria-e-identifica-7000-imoveis-subutilizados.shtml][Com crise do BRB/Master, governo do DF contrata auditoria e identifica 7.000 imóveis subutilizados]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/06/produtora-de-filme-sobre-bolsonaro-obtem-medida-protetiva-contra-ex-marido.shtml][Produtora de filme sobre Bolsonaro obtém medida protetiva contra ex-marido]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/em-fila-de-seis-dias-por-gasolina-em-la-paz-professora-transforma-carro-em-sala-de-aula.shtml][Em fila de seis dias por gasolina em La Paz, professora transforma carro em sala de aula]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/06/premio-icesp-ajuda-a-fortalecer-pesquisas-brasileiras-em-oncologia-diz-paulo-hoff.shtml][Prêmio Icesp ajuda a fortalecer pesquisas brasileiras em oncologia, diz Paulo Hoff]]
 
 *** O Globo
 
