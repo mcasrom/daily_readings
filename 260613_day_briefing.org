@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 47.8°C | ⚖ Load: 0.00 | 🌐 Ping: 15.8ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 48.3°C | ⚖ Load: 0.48 | 🌐 Ping: 14.6ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -42,18 +42,18 @@
 *** El País
 
 - [[https://elpais.com/deportes/mundial-futbol/2026-06-05/todas-las-selecciones-del-mundial-de-estados-unidos-canada-y-mexico.html][Todas las selecciones del Mundial 2026 en Estados Unidos, Canadá y México]]
-- [[https://elpais.com/america/2026-06-13/trump-anuncia-que-el-ejercito-de-estados-unidos-ha-matado-al-nino-guerrero-lider-del-tren-de-aragua.html][Trump anuncia que el ejército de Estados Unidos ha matado en Venezuela al Niño Guerrero, líder del Tren de Aragua]]
-- [[https://elpais.com/economia/2026-06-13/la-investigacion-a-zapatero-por-posible-delito-fiscal-con-las-joyas-limita-cualquier-regularizacion-ante-hacienda.html][La investigación a Zapatero por posible delito fiscal con las joyas limita cualquier regularización ante Hacienda]]
-- [[https://elpais.com/economia/2026-06-13/cerca-de-30000-ricos-en-espana-declaran-joyas-y-bienes-de-lujo-con-un-valor-medio-de-41500-euros.html][Cerca de 30.000 ricos en España declaran joyas y bienes de lujo, con un valor medio de 41.500 euros]]
-- [[https://elpais.com/espana/catalunya/2026-06-13/los-excursionistas-que-auxiliaron-a-jonathan-andic-el-quebradero-de-cabeza-de-los-mossos.html][Los excursionistas que auxiliaron a Jonathan Andic, el quebradero de cabeza de los Mossos]]
+- [[https://elpais.com/economia/2026-06-13/anthropic-suspende-el-acceso-a-sus-modelos-mas-avanzados-de-inteligencia-artificial-por-el-veto-de-ee-uu-a-los-extranjeros.html][Anthropic suspende el acceso a sus modelos más avanzados de inteligencia artificial por el veto de EE UU a los extranjeros]]
+- [[https://elpais.com/internacional/2026-06-13/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html][Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán retrasa la firma de la tregua con Estados Unidos, que asegura que ya hay un “acuerdo sólido”]]
+- [[https://elpais.com/espana/2026-06-13/ione-belarra-anuncia-que-encabezara-la-candidatura-de-podemos-a-la-comunidad-de-madrid.html][Ione Belarra anuncia que encabezará la candidatura de Podemos a la Comunidad de Madrid]]
+- [[https://elpais.com/espana/catalunya/2026-06-13/la-defensa-de-jonathan-andic-minimiza-sus-mensajes-sobre-matar-al-padre-y-los-enmarca-en-la-terapia-familiar.html][La defensa de Jonathan Andic minimiza sus mensajes sobre “matar al padre” y los enmarca en la terapia familiar]]
 
 *** El Mundo
 
 - [[https://www.elmundo.es/espana/2026/06/12/6a2c585ee4d4d848278b4571.html][El juez impide que Zapatero se zafe del delito fiscal por el botín de las joyas]]
 - [[https://www.elmundo.es/espana/2026/06/12/6a2c464321efa0533f8b4585.html][Las joyas de Zapatero hunden al PSOE en el estupor: "No sabíamos ni que tenía caja fuerte"]]
-- [[https://www.elmundo.es/espana/2026/06/12/6a2c5956e85ece5c478b4591.html][El ex presidente con 1,3 millones clandestinos que se juega una condena por delincuente fiscal y contrabandista continuado]]
-- [[https://www.elmundo.es/economia/2026/06/13/6a2c72dde85ece5c478b459b.html][SpaceX, la operación de todos los récords que ha hecho millonarias a 4.000 personas en su primer día cotizando  y a Elon Musk en el primer billonario]]
-- [[https://www.elmundo.es/espana/2026/06/12/6a2c5e1ce4d4d83c118b4580.html][León XIV enlaza su pontificado a España en siete días para la historia]]
+- [[https://www.elmundo.es/espana/2026/06/12/6a2c2eb1e4d4d85a728b45a2.html][Las joyas 'pobres' de Sonsoles Espinosa, la mujer de Zapatero: en público exhibió las más modestas de la caja fuerte]]
+- [[https://www.elmundo.es/galicia/2026/06/13/6a2d3b2efdddff76368b45b9.html][Feijóo promete una "limpieza total" frente a un Gobierno que "organiza cacerías" contra jueces, fiscales y policías]]
+- [[https://www.elmundo.es/cataluna/2026/06/13/6a2d3e4efdddff4d128b4577.html][Salvador Illa reivindica que los socialistas se han ganado "el sello de la credibilidad" y avisa: "Ni nos doblegan ni nos callan"]]
 
 *** La Vanguardia
 
@@ -65,21 +65,21 @@
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/municipios/trenes-especiales-renfe-1800-plazas-extra-fiestas-san-antonio-renedo/20260613113619194320.html][Trenes especiales y 1.800 plazas extra por las fiestas de San Antonio en Renedo: así será el refuerzo de Cercanías este fin de semana]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/rescatan-potro-que-habia-caido-torca-seis-metros-ruesga/20260613111523194318.html][Rescatan a un potro que había caído a una torca de seis metros en Ruesga]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/frio-calor-extremo-valderredible-registra-temperatura-mas-baja-espana-51-oc/20260613105856194316.html][Del amanecer más frío de España a rozar los 34 grados: este pueblo de Cantabria vivirá un contraste de casi 30 ºC en un día]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/muere-hombre-reyerta-zona-ocio-santander/20260613101212194315.html][Muere un hombre en una pelea en la zona de ocio de Santander y hay dos detenidos]]
-- [[https://eldiariocantabria.publico.es/articulo/saja-besaya/ejecutivo-pp-sortea-ocho-viviendas-publicas-regimen-alquiler-asequible-municipio/20260612212311194313.html][El Ejecutivo del PP sortea ocho viviendas públicas en régimen de alquiler asequible en el municipio]]
+- [[https://eldiariocantabria.publico.es/articulo/laboral/supremo-cierra-puerta-jubilacion-anticipada-vigilantes-limpiadores-cantera-solvay/20260613172918194329.html][El Supremo cierra la puerta a la jubilación anticipada de vigilantes y personal de limpieza de una cantera de Solvay]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/cantabria-abre-turismo-japones-mercado-pequeno-muy-rentable/20260613135816194327.html][Cantabria se abre al turismo japonés, un mercado pequeño pero muy rentable]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/fiscalia-cantabria-pide-siete-anos-prision-hombre-agresion-sexual-acoger-mujer-casa/20260613130602194325.html][Se enfrenta a siete años de prisión por violar a una mujer que acogió en su casa para que no durmiera en la calle]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/identificado-presunto-autor-estafa-5000-euros-coche-segunda-mano/20260613124158194321.html][Estafa de 5.000 euros a un cántabro que compró un coche por Internet y nunca lo recibió]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/hallan-cuerpo-vida-mujer-70-anos-rio-deva/20260613121537194323.html][Hallan el cuerpo sin vida de una mujer de 70 años en el río Deva en Val de San Vicente tras un amplio dispositivo de búsqueda]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/06/13/global-hiv-prevention-declined-drastically-after-trump-aid-cuts-un-finds/][Global HIV prevention declined drastically after Trump aid cuts, U.N. finds]]
 - [[https://www.washingtonpost.com/world/2026/06/12/pakistan-prime-minister-says-us-iran-deal-text-finalized/][U.S. and Iran close to signing ceasefire deal, officials say]]
 - [[https://www.washingtonpost.com/world/2026/06/12/pope-leo-gets-ride-home-king-spain-after-plane-engine-fails/][Pope Leo had to catch a ride from the king of Spain after plane’s engine failed]]
 - [[https://www.washingtonpost.com/world/2026/06/12/china-myanmar-detain-us-citizens-separate-incidents-causing-alarm/][China and Myanmar detain U.S. citizens in separate incidents, sparking alarm]]
 - [[https://www.washingtonpost.com/world/2026/06/12/pope-leo-visiting-spain-defends-migrants-calls-legal-paths/][Pope Leo defends migrants while saying they should reconsider their journeys]]
-- [[https://www.washingtonpost.com/weather/2026/06/12/why-notably-warm-start-year-foreshadows-whats-ahead/][Why a notably warm start to the year foreshadows what’s ahead]]
 
 *** WSJ.com: World News
 
@@ -93,29 +93,29 @@
 
 *** Le Monde
 
+- [[https://www.lemonde.fr/international/live/2026/06/13/en-direct-guerre-au-moyen-orient-l-iran-exclut-une-signature-d-un-accord-avec-les-etats-unis-dimanche_6701050_3210.html][EN DIRECT, guerre au Moyen-Orient : l’Iran exclut la signature d’un accord avec les Etats-Unis dimanche]]
 - [[https://www.lemonde.fr/societe/article/2026/06/13/remy-heitz-ce-que-revele-l-affaire-lyhanna-c-est-une-crise-systemique-qui-depasse-la-question-des-seuls-moyens-de-l-institution-judiciaire_6701358_3224.html][Rémy Heitz :  l’affaire Lyhanna révèle « une crise systémique qui dépasse la question des moyens de la seule institution judiciaire »]]
 - [[https://www.lemonde.fr/planete/article/2026/06/13/39-c-a-paris-plus-de-40-c-dans-le-sud-la-france-face-a-un-nouvel-episode-de-chaleur-tres-intense-et-etendu_6701307_3244.html][39 °C à Paris, plus de 40 °C dans le Sud : la France face à un nouvel épisode de chaleur « très intense et étendu »]]
-- [[https://www.lemonde.fr/international/live/2026/06/13/en-direct-guerre-au-moyen-orient-l-armee-israelienne-annonce-des-bombardements-imminents-sur-le-sud-du-liban_6701050_3210.html][EN DIRECT, guerre au Moyen-Orient : l’armée israélienne annonce des bombardements dans le sud du Liban]]
-- [[https://www.lemonde.fr/sport/article/2026/06/13/coupe-du-monde-2026-la-fete-hollywoodienne-de-la-selection-americaine-pour-son-entree-en-lice-vue-par-la-presse-internationale_6701633_3242.html][Coupe du monde 2026 : la « fête hollywoodienne » de la sélection américaine pour son entrée en lice, vue par la presse internationale]]
-- [[https://www.lemonde.fr/societe/article/2026/06/13/a-lyon-au-proces-d-un-alter-ego-de-dominique-pelicot-la-mecanique-perverse-de-la-domination-masculine_6701426_3224.html][A Lyon, au procès d’un « alter ego » de Dominique Pelicot, la mécanique perverse de la domination masculine]]
+- [[https://www.lemonde.fr/economie/article/2026/06/13/malgre-la-flambee-des-prix-des-carburants-le-village-de-bourdeaux-dans-la-drome-tient-a-sa-station-service-on-l-aurait-pas-on-ferait-quoi_6701745_3234.html][Malgré la flambée des prix des carburants, le village de Bourdeaux, dans la Drôme, tient à sa station-service : « On l’aurait pas, on ferait quoi ? »]]
+- [[https://www.lemonde.fr/idees/article/2026/06/13/le-declin-de-la-lecture-face-a-l-avenement-des-ecrans-marque-t-il-la-fin-de-l-ere-democratique_6701305_3232.html][Le déclin de la lecture face à l’avénement des écrans marque-t-il la fin de l’ère démocratique ?]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-la-multiplication-des-candidatures-symbole-d-une-course-desordonnee-pour-l-elysee-20260613][Présidentielle 2027 : la multiplication des candidatures, symbole d’une course désordonnée pour l’Élysée]]
-- [[https://www.lefigaro.fr/elections/presidentielles/il-trace-sa-route-vers-la-presidentielle-coute-que-coute-pour-bruno-retailleau-l-espoir-d-une-epopee-a-la-chirac-20260613][Il trace sa route vers la présidentielle, coûte que coûte : pour Bruno Retailleau, l’espoir d’une épopée à la Chirac]]
-- [[https://www.lefigaro.fr/politique/presidentielle-2027-que-disent-les-derniers-sondages-20260505][Présidentielle 2027 : que disent les derniers sondages ?]]
-- [[https://www.lefigaro.fr/politique/presentielle-2027-estimez-vous-qu-il-y-a-trop-de-candidats-20260612][Présidentielle 2027 : estimez-vous qu'il y a trop de candidats ?]]
-- [[https://www.lefigaro.fr/sports/football/coupe-du-monde/en-direct-coupe-du-monde-2026-depart-de-reve-pour-les-etats-unis-cambriolage-chez-les-anglais-un-cadavre-retrouve-devant-le-stade-d-entrainement-de-l-iran-20260613][EN DIRECT - Coupe du monde 2026 : les supporters haïtiens se cachent à Boston, les Anglais retrouvent leur équipement volé avant un Brésil-Maroc explosif]]
+- [[https://www.lefigaro.fr/vox/histoire/juger-les-juges-histoire-d-une-lutte-pour-que-les-magistrats-rendent-des-comptes-20260613][Juger les juges : histoire d’une lutte pour que les magistrats rendent des comptes]]
+- [[https://www.lefigaro.fr/actualite-france/haute-savoie-un-gendarme-tue-et-deux-autres-blesses-lors-d-un-accident-de-la-route-en-marge-du-g7-d-evian-20260613][Haute-Savoie : un gendarme tué et deux autres blessés lors d’un accident de la route en marge du G7 d’Évian]]
+- [[https://www.lefigaro.fr/international/g7-donald-trump-participera-a-une-reunion-de-travail-mardi-en-france-avec-volodymyr-zelensky-avant-un-diner-a-versailles-mercredi-20260613][G7: Donald Trump participera à une réunion de travail mardi en France avec Volodymyr Zelensky, avant un dîner à Versailles mercredi]]
+- [[https://www.lefigaro.fr/international/je-condamne-la-violence-mais-je-comprends-la-colere-scandalisee-par-une-tentative-de-meurtre-belfast-renoue-avec-les-emeutes-anti-immigration-20260613][«Je condamne la violence mais je comprends la colère» : scandalisée par une tentative de meurtre, Belfast renoue avec les émeutes anti-immigration]]
+- [[https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-conflit-iran-etats-unis-detroit-ormuz-drones-donald-trump-accord-nucleaire-liban-israel-20260613][EN DIRECT - Guerre au Moyen-Orient : l’Iran exclut toute signature d’un accord avec les États-Unis dans les prochaines 24 heures]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss][Deal to end fighting would lead to Hormuz reopening, Iran says]]
+- [[https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss][Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near]]
 - [[https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss][Switzerland to vote on plan to cap population at 10 million]]
 - [[https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss][Married at First Sight Australia stars not told partners had drug and violence convictions]]
 - [[https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss][Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut]]
-- [[https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss][Fans on concourses instead of in seats, claims Fifa]]
+- [[https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss][US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says]]
 
 *** The Guardian
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/estate-anticipo-e-caroprezzi-energia-ecco-quanto-costa-una-famiglia-media-accendere-condizionatore-AIyH9ddD][Estate in anticipo e caroprezzi energia: ecco quanto costa a una famiglia media accendere il condizionatore]]
-- [[https://www.ilsole24ore.com/art/la-nato-ridurra-contingente-kfor-kosovo-l-italia-frena-missione-indispensabile-stabilita-balcani-AIVo2IdD][La Nato ridurrà il contingente Kfor in Kosovo. L’Italia frena: «Missione indispensabile per stabilità Balcani»]]
-- [[https://www.ilsole24ore.com/art/remigrazione-oggi-roma-quattro-cortei-contrapposti-campo-migliaia-agenti-AIZlsfdD][Remigrazione, oggi a Roma quattro cortei contrapposti: in campo migliaia di agenti]]
-- [[https://www.ilsole24ore.com/art/turismo-prezzi-stelle-tranne-che-i-voli-all-estero-ecco-perche-AIDr6XdD][Turismo, prezzi alle stelle tranne che per i voli all’estero: ecco perché]]
-- [[https://www.ilsole24ore.com/art/demanio-sace-e-terzo-settore-cosi-si-allargano-confini-piano-casa-AI0B8rdD][Demanio, Sace e Terzo settore: così si allargano i confini del Piano casa]]
+- [[https://www.ilsole24ore.com/art/cade-aereo-turismo-comasco-due-feriti-gravissimi-AIk4RleD][Cade aereo da turismo nel Comasco, due feriti gravissimi]]
+- [[https://www.ilsole24ore.com/art/roma-corteo-remigrazione-e-riconquista-tensione-e-contro-manifestazione-antifascista-verano-AIJwAheD][Corteo “Remigrazione e Riconquista”: cori «Duce, duce». Contro-manifestazione al Verano]]
+- [[https://www.ilsole24ore.com/art/il-servizio-meteorologico-usa-e-iniziato-el-nino-pacifico-tropicale-AIjgXqdD][Il Servizio Meteorologico degli Usa: è iniziato El Niño nel Pacifico tropicale]]
+- [[https://www.ilsole24ore.com/art/alpi-cinque-escursionisti-morti-due-giorni-AIQmTdeD][È strage di alpinisti: 7 morti in 24 ore, gli ultimi incidenti su Cervino e Monte Bianco]]
+- [[https://www.ilsole24ore.com/art/migranti-domani-livorno-nave-solidaire-56-persone-bordo-AI5wCdeD][Migranti, domenica a Livorno la nave Solidaire con 56 persone a bordo]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/germany-faces-eu-penalty-over-gender-pay-gap-directive/a-77527802?maca=en-rss-en-world-4025-rdf][Germany faces EU penalty over gender pay gap directive]]
 - [[https://www.dw.com/en/anthropic-cuts-top-tier-ai-access-after-us-foreigner-ban/a-77534688?maca=en-rss-en-world-4025-rdf][Anthropic cuts top-tier AI access after US foreigner ban]]
 - [[https://www.dw.com/en/us-venezuela-say-tren-de-aragua-leader-killed-in-strike/a-77534071?maca=en-rss-en-world-4025-rdf][US, Venezuela say Tren de Aragua leader killed in strike]]
 - [[https://www.dw.com/en/sudan-war-uae-denies-supporting-rsf-and-colombian-recruits/a-77530527?maca=en-rss-en-world-4025-rdf][Sudan war: UAE denies supporting RSF and Colombian recruits]]
 - [[https://www.dw.com/en/swiss-to-vote-on-whether-to-cap-population-at-10-million/a-77492750?maca=en-rss-en-world-4025-rdf][Swiss to vote on whether to cap population at 10 million]]
-- [[https://www.dw.com/en/iran-us-deal-what-are-the-main-sticking-points/a-77526613?maca=en-rss-en-world-4025-rdf][Iran-US deal: What are the main sticking points?]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/quiz-voce-conhece-as-novas-regras-de-arbitragem-da-copa-do-mundo-de-2026.shtml][Quiz: você conhece as novas regras de arbitragem da Copa do Mundo de 2026?]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/06/com-crise-do-brbmaster-governo-do-df-contrata-auditoria-e-identifica-7000-imoveis-subutilizados.shtml][Com crise do BRB/Master, governo do DF contrata auditoria e identifica 7.000 imóveis subutilizados]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/06/produtora-de-filme-sobre-bolsonaro-obtem-medida-protetiva-contra-ex-marido.shtml][Produtora de filme sobre Bolsonaro obtém medida protetiva contra ex-marido]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/em-fila-de-seis-dias-por-gasolina-em-la-paz-professora-transforma-carro-em-sala-de-aula.shtml][Em fila de seis dias por gasolina em La Paz, professora transforma carro em sala de aula]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/06/premio-icesp-ajuda-a-fortalecer-pesquisas-brasileiras-em-oncologia-diz-paulo-hoff.shtml][Prêmio Icesp ajuda a fortalecer pesquisas brasileiras em oncologia, diz Paulo Hoff]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/06/argentina-nao-encontra-roedores-com-cepa-de-hantavirus-ligada-a-surto-em-cruzeiro.shtml][Argentina não encontra roedores com cepa de hantavírus ligada a surto em cruzeiro]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/em-video-lula-pede-garra-e-alma-a-selecao-brasileira-antes-de-estreia-na-copa.shtml][Em vídeo, Lula pede garra e alma à seleção brasileira antes de estreia na Copa]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/06/quem-e-romulo-mendonca.shtml][Quem é Rômulo Mendonça? Narrador foi afastado após debochar de colega da Amazon]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/06/partidos-chegam-as-eleicoes-sem-filtros-para-barrar-candidato-de-faccao-criminosa.shtml][Partidos chegam às eleições sem filtros para barrar candidato de facção criminosa]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/conheca-protocolo-que-pode-prolongar-partidas-da-copa-em-caso-de-tempestades.shtml][Conheça protocolo que pode prolongar partidas da Copa em caso de tempestades]]
 
 *** O Globo
 
