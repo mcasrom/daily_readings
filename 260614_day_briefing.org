@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 48.3°C | ⚖ Load: 0.56 | 🌐 Ping: 14.8ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 48.9°C | ⚖ Load: 0.00 | 🌐 Ping: 14.6ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -42,18 +42,18 @@
 *** El País
 
 - [[https://elpais.com/deportes/mundial-futbol/2026-06-05/todas-las-selecciones-del-mundial-de-estados-unidos-canada-y-mexico.html][Todas las selecciones del Mundial 2026 en Estados Unidos, Canadá y México]]
+- [[https://elpais.com/internacional/2026-06-14/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html][Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump asegura que el ataque de Israel en Beirut “no debería haber ocurrido” y afirma que el acuerdo con Irán incluye Líbano]]
 - [[https://elpais.com/internacional/2026-06-14/un-nuevo-equilibrio-del-miedo-aflora-en-el-mundo.html][Un nuevo equilibrio del miedo aflora en el mundo]]
-- [[https://elpais.com/internacional/2026-06-13/trump-preve-que-la-tregua-con-iran-se-firme-este-domingo-y-que-ormuz-quede-abierto-inmediatamente.html][Trump prevé que la tregua con Irán se firme este domingo y que Ormuz quede abierto “inmediatamente”]]
-- [[https://elpais.com/espana/2026-06-14/el-caso-zapatero-pone-al-gobierno-al-limite-de-la-resistencia.html][El ‘caso Zapatero’ pone al Gobierno al límite de la resistencia]]
-- [[https://elpais.com/espana/2026-06-14/joyas-venezuela-y-una-consultora-zapatero-se-enfrenta-al-juez-con-una-investigacion-laberintica.html][Joyas, Venezuela y una consultora: Zapatero se enfrenta al juez con una investigación laberíntica]]
+- [[https://elpais.com/internacional/2026-06-14/suiza-rechaza-imponer-un-tope-de-10-millones-de-habitantes-a-su-poblacion-segun-las-primeras-proyecciones.html][Suiza rechaza en referéndum imponer un tope de 10 millones de habitantes a su población]]
+- [[https://elpais.com/internacional/2026-06-14/fuerzas-especiales-de-la-marina-britanica-toman-al-asalto-un-petrolero-de-la-flota-fantasma-rusa-en-el-canal-de-la-mancha.html][Fuerzas especiales de la Marina británica toman al asalto un petrolero de la ‘flota fantasma’ rusa en el canal de la Mancha]]
 
 *** El Mundo
 
+- [[https://www.elmundo.es/internacional/2026/06/14/6a2e9481fdddff836f8b456f.html][La Fuerza Aérea israelí ataca "un centro de mando de Hizbulá" en Beirut tras recibir ataques en el norte de su territorio]]
+- [[https://www.elmundo.es/ciencia-y-salud/salud/2026/06/14/6a2bc2f6e9cf4a60048b4574.html][Un año de huelgas de los médicos sin efecto en la reforma sanitaria de Mónica García: "No hay nada que nos impida continuar después del verano"]]
+- [[https://www.elmundo.es/internacional/2026/06/14/6a2d790921efa0f51a8b4594.html][Gana el 'no' en el referéndum de Suiza para decidir si limitan su población a 10 millones de habitantes]]
 - [[https://www.elmundo.es/espana/2026/06/13/6a2d7343fdddffd64c8b45aa.html][El PSOE se ve arrastrado por la "mentira" de las joyas de Zapatero ante la peor semana para Sánchez: "La militancia llora"]]
-- [[https://www.elmundo.es/espana/2026/06/13/6a2d7a06e9cf4aae3d8b4581.html][Las notas de la agenda de la "farsante" Leire Díez amplían la corrupción a todo el Estado: jueces, fiscales, Guardia Civil y el Gobierno que la ridiculizó]]
-- [[https://www.elmundo.es/espana/2026/06/13/6a2c35e6fc6c83493b8b45a9.html][Los expertos revisan al alza las joyas de Zapatero: "Su valor sería el doble de 1,3 millones"]]
-- [[https://www.elmundo.es/cronica/2026/06/13/6a29c267fdddff15228b4595.html][El macabro secreto (enterrado 33 años bajo sus pies) de Juan 'El Lento' y su mujer: "Nuestros padres nos han ocultado que ellos mataron a Juanete"]]
-- [[https://www.elmundo.es/espana/2026/06/14/69cd32d1fc6c83ba3e8b45a7.html][Las derrotas electorales de Montero y Alegría "lastran" sus opciones en la carrera sucesoria de Sánchez]]
+- [[https://www.elmundo.es/espana/2026/06/14/6a2d7d65e9cf4a556a8b4589.html][El PP anticipa el "armagedón" judicial de Sánchez con la foto en el banquillo de Zapatero y Begoña Gómez: "Cada semana le va peor"]]
 
 *** La Vanguardia
 
@@ -65,11 +65,11 @@
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/cantabria-roza-40-grados-jornada-calor-sofocante/20260614113449194350.html][Cantabria rozó los 40 grados este sábado en una jornada marcada por el calor sofocante]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/rescatan-mujer-atrapada-entre-rocas-playa/20260614110053194348.html][Susto en la playa de Los Barcos, en Arnuero: rescatan a una mujer atrapada entre las rocas]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/muere-brazomar/20260614103819194346.html][Jornada negra en las playas de Cantabria con dos fallecidos en Oriñón y Brazomar]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/muere-ahogado-hombre-43-anos-desembocadura-ria-orinon/20260613225030194345.html][Muere ahogado un hombre en la playa de Oriñón, en Castro Urdiales]]
-- [[https://eldiariocantabria.publico.es/articulo/politica/pleno-laredo-aprueba-condicionado-paseo-maritimo-alcalde-amenaza-impugnarlo-tribunales/20260613213236194342.html][El Pleno de Laredo aprueba el condicionado de Costas del paseo marítimo y, "acto seguido", amenaza con impugnarlo ante los tribunales]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/guerra-interna-pp-entrambasaguas-sigue-abierta-ano-despues-concejal-acusado-traidor-vuelve-desafiar-alcaldesa/20260614173537194362.html][La guerra interna del PP en Entrambasaguas sigue abierta más de un año después: el concejal acusado de "traidor" vuelve a desafiar a la alcaldesa]]
+- [[https://eldiariocantabria.publico.es/articulo/educacion/sergio-silva-deja-aire-futuro-politico-he-tenido-desgaste-muy-grande/20260614163910194360.html][Silva deja en el aire su futuro político: “He tenido un desgaste muy grande]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/audiencia-nacional-tumba-decision-hacienda-ordena-devolver-mas-12-millones-euros/20260614141137194357.html][La Audiencia Nacional tumba a Hacienda y le obliga a devolver más de 1,2 millones de euros]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/coche-queda-completamente-calcinado-incendio-santa-maria-cayon/20260614133753194356.html][Un coche queda completamente calcinado en un incendio en Santa María de Cayón]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/fran-cano-reelegido-lider-juventudes-socialistas-cantabria-cantabria-necesita-gobierno-que-crea-juventud/20260614131141194354.html][Fran Cano, reelegido líder de Juventudes Socialistas de Cantabria]]
 
 ** 🇺🇸 Estados Unidos
 
@@ -83,39 +83,39 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/middle-east/iran-threatens-to-pull-out-of-talks-after-israel-strikes-beiruts-outskirts-d0390e22][Trump Rebukes Israel After Beirut Strikes Threaten to Scuttle Iran Deal]]
+- [[https://www.wsj.com/world/europe/swiss-voters-reject-population-cap-to-manage-immigration-projections-show-a6fc5483][Swiss Voters Reject Population Cap to Manage Immigration, Projections Show]]
+- [[https://www.wsj.com/world/europe/europes-arms-race-is-creating-boomtowns-why-are-locals-so-unhappy-f103ccdf][Europe’s Arms Race Is Creating Boomtowns. Why Are Locals So Unhappy?]]
 - [[https://www.wsj.com/world/middle-east/the-iranian-enforcer-driving-tehrans-hard-bargaining-with-the-u-s-b848e67c][The Iranian Enforcer Driving Tehran’s Hard Bargaining With the U.S.]]
 - [[https://www.wsj.com/world/middle-east/iran-war-peace-talks-what-happened-d033900f][How the U.S. and Iran Turned From Renewed War to the Cusp of Peace]]
-- [[https://www.wsj.com/world/americas/trump-says-u-s-executed-venezuelan-tren-de-aragua-gang-leader-63d92e7a][Trump Says U.S. Killed Venezuelan Tren de Aragua Gang Leader]]
-- [[https://www.wsj.com/world/druzhkivka-ukraine-russia-war-58c74cfc][One Ukrainian City’s Agonizing Year as the Russian Army Closed In]]
-- [[https://www.wsj.com/world/middle-east/trumps-iran-deal-still-has-to-get-past-the-revolutionary-guard-c13ea381][Deal With Iran Is Close, but Accord Will Kickstart Toughest Phase of Talks]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/article/2026/06/14/donald-trump-fete-ses-80-ans-son-ami-dana-white-apporte-le-mma-les-arts-martiaux-mixtes-au-c-ur-de-la-maison-blanche_6702228_3210.html][Donald Trump fête ses 80 ans, son ami Dana White apporte le MMA, les arts martiaux mixtes, au cœur de la Maison Blanche]]
-- [[https://www.lemonde.fr/politique/article/2026/06/14/presidentielle-2027-aux-docks-d-aubervilliers-raphael-glucksmann-fait-salle-comble-et-se-pose-en-adversaire-du-rn_6702229_823448.html][Présidentielle 2027 : Raphaël Glucksmann fait salle comble aux Docks d’Aubervilliers et se pose en adversaire du RN]]
-- [[https://www.lemonde.fr/international/live/2026/06/14/en-direct-guerre-au-moyen-orient-la-signature-d-un-accord-entre-les-etats-unis-et-l-iran-attendue-dimanche-teheran-n-a-pas-encore-pris-de-decision-finale-pour-un-accord_6701050_3210.html][EN DIRECT, guerre au Moyen-Orient : la signature d’un accord entre les Etats-Unis et l’Iran attendue dimanche, Téhéran n’a « pas encore pris de décision finale » pour un accord]]
-- [[https://www.lemonde.fr/sport/article/2026/06/14/jean-pierre-papin-le-foot-a-ete-ma-bouffee-d-oxygene-mon-etoile-a-suivre_6702243_3242.html][Jean-Pierre Papin : « Le foot a été ma bouffée d’oxygène, mon étoile à suivre »]]
-- [[https://www.lemonde.fr/idees/article/2026/06/14/tout-converge-pour-faire-de-la-societe-civile-l-observateur-impuissant-de-la-degradation-d-un-bien-commun-irremplacable-l-eau_6702234_3232.html][« Tout converge pour faire de la société civile l’observateur impuissant de la dégradation d’un bien commun irremplaçable, l’eau »]]
+- [[https://www.lemonde.fr/international/live/2026/06/14/en-direct-guerre-au-moyen-orient-l-iran-accuse-les-etats-unis-de-ne-pas-respecter-ses-engagements-apres-l-attaque-israelienne-au-liban_6701050_3210.html][EN DIRECT, guerre au Moyen-Orient : l’attaque israélienne sur Beyrouth « n’aurait pas dû avoir lieu », juge Donald Trump]]
+- [[https://www.lemonde.fr/politique/article/2026/06/14/les-maires-en-terrain-mine-sur-les-reseaux-sociaux-il-y-a-une-forme-d-injonction-a-la-visibilite-permanente_6702636_823448.html][Les questionnements des maires sur les réseaux sociaux : « Il y a une forme d’injonction à la visibilité permanente »]]
+- [[https://www.lemonde.fr/sport/article/2026/06/14/coupe-du-monde-2026-apres-le-fiasco-au-qatar-les-joueurs-allemands-esquivent-les-sujets-politiques_6702601_3242.html][Coupe du monde 2026 : après le fiasco au Qatar, les joueurs allemands esquivent les sujets politiques]]
+- [[https://www.lemonde.fr/societe/article/2026/06/14/bac-edouard-geffray-ne-veut-plus-d-examens-l-apres-midi-a-cause-du-rechauffement-climatique_6702564_3224.html][Bac : Edouard Geffray ne veut plus d’examens l’après-midi à cause du réchauffement climatique]]
+- [[https://www.lemonde.fr/international/article/2026/06/14/g7-a-evian-des-milliers-de-manifestants-a-geneve-a-l-appel-de-la-coalition-no-g7-pour-une-riposte-face-au-fascisme-et-a-l-imperialisme_6702748_3210.html][G7 à Evian : des milliers de manifestants à Genève à l’appel de la coalition « No-G7 », pour une « riposte » face au « fascisme » et à « l’impérialisme »]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/les-suisses-aux-urnes-sur-le-plafonnage-de-la-population-et-le-service-civil-20260614][Votation sur l’immigration en Suisse : que se passera-t-il si le «oui» l’emporte ?]]
-- [[https://www.lefigaro.fr/international/pas-de-suisse-a-10-millions-d-habitants-avant-le-referendum-sur-l-immigration-que-disent-les-sondages-20260613][«Pas de Suisse à 10 millions d’habitants» : avant le référendum sur l’immigration, que disent les sondages ?]]
-- [[https://www.lefigaro.fr/vox/monde/referendum-pas-de-suisse-a-10-millions-pourquoi-nos-voisins-n-ont-pas-de-tabou-a-voter-sur-l-immigration-20260612][Référendum « Pas de Suisse à 10 millions » : pourquoi nos voisins n’ont pas de tabou à voter sur l’immigration]]
-- [[https://www.lefigaro.fr/actualite-france/g7-a-evian-face-aux-risques-d-emeutes-et-a-la-menace-islamiste-plus-de-12-000-policiers-et-gendarmes-pour-securiser-un-sommet-a-hauts-risques-20260608][G7 à Evian : Face aux risques d’émeutes et à la menace islamiste, plus de 12 000 policiers et gendarmes pour sécuriser un sommet à hauts risques]]
-- [[https://www.lefigaro.fr/international/des-inquietudes-legitimes-pourquoi-la-suisse-redoute-l-organisation-du-g7-a-evian-20260612][«Des inquiétudes légitimes» : pourquoi la Suisse redoute l’organisation du G7 à Évian ?]]
+- [[https://www.lefigaro.fr/economie/engins-de-deminage-drones-kamikazes-blindes-commandes-a-distance-l-industrie-de-defense-francaise-au-defi-de-la-robotisation-du-champ-de-bataille-20260614][Engins de déminage, drones kamikazes, blindés commandés à distance... L’industrie de défense française au défi de la robotisation du champ de bataille]]
+- [[https://www.lefigaro.fr/societes/nous-avons-beaucoup-de-rendez-vous-pour-la-premiere-fois-les-banques-francaises-seront-presentes-au-grand-salon-de-l-armement-20260614][« Nous avons beaucoup de rendez-vous » : pour la première fois, les banques françaises seront présentes au grand salon de l’armement]]
+- [[https://www.lefigaro.fr/economie/en-difficulte-europlasma-veut-ceder-ses-activites-militaires-20260614][En difficulté, Europlasma veut céder ses activités militaires]]
+- [[https://www.lefigaro.fr/international/guerre-moyen-orient-iran-trump-arme-nucleaire-ormuz-etats-unis-accord-de-paix-pakistan-20260614][EN DIRECT - Guerre au Moyen-Orient : l’Iran accuse les États-Unis de ne pas respecter leurs engagements, Trump appelle à la fin des attaques israéliennes sur Beyrouth]]
+- [[https://www.lefigaro.fr/international/guerre-au-moyen-orient-le-defunt-guide-supreme-iranien-ali-khamenei-sera-inhume-le-9-juillet-20260613][Guerre au Moyen-Orient : le défunt guide suprême iranien Ali Khamenei sera inhumé le 9 juillet]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
 - [[https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss][Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing]]
-- [[https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss][Switzerland votes on plan to cap population at 10 million]]
-- [[https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss][Russian families use AI to 'resurrect' loved ones killed in Ukraine]]
-- [[https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&at_campaign=rss][New York Knicks win NBA championship for first time in over 50 years]]
-- [[https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss][Author Chimamanda Adichie accuses hospital of stalling review into son's death]]
+- [[https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss][Lebanon says three killed in Israeli strike on Beirut suburb]]
+- [[https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss][Swiss voters reject 10 million population cap, early projections say]]
+- [[https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss][Teen shot and buses torched in Manhattan after historic NBA win for Knicks]]
+- [[https://www.bbc.com/news/articles/c14yn10jzyeo?at_medium=RSS&at_campaign=rss][Tourist train overturns and injures 17 during Cártama tapas festival]]
 
 *** The Guardian
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
+- [[https://www.ilsole24ore.com/art/maturita-2026-totoesame-gli-studenti-prima-prova-d-annunzio-favorito-crescita-grazia-deledda-AIJfyMfD][Maturità 2026, totoesame tra gli studenti sulla prima prova: D’Annunzio favorito, in crescita Grazia Deledda]]
+- [[https://www.ilsole24ore.com/art/maturita-2026-si-parte-18-giugno-oltre-527mila-studenti-all-esame-stato-AIRZINfD][Maturità 2026, si parte il 18 giugno: oltre 527mila studenti all’esame di Stato]]
+- [[https://www.ilsole24ore.com/art/il-papa-il-grido-giustizia-viene-spento-tecniche-sempre-piu-subdole-AIdTULfD][Il Papa: «Il grido di giustizia viene spento con tecniche sempre più subdole»]]
+- [[https://www.ilsole24ore.com/art/vannacci-femminicidio-non-esiste-AI1VJJfD][Vannacci: il femminicidio non esiste. La replica di Giulia Bongiorno: «Nostalgia del delitto d’onore?»]]
 - [[https://www.ilsole24ore.com/art/meloni-patentino-antifascista-piu-libri-piu-liberi-e-censura-AIvOyBfD][Meloni: patentino antifascista a “Più libri più liberi” è censura]]
-- [[https://www.ilsole24ore.com/art/ondate-calore-cantieri-controllate-sala-operativa-allerta-soli-90-secondi-AIUDKpeD][Ondate di calore nei cantieri controllate da sala operativa: allerta in soli 90 secondi]]
-- [[https://www.ilsole24ore.com/art/cade-aereo-turismo-comasco-due-feriti-gravissimi-AIk4RleD][Cade aereo da turismo nel Comasco, due feriti gravissimi]]
-- [[https://www.ilsole24ore.com/art/roma-corteo-remigrazione-e-riconquista-tensione-e-contro-manifestazione-antifascista-verano-AIJwAheD][Corteo “Remigrazione e Riconquista”: cori «Duce, duce». Contro-manifestazione al Verano]]
-- [[https://www.ilsole24ore.com/art/il-servizio-meteorologico-usa-e-iniziato-el-nino-pacifico-tropicale-AIjgXqdD][Il Servizio Meteorologico degli Usa: è iniziato El Niño nel Pacifico tropicale]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/sahel-juntas-are-crushing-basic-freedoms/a-77500618?maca=en-rss-en-world-4025-rdf][Sahel juntas are 'crushing' basic freedoms]]
+- [[https://www.dw.com/en/swiss-voters-projected-to-reject-population-cap-proposal/a-77543868?maca=en-rss-en-world-4025-rdf][Swiss voters projected to reject population cap proposal]]
 - [[https://www.dw.com/en/germany-faces-eu-penalty-over-gender-pay-gap-directive/a-77527802?maca=en-rss-en-world-4025-rdf][Germany faces EU penalty over gender pay gap directive]]
 - [[https://www.dw.com/en/anthropic-cuts-top-tier-ai-access-after-us-foreigner-ban/a-77534688?maca=en-rss-en-world-4025-rdf][Anthropic cuts top-tier AI access after US foreigner ban]]
 - [[https://www.dw.com/en/us-venezuela-say-tren-de-aragua-leader-killed-in-strike/a-77534071?maca=en-rss-en-world-4025-rdf][US, Venezuela say Tren de Aragua leader killed in strike]]
-- [[https://www.dw.com/en/mercenaries-and-high-profile-defectors-abound-in-sudan-war/a-77530527?maca=en-rss-en-world-4025-rdf][Mercenaries and high-profile defectors abound in Sudan war]]
-- [[https://www.dw.com/en/swiss-to-vote-on-whether-to-cap-population-at-10-million/a-77492750?maca=en-rss-en-world-4025-rdf][Swiss to vote on whether to cap population at 10 million]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/resumo-do-dia-brasil-so-empata-e-escocia-aproveita-para-liderar-grupo-c-da-copa.shtml][Resumo do dia: Brasil só empata, e Escócia aproveita para liderar Grupo C da Copa]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/saiba-quem-e-nino-guerrero-que-teria-sido-morto-em-operacao-dos-eua-e-da-venezuela.shtml][Saiba quem é Niño Guerrero, que teria sido morto em operação dos EUA e da Venezuela]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/06/fora-da-globo-galvao-bueno-vira-principal-rosto-de-publicidade-na-copa-do-mundo.shtml][Fora da Globo, Galvão Bueno vira principal rosto de publicidade na Copa do Mundo]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/06/pesquisadores-mapeiam-350-km-de-estradas-pre-colombianas-no-acre.shtml][Pesquisadores mapeiam 350 km de estradas pré-colombianas no Acre]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/06/convencao-do-pl-que-vai-lancar-flavio-bolsonaro-a-presidencia-sera-em-sp-no-fim-de-julho.shtml][Convenção do PL que vai lançar Flávio Bolsonaro à Presidência será em SP no fim de julho]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/06/campanha-de-flavio-bolsonaro-vive-impasse-com-nome-para-vice-e-aliados-sugerem-testar-cleitinho.shtml][Campanha de Flávio Bolsonaro vive impasse com nome para vice e aliados sugerem testar Cleitinho]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/06/eduardo-bolsonaro-defende-ruptura-entre-pl-e-novo-apos-nova-fala-de-zema-sobre-flavio-e-vorcaro.shtml][Eduardo Bolsonaro defende ruptura entre PL e Novo após nova fala de Zema sobre Flávio e Vorcaro]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/veja-videos-de-queda-de-helicopteros-que-deixou-seis-mortos-no-rio.shtml][Veja vídeos de queda de helicópteros que deixou seis mortos no Rio]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/06/internautas-pedem-liberdade-para-endrick-apos-atacante-ficar-no-banco-na-estreia-da-selecao.shtml][Internautas pedem 'liberdade para Endrick' após atacante ficar no banco na estreia da seleção]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/inglaterra-tem-material-de-treino-furtado-nos-eua-ao-menos-parte-dos-itens-foi-recuperada.shtml][Inglaterra tem material de treino furtado nos EUA; ao menos parte dos itens foi recuperada]]
 
 *** O Globo
 
