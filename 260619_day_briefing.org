@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 50.5°C | ⚖ Load: 0.01 | 🌐 Ping: 14.4ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 49.9°C | ⚖ Load: 0.01 | 🌐 Ping: 16.1ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,17 +49,17 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/06/18/6a343966fdddffef4a8b45b5.html][Los audios de Zapatero: el ex presidente clama "¡presunción de inocencia!" cuando el juez le dice que la sociedad que le paga "se monta para recibir comisiones"]]
-- [[https://www.elmundo.es/espana/2026/06/18/6a33d784fdddff1e798b45b7.html][El juez del 'caso Plus Ultra' imputa a las hijas de Zapatero y a la secretaria del ex presidente por participar en el blanqueo de las comisiones]]
-- [[https://www.elmundo.es/espana/2026/06/18/6a3413edfc6c839a4d8b456d.html][Sánchez ha mantenido contacto con Zapatero "todos estos días" tras su imputación y justifica sus regalos: "Respaldo a José Luis"]]
-- [[https://www.elmundo.es/internacional/2026/06/18/6a3390d221efa017188b45c5.html][Ucrania castiga a Moscú con la mayor tormenta de drones: "Si Ucrania arde, vuestra Moscú arderá", dice Zelenski]]
-- [[https://www.elmundo.es/espana/2026/06/18/6a3410a821efa0682e8b458e.html][La empresa del novio de Ayuso facturó 4,4 millones de euros a Quirón entre 2021 y 2023]]
+- [[https://www.elmundo.es/espana/2026/06/18/6a3449defc6c8368498b4573.html][Zapatero descontaba la imputación de sus hijas, pero está "dolido": "Trabajábamos con ese escenario"]]
+- [[https://www.elmundo.es/espana/2026/06/18/6a34344ffc6c8342228b45a1.html][Los indicios contra las hijas de Zapatero: más de un millón recibido de seis sociedades y en cuentas con el padre como autorizado]]
+- [[https://www.elmundo.es/espana/2026/06/18/6a344113fc6c83b7468b45d6.html][El 'milagro' de las hijas de Zapatero: su mejor cliente, una empresa ruinosa de venezolanos, paga vídeos a 10.000 euros por segundo]]
+- [[https://www.elmundo.es/internacional/2026/06/18/6a33dccbfc6c83c37c8b45ba.html][Los drones del futuro están en Ucrania: "Este año produciremos cinco millones de drones, Europa miles; pelearían dos días con Rusia y se rendirían"]]
+- [[https://www.elmundo.es/espana/2026/06/18/6a3441b0e4d4d83e288b4584.html][Sánchez avala las coartadas para que Zapatero justifique las joyas: "Todos los presidentes hemos recibido regalos"]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/politica/20260618/11568556/audio-declaracion-zapatero-consultor-principal-analisis-relevante.html][El audio de la declaración de Zapatero: “Yo era el consultor principal de Análisis Relevante”]]
+- [[https://www.lavanguardia.com/politica/20260618/11568556/audio-declaracion-zapatero-consultor-principal-analisis-relevante.html][El audio de la declaración de Zapatero: “No hablé absolutamente con nadie del rescate de Plus Ultra”]]
 - [[https://www.lavanguardia.com/politica/20260618/11568480/sanchez-traslada-empatia-zapatero-me-manifestado-inocencia-respaldo-jose-luis.html][Sánchez traslada su “empatía” a Zapatero: “Me ha manifestado su inocencia y yo respaldo a José Luis”]]
-- [[https://www.lavanguardia.com/politica/20260618/11568265/juez-caso-plus-ultra-acuerda-investigar-hijas-rodriguez-zapatero.html][El juez del caso Plus Ultra acuerda investigar a las hijas de Zapatero y a su secretaria]]
+- [[https://www.lavanguardia.com/politica/20260619/11568668/hijas-zapatero-estructura-artificiosa-organizacion-liderada-padre.html][Las hijas de Zapatero, tras la “estructura artificiosa” de la organización liderada por su padre]]
 - [[https://www.lavanguardia.com/opinion/20260618/11567633/cuenta-elecciones.html][Cuenta atrás para las elecciones]]
 - [[https://www.lavanguardia.com/politica/20260618/11568457/pareja-ayuso-facturo-4-4-millones-euros-quiron-primeros-tres-anos-relacion.html][La pareja de Ayuso ingresó 4,4 millones de Quirón en los primeros tres años de relación]]
 
@@ -83,29 +83,29 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/uk/rebel-lawmaker-set-to-try-a-knockout-blow-to-u-k-s-starmer-75ff91ab][Rebel Lawmaker Set to Try a Knockout Blow to U.K.’s Starmer]]
 - [[https://www.wsj.com/world/middle-east/vance-touts-iran-deal-as-win-for-u-s-no-matter-what-happens-next-a28cd409][Vance Slams Israeli Critics of Trump’s Deal With Iran]]
+- [[https://www.wsj.com/world/asia/stock-market-ai-chips-taiwan-korea-01b7d385][Crazy Rich Returns Lure Cabbies and Even Kids to Red-Hot Asian Markets]]
+- [[https://www.wsj.com/articles/air-force-buys-new-generation-of-drones-made-to-strike-deep-into-enemy-territory-20fe3af8][Air Force Buys New Generation of Drones Made to Strike Deep Into Enemy Territory]]
 - [[https://www.wsj.com/world/middle-east/icc-sets-july-vote-on-removing-chief-prosecutor-karim-khan-a489877e][ICC Sets July Vote on Removing Chief Prosecutor Karim Khan]]
-- [[https://www.wsj.com/world/middle-east/trumps-deal-sidesteps-key-reasons-he-went-to-war-with-iran-6820b1b4][Trump’s Deal Sidesteps Key Reasons He Went to War With Iran]]
-- [[https://www.wsj.com/world/europe/inside-the-race-to-save-one-of-ukraines-holiest-sites-from-a-russian-strike-e51fc37d][Inside the Race to Save One of Ukraine’s Holiest Sites From a Russian Strike]]
-- [[https://www.wsj.com/world/americas/the-city-at-the-center-of-colombias-war-on-cocaine-8ba06e07][The City at the Center of Colombia’s War on Cocaine]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
+- [[https://www.lemonde.fr/international/article/2026/06/19/j-d-vance-en-premiere-ligne-pour-justifier-l-accord-avec-l-iran-et-poursuivre-les-negociations_6704892_3210.html][J. D. Vance en première ligne pour justifier l’accord avec l’Iran et poursuivre les négociations]]
+- [[https://www.lemonde.fr/international/article/2026/06/19/ukraine-les-europeens-saluent-un-moment-special-en-presence-de-volodymyr-zelensky_6704888_3210.html][Ukraine : les Européens saluent un « moment spécial » en présence de Volodymyr Zelensky]]
 - [[https://www.lemonde.fr/planete/live/2026/06/18/en-direct-canicule-emmanuel-macron-appelle-a-une-grande-vigilance-car-ce-sont-des-jours-difficiles_6704498_3244.html][EN DIRECT, canicule : Emmanuel Macron appelle à une « grande vigilance », car « ce sont des jours difficiles »]]
 - [[https://www.lemonde.fr/international/article/2026/06/18/ce-qu-il-faut-retenir-de-l-interview-d-emmanuel-macron-sur-france-2_6704613_3210.html][Ce qu’il faut retenir de l’interview d’Emmanuel Macron sur France 2]]
-- [[https://www.lemonde.fr/international/article/2026/06/18/l-attaque-massive-des-drones-ukrainiens-sur-moscou-met-a-mal-les-promesses-de-victoire-de-vladimir-poutine_6704574_3210.html][Guerre en Ukraine : l’attaque massive des drones sur Moscou met à mal les promesses de victoire de Vladimir Poutine]]
-- [[https://www.lemonde.fr/international/live/2026/06/18/en-direct-guerre-au-moyen-orient-benyamin-netanyahou-appelle-a-preserver-la-relation-vitale-avec-washington-apres-l-accord-americano-iranien_6701050_3210.html][EN DIRECT, guerre au Moyen-Orient : Benyamin Nétanyahou appelle à préserver la « relation vitale » avec Washington après l’accord américano-iranien]]
-- [[https://www.lemonde.fr/sport/live/2026/06/18/en-direct-suisse-bosnie-herzegovine-suivez-le-match-de-la-coupe-du-monde-de-football_6704594_3242.html][Suisse-Bosnie-Herzégovine : après un dernier quart d’heure de folie, les Suisses s’imposent largement]]
+- [[https://www.lemonde.fr/sport/article/2026/06/18/coupe-du-monde-2026-le-mexique-terre-d-accueil-des-footballeurs-francais-dans-le-sillage-de-l-idole-andre-pierre-gignac_6704602_3242.html][Coupe du monde 2026 : le Mexique, terre d’accueil des footballeurs français dans le sillage de l’idole André-Pierre Gignac]]
 
 *** Le Figaro
 
+- [[https://www.lefigaro.fr/international/les-etats-unis-cette-superpuissance-qui-n-a-pas-reussi-a-gagner-la-guerre-contre-l-iran-20260618][Les États-Unis, cette superpuissance qui n’a pas réussi à gagner la guerre contre l’Iran]]
+- [[https://www.lefigaro.fr/international/andy-burnham-le-roi-du-nord-qui-veut-conquerir-downing-street-20260619][Andy Burnham, le « Roi du Nord » qui veut conquérir Downing Street]]
+- [[https://www.lefigaro.fr/international/royaume-uni-andy-burnham-principal-rival-de-keir-starmer-au-labour-elu-depute-avec-downing-street-dans-le-viseur-20260619][Royaume-Uni : Andy Burnham, principal rival de Keir Starmer au Labour, élu député et enfin dans la course à Downing Street]]
 - [[https://www.lefigaro.fr/meteo/en-direct-canicule-la-vague-de-chaleur-s-intensifie-les-40-degres-en-ligne-de-mire-20260618][EN DIRECT - Canicule: la préfecture de police recommande l’annulation des événements sportifs en plein air à Paris et petite couronne]]
 - [[https://www.lefigaro.fr/actualite-france/canicule-un-homme-de-30-ans-est-mort-sur-une-piste-d-athletisme-dans-le-val-d-oise-20260618][Canicule : un homme de 30 ans est mort sur une piste d'athlétisme dans le Val-d'Oise]]
-- [[https://www.lefigaro.fr/meteo/canicule-des-centaines-de-voyageurs-bloques-a-la-gare-de-l-est-a-paris-a-cause-d-une-panne-electrique-20260618][Canicule : des centaines de voyageurs bloqués à la gare de l’Est à Paris à cause d'une panne électrique]]
-- [[https://www.lefigaro.fr/international/les-etats-unis-cette-superpuissance-qui-n-a-pas-reussi-a-gagner-la-guerre-contre-l-iran-20260618][Les États-Unis, cette superpuissance qui n’a pas réussi à gagner la guerre contre l’Iran]]
-- [[https://www.lefigaro.fr/faits-divers/meurtre-de-lyhanna-l-autopsie-revele-que-la-collegienne-a-ete-violee-20260618][Meurtre de Lyhanna : l’autopsie révèle que la collégienne a été violée]]
 
 ** 🇬🇧 Reino Unido
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
+- [[https://www.ilsole24ore.com/art/oice-progettazione-decisiva-rigenerare-spazi-citta-AIVSk6kD][Oice: «Progettazione decisiva per rigenerare gli spazi delle città»]]
 - [[https://www.ilsole24ore.com/art/testamenti-biologici-quota-300mila-divario-nord-sud-AI1lJbeD][Testamenti biologici verso quota 300mila. Divario Nord-Sud]]
 - [[https://www.ilsole24ore.com/art/pil-mezzogiorno-cresce-piu-centro-nord-sprint-calabria-e-campania-AI8z87kD][Pil, il Mezzogiorno cresce più del Centro-Nord: sprint di Calabria e Campania]]
 - [[https://www.ilsole24ore.com/art/competence-center-nordest-2025-valore-produzione-55percento-AIgorUkD][Competence center del Nordest, nel 2025 valore della produzione a +55%]]
 - [[https://www.ilsole24ore.com/art/incentivi-fiscali-l-america-s-cup-si-amplia-platea-beneficiari-ecco-chi-spettano-AIr8SdjD][Incentivi fiscali per l’America’s Cup, si amplia la platea dei beneficiari: ecco a chi spettano]]
-- [[https://www.ilsole24ore.com/art/lottomatica-angelozzi-miglior-ceo-europeo-extel-settore-leisure-hotels-mid-cap-AIqb2vkD][Lottomatica, Angelozzi miglior ceo europeo per Extel nel settore Leisure &amp; Hotels Mid Cap]]
 
 ** 🇩🇪 Alemania
 
@@ -165,11 +165,11 @@
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/06/empresas-de-cabotagem-se-preocupam-com-repeticao-de-seca-e-colapso-em-acesso-ao-porto-de-manaus.shtml][Empresas de cabotagem se preocupam com repetição de seca e colapso no acesso ao porto de Manaus]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/mortes-professora-da-usp-desvendou-o-modernismo-de-mario-de-andrade.shtml][Mortes: Professora da USP, desvendou o modernismo de Mário de Andrade]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/06/cristovao-tezza-vence-o-premio-machado-de-assis-da-abl-pelo-conjunto-da-obra.shtml][Cristovão Tezza vence o prêmio Machado de Assis, da ABL, pelo conjunto da obra]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/06/anvisa-manda-recolher-lote-de-antibiotico-com-fragmento-de-vidro.shtml][Anvisa manda recolher lote de antibiótico com fragmento de vidro]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/turquia-teve-ataque-mais-insistente-da-1a-rodada-da-copa-porem-ineficaz-confira-ranking.shtml][Turquia teve ataque mais insistente da 1ª rodada da Copa, porém, ineficaz; confira ranking]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/goleiro-sul-coreano-falha-e-mexico-garante-vaga-na-proxima-fase-da-copa.shtml][Goleiro sul-coreano falha, e México garante vaga na próxima fase da Copa]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/o-mundo-e-uma-bola/2026/06/entre-a-paz-e-a-hecatombe.shtml][Entre a paz e a hecatombe]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/06/lula-espera-renuncia-de-jaques-wagner-da-lideranca-do-governo-dizem-aliados.shtml][Lula espera renúncia de Jaques Wagner da liderança do governo, dizem aliados]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/apos-sufoco-com-marrocos-brasil-calca-sandalias-da-humildade-contra-o-haiti.shtml][Após sufoco com Marrocos, Brasil calça sandálias da humildade contra o Haiti]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/06/com-lesao-e-briga-goleada-do-canada-contra-o-qatar-surpreende-internautas-teve-de-tudo.shtml][Com lesão e briga, goleada do Canadá contra o Qatar surpreende internautas: 'Teve de tudo']]
 
 *** O Globo
 
