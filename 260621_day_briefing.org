@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
-#+HTML: <div class='telemetry'>🌡 49.4°C | ⚖ Load: 0.32 | 🌐 Ping: 14.4ms</div>
+#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
+#+HTML: <div class='telemetry'>🌡 50.5°C | ⚖ Load: 0.00 | 🌐 Ping: 14.2ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,19 +41,19 @@
 
 *** El País
 
-- [[https://elpais.com/espana/2026-06-21/el-cgpj-estudia-abrir-un-expediente-disciplinario-al-juez-peinado-por-afirmar-que-la-policia-puede-ayudar-a-huir-a-begona-gomez.html][El CGPJ estudia abrir un expediente disciplinario al juez Peinado por afirmar que la Policía puede ayudar a huir a Begoña Gómez]]
+- [[https://elpais.com/deportes/mundial-futbol/2026-06-21/espana-arabia-saudi-en-directo-el-partido-del-grupo-h-del-mundial-2026-en-vivo.html][España - Arabia Saudí, el partido del Mundial 2026 en directo | Lamine, Porro, Olmo y Baena entran en el once titular]]
+- [[https://elpais.com/deportes/mundial-futbol/2026-06-21/lamine-yamal-me-veo-mucho-mejor-de-lo-que-la-gente-me-ve.html][Lamine Yamal: “Me veo mucho mejor de lo que la gente me ve”]]
+- [[https://elpais.com/espana/2026-06-21/el-cgpj-estudia-abrir-un-expediente-disciplinario-al-juez-peinado-por-afirmar-que-la-policia-puede-ayudar-a-huir-a-begona-gomez.html][El Poder Judicial estudia abrir un expediente disciplinario al juez Peinado por afirmar que la Policía puede ayudar a huir a Begoña Gómez]]
 - [[https://elpais.com/espana/2026-06-21/la-audiencia-provincial-de-madrid-ultima-carta-de-begona-gomez-para-evitar-el-banquillo.html][La Audiencia Provincial de Madrid, última carta de Begoña Gómez para evitar el banquillo]]
-- [[https://elpais.com/espana/2026-06-21/sanchez-manda-parar-y-cerrar-filas-ya-no-cedera-mas-piezas.html][Sánchez manda parar y cerrar filas: ya no cederá más piezas]]
-- [[https://elpais.com/opinion/2026-06-21/desproposito-judicial.html][Despropósito judicial]]
-- [[https://elpais.com/espana/2026-06-21/concurso-ideal.html][Concurso ideal]]
+- [[https://elpais.com/espana/2026-06-21/el-peligroso-populismo-judicial-de-peinado.html][El peligroso populismo judicial de Peinado]]
 
 *** El Mundo
 
+- [[https://www.elmundo.es/espana/2026/06/21/6a36d121e9cf4ad24d8b457f.html][La "empatía" por ser "víctimas del acoso judicial contra sus familias" que une a Sánchez con Zapatero y suscita dudas en el PSOE]]
+- [[https://www.elmundo.es/espana/2026/06/21/6a37adaffdddff4c458b45a4.html][El CGPJ valorará mañana si Peinado incurrió en "falta grave de consideración" a la Policía por sugerir que podría ayudar a huir a Begoña Gómez]]
 - [[https://www.elmundo.es/espana/2026/06/20/6a36ece3e85ecef37e8b4580.html][La cronología de indicios que señalan a Begoña Gómez: del "cambio radical en su trayectoria tras la investidura" a usar la "proximidad a Sánchez para impulsar" su carrera]]
-- [[https://www.elmundo.es/espana/2026/06/21/6a37adaffdddff4c458b45a4.html][El CGPJ se reúne para decidir si abre un expediente al juez Peinado por el auto en el que apuntaba a que los escoltas podían ayudar a Begoña Gómez en una fuga]]
-- [[https://www.elmundo.es/cronica/2026/06/20/6a3581f2fc6c83e8558b45ad.html][Yohir Akerman, el 'espía' de los poderosos de América al que recurrió la cloaca del PSOE para hundir a la Fiscalía Anticorrupción: "No puedo revelar cuánto me han pagado"]]
 - [[https://www.elmundo.es/espana/2026/06/21/6a36e12ee85ece245c8b45ac.html][Los plazos de la Audiencia de Madrid abocan a un juicio con jurado antes de las elecciones generales]]
-- [[https://www.elmundo.es/ciencia-y-salud/ciencia/2026/06/21/6a3565c6e4d4d888198b45aa.html][Varices, todo sobre la patología que empeora cuando el calor aprieta]]
+- [[https://www.elmundo.es/espana/2026/06/20/6a36d7efe85ece96668b4585.html][El pagador de Zapatero presentó en Dubái un certificado de Bankia para diseñar la offshore a las 24 horas de almorzar con él]]
 
 *** La Vanguardia
 
@@ -65,57 +65,57 @@
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/ason/total-28-puestos-participan-mercado-agroalimentario-artesano/20260620210026194639.html][Un total de 28 puestos participan en el Mercado Agroalimentario y Artesano]]
-- [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/izquierda-unida-plantea-gestion-directa-ludoteca-caos-gestion-soberon/20260620204516194637.html][Izquierda Unida plantea la gestión directa de la ludoteca ante el “caos” en la gestión de Soberón]]
-- [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/regresan-cursillos-natacion-piscinas-escobedo-camargo/20260620203046194635.html][Regresan los cursillos de natación en las piscinas en Escobedo y Camargo Pueblo]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/piden-11-anos-carcel-hombre-mantener-relaciones-sexuales-menor-15-anos-interna-centro-acogida/20260620200508194633.html][Piden 11 años de cárcel para un hombre por mantener relaciones sexuales con una menor de 15 años interna en un centro de acogida]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/ayuntamiento-presentara-miercoles-progresos-proyecto-smart-destination/20260620195356194632.html][El Ayuntamiento presentará este miércoles los progresos del proyecto Smart Destination]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/guardia-civil-vuelve-separar-dos-movilizaciones-favor-centro-menores-castro-urdiales/20260621175034194657.html][La Guardia Civil vuelve a separar dos centenares de personas que se manifestaban a favor y en contra del centro de menores de Castro Urdiales]]
+- [[https://eldiariocantabria.publico.es/articulo/trasmiera/hombre-82-anos-sufre-parada-cardiorrespiratoria-playa-loredo/20260621170622194655.html][Un hombre de 82 años sufre una parada cardiorrespiratoria en la playa de Loredo]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/cantabria-alcanza-391-grados-primera-jornada-ola-calor/20260621165359194653.html][Cantabria alcanza los 39,1 grados en la primera jornada de la ola de calor]]
+- [[https://eldiariocantabria.publico.es/articulo/politica/ultimo-pleno-periodo-sesiones-parlamento-debatira-lunes-proyecto-ley-control-ambiental/20260621164312194652.html][El último pleno del periodo de sesiones del Parlamento debatirá este lunes el proyecto de ley de Control Ambiental]]
+- [[https://eldiariocantabria.publico.es/articulo/cultura/radiografia-silencio-nieves-moriano-abordara-memoria-huella-sala-mauro-muriedas-12-julio/20260621162627194651.html][‘Radiografía del silencio’, de Nieves Moriano, abordará la memoria y la huella en la sala Mauro Muriedas hasta el 12 de julio]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/06/21/us-iranian-meet-switzerland-hash-out-peace-plan/][JD Vance, Iranian officials begin peace talks in Switzerland]]
 - [[https://www.washingtonpost.com/business/2026/06/21/cash-strapped-farmers-iran-wars-end-comes-too-late/][For cash-strapped farmers, deal to end Iran fighting comes too late]]
 - [[https://www.washingtonpost.com/world/2026/06/20/diplomats-expect-hurdles-us-iran-talks-which-are-already-delayed/][Chaotic run-up to U.S.-Iran talks signals steep hurdles ahead]]
 - [[https://www.washingtonpost.com/world/2026/06/19/trump-said-italys-prime-minister-begged-photo-she-says-thats-false/][Trump said Italy’s prime minister ‘begged’ for a photo. She says that’s false.]]
 - [[https://www.washingtonpost.com/world/2026/06/20/war-weary-iranians-see-glimmers-relief-trump-deal-takes-shape/][War-weary Iranians see glimmers of relief as Trump deal takes shape]]
-- [[https://www.washingtonpost.com/world/2026/06/20/shut-out-world-cup-again-china-roots-referee/][Shut out of the World Cup again, China roots for a referee]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/middle-east/war-in-lebanon-casts-shadow-over-renewed-iran-u-s-nuclear-talks-f457c7e9][Trump Threatens to Strike Iran Over Hezbollah as Lebanon Snarls Talks]]
 - [[https://www.wsj.com/world/asia/this-futuristic-japanese-warship-is-on-the-market-and-winning-fans-f26edc90][This Futuristic Japanese Warship Is on the Market and Winning Fans]]
 - [[https://www.wsj.com/world/the-u-s-is-ramping-up-economic-warfare-its-enemies-arent-blinking-fdd49238][The U.S. Is Ramping Up Economic Warfare. Its Enemies Aren’t Blinking.]]
 - [[https://www.wsj.com/world/middle-east/fighting-flares-again-in-lebanon-despite-israel-hezbollah-ceasefire-4d0ffae8][Vance Heads to Peace Talks, After Iran Says It Closed Strait of Hormuz]]
 - [[https://www.wsj.com/world/russia-faces-spreading-fuel-shortages-after-ukrainian-drones-pummel-refineries-60e96bc0][Russia Faces Spreading Fuel Shortages After Ukrainian Drones Pummel Refineries]]
-- [[https://www.wsj.com/world/india/india-calls-in-military-blocks-app-to-lock-down-college-entrance-exam-b9a47ef3][India Calls In Military, Blocks App to Lock Down College-Entrance Exam]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/societe/article/2026/06/21/avec-les-canicules-l-urgence-a-renover-les-vieilles-piscines-publiques-comment-ferait-on-sans-elles-on-ne-tiendrait-pas_6705452_3224.html][Avec les canicules, l’urgence à rénover les vieilles piscines publiques : « Comment ferait-on sans elles ? On ne tiendrait pas »]]
-- [[https://www.lemonde.fr/un-si-proche-orient/article/2026/06/21/donald-trump-demeure-le-seul-dirigeant-du-monde-a-avoir-reconnu-l-annexion-par-israel-du-golan-syrien_6705488_6116995.html][« Donald Trump demeure le seul dirigeant du monde à avoir reconnu l’annexion par Israël du Golan syrien »]]
-- [[https://www.lemonde.fr/international/live/2026/06/21/en-direct-guerre-en-ukraine-trois-morts-dans-des-attaques-russes-sur-les-oblasts-ukrainiens-de-poltava-et-dnipropetrovsk_6702230_3210.html][EN DIRECT, guerre en Ukraine : la distribution de carburant suspendue dans les stations-service en Crimée]]
-- [[https://www.lemonde.fr/livres/article/2026/06/21/que-reste-t-il-aujourd-hui-de-marc-bloch-l-historien-cles-de-lecture-alors-que-le-medieviste-et-resistant-entre-au-pantheon_6705555_3260.html][Que reste-t-il aujourd’hui de Marc Bloch l’historien ? Clés de lecture, alors que le médiéviste et résistant entre au Panthéon]]
-- [[https://www.lemonde.fr/idees/article/2026/06/21/anton-brender-economiste-la-montee-des-dettes-publiques-est-le-reflet-d-un-dereglement-du-capitalisme_6705449_3232.html][Anton Brender, économiste : « La montée des dettes publiques est le reflet d’un dérèglement du capitalisme »]]
+- [[https://www.lemonde.fr/planete/live/2026/06/21/en-direct-canicule-le-gouvernement-annonce-49-departements-en-vigilance-rouge-lundi-54-en-orange_6704498_3244.html][EN DIRECT, canicule : le gouvernement annonce 49 départements en vigilance rouge lundi]]
+- [[https://www.lemonde.fr/international/live/2026/06/21/en-direct-guerre-au-moyen-orient-donald-trump-menace-de-frapper-l-iran-tres-fort-si-ses-allies-au-liban-continuent-de-causer-des-problemes_6705272_3210.html][EN DIRECT, guerre au Moyen-Orient : Donald Trump menace de frapper l’Iran « très fort » si ses alliés au Liban continuent de « causer des problèmes »]]
+- [[https://www.lemonde.fr/societe/article/2026/06/21/dominique-simonnot-controleuse-generale-des-lieux-de-privation-de-liberte-ce-que-je-vois-en-prison-depasse-l-entendement_6705447_3224.html][Dominique Simonnot, contrôleuse générale des lieux de privation de liberté : « Ce que je vois en prison dépasse l’entendement »]]
+- [[https://www.lemonde.fr/international/live/2026/06/21/en-direct-guerre-en-ukraine-les-tensions-entre-l-ukraine-et-la-pologne-sont-une-erreur-strategique-dont-les-deux-parties-patiront-regrette-le-premier-ministre-polonais-donald-tusk_6702230_3210.html][EN DIRECT, guerre en Ukraine : les tensions entre l’Ukraine et la Pologne sont « une erreur stratégique dont les deux parties pâtiront », regrette le premier ministre polonais, Donald Tusk]]
+- [[https://www.lemonde.fr/sport/live/2026/06/21/en-direct-espagne-arabie-saoudite-suivez-le-match-de-la-coupe-du-monde-de-football_6706100_3242.html][EN DIRECT, Espagne - Arabie saoudite : Lamine Yamal et Dani Olmo titulaires pour affronter les Faucons verts]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/bordeaux/rechauffement-canicules-incendies-bordeaux-et-le-bassin-d-arcachon-seront-ils-encore-habitables-en-2050-20260621][Réchauffement, canicules, incendies... Bordeaux et le bassin d’Arcachon seront-ils encore habitables en 2050 ?]]
-- [[https://www.lefigaro.fr/conso/catacombes-parcs-commerces-dans-un-paris-ecrase-par-la-canicule-les-touristes-en-quete-d-oasis-de-fraicheur-20260621][Catacombes, parcs, commerces... Dans un Paris écrasé par la canicule, les touristes en quête d’oasis de fraîcheur]]
-- [[https://www.lefigaro.fr/actualite-france/en-direct-meteo-canicule-chaleur-fete-de-la-musique-france-alerte-rouge-vigilance-orages-20260621][EN DIRECT - Canicule : la SNCF recommande aux personnes «vulnérables» d’éviter de prendre le train]]
-- [[https://www.lefigaro.fr/politique/jusqu-a-5-jours-les-ecologistes-lancent-une-petition-pour-reclamer-un-conge-climatique-20260621][«Jusqu’à 5 jours» : les Écologistes lancent une pétition pour réclamer un congé climatique]]
-- [[https://www.lefigaro.fr/jusqu-a-390c-a-l-ombre-visualisez-en-cartes-l-arrivee-de-la-vague-de-chaleur-20260621][Jusqu’à 44 °C attendus en début de semaine : suivez en cartes l’avancée de la vague de chaleur]]
+- [[https://www.lefigaro.fr/tirs-de-mortiers-piqures-baignades-dangereuses-a-paris-la-police-sur-le-qui-vive-pour-la-fete-de-la-musique-20260621][Tirs de mortiers, piqûres, baignades dangereuses… À Paris, la police sur le qui-vive pour la Fête de la Musique]]
+- [[https://www.lefigaro.fr/conso/britanniques-belges-pour-la-fete-de-la-musique-paris-se-prepare-a-accueillir-une-vague-de-visiteurs-europeens-20260620][Britanniques, Belges... Pour la Fête de la musique, Paris se prépare à accueillir une vague de visiteurs européens]]
+- [[https://www.lefigaro.fr/actualite-france/fete-de-la-musique-a-paris-la-consommation-d-alcool-interdite-sur-les-quais-de-la-seine-et-du-canal-saint-martin-20260620][Fête de la musique à Paris : la consommation d’alcool interdite sur les quais de la Seine et du canal Saint-Martin]]
+- [[https://www.lefigaro.fr/actualite-france/en-direct-meteo-canicule-chaleur-fete-de-la-musique-france-alerte-rouge-vigilance-orages-20260621][EN DIRECT - Canicule : 49 départements en vigilance rouge lundi]]
+- [[https://www.lefigaro.fr/conjoncture/un-sketch-bloques-sans-climatisation-les-passagers-d-un-ouigo-contraints-de-finir-leur-trajet-a-pied-sous-35-degres-20260621][«Un sketch» : bloqués sans climatisation, les passagers d’un Ouigo contraints de finir leur trajet à pied sous 35 degrés]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss][US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz]]
-- [[https://www.bbc.com/news/videos/c8r2pyv3e2po?at_medium=RSS&at_campaign=rss][BBC sees destroyed villages in Israeli-occupied southern Lebanon]]
-- [[https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss][Lebanese turtle conservationist Mona Khalil killed by Israeli strike]]
+- [[https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss][US and Iran begin talks on initial peace deal in Switzerland]]
+- [[https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss][Fuel sales halted in occupied Crimea as Ukraine targets oil facilities]]
+- [[https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss][Nobel Peace Prize winner triumphs at Ethiopian polls but fears grow of new conflict]]
+- [[https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss][Half of France under red heat alert as alcohol banned at street music festival]]
 - [[https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss][Colombia's escalating, brutal internal conflict is defining its presidential election]]
-- [[https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss][Former Olympian denies vandalising Washington Reflecting Pool after arrest]]
 
 *** The Guardian
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/trasporto-aereo-indennizzi-fermi-2005-ecco-cosa-cambia-le-nuove-regole-ue-AIG8NumD][Trasporto aereo, indennizzi fermi al 2005. Ecco cosa cambia con le nuove regole Ue]]
-- [[https://www.ilsole24ore.com/art/industria-difesa-italia-l-offerta-lavoro-e-aumentata-12percento-sei-anni-AIwxpzmD][Industria difesa, in Italia l’offerta di lavoro è aumentata del 12% in sei anni]]
-- [[https://www.ilsole24ore.com/art/crosetto-rapporto-usa-saldissimo-non-ho-capito-atteggiamento-trump-AI1MtbnD][Crosetto: rapporto con Usa saldissimo, non ho capito atteggiamento di Trump]]
-- [[https://www.ilsole24ore.com/art/l-estate-pazza-prezzi-ad-agosto-fino-300mila-euro-una-settimana-firenze-e-238mila-euro-una-tenda-salento-AIwDPtmD][L’estate pazza dei prezzi: ad agosto fino a 300mila euro per una settimana a Firenze e 238mila euro per una tenda in Salento]]
-- [[https://www.ilsole24ore.com/art/venezia-studia-ticket-accesso-50-euro-ma-proposta-sindaco-divide-AIMdSFnD][Venezia studia il ticket di accesso a 50 euro ma la proposta del sindaco divide]]
+- [[https://www.ilsole24ore.com/art/la-gdf-compie-252-anni-mattarella-tutela-onesti-e-garanzia-legalita-AI9t6nnD][La GdF compie 252 anni. Mattarella: «Tutela onesti e garanzia di legalità»]]
+- [[https://www.ilsole24ore.com/art/lotteria-scontrini-prossima-estrazione-giovedi-25-giugno-ecco-chi-puo-vincere-25mila-euro-AI17wNnD][Lotteria scontrini, prossima estrazione giovedì 25 giugno: ecco chi può vincere 25mila euro]]
+- [[https://www.ilsole24ore.com/art/sicurezza-stradale-salvini-convoca-vertice-gli-ultimi-incidenti-troppe-giovani-vittime-AI4b2knD][Sicurezza stradale, Salvini convoca vertice dopo gli ultimi incidenti: «Troppe giovani vittime»]]
+- [[https://www.ilsole24ore.com/art/cucinare-pesce-frena-l-80percento-italiani-avanza-filiera-tutto-pronto--AI6qIjnD][Cucinare il pesce frena l’80% degli italiani, avanza la filiera del tutto pronto]]
+- [[https://www.ilsole24ore.com/art/il-papa-rifugiati-nessuno-puo-voltarsi-dall-altra-parte-AI7hehnD][Il Papa sui rifugiati: nessuno può voltarsi dall’altra parte]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/uk-s-starmer-mulls-political-realities-after-burnham-by-election/a-77644772?maca=en-rss-en-world-4025-rdf][UK's Starmer mulls 'political realities' after Burnham by-election]]
 - [[https://www.dw.com/en/terror-police-probe-suspected-anti-muslim-attacks-in-edinburgh/a-77639385?maca=en-rss-en-world-4025-rdf][Terror police probe suspected anti-Muslim attacks in Edinburgh]]
 - [[https://www.dw.com/en/are-ukraine-drones-really-exposing-gaps-in-russia-s-defense/a-77639467?maca=en-rss-en-world-4025-rdf][Are Ukraine drones really exposing gaps in Russia's defense?]]
 - [[https://www.dw.com/en/spain-pm-s-wife-must-face-corruption-trial-judge-rules/a-77638811?maca=en-rss-en-world-4025-rdf][Spain: PM's wife must face corruption trial, judge rules]]
 - [[https://www.dw.com/en/zelenskyy-returns-poland-s-highest-honor-as-row-deepens/a-77637366?maca=en-rss-en-world-4025-rdf][Zelenskyy returns Poland's highest honor as row deepens]]
-- [[https://www.dw.com/en/woman-killed-hundreds-evacuate-in-dominican-republic-hotel-fire/a-77634423?maca=en-rss-en-world-4025-rdf][Woman killed, hundreds evacuate in Dominican Republic hotel fire]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/06/apos-incentivar-empresas-ja-freiam-uso-de-ia-diante-do-aumento-de-custos.shtml][Após incentivar, empresas já freiam uso de IA diante do aumento de custos]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/06/campanha-de-lula-aciona-tse-mais-de-60-vezes-e-ia-representa-quase-um-terco.shtml][Campanha de Lula aciona TSE mais de 60 vezes, e IA representa quase um terço]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/passado-socialista-da-alemanha-explica-ascensao-da-extrema-direita-diz-politico-de-extrema-direita.shtml][Passado socialista da Alemanha explica ascensão da extrema direita, diz político de extrema direita]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/resumo-do-dia-possiveis-rivais-do-brasil-no-mata-mata-da-copa-holanda-e-japao-aplicam-goleadas.shtml][Resumo do dia: Possíveis rivais do Brasil no mata-mata da Copa, Holanda e Japão aplicam goleadas]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/06/cuba-jamais-se-rendera-e-se-tivermos-que-morrer-morreremos-diz-escritor-cubano-abel-prieto.shtml]['Cuba jamais se renderá e, se tivermos que morrer, morreremos', diz escritor cubano Abel Prieto]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/policia-prende-segundo-suspeito-pela-morte-de-pm-em-roubo-de-bicicleta-na-zona-leste-de-sp.shtml][Polícia prende segundo suspeito pela morte de PM em roubo de bicicleta na zona leste de SP]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/ancelotti-poupa-sete-titulares-em-treino-com-neymar-a-disposicao.shtml][Ancelotti poupa sete titulares em treino com Neymar à disposição]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/starmer-avalia-futuro-publico-e-trump-diz-que-premie-britanico-vai-renunciar.shtml][Starmer avalia futuro público e Trump diz que premiê britânico vai renunciar]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/06/giovanna-ewbank-e-bruno-gagliasso-publicam-fotos-de-festa-de-titi-em-orlando.shtml][Giovanna Ewbank e Bruno Gagliasso publicam fotos de festa de Títi em Orlando]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/rebeca-andrade-leva-o-ouro-no-pan-de-ginastica-artistica-em-seu-retorno-as-competicoes.shtml][Rebeca Andrade leva o ouro no Pan de ginástica artística em seu retorno às competições]]
 
 *** O Globo
 
