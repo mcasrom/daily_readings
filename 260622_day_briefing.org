@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 50.5°C | ⚖ Load: 0.00 | 🌐 Ping: 14.2ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 51.5°C | ⚖ Load: 0.25 | 🌐 Ping: 22.1ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,19 +41,19 @@
 
 *** El País
 
-- [[https://elpais.com/internacional/2026-06-22/dimite-el-primer-ministro-britanico-keir-starmer.html][El primer ministro británico, Keir Starmer, anuncia su dimisión tras meses de presión de su partido]]
-- [[https://elpais.com/internacional/2026-06-22/keir-starmer-el-abogado-prudente-que-acabo-condenado-por-su-indecision.html][Keir Starmer, el abogado prudente que acabó condenado por su indecisión]]
-- [[https://elpais.com/espana/2026-06-22/ultima-hora-de-la-actualidad-politica-en-directo.html][Última hora de la actualidad política, en directo | El Poder Judicial inicia el proceso para expedientar al juez Peinado por insinuar que los escoltas de Begoña Gómez podrían ayudarla a huir]]
-- [[https://elpais.com/espana/2026-06-22/el-juez-peinado-cita-a-begona-gomez-a-comparecer-el-miercoles-para-entregar-su-pasaporte.html][El juez Peinado cita a Begoña Gómez a comparecer el miércoles para reclamarle el pasaporte]]
-- [[https://elpais.com/america-colombia/elecciones-presidenciales/2026-06-22/el-ultra-de-la-espriella-sera-el-proximo-presidente-de-colombia-segun-el-preconteo-de-votos.html][El ultra De la Espriella será el próximo presidente de Colombia, según el preconteo de votos]]
+- [[https://elpais.com/espana/2026-06-22/el-supremo-condena-a-abalos-a-24-anos-y-tres-meses-de-carcel-a-koldo-garcia-a-19-anos-y-ocho-meses-y-a-aldama-a-cuatro-anos-y-medio.html][El Supremo condena a Ábalos a 24 años y tres meses de cárcel, a Koldo García a 19 años y ocho meses y a Aldama a cuatro años y medio]]
+- [[https://elpais.com/espana/2026-06-22/feijoo-rechaza-el-debate-de-la-mocion-de-censura-si-la-hubiese-presentado-hace-meses-sanchez-habria-sido-revalidado.html][Feijóo rechaza el debate de la moción de censura: “Si la hubiese presentado hace meses, Sánchez habría sido revalidado”]]
+- [[https://elpais.com/espana/2026-06-22/el-supremo-libra-a-aldama-de-entrar-en-prision-por-su-aportacion-al-descubrimiento-de-los-delitos.html][El Supremo libra a Aldama de entrar en prisión y lo exime de la multa de 3,7 millones que reclamaba la Fiscalía]]
+- [[https://elpais.com/espana/2026-06-22/el-psoe-carga-contra-la-suspension-de-la-condena-a-aldama-sale-a-cuenta-ser-corruptor.html][El PSOE carga contra la suspensión de la condena a Aldama: “¿Sale a cuenta ser corruptor?”]]
+- [[https://elpais.com/espana/2026-06-22/la-medida-del-asco.html][La medida del asco]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/06/22/6a38e56ae4d4d8ca618b4581.html][El CGPJ envía al juez Peinado al Promotor de la Acción Disciplinaria  para valorar un posible expediente gracias al voto de calidad de la presidenta Perelló]]
-- [[https://www.elmundo.es/espana/2026/06/22/6a38ed65e4d4d899058b4582.html][Begoña Gómez tendrá que entregar su pasaporte a Peinado el miércoles por la tarde, mientras Pedro Sánchez da explicaciones en el Congreso sobre los casos de corrupción]]
-- [[https://www.elmundo.es/espana/2026/06/22/6a38127ce9cf4a5f168b45a2.html][Begoña, una de los nuestros]]
-- [[https://www.elmundo.es/economia/2026/06/21/6a0c959421efa058188b45df.html][No tener más hijos por no poder pagar la guardería: "Es inviable y como hagas jornada partida, estás vendida"]]
-- [[https://www.elmundo.es/espana/2026/06/21/6a3805d9e9cf4a33078b4590.html][Zapatero se arriesga con su declaración de máximos a que surja "un Aldama"]]
+- [[https://www.elmundo.es/espana/2026/06/22/6a38dae6fdddffed398b4578.html][El Supremo condena a 24 años de prisión a Ábalos y a 19 a Koldo García y premia la colaboración de Aldama con la Justicia]]
+- [[https://www.elmundo.es/espana/2026/06/22/6a39099de4d4d8434a8b4585.html][Ábalos, quinto ministro condenado desde la Transición: la pena más alta de todos para quien más poder tuvo junto a Sánchez]]
+- [[https://www.elmundo.es/espana/2026/06/22/6a391363fc6c83d11c8b4575.html][El Supremo libra de la cárcel a Aldama: "El Estado de Derecho debe premiar a quienes acreditan delitos graves para el sistema democrático"]]
+- [[https://www.elmundo.es/espana/2026/06/22/6a39151fe4d4d870758b45a0.html][Pleno de hechos probados: sueldo de 10.000 euros, pelotazo con las mascarillas, chalés gratis, empleos públicos para las amigas, piso para Jésica...]]
+- [[https://www.elmundo.es/espana/2026/06/22/6a391cdafc6c83723f8b459e.html][El PSOE censura que el Supremo atenúe la condena a Aldama con el temor a que sea un incentivo para 'Julito' Martínez en el 'caso Zapatero' o Leire Díez]]
 
 *** La Vanguardia
 
@@ -65,62 +65,62 @@
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/detenido-santander-esconder-hachis-mas-600-euros-silla-bebe-coche/20260622115743194678.html][Detenido en Santander tras esconder hachís y más de 600 euros en la silla de bebé de su coche]]
-- [[https://eldiariocantabria.publico.es/articulo/deportes/comision-violencia-deporte-pide-cierre-riazor-mes-invasion-campo-fiesta-ascenso/20260622114738194677.html][Antiviolencia pide el cierre de El Sardinero durante dos meses y 200.000 euros de multa al Racing por la invasión de campo del día del ascenso]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/detenidos-dos-hombres-santander-agredir-parejas-empujones-cabezazo-patadas/20260622111414194674.html][Detenidos dos hombres en Santander tras agredir a sus parejas con empujones, patadas y cabezazos]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/golpe-contrabando-puerto-santander-desmantelan-trama-que-importaba-camiones-reino-unido-desguace-ilegal/20260622110056194673.html][Golpe al contrabando en el Puerto de Santander: desmantelan una trama que importaba camiones de Reino Unido para su desguace ilegal]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/verano-arranca-fuerza-cantabria-30-grados-madrugada-avisos-calor-extremo/20260622104133194671.html][Cantabria amanece tras una noche sofocante en la que se han alcanzado los 30 grados a medianoche]]
+- [[https://eldiariocantabria.publico.es/articulo/politica/pp-saca-adelante-ley-control-ambiental-cantabria-apoyo-prc/20260622174510194700.html][El PP saca adelante la Ley de Control Ambiental de Cantabria con el apoyo del PRC]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/cantabria-unificara-transporte-escolar-regular-creara-lineas-especificas-uc/20260622173450194698.html][Cantabria unificará el transporte escolar y el regular y creará líneas específicas para la UC]]
+- [[https://eldiariocantabria.publico.es/articulo/comunicados/fp-dietetica-carrera-universitaria-cuando-cada-opcion-es-decision-mas-inteligente/20260622171259194696.html][FP de Dietética o carrera universitaria: cuándo cada opción es la decisión más inteligente]]
+- [[https://eldiariocantabria.publico.es/articulo/comunicados/antes-alquilar-furgoneta-guia-acertar-tamano-seguro-kilometraje/20260622170602194695.html][Antes de alquilar una furgoneta: guía para acertar con el tamaño, el seguro y el kilometraje]]
+- [[https://eldiariocantabria.publico.es/articulo/comunicados/facultades-veterinaria-espanolas-analisis-cyd-docencia-orientacion-internacional/20260622164147194691.html][Facultades de Veterinaria españolas: análisis CYD de docencia y orientación internacional]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/06/22/7th-prime-minister-10-years-enter-downing-street-revolving-door/][U.K. will get its seventh prime minister in 10 years. Here’s how they fell.]]
+- [[https://www.washingtonpost.com/world/2026/06/22/uk-prime-minister-starmer-resigns-labour-government-seeks-reboot/][U.K. Prime Minister Starmer to resign as Labour Party seeks reboot]]
+- [[https://www.washingtonpost.com/world/2026/06/22/read-keir-starmers-resignation-speech/][Read Keir Starmer’s resignation speech]]
 - [[https://www.washingtonpost.com/world/2026/06/21/us-iranian-meet-switzerland-hash-out-peace-plan/][High-level U.S.-Iran talks conclude with a road map for peace, mediators say]]
-- [[https://www.washingtonpost.com/world/2026/06/22/uk-prime-minister-starmer-resigns-labour-government-seeks-reboot/][U.K. Prime Minister Starmer resigns as Labour government seeks reboot]]
 - [[https://www.washingtonpost.com/business/2026/06/21/cash-strapped-farmers-iran-wars-end-comes-too-late/][For cash-strapped farmers, deal to end Iran fighting comes too late]]
-- [[https://www.washingtonpost.com/world/2026/06/20/diplomats-expect-hurdles-us-iran-talks-which-are-already-delayed/][Chaotic run-up to U.S.-Iran talks signals steep hurdles ahead]]
-- [[https://www.washingtonpost.com/world/2026/06/19/trump-said-italys-prime-minister-begged-photo-she-says-thats-false/][Trump said Italy’s prime minister ‘begged’ for a photo. She says that’s false.]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/china/chinese-gaokao-test-quiz-c38937db][Can You Pass the Test That Strikes Fear Into China’s High-Schoolers?]]
+- [[https://www.wsj.com/world/middle-east/vance-says-iran-agreed-to-allow-nuclear-inspectors-back-in-209db17c][Vance Says Iran Agreed to Allow Nuclear Inspectors Back In]]
+- [[https://www.wsj.com/world/uk/u-k-prime-minister-keir-starmer-quits-amid-rebellion-d5ede8d4][U.K. Prime Minister Keir Starmer Quits After Party Rebellion]]
+- [[https://www.wsj.com/politics/in-washington-and-around-the-world-alliances-are-rapidly-fraying-50572687][In Washington and Around the World, Alliances Are Rapidly Fraying]]
 - [[https://www.wsj.com/world/middle-east/war-in-lebanon-casts-shadow-over-renewed-iran-u-s-nuclear-talks-f457c7e9][Iran Mediators Offer Plan to Ease Lebanon, Hormuz Tensions]]
-- [[https://www.wsj.com/world/uk/u-k-prime-minister-keir-starmer-quits-amid-rebellion-d5ede8d4][U.K. Prime Minister Keir Starmer Quits Amid Rebellion]]
-- [[https://www.wsj.com/world/china/china-slaps-restrictions-on-dozens-of-u-s-companies-bd337a1c][China Slaps Restrictions on Dozens of U.S. Companies]]
-- [[https://www.wsj.com/world/europe/russia-ukraine-war-chornobyl-b220cc8d][Inside the Daring Operation to Avert a New Disaster at Chornobyl]]
-- [[https://www.wsj.com/world/middle-east/as-war-with-u-s-eases-iran-steps-up-hangings-of-dissidents-91f968da][As War With U.S. Eases, Iran Steps Up Hangings of Dissidents]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/planete/live/2026/06/22/en-direct-canicule-dix-personnes-sont-mortes-par-noyade-dimanche-dans-un-contexte-de-tres-fortes-chaleurs-declare-un-porte-parole-de-la-securite-civile_6704498_3244.html][EN DIRECT, canicule : les températures nocturnes dans certaines villes comme Tours, Poitiers ou Bourges ont atteint des niveaux jamais mesurés]]
-- [[https://www.lemonde.fr/international/article/2026/06/22/le-premier-ministre-britannique-keir-starmer-annonce-sa-demission_6706580_3210.html][Keir Starmer annonce sa démission de son poste de premier ministre du Royaume-Uni]]
-- [[https://www.lemonde.fr/international/article/2026/06/22/d-une-defaite-strategique-contre-l-iran-au-hedging-l-inevitable-avenement-d-un-monde-moins-americain_6706426_3210.html][D’une défaite stratégique contre l’Iran au « hedging » : l’inévitable avènement d’un monde moins américain]]
-- [[https://www.lemonde.fr/international/article/2026/06/22/la-colombie-bascule-a-l-extreme-droite-avec-la-victoire-d-abelardo-de-la-espriella-a-l-election-presidentielle-sur-fond-de-participation-record_6706578_3210.html][Abelardo de la Espriella fait basculer la Colombie à l’extrême droite avec sa victoire à l’élection présidentielle, sur fond de participation record]]
-- [[https://www.lemonde.fr/livres/article/2026/06/22/peter-schottler-biographe-la-pantheonisation-pourrait-renforcer-la-lecture-nationaliste-de-marc-bloch-alors-qu-il-etait-un-europeen_6706575_3260.html][Peter Schöttler, biographe : « La panthéonisation pourrait renforcer la lecture nationaliste de Marc Bloch, alors qu’il était un européen »]]
+- [[https://www.lemonde.fr/les-decodeurs/article/2026/06/22/canicule-visualisez-l-evolution-de-la-vague-de-chaleur-partout-en-europe-avec-notre-carte_6708077_4355770.html][Canicule : visualisez l’évolution de la vague de chaleur partout en Europe avec notre carte]]
+- [[https://www.lemonde.fr/societe/article/2026/06/22/mort-de-lyhanna-la-mission-d-inspection-pointe-plusieurs-defaillances_6707554_3224.html][Mort de Lyhanna : la mission d’inspection « établit une vérité d’une extrême gravité », « la chaîne de protection a failli », déplore Sébastien Lecornu]]
+- [[https://www.lemonde.fr/sciences/article/2026/06/22/la-recherche-francaise-destabilisee-par-une-crise-multiforme_6707827_1650684.html][La recherche française déstabilisée par une crise multiforme]]
+- [[https://www.lemonde.fr/international/article/2026/06/22/le-burgenstock-citadelle-de-la-diplomatie-hoteliere-helvetique_6708039_3210.html][Le Bürgenstock, citadelle de la diplomatie hôtelière helvétique]]
+- [[https://www.lemonde.fr/economie/article/2026/06/22/dix-ans-apres-le-brexit-la-city-la-place-financiere-de-londres-n-a-jamais-ete-aussi-forte_6707557_3234.html][Dix ans après le Brexit, la City, la place financière de Londres, n’a jamais été aussi forte]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/keir-starmer-du-raz-de-maree-electoral-au-premier-ministre-britannique-le-plus-impopulaire-des-temps-modernes-20260622][Keir Starmer, du raz-de-marée électoral au premier ministre britannique le plus impopulaire des temps modernes]]
-- [[https://www.lefigaro.fr/international/royaume-uni-le-premier-ministre-britannique-keir-starmer-annonce-sa-demission-20260622][Royaume-Uni : le premier ministre britannique Keir Starmer annonce sa démission]]
-- [[https://www.lefigaro.fr/international/andy-burnham-le-roi-du-nord-qui-veut-conquerir-downing-street-20260619][Andy Burnham, le « Roi du Nord » qui veut détrôner Keir Starmer et conquérir Downing Street]]
-- [[https://www.lefigaro.fr/flash-eco/pierre-vacances-center-parcs-sur-le-point-de-passer-sous-pavillon-emirati-20260622][Pierre & Vacances Center Parcs sur le point de passer sous pavillon émirati]]
-- [[https://www.lefigaro.fr/meteo/en-direct-canicule-les-chaleurs-s-intensifient-encore-jusqu-a-440c-attendus-ce-lundi-dans-l-ouest-et-le-centre-20260622][EN DIRECT - Canicule : avec dix décès dimanche en France, le terrible bilan des noyades]]
+- [[https://www.lefigaro.fr/meteo/en-direct-canicule-les-chaleurs-s-intensifient-encore-jusqu-a-440c-attendus-ce-lundi-dans-l-ouest-et-le-centre-20260622][EN DIRECT - Canicule : 54 départements placés en vigilance rouge mardi]]
+- [[https://www.lefigaro.fr/voyages/orleans-ville-la-plus-chaude-de-france-hier-en-plein-soleil-il-faisait-500c-20260622][Orléans, ville la plus chaude de France ? «Hier, en plein soleil, il faisait 50°C»]]
+- [[https://www.lefigaro.fr/actualite-france/treize-deces-en-un-peu-plus-d-une-journee-la-hausse-des-noyades-est-toujours-correlee-aux-periodes-caniculaires-20260622][Treize décès en un peu plus d’une journée : la hausse des noyades est toujours corrélée aux périodes caniculaires]]
+- [[https://www.lefigaro.fr/jusqu-a-390c-a-l-ombre-visualisez-en-cartes-l-arrivee-de-la-vague-de-chaleur-20260622][Jusqu’à 44 °C attendus en ce début de semaine : suivez en cartes l’avancée de la vague de chaleur]]
+- [[https://www.lefigaro.fr/marseille/canicule-deux-enfants-retrouves-morts-dans-une-voiture-a-carpentras-20260622][Canicule : deux enfants retrouvés morts dans une voiture à Carpentras]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss][First round of US-Iran talks ends with encouraging progress, mediators say]]
-- [[https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss][Trump-backed political outsider wins Colombia election, initial count shows]]
+- [[https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss][Vance says Iran will allow nuclear inspectors back into the country]]
+- [[https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss][At least 13 killed and dozens injured after Qatar gas explosion]]
+- [[https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss][Myanmar army killed over 700 civilians in six months, UN says]]
 - [[https://www.bbc.com/news/articles/c14ygjzr8j7o?at_medium=RSS&at_campaign=rss][Largest ever cocaine bust in Australia after police raid underground bunker]]
 - [[https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss][Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas]]
-- [[https://www.bbc.com/news/articles/cy8d5e5e805o?at_medium=RSS&at_campaign=rss][Japan quintuples visa fees in first price hike since 1978]]
 
 *** The Guardian
 
 - [[https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa][Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon]]
-- [[https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana][Global framework for reparatory justice adopted at landmark Ghana conference]]
+- [[https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana][Ghana conference calls for formal apology for transatlantic slave trade]]
 - [[https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding][CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda]]
 - [[https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations][Barbados prime minister announces manifesto for slavery reparations]]
 - [[https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case][South African men sentenced in ‘world’s largest’ rhino horn trafficking case]]
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/dalla-crisi-dell-ottobre-1985-no-marzo-caccia-sigonella-ancora-volta-centro-scontro-italia-e-stati-uniti-AIZIDdnD][Dalla crisi dell’ottobre 1985 al no di marzo ai caccia, Sigonella ancora una volta centro dello scontro Italia-Usa]]
-- [[https://www.ilsole24ore.com/art/dalla-nave-garibaldi-all-intesa-fincantieri-e-republikorp-l-italia-guarda-ancora-all-indonesia-AIipvvmD][Dalla Nave Garibaldi all’intesa tra Fincantieri e Republikorp, l’Italia guarda ancora all’Indonesia]]
-- [[https://www.ilsole24ore.com/art/fisco-gdf-scopre-imola-sei-milioni-nascosti-paradisi-all-estero-AIgGKxnD][Fisco, la GdF scopre a Imola sei milioni nascosti nei paradisi all’estero]]
-- [[https://www.ilsole24ore.com/art/milano-lega-10mila-votanti-primarie-salvini-lancia-sardone-AIPPjwnD][Milano, Lega: 10mila votanti alle primarie. Salvini lancia Sardone]]
-- [[https://www.ilsole24ore.com/art/il-tribunale-tripoli-condanna-almasri-7-anni-e-4-mesi-AIURKxnD][Il Tribunale di Tripoli condanna Almasri a 7 anni e 4 mesi]]
+- [[https://www.ilsole24ore.com/art/la-nuova-piattaforma-24-ore-nextmed-entra-sua-piena-dimensione-multimediale-AIGnUioD][La nuova piattaforma 24 ORE NextMed entra nella sua piena dimensione multimediale]]
+- [[https://www.ilsole24ore.com/art/piano-casa-si-fiducia-affitti-fondi-esteri-e-dipendenti-pa-novita-AIxCERoD][Piano Casa approvato alla Camera: novità su affitti calmierati, fondi esteri e sostegno ai dipendenti pubblici]]
+- [[https://www.ilsole24ore.com/art/lega-salvini-e-sardone-piu-votati-gazebo-il-candidato-sindaco-milano-lui-ringrazia-resto-fare-ministro-AIvlPSoD][Lega, Salvini e Sardone i più votati ai gazebo per il candidato sindaco a Milano. Lui ringrazia: «Resto a fare il ministro»]]
+- [[https://www.ilsole24ore.com/art/d-amico-grazie-marina-il-supporto-all-uscita-yasa-moon-golfo-persico-AI9u5PoD][La nave Yasa Moon del gruppo D’Amico esce dal Golfo Persico grazie alla Marina Militare]]
+- [[https://www.ilsole24ore.com/art/giustizia-e-pnrr-processi-piu-rapidi-tempi-giu-288percento-AIDayPoD][Giustizia e Pnrr, processi più rapidi: tempi giù del 28,8%]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
-- [[https://www.dw.com/en/romania-s-dan-taps-new-pm-breaks-democratic-norms/a-77618469?maca=en-rss-en-world-4025-rdf][Romania's Dan taps new PM, breaks democratic norms]]
-- [[https://www.dw.com/en/ethiopia-s-pm-abiy-ahmed-from-nobel-winner-to-war-commander/a-77647920?maca=en-rss-en-world-4025-rdf][Ethiopia's PM Abiy Ahmed: From Nobel winner to war commander]]
-- [[https://www.dw.com/en/scottish-police-arrest-man-over-edinburgh-attacks/a-77647568?maca=en-rss-en-world-4025-rdf][Scottish police arrest man over Edinburgh attacks]]
-- [[https://www.dw.com/en/ethiopia-s-ruling-party-wins-overwhelming-majority-in-parliament/a-77647557?maca=en-rss-en-world-4025-rdf][Ethiopia's ruling party wins overwhelming majority in parliament]]
-- [[https://www.dw.com/en/uk-s-starmer-mulls-political-realities-after-burnham-by-election/a-77644772?maca=en-rss-en-world-4025-rdf][UK's Starmer mulls 'political realities' after Burnham by-election]]
+- [[https://www.dw.com/en/fact-check-ai-fakes-around-the-world-cup-spread-political-narratives/a-77659085?maca=en-rss-en-world-4025-rdf][Fact check: AI fakes around the World Cup spread political narratives]]
+- [[https://www.dw.com/en/iran-us-talks-to-end-war-beset-by-tension-mistrust/a-77661546?maca=en-rss-en-world-4025-rdf][Iran-US talks to end war beset by tension, mistrust]]
+- [[https://www.dw.com/en/us-iran-deal-pakistan-s-diplomatic-masterstroke/a-77660414?maca=en-rss-en-world-4025-rdf][US-Iran deal: Pakistan's diplomatic masterstroke?]]
+- [[https://www.dw.com/en/why-is-bulgaria-threatening-to-veto-eu-s-russia-sanctions/a-77657628?maca=en-rss-en-world-4025-rdf][Why is Bulgaria threatening to veto EU's Russia sanctions?]]
+- [[https://www.dw.com/en/how-inflation-undermines-nigeria-s-sugar-tax/a-77655043?maca=en-rss-en-world-4025-rdf][How inflation undermines Nigeria's sugar tax]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/holanda-suecia-ou-japao-retrospecto-manda-brasil-fugir-de-holandeses-e-torcer-por-suecos-na-copa.shtml][Holanda, Suécia ou Japão? Retrospecto manda Brasil fugir de holandeses e torcer por suecos na Copa]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/o-que-falta-esclarecer-sobre-o-envio-de-alertas-falsos-da-defesa-civil.shtml][O que falta esclarecer sobre o envio de alertas falsos da Defesa Civil]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/06/primeiros-animais-a-fazer-transicao-para-terra-ainda-eram-aquaticos-e-nao-tinham-fase-larval.shtml][Primeiros animais a fazer transição para terra ainda eram aquáticos e não tinham fase larval]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/06/venda-de-antenas-digitais-cresce-250-na-copa-equipamento-evita-delay-na-transmissao.shtml][Venda de antenas digitais cresce 250% na Copa; equipamento evita delay na transmissão]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/mudanca-em-comunicados-do-fed-aumenta-incerteza-e-diminui-transparencia-dizem-investidores.shtml][Mudança em comunicados do Fed aumenta incerteza e diminui transparência, dizem investidores]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/06/copacabana-palace-sera-cenario-de-nova-versao-do-conversa-com-bial-na-globo.shtml][Copacabana Palace será cenário de nova versão do Conversa com Bial na Globo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/sem-alisson-brasil-faz-penultimo-treino-antes-de-encarar-a-escocia.shtml][Sem Alisson, Brasil faz penúltimo treino antes de encarar a Escócia]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/thiagostivaletti/2026/06/so-nicolas-cage-tem-o-poder-de-ser-o-homem-aranha-com-mais-de-60.shtml][Só Nicolas Cage tem o poder de ser o Homem-Aranha com mais de 60]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/06/aecio-poe-freio-em-articulacao-do-psdb-de-sp-pro-tarcisio-e-diz-que-decisao-sera-do-comando-nacional.shtml][Aécio põe freio em articulação do PSDB de SP pró-Tarcísio e diz que decisão será do comando nacional]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/vida-de-alcoolatra/2026/06/alcool-e-caminho-para-outras-drogas-e-pouco-se-fala-sobre-isso.shtml][Álcool é caminho para outras drogas, e pouco se fala sobre isso]]
 
 *** O Globo
 
