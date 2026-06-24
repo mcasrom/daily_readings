@@ -1,11 +1,7 @@
 {
-  "timestamp": "2026-06-24T18:00:03.036293",
+  "timestamp": "2026-06-25T00:00:03.071996",
   "data": {
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada": [
-      {
-        "title": "Última hora de la actualidad política, en directo | Sánchez a Junts: “Si quieren presentar una moción de censura con PP y Vox, háganla, pero dejen los subterfugios”",
-        "link": "https://elpais.com/espana/2026-06-24/ultima-hora-de-la-actualidad-politica-en-directo.html"
-      },
       {
         "title": "Las palabras de Sánchez sobre Amador encienden al Gobierno de Ayuso: “Sufre una operación de Estado”",
         "link": "https://elpais.com/espana/madrid/2026-06-24/las-palabras-de-sanchez-sobre-amador-encienden-al-gobierno-de-ayuso-sufre-una-operacion-de-estado.html"
@@ -21,6 +17,10 @@
       {
         "title": "Patxi López responde a Felipe González tras pedir a Sánchez que dimita o convoque elecciones: “Que lo hubiera hecho él cuando le tocaba”",
         "link": "https://elpais.com/espana/2026-06-24/patxi-lopez-responde-a-felipe-gonzalez-tras-pedir-a-sanchez-que-dimita-o-convoque-elecciones-que-lo-hubiera-hecho-el-cuando-le-tocaba.html"
+      },
+      {
+        "title": "Trump vuelve a arremeter contra España: “es un desastre” como socio de la OTAN",
+        "link": "https://elpais.com/internacional/2026-06-24/rutte-irrita-a-meloni-al-dar-la-razon-a-trump-en-su-disputa-por-el-uso-de-las-bases-militares.html"
       }
     ],
     "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml": [
@@ -41,55 +41,63 @@
         "link": "https://www.elmundo.es/espana/2026/06/24/6a3beef5e4d4d800398b45c5.html"
       },
       {
-        "title": "Pedro Sánchez, acorralado en el Congreso, se defiende acusando a Feijóo: \"Usted será el regreso de la corrupción\"",
-        "link": "https://www.elmundo.es/espana/2026/06/24/6a3b814421efa0274c8b4578.html"
+        "title": "188 diputados constatan que Sánchez ya ha perdido la mayoría del Congreso",
+        "link": "https://www.elmundo.es/espana/2026/06/24/6a3c218afc6c837b088b458b.html"
       }
     ],
     "https://www.lavanguardia.com/rss/home.xml": [
       {
-        "title": "Sánchez, en el Congreso: “Jamás conocí ni hubiera tolerado ninguna de estas prácticas”",
-        "link": "https://www.lavanguardia.com/politica/20260624/11573295/pedro-sanchez-psoe-congreso-imputacion-zapatero-ultima-hora-en-directo.html"
+        "title": "Sánchez afirma que no se rendirá y defiende su continuidad ante la ofensiva de la derecha",
+        "link": "https://www.lavanguardia.com/politica/20260624/11574056/sanchez-afirma-rendira-defiende-continuidad-acabar-rescoldos-corrupcion.html"
       },
       {
-        "title": "Sánchez comparece este miércoles ante el Congreso dispuesto a librar la batalla política",
-        "link": "https://www.lavanguardia.com/politica/20260623/11573638/sanchez-comparece-congreso-dispuesto-librar-batalla-politica.html"
+        "title": "El Senado aprueba la moción del PP para exigir elecciones a Sánchez",
+        "link": "https://www.lavanguardia.com/politica/20260624/11574203/senado-aprueba-mocion-pp-exigir-elecciones-sanchez.html"
       },
       {
-        "title": "Sánchez, en el Congreso: “Jamás conocí ni hubiera tolerado ninguna de estas prácticas”",
-        "link": "https://www.lavanguardia.com/politica/20260624/11573295/pedro-sanchez-psoe-congreso-imputacion-zapatero-ultima-hora-en-directo.html"
+        "title": "Feijóo pide elecciones a Sánchez tras la condena de Ábalos: “El nexo corruptor es usted”",
+        "link": "https://www.lavanguardia.com/politica/20260624/11574059/feijoo-pide-elecciones-sanchez-condena-abalos-responsabilidad-politica-toda.html"
       },
       {
-        "title": "Felipe González pide a Zapatero que devuelva las joyas incautadas si son un regalo",
-        "link": "https://www.lavanguardia.com/politica/20260623/11573728/felipe-gonzalez-pide-zapatero-devuelva-joyas-incautadas-son-regalo.html"
+        "title": "La mayoría de la investidura cierra filas ante el PP pero cuestiona el rumbo de Sánchez",
+        "link": "https://www.lavanguardia.com/politica/20260624/11574142/mayoria-investidura-cierra-filas-pp-cuestiona-rumbo-sanchez.html"
       },
       {
-        "title": "Aldama, una confesión para evitar la cárcel disfrazada de 'whistleblowing'",
-        "link": "https://www.lavanguardia.com/politica/20260624/11573709/aldama-confesion-evitar-carcel-disfrazada-whistleblowing.html"
+        "title": "Cuerpo a cuerpo: Sánchez y Feijóo se cruzan sospechas sobre sus declaraciones de la renta",
+        "link": "https://www.lavanguardia.com/politica/20260624/11574244/cuerpo-cuerpo-sanchez-feijoo-cruzan-sospechas-sobre-declaraciones-renta.html"
       }
     ],
     "https://eldiariocantabria.publico.es/rss/": [
       {
-        "title": "Los padres y madres del colegio Costa Quebrada reclaman la reunificación de los tres edificios repartidos por Bezana para el curso 2028/2029",
-        "link": "https://eldiariocantabria.publico.es/articulo/educacion/padres-madres-colegio-costa-quebrada-reclaman-reunificacion-tres-edificios-repartidos-bezana-curso-2028-2029/20260624174504194791.html"
+        "title": "El Ayuntamiento aplaza a este jueves la sardinada solidaria de San Juan por las altas temperaturas",
+        "link": "https://eldiariocantabria.publico.es/articulo/oriental/ayuntamiento-aplaza-jueves-sardinada-solidaria-san-juan-altas-temperaturas/20260624214045194817.html"
       },
       {
-        "title": "Cantabria afronta un verano con el cierre de 50 camas hospitalarias y una “falta de sustituciones” que agravará las listas de espera",
-        "link": "https://eldiariocantabria.publico.es/articulo/sanidad/cantabria-afronta-verano-cierre-50-camas-hospitalarias-falta-sustituciones-que-agravara-listas-espera/20260624173429194789.html"
+        "title": "La playa de Somocuevas abre al público tras el arreglo urgente de la barandilla de acceso",
+        "link": "https://eldiariocantabria.publico.es/articulo/saja-besaya/playa-somocuevas-abre-publico-arreglo-urgente-barandilla-acceso/20260624213305194816.html"
       },
       {
-        "title": "Música en Grande arranca este jueves con nueva sede y dos escenarios por los que pasarán David Bisbal, Manuel Turizo o Juan Magán",
-        "link": "https://eldiariocantabria.publico.es/articulo/cultura/musica-grande-arranca-jueves-nueva-sede-dos-escenarios-que-pasaran-david-bisbal-manuel-turizo-juan-magan/20260624171833194788.html"
+        "title": "Maliaño congrega a más de 25.000 personas en la noche de San Juan",
+        "link": "https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/maliano-congrega-mas-25000-personas-noche-san-juan/20260624212149194814.html"
       },
       {
-        "title": "Osasuna, tercer rival de Primera para el Racing en su pretemporada 2026/27",
-        "link": "https://eldiariocantabria.publico.es/articulo/deportes/osasuna-tercer-rival-primera-racing-pretemporada-2026-27/20260624170817194786.html"
+        "title": "Piña pide aumentar las plazas de ‘El Veranuco’ para garantizar la conciliación “real”",
+        "link": "https://eldiariocantabria.publico.es/articulo/santander/pina-pide-aumentar-plazas-veranuco-garantizar-conciliacion-real/20260624211225194812.html"
       },
       {
-        "title": "Los termómetros alcanzan los 42 grados en Cantabria",
-        "link": "https://eldiariocantabria.publico.es/articulo/cantabria/termometros-alcanzan-42-grados-cantabria/20260624165013194784.html"
+        "title": "Revilla se presentará a la reelección como líder del PRC, que cambiará los estatutos para separar Secretaría General de candidatura a las elecciones",
+        "link": "https://eldiariocantabria.publico.es/articulo/politica/revilla-presentara-reeleccion-como-lider-prc-que-cambiara-estatutos-separar-secretaria-general-candidatura-elecciones/20260624210551194811.html"
       }
     ],
     "https://feeds.washingtonpost.com/rss/world": [
+      {
+        "title": "Israel deliberately targeted Palestinian children in Gaza, U.N. commission says",
+        "link": "https://www.washingtonpost.com/world/2026/06/24/israel-deliberately-targeted-palestinian-children-gaza-un-commission-says/"
+      },
+      {
+        "title": "Hegseth thwarted internal efforts to extend key Army general’s career",
+        "link": "https://www.washingtonpost.com/national-security/2026/06/24/effort-extend-army-generals-career-falls-flat-with-hegseth/"
+      },
       {
         "title": "France reports first Ebola patient as cases in Africa surge above 1,000",
         "link": "https://www.washingtonpost.com/world/2026/06/24/ebola-outbreak-could-be-worst-ever-cases-surge-past-1000-congo/"
@@ -101,17 +109,13 @@
       {
         "title": "Trump dismisses Iran’s rejection of nuclear inspections",
         "link": "https://www.washingtonpost.com/world/2026/06/23/iran-says-no-nuclear-inspections-countering-vance-statement/"
-      },
-      {
-        "title": "Keir Starmer is out. Other establishment politicians are in trouble.",
-        "link": "https://www.washingtonpost.com/world/2026/06/23/starmer-quits-collapse-uks-mainstay-parties-mirrors-global-trend/"
-      },
-      {
-        "title": "U.S. shifts its Latin America approach. Here’s how it’s playing out in Guatemala.",
-        "link": "https://www.washingtonpost.com/national-security/2026/06/23/trump-allies-push-america-first-guatemala/"
       }
     ],
     "https://feeds.content.dowjones.io/public/rss/RSSWorldNews": [
+      {
+        "title": "A Turkish Arms Sale Leads to a Face-Off Between Trump and Congress",
+        "link": "https://www.wsj.com/world/a-turkish-arms-sale-leads-to-a-face-off-between-trump-and-congress-ee55c700"
+      },
       {
         "title": "China’s Assertions of Authority Over Foreign Ships Near Taiwan Draw U.S. Rebuke",
         "link": "https://www.wsj.com/world/asia/chinas-assertions-of-authority-over-foreign-ships-near-taiwan-draw-u-s-rebuke-d0546eb0"
@@ -127,59 +131,55 @@
       {
         "title": "North Korean Soldier Makes Rare Escape Across DMZ",
         "link": "https://www.wsj.com/world/asia/north-korean-soldier-makes-rare-escape-across-dmz-e9bd9fe7"
-      },
-      {
-        "title": "Europeans Are Terrified of Spending Money, and It’s Hurting the Economy",
-        "link": "https://www.wsj.com/world/europe/europeans-are-terrified-of-spending-money-and-its-hurting-the-economy-b08326ba"
       }
     ],
     "https://www.lemonde.fr/rss/une.xml": [
       {
-        "title": "EN DIRECT, canicule : 72 départements placés en vigilance rouge jeudi par Météo-France",
-        "link": "https://www.lemonde.fr/planete/live/2026/06/24/en-direct-canicule-la-chaleur-etouffe-l-hexagone-des-foyers-prives-d-electricite-dans-plusieurs-regions-pas-de-train-regional-en-nouvelle-aquitaine-de-10-heures-a-18-heures_6710159_3244.html"
+        "title": "Après avoir enregistré sa journée la plus chaude, la France entraperçoit la fin de la canicule",
+        "link": "https://www.lemonde.fr/planete/article/2026/06/24/apres-avoir-enregistre-sa-journee-la-plus-chaude-la-france-entrapercoit-la-fin-de-la-canicule_6713225_3244.html"
       },
       {
-        "title": "« La menace de la force était bien plus dissuasive que l’étalage de cette dernière par Donald Trump dans la guerre contre l’Iran »",
-        "link": "https://www.lemonde.fr/idees/article/2026/06/24/la-menace-de-la-force-etait-bien-plus-dissuasive-que-l-etalage-de-cette-derniere-par-donald-trump-dans-la-guerre-contre-l-iran_6711083_3232.html"
+        "title": "Mort de Lyhanna : l’enquête visant Jérôme Barella élargie aux qualifications de meurtre et de viol sur mineur",
+        "link": "https://www.lemonde.fr/societe/article/2026/06/24/lyhanna-l-autopsie-n-a-pas-permis-de-determiner-avec-certitude-la-cause-de-la-mort-de-l-enfant-de-11-ans_6713218_3224.html"
       },
       {
-        "title": "Entre le Luxembourg et Dubaï, les millions cachés de Fabrice Andjoua, fils de l’ancien président gabonais",
-        "link": "https://www.lemonde.fr/les-decodeurs/article/2026/06/24/entre-le-luxembourg-et-dubai-les-millions-caches-de-fabrice-andjoua-fils-de-l-ancien-president-gabonais_6710201_4355770.html"
+        "title": "Les conclusions explosives des Assises du financement des universités : frais d’inscription multipliés par cinq, ouverture à la réduction du nombre d’étudiants…",
+        "link": "https://www.lemonde.fr/campus/article/2026/06/24/les-conclusions-explosives-des-assises-du-financement-des-universites-frais-d-inscription-multiplies-par-cinq-ouverture-a-la-reduction-du-nombre-d-etudiants_6713185_4401467.html"
       },
       {
-        "title": "EN DIRECT, guerre en Ukraine : la Russie affirme qu’il n’existe « aucun accord » pour la reprise de négociations de paix avec Kiev",
-        "link": "https://www.lemonde.fr/international/live/2026/06/24/en-direct-guerre-en-ukraine-la-dissuasion-nucleaire-est-la-seule-chose-qui-preserve-la-planete-d-une-guerre-mondiale-estime-dmitri-peskov_6706390_3210.html"
+        "title": "EN DIRECT, Maroc-Haïti et Ecosse-Brésil : les Brésiliens toujours sans Neymar pour s’assurer la première place du groupe",
+        "link": "https://www.lemonde.fr/sport/live/2026/06/24/en-direct-maroc-haiti-et-ecosse-bresil-suivez-les-matchs-de-la-coupe-du-monde_6713231_3242.html"
       },
       {
-        "title": "Planning familial : en Gironde, la subvention de l’agence régionale de santé finalement maintenue pour 2026",
-        "link": "https://www.lemonde.fr/societe/article/2026/06/24/planning-familial-en-gironde-la-subvention-de-l-agence-regionale-de-sante-finalement-maintenue-pour-2026_6712197_3224.html"
+        "title": "Patrick Weil : « Il n’y a pas de submersion migratoire »",
+        "link": "https://www.lemonde.fr/livres/article/2026/06/24/patrick-weil-il-n-y-a-pas-de-submersion-migratoire_6713203_3260.html"
       }
     ],
     "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
       {
-        "title": "EN DIRECT - Canicule : ce mercredi devient la journée la plus chaude jamais enregistrée en France, avec 30°C de moyenne nationale",
+        "title": "« Les Américains nous laissent seuls avec le chaos » : le peuple iranien, grand perdant de la guerre de Donald Trump",
+        "link": "https://www.lefigaro.fr/international/les-americains-nous-laissent-seuls-avec-le-chaos-le-peuple-iranien-grand-perdant-de-la-guerre-de-donald-trump-20260624"
+      },
+      {
+        "title": "L’éditorial de Philippe Gélie : «Donald Trump et le nouvel Iran»",
+        "link": "https://www.lefigaro.fr/vox/monde/l-editorial-de-philippe-gelie-donald-trump-et-le-nouvel-iran-20260624"
+      },
+      {
+        "title": "Un pan de falaise s’effondre près d’une plage à Biarritz, le corps d’une femme découvert par les secours, un plongeur encore recherché",
+        "link": "https://www.lefigaro.fr/actualite-france/pyrenees-atlantiques-un-pan-de-falaise-s-effondre-pres-d-une-plage-a-biarritz-deux-disparus-recherches-20260624"
+      },
+      {
+        "title": "EN DIRECT - La canicule se poursuivra ce week-end sur une grande partie de la France, 40 à 42°C prévus",
         "link": "https://www.lefigaro.fr/meteo/en-direct-meteo-canicule-france-chaleur-alerte-rouge-vigilance-feux-de-foret-20260624"
       },
       {
-        "title": "Canicule : Paris aussi chaude qu’Abu Dhabi, Brest se mue en Tombouctou... Les températures des villes françaises à des niveaux historiques",
-        "link": "https://www.lefigaro.fr/actualite-france/canicule-paris-aussi-chaude-qu-abu-dhabi-brest-se-mue-en-tombouctou-les-temperatures-des-villes-francaises-a-des-niveaux-historiques-20260624"
-      },
-      {
-        "title": "Canicule : suivez en direct et en carte les dernières températures relevées",
-        "link": "https://www.lefigaro.fr/meteo/canicule-suivez-en-direct-et-en-carte-les-dernieres-temperatures-relevees-20260624"
-      },
-      {
-        "title": "Canicule : la circulation des TER interrompue en Nouvelle-Aquitaine de 10h à 18h jusqu’à ce vendredi",
-        "link": "https://www.lefigaro.fr/societes/canicule-la-circulation-des-ter-interrompue-en-nouvelle-aquitaine-de-10h-a-18h-jusqu-a-ce-vendredi-20260624"
-      },
-      {
-        "title": "Canicule : les grandes tours de bureaux sont-elles inadaptées à l’ère du réchauffement climatique ?",
-        "link": "https://www.lefigaro.fr/conjoncture/canicule-les-grandes-tours-de-bureaux-sont-elles-inadaptees-a-l-ere-du-rechauffement-climatique-20260624"
+        "title": "Canicule : mercredi 24 juin est la nouvelle journée la plus chaude jamais enregistrée en France",
+        "link": "https://www.lefigaro.fr/meteo/canicule-mercredi-24-juin-est-la-nouvelle-journee-la-plus-chaude-jamais-enregistree-en-france-20260624"
       }
     ],
     "https://feeds.bbci.co.uk/news/world/rss.xml": [
       {
-        "title": "Power outages hit France as record heatwave set to peak",
+        "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
         "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -245,24 +245,24 @@
     ],
     "https://www.ilsole24ore.com/rss/italia.xml": [
       {
+        "title": "Capitali gastronomiche d’Europa, podio tutto italiano",
+        "link": "https://www.ilsole24ore.com/art/capitali-gastronomiche-d-europa-podio-tutto-italiano-AI2mL0qD"
+      },
+      {
+        "title": "Il caldo non dà tregua, 4 morti in Italia. Il picco nel weekend",
+        "link": "https://www.ilsole24ore.com/art/il-caldo-non-da-tregua-4-morti-italia-picco-weekend-AIZgnCrD"
+      },
+      {
+        "title": "Collezione Farnesina, è di Marazzi la nuova scultura sull’infanzia violata",
+        "link": "https://www.ilsole24ore.com/art/collezione-farnesina-e-marazzi-nuova-scultura-sull-infanzia-violata-AIyt17qD"
+      },
+      {
         "title": "Spiagge sicure 2026, dal Viminale 1,5 milioni contro abusivismo e contraffazione",
         "link": "https://www.ilsole24ore.com/art/spiagge-sicure-2026-viminale-15-milioni-contro-abusivismo-e-contraffazione-AIi12vqD"
       },
       {
         "title": "Sì al decreto lavoro: bonus assunzioni under 35 e donne, salario giusto e tutele ai rider",
         "link": "https://www.ilsole24ore.com/art/si-decreto-lavoro-bonus-assunzioni-under-35-e-donne-salario-giusto-e-tutele-rider-AI2mNbqD"
-      },
-      {
-        "title": "Regeni, la Presidenza del Consiglio chiede un risarcimento di 2 milioni",
-        "link": "https://www.ilsole24ore.com/art/regeni-presidenza-consiglio-chiede-risarcimento-2-milioni-AIPmtkqD"
-      },
-      {
-        "title": "Fininvest ha accettato proposta vincolante per Villa Certosa allo sceicco Al Thani",
-        "link": "https://www.ilsole24ore.com/art/fininvest-ha-accettato-proposta-vincolante-villa-certosa-sceicco-thani-AIjhZjqD"
-      },
-      {
-        "title": "Rutte: dall’Italia 500 voli Usa contro l’Iran, governo smentisce",
-        "link": "https://www.ilsole24ore.com/art/rutte-rivela-dalle-basi-italiane-500-aerei-supportare-guerra-iran-campo-largo-all-attacco-AIe9lfqD"
       }
     ],
     "https://www.spiegel.de/international/index.rss": [
@@ -289,6 +289,10 @@
     ],
     "https://rss.dw.com/rdf/rss-en-world": [
       {
+        "title": "What does British PM's resignation mean for European security?",
+        "link": "https://www.dw.com/en/what-does-british-pm-s-resignation-mean-for-european-security/a-77698281?maca=en-rss-en-world-4025-rdf"
+      },
+      {
         "title": "Iran after the war — fragile peace, shattered economy",
         "link": "https://www.dw.com/en/iran-after-the-war-fragile-peace-shattered-economy/a-77690083?maca=en-rss-en-world-4025-rdf"
       },
@@ -303,32 +307,28 @@
       {
         "title": "Trump offers Iran an economic lifeline — with strings",
         "link": "https://www.dw.com/en/trump-offers-iran-an-economic-lifeline-with-strings/a-77621800?maca=en-rss-en-world-4025-rdf"
-      },
-      {
-        "title": "North Korean soldier crosses border to South",
-        "link": "https://www.dw.com/en/north-korean-soldier-crosses-border-to-south/a-77687834?maca=en-rss-en-world-4025-rdf"
       }
     ],
     "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml": [
       {
-        "title": "Flávio fará 'resgate' de Neymar em vídeo com IA, após crítica de Lula a jogador",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/06/flavio-fara-resgate-de-neymar-em-video-com-ia-para-responder-a-lula.shtml"
+        "title": "STF torna punição a políticos por improbidade mais rigorosa e amplia perda de cargos a condenados",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/06/stf-torna-punicao-a-politicos-por-improbidade-mais-rigorosa-e-amplia-perda-de-cargos-a-condenados.shtml"
       },
       {
-        "title": "China defende regulamentação da IA antes de 'perder o controle'",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/06/china-defende-regulamentacao-da-ia-antes-de-perder-o-controle.shtml"
+        "title": "Florada dos ipês-roxos perde intensidade com mudança no regime de chuvas",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/florada-dos-ipes-roxos-perde-intensidade-com-mudanca-no-regime-de-chuvas.shtml"
       },
       {
-        "title": "Governo da Bolívia está forçando uma guerra civil, diz Evo Morales",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/governo-da-bolivia-esta-forcando-uma-guerra-civil-diz-evo-morales.shtml"
+        "title": "Itamaraty ataca ida de Flavio aos EUA e diz que 'traidores da pátria' não vão 'reescrever a história'",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/06/itamaraty-ataca-ida-de-flavio-aos-eua-e-diz-que-traidores-da-patria-nao-vao-reescrever-a-historia.shtml"
       },
       {
-        "title": "Cencosud compra St. Marche e entra no ramo de supermercados premium",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/cencosud-compra-st-marche-e-entra-no-ramo-de-supermercados-premium.shtml"
+        "title": "Ministério Público denuncia dois integrantes do MTST por invasão a prédio do Itaú",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/06/ministerio-publico-denuncia-dois-integrantes-do-mtst-por-invasao-a-predio-do-itau.shtml"
       },
       {
-        "title": "Julien Dossena deixa a direção criativa da Paco Rabanne após 13 anos",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/06/julien-dossena-deixa-a-direcao-criativa-da-paco-rabanne-apos-13-anos.shtml"
+        "title": "Torcida na Copa do Mundo: não é só futebol; veja vídeo",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/econometria-facil/2026/06/torcida-na-copa-do-mundo-nao-e-so-futebol-veja-video.shtml"
       }
     ],
     "https://oglobo.globo.com/rss.xml": []
