@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 51.5°C | ⚖ Load: 0.02 | 🌐 Ping: 14.3ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 51.5°C | ⚖ Load: 0.00 | 🌐 Ping: 9.69ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,19 +49,19 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/06/24/6a3bbe6021efa09a0c8b457b.html][La Udef detecta que Zapatero cobró 200.000 euros a través de una sociedad pantalla por ejercer sus influencias con el Gobierno de Bolivia]]
-- [[https://www.elmundo.es/espana/2026/06/24/6a3be6e4e9cf4a7e3c8b4573.html][Las agendas hiperactivas de ZP: de Cerdán y todos los ministros de Sánchez a viajes por toda Latinoamérica, con mucha Bolivia y 10.000 euros de dietas diarias]]
-- [[https://www.elmundo.es/espana/2026/06/24/6a3bd8f621efa0c9388b45b7.html][Zapatero, a su secretaria tras la rueda de prensa de la 'fontanera': "Me ha gustado Leire"]]
-- [[https://www.elmundo.es/espana/2026/06/24/6a3beef5e4d4d800398b45c5.html][El chat del "Jefe" con su secretaria 'Gertru': "Tras la reunión con el presi, me reuniré con Bolaños, Mª Jesús y JuanFran donde Bolaños"]]
-- [[https://www.elmundo.es/espana/2026/06/24/6a3c218afc6c837b088b458b.html][188 diputados constatan que Sánchez ya ha perdido la mayoría del Congreso]]
+- [[https://www.elmundo.es/espana/2026/06/24/6a3c2419e4d4d8a0518b4586.html][La agenda de Zapatero desvela sus encuentros con Puigdemont y que informaba al "Pdte." en "reuniones en Moncloa"]]
+- [[https://www.elmundo.es/espana/2026/06/25/6a3c24fb21efa0fb4b8b4589.html][Los 'amigos' del comisionista ZP: el georgiano Zurab, que conecta con Begoña, y los pagadores venezolanos de las hijas]]
+- [[https://www.elmundo.es/espana/2026/06/24/6a3c2257fdddff227d8b45b9.html][Así controlaba Zapatero con 'Gertru' los ingresos: "17.800 es lo de Turquía?"]]
+- [[https://www.elmundo.es/espana/2026/06/24/6a3c23b521efa03f188b458b.html][Kreab pagó 1,5 millones a Zapatero por ser su "asesor en exclusiva" en España y no descarta demandarlo]]
+- [[https://www.elmundo.es/espana/2026/06/25/6a3c25d521efa0db698b45c3.html][PNV y Bildu sellan un 'Lizarra lingüístico' que impone el euskera]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/politica/20260624/11574056/sanchez-afirma-rendira-defiende-continuidad-acabar-rescoldos-corrupcion.html][Sánchez afirma que no se rendirá y defiende su continuidad ante la ofensiva de la derecha]]
-- [[https://www.lavanguardia.com/politica/20260624/11574203/senado-aprueba-mocion-pp-exigir-elecciones-sanchez.html][El Senado aprueba la moción del PP para exigir elecciones a Sánchez]]
-- [[https://www.lavanguardia.com/politica/20260624/11574059/feijoo-pide-elecciones-sanchez-condena-abalos-responsabilidad-politica-toda.html][Feijóo pide elecciones a Sánchez tras la condena de Ábalos: “El nexo corruptor es usted”]]
-- [[https://www.lavanguardia.com/politica/20260624/11574142/mayoria-investidura-cierra-filas-pp-cuestiona-rumbo-sanchez.html][La mayoría de la investidura cierra filas ante el PP pero cuestiona el rumbo de Sánchez]]
+- [[https://www.lavanguardia.com/politica/20260625/11574398/sanchez-rinde-salta-ataque.html][Sánchez no se rinde y salta al ataque]]
 - [[https://www.lavanguardia.com/politica/20260624/11574244/cuerpo-cuerpo-sanchez-feijoo-cruzan-sospechas-sobre-declaraciones-renta.html][Cuerpo a cuerpo: Sánchez y Feijóo se cruzan sospechas sobre sus declaraciones de la renta]]
+- [[https://www.lavanguardia.com/politica/20260624/11574142/mayoria-investidura-cierra-filas-pp-cuestiona-rumbo-sanchez.html][La mayoría de la investidura cierra filas ante el PP pero cuestiona el rumbo de Sánchez]]
+- [[https://www.lavanguardia.com/politica/20260624/11574059/feijoo-pide-elecciones-sanchez-condena-abalos-responsabilidad-politica-toda.html][Feijóo pide elecciones a Sánchez tras la condena de Ábalos: “El nexo corruptor es usted”]]
+- [[https://www.lavanguardia.com/politica/20260624/11574316/begona-gomez-entrega-pasaporte-juzgado-peinado.html][Begoña Gómez entrega el pasaporte en el juzgado de Peinado]]
 
 *** El Diario de Cantabria
 
@@ -83,29 +83,29 @@
 
 *** WSJ.com: World News
 
-- [[https://www.wsj.com/world/a-turkish-arms-sale-leads-to-a-face-off-between-trump-and-congress-ee55c700][A Turkish Arms Sale Leads to a Face-Off Between Trump and Congress]]
+- [[https://www.wsj.com/world/ukraines-most-potent-weapon-is-the-soldiers-who-refuse-to-quit-bdd145fe][Ukraine’s Most Potent Weapon Is the Soldiers Who Refuse to Quit]]
+- [[https://www.wsj.com/world/americas/venezuela-earthquakes-caracas-damage-a5835528][Earthquakes Rock Venezuelan Capital]]
+- [[https://www.wsj.com/politics/national-security/a-turkish-arms-sale-leads-to-a-face-off-between-trump-and-congress-ee55c700][A Turkish Arms Sale Leads to a Face-Off Between Trump and Congress]]
 - [[https://www.wsj.com/world/asia/chinas-assertions-of-authority-over-foreign-ships-near-taiwan-draw-u-s-rebuke-d0546eb0][China’s Assertions of Authority Over Foreign Ships Near Taiwan Draw U.S. Rebuke]]
 - [[https://www.wsj.com/world/americas/ominous-and-feared-cuban-spy-chief-dies-2d38abfa][‘Ominous and Feared’ Cuban Spy Chief Dies]]
-- [[https://www.wsj.com/world/uk/the-inbox-for-britains-new-leader-a-sclerotic-economy-and-angry-voters-595cf72f][The Inbox for Britain’s New Leader: a Sclerotic Economy and Angry Voters]]
-- [[https://www.wsj.com/world/asia/north-korean-soldier-makes-rare-escape-across-dmz-e9bd9fe7][North Korean Soldier Makes Rare Escape Across DMZ]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
+- [[https://www.lemonde.fr/international/article/2026/06/25/donald-trump-exploite-les-celebrations-du-250-anniversaire-des-etats-unis-pour-s-autocelebrer_6713347_3210.html][Donald Trump exploite les célébrations du 250ᵉ anniversaire des Etats-Unis pour s’autocélébrer]]
 - [[https://www.lemonde.fr/planete/article/2026/06/24/apres-avoir-enregistre-sa-journee-la-plus-chaude-la-france-entrapercoit-la-fin-de-la-canicule_6713225_3244.html][Après avoir enregistré sa journée la plus chaude, la France entraperçoit la fin de la canicule]]
+- [[https://www.lemonde.fr/international/article/2026/06/25/au-venezuela-deux-puissants-seismes-font-craindre-un-bilan-lourd-et-des-degats-importants_6713270_3210.html][Au Venezuela, deux puissants séismes font craindre un bilan « lourd » et des dégâts « importants »]]
 - [[https://www.lemonde.fr/societe/article/2026/06/24/lyhanna-l-autopsie-n-a-pas-permis-de-determiner-avec-certitude-la-cause-de-la-mort-de-l-enfant-de-11-ans_6713218_3224.html][Mort de Lyhanna : l’enquête visant Jérôme Barella élargie aux qualifications de meurtre et de viol sur mineur]]
-- [[https://www.lemonde.fr/campus/article/2026/06/24/les-conclusions-explosives-des-assises-du-financement-des-universites-frais-d-inscription-multiplies-par-cinq-ouverture-a-la-reduction-du-nombre-d-etudiants_6713185_4401467.html][Les conclusions explosives des Assises du financement des universités : frais d’inscription multipliés par cinq, ouverture à la réduction du nombre d’étudiants…]]
-- [[https://www.lemonde.fr/sport/live/2026/06/24/en-direct-maroc-haiti-et-ecosse-bresil-suivez-les-matchs-de-la-coupe-du-monde_6713231_3242.html][EN DIRECT, Maroc-Haïti et Ecosse-Brésil : les Brésiliens toujours sans Neymar pour s’assurer la première place du groupe]]
-- [[https://www.lemonde.fr/livres/article/2026/06/24/patrick-weil-il-n-y-a-pas-de-submersion-migratoire_6713203_3260.html][Patrick Weil : « Il n’y a pas de submersion migratoire »]]
+- [[https://www.lemonde.fr/societe/article/2026/06/25/l-interdiction-des-mariages-d-etrangers-sans-papiers-de-retour-a-l-assemblee-nationale-avec-le-soutien-du-gouvernement_6713343_3224.html][L’interdiction des mariages d’étrangers sans papiers de retour à l’Assemblée nationale, avec le soutien du gouvernement]]
 
 *** Le Figaro
 
 - [[https://www.lefigaro.fr/international/les-americains-nous-laissent-seuls-avec-le-chaos-le-peuple-iranien-grand-perdant-de-la-guerre-de-donald-trump-20260624][« Les Américains nous laissent seuls avec le chaos » : le peuple iranien, grand perdant de la guerre de Donald Trump]]
 - [[https://www.lefigaro.fr/vox/monde/l-editorial-de-philippe-gelie-donald-trump-et-le-nouvel-iran-20260624][L’éditorial de Philippe Gélie : «Donald Trump et le nouvel Iran»]]
+- [[https://www.lefigaro.fr/international/venezuela-seisme-de-magnitude-7-1-l-epicentre-proche-de-caracas-20260625][Venezuela : deux puissants séismes de magnitudes 7,2 et 7,5, la présidente déclare l’état d’urgence]]
 - [[https://www.lefigaro.fr/actualite-france/pyrenees-atlantiques-un-pan-de-falaise-s-effondre-pres-d-une-plage-a-biarritz-deux-disparus-recherches-20260624][Un pan de falaise s’effondre près d’une plage à Biarritz, le corps d’une femme découvert par les secours, un plongeur encore recherché]]
 - [[https://www.lefigaro.fr/meteo/en-direct-meteo-canicule-france-chaleur-alerte-rouge-vigilance-feux-de-foret-20260624][EN DIRECT - La canicule se poursuivra ce week-end sur une grande partie de la France, 40 à 42°C prévus]]
-- [[https://www.lefigaro.fr/meteo/canicule-mercredi-24-juin-est-la-nouvelle-journee-la-plus-chaude-jamais-enregistree-en-france-20260624][Canicule : mercredi 24 juin est la nouvelle journée la plus chaude jamais enregistrée en France]]
 
 ** 🇬🇧 Reino Unido
 
@@ -165,11 +165,11 @@
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/06/stf-torna-punicao-a-politicos-por-improbidade-mais-rigorosa-e-amplia-perda-de-cargos-a-condenados.shtml][STF torna punição a políticos por improbidade mais rigorosa e amplia perda de cargos a condenados]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/florada-dos-ipes-roxos-perde-intensidade-com-mudanca-no-regime-de-chuvas.shtml][Florada dos ipês-roxos perde intensidade com mudança no regime de chuvas]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/06/itamaraty-ataca-ida-de-flavio-aos-eua-e-diz-que-traidores-da-patria-nao-vao-reescrever-a-historia.shtml][Itamaraty ataca ida de Flavio aos EUA e diz que 'traidores da pátria' não vão 'reescrever a história']]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/06/ministerio-publico-denuncia-dois-integrantes-do-mtst-por-invasao-a-predio-do-itau.shtml][Ministério Público denuncia dois integrantes do MTST por invasão a prédio do Itaú]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/econometria-facil/2026/06/torcida-na-copa-do-mundo-nao-e-so-futebol-veja-video.shtml][Torcida na Copa do Mundo: não é só futebol; veja vídeo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2026/06/donald-trump-e-as-eleicoes-presidenciais-no-brasil.shtml][Donald Trump e as eleições presidenciais no Brasil]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/apos-terremotos-governo-trump-presta-solidariedade-a-venezuela-e-diz-que-vai-ajudar-pais.shtml][Após terremotos, governo Trump presta solidariedade à Venezuela e diz que vai ajudar país]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/africa-do-sul-chega-pela-1a-vez-ao-mata-mata-da-copa-mexico-confirma-100-de-eficiencia-veja-os-lances.shtml][África do Sul chega pela 1ª vez ao mata-mata da Copa; México confirma 100% de eficiência; veja os lances]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/lula-determina-avaliacao-para-ajudar-venezuela-apos-terremotos-no-pais.shtml][Lula determina avaliação para ajudar Venezuela após terremotos no país]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/jogadores-destacam-a-evolucao-demonstrada-pela-selecao-durante-a-copa.shtml][Jogadores destacam a evolução demonstrada pela seleção durante a Copa]]
 
 *** O Globo
 
