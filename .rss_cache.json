@@ -1,9 +1,13 @@
 {
-  "timestamp": "2026-06-26T18:00:02.972135",
+  "timestamp": "2026-06-27T00:00:03.416075",
   "data": {
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada": [
       {
-        "title": "Última hora del terremoto en Venezuela, en directo | Exteriores eleva a 14 los españoles hallados bajo los escombros y cifra en 106 el número de no localizados",
+        "title": "Con los equipos de rescate en Caracas: “¡Déjame ver si está vivo!”",
+        "link": "https://elpais.com/america/2026-06-26/con-los-equipos-de-rescate-en-caracas-dejame-ver-si-esta-vivo.html"
+      },
+      {
+        "title": "Última hora del terremoto en Venezuela, en directo | Venezuela eleva a 920 la cifra de muertos y suma más de 3.000 heridos",
         "link": "https://elpais.com/america/2026-06-26/el-terremoto-en-venezuela-en-vivo.html"
       },
       {
@@ -11,30 +15,26 @@
         "link": "https://elpais.com/internacional/2026-06-26/mapas-del-terremoto-en-venezuela-el-antes-y-despues-con-imagenes-satelite.html"
       },
       {
-        "title": "Ayuda a cuentagotas, una noche en la calle y saqueos en La Guaira, la ciudad venezolana más golpeada por el terremoto",
-        "link": "https://elpais.com/america/2026-06-26/ayuda-a-cuentagotas-una-noche-en-la-calle-y-saqueos-en-la-guaira-la-ciudad-venezolana-mas-golpeada-por-el-terremoto.html"
-      },
-      {
-        "title": "Exteriores eleva a 14 los españoles localizados bajo los escombros de edificios derrumbados por el terremoto en Venezuela",
+        "title": "Exteriores eleva a 14 los españoles atrapados bajo los escombros del doble terremoto de Venezuela",
         "link": "https://elpais.com/espana/2026-06-26/exteriores-eleva-a-tres-los-espanoles-fallecidos-y-a-99-los-no-localizados-tras-hallar-a-cuatro-ciudadanos-entre-los-escombros.html"
       },
       {
-        "title": "El terremoto en Venezuela pone a prueba la ‘doctrina Donroe’ de Trump en América Latina",
-        "link": "https://elpais.com/america/2026-06-26/el-terremoto-en-venezuela-pone-a-prueba-la-doctrina-donroe-de-trump-en-america-latina.html"
+        "title": "¿Por qué Venezuela tembló dos veces en 40 segundos?",
+        "link": "https://elpais.com/videos/2026-06-26/por-que-venezuela-temblo-dos-veces-en-40-segundos.html"
       }
     ],
     "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml": [
       {
-        "title": "Cuatro españoles han muerto, otros 106, entre ellos una familia gallega, no han sido localizados y 14 se encuentran bajo los escombros",
+        "title": "Cinco españoles han muerto, otros 119, entre ellos una familia gallega, no han sido localizados y 14 se encuentran bajo los escombros",
         "link": "https://www.elmundo.es/internacional/2026/06/26/6a3e134821efa006188b45a2.html"
       },
       {
-        "title": "Buscan a una familia de Marín (Pontevedra) desaparecida tras el doble terremoto de Venezuela",
-        "link": "https://www.elmundo.es/galicia/2026/06/26/6a3e7efce85eceb2118b45b6.html"
+        "title": "El último acto de amor de una madre en medio de la tragedia de los terremotos de Venezuela: \"Dio su vida por nuestra hija\"",
+        "link": "https://www.elmundo.es/internacional/2026/06/26/6a3ed391fc6c838d338b45ac.html"
       },
       {
-        "title": "EL MUNDO en el corazón de la tragedia venezolana: \"Estamos sumidos en ruinas y desesperación. Ahí está mi nieta de cinco años tapiada\"",
-        "link": "https://www.elmundo.es/internacional/2026/06/26/6a3e22abe85ece1a1f8b458b.html"
+        "title": "EEUU suspende sanciones a Venezuela y despliega efectivos militares tras los terremotos",
+        "link": "https://www.elmundo.es/internacional/2026/06/26/6a3ea17cfc6c83407b8b457a.html"
       },
       {
         "title": "Ex jefes de la UCO contradicen a Mercedes González: ratifican al juez que les pidieron \"ponerse de perfil\" en el caso del hermano de Sánchez y niegan que les informara de sus contactos con la 'fontanera'",
@@ -47,8 +47,12 @@
     ],
     "https://www.lavanguardia.com/rss/home.xml": [
       {
-        "title": "El doble terremoto en Venezuela deja por ahora 589 muertos, cuatro de ellos españoles, y 2.980 heridos",
+        "title": "Venezuela suma casi 600 muertos: hay cuatro españoles fallecidos, 14 atrapados y 106 desaparecidos",
         "link": "https://www.lavanguardia.com/internacional/20260626/11575807/terremoto-venezuela-desaparecidos-muertos-caracas-la-guaira-ultima-hora-hoy-en-directo.html"
+      },
+      {
+        "title": "Las secuelas de los terremotos: desesperación y saqueos en La Guaira",
+        "link": "https://www.lavanguardia.com/internacional/20260626/11576141/secuelas-terremotos-desesperacion-saqueos-guaira.html"
       },
       {
         "title": "Exteriores habilita dos teléfonos de emergencias consulares para españoles afectados por el doble terremoto en Venezuela",
@@ -61,35 +65,35 @@
       {
         "title": "La madrugada en Venezuela en la que el móvil empezó a vibrar",
         "link": "https://www.lavanguardia.com/internacional/20260626/11575379/madrugada-movil-empezo-vibrar.html"
-      },
-      {
-        "title": "Las sanciones estadounidenses dificultan la ayuda a Venezuela tras el doble terremoto",
-        "link": "https://www.lavanguardia.com/internacional/20260626/11575805/sanciones-estadounidenses-dificultan-ayuda-venezuela-doble-terremoto.html"
       }
     ],
     "https://eldiariocantabria.publico.es/rss/": [
       {
-        "title": "Principio de acuerdo en el ERE de Teknia de Santander, que desconvoca la huelga de la semana que viene",
-        "link": "https://eldiariocantabria.publico.es/articulo/laboral/principio-acuerdo-ere-teknia-santander-que-desconvoca-huelga-semana-que-viene/20260626175513194894.html"
+        "title": "CastroVerde propone al Gobierno de Cantabria desarrollar el PSIR junto al Ayuntamiento",
+        "link": "https://eldiariocantabria.publico.es/articulo/oriental/castroverde-propone-gobierno-cantabria-desarrollar-psir-junto-ayuntamiento/20260626212116194913.html"
       },
       {
-        "title": "La memoria y tradición de Helados Riancho, clave de sus 22 variedades",
-        "link": "https://eldiariocantabria.publico.es/articulo/mar-y-montana/memoria-tradicion-helados-riancho-clave-22-variedades/20260626173157194893.html"
+        "title": "El PRC lamenta “la pérdida de dos años” en la tramitación de las viviendas sociales",
+        "link": "https://eldiariocantabria.publico.es/articulo/trasmiera/prc-lamenta-perdida-dos-anos-tramitacion-viviendas-sociales/20260626211631194912.html"
       },
       {
-        "title": "Bizum ya no es solo para dividir la cuenta: así ha cambiado la forma de apostar online en España",
-        "link": "https://eldiariocantabria.publico.es/articulo/comunicados/bizum-es-solo-dividir-cuenta-asi-ha-cambiado-forma-apostar-online-espana/20260626171224194892.html"
+        "title": "El servicio municipal de préstamo de bicicletas de Punta Parayas abre una nueva temporada",
+        "link": "https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/servicio-municipal-prestamo-bicicletas-punta-parayas-abre-nueva-temporada/20260626211135194911.html"
       },
       {
-        "title": "La cortina antimoscas que colgaba en casa de tu abuela está de vuelta: la de tiras nunca se fue",
-        "link": "https://eldiariocantabria.publico.es/articulo/comunicados/cortina-antimoscas-que-colgaba-casa-abuela-vuelta-tiras-nunca-fue/20260626165937194889.html"
+        "title": "El Ayuntamiento justifica técnicamente la poda iniciada en mayo en 200 arbustos de la ciudad",
+        "link": "https://eldiariocantabria.publico.es/articulo/torrelavega/ayuntamiento-justifica-tecnicamente-poda-iniciada-mayo-200-arbustos-ciudad/20260626210532194909.html"
       },
       {
-        "title": "La mirada de Guy Ritchie al crimen organizado y la saga de ‘Mad Max’ llegan a la Filmoteca en julio",
-        "link": "https://eldiariocantabria.publico.es/articulo/cultura/mirada-guy-ritchie-crimen-organizado-saga-mad-max-llegan-filmoteca-julio/20260626164904194887.html"
+        "title": "Una manifestación, música y un ‘drag show’ protagonizan el Orgullo LGTBI+ este sábado",
+        "link": "https://eldiariocantabria.publico.es/articulo/santander/manifestacion-musica-drag-show-protagonizan-orgullo-lgtbi-sabado/20260626205539194907.html"
       }
     ],
     "https://feeds.washingtonpost.com/rss/world": [
+      {
+        "title": "Ukrainian drones drive Russia to declare emergency in occupied Crimea",
+        "link": "https://www.washingtonpost.com/world/2026/06/26/ukrainian-drones-drive-russia-declare-emergency-occupied-crimea/"
+      },
       {
         "title": "When it comes to soccer, there is no such thing as a United Kingdom",
         "link": "https://www.washingtonpost.com/sports/2026/06/27/scotlands-second-favorite-world-cup-team-anyone-playing-england/"
@@ -99,19 +103,27 @@
         "link": "https://www.washingtonpost.com/world/2026/06/26/ai-race-china-aims-be-tortoise-with-come-from-behind-win-over-us/"
       },
       {
-        "title": "Quakes give U.S. opportunity to transform Venezuela from foe to friend",
+        "title": "From foes to ‘great friends’? Quakes test new U.S.-Venezuela relationship.",
         "link": "https://www.washingtonpost.com/world/2026/06/26/quakes-give-us-opportunity-transform-venezuela-foe-friend/"
       },
       {
         "title": "King Charles reveals his personal tax bill. Spoiler alert: He’s very rich.",
         "link": "https://www.washingtonpost.com/world/2026/06/25/king-charles-reveals-his-personal-tax-bill-spoiler-alert-hes-very-rich/"
-      },
-      {
-        "title": "Rubio’s new job? Selling Trump’s Iran deal to a worried Gulf.",
-        "link": "https://www.washingtonpost.com/national-security/2026/06/25/rubios-new-job-selling-trumps-iran-deal-worried-gulf/"
       }
     ],
     "https://feeds.content.dowjones.io/public/rss/RSSWorldNews": [
+      {
+        "title": "U.S. Launches Fresh Attacks on Iran",
+        "link": "https://www.wsj.com/world/middle-east/trump-says-iranian-attack-on-cargo-ship-was-violation-of-ceasefire-deal-884c617c"
+      },
+      {
+        "title": "Canada’s Most Famous Fixer-Upper—the Prime Minister’s Home—Is Getting a Makeover",
+        "link": "https://www.wsj.com/world/americas/canadas-most-famous-fixer-upperthe-prime-ministers-homeis-getting-a-makeover-1a5b2b6d"
+      },
+      {
+        "title": "Aircraft Crashes Into Beijing’s Tallest Building",
+        "link": "https://www.wsj.com/world/china/aircraft-crashes-into-beijings-tallest-building-8773b32a"
+      },
       {
         "title": "Ebola Is Devastating Congo. Uganda Found a Way to Stop It.",
         "link": "https://www.wsj.com/world/africa/ebola-is-devastating-congo-uganda-found-a-way-to-stop-it-180761a4"
@@ -119,84 +131,72 @@
       {
         "title": "Europe Wasn’t Built for This Record-Breaking Heat",
         "link": "https://www.wsj.com/world/europe/europe-isnt-built-for-heatwaves-3b1a8c36"
-      },
-      {
-        "title": "China Sharpens Tools for Hitting Back at Foreign Sanctions",
-        "link": "https://www.wsj.com/world/china/china-sharpens-tools-for-hitting-back-at-foreign-sanctions-7baa593b"
-      },
-      {
-        "title": "The U.K. Monarchy Is Getting a Big Funding Bump. Here’s How They’re Spending It.",
-        "link": "https://www.wsj.com/world/uk/britains-monarchy-is-getting-a-bumper-payout-heres-how-theyre-spending-it-06dbe568"
-      },
-      {
-        "title": "What to Know About How Iran Uses China’s Currency to Weaken U.S. Power",
-        "link": "https://www.wsj.com/world/what-to-know-about-how-iran-uses-chinas-currency-to-weaken-u-s-power-38fcf046"
       }
     ],
     "https://www.lemonde.fr/rss/une.xml": [
       {
-        "title": "EN DIRECT, canicule : le plan blanc déclenché dans tous les hôpitaux d’Ile-de-France, en raison d’un système de soins « sous tension »",
-        "link": "https://www.lemonde.fr/planete/live/2026/06/26/en-direct-canicule-la-vague-de-chaleur-s-etend-vers-l-est-de-l-europe-les-hopitaux-submerges_6710159_3244.html"
+        "title": "Au défi de la canicule, les urgences de Metz-Thionville s’attendent à un week-end « tendu » : « Désormais, nous recevons des victimes directes de coups de chaleur »",
+        "link": "https://www.lemonde.fr/societe/article/2026/06/26/au-defi-de-la-canicule-les-urgences-de-metz-thionville-s-attendent-a-un-week-end-tendu-desormais-nous-recevons-des-victimes-directes-de-coups-de-chaleur_6715913_3224.html"
       },
       {
-        "title": "Séismes au Venezuela : le bilan s’alourdit à 589 morts et près de 3 000 blessés",
-        "link": "https://www.lemonde.fr/international/article/2026/06/26/seismes-au-venezuela-un-bilan-d-au-moins-235-morts-loin-d-etre-definitif-devant-l-ampleur-des-degats_6715638_3210.html"
+        "title": "Les Etats-Unis annoncent des frappes en Iran en réponse à l’attaque d’un navire dans le détroit d’Ormuz",
+        "link": "https://www.lemonde.fr/international/article/2026/06/26/donald-trump-accuse-l-iran-de-violation-stupide-du-cessez-le-feu-a-la-suite-de-l-attaque-d-un-navire-dans-le-detroit-d-ormuz_6715899_3210.html"
       },
       {
-        "title": "En Ukraine, en temps de guerre, ceux qui partent, ceux qui restent : la vie suspendue à Sloviansk et Kramatorsk",
-        "link": "https://www.lemonde.fr/international/article/2026/06/26/en-ukraine-en-temps-de-guerre-ceux-qui-partent-ceux-qui-restent-la-vie-suspendue-a-sloviansk-et-kramatorsk_6715850_3210.html"
+        "title": "France-Norvège : les Bleus surclassent les Norvégiens grâce à un triplé de Dembélé et s’assurent la première place de leur groupe",
+        "link": "https://www.lemonde.fr/sport/live/2026/06/26/en-direct-france-norvege-les-bleus-devant-grace-a-un-triple-d-ousmane-dembele_6715879_3242.html"
       },
       {
-        "title": "France-Norvège : Erling Haaland et ses coéquipiers, purs produits de la fabrique à champions d’un pays qui mise sur le sport",
-        "link": "https://www.lemonde.fr/sport/article/2026/06/26/france-norvege-erling-haaland-et-ses-coequipiers-purs-produits-de-la-fabrique-a-champions-d-un-pays-qui-mise-sur-le-sport_6715845_3242.html"
+        "title": "Séismes au Venezuela : le bilan s’alourdit à 920 morts, plus de 50 000 personnes portées disparues",
+        "link": "https://www.lemonde.fr/international/article/2026/06/26/seismes-au-venezuela-le-bilan-s-alourdit-a-920-morts-plus-de-50-000-personnes-portees-disparues_6715638_3211.html"
       },
       {
-        "title": "A Vaca Muerta, en Patagonie, l’eldorado du pétrole argentin attire des milliers de travailleurs rêvant d’une vie meilleure",
-        "link": "https://www.lemonde.fr/economie/article/2026/06/26/a-vaca-muerta-en-patagonie-l-eldorado-du-petrole-argentin-attire-des-milliers-de-travailleurs-revant-d-une-vie-meilleure-sans-egard-pour-l-environnement_6715753_3234.html"
+        "title": "Présidentielle 2027 : dans l’Indre, François Ruffin se lance à la conquête des parrainages des maires",
+        "link": "https://www.lemonde.fr/politique/article/2026/06/26/presidentielle-2027-dans-l-indre-francois-ruffin-se-lance-a-la-conquete-des-parrainages-des-maires_6715915_823448.html"
       }
     ],
     "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
       {
-        "title": "EN DIRECT - Canicule : le plan blanc déclenché dans tous les hôpitaux franciliens, 50 départements en vigilance rouge samedi",
-        "link": "https://www.lefigaro.fr/meteo/en-direct-meteo-chaleur-canicule-france-orages-alerte-rouge-20260626"
+        "title": "Coupe du monde 2026 : une balade contre les «coiffeurs» norvégiens, Dembélé époustouflant",
+        "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-portes-par-un-triple-de-dembele-les-bleus-assurent-la-premiere-place-du-groupe-face-a-la-norvege-20260626"
       },
       {
-        "title": "Canicule : 39,6°C à Nancy, 38,9°C à Mulhouse, record absolu à Strasbourg... Découvrez les températures relevées à 17 heures",
-        "link": "https://www.lefigaro.fr/meteo/canicule-suivez-en-direct-et-en-carte-les-dernieres-temperatures-relevees-20260625"
+        "title": "Les notes des Bleus contre la Norvège: le festival Dembélé, Mbappé altruiste, le naufrage Upamecano",
+        "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/les-notes-des-bleus-contre-la-norvege-le-festival-dembele-mbappe-altruiste-le-naufrage-upamecano-20260626"
       },
       {
-        "title": "Canicule : êtes-vous concerné par les restrictions d’eau ?",
-        "link": "https://www.lefigaro.fr/sciences/canicule-etes-vous-concerne-par-les-restrictions-d-eau-20260626"
+        "title": "Coupe du monde 2026 : le fabuleux triplé de Dembélé, l’arrêt de Maignan... les temps forts de Norvège-France en vidéo",
+        "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-en-video-l-eclair-de-dembele-pour-lancer-les-bleus-face-a-la-norvege-20260626"
       },
       {
-        "title": "«On est vraiment sur des niveaux incroyables» : toutes les eaux littorales françaises frappées par des canicules marines",
-        "link": "https://www.lefigaro.fr/meteo/on-est-vraiment-sur-des-niveaux-incroyables-toutes-les-eaux-littorales-francaises-frappees-par-des-canicules-marines-20260626"
+        "title": "EN DIRECT - Coupe du monde 2026 : le Sénégal écrase l’Irak, polémique autour de la VAR, Lamine Yamal et l’Espagne attendus",
+        "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/en-direct-coupe-du-monde-2026-les-bleus-au-defi-norvegien-la-mission-de-guy-stephan-des-previsions-meteo-rassurantes-20260626"
       },
       {
-        "title": "Canicule : 8 Français sur 10 réclament la généralisation de la climatisation",
-        "link": "https://www.lefigaro.fr/actualite-france/canicule-8-francais-sur-10-reclament-la-generalisation-de-la-climatisation-20260626"
+        "title": "À l’Assemblée, les députés ont trouvé une cachette pour regarder les matchs des Bleus... Les indiscrets du Figaro",
+        "link": "https://www.lefigaro.fr/politique/a-l-assemblee-les-deputes-ont-trouve-une-cachette-pour-regarder-les-matchs-des-bleus-les-indiscrets-du-figaro-20260626"
       }
     ],
     "https://feeds.bbci.co.uk/news/world/rss.xml": [
       {
-        "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-        "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss"
+        "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+        "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Aerial footage reveals destruction in coastal Venezuela",
-        "link": "https://www.bbc.co.uk/news/videos/c75y1kd16qdo?at_medium=RSS&at_campaign=rss"
+        "title": "Mother dies saving daughter in Venezuela earthquakes",
+        "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-        "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss"
+        "title": "US conducts strikes on Iran after attack on cargo ship",
+        "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Christmas market attacker jailed for life for murdering six in Germany",
-        "link": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss"
+        "title": "Europe's deadly heatwave breaks German record and halts public events",
+        "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Senior Ukrainian intelligence official jailed for life for spying for Russia",
-        "link": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss"
+        "title": "DR Congo takes Rwanda to international court over decades of conflict",
+        "link": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "https://www.theguardian.com/world/rss": [
@@ -245,6 +245,10 @@
     ],
     "https://www.ilsole24ore.com/rss/italia.xml": [
       {
+        "title": "Mattarella firma il decreto Infrastrutture: la tassa sui pacchi slitta al 1° ottobre",
+        "link": "https://www.ilsole24ore.com/art/mattarella-firma-decreto-infrastrutture-tassa-pacchi-slitta-1-ottobre-AIiLiStD"
+      },
+      {
         "title": "Turismo e disabilità, da World4All la mappa delle destinazioni accessibili",
         "link": "https://www.ilsole24ore.com/art/turismo-e-disabilita-world4all-mappa-destinazioni-accessibili-AI9D4JtD"
       },
@@ -259,10 +263,6 @@
       {
         "title": "Trenitalia, attacco hacker su alcuni dati dei clienti",
         "link": "https://www.ilsole24ore.com/art/trenitalia-attacco-hacker-alcuni-dati-clienti-AIC4mGtD"
-      },
-      {
-        "title": "Caldo, Simeu: accessi nei pronto soccorso delle grandi città in aumento del 10-15%, ma non c’è nessun allarme",
-        "link": "https://www.ilsole24ore.com/art/caldo-simeu-accessi-pronto-soccorso-grandi-citta-aumento-10-15percento-ma-non-c-e-nessun-allarme-AIsAF1sD"
       }
     ],
     "https://www.spiegel.de/international/index.rss": [
@@ -289,8 +289,8 @@
     ],
     "https://rss.dw.com/rdf/rss-en-world": [
       {
-        "title": "Fact check: Throwing cold water on heatwave disinformation as Europe swelters",
-        "link": "https://www.dw.com/en/fact-check-throwing-cold-water-on-heatwave-disinformation-as-europe-swelters/a-77726297?maca=en-rss-en-world-4025-rdf"
+        "title": "Fact check: throwing cold water on heat wave disinformation",
+        "link": "https://www.dw.com/en/fact-check-throwing-cold-water-on-heat-wave-disinformation/a-77726297?maca=en-rss-en-world-4025-rdf"
       },
       {
         "title": "'Operation Purgatory': Magyar moves to demolish Orban system",
@@ -311,24 +311,24 @@
     ],
     "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml": [
       {
-        "title": "Lauana Prado tranquiliza fãs após antecipar licença-maternidade: 'Estamos bem'",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/06/lauana-prado-tranquiliza-fas-apos-antecipar-licenca-maternidade-estamos-bem.shtml"
+        "title": "Homem é preso sob suspeita de usar IA para planejar morte de filho de 8 anos; plataforma emitiu alerta",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/homem-e-preso-sob-suspeita-de-usar-ia-para-planejar-morte-de-filho-de-8-anos-plataforma-emitiu-alerta.shtml"
       },
       {
-        "title": "Empresa de Musk fornecerá acesso gratuito à internet na Venezuela após terremotos",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/empresa-de-musk-fornecera-acesso-gratuito-a-internet-na-venezuela-apos-terremotos.shtml"
+        "title": "Trump ameaça tarifa de 100% sobre países europeus que adotarem imposto sobre serviços digitais",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/trump-ameaca-tarifa-de-100-sobre-paises-europeus-que-adotarem-imposto-sobre-servicos-digitais.shtml"
       },
       {
-        "title": "Após cinco anos na Record, Lucas Selfie acerta com a Globo para Festival de Parintins",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/06/apos-cinco-anos-na-record-lucas-selfie-acerta-com-a-globo-para-festival-de-parintins.shtml"
+        "title": "Após CazéTV, governo monitora Globo, SBT e N Sports por propagandas de bets na Copa",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/06/apos-cazetv-governo-monitora-globo-sbt-e-n-sports-por-propagandas-de-bets-na-copa.shtml"
       },
       {
-        "title": "Mulher que fingia ser criança em Joinville (SC) fará exame de sanidade mental nesta sexta (26)",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/mulher-que-fingia-ser-crianca-em-joinville-sc-fara-exame-de-sanidade-mental-nesta-sexta-26.shtml"
+        "title": "Para o Daniel",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marina-izidro/2026/06/para-o-daniel.shtml"
       },
       {
-        "title": "Interagir com tecnologias digitais de forma moderada pode reduzir o risco de deterioração cognitiva",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/06/interagir-com-tecnologias-digitais-de-forma-moderada-pode-reduzir-o-risco-de-deterioracao-cognitiva.shtml"
+        "title": "Primeira transmissão ao vivo na TV foi há cem anos; conheça a história",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2026/06/primeira-transmissao-ao-vivo-na-tv-foi-ha-cem-anos-conheca-a-historia.shtml"
       }
     ],
     "https://oglobo.globo.com/rss.xml": []
