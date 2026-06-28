@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 50.5°C | ⚖ Load: 0.04 | 🌐 Ping: 10.9ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 51.5°C | ⚖ Load: 1.13 | 🌐 Ping: 9.09ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -42,18 +42,18 @@
 *** El País
 
 - [[https://elpais.com/internacional/2026-06-28/venezuela-afronta-la-catastrofe-con-el-estado-sobrepasado.html][Venezuela afronta la catástrofe con el Estado sobrepasado]]
+- [[https://elpais.com/america/2026-06-28/ultima-hora-del-terremoto-en-venezuela-en-directo.html][Última hora del terremoto en Venezuela, en directo | Exteriores eleva a 9 la cifra de españoles fallecidos y a 152 la de desaparecidos en el doble terremoto de Venezuela]]
 - [[https://elpais.com/america/2026-06-28/videoanalisis-los-vecinos-sacan-los-cascotes-con-sus-propias-manos-es-una-precariedad-absoluta.html][Videoanálisis |“Los vecinos sacan los cascotes con sus propias manos. Es una precariedad absoluta”]]
-- [[https://elpais.com/america/2026-06-28/ultima-hora-del-terremoto-en-venezuela-en-directo.html][Última hora del terremoto en Venezuela, en directo | Exteriores eleva a 9 la cifra de españoles fallecidos en el doble terremoto de Venezuela]]
-- [[https://elpais.com/internacional/2026-06-28/mapas-del-terremoto-en-venezuela-las-imagenes-satelite-confirman-un-reguero-de-edificios-derruidos.html][Mapas del terremoto en Venezuela: las imágenes satélite confirman un reguero de edificios derruidos]]
 - [[https://elpais.com/espana/2026-06-28/radiografia-de-la-desconfianza-ciudadana-en-la-justicia-el-sistema-disciplinario-no-funciona.html][Radiografía de la desconfianza ciudadana en la justicia: “El sistema disciplinario no funciona”]]
+- [[https://elpais.com/us/2026-06-28/ro-khanna-el-democrata-que-pone-contra-las-cuerdas-a-trump-el-dinero-tiene-secuestrada-la-politica-en-estados-unidos.html][Ro Khanna, el demócrata al que Elon Musk quiere en la cárcel: “El dinero tiene secuestrada la política en Estados Unidos”]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/06/28/6a401d49e4d4d835668b4580.html][Sánchez ningunea al PSOE, limita la corrupción a "personas concretas" y oprime a la "corriente minoritaria" de los críticos]]
+- [[https://www.elmundo.es/espana/2026/06/27/6a3ffe1ce4d4d8023b8b4574.html][La difícil papeleta de Rufián y el desierto de la izquierda: "No va a irse de ERC, todo es humo"]]
 - [[https://www.elmundo.es/espana/2026/06/27/6a3fed0bfdddff94298b4591.html][Zapatero empezó a preparar su defensa tras la detención de su amigo 'Julito']]
-- [[https://www.elmundo.es/internacional/2026/06/27/6a40060cfc6c83c2768b45a6.html][El terremoto de solidaridad y resistencia venezolana ante el caos del chavismo: "Donde falta gobierno, sobra el pueblo"]]
-- [[https://www.elmundo.es/internacional/2026/06/28/6a3fd053e9cf4aec4f8b4571.html][La desesperación de la diáspora al otro lado de la frontera: "La gente pide palas, ni los bomberos tienen cómo hacer su trabajo"]]
-- [[https://www.elmundo.es/cronica/2026/06/27/6a3e9e3821efa044228b4589.html][Jordi Aragonès, el ariete de Aliança Catalana y su mensaje contra Junts y ERC: "Estáis sosteniendo en el poder a un gánster. Sánchez es un personaje nefasto"]]
+- [[https://www.elmundo.es/internacional/2026/06/27/6a3ad7a3fc6c83185a8b45ad.html][El 'general Algoritmo' que da la vuelta a la invasión de Ucrania]]
+- [[https://www.elmundo.es/internacional/2026/06/28/6a3e9957e9cf4a2f378b4599.html][Raúl Estévez, geofísico venezolano: "Desde finales del siglo pasado se advertía que el próximo gran terremoto sería en el occidente de Venezuela"]]
+- [[https://www.elmundo.es/internacional/2026/06/28/6a40ef2de4d4d8ae6a8b458a.html][Los rescates más impactantes tras los terremotos en Venezuela: una familia atrapada casi tres días, un bebé, un niño de 11 años...]]
 
 *** La Vanguardia
 
@@ -65,56 +65,56 @@
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/cantabria-alerta-verano-dispararse-rescates-montana-44-playas-casi-60/20260628111940194971.html][Cantabria alerta ante el verano tras dispararse los rescates en montaña y en playas]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/rescatado-anoche-joven-18-anos-solares-desorientado-ruta-bicicleta-pena-cabarga/20260628105831194970.html][Rescatado anoche un joven de 18 años de Solares desorientado en una ruta en bicicleta en Peña Cabarga]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/helicoptero-rescata-camaleno-senderista-vasco-76-anos-esguince-pierna/20260627205234194967.html][El helicóptero rescata en Camaleño a un senderista vasco de 76 años con esguince en la pierna]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/auxilian-motorista-atrapado-pendiente-salirse-pista-forestal-tejos/20260627204254194965.html][Auxilian a un motorista atrapado en una pendiente tras salirse de una pista forestal en Los Tejos]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/millar-personas-reclaman-santander-argullu-combativo-propio/20260627203632194963.html][Un millar de personas reclaman en Santander "un Argullu combativo y propio"]]
+- [[https://eldiariocantabria.publico.es/articulo/mar-y-montana/cocina-verano-recetas-frescas-rapidas-nutritivas-toda-familia-ii/20260628173114194983.html][Cocina de verano: recetas frescas, rápidas y nutritivas para toda la familia (II)]]
+- [[https://eldiariocantabria.publico.es/articulo/sociedad/aun-has-hecho-declaracion-campana-renta-2025-finaliza-martes/20260628172133194981.html][¿Aún no has hecho la declaración? La Campaña de la Renta 2025 finaliza este martes]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/juez-caso-leire-diez-escucha-lunes-empresaria-que-dice-haber-llevado-90000-euros-sede-psoe/20260628171042194980.html][El juez del 'caso Leire Díez' escucha este lunes a la empresaria que dice haber llevado 90.000 euros a la sede del PSOE]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/fallece-atropellado-conductor-salir-vehiculo-cuando-iba-8-entre-cabezon-san-vicente/20260628135503194978.html][Fallece atropellado un conductor tras salir de su vehículo cuando iba por la A-8 entre Cabezón y San Vicente]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/carmen-calvo-okuda-roto-abren-telon-cursos-verano-uimp-semana/20260628125314194976.html][Carmen Calvo, Okuda y 'El Roto' abren el telón de los cursos de verano de la UIMP esta semana]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
-- [[https://www.washingtonpost.com/world/2026/06/27/clashes-test-us-iran-ceasefire-bahrain-tanker-report-attacks/][U.S. says it hit targets in Iran as hostilities erupt over Hormuz for third day]]
+- [[https://www.washingtonpost.com/world/2026/06/27/clashes-test-us-iran-ceasefire-bahrain-tanker-report-attacks/][U.S., Iran launch new strikes, testing fragile ceasefire as Hormuz tensions flare]]
 - [[https://www.washingtonpost.com/world/2026/06/27/these-homes-rose-out-venezuelas-socialist-revolution-now-theyre-rubble/][These homes rose out of Venezuela’s socialist revolution. Now they’re rubble.]]
 - [[https://www.washingtonpost.com/world/2026/06/27/unease-deepens-russia-ukraine-steps-up-long-range-strikes/][Unease deepens in Russia as Ukraine steps up long-range strikes]]
 - [[https://www.washingtonpost.com/world/2026/06/26/ukrainian-drones-drive-russia-declare-emergency-occupied-crimea/][Ukrainian drones drive Russia to declare emergency in occupied Crimea]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/middle-east/iran-asserts-sole-control-of-hormuz-warns-challenges-will-bring-more-violence-5abea3c7][Iran Asserts Sole Control of Hormuz, Warns Challenges Will Bring More Violence]]
+- [[https://www.wsj.com/world/africa/south-african-vigilantes-chase-out-immigrants-with-knives-and-clubs-1a8b0712][South African Vigilantes Chase Out Immigrants With Knives and Clubs]]
 - [[https://www.wsj.com/world/middle-east/mideast-fighting-widens-with-attacks-on-bahrain-hormuz-tanker-30a313a8][U.S., Iran Carry Out New Strikes, Testing Fragile Ceasefire]]
 - [[https://www.wsj.com/world/europe/the-openness-that-powered-germanys-economy-is-now-its-biggest-weakness-33918619][The Openness That Powered Germany’s Economy Is Now Its Biggest Weakness]]
 - [[https://www.wsj.com/world/china/a-rising-stars-abrupt-fall-shows-xis-crackdown-on-overambitious-officials-3d7dfb92][A Rising Star’s Abrupt Fall Shows Xi’s Crackdown on Overambitious Officials]]
-- [[https://www.wsj.com/world/middle-east/we-investigated-damage-from-iran-to-a-u-s-naval-base-heres-what-we-found-4a9f13a7][We Investigated Damage From Iran to a U.S. Naval Base. Here’s What We Found.]]
-- [[https://www.wsj.com/world/asia/south-koreas-new-etfs-are-so-risky-investors-have-to-take-a-test-can-you-pass-it-181b51ef][South Korea’s New ETFs Are So Risky Investors Have to Take a Test. Can You Pass It?]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/article/2026/06/28/vladimir-poutine-ou-la-solitude-de-l-homo-sovieticus_6716532_3210.html][Vladimir Poutine ou la solitude de l’« Homo sovieticus »]]
-- [[https://www.lemonde.fr/planete/live/2026/06/28/en-direct-canicule-un-premier-bilan-recense-1-000-deces-de-plus-que-lors-des-mois-precedents-depuis-le-24-juin-dit-sante-publique-france_6710159_3244.html][EN DIRECT, canicule : les chaleurs retombent en France, le centre de l’Europe continue à suffoquer]]
-- [[https://www.lemonde.fr/international/article/2026/06/28/les-etats-unis-bombardent-a-nouveau-l-iran-en-reponse-a-l-attaque-d-un-petrolier-pres-du-detroit-d-ormuz_6716478_3210.html][Les Etats-Unis bombardent à nouveau l’Iran, les gardiens de la révolution disent avoir attaqué le Koweït et Bahreïn en représailles]]
-- [[https://www.lemonde.fr/sport/article/2026/06/28/coupe-du-monde-2026-quelles-equipes-ont-brille-lors-de-la-phase-de-groupes-et-lesquelles-ont-decu_6716554_3242.html][Coupe du monde 2026 : quelles équipes ont brillé lors de la phase de groupes et lesquelles ont déçu ?]]
-- [[https://www.lemonde.fr/planete/article/2026/06/28/le-maintien-de-la-flotte-de-canadair-enjeu-cle-de-la-lutte-contre-les-feux-de-foret-une-fois-encore-on-va-devoir-s-adapter-en-esperant-que-tout-ira-bien_6716552_3244.html][Le maintien de la flotte de Canadair, enjeu-clé de la lutte contre les feux de forêt : « Une fois encore, on va devoir s’adapter, en espérant que tout ira bien ! »]]
+- [[https://www.lemonde.fr/planete/live/2026/06/28/en-direct-canicule-plus-de-1-300-morts-imputables-a-la-canicule-en-europe-selon-l-oms_6710159_3244.html][EN DIRECT, canicule : de la chaleur et des risques d’orage prévus dans l’est et le sud de la France, des records de chaleur à plus de 40 °C partout en Europe]]
+- [[https://www.lemonde.fr/international/live/2026/06/28/en-direct-guerre-en-ukraine-les-dernieres-informations-au-28-juin-2026_6716525_3210.html][EN DIRECT, guerre en Ukraine : Vladimir Poutine promet d’« assurer » la sécurité de la Russie, alors que les attaques ukrainiennes se multiplient]]
+- [[https://www.lemonde.fr/sport/article/2026/06/28/zlatan-ibrahimovic-star-des-terrains-de-football-devenu-employe-du-mois-parmi-les-consultants-de-la-coupe-du-monde-2026_6716571_3242.html][Zlatan Ibrahimovic, star des terrains de football devenu « employé du mois » parmi les consultants de la Coupe du monde 2026]]
+- [[https://www.lemonde.fr/societe/article/2026/06/28/un-avion-civil-s-ecrase-en-meurthe-et-moselle-onze-morts_6716564_3224.html][Crash d’avion en Meurthe-et-Moselle : l’engin transportait un groupe pour un baptême de parachutisme, 11 personnes tuées]]
+- [[https://www.lemonde.fr/politique/article/2026/06/28/nouvelle-caledonie-les-electeurs-votent-dimanche-pour-des-provinciales-a-hauts-enjeux_6716553_823448.html][Nouvelle-Calédonie : aux premières élections provinciales depuis 2019, pas de majorité pour les non-indépendantistes au Congrès]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/politique/inconnue-du-grand-public-la-canicule-oblige-monique-barbut-a-sortir-de-sa-reserve-20260623][Canicule : poussée à sortir de sa réserve, la discrète Monique Barbut enchaîne les polémiques]]
-- [[https://www.lefigaro.fr/vox/politique/l-editorial-de-vincent-tremolet-de-villers-monique-barbut-naturopathe-activiste-ou-ministre-20260626][L’éditorial de Vincent Trémolet de Villers : « Monique Barbut, naturopathe, activiste ou ministre ? »]]
-- [[https://www.lefigaro.fr/actualite-france/en-direct-canicule-deja-environ-1000-deces-de-plus-que-la-normale-recenses-depuis-mercredi-selon-sante-publique-france-20260628][EN DIRECT - Canicule : déjà environ 1000 décès de plus que la normale recensés depuis mercredi, selon Santé publique France]]
-- [[https://www.lefigaro.fr/actualite-france/climatiser-massivement-plan-baignade-national-face-a-la-canicule-edouard-philippe-propose-des-mesures-pour-aller-plus-vite-et-plus-loin-20260628][«Climatiser massivement», «plan baignade national» : face à la canicule, Édouard Philippe propose des mesures pour aller «plus vite» et «plus loin»]]
-- [[https://www.lefigaro.fr/actualite-france/canicule-philippe-juvin-remercie-le-groupe-mulliez-qui-a-offert-300-climatiseurs-a-l-hopital-pompidou-20260628][Canicule : Philippe Juvin remercie le groupe Mulliez, qui a offert «300 climatiseurs» à l’hôpital Pompidou]]
+- [[https://www.lefigaro.fr/actualite-france/canicule-pourquoi-le-bilan-sanitaire-va-encore-s-alourdir-20260628][Canicule : pourquoi le bilan sanitaire va encore s’alourdir]]
+- [[https://www.lefigaro.fr/actualite-france/redoutez-vous-une-surmortalite-apres-cet-episode-de-canicule-exceptionnel-20260628][Redoutez-vous une surmortalité après cet épisode de canicule exceptionnel ?]]
+- [[https://www.lefigaro.fr/actualite-france/mortalite-en-periode-de-canicule-les-tensions-se-concentrent-sur-paris-ou-les-deux-funerariums-sont-complets-20260628][Mortalité en période de canicule : «Les tensions se concentrent sur Paris, où les deux funérariums sont complets»]]
+- [[https://www.lefigaro.fr/vox/histoire/du-moyen-age-aux-annees-1980-ces-canicules-qu-ont-connues-les-francais-au-fil-des-siecles-et-qu-on-a-oubliees-20260627][Du Moyen Âge aux années 1980, ces canicules qu’ont connues les Français au fil des siècles et qu’on a oubliées]]
+- [[https://www.lefigaro.fr/actualite-france/temperatures-frequence-duree-mortalite-comment-les-canicules-ont-evolue-en-france-depuis-le-traumatisme-de-2003-20260623][Températures, fréquence, durée, mortalité : comment les canicules ont évolué en France depuis le traumatisme de 2003]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss][Families calling out to loved ones trapped in rubble by Venezuela quakes]]
+- [[https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss][Two boys rescued from Venezuela earthquake rubble after days of being trapped]]
 - [[https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss][In Caracas, this feels like the hardest moment in Venezuela's modern history]]
 - [[https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss][US and Iran exchange strikes and accuse each other of violating ceasefire]]
-- [[https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss][Why Kim Jong Un never talks about his mother - or her controversial bloodline]]
-- [[https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss][Israel strikes southern Lebanon as Hezbollah condemns new deal]]
+- [[https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss][Eleven killed after plane carrying skydivers crashes in eastern France]]
+- [[https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss][Heatwave breaks records in Germany, Denmark and Czech Republic]]
 
 *** The Guardian
 
@@ -136,11 +136,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/clima-e-roma-capitale-piu-calda-anni-80-temperatura-e-cresciuta-3-gradi-AId13RtD][Clima, è Roma la capitale più calda: dagli anni 80 la temperatura è cresciuta di 3 gradi]]
-- [[https://www.ilsole24ore.com/art/antitrust-ivass-via-indagine-congiunta-criticita-concorrenziali-settore-rc-auto-AI4nGuuD][Antitrust-Ivass: al via indagine congiunta su criticità concorrenziali nel settore Rc Auto]]
-- [[https://www.ilsole24ore.com/art/dal-1-luglio-silenzio-vale-iscrizione-nuove-regole-previdenza-complementare-AIRgqsuD][Dal 1° luglio il silenzio vale iscrizione: le nuove regole (a ostacoli) sui fondi pensione]]
-- [[https://www.ilsole24ore.com/art/non-si-placa-caldo-18-citta-italiane-allerta-massima-record-tutta-europa-AIZf9puD][Non si placa il caldo: 18 città italiane in allerta massima. Record in tutta Europa]]
-- [[https://www.ilsole24ore.com/art/comunicato-cdr-AIw5jquD][Comunicato del cdr]]
+- [[https://www.ilsole24ore.com/art/falsi-prodotti-italiani-giro-d-affari-42-miliardi-il-nostro-paese-e-usa-AIVdN1uD][Falsi prodotti italiani: giro d’affari di 42 miliardi tra noi  e gli Usa]]
+- [[https://www.ilsole24ore.com/art/carceri-trasferimento-simultaneo-128-detenuti-41-bis-vigevano-AI9em2uD][Carceri, trasferimento simultaneo di 128 detenuti 41-bis a Vigevano]]
+- [[https://www.ilsole24ore.com/art/salvini-chiude-vannacci-voto-questa-alleanza-AIhsszuD][Salvini chiude a Vannacci: al voto con questa alleanza]]
+- [[https://www.ilsole24ore.com/art/a-roma-pioggia-record-gennaio-inizio-giugno-livello-piu-alto-ultimi-6-anni-AIjhRGtD][A Roma pioggia record da gennaio a inizio giugno: il livello più alto degli ultimi 6 anni]]
+- [[https://www.ilsole24ore.com/art/clima-e-roma-capitale-piu-calda-anni-80-temperatura-e-cresciuta-3-gradi-AId13RtD][Clima, è Roma la capitale più calda: dagli anni 80 la temperatura è cresciuta di tre gradi]]
 
 ** 🇩🇪 Alemania
 
@@ -154,21 +154,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/saudi-aramco-helicopter-crashes-all-14-passengers-killed/a-77744020?maca=en-rss-en-world-4025-rdf][Saudi Aramco helicopter crashes, all 14 passengers killed]]
+- [[https://www.dw.com/en/fact-check-as-europe-bakes-should-you-trust-your-sunscreen/a-77707226?maca=en-rss-en-world-4025-rdf][Fact check: As Europe bakes, should you trust your sunscreen?]]
 - [[https://www.dw.com/en/with-operation-purgatory-magyar-moves-to-demolish-orban-system/a-77726207?maca=en-rss-en-world-4025-rdf][With 'Operation Purgatory,' Magyar moves to demolish Orban system]]
+- [[https://www.dw.com/en/albania-s-flamingo-revolution-what-s-behind-the-protests/a-77710991?maca=en-rss-en-world-4025-rdf][Albania's 'Flamingo Revolution': What's behind the protests?]]
 - [[https://www.dw.com/en/ukraine-strikes-russian-weapons-plant-moscow-fuel-hub/a-77735059?maca=en-rss-en-world-4025-rdf][Ukraine strikes Russian weapons plant, Moscow fuel hub]]
-- [[https://www.dw.com/en/why-is-the-us-targeting-germany-s-drug-industry/a-77727707?maca=en-rss-en-world-4025-rdf][Why is the US targeting Germany's drug industry?]]
-- [[https://www.dw.com/en/the-flamingo-revolution-what-s-behind-albania-s-protests/a-77710991?maca=en-rss-en-world-4025-rdf][The 'Flamingo Revolution': What's behind Albania's protests?]]
-- [[https://www.dw.com/en/military-age-ukrainian-men-could-lose-eu-protection/a-77729285?maca=en-rss-en-world-4025-rdf][Military-age Ukrainian men could lose EU protection]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/libano-sofre-novo-bombardeio-israelense-afirma-agencia-estatal.shtml][Líbano sofre novo bombardeio israelense, afirma agência estatal]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/06/republicanos-e-pl-apoiam-candidatos-rivais-em-roraima-e-dividem-a-direita.shtml][Republicanos e PL apoiam candidatos rivais em Roraima e dividem a direita]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/esperma-de-jeffrey-epstein-pode-estar-preservado-apontam-documentos.shtml][Esperma de Jeffrey Epstein pode estar preservado, apontam documentos]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/eua-fazem-enorme-concessao-ao-suspender-sancoes-sobre-petroleo-do-ira.shtml][EUA fazem enorme concessão ao suspender sanções sobre petróleo do Irã]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/big-techs-exploram-e-vendem-nossas-vulnerabilidades-emocionais-diz-pesquisadora-britanica.shtml][Big techs exploram e vendem nossas vulnerabilidades emocionais, diz pesquisadora britânica]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/06/k-pop-no-rock-in-rio-e-uma-forma-de-aproxima-lo-do-publico-diz-roberta-medina.shtml][K-pop no Rock in Rio é uma forma de aproximá-lo do público, diz Roberta Medina]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/fila-do-inss-cai-a-menor-patamar-desde-2024-e-nova-presidente-ve-reducao-gradual-nos-proximos-meses.shtml][Fila do INSS cai a menor patamar desde 2024, e nova presidente vê redução gradual nos próximos meses]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/goleiros-veteranos-e-pouco-conhecidos-se-destacaram-na-1a-fase-da-copa-do-mundo.shtml][Goleiros veteranos e pouco conhecidos se destacaram na 1ª fase da Copa do Mundo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/06/reporter-da-abc-pede-desculpas-apos-dizer-que-nao-sabe-onde-fica-a-bosnia.shtml][Repórter da ABC pede desculpas após dizer que não sabe onde fica a Bósnia]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/entusiasmo-excessivo-pela-ia-pode-resultar-em-uma-longa-crise-de-investimentos-alerta-o-bis.shtml][Entusiasmo excessivo pela IA pode resultar em uma longa crise de investimentos, alerta o BIS]]
 
 *** O Globo
 
