@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 51.5°C | ⚖ Load: 0.16 | 🌐 Ping: 9.58ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 51.5°C | ⚖ Load: 0.96 | 🌐 Ping: 9.00ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,19 +49,19 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/06/27/6a3fbc69fdddff6a778b45a9.html][Page pide a Sánchez  "responsabilidades" frente a la corrupción y el presidente descarta el adelanto electoral: "Abandonad toda esperanza"]]
-- [[https://www.elmundo.es/espana/2026/06/27/6a400dea21efa067588b45a5.html][Page frente a Sánchez: "No se puede aguantar hasta el último día sea como sea, sin apoyo parlamentario y con insultos"]]
-- [[https://www.elmundo.es/espana/2026/06/26/6a3ea798e9cf4a82718b45bc.html][La conexión de Begoña Gómez y Pedro Sánchez con Barrabés: vacaciones en Benasque  y un acto en Ifema]]
+- [[https://www.elmundo.es/espana/2026/06/28/6a401d49e4d4d835668b4580.html][Sánchez ningunea al PSOE, limita la corrupción a "personas concretas" y oprime a la "corriente minoritaria" de los críticos]]
+- [[https://www.elmundo.es/espana/2026/06/27/6a3fed0bfdddff94298b4591.html][Zapatero empezó a preparar su defensa tras la detención de su amigo 'Julito']]
 - [[https://www.elmundo.es/internacional/2026/06/27/6a40060cfc6c83c2768b45a6.html][El terremoto de solidaridad y resistencia venezolana ante el caos del chavismo: "Donde falta gobierno, sobra el pueblo"]]
-- [[https://www.elmundo.es/internacional/2026/06/27/6a3fcaade4d4d8ac7a8b45ad.html][La delegada del Gobierno de Canarias, un trabajador de la Embajada y una familia gallega, entre los españoles golpeados por la tragedia de Venezuela]]
+- [[https://www.elmundo.es/internacional/2026/06/28/6a3fd053e9cf4aec4f8b4571.html][La desesperación de la diáspora al otro lado de la frontera: "La gente pide palas, ni los bomberos tienen cómo hacer su trabajo"]]
+- [[https://www.elmundo.es/espana/2026/06/28/6a3fee8be4d4d833788b45a5.html][Familias de diplomáticos denuncian desprotección: sin derecho a atención sanitaria ni vacunas]]
 
 *** La Vanguardia
 
+- [[https://www.lavanguardia.com/internacional/20260627/11577111/elevan-1-430-personas-fallecidas-terremotos-venezuela.html][Se elevan a 1.430 los muertos por los terremotos de Venezuela]]
+- [[https://www.lavanguardia.com/internacional/20260627/11576996/gobierno-eleva-133-espanoles-desaparecidos-venezuela-mantiene-cinco-muertos-14-atrapados.html][Exteriores eleva a 6 los españoles fallecidos en Venezuela y mantiene 133 desaparecidos y 14 atrapados bajo escombros]]
+- [[https://www.lavanguardia.com/internacional/20260627/11576446/deportado-trump-desaparecido-causa-doble-seismo.html][Deportado por Trump y desaparecido a causa del doble seísmo]]
+- [[https://www.lavanguardia.com/local/madrid/20260627/11577003/equipos-emergencia-comunidad-madrid-rescatan-venezuela-anciano-dos-nietos-servimedia20260627.html][Los equipos de emergencia de Madrid rescatan en Venezuela a un anciano y sus dos nietos]]
 - [[https://www.lavanguardia.com/politica/20260627/11576942/sanchez-pide-coraje-psoe-han-querido-quebrar-partido-tiro-toalla.html][Sánchez se defiende ante la corrupción y lanza al PSOE a la “batalla” del 2027]]
-- [[https://www.lavanguardia.com/politica/20260627/11576984/feijoo-pide-catalunya-sea-llave-saque-sanchez-moncloa.html][Feijóo pide que Catalunya sea la llave que saque a Sánchez de la Moncloa]]
-- [[https://www.lavanguardia.com/politica/20260627/11576879/juan-fernandez-sera-designado-secretario-general-pp-catalunya.html][Juan Fernández será designado secretario general del PP de Catalunya]]
-- [[https://www.lavanguardia.com/politica/20260627/11576473/feijoo-amnistia-puigdemont.html][Feijóo amnistía a Puigdemont]]
-- [[https://www.lavanguardia.com/politica/20260627/11576491/aznar-hablaria-catalan-puigdemont.html][¿Aznar hablaría en catalán con Puigdemont?]]
 
 *** El Diario de Cantabria
 
@@ -75,7 +75,7 @@
 
 *** The Washington Post
 
-- [[https://www.washingtonpost.com/world/2026/06/27/clashes-test-us-iran-ceasefire-bahrain-tanker-report-attacks/][Iran says it targeted U.S. assets in Mideast as fresh clashes test ceasefire]]
+- [[https://www.washingtonpost.com/world/2026/06/27/clashes-test-us-iran-ceasefire-bahrain-tanker-report-attacks/][U.S. says it hit targets in Iran as hostilities erupt over Hormuz for third day]]
 - [[https://www.washingtonpost.com/world/2026/06/27/these-homes-rose-out-venezuelas-socialist-revolution-now-theyre-rubble/][These homes rose out of Venezuela’s socialist revolution. Now they’re rubble.]]
 - [[https://www.washingtonpost.com/world/2026/06/27/unease-deepens-russia-ukraine-steps-up-long-range-strikes/][Unease deepens in Russia as Ukraine steps up long-range strikes]]
 - [[https://www.washingtonpost.com/world/2026/06/26/ukrainian-drones-drive-russia-declare-emergency-occupied-crimea/][Ukrainian drones drive Russia to declare emergency in occupied Crimea]]
@@ -83,39 +83,39 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/europe/the-openness-that-powered-germanys-economy-is-now-its-biggest-weakness-33918619][The Openness That Powered Germany’s Economy Is Now Its Biggest Weakness]]
+- [[https://www.wsj.com/world/china/a-rising-stars-abrupt-fall-shows-xis-crackdown-on-overambitious-officials-3d7dfb92][A Rising Star’s Abrupt Fall Shows Xi’s Crackdown on Overambitious Officials]]
+- [[https://www.wsj.com/world/middle-east/mideast-fighting-widens-with-attacks-on-bahrain-hormuz-tanker-30a313a8][U.S., Iran Carry Out New Strikes, Testing Fragile Ceasefire]]
 - [[https://www.wsj.com/world/middle-east/we-investigated-damage-from-iran-to-a-u-s-naval-base-heres-what-we-found-4a9f13a7][We Investigated Damage From Iran to a U.S. Naval Base. Here’s What We Found.]]
 - [[https://www.wsj.com/world/asia/south-koreas-new-etfs-are-so-risky-investors-have-to-take-a-test-can-you-pass-it-181b51ef][South Korea’s New ETFs Are So Risky Investors Have to Take a Test. Can You Pass It?]]
-- [[https://www.wsj.com/world/middle-east/mideast-fighting-widens-with-attacks-on-bahrain-hormuz-tanker-30a313a8][Mideast Fighting Widens With Attacks on Bahrain, Hormuz Tanker]]
-- [[https://www.wsj.com/world/china/aircraft-crashes-into-beijings-tallest-building-8773b32a][Aircraft Crashes Into Beijing’s Tallest Building]]
-- [[https://www.wsj.com/world/middle-east/iranians-weary-of-war-decompress-on-a-turkish-dance-floor-d6fbc09e][Iranians Weary of War Decompress on a Turkish Dance Floor]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/planete/live/2026/06/27/en-direct-canicule-allemagne-danemark-republique-tcheque-des-records-de-temperature-en-europe_6710159_3244.html][EN DIRECT, canicule : 13 départements allant de l’Aisne à l’Yonne redescendront de la vigilance rouge à la vigilance orange samedi soir]]
-- [[https://www.lemonde.fr/sport/live/2026/06/27/en-direct-panama-angleterre-et-croatie-ghana-suivez-la-derniere-journee-du-groupe-l-de-la-coupe-du-monde-de-football_6716406_3242.html][EN DIRECT, Panama-Angleterre et Croatie-Ghana : les Croates en tête ; les Anglais accrochés par les Panaméens]]
+- [[https://www.lemonde.fr/planete/live/2026/06/28/en-direct-canicule-plus-que-deux-departements-encore-en-vigilance-rouge-dimanche-matin-de-violents-orages-dans-la-nuit_6710159_3244.html][EN DIRECT, canicule : plus que deux départements encore en vigilance rouge dimanche matin ; de violents orages dans la nuit]]
 - [[https://www.lemonde.fr/international/video/2026/06/27/comment-donald-trump-a-echoue-dans-sa-guerre-contre-la-republique-islamique-d-iran_6716372_3210.html][VIDEO - Comment Donald Trump a échoué dans sa guerre contre la République islamique d’Iran]]
-- [[https://www.lemonde.fr/international/article/2026/06/27/le-chef-du-hezbollah-qualifie-l-accord-cadre-israel-liban-de-grave-erreur-l-armee-israelienne-affirme-avoir-mene-une-frappe-dans-le-sud-du-pays_6716383_3210.html][Le chef du Hezbollah qualifie l’accord-cadre Israël-Liban de « grave erreur » ; Benyamin Nétanyahou évoque un « accord historique »]]
+- [[https://www.lemonde.fr/societe/article/2026/06/28/aide-a-mourir-a-l-assemblee-nationale-la-troisieme-lecture-de-la-proposition-de-loi-aboutit-a-un-texte-securise-selon-ses-partisans_6716520_3224.html][Aide à mourir : à l’Assemblée nationale, la troisième lecture de la proposition de loi aboutit à un texte « sécurisé », selon ses partisans]]
+- [[https://www.lemonde.fr/sport/live/2026/06/28/en-direct-algerie-autriche-suivez-le-match-de-la-derniere-journee-du-groupe-j-de-la-coupe-du-monde-de-football_6716475_3242.html][EN DIRECT, Algérie - Autriche : Riyad Mahrez donne l’avantage aux Fennecs et élimine l’Autriche du Mondial pour le moment]]
 - [[https://www.lemonde.fr/economie/article/2026/06/27/eric-treguier-createur-de-la-minute-riches-les-riches-ont-vraiment-cette-capacite-a-voir-les-choses-autrement-que-nous_6716395_3234.html][Eric Tréguier, créateur de La Minute Riches : « Les riches ont vraiment cette capacité à voir les choses autrement que nous »]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/sports/rugby/top-14/top-14-vainqueur-du-montpellier-dans-la-douleur-le-stade-toulousain-s-offre-un-quatrieme-titre-d-affilee-20260627][Top 14 : vainqueur de Montpellier dans la douleur, le Stade Toulousain s’offre un quatrième titre d’affilée]]
-- [[https://www.lefigaro.fr/sports/rugby/top-14/les-notes-de-toulouse-montpellier-mauvaka-inarretable-dupont-a-son-aise-vunipola-a-tout-tente-20260627][Les notes de Toulouse-Montpellier : Mauvaka inarrêtable, Dupont à son aise, Vunipola a tout tenté]]
-- [[https://www.lefigaro.fr/sports/rugby/live/top-14/2026/948373/toulouse-montpellier][EN DIRECT – Toulouse-Montpellier : les Rouge et Noir sacrés champions de France pour la quatrième fois consécutive, remise du Bouclier de Brennus au Stade de France]]
-- [[https://www.lefigaro.fr/sports/rugby/top-14/top-14-la-finale-brievement-interrompue-a-cause-des-orages-20260627][Top 14 : la finale brièvement interrompue à cause des orages]]
-- [[https://www.lefigaro.fr/international/c-est-une-info-qu-on-ne-trouvera-pas-en-chine-ces-zones-d-ombre-qui-entourent-le-crash-d-un-avion-de-tourisme-a-pekin-20260627][«C’est une info qu’on ne trouvera pas en Chine» : ces zones d’ombre qui entourent le crash d’un avion de tourisme à Pékin]]
+- [[https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-etats-unis-attaque-cargo-bases-americaines-detroit-ormuz-jd-vance-donald-trump-20260627][EN DIRECT - Guerre au Moyen-Orient : Trump affirme que l’Iran «cessera d’exister» si les États-Unis repartent en guerre]]
+- [[https://www.lefigaro.fr/flash-eco/les-risques-vont-des-mines-a-celui-de-se-retrouver-bloque-dans-le-golfe-ormuz-est-rouvert-mais-reste-sous-tension-20260626][«Les risques vont des mines à celui de se retrouver bloqué dans le Golfe» : Ormuz est rouvert mais reste sous tension]]
+- [[https://www.lefigaro.fr/international/entre-l-iran-et-les-etats-unis-un-projet-d-accord-mais-deux-realites-20260626][Entre l’Iran et les États-Unis, un projet d’accord mais deux réalités]]
+- [[https://www.lefigaro.fr/politique/jean-luc-melenchon-le-nouveau-trump-francais-les-habits-poutiniens-du-rn-gabriel-attal-denonce-le-pacte-nationalo-insoumis-en-vue-de-2027-20260627][Mélenchon le «nouveau Trump français», les «habits poutiniens» du RN... Gabriel Attal dénonce le «pacte nationalo-Insoumis» en vue de 2027]]
+- [[https://www.lefigaro.fr/meteo/en-direct-canicule-37-departements-toujours-en-vigilance-rouge-ce-samedi-20260627][EN DIRECT - Canicule : 24 départements en vigilance rouge dimanche, les effets sanitaires «restent devant nous», prévient Matignon]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss][Venezuela earthquakes kill 920 people as international rescue teams arrive]]
 - [[https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss]['Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes]]
+- [[https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss][In Caracas, this feels like the hardest moment in Venezuela's modern history]]
+- [[https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss][US and Iran exchange strikes and accuse each other of violating ceasefire]]
 - [[https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss][Israel strikes southern Lebanon as Hezbollah condemns new deal]]
-- [[https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss][Heatwave breaks records in Germany, Denmark and Czech Republic]]
-- [[https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss][Trump's face is added to select US passports for America's 250th birthday]]
+- [[https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss][Why Kim Jong Un never talks about his mother - or her controversial bloodline]]
 
 *** The Guardian
 
@@ -165,7 +165,11 @@
 
 *** Folha de S.Paulo
 
-- /Feed no disponible temporalmente/
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/com-gol-de-messi-argentina-bate-jordania-e-faz-segunda-melhor-campanha-da-copa.shtml][Com gol de Messi, Argentina bate Jordânia e faz segunda melhor campanha da Copa]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/estreantes-em-mata-mata-africa-do-sul-e-canada-se-enfrentam-por-vaga-nas-oitavas-da-copa.shtml][Estreantes em mata-mata, África do Sul e Canadá se enfrentam por vaga nas oitavas da Copa]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/musica/2026/06/marisa-monte-faz-show-em-festival-com-logo-de-bet-coberta.shtml][Marisa Monte faz show em festival com logo de bet coberta]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/06/no-centro-da-crise-do-rio-alerj-tem-sede-asseptica-recheada-de-escandalos-e-subcelebridades.shtml][No centro da crise do Rio, Alerj tem sede asséptica recheada de escândalos e subcelebridades]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/06/flavio-bolsonaro-se-ausentou-em-43-das-votacoes-nominais-do-senado-este-ano.shtml][Flávio Bolsonaro se ausentou em 43% das votações nominais do Senado este ano]]
 
 *** O Globo
 
