@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
-#+HTML: <div class='telemetry'>🌡 51.5°C | ⚖ Load: 0.00 | 🌐 Ping: 9.25ms</div>
+#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
+#+HTML: <div class='telemetry'>🌡 50.5°C | ⚖ Load: 0.00 | 🌐 Ping: 9.15ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -50,10 +50,10 @@
 *** El Mundo
 
 - [[https://www.elmundo.es/espana/2026/06/28/6a413101e9cf4a2c5b8b457d.html][Barrabés usó un elogio público de Sánchez a su empresa para presionar por los contratos bajo sospecha de Red.es]]
-- [[https://www.elmundo.es/espana/2026/06/27/6a3ffe1ce4d4d8023b8b4574.html][La difícil papeleta de Rufián y el desierto de la izquierda: "No va a irse de ERC, todo es humo"]]
-- [[https://www.elmundo.es/internacional/2026/06/27/6a3ad7a3fc6c83185a8b45ad.html][El 'general Algoritmo' que da la vuelta a la invasión de Ucrania]]
-- [[https://www.elmundo.es/internacional/2026/06/28/6a3e9957e9cf4a2f378b4599.html][Raúl Estévez, geofísico venezolano: "Desde finales del siglo pasado se advertía que el próximo gran terremoto sería en el occidente de Venezuela"]]
-- [[https://www.elmundo.es/internacional/2026/06/28/6a40ef2de4d4d8ae6a8b458a.html][Los rescates más impactantes tras los terremotos en Venezuela: una mujer atrapada 86 horas, un bebé, un niño de 11 años...]]
+- [[https://www.elmundo.es/espana/2026/06/29/6a4152c1fdddff83388b4577.html][El Congreso quiere disolverse y Sánchez no le deja]]
+- [[https://www.elmundo.es/cronica/2026/06/28/6a3eb81fe4d4d850628b459d.html][El misterioso viaje a Bolivia de Zapatero con Zurab, el georgiano que quería eternizarse en la OMT y cayó por un enredo de espías]]
+- [[https://www.elmundo.es/espana/2026/06/29/6a414b0fe85ece084d8b457b.html][La influencia de Zapatero en el Gobierno: citas con 11 ministros y 10 encuentros con Sánchez]]
+- [[https://www.elmundo.es/espana/2026/06/29/6a413277fdddff58578b4572.html][Pardo de Vera y el hermano de Koldo, los otros perjudicados de la sentencia del Supremo]]
 
 *** La Vanguardia
 
@@ -61,7 +61,7 @@
 - [[https://www.lavanguardia.com/internacional/20260628/11577120/abucheos-delcy-rodriguez-distritos-oposcion-afectados-doble-seismo.html][Venezuela vive con frustración la falta de recursos para rescatar a supervivientes]]
 - [[https://www.lavanguardia.com/economia/20260628/11577079/ola-calor-amenaza-recortar-7-economias-europeas.html][La ola de calor amenaza con recortar hasta un 7% las economías europeas]]
 - [[https://www.lavanguardia.com/economia/20260628/11577082/sindicatos-reclaman-ue-mas-proteccion-trabajo-sol.html][Los sindicatos reclaman a la UE más protección para el trabajo bajo el sol]]
-- [[https://www.lavanguardia.com/opinion/20260628/11577137/sanchez-feijoo-catalunya.html][Sánchez, Feijóo y Catalunya]]
+- [[https://www.lavanguardia.com/opinion/20260629/11577707/barcelona-arquitectos-cambio-climatico-vivienda-congreso.html][Barcelona y la capitalidad del desastre]]
 
 *** El Diario de Cantabria
 
@@ -81,35 +81,35 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/middle-east/iran-asserts-sole-control-of-hormuz-warns-challenges-will-bring-more-violence-5abea3c7][U.S. and Iran Agree to Stop Fight Over the Strait of Hormuz]]
 - [[https://www.wsj.com/world/europe/russians-feel-the-wars-hardships-as-ukraine-pummels-crimea-b59510f1][Russians Feel the War’s Hardships as Ukraine Pummels Crimea]]
-- [[https://www.wsj.com/world/middle-east/iran-asserts-sole-control-of-hormuz-warns-challenges-will-bring-more-violence-5abea3c7][Iran Asserts Sole Control of Hormuz, Warns Challenges Will Bring More Violence]]
+- [[https://www.wsj.com/world/americas/venezuela-earthquake-search-rescue-missing-806b52d1][Venezuela Is Desperately Searching for 50,000 Missing After Earthquakes]]
 - [[https://www.wsj.com/world/africa/south-african-vigilantes-chase-out-immigrants-with-knives-and-clubs-1a8b0712][South African Vigilantes Chase Out Immigrants With Knives and Clubs]]
 - [[https://www.wsj.com/world/middle-east/mideast-fighting-widens-with-attacks-on-bahrain-hormuz-tanker-30a313a8][U.S., Iran Carry Out New Strikes, Testing Fragile Ceasefire]]
-- [[https://www.wsj.com/world/europe/the-openness-that-powered-germanys-economy-is-now-its-biggest-weakness-33918619][The Openness That Powered Germany’s Economy Is Now Its Biggest Weakness]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/planete/live/2026/06/28/en-direct-canicule-de-la-chaleur-et-des-risques-d-orage-prevus-dans-l-est-et-le-sud-de-la-france-des-records-de-chaleur-a-plus-de-40-c-partout-en-europe_6710159_3244.html][EN DIRECT, canicule : de la chaleur et des risques d’orage prévus dans l’est et le sud de la France, des records de chaleur à plus de 40 °C partout en Europe]]
-- [[https://www.lemonde.fr/sport/live/2026/06/28/en-direct-afrique-du-sud-canada-suivez-le-seizieme-de-finale-de-la-coupe-du-monde-de-football_6716585_3242.html][Afrique du Sud-Canada : les Canucks s’imposent à l’arraché et rejoignent les 8ᵉˢ de finale de la Coupe du monde]]
+- [[https://www.lemonde.fr/sante/article/2026/06/29/canicule-les-premiers-bilans-revelent-une-surmortalite-et-notamment-une-hausse-des-deces-a-domicile_6716697_1651302.html][Canicule : les premiers bilans révèlent une surmortalité, et notamment une hausse des décès à domicile]]
+- [[https://www.lemonde.fr/societe/article/2026/06/29/gerald-darmanin-plus-seul-que-jamais-face-a-la-double-fronde-des-avocats-et-des-magistrats-et-en-difficulte-pour-faire-adopter-son-projet-de-loi_6716693_3224.html][Gérald Darmanin plus seul que jamais face à la double fronde des avocats et des magistrats, et en difficulté pour faire adopter son projet de loi]]
+- [[https://www.lemonde.fr/sport/article/2026/06/29/coupe-du-monde-2026-le-canada-premier-qualifie-pour-les-huitiemes-de-finale-apres-avoir-elimine-in-extremis-l-afrique-du-sud_6716594_3242.html][Coupe du monde 2026 : le Canada premier qualifié pour les huitièmes de finale après avoir éliminé in extremis l’Afrique du Sud]]
 - [[https://www.lemonde.fr/societe/article/2026/06/28/un-avion-civil-s-ecrase-en-meurthe-et-moselle-onze-morts_6716564_3224.html][Crash d’avion en Meurthe-et-Moselle : l’aéronef transportait un groupe pour un baptême de parachutisme, 11 personnes tuées]]
 - [[https://www.lemonde.fr/politique/article/2026/06/28/nouvelle-caledonie-entre-la-poussee-loyaliste-et-la-recomposition-des-independantistes-aucune-majorite-ne-se-degage-au-congres_6716590_823448.html][Nouvelle-Calédonie : entre la poussée loyaliste et la recomposition des indépendantistes, aucune majorité ne se dégage au congrès]]
-- [[https://www.lemonde.fr/international/visuel/2026/06/28/en-cartes-comment-la-pression-americaine-enferme-cuba-dans-l-impasse-economique_6716523_3210.html][En cartes : comment la pression américaine enferme Cuba dans l’impasse économique]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/actualite-france/canicule-pourquoi-le-bilan-sanitaire-va-encore-s-alourdir-20260628][Canicule : pourquoi le bilan sanitaire va encore s’alourdir]]
-- [[https://www.lefigaro.fr/politique/les-francais-attendent-des-solutions-concretes-de-lfi-au-rn-la-canicule-redistribue-les-cartes-politiques-20260628][« Les Français attendent des solutions concrètes » : de LFI au RN, la canicule redistribue les cartes politiques]]
-- [[https://www.lefigaro.fr/vox/histoire/du-moyen-age-aux-annees-1980-ces-canicules-qu-ont-connues-les-francais-au-fil-des-siecles-et-qu-on-a-oubliees-20260627][Du Moyen Âge aux années 1980, ces canicules qu’ont connues les Français au fil des siècles et qu’on a oubliées]]
 - [[https://www.lefigaro.fr/economie/ile-de-france-la-circulation-des-trains-sur-les-lignes-c-j-n-et-u-largement-reduite-20260628][Orages en Île-de-France : la circulation des trains sur les lignes C, J, N et U largement réduite]]
 - [[https://www.lefigaro.fr/politique/canicule-cellule-interministerielle-de-crise-lundi-pour-faire-le-bilan-et-preparer-la-suite-20260628][Canicule : cellule interministérielle de crise lundi pour faire le bilan et préparer la suite]]
+- [[https://www.lefigaro.fr/actualite-france/mortalite-en-periode-de-canicule-les-tensions-se-concentrent-sur-paris-ou-les-deux-funerariums-sont-complets-20260628][Canicule : « Les tensions se concentrent sur Paris, où les deux funérariums sont complets »]]
+- [[https://sante.lefigaro.fr/social/sante-publique/il-y-a-eu-un-vrai-elan-de-solidarite-comment-un-ehpad-francilien-a-du-composer-avec-une-panne-d-electricite-en-pleine-canicule-20260628][«Il y a eu un vrai élan de solidarité» : comment un Ehpad francilien a dû composer avec une panne d’électricité en pleine canicule]]
+- [[https://www.lefigaro.fr/actualite-france/canicule-pourquoi-le-bilan-sanitaire-va-encore-s-alourdir-20260628][Canicule : pourquoi le bilan sanitaire va encore s’alourdir]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss][Two boys rescued from Venezuela earthquake rubble after days of being trapped]]
+- [[https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss][Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend]]
 - [[https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss][In Caracas, this feels like the hardest moment in Venezuela's modern history]]
 - [[https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss][Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C]]
 - [[https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss][Eleven killed after plane carrying skydivers crashes in eastern France]]
@@ -163,11 +163,11 @@
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/micron-supera-us-1-trilhao-em-valor-diante-de-escassez-de-chips-para-ia.shtml][Micron supera US$ 1 trilhão em valor diante de escassez de chips para IA]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/06/e-menino-sabrina-sato-faz-cha-revelacao-e-descobre-o-sexo-do-seu-bebe.shtml][É menino: Sabrina Sato faz chá revelação e descobre o sexo do seu bebê]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/eustaquio-marca-no-fim-e-leva-canada-as-oitavas-da-copa-do-mundo-pela-1a-vez.shtml][Eustáquio marca no fim e leva Canadá às oitavas da Copa do Mundo pela 1ª vez]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/06/tecnoestresse-como-evitar-que-a-tecnologia-prejudique-nossa-saude.shtml]['Tecnoestresse': como evitar que a tecnologia prejudique nossa saúde]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/de-aluno-a-rival-na-copa-como-brasil-ajudou-japao-a-dar-um-salto-no-futebol.shtml][De aluno a rival na Copa: como Brasil ajudou Japão a dar um salto no futebol]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/para-aliviar-o-calor-estadio-onde-brasil-joga-na-copa-faz-torcedores-passarem-frio.shtml][Para aliviar o calor, estádio onde Brasil joga na Copa faz torcedores passarem frio]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/dados-mostram-como-joga-cada-craque-desta-copa-veja-analise-e-graficos.shtml][Dados mostram como joga cada craque desta Copa; veja análise e gráficos]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/reduzir-emissoes-de-metano-na-pecuaria-exige-produtividade-e-bem-estar-animal-diz-estudo.shtml][Reduzir emissões de metano na pecuária exige produtividade e bem-estar animal, diz estudo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/brasil-x-japao-muda-horario-de-inss-bancos-lojas-e-supermercados-veja-como-fica.shtml][Brasil x Japão muda horário de INSS, bancos, lojas e supermercados; veja como fica]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/bianca-santana/2026/06/visto-nao-autoriza-racismo.shtml][Visto não autoriza racismo]]
 
 *** O Globo
 
