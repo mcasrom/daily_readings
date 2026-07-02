@@ -1,9 +1,13 @@
 {
-  "timestamp": "2026-07-02T18:00:02.659427",
+  "timestamp": "2026-07-03T00:00:03.312778",
   "data": {
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada": [
       {
-        "title": "Moreno pacta su investidura con un acuerdo con Vox a cambio de la “prioridad nacional” y la entrada en el Gobierno",
+        "title": "España recupera la magia ante Austria",
+        "link": "https://elpais.com/deportes/mundial-futbol/2026-07-02/espana-recupera-la-magia-ante-austria.html"
+      },
+      {
+        "title": "Moreno cede y pacta un gobierno de coalición con Vox",
         "link": "https://elpais.com/espana/2026-07-02/pp-y-vox-confirman-el-acuerdo-para-la-investidura-de-moreno.html"
       },
       {
@@ -11,38 +15,34 @@
         "link": "https://elpais.com/espana/2026-07-02/el-juez-pedraz-imputa-a-la-directora-de-la-guardia-civil-y-a-su-numero-dos-en-el-caso-leire.html"
       },
       {
-        "title": "La Comunidad de Madrid aprueba, ahora sí, su ley del concebido no nacido",
-        "link": "https://elpais.com/espana/madrid/2026-07-02/ayuso-encara-el-ultimo-pleno-antes-de-verano-con-la-aprobacion-de-la-ley-del-concebido-no-nacido-y-la-ley-de-nietos-en-la-diana.html"
+        "title": "“Al amigo Feu, de Sorolla”: el cuadro perdido en Sevilla vuelve a casa entre incógnitas",
+        "link": "https://elpais.com/cultura/2026-07-02/al-amigo-fer-de-sorolla-el-cuadro-perdido-en-sevilla-vuelve-a-casa-entre-incognitas.html"
       },
       {
-        "title": "La justicia busca a Vito Quiles por un bulo contra un empleado público: dijo que Yolanda Díaz le había excarcelado y enchufado",
-        "link": "https://elpais.com/espana/madrid/2026-07-02/la-justicia-busca-a-vito-quiles-por-un-bulo-contra-un-funcionario-de-hacienda-al-que-presento-como-asesor-de-montero.html"
-      },
-      {
-        "title": "España y la memoria perdida del KO: busca contra Austria superar una eliminatoria de un Mundial por primera vez en 16 años",
-        "link": "https://elpais.com/deportes/mundial-futbol/2026-07-02/espana-y-la-memoria-perdida-del-ko-busca-contra-austria-superar-una-eliminatoria-de-un-mundial-por-primera-vez-en-16-anos.html"
+        "title": "La justicia obliga a Atresmedia a indemnizar a la socorrista del vídeo viral ‘La he liado parda’",
+        "link": "https://cincodias.elpais.com/companias/2026-07-02/la-justicia-obliga-a-atresmedia-a-indemnizar-a-la-socorrista-del-video-viral-la-he-liado-parda.html"
       }
     ],
     "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml": [
       {
-        "title": "El pacto andaluz: Juanma Moreno incorporará a un miembro de Vox al nuevo gobierno",
-        "link": "https://www.elmundo.es/andalucia/2026/07/02/6a464da1e4d4d885538b45b2.html"
+        "title": "Señoras y señores, España ya está aquí: pasa por encima de Austria con su fútbol de siempre y ya está en octavos",
+        "link": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/02/6a469fc221efa04f368b4599.html"
       },
       {
-        "title": "El juez imputa a la directora de la Guardia Civil y al DAO en el caso de las cloacas de Ferraz",
-        "link": "https://www.elmundo.es/espana/2026/07/02/6a462dc3fc6c831c528b4578.html"
+        "title": "España tiene un 'Batman' con Oyarzabal y el histórico Unai Simón como Robin: \"Los grandes equipos aparecen cuando se les necesita\"",
+        "link": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/02/6a46da9dfdddffb9278b456e.html"
+      },
+      {
+        "title": "Oyarzabal, el delantero invisible",
+        "link": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/02/6a46d538e4d4d806028b459d.html"
+      },
+      {
+        "title": "El pacto andaluz: Vox tendrá una vicepresidencia en el gobierno de Juanma Moreno, que ocupará Manuel Gavira",
+        "link": "https://www.elmundo.es/andalucia/2026/07/02/6a464da1e4d4d885538b45b2.html"
       },
       {
         "title": "Las claves de la imputación de Mercedes González: \"relación personal\" con la 'fontanera', expedientes \"intimidatorios\", información \"ocultada\" a la UCO y desmentidos al juez",
         "link": "https://www.elmundo.es/espana/2026/07/02/6a4649dafc6c83466f8b4586.html"
-      },
-      {
-        "title": "El contrato de venta de la sede de la Sepi evidencia el intento de repartirse 50 millones en comisiones",
-        "link": "https://www.elmundo.es/espana/2026/07/01/6a45578be9cf4a14578b457a.html"
-      },
-      {
-        "title": "Vito Quiles se niega a entregarse a la Policía: \"Javier Milei me ha ofrecido resguardarme en la embajada argentina si la situación se agrava\"",
-        "link": "https://www.elmundo.es/espana/2026/07/02/6a46725221efa03a0e8b459c.html"
       }
     ],
     "https://www.lavanguardia.com/rss/home.xml": [
@@ -69,27 +69,31 @@
     ],
     "https://eldiariocantabria.publico.es/rss/": [
       {
-        "title": "Feijóo sigue enrocándose en el peligro de nacionalizar inmigrantes y apunta ahora a “arbitrariedad” en el proceso",
-        "link": "https://eldiariocantabria.publico.es/articulo/espanha/feijoo-sigue-enrocandose-peligro-nacionalizar-inmigrantes-apunta-ahora-arbitrariedad-proceso/20260702174408195165.html"
+        "title": "Las Fiestas del Carmen de Revilla contarán con 72 peñas y ofrecerán más de 50 actividades",
+        "link": "https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/fiestas-carmen-revilla-contaran-72-penas-ofreceran-mas-50-actividades/20260702210345195181.html"
       },
       {
-        "title": "Platos típicos, materia prima de calidad y un entorno cálido y familiar, señas de identidad de El Roble",
-        "link": "https://eldiariocantabria.publico.es/articulo/mar-y-montana/platos-tipicos-materia-prima-calidad-entorno-calido-familiar-senas-identidad-roble/20260702173238195163.html"
+        "title": "Abre sus puertas el nuevo Centro de Día AFAC III Isla Verde para personas con Alzheimer y otras demencias",
+        "link": "https://eldiariocantabria.publico.es/articulo/torrelavega/abre-puertas-nuevo-centro-dia-afac-iii-isla-verde-personas-alzheimer-otras-demencias/20260702205601195179.html"
       },
       {
-        "title": "Gauguin, Goya y la pintura social, temas del ciclo ‘El arte en su contexto’ en el Doctor Madrazo",
-        "link": "https://eldiariocantabria.publico.es/articulo/cultura/gauguin-goya-pintura-social-temas-ciclo-arte-contexto-doctor-madrazo/20260702171905195161.html"
+        "title": "El PRC denuncia que la ciudad sigue sin plataforma de incidencias de escaleras mecánicas “tras un año de contrato”",
+        "link": "https://eldiariocantabria.publico.es/articulo/santander/prc-denuncia-que-ciudad-sigue-plataforma-incidencias-escaleras-mecanicas-ano-contrato/20260702204542195177.html"
       },
       {
-        "title": "Cómo equilibran los casinos online en España la protección del jugador y la rentabilidad",
-        "link": "https://eldiariocantabria.publico.es/articulo/comunicados/como-equilibran-casinos-online-espana-proteccion-jugador-rentabilidad/20260702171411195160.html"
+        "title": "Santander no cuenta con refugios climáticos ante olas de calor que pueden calentar el suelo hasta los 60 grados",
+        "link": "https://eldiariocantabria.publico.es/articulo/santander/santander-cuenta-refugios-climaticos-olas-calor-que-pueden-elevar-temperatura-suelo-60-grados/20260702203524195176.html"
       },
       {
-        "title": "La Burla y Quique González protagonizan la décima edición del Sound City",
-        "link": "https://eldiariocantabria.publico.es/articulo/cultura/burla-quique-gonzalez-protagonizan-decima-edicion-sound-city/20260702170333195158.html"
+        "title": "Revilla y Paula Fernández serán protagonistas en la XXXI Fiesta Regionalista en Cabezón de la Sal",
+        "link": "https://eldiariocantabria.publico.es/articulo/politica/revilla-paula-fernandez-seran-protagonistas-xxxi-fiesta-regionalista-cabezon-sal/20260702201349195175.html"
       }
     ],
     "https://feeds.washingtonpost.com/rss/world": [
+      {
+        "title": "Russia rocks Ukrainian capital with massive assault, killing at least 25",
+        "link": "https://www.washingtonpost.com/world/2026/07/02/russia-rocks-kyiv-with-massive-missile-drone-attack/"
+      },
       {
         "title": "Vatican excommunicates bishops of breakaway traditionalist sect",
         "link": "https://www.washingtonpost.com/world/2026/07/02/vatican-excommunicates-bishops-breakaway-traditionalist-sect/"
@@ -97,10 +101,6 @@
       {
         "title": "Trump-backed truce in Lebanon, key to Iran peace deal, risks new civil war",
         "link": "https://www.washingtonpost.com/world/2026/07/02/trump-backed-ceasefire-lebanon-key-iran-peace-deal-risks-new-civil-war/"
-      },
-      {
-        "title": "Russia rocks Ukrainian capital with massive assault, killing at least 17",
-        "link": "https://www.washingtonpost.com/world/2026/07/02/russia-rocks-kyiv-with-massive-missile-drone-attack/"
       },
       {
         "title": "After quakes trap Venezuelans, the government impedes rescuers and aid",
@@ -113,68 +113,68 @@
     ],
     "https://feeds.content.dowjones.io/public/rss/RSSWorldNews": [
       {
-        "title": "U.S. Dangles Rewards for Opening the Strait of Hormuz. Iran Isn’t Budging.",
-        "link": "https://www.wsj.com/world/middle-east/u-s-dangles-rewards-for-opening-the-strait-of-hormuz-iran-isnt-budging-07d99135"
+        "title": "How Machado’s Return to Venezuela Got Derailed After U.S. Resistance",
+        "link": "https://www.wsj.com/world/americas/how-machados-return-to-venezuela-got-derailed-after-u-s-resistance-dc5ef755"
       },
       {
-        "title": "What Germany’s Economic Overhaul Means for Its Economy",
-        "link": "https://www.wsj.com/world/europe/what-germanys-economic-overhaul-means-for-its-economy-6f84d715"
+        "title": "Vatican Declares Schism With Traditionalist Group",
+        "link": "https://www.wsj.com/world/europe/vatican-declares-schism-with-traditionalist-group-d60e4bc3"
       },
       {
-        "title": "Beijing Says Pilot Who Crashed Into Skyscraper Had Suicidal Thoughts",
-        "link": "https://www.wsj.com/world/china/beijing-says-pilot-who-crashed-into-skyscraper-had-suicidal-thoughts-920faa72"
-      },
-      {
-        "title": "Massive Russian Strikes Pound Ukraine’s Capital, Killing at Least 17",
+        "title": "Russia Pounds Ukraine’s Capital in One of War’s Largest Attacks",
         "link": "https://www.wsj.com/world/europe/russia-ukraine-strikes-kyiv-9f76c67d"
       },
       {
-        "title": "Europe Learns It’s Hard to Start a Trade War With China During a Heat Wave",
-        "link": "https://www.wsj.com/world/china/europe-learns-its-hard-to-start-a-trade-war-with-china-during-a-heat-wave-a2480fdd"
+        "title": "Trump Loyalty Demands Set Stage for Tense NATO Summit",
+        "link": "https://www.wsj.com/world/trump-loyalty-demands-set-stage-for-tense-nato-summit-51dd5a6e"
+      },
+      {
+        "title": "U.S. Dangles Rewards for Opening the Strait of Hormuz. Iran Isn’t Budging.",
+        "link": "https://www.wsj.com/world/middle-east/u-s-dangles-rewards-for-opening-the-strait-of-hormuz-iran-isnt-budging-07d99135"
       }
     ],
     "https://www.lemonde.fr/rss/une.xml": [
+      {
+        "title": "EN DIRECT, guerre en Ukraine : après la pire attaque russe de Kiev depuis le début du conflit, Volodymyr Zelensky promet une riposte",
+        "link": "https://www.lemonde.fr/international/live/2026/07/02/en-direct-guerre-en-ukraine-apres-la-pire-attaque-russe-sur-kiev-depuis-le-debut-du-conflit-volodymyr-zelensky-promet-une-riposte_6716525_3210.html"
+      },
+      {
+        "title": "Le point sur les incendies dans le sud de la France : d’importants dégâts à Canet-en-Roussillon, le feu dans l’Aude progresse toujours",
+        "link": "https://www.lemonde.fr/planete/article/2026/07/02/l-incendie-dans-l-aude-et-l-heraut-progresse-nouveau-depart-de-feu-vers-perpignan-sebastien-lecornu-a-marseille-le-point-sur-la-situation_6718190_3244.html"
+      },
+      {
+        "title": "Guillaume Erner sanctionné d’un avertissement à l’issue d’une saison ponctuée de polémiques sur France Culture",
+        "link": "https://www.lemonde.fr/economie/article/2026/07/02/france-culture-guillaume-erner-sanctionne-d-un-avertissement-a-l-issue-d-une-saison-ponctuee-de-polemiques_6718216_3234.html"
+      },
       {
         "title": "Daniela Amodei, présidente d’Anthropic : « Nous devons embrasser à la fois le côté positif et la part d’ombre de l’IA »",
         "link": "https://www.lemonde.fr/economie/article/2026/07/02/daniela-amodei-presidente-d-anthropic-nous-devons-embrasser-le-cote-positif-et-la-part-d-ombre-de-l-ia_6718196_3234.html"
       },
       {
-        "title": "EN DIRECT, guerre en Ukraine : Kiev répondra « assurément » à l’attaque russe meurtrière sur la capitale, promet Volodymyr Zelensky",
-        "link": "https://www.lemonde.fr/international/live/2026/07/02/en-direct-guerre-en-ukraine-l-attaque-massive-russe-sur-kiev-tue-17-personnes-plus-de-50-000-personnes-se-sont-refugiees-dans-le-metro-de-la-capitale-ukrainienne-dans-la-nuit_6716525_3210.html"
-      },
-      {
-        "title": "Le point sur les incendies dans le sud de la France : le feu dans l’Aude et l’Héraut progresse, un nouveau foyer signalé vers Perpignan",
-        "link": "https://www.lemonde.fr/planete/article/2026/07/02/l-incendie-dans-l-aude-et-l-heraut-progresse-nouveau-depart-de-feu-vers-perpignan-sebastien-lecornu-a-marseille-le-point-sur-la-situation_6718190_3244.html"
-      },
-      {
-        "title": "Le pape Léon XIV, en excommuniant des évêques intégristes, défend avec fermeté l’héritage du concile Vatican II",
-        "link": "https://www.lemonde.fr/international/article/2026/07/02/eglise-catholique-en-excommuniant-les-eveques-integristes-leon-xiv-defend-avec-fermete-l-heritage-du-concile-vatican-ii_6718034_3210.html"
-      },
-      {
-        "title": "Cristiano Ronaldo et les Etats-Unis, une relation tumultueuse entre accusation de viol et dîner à la Maison Blanche",
-        "link": "https://www.lemonde.fr/sport/article/2026/07/02/crisitiano-ronaldo-et-les-etats-unis-une-relation-tumultueuse-entre-accusation-de-viol-et-diner-a-la-maison-blanche_6718039_3242.html"
+        "title": "Espagne-Autriche : la Roja surclasse l’Autriche et signe sa première victoire dans un match à élimination directe dans un Mondial depuis 2010",
+        "link": "https://www.lemonde.fr/sport/live/2026/07/02/en-direct-espagne-autriche-suivez-le-seizieme-de-finale-de-la-coupe-du-monde-de-football_6718213_3242.html"
       }
     ],
     "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
       {
-        "title": "Météo : retour de la chaleur ce week-end, mais «aucun» département en «vigilance rouge», assure Sébastien Lecornu",
-        "link": "https://www.lefigaro.fr/actualite-france/meteo-retour-de-la-chaleur-ce-week-end-mais-aucun-departement-en-vigilance-rouge-assure-sebastien-lecornu-20260702"
+        "title": "EN DIRECT - Incendies : «Plus de 2000 sapeurs-pompiers» engagés, le ministre de l’Intérieur demain dans l’Aude",
+        "link": "https://www.lefigaro.fr/actualite-france/en-direct-aude-canet-en-roussillon-les-incendies-se-multiplient-dans-le-sud-de-la-france-20260702"
       },
       {
-        "title": "Canicule : le bilan des décès par noyade s’élève à «plus de 90» depuis le 19 juin, selon la ministre des Sports",
-        "link": "https://www.lefigaro.fr/actualite-france/canicule-le-bilan-des-deces-par-noyade-s-eleve-a-plus-de-90-depuis-le-19-juin-selon-la-ministre-des-sports-20260702"
+        "title": "Incendies : visualisez en carte les feux en cours dans le sud de la France",
+        "link": "https://www.lefigaro.fr/actualite-france/incendies-visualisez-en-carte-les-feux-en-cours-dans-le-sud-de-la-france-20260702"
       },
       {
-        "title": "Files d’attente, bousculades, bagarres... La vente de 200.000 climatiseurs et ventilateurs chez Lidl vire au chaos",
-        "link": "https://www.lefigaro.fr/conso/files-d-attente-bousculades-la-vente-de-200-000-climatiseurs-et-ventilateurs-chez-lidl-vire-au-chaos-20260702"
+        "title": "Incendie à Canet-en-Roussillon : 3000 personnes évacuées, un yacht en feu",
+        "link": "https://www.lefigaro.fr/actualite-france/incendie-a-canet-en-roussillon-3000-personnes-evacuees-un-yacht-en-feu-20260702"
       },
       {
-        "title": "« Alerte maximale » sur les baïnes, ces courants invisibles qui piègent les baigneurs",
-        "link": "https://www.lefigaro.fr/sciences/alerte-maximale-sur-les-baines-ces-courants-invisibles-qui-piegent-les-baigneurs-20260701"
+        "title": "« Tout le monde est à l’affût » : à Lançon-Provence, les pompiers sur le qui-vive face au risque de reprise du feu",
+        "link": "https://www.lefigaro.fr/marseille/tout-le-monde-est-a-l-affut-a-lancon-provence-les-pompiers-sur-le-qui-vive-face-au-risque-de-reprise-du-feu-20260702"
       },
       {
-        "title": "Faut-il vraiment craindre une nouvelle canicule dans les prochains jours ? La réponse d’un météorologue",
-        "link": "https://www.lefigaro.fr/actualite-france/faut-il-vraiment-craindre-une-nouvelle-canicule-dans-les-prochains-jours-la-reponse-d-un-meteorologue-20260701"
+        "title": "Présidentielle 2027 : le grand désarroi des Français profite au RN et à LFI",
+        "link": "https://www.lefigaro.fr/politique/presidentielle-2027-le-grand-desarroi-des-francais-profite-au-rn-et-a-lfi-20260702"
       }
     ],
     "https://feeds.bbci.co.uk/news/world/rss.xml": [
@@ -183,15 +183,15 @@
         "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'Most massive' Russian attack on Kyiv kills at least 20",
+        "title": "'Most massive' Russian attack on Kyiv kills at least 27",
         "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
-        "link": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss"
+        "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+        "link": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Vatican excommunicates hundreds of thousands of splinter sect followers",
+        "title": "Vatican excommunicates followers of global Catholic sect",
         "link": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -245,6 +245,14 @@
     ],
     "https://www.ilsole24ore.com/rss/italia.xml": [
       {
+        "title": "Telemarketing aggressivo per l’energia, le associazioni dei consumatori chiedono l’intervento Arera e Agcm",
+        "link": "https://www.ilsole24ore.com/art/telemarketing-aggressivo-l-energia-associazioni-consumatori-chiedono-l-intervento-arera-e-agcm-AIKkbZvD"
+      },
+      {
+        "title": "Meloni: «Detassazione rinnovi contrattuali sarà confermata nella prossima manovra»",
+        "link": "https://www.ilsole24ore.com/art/meloni-congresso-uil-salario-giusto-vittoria-lavoratori-e-nazione-AI65c9yD"
+      },
+      {
         "title": "Censis: boom delle fragilità ma per gli over 65 italiani si diventa anziani a 76,7 anni",
         "link": "https://www.ilsole24ore.com/art/censis-boom-fragilita-ma-gli-over-65-italiani-si-diventa-anziani-767-anni-AIQsBhxD"
       },
@@ -255,14 +263,6 @@
       {
         "title": "Pa e servizi pubblici: stop alle  richieste ripetute di dati a cittadini e imprese",
         "link": "https://www.ilsole24ore.com/art/pa-e-servizi-pubblici-stop-richieste-ripetute-dati-cittadini-e-imprese-AIYxv0yD"
-      },
-      {
-        "title": "Gli arretrati dei magistrati costano un miliardo: nuova incognita sulla manovra",
-        "link": "https://www.ilsole24ore.com/art/gli-arretrati-magistrati-costano-miliardo-nuova-incognita-manovra-AI5CWNyD"
-      },
-      {
-        "title": "Con il MIRA lo Stretto di Messina diventa laboratorio culturale del Mediterraneo. Giuli: «Non è solo un museo ma un progetto di crescita»",
-        "link": "https://www.ilsole24ore.com/art/con-mira-stretto-messina-diventa-laboratorio-culturale-mediterraneo-giuli-non-e-solo-museo-ma-progetto-crescita-AI7X9syD"
       }
     ],
     "https://www.spiegel.de/international/index.rss": [
@@ -301,8 +301,8 @@
         "link": "https://www.dw.com/en/turkish-comedian-deniz-goktas-detained-at-istanbul-airport/a-77801569?maca=en-rss-en-world-4025-rdf"
       },
       {
-        "title": "Vatican excommunicates rebel SSPX bishops",
-        "link": "https://www.dw.com/en/vatican-excommunicates-rebel-sspx-bishops/a-77798543?maca=en-rss-en-world-4025-rdf"
+        "title": "Vatican excommunicates rebel SSPX bishops, followers",
+        "link": "https://www.dw.com/en/vatican-excommunicates-rebel-sspx-bishops-followers/a-77798543?maca=en-rss-en-world-4025-rdf"
       },
       {
         "title": "Thailand: Child crashes vehicle into group of monks",
@@ -311,24 +311,24 @@
     ],
     "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml": [
       {
-        "title": "Brasileiros usam 'As Branquelas' para provocar Haaland antes de duelo contra Vini Jr.",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/07/brasileiros-usam-as-branquelas-para-provocar-haaland-antes-de-duelo-contra-vini-jr.shtml"
+        "title": "Renan Calheiros aciona TRE-AL para barrar divulgação de pesquisa ao Senado",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/renan-calheiros-aciona-tre-al-para-barrar-divulgacao-de-pesquisa-ao-senado.shtml"
       },
       {
-        "title": "Após folga, seleção volta a treinar sem Rayan e à espera de Raphinha",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/07/apos-folga-selecao-volta-a-treinar-sem-rayan-e-a-espera-de-raphinha.shtml"
+        "title": "Quem é Aroldo Medina, pré-candidato a vice-presidente na chapa de Renan Santos",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/07/quem-e-aroldo-medina-pre-candidato-a-vice-presidente-na-chapa-de-renan-santos.shtml"
       },
       {
-        "title": "Faustão faz rara aparição na Globo e homenagea Ronnie Von: 'Um cara do bem'",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/07/faustao-faz-rara-aparicao-na-globo-e-homenagea-ronnie-von-um-cara-do-bem.shtml"
+        "title": "Bratwurst é lanche alemão popular em estádios e festas",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/nacao-churrasqueira/2026/07/bratwurst-e-lanche-alemao-popular-em-estadios-e-festas.shtml"
       },
       {
-        "title": "Governo começa a retirar subsídio à gasolina na próxima semana, diz Fazenda",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/governo-comeca-a-retirar-subsidio-a-gasolina-na-proxima-semana-diz-fazenda.shtml"
+        "title": "Bar do Biu: o assassinato de um boteco em Pinheiros",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/cozinha-bruta/2026/07/bar-do-biu-o-assassinato-de-um-boteco-em-pinheiros.shtml"
       },
       {
-        "title": "Pedido de falência da Dolly mostra implicações de decisão do STJ",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/07/pedido-de-falencia-da-dolly-mostra-implicacoes-de-decisao-do-stj.shtml"
+        "title": "Novo plano do governo prevê R$ 2,8 tri para petróleo e gás, 7 vezes mais do que para energia renovável",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/novo-plano-do-governo-preve-r-28-tri-para-petroleo-e-gas-7-vezes-mais-do-que-para-energia-renovavel.shtml"
       }
     ],
     "https://oglobo.globo.com/rss.xml": []
