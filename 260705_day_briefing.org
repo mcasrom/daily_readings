@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 51.5°C | ⚖ Load: 0.00 | 🌐 Ping: 9.23ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 51.5°C | ⚖ Load: 0.00 | 🌐 Ping: 9.41ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,81 +41,81 @@
 
 *** El País
 
-- [[https://elpais.com/sociedad/lgtb/2026-07-04/el-orgullo-planta-cara-en-madrid-al-auge-de-la-extrema-derecha-nuestros-derechos-no-se-negocian.html][El Orgullo planta cara en Madrid al auge de la extrema derecha: “Nuestros derechos no se negocian”]]
-- [[https://elpais.com/opinion/2026-07-04/el-orgullo-de-la-libertad.html][El orgullo de la libertad]]
-- [[https://elpais.com/sociedad/lgtb/2026-07-04/mi-primera-vez-en-el-orgullo-es-un-sueno-que-nunca-pense-que-fuera-a-cumplir.html][Mi primera vez en el Orgullo: “Es un sueño que nunca pensé que fuera a cumplir”]]
-- [[https://elpais.com/internacional/2026-07-04/iran-hace-una-exhibicion-de-fuerza-ante-estados-unidos-con-un-funeral-masivo-para-ali-jamenei.html][Irán hace una exhibición de fuerza ante Estados Unidos con un funeral masivo por Ali Jameneí]]
-- [[https://elpais.com/internacional/2026-07-04/esperando-a-mojtaba.html][Esperando a Mojtaba]]
+- [[https://elpais.com/espana/2026-07-05/robles-pese-a-lo-que-diga-trump-los-mandos-de-la-otan-saben-que-espana-esta-cumpliendo.html][Robles: “Pese a lo que diga Trump, los mandos de la OTAN saben que España está cumpliendo”]]
+- [[https://elpais.com/internacional/2026-07-05/el-mundo-se-precipita-a-una-peligrosa-espiral-de-gasto-militar.html][El mundo se precipita a una peligrosa espiral de gasto militar]]
+- [[https://elpais.com/internacional/2026-07-05/diplomatico-o-sirviente-de-trump-la-estrategia-de-rutte-para-salvar-la-otan.html][¿Diplomático o sirviente de Trump? La estrategia de Rutte para salvar la OTAN]]
+- [[https://elpais.com/sociedad/2026-07-05/la-manada-diez-anos-de-la-respuesta-contra-la-violencia-sexual-que-cambio-espana.html][Diez años de La Manada: la respuesta contra la violencia sexual que cambió España]]
+- [[https://elpais.com/sociedad/2026-07-05/que-ha-ocurrido-con-la-manada-diez-anos-despues.html][Qué ha ocurrido con La Manada diez años después]]
 
 *** El Mundo
 
 - [[https://www.elmundo.es/espana/2026/07/04/6a49389921efa0d0538b45b4.html][Sánchez ya suma 126 imputados en los casos que le rodean y que se extienden por todos los niveles del Estado]]
-- [[https://www.elmundo.es/espana/2026/07/05/6a493c10e4d4d8090f8b4583.html][PP y Vox cambian a la fuerza: Feijóo admite que no puede solo y Abascal abraza la institucionalidad]]
+- [[https://www.elmundo.es/andalucia/2026/07/05/6a4a06b4e4d4d8f91a8b4571.html][Juanma Moreno trata de minimizar el efecto de su pacto con Vox: "Los valores no cambian, la vía andaluza sigue vigente"]]
 - [[https://www.elmundo.es/economia/vivienda/2026/07/05/6a47b555fc6c83e90a8b4592.html][El Gobierno evita tocar la Ley del Suelo en el nuevo paquete de vivienda a pesar de que Bruselas lo considera imprescindible]]
-- [[https://www.elmundo.es/cataluna/2026/07/05/6a495bc5fdddff71458b457b.html][El plan de los Mossos d'Esquadra para frenar el crimen organizado: más agentes en la calle y en el servicio de investigación]]
-- [[https://www.elmundo.es/economia/2026/07/04/6a4539b5e85ece65038b4593.html][Nika, la experta con siete años de experiencia en marketing que vivió un año en paro: "Es ilógico trabajar 40 horas y no poder pagar ni un móvil"]]
+- [[https://www.elmundo.es/internacional/2026/07/05/6a4a05b3e85ece200f8b4575.html][Trump se dirige al país en el 250 aniversario de Estados Unidos: "Nadie puede ser como nosotros"]]
+- [[https://www.elmundo.es/internacional/2026/07/05/6a47ff23e4d4d8f26c8b45a5.html][La revuelta de los 'hijos' de "papi" Trump]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/local/catalunya/20260704/11584538/incendio-gavarres-fase-estabilizacion-baix-emporda.html][El incendio de las Gavarres podría entrar en fase de estabilización en las próximas horas]]
-- [[https://www.lavanguardia.com/local/girona/20260704/11584278/incendio-forestal-bisbal-emporda-fuego-gavarres-confinamiento-carreteras-cortadas-ultima-hora-hoy-en-directo.html][El incendio de Les Gavarres, en directo | Última hora: controlar el flanco izquierdo, la “obsesión” para los Bombers]]
-- [[https://www.lavanguardia.com/local/girona/20260704/11584318/vecinos-calonge-temieron-incendio-quemara-casas-noche-hemos-pegado-ojo.html][“No tengo ni casa ni recuerdos”]]
-- [[https://www.lavanguardia.com/local/catalunya/20260704/11584435/incendio-gavarres-milagro-restaurante-iglesia-fitor.html][El incendio de las Gavarres y el milagro de Fitor]]
-- [[https://www.lavanguardia.com/local/barcelona/20260704/11584513/fraternidad-vientre-llamas.html][Fraternidad en el vientre de las llamas]]
+- [[https://www.lavanguardia.com/politica/20260705/11584509/psoe-retrocede-lentamente-populares-vox-rozan-200-escanos.html][El PSOE retrocede mientras el PP y Vox rozan los 200 diputados]]
+- [[https://www.lavanguardia.com/politica/20260705/11584497/veredicto-margenes-sobre-reloj-electoral.html][El veredicto de los márgenes sobre el reloj electoral]]
+- [[https://www.lavanguardia.com/opinion/20260705/11584608/vox-da-tanto-miedo.html][Vox ya no da tanto miedo]]
+- [[https://www.lavanguardia.com/politica/20260705/11584502/vox-salta-barrera.html][Vox salta la barrera]]
+- [[https://www.lavanguardia.com/politica/20260705/11584607/inmigrantes-latinos-votan-mas-derecha.html][Los inmigrantes latinos votan más a la derecha]]
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/asi-sera-tiempo-cantabria-domingo-sol-cielos-despejados-temperaturas-ascenso/20260704214753195269.html][Así será el tiempo en Cantabria este domingo: sol, cielos despejados y temperaturas en ascenso]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/rescatado-senderista-traumatismo-craneoencefalico-herida-abierta-picos-europa/20260704212845195268.html][Rescatado un senderista con traumatismo craneoencefálico y herida abierta en Picos de Europa]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/cuatro-rutas-montana-que-convierten-cantabria-paraiso-viajar-moto/20260704210515195264.html][Estas son las 4 rutas en moto perfectas para recorrer las montañas de Cantabria este verano]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/proponen-cerrar-minizoo-magdalena-convertirlo-piscinas-naturales/20260704203017195263.html][Proponen cerrar el minizoo de La Magdalena para convertirlo en unas piscinas naturales]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/accidente-anzuelo-doble-moviliza-bomberos-laredo/20260704193652195261.html][Un accidente de pesca moviliza a los bomberos en Laredo tras clavarse un anzuelo doble]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/tres-heridos-arma-blanca-detenido-pelea-fiestas-cueto-santander/20260705115207195278.html][Tres heridos por arma blanca y un detenido tras una pelea en las fiestas de Cueto de Santander]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/condenado-seis-meses-prision-colarse-chalet-noja-romper-ventana/20260705112817195276.html][Condenado a seis meses de prisión por colarse en un chalet de Noja tras romper una ventana]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/frio-calor-cantabria-valderredible-entre-puntos-mas-frios-espana-castro-supera-23-grados/20260705111737195275.html][Del calor al frío en Cantabria: Valderredible, entre los puntos más fríos de España, y Castro supera los 23 grados]]
+- [[https://eldiariocantabria.publico.es/articulo/comunicados/afe-upv-formacion-lider-espana-asesoria-financiera/20260705110755195274.html][AFE-UPV: Formación líder en España en Asesoría Financiera]]
+- [[https://eldiariocantabria.publico.es/articulo/comunicados/que-tus-hijos-deben-estudiar-usa/20260705104511195272.html][Por que tus hijos deben estudiar en USA]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/07/03/trump-attendance-nato-summit-will-highlight-turkeys-new-prominence/][Turkey sees its status in NATO rise, thanks to its weapons factories and Trump]]
 - [[https://www.washingtonpost.com/world/2026/07/04/putin-visits-military-installation-vowing-take-more-ukraine/][Putin visits military installation, vowing to take more of Ukraine]]
 - [[https://www.washingtonpost.com/world/2026/07/04/tehran-huge-throngs-mourn-assassinated-supreme-leader-ali-khamenei/][In Tehran, huge throngs mourn assassinated supreme leader Ali Khamenei]]
 - [[https://www.washingtonpost.com/world/2026/07/04/lampedusa-island-gateway-europe-pope-leo-calls-protecting-migrants/][On July Fourth, Pope Leo urges U.S. to welcome, protect and assist immigrants]]
 - [[https://www.washingtonpost.com/world/2026/07/03/iran-begins-funeral-rites-ali-khamenei-supreme-leader-killed-war/][Iran’s leader was killed in February. The country will finally bury him.]]
-- [[https://www.washingtonpost.com/world/2026/07/04/low-budget-box-office-hit-dear-you-beijing-sees-chance-court-diaspora/][In a hit low-budget film, Beijing sees a way to court Chinese communities abroad]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/nato-is-fixing-its-cash-flow-problem-now-it-needs-to-turn-money-into-munitions-1440bd35][NATO Is Fixing Its Cash Flow Problem. Now It Needs to Turn Money Into Munitions.]]
+- [[https://www.wsj.com/world/china/china-releases-imprisoned-pastor-ezra-jin-after-u-s-pressure-340d6d08][China Releases Imprisoned Pastor Ezra Jin After U.S. Pressure]]
 - [[https://www.wsj.com/world/china/xi-jinping-leadership-tactics-china-318b3413][How Xi Jinping Steamrolls Dissent With Tactics From Stalin and Mao]]
 - [[https://www.wsj.com/world/americas/cubas-vast-surveillance-network-preserves-the-communist-partys-grip-on-power-8d4fa499][Cuba’s Vast Surveillance Network Preserves the Communist Party’s Grip on Power]]
 - [[https://www.wsj.com/world/cryptocurrency-sanctions-evasion-d02b60f1][How Rogue Nations Are Using Cryptocurrencies to Evade Sanctions]]
-- [[https://www.wsj.com/world/middle-east/iran-supreme-leader-khamenei-funeral-7e1ad603][Massive Crowds Gather in Tehran for Khamenei’s Six-Day Funeral]]
-- [[https://www.wsj.com/world/with-trump-in-his-corner-erdogan-gets-an-easier-ride-from-nato-partners-9049142b][With Trump in His Corner, Erdogan Gets an Easier Ride From NATO Partners]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
 - [[https://www.lemonde.fr/sport/article/2026/07/05/coupe-du-monde-2026-a-l-issue-d-un-france-paraguay-dans-le-cambouis-les-bleus-arrachent-leur-qualification-pour-les-quarts-de-finale_6720814_3242.html][Coupe du monde 2026 : à l’issue d’un France-Paraguay « dans le cambouis », les Bleus arrachent leur qualification pour les quarts de finale]]
-- [[https://www.lemonde.fr/international/live/2026/07/05/en-direct-4-juillet-et-250-ans-des-etats-unis-le-national-mall-a-washington-evacue-en-raison-d-un-risque-d-orages-le-discours-de-donald-trump-reporte-sine-die_6720679_3210.html][EN DIRECT, 4-Juillet et 250 ans des Etats-Unis : Donald Trump fustige les « communistes » lors de son discours de célébration de l’indépendance des Etats-Unis]]
-- [[https://www.lemonde.fr/societe/article/2026/07/04/il-faut-qu-il-y-ait-un-sursaut-dans-le-cortege-parisien-de-lutte-contre-les-violences-sexuelles-l-urgence-d-un-changement_6720710_3224.html][« Il faut qu’il y ait un sursaut » : dans le cortège parisien de lutte contre les violences sexuelles, l’urgence d’un changement]]
-- [[https://www.lemonde.fr/politique/article/2026/07/04/marine-le-pen-et-jordan-bardella-affichent-leur-unite-a-lievin-avant-la-decision-dans-l-affaire-des-assistants-d-eurodeputes-du-fn_6720708_823448.html][Marine Le Pen et Jordan Bardella affichent leur unité à Liévin, avant la décision dans l’affaire des assistants d’eurodéputés du FN]]
-- [[https://www.lemonde.fr/planete/article/2026/07/04/canicule-sept-departements-en-vigilance-orange-dimanche-meteo-france-s-attend-a-un-debut-de-juillet-moins-intense-qu-en-juin_6720451_3245.html][Canicule : sept départements en vigilance orange dimanche ; Météo-France s’attend à un début du mois de juillet moins intense qu’en juin]]
+- [[https://www.lemonde.fr/planete/article/2026/07/05/incendies-pres-de-1-000-hectares-brules-dans-les-pyrenees-orientales-300-hectares-dans-la-drome_6720713_3245.html][Incendies : près de 1 000 hectares brûlés dans les Pyrénées-Orientales, 300 hectares dans la Drôme]]
+- [[https://www.lemonde.fr/international/article/2026/07/05/250-ans-des-etats-unis-donald-trump-vante-l-amerique-et-fustige-les-communistes-au-terme-d-une-celebration-chaotique_6720833_3210.html][250 ans des Etats-Unis : Donald Trump vante l’Amérique et fustige les « communistes » au terme d’une célébration chaotique]]
+- [[https://www.lemonde.fr/politique/article/2026/07/05/presidentielle-2027-edouard-philippe-et-la-tentation-de-former-une-ump-2-0-autour-de-lui_6720829_823448.html][Présidentielle 2027 : Edouard Philippe et la tentation de former une « UMP 2.0 » autour de lui]]
+- [[https://www.lemonde.fr/les-decodeurs/article/2026/07/05/piscines-publiques-visualisez-les-inegalites-d-acces-sur-le-territoire-francais_6720851_4355770.html][Piscines publiques : visualisez les inégalités d’accès sur le territoire français]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/en-direct-250-ans-de-l-independance-des-etats-unis-trump-se-pose-en-defenseur-d-une-identite-americaine-menacee-20260704][EN DIRECT - 250 ans de l’indépendance des États-Unis : après un retard dû à une tempête, Trump prend la parole devant la foule]]
-- [[https://www.lefigaro.fr/international/250-ans-de-l-independance-des-etats-unis-donald-trump-souhaite-un-billet-de-banque-a-son-effigie-mais-il-y-a-un-hic-20260704][250 ans de l’indépendance des États-Unis : Donald Trump souhaite un billet de banque à son effigie... Mais il y a un hic !]]
-- [[https://www.lefigaro.fr/histoire/250-ans-des-etats-unis-comment-la-france-a-permis-l-independance-americaine-20260703][250 ans des États-Unis : comment la France a permis l’indépendance américaine]]
-- [[https://www.lefigaro.fr/international/le-president-est-suivi-en-permanence-dans-les-coulisses-de-la-maison-blanche-temple-de-la-plus-vieille-democratie-du-monde-20260704][« Le président est suivi en permanence » : dans les coulisses de la Maison-Blanche, temple de la plus vieille démocratie du monde]]
-- [[https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-au-terme-d-un-match-tres-rugueux-les-bleus-ecartent-le-paraguay-pour-rejoindre-les-quarts-de-finale-20260705][Coupe du monde 2026 : les Bleus tracent leur route et évitent le piège paraguayen]]
+- [[https://www.lefigaro.fr/nice/bataillon-monaco-yachts-bentley-et-shopping-de-luxe-la-vie-de-ces-sulfureux-oligarques-ukrainiens-refugies-sur-la-cote-d-azur-20260705][«Bataillon Monaco» : yachts, Bentley et shopping de luxe, la vie de ces sulfureux oligarques ukrainiens réfugiés sur la Côte d’Azur]]
+- [[https://www.lefigaro.fr/sports/football/coupe-du-monde/football-antisportif-jeu-physique-et-brusque-moyens-grossiers-la-presse-internationale-etrille-la-selection-paraguayenne-20260705][«Football antisportif», jeu «physique et brusque», comportements «grossiers» : la presse internationale étrille la sélection paraguayenne]]
+- [[https://www.lefigaro.fr/sports/football/coupe-du-monde/paraguay-france-qui-est-ilgiz-tantashev-l-arbitre-qui-a-fait-enrager-les-bleus-20260705][Paraguay-France : qui est Ilgiz Tantashev, l’arbitre qui a fait enrager les Bleus ?]]
+- [[https://www.lefigaro.fr/sports/football/coupe-du-monde/paraguay-france-en-video-quand-kylian-mbappe-s-excuse-envers-une-supportrice-paraguayenne-apres-lui-avoir-tire-dans-la-tete-20260705][Paraguay-France : en images, quand Kylian Mbappé s’excuse envers une supportrice paraguayenne après lui avoir tiré dans la tête]]
+- [[https://www.lefigaro.fr/sports/football/coupe-du-monde/paraguay-france-maturite-et-sang-froid-equipe-en-mission-l-analyse-de-julien-stephan-fils-de-guy-apres-la-qualification-des-bleus-20260705][Paraguay-France : «Maturité et sang-froid», «équipe en mission»... L’analyse de Julien Stéphan (fils de Guy) après la qualification des Bleus]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss][Brutal heat cancels Fourth of July events, from DC to Philadelphia]]
+- [[https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss][US marks 250th birthday with fireworks, flyovers and extreme weather]]
 - [[https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss][Ukraine hits major oil terminal in Russia's St Petersburg]]
-- [[https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss][Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral]]
+- [[https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss][Evacuations in Guam as super typhoon Bavi approaches]]
+- [[https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss][Chinese underground church figure Jin Mingri freed from prison]]
 - [[https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss][Former chess champion Kramnik banned over cheating remarks]]
-- [[https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss][Injury ends Williams' Wimbledon comeback]]
 
 *** The Guardian
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
+- [[https://www.ilsole24ore.com/art/la-ministra-roccella-facebook-ringrazia-l-affetto-ricevuto-AIA5lR1D][La ministra Roccella su Facebook ringrazia per l’affetto ricevuto]]
+- [[https://www.ilsole24ore.com/art/colf-e-badanti-2021-persi-173mila-lavoratori-regola-AIOmmSuD][Colf e badanti, dal 2021 persi 173mila lavoratori in regola]]
+- [[https://www.ilsole24ore.com/art/pnrr-e-corsa-contro-tempo-regioni-e-comuni-completare-opere-AIQ7iC1D][Pnrr, è corsa contro il tempo in Regioni e Comuni per completare le opere]]
 - [[https://www.ilsole24ore.com/art/fentanyl-ispezioni-all-ospedale-israelitico-roma-rischio-registri-non-aggiornati-AIt36B1D][Fentanyl: ispezioni all’ospedale Israelitico a Roma, il rischio dei registri non aggiornati]]
 - [[https://www.ilsole24ore.com/art/vendite-online-abbigliamento-italia-virtuosa-resi-maglia-nera-germania-AIqfSb0D][Vendite online di abbigliamento, Italia virtuosa nei resi maglia nera alla Germania]]
-- [[https://www.ilsole24ore.com/art/concerto-ultimo-l-imponente-macchina-organizzativa-palcoscenico-record-e-34-torri-alte-33-metri-AIa6a80D][Concerto di Ultimo, un palcoscenico da record e 34 torri alte 33 metri]]
-- [[https://www.ilsole24ore.com/art/papa-leone-lampedusa-il-mondo-oggi-e-domani-sia-piu-umano-tutti-AIdV4w0D][Papa Leone a Lampedusa: «Migranti, Europa chiamata a responsabilità epocale»]]
-- [[https://www.ilsole24ore.com/art/non-solo-lefebvriani-pronto-altro-strappo-il-papa-redentoristi-transalpini-AIaa2r0D][Non solo lefebvriani, pronto un altro strappo con il Papa dai Redentoristi Transalpini]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/trump-set-to-put-nato-unity-to-the-test-at-turkey-summit/a-77824515?maca=en-rss-en-world-4025-rdf][Trump set to put NATO unity to the test at Turkey summit]]
+- [[https://www.dw.com/en/albania-pm-rama-protests-a-stage-for-anti-trump-forces/a-77833383?maca=en-rss-en-world-4025-rdf][Albania PM Rama: Protests a stage for anti-Trump forces]]
 - [[https://www.dw.com/en/the-moral-test-us-founding-father-thomas-jefferson-failed/a-77833752?maca=en-rss-en-world-4025-rdf][The moral test US founding father Thomas Jefferson failed?]]
 - [[https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-world-4025-rdf][Ukraine strikes oil terminals near St. Petersburg in Russia]]
-- [[https://www.dw.com/en/trump-set-to-put-nato-unity-to-the-test-at-turkey-summit/a-77824515?maca=en-rss-en-world-4025-rdf][Trump set to put NATO unity to the test at Turkey summit]]
 - [[https://www.dw.com/en/kielce-pogrom-in-poland-80th-anniversary-of-1946-massacre/a-77826002?maca=en-rss-en-world-4025-rdf][Kielce pogrom in Poland: 80th anniversary of 1946 massacre]]
-- [[https://www.dw.com/en/us-president-trump-pardons-11-people-including-clean-air-act-violators/a-77829438?maca=en-rss-en-world-4025-rdf][US: President Trump pardons 11 people, including Clean Air Act violators]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/estudo-aponta-falhas-em-estimativas-de-riscos-fiscais-usadas-pelo-governo.shtml][Estudo aponta falhas em estimativas de riscos fiscais usadas pelo governo]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/cinema/2026/07/ccsp-tem-sessoes-gratis-e-ao-ar-livre-de-up-altas-aventuras-e-me-chame-pelo-seu-nome.shtml][CCSP tem sessões grátis e ao ar livre de 'Up: Altas Aventuras' e 'Me Chame Pelo Seu Nome']]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/07/inglaterra-esta-pronta-para-escrever-seu-proprio-capitulo-em-partida-iconica-da-copa-diz-tecnico-thomas-tuchel.shtml][Inglaterra está pronta para escrever seu próprio capítulo em partida icônica da Copa, diz técnico Thomas Tuchel]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/07/datafolha-avaliacao-positiva-do-governo-tarcisio-segue-em-45.shtml][Datafolha: Avaliação positiva do governo Tarcísio segue em 45%]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/07/datafolha-tarcisio-lidera-em-sp-com-46-e-haddad-tem-30.shtml][Datafolha: Tarcísio lidera em SP com 46%, e Haddad tem 30%]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/07/morre-marcelly-malta-pioneira-na-defesa-de-travestis-no-rs.shtml][Morre Marcelly Malta, pioneira na defesa de travestis no RS]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/07/derrotadas-na-copa-do-mundo-equipes-enfrentam-abusos-e-violencia.shtml][Derrotadas na Copa do Mundo, equipes enfrentam abusos e violência]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/07/primeiros-americanos-se-especializaram-em-cacar-os-grandes-mamiferos-da-era-do-gelo.shtml][Primeiros americanos se especializaram em caçar os grandes mamíferos da Era do Gelo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/bichos/2026/07/looks-para-os-jogos-e-cuidadora-brasileira-conheca-duck-cachorro-que-e-o-xodo-de-rayan.shtml][Looks para os jogos e cuidadora brasileira: conheça Duck, cachorro que é o xodó de Rayan]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/07/biologos-encontram-antidepressivo-no-cerebro-de-tubaroes-no-litoral-do-rj.shtml][Biólogos encontram antidepressivo no cérebro de tubarões no litoral do RJ]]
 
 *** O Globo
 
