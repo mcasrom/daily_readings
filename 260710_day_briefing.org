@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 52.6°C | ⚖ Load: 0.00 | 🌐 Ping: 19.9ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 52.1°C | ⚖ Load: 0.00 | 🌐 Ping: 9.47ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,27 +41,27 @@
 
 *** El País
 
+- [[https://elpais.com/espana/2026-07-09/mas-de-200-bomberos-luchan-contra-dos-incendios-en-almeria-y-malaga.html][Mueren al menos 12 personas en el incendio de Los Gallardos, en Almería]]
 - [[https://elpais.com/internacional/2026-07-09/que-ocurrio-en-la-cumbre-de-la-otan-en-ankara-para-que-trump-pasase-de-insultar-a-hablar-de-amor-agasajos-intervenciones-breves-y-detalle-de-gastos-militares.html][Qué pasó en la cumbre de la OTAN de Ankara: los cinco minutos que cambiaron el humor de Trump]]
 - [[https://elpais.com/internacional/2026-07-09/los-lideres-de-la-otan-no-saben-que-hacer-con-el-regalo-de-erdogan-un-revolver-con-sus-balas.html][Los líderes de la OTAN no saben qué hacer con el regalo de Erdogan: un revólver con sus balas]]
-- [[https://elpais.com/deportes/mundial-futbol/2026-07-09/francia-marruecos-en-directo-el-partido-de-los-cuartos-del-mundial-en-vivo.html][Francia - Marruecos: Mundial 2026, en directo | Dembélé amplía la ventaja gala en Boston]]
-- [[https://elpais.com/deportes/mundial-futbol/2026-07-06/que-dicen-los-datos-de-espana-consulte-las-estadisticas-avanzadas-del-mundial-partido-a-partido.html][¿Qué selecciones han sido las mejores? Consulte sus datos partido a partido]]
-- [[https://elpais.com/espana/2026-07-09/la-uco-implica-al-expresidente-de-correos-en-la-trama-para-desestabilizar-causas-que-salpicaban-al-psoe-y-al-gobierno.html][La UCO implica al expresidente de Correos en la trama para “desestabilizar” causas que salpicaban al PSOE y al Gobierno]]
+- [[https://elpais.com/deportes/mundial-futbol/2026-07-09/francia-saca-el-rodillo-y-el-pincel-ante-marruecos-y-ya-esta-en-semifinales-del-mundial.html][Francia saca el rodillo y el pincel ante Marruecos y ya está en semifinales del Mundial]]
+- [[https://elpais.com/deportes/mundial-futbol/2026-07-09/francia-sale-a-la-calle-para-celebrar-la-victoria-contra-marruecos.html][Francia sale a la calle para celebrar la victoria contra Marruecos]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/07/09/6a4f7062e85ece3a608b4584.html][La UCO implica al ex jefe de Gabinete de Sánchez Juanma Serrano en las operaciones de la 'fontanera' para desactivar las causas contra el presidente: "Estando tú ahí estoy tranquila"]]
-- [[https://www.elmundo.es/economia/2026/07/09/6a4eed93fdddff91748b456f.html][Trump cambia el tono por sorpresa en el avión de vuelta: "Hoy España dio marcha atrás por completo, fue muy generosa"]]
-- [[https://www.elmundo.es/internacional/2026/07/09/6a4f90e9fc6c8315338b45b3.html][Erdogan regaló una pistola con 6 balas a los líderes de la OTAN: la de Sánchez la custodia Interior para inutilizarla y almacenarla]]
-- [[https://www.elmundo.es/espana/2026/07/09/6a4f8acafc6c83204c8b4581.html][Lastra recurre ante el Supremo el ajuste de cuentas de Peramato para no mantenerla como fiscal superior de Madrid]]
-- [[https://www.elmundo.es/andalucia/2026/07/09/6a4f4a9be4d4d8400f8b45b1.html][Juanma Moreno nombra un gobierno de continuidad, pensado para contrarrestar el peso de Vox y en el que sale reforzado Antonio Sanz]]
+- [[https://www.elmundo.es/espana/2026/07/09/6a4ffeabfc6c83160a8b459a.html][España firmó contratos millonarios en la OTAN para calmar a Trump]]
+- [[https://www.elmundo.es/economia/macroeconomia/2026/07/09/6a4fc449fdddff4c2f8b45a0.html][El Gobierno 'pacifista' que dispara el gasto en armas: ya son un tercio del presupuesto de Defensa y 8.000 millones más al año que el último Gobierno del PP]]
+- [[https://www.elmundo.es/internacional/2026/07/09/6a4fd10ce85ecec5078b4588.html][La licencia para fabricar misiles Patriot no salvará a Ucrania este año, pero puede cambiar la guerra]]
+- [[https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/09/6a4f4f1521efa001428b459e.html][Lamine Yamal: "Si no estuviera en el Mundial, estaría sentado en un banco de mi barrio con mis amigos, pensando qué iba a ser de mí"]]
+- [[https://www.elmundo.es/espana/2026/07/09/6a4f7cbae85ece0b668b45b8.html][Serrano financió 270.000 euros a la trama socialista con dinero público de Correos y 'enchufó' a Leire Díez mediante un amaño]]
 
 *** La Vanguardia
 
+- [[https://www.lavanguardia.com/dinero/20260709/11588519/volkswagen-fabricas-modelos-empleo-recorte.html][Volkswagen reducirá hasta un 50% su gama de modelos y recortará producción en las fábricas]]
+- [[https://www.lavanguardia.com/local/andalucia/20260710/11588570/mueren-seis-personas-incendio-forestal-gallardos.html][Mueren seis personas en el incendio forestal de Los Gallardos]]
 - [[https://www.lavanguardia.com/politica/20260709/11587990/trump-da-nuevo-bandazo-elogia-espana-acceder-importante-solicitud-pago-otan.html][Trump elogia ahora a España tras un pago “importante” a la OTAN: “Se ha redimido”]]
-- [[https://www.lavanguardia.com/politica/20260709/11588191/gobierno-asume-tono-formas-trump-reitera-cumple-compromisos.html][El Gobierno asume “el tono y las formas” de Trump y reitera: “España cumple sus compromisos”]]
-- [[https://www.lavanguardia.com/internacional/20260709/11588216/regalo-sorpresa-erdogan-lideres-otan-revolver-personalizado-municion-real.html][El regalo sorpresa de Erdogan a los líderes de la OTAN: un revólver personalizado con munición real]]
-- [[https://www.lavanguardia.com/politica/20260709/11588121/alianca-consolida-sorpasso-junts-empieza-problema-vox-ceo.html][Aliança consolida el 'sorpasso' a Junts y empieza a ser un problema para Vox, según el CEO]]
-- [[https://www.lavanguardia.com/politica/20260709/11587741/batalla-moral-derecha-e-izquierda.html][La batalla moral entre derecha e izquierda]]
+- [[https://www.lavanguardia.com/politica/20260709/11588340/sexto-destructor-estados-unidos-base-rota-llegara-mes-setiembre.html][EE.UU. ampliará su presencia en España con la llegada del sexto destructor a Rota]]
+- [[https://www.lavanguardia.com/politica/20260709/11588121/alianca-consolida-sorpasso-junts-empieza-problema-vox-ceo.html][Aliança consolida el 'sorpasso' a Junts y empieza a ser un problema para Vox]]
 
 *** El Diario de Cantabria
 
@@ -83,10 +83,10 @@
 
 *** WSJ.com: World News
 
-- [[https://www.wsj.com/world/middle-east/iran-hatched-fresh-plot-to-kill-trump-israel-told-u-s-1511d9d2][Iran Hatched Fresh Plot to Kill Trump, Israel Told U.S.]]
-- [[https://www.wsj.com/world/five-takeaways-from-the-wsjs-behind-the-scenes-reporting-on-europes-crisis-with-the-u-s-a7b916a1][Five Takeaways From WSJ’s Exclusive Reporting on Europe’s Rupture With the U.S.]]
-- [[https://www.wsj.com/world/middle-east/these-americans-built-dream-homes-in-lebanon-then-israel-invaded-9c89bd0c][These Americans Built Dream Homes in Lebanon. Then Israel Invaded.]]
-- [[https://www.wsj.com/world/india/the-jailed-mob-boss-the-u-s-is-linking-to-a-canada-hit-job-a8d8a82a][The Jailed Mob Boss the U.S. Is Linking to a Canada Hit Job]]
+- [[https://www.wsj.com/world/asia/kim-jong-uns-summer-project-renovating-his-mansions-250b6ffc][Kim Jong Un’s Summer Project: Renovating His Mansions]]
+- [[https://www.wsj.com/world/ukraines-drones-are-now-reaching-siberia-and-imperiling-russian-energy-assets-e0d2caa7][Ukraine’s Drones Are Now Reaching Siberia and Imperiling Russian Energy Assets]]
+- [[https://www.wsj.com/world/middle-east/trump-wanted-20-000-peacekeeping-troops-in-gaza-he-is-starting-with-10-to-20-cf0ab958][Trump Wanted 20,000 Peacekeeping Troops in Gaza. He Is Starting With 10 to 20.]]
+- [[https://www.wsj.com/world/americas/how-venezuelan-bureaucracy-thwarted-an-american-earthquake-rescue-squad-6a175a3f][How Venezuelan Bureaucracy Thwarted an American Earthquake Rescue Squad]]
 - [[https://www.wsj.com/world/middle-east/iran-deal-strait-of-hormuz-b027c30f][The Fight Over Hormuz Boils Down to One Poorly Worded Clause in Trump’s Deal]]
 
 ** 🇫🇷 Francia
@@ -101,21 +101,21 @@
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/sports/football/live/coupe-du-monde/2025/2608355/france-maroc][EN DIRECT - France-Maroc : les Marocains tentent le tout pour le tout, mais les Bleus en contrôle]]
-- [[https://www.lefigaro.fr/sports/football/coupe-du-monde/france-maroc-en-video-le-penalty-rate-par-mbappe-qui-manque-l-occasion-d-ouvrir-le-score-en-quart-de-finale-20260709][France-Maroc : en vidéo, les buts de Mbappé et Dembélé qui libèrent les Bleus en 6 minutes]]
-- [[https://www.lefigaro.fr/sports/football/coupe-du-monde/en-direct-coupe-du-monde-2026-les-bleus-lancent-les-quarts-face-au-maroc-la-senatrice-paraguayenne-s-en-prend-encore-a-mbappe-20260709][EN DIRECT - Coupe du monde 2026 : le soulagement des supporters des Bleus, l’Angleterre diminuée contre la Norvège, les Portugais «frustrés» par leur élimination]]
 - [[https://www.lefigaro.fr/international/du-vietnam-a-l-iran-pourquoi-l-amerique-n-arrive-plus-a-gagner-ses-guerres-20260709][Du Vietnam à l’Iran, pourquoi l’Amérique n’arrive plus à gagner ses guerres]]
-- [[https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-etats-unis-armee-americaine-frappe-detroit-ormuz-koweit-bahrein-donald-trump-20260709][EN DIRECT - Guerre au Moyen-Orient : Trump a informé Netanyahou des «derniers mouvements» américains dans le Golfe]]
+- [[https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-les-bleus-ecartent-le-maroc-direction-les-demi-finales-20260710][Coupe du monde 2026 : les Bleus dévorent le Maroc pour rejoindre les demi-finales]]
+- [[https://www.lefigaro.fr/flash-sport/les-notes-des-bleus-contre-le-maroc-mbappe-dembele-et-doue-au-rendez-vous-pas-olise-20260710][Les notes des Bleus contre le Maroc : Mbappé, Dembélé et Doué au rendez-vous, pas Olise]]
+- [[https://www.lefigaro.fr/sports/football/coupe-du-monde/il-ne-faut-pas-banaliser-mais-ne-pas-se-voir-tout-la-haut-deschamps-heureux-mais-deja-tourne-vers-la-demi-finale-de-coupe-du-monde-20260710][«On est en mission pour tous les Français»: les vérités de Deschamps après France-Maroc]]
+- [[https://www.lefigaro.fr/sports/football/coupe-du-monde/france-maroc-ce-sont-des-moments-qui-marquent-les-bleus-aux-anges-mais-pas-rassasies-20260710][France-Maroc : «Ce sont des moments qui marquent», les Bleus aux anges mais pas rassasiés]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss][Tehran launches more strikes after explosions reported in southern Iran]]
-- [[https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss][Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes]]
-- [[https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss][Democrat Graham Platner suspends campaign for key US Senate race after assault allegation]]
+- [[https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss][US and Iran trade attacks as Khamenei is buried]]
+- [[https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss][Twelve die in wildfire in Spain as heatwave continues in southern Europe]]
 - [[https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss][Ukrainian agent accused of murdering Monaco bomb suspect changes story]]
 - [[https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss][Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike]]
+- [[https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss][Chip giant SK Hynix raises $26.5bn in mega US share sale]]
 
 *** The Guardian
 
@@ -165,11 +165,11 @@
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/07/sydney-sweeney-como-lenda-do-boxe-o-que-ver-na-tv-e-no-streaming-nesta-sexta-feira.shtml][Sydney Sweeney como lenda do boxe: o que ver na TV e no streaming nesta sexta-feira]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/07/policia-do-rio-busca-suspeito-de-estupro-coletivo-no-rio.shtml][Polícia do Rio busca suspeito de estupro coletivo no Rio]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/07/tribunais-negam-ao-stf-irregularidade-em-supersalarios-e-citam-pagamento-de-ferias-e-aposentadorias.shtml][Tribunais negam ao STF irregularidade em supersalários e citam pagamento de férias e aposentadorias]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2026/07/quem-manda-no-esporte-brasileiro.shtml][Quem manda no esporte brasileiro?]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/quem-e-arminio-fraga-ex-presidente-do-bc-escolhido-para-forca-tarefa-do-fed.shtml][Quem é Arminio Fraga, ex-presidente do BC escolhido para força-tarefa do Fed]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/07/ministerio-publico-processa-virginia-fonseca-e-blaze-e-pede-r-120-milhoes.shtml][Ministério Público processa Virginia Fonseca e Blaze e pede R$ 120 milhões]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/07/noruegues-haaland-comenta-vitoria-sobre-o-brasil-na-copa-nao-parece-real.shtml][Norueguês Haaland comenta vitória sobre o Brasil na Copa: 'Não parece real']]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/07/mbappe-culpa-arbitro-por-primeiro-penalti-perdido-em-copas-do-mundo.shtml][Mbappé culpa árbitro por primeiro pênalti perdido em Copas do Mundo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lucianacoelho/2026/07/eu-vou-te-encontrar-entretem-mas-decepciona-com-formulas-batidas.shtml]['Eu Vou te Encontrar' entretém, mas decepciona com fórmulas batidas]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/07/remanescentes-de-badalada-geracao-belga-desafiam-espanha-renovada-nas-quartas-da-copa.shtml][Remanescentes de badalada geração belga desafiam Espanha renovada nas quartas da Copa]]
 
 *** O Globo
 
