@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
-#+HTML: <div class='telemetry'>🌡 52.1°C | ⚖ Load: 0.00 | 🌐 Ping: 9.47ms</div>
+#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
+#+HTML: <div class='telemetry'>🌡 53.2°C | ⚖ Load: 0.00 | 🌐 Ping: 9.65ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,19 +41,19 @@
 
 *** El País
 
-- [[https://elpais.com/espana/2026-07-09/mas-de-200-bomberos-luchan-contra-dos-incendios-en-almeria-y-malaga.html][Mueren al menos 12 personas en el incendio de Los Gallardos, en Almería]]
-- [[https://elpais.com/internacional/2026-07-09/que-ocurrio-en-la-cumbre-de-la-otan-en-ankara-para-que-trump-pasase-de-insultar-a-hablar-de-amor-agasajos-intervenciones-breves-y-detalle-de-gastos-militares.html][Qué pasó en la cumbre de la OTAN de Ankara: los cinco minutos que cambiaron el humor de Trump]]
-- [[https://elpais.com/internacional/2026-07-09/los-lideres-de-la-otan-no-saben-que-hacer-con-el-regalo-de-erdogan-un-revolver-con-sus-balas.html][Los líderes de la OTAN no saben qué hacer con el regalo de Erdogan: un revólver con sus balas]]
-- [[https://elpais.com/deportes/mundial-futbol/2026-07-09/francia-saca-el-rodillo-y-el-pincel-ante-marruecos-y-ya-esta-en-semifinales-del-mundial.html][Francia saca el rodillo y el pincel ante Marruecos y ya está en semifinales del Mundial]]
-- [[https://elpais.com/deportes/mundial-futbol/2026-07-09/francia-sale-a-la-calle-para-celebrar-la-victoria-contra-marruecos.html][Francia sale a la calle para celebrar la victoria contra Marruecos]]
+- [[https://elpais.com/espana/2026-07-10/ultimas-noticias-del-incendio-forestal-de-los-gallardos-almeria-en-directo.html][Últimas noticias del incendio forestal de Los Gallardos (Almería), en directo | Al menos 11 muertos y 19 desaparecidos en el incendio más trágico registrado en Andalucía]]
+- [[https://elpais.com/espana/2026-07-10/la-guardia-civil-investiga-la-caida-de-un-cable-como-desencadenante-del-incendio-en-los-gallardos.html][La Guardia Civil investiga la caída de un cable eléctrico como desencadenante del incendio en Los Gallardos]]
+- [[https://elpais.com/espana/2026-07-10/al-menos-12-muertos-en-el-incendio-de-los-gallardos-almeria-el-mas-mortifero-de-la-historia-de-andalucia.html][Al menos 11 muertos en el incendio de Los Gallardos (Almería), el más mortífero de la historia de Andalucía]]
+- [[https://elpais.com/espana/2026-07-10/los-incendios-forestales-mas-letales-en-espana-de-los-21-fallecidos-en-lloret-del-mar-a-los-11-bomberos-de-guadalajara.html][Los incendios forestales más letales en España: de los 21 fallecidos en Lloret del Mar a los 11 bomberos de Guadalajara]]
+- [[https://elpais.com/videos/2026-07-10/las-imagenes-del-incendio-forestal-de-los-gallardos-almeria.html][Las imágenes del incendio forestal de Los Gallardos (Almería)]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/07/09/6a4ffeabfc6c83160a8b459a.html][España firmó contratos millonarios en la OTAN para calmar a Trump]]
-- [[https://www.elmundo.es/economia/macroeconomia/2026/07/09/6a4fc449fdddff4c2f8b45a0.html][El Gobierno 'pacifista' que dispara el gasto en armas: ya son un tercio del presupuesto de Defensa y 8.000 millones más al año que el último Gobierno del PP]]
-- [[https://www.elmundo.es/internacional/2026/07/09/6a4fd10ce85ecec5078b4588.html][La licencia para fabricar misiles Patriot no salvará a Ucrania este año, pero puede cambiar la guerra]]
+- [[https://www.elmundo.es/andalucia/2026/07/10/6a50257afdddffc3588b45c9.html][Al menos once personas mueren en el incendio forestal de Los Gallardos (Almería) al tratar de huir de las llamas]]
+- [[https://www.elmundo.es/andalucia/2026/07/10/6a50964ae9cf4a98178b4574.html][Las víctimas del incendio de Los Gallardos, la mayoría británicos y belgas, trataron de escapar por una rambla que se convirtió en una "verdadera trampa"]]
+- [[https://www.elmundo.es/espana/2026/07/10/6a50c053e4d4d803088b458e.html][Pedro Sánchez habla con Juanma Moreno y le ofrece toda la cooperación posible contra el incendio de Los Gallardos: "Lo que necesitéis"]]
+- [[https://www.elmundo.es/andalucia/2026/07/10/6a50aede21efa0b56f8b45a6.html][El arte de la guerra contra los incendios 5.0: datos, predicciones y el secreto de Sun Tzu]]
 - [[https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/09/6a4f4f1521efa001428b459e.html][Lamine Yamal: "Si no estuviera en el Mundial, estaría sentado en un banco de mi barrio con mis amigos, pensando qué iba a ser de mí"]]
-- [[https://www.elmundo.es/espana/2026/07/09/6a4f7cbae85ece0b668b45b8.html][Serrano financió 270.000 euros a la trama socialista con dinero público de Correos y 'enchufó' a Leire Díez mediante un amaño]]
 
 *** La Vanguardia
 
@@ -65,11 +65,11 @@
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/torrelavega/denuncian-plaga-descontrolada-ratas-barreda-familias-que-tienen-miedo-abrir-ventanas/20260710115417195522.html][Alertan de una "plaga descontrolada" de ratas en Barreda: "Hay familias que tienen miedo de abrir las ventanas"]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/tormentas-granizo-viento-ponen-alerta-liebana-viernes/20260710111327195519.html][Tormentas, granizo y fuertes rachas de viento ponen en alerta amarilla a Liébana]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/alertan-que-cantabria-puede-perder-dos-especies-mas-emblematicas/20260710104538195518.html][Alertan de que Cantabria puede perder dos de sus especies más emblemáticas: "Se encuentran en una situación prácticamente de extinción"]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/luz-verde-definitiva-ampliacion-aguayo-boc-publica-autorizacion-proyecto-720-millones/20260710102910195517.html][Luz verde definitiva a la ampliación de la central hidroeléctrica de Aguayo: el BOC publica la autorización del proyecto de 720 millones de euros]]
 - [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/concluye-renovacion-red-abastecimiento-agua-barrio-ladredo/20260709213118195515.html][Concluye la renovación de la red de abastecimiento de agua en el barrio de Ladredo]]
-- [[https://eldiariocantabria.publico.es/articulo/torrelavega/ayuntamiento-denuncia-subida-57-dos-anos-coste-gestion-residuos-impuesto-gobierno/20260709212240195513.html][El Ayuntamiento denuncia una subida del 57 % en dos años del coste de la gestión de residuos “impuesto” por el Gobierno]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/prc-reclama-mejoras-accesibilidad-iluminacion-limpieza-barrio-san-martin/20260709205631195511.html][El PRC reclama mejoras en accesibilidad, iluminación y limpieza para el barrio de San Martín]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/vecinos-denuncian-mal-estado-cables-electricos-falta-responsabilidad-ayuntamiento-derrumbe-edificio-albericia-hace-mas-ano-medio/20260709203822195509.html][Vecinos denuncian el “mal estado” de los cables eléctricos y la falta de responsabilidad del Ayuntamiento tras el derrumbe del edificio de La Albericia hace más de un año y medio]]
-- [[https://eldiariocantabria.publico.es/articulo/educacion/psoe-rechaza-nuevo-recorte-deterioro-desmantelamiento-publico-pp-educacion/20260709194931195506.html][El PSOE rechaza el “nuevo recorte, deterioro y desmantelamiento de lo público” del PP en Educación]]
 
 ** 🇺🇸 Estados Unidos
 
@@ -93,37 +93,37 @@
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/politique/article/2026/07/09/il-a-la-vie-devant-lui-apres-un-an-a-penser-a-l-elysee-jordan-bardella-ramene-a-sa-condition-de-numero-deux_6722025_823448.html][« Il a la vie devant lui » : après un an à penser à l’Elysée, Jordan Bardella ramené à sa condition de numéro deux]]
-- [[https://www.lemonde.fr/international/article/2026/07/09/au-sommet-de-l-otan-donald-trump-alterne-menaces-et-effusions-rassure-ses-allies-et-apporte-un-nouveau-soutien-a-l-ukraine_6722015_3210.html][Au sommet de l’OTAN, Donald Trump alterne menaces et effusions, rassure ses alliés et apporte un nouveau soutien à l’Ukraine]]
-- [[https://www.lemonde.fr/planete/article/2026/07/09/le-haut-conseil-pour-le-climat-alerte-sur-l-urgence-de-changer-d-echelle-dans-les-politiques-climatiques_6722027_3244.html][Le Haut Conseil pour le climat alerte sur l’urgence de « changer d’échelle » dans les politiques climatiques]]
-- [[https://www.lemonde.fr/international/article/2026/07/09/entre-l-iran-et-les-etats-unis-la-reprise-des-hostilites-illustre-la-grande-defiance-de-teheran-vis-a-vis-des-negociations_6722010_3210.html][Entre l’Iran et les Etats-Unis, la reprise des hostilités illustre la grande défiance de Téhéran vis-à-vis des négociations]]
-- [[https://www.lemonde.fr/international/article/2026/07/09/aux-etats-unis-la-chute-du-democrate-gerald-platner-menace-d-empecher-le-parti-d-emporter-le-congres_6722026_3210.html][Aux Etats-Unis, la chute du démocrate Graham Platner menace d’empêcher le parti d’emporter le Sénat]]
+- [[https://www.lemonde.fr/sport/article/2026/07/10/france-maroc-les-bleus-qualifies-pour-le-dernier-carre-de-la-coupe-du-monde-grace-a-leur-attaque-de-feu_6722350_3242.html][France-Maroc : grâce à leur attaque de feu, les Bleus qualifiés pour le dernier carré de la Coupe du monde]]
+- [[https://www.lemonde.fr/planete/live/2026/07/10/en-direct-canicule-les-tres-fortes-chaleurs-persistent-et-s-etendront-encore-samedi-avec-24-departements-en-vigilance-rouge_6720911_3244.html][EN DIRECT, canicule : les très fortes chaleurs persistent et s’étendront encore samedi, avec 24 départements en vigilance rouge, dont l’Ile-de-France]]
+- [[https://www.lemonde.fr/international/article/2026/07/10/detroit-d-ormuz-donald-trump-face-au-risque-d-une-guerre-sporadique-contre-l-iran_6722401_3210.html][Détroit d’Ormuz : Donald Trump face au risque d’une guerre sporadique contre l’Iran]]
+- [[https://www.lemonde.fr/politique/article/2026/07/10/retraites-les-experts-du-comite-de-suivi-preconisent-de-brider-les-pensions-pour-sortir-d-une-situation-alarmante_6722403_823448.html][Retraites : les experts du Comité de suivi préconisent de brider les pensions pour sortir d’une situation « alarmante »]]
+- [[https://www.lemonde.fr/culture/article/2026/07/10/la-tapisserie-de-bayeux-est-arrivee-au-british-museum-a-londres-pour-un-pret-historique_6722399_3246.html][La tapisserie de Bayeux est arrivée au British Museum, à Londres, pour un prêt historique]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/du-vietnam-a-l-iran-pourquoi-l-amerique-n-arrive-plus-a-gagner-ses-guerres-20260709][Du Vietnam à l’Iran, pourquoi l’Amérique n’arrive plus à gagner ses guerres]]
-- [[https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-les-bleus-ecartent-le-maroc-direction-les-demi-finales-20260710][Coupe du monde 2026 : les Bleus dévorent le Maroc pour rejoindre les demi-finales]]
-- [[https://www.lefigaro.fr/flash-sport/les-notes-des-bleus-contre-le-maroc-mbappe-dembele-et-doue-au-rendez-vous-pas-olise-20260710][Les notes des Bleus contre le Maroc : Mbappé, Dembélé et Doué au rendez-vous, pas Olise]]
-- [[https://www.lefigaro.fr/sports/football/coupe-du-monde/il-ne-faut-pas-banaliser-mais-ne-pas-se-voir-tout-la-haut-deschamps-heureux-mais-deja-tourne-vers-la-demi-finale-de-coupe-du-monde-20260710][«On est en mission pour tous les Français»: les vérités de Deschamps après France-Maroc]]
-- [[https://www.lefigaro.fr/sports/football/coupe-du-monde/france-maroc-ce-sont-des-moments-qui-marquent-les-bleus-aux-anges-mais-pas-rassasies-20260710][France-Maroc : «Ce sont des moments qui marquent», les Bleus aux anges mais pas rassasiés]]
+- [[https://www.lefigaro.fr/meteo/en-direct-chaleur-canicule-france-meteo-temperatures-vigilance-orages-20260710][EN DIRECT - Troisième canicule : la SNCF ne prévoit aucune annulation des 3700 TGV qui circuleront ce week-end de grands départs]]
+- [[https://www.lefigaro.fr/sciences/canicule-le-gouvernement-active-un-nouveau-plan-orsec-chaleurs-extremes-20260710][Canicule : le gouvernement active un nouveau plan «Orsec chaleurs extrêmes»]]
+- [[https://www.lefigaro.fr/actualite-france/feux-de-foret-six-departements-en-vigilance-rouge-ce-vendredi-20260703][Feux de forêt : un département en vigilance rouge ce vendredi]]
+- [[https://www.lefigaro.fr/actualite-france/pollution-a-l-ozone-restrictions-de-circulation-vendredi-en-ile-de-france-20260709][Pollution à l’ozone : restrictions de circulation vendredi en Île-de-France]]
+- [[https://www.lefigaro.fr/politique/melenchon-a-reussi-a-faire-monter-une-generation-cette-campagne-orchestre-sur-laquelle-mise-lfi-pour-conquerir-l-elysee-20260710][«Mélenchon a réussi à faire monter une génération»: cette «campagne orchestre» sur laquelle mise LFI pour conquérir l’Élysée]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss][US and Iran trade attacks as Khamenei is buried]]
-- [[https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss][Twelve die in wildfire in Spain as heatwave continues in southern Europe]]
+- [[https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss][Huge crowds in Mashhad as Iran's late supreme leader is buried]]
 - [[https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss][Ukrainian agent accused of murdering Monaco bomb suspect changes story]]
 - [[https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss][Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike]]
+- [[https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss][China lands reusable rocket for first time, state media says]]
 - [[https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss][Chip giant SK Hynix raises $26.5bn in mega US share sale]]
 
 *** The Guardian
 
+- [[https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco][Developing countries spend more repaying foreign debt than on education, UN reveals]]
 - [[https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm][Furore in Nigeria over fake federal agency set up in government HQ]]
 - [[https://www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey][LGBTQ+ cruise ship refused entry to Egypt days after Turkey turned it away]]
 - [[https://www.theguardian.com/environment/2026/jul/09/species-ingenious-survival-strategies-no-match-human-destruction-red-list][Species’ ingenious survival strategies no match for human destruction, red list reveals]]
 - [[https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds][Catnip lotion as effective as Deet at repelling mosquitoes, study finds]]
-- [[https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola][What will define Elon Musk’s legacy? Doge cuts to USAID Ebola programs]]
 
 ** 🇮🇹 Italia
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/gramegna-mes-con-ripresa-tensioni-iran-possibile-inflazione-5percento-AJUz0UE][Gramegna (Mes): «Con ripresa tensioni in Iran possibile inflazione al 5%»]]
-- [[https://www.ilsole24ore.com/art/incendio-brt-procura-indaga-omicidio-doloso-AJkNASE][Brt, la procura indaga per incendio doloso]]
-- [[https://www.ilsole24ore.com/art/dai-contratti-viaggi-all-estero-cosa-si-potra-fare-la-carta-d-identita-cartacea-prorogata-AJENxp][Dai contratti ai viaggi all’estero:  cosa si potrà fare con la Carta d’identità cartacea prorogata]]
-- [[https://www.ilsole24ore.com/art/terza-ondata-calore-almeno-fino-20-luglio-lunedi-43-gradi-sardegna-domani-e-sabato-firenze-e-perugia-bollino-rosso-AJwq8FE][Terza ondata di calore almeno fino al 20 luglio, lunedì 43 gradi in Sardegna]]
-- [[https://www.ilsole24ore.com/art/dalla-cybersecurity-stampante-3d-via-nuovi-voucher-la-transizione-digitale-pmi-AJj7Uy][Dalla cybersecurity alla stampante 3D: al via i nuovi voucher per la transizione digitale delle Pmi]]
+- [[https://www.ilsole24ore.com/art/dagli-armadi-impianti-illuminazione-simest-dona-1700-arredi-scuole-ed-enti-AJGSn4E][Dagli armadi agli impianti di illuminazione: Simest dona 1700 arredi a scuole ed enti]]
+- [[https://www.ilsole24ore.com/art/polymarket-bloccato-italia-sito-nuovo-lista-nera-dogane-AJ4YI4E][Polymarket bloccato in Italia, sito di nuovo nella lista nera delle Dogane]]
+- [[https://www.ilsole24ore.com/art/industria-istat-03percento-produzione-maggio-11percento-anno-AJpK2yE][Produzione industriale -0,3% a maggio, +1,1% su anno]]
+- [[https://www.ilsole24ore.com/art/rfi-ripresa-circolazione-ferroviaria-nodo-firenze-AJrXawE][Rfi: ripresa la circolazione ferroviaria nel nodo di Firenze]]
+- [[https://www.ilsole24ore.com/art/piu-4-italiani-10-non-leggono-cartaceo-sempre-piu-forte-dell-e-book-AJWVALE][Più di 4 italiani su 10 non leggono, cartaceo sempre più forte dell’e-book]]
 
 ** 🇩🇪 Alemania
 
@@ -159,17 +159,17 @@
 - [[https://www.dw.com/en/congo-un-laments-uptick-in-fighting-in-south-kivu/a-77887082?maca=en-rss-en-world-4025-rdf][Congo: UN laments uptick in fighting in South Kivu]]
 - [[https://www.dw.com/en/iran-after-khamenei-a-new-order-takes-shape/a-77887756?maca=en-rss-en-world-4025-rdf][Iran after Khamenei: A new order takes shape]]
 - [[https://www.dw.com/en/is-the-strait-of-hormuz-still-iran-s-trump-card/a-77870807?maca=en-rss-en-world-4025-rdf][Is the Strait of Hormuz still Iran's trump card?]]
-- [[https://www.dw.com/en/trump-s-support-for-venezuela-opposition-head-machado-wanes/a-77882047?maca=en-rss-en-world-4025-rdf][Trump's support for Venezuela opposition head Machado wanes]]
+- [[https://www.dw.com/en/south-korea-s-top-court-upholds-ex-president-yoon-s-7-year-sentence/a-77883414?maca=en-rss-en-world-4025-rdf][South Korea's top court upholds ex-president Yoon's 7-year sentence]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/07/ministerio-publico-processa-virginia-fonseca-e-blaze-e-pede-r-120-milhoes.shtml][Ministério Público processa Virginia Fonseca e Blaze e pede R$ 120 milhões]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/07/noruegues-haaland-comenta-vitoria-sobre-o-brasil-na-copa-nao-parece-real.shtml][Norueguês Haaland comenta vitória sobre o Brasil na Copa: 'Não parece real']]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/07/mbappe-culpa-arbitro-por-primeiro-penalti-perdido-em-copas-do-mundo.shtml][Mbappé culpa árbitro por primeiro pênalti perdido em Copas do Mundo]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lucianacoelho/2026/07/eu-vou-te-encontrar-entretem-mas-decepciona-com-formulas-batidas.shtml]['Eu Vou te Encontrar' entretém, mas decepciona com fórmulas batidas]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/07/remanescentes-de-badalada-geracao-belga-desafiam-espanha-renovada-nas-quartas-da-copa.shtml][Remanescentes de badalada geração belga desafiam Espanha renovada nas quartas da Copa]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/petroleo-reverte-perdas-do-dia-anterior-e-volta-a-subir-com-escalada-da-guerra-no-ira.shtml][Petróleo reverte perdas do dia anterior e volta a subir com escalada da guerra no Irã]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/policiais-que-usarem-farda-e-viatura-em-campanha-serao-denunciados-ao-ministerio-publico.shtml][Policiais que usarem farda e viatura em campanha serão denunciados ao Ministério Público]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/07/cresce-compra-de-imoveis-por-estrangeiros-em-balneario-camboriu-sc.shtml][Cresce compra de imóveis por estrangeiros em Balneário Camboriú (SC)]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/07/governo-trump-propoe-revogar-regulamentacoes-e-facilitar-posse-de-armas-de-fogo-nos-eua.shtml][Governo Trump propõe revogar regulamentações e facilitar posse de armas de fogo nos EUA]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/07/euclid-leva-a-descoberta-de-31-quasares-um-dos-objetos-mais-luminosos-do-universo.shtml][Euclid leva à descoberta de 31 quasares, um dos objetos mais luminosos do Universo]]
 
 *** O Globo
 
