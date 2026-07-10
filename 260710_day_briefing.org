@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 53.2°C | ⚖ Load: 0.00 | 🌐 Ping: 9.65ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 52.6°C | ⚖ Load: 0.00 | 🌐 Ping: 9.59ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,19 +41,19 @@
 
 *** El País
 
-- [[https://elpais.com/espana/2026-07-10/ultimas-noticias-del-incendio-forestal-de-los-gallardos-almeria-en-directo.html][Últimas noticias del incendio forestal de Los Gallardos (Almería), en directo | Al menos 11 muertos y 19 desaparecidos en el incendio más trágico registrado en Andalucía]]
-- [[https://elpais.com/espana/2026-07-10/la-guardia-civil-investiga-la-caida-de-un-cable-como-desencadenante-del-incendio-en-los-gallardos.html][La Guardia Civil investiga la caída de un cable eléctrico como desencadenante del incendio en Los Gallardos]]
-- [[https://elpais.com/espana/2026-07-10/al-menos-12-muertos-en-el-incendio-de-los-gallardos-almeria-el-mas-mortifero-de-la-historia-de-andalucia.html][Al menos 11 muertos en el incendio de Los Gallardos (Almería), el más mortífero de la historia de Andalucía]]
-- [[https://elpais.com/espana/2026-07-10/los-incendios-forestales-mas-letales-en-espana-de-los-21-fallecidos-en-lloret-del-mar-a-los-11-bomberos-de-guadalajara.html][Los incendios forestales más letales en España: de los 21 fallecidos en Lloret del Mar a los 11 bomberos de Guadalajara]]
-- [[https://elpais.com/videos/2026-07-10/las-imagenes-del-incendio-forestal-de-los-gallardos-almeria.html][Las imágenes del incendio forestal de Los Gallardos (Almería)]]
+- [[https://elpais.com/espana/2026-07-10/ultimas-noticias-del-incendio-forestal-de-los-gallardos-almeria-en-directo.html][Últimas noticias del incendio forestal de Los Gallardos (Almería), en directo | Al menos 12 muertos y 23 personas no localizadas en el incendio más trágico registrado en Andalucía]]
+- [[https://elpais.com/espana/andalucia/2026-07-10/viento-barrancos-y-decenas-de-casas-diseminadas-la-noche-infernal-de-bedar.html][Viento, barrancos y decenas de casas diseminadas: la noche infernal de Bédar]]
+- [[https://elpais.com/videos/2026-07-10/asi-son-las-imagenes-aereas-del-incendio-de-los-gallardos-almeria.html][Así son las imágenes aéreas del incendio de Los Gallardos (Almería)]]
+- [[https://elpais.com/espana/2026-07-10/al-menos-12-muertos-en-el-incendio-de-los-gallardos-almeria-el-mas-mortifero-de-la-historia-de-andalucia.html][Al menos 12 muertos en el incendio de Los Gallardos (Almería), el más mortífero de la historia de Andalucía]]
+- [[https://elpais.com/videos/2026-07-10/los-tres-elementos-que-funcionan-como-un-acelerador-del-fuego.html][Los tres elementos que funcionan como un acelerador del fuego]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/andalucia/2026/07/10/6a50257afdddffc3588b45c9.html][Al menos once personas mueren en el incendio forestal de Los Gallardos (Almería) al tratar de huir de las llamas]]
-- [[https://www.elmundo.es/andalucia/2026/07/10/6a50964ae9cf4a98178b4574.html][Las víctimas del incendio de Los Gallardos, la mayoría británicos y belgas, trataron de escapar por una rambla que se convirtió en una "verdadera trampa"]]
+- [[https://www.elmundo.es/andalucia/2026/07/10/6a50257afdddffc3588b45c9.html][Al menos doce personas mueren en el incendio forestal de Los Gallardos (Almería) al tratar de huir de las llamas]]
+- [[https://www.elmundo.es/andalucia/2026/07/10/6a50b5fcfdddff6c388b45bf.html][Desde el centro de mando que lucha contra el incendio mortal en Los Gallardos: "Avisamos puerta por puerta"]]
+- [[https://www.elmundo.es/andalucia/2026/07/10/6a50964ae9cf4a98178b4574.html][Las víctimas del incendio de Los Gallardos trataron de escapar por una rambla que se convirtió en una "verdadera trampa": seis coches quemados y un camino de tierra sin salida]]
 - [[https://www.elmundo.es/espana/2026/07/10/6a50c053e4d4d803088b458e.html][Pedro Sánchez habla con Juanma Moreno y le ofrece toda la cooperación posible contra el incendio de Los Gallardos: "Lo que necesitéis"]]
-- [[https://www.elmundo.es/andalucia/2026/07/10/6a50aede21efa0b56f8b45a6.html][El arte de la guerra contra los incendios 5.0: datos, predicciones y el secreto de Sun Tzu]]
-- [[https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/09/6a4f4f1521efa001428b459e.html][Lamine Yamal: "Si no estuviera en el Mundial, estaría sentado en un banco de mi barrio con mis amigos, pensando qué iba a ser de mí"]]
+- [[https://www.elmundo.es/ciencia-y-salud/ciencia/2026/07/10/6a50c93d21efa08c568b456e.html][Pedrógão Grande, Mati, Valparaíso, Almería... ¿Por qué huir de un incendio puede ser más peligroso que quedarse?]]
 
 *** La Vanguardia
 
@@ -65,29 +65,29 @@
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/torrelavega/denuncian-plaga-descontrolada-ratas-barreda-familias-que-tienen-miedo-abrir-ventanas/20260710115417195522.html][Alertan de una "plaga descontrolada" de ratas en Barreda: "Hay familias que tienen miedo de abrir las ventanas"]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/tormentas-granizo-viento-ponen-alerta-liebana-viernes/20260710111327195519.html][Tormentas, granizo y fuertes rachas de viento ponen en alerta amarilla a Liébana]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/alertan-que-cantabria-puede-perder-dos-especies-mas-emblematicas/20260710104538195518.html][Alertan de que Cantabria puede perder dos de sus especies más emblemáticas: "Se encuentran en una situación prácticamente de extinción"]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/luz-verde-definitiva-ampliacion-aguayo-boc-publica-autorizacion-proyecto-720-millones/20260710102910195517.html][Luz verde definitiva a la ampliación de la central hidroeléctrica de Aguayo: el BOC publica la autorización del proyecto de 720 millones de euros]]
-- [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/concluye-renovacion-red-abastecimiento-agua-barrio-ladredo/20260709213118195515.html][Concluye la renovación de la red de abastecimiento de agua en el barrio de Ladredo]]
+- [[https://eldiariocantabria.publico.es/articulo/deportes/fuli-nueva-incorporacion-ataque-blanquiazul/20260710174836195545.html][‘Fuli’, nueva incorporación para el ataque blanquiazul]]
+- [[https://eldiariocantabria.publico.es/articulo/mar-y-montana/rodaballo-salvaje-especialidades-variada-carta-restaurante-chata/20260710174101195543.html][El rodaballo salvaje, una de las especialidades de la variada carta del restaurante La Chata]]
+- [[https://eldiariocantabria.publico.es/articulo/trasmiera/bareyo-prepara-verano-lleno-ocio-diversion/20260710173038195542.html][Bareyo se prepara para un verano lleno de ocio y diversión]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/regresa-cantabria-alerta-altas-temperaturas-34-grados-sabado-zona-ebro-liebana/20260710172049195540.html][Regresa a Cantabria la alerta por altas temperaturas: hasta 34 grados este sábado en la zona del Ebro y Liébana]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/detenido-santander-fugitivo-perseguido-justicia-alemana-trafico-drogas/20260710171054195539.html][Detenido en Santander un fugitivo perseguido por la justicia alemana por tráfico de drogas]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/07/10/deadly-wildfire-southern-spain-leaves-least-11-dead/][At least 11 people killed as wildfires sweep southern Spain]]
 - [[https://www.washingtonpost.com/world/2026/07/09/us-intensifies-strikes-irans-coast-along-strait-hormuz/][U.S. intensifies strikes on Iran’s coast along Strait of Hormuz]]
 - [[https://www.washingtonpost.com/world/2026/07/09/congo-health-workers-fighting-ebola-go-strike-after-months-without-pay/][Health workers fighting Ebola go on strike after months without pay]]
 - [[https://www.washingtonpost.com/world/2026/07/08/trump-declares-ceasefire-with-iran-has-ended/][U.S., Iran trade dozens more strikes in dangerous cycle]]
 - [[https://www.washingtonpost.com/politics/2026/07/08/denmark-says-it-will-defend-greenland-trump-threatens-revive-nato-crisis/][After Greenland bluster, Trump surprises NATO allies with praise]]
-- [[https://www.washingtonpost.com/world/2026/07/08/funeral-rites-irans-supreme-leader-shift-shiite-cities-iraq/][In Iraq, huge crowds mourning Iranian leader reveal limits of U.S. role]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/china/deadly-factory-fire-highlights-dangers-of-chinas-manufacturing-might-d74e6603][Deadly Factory Fire Highlights Dangers of China’s Manufacturing Might]]
 - [[https://www.wsj.com/world/asia/kim-jong-uns-summer-project-renovating-his-mansions-250b6ffc][Kim Jong Un’s Summer Project: Renovating His Mansions]]
 - [[https://www.wsj.com/world/ukraines-drones-are-now-reaching-siberia-and-imperiling-russian-energy-assets-e0d2caa7][Ukraine’s Drones Are Now Reaching Siberia and Imperiling Russian Energy Assets]]
 - [[https://www.wsj.com/world/middle-east/trump-wanted-20-000-peacekeeping-troops-in-gaza-he-is-starting-with-10-to-20-cf0ab958][Trump Wanted 20,000 Peacekeeping Troops in Gaza. He Is Starting With 10 to 20.]]
 - [[https://www.wsj.com/world/americas/how-venezuelan-bureaucracy-thwarted-an-american-earthquake-rescue-squad-6a175a3f][How Venezuelan Bureaucracy Thwarted an American Earthquake Rescue Squad]]
-- [[https://www.wsj.com/world/middle-east/iran-deal-strait-of-hormuz-b027c30f][The Fight Over Hormuz Boils Down to One Poorly Worded Clause in Trump’s Deal]]
 
 ** 🇫🇷 Francia
 
@@ -101,21 +101,21 @@
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/meteo/en-direct-chaleur-canicule-france-meteo-temperatures-vigilance-orages-20260710][EN DIRECT - Troisième canicule : la SNCF ne prévoit aucune annulation des 3700 TGV qui circuleront ce week-end de grands départs]]
-- [[https://www.lefigaro.fr/sciences/canicule-le-gouvernement-active-un-nouveau-plan-orsec-chaleurs-extremes-20260710][Canicule : le gouvernement active un nouveau plan «Orsec chaleurs extrêmes»]]
-- [[https://www.lefigaro.fr/actualite-france/feux-de-foret-six-departements-en-vigilance-rouge-ce-vendredi-20260703][Feux de forêt : un département en vigilance rouge ce vendredi]]
-- [[https://www.lefigaro.fr/actualite-france/pollution-a-l-ozone-restrictions-de-circulation-vendredi-en-ile-de-france-20260709][Pollution à l’ozone : restrictions de circulation vendredi en Île-de-France]]
-- [[https://www.lefigaro.fr/politique/melenchon-a-reussi-a-faire-monter-une-generation-cette-campagne-orchestre-sur-laquelle-mise-lfi-pour-conquerir-l-elysee-20260710][«Mélenchon a réussi à faire monter une génération»: cette «campagne orchestre» sur laquelle mise LFI pour conquérir l’Élysée]]
+- [[https://www.lefigaro.fr/meteo/en-direct-chaleur-canicule-france-meteo-temperatures-vigilance-orages-20260710][EN DIRECT - Canicule : 131 personnes sont mortes par noyade depuis le 19 juin]]
+- [[https://www.lefigaro.fr/actualite-france/canicule-pourquoi-le-nombre-de-noyades-est-il-en-forte-augmentation-20260623][Canicule : pourquoi le nombre de noyades est-il en forte augmentation ?]]
+- [[https://www.lefigaro.fr/maison/canicule-a-strasbourg-il-invente-une-clim-naturelle-a-partir-d-une-citerne-d-eau-de-pluie-20260710][Canicule : à Strasbourg, il invente une clim naturelle à partir d’une citerne d’eau de pluie]]
+- [[https://www.lefigaro.fr/actualite-france/canicule-en-france-qu-est-ce-que-le-plan-orsec-pour-chaleurs-extremes-declenche-par-le-gouvernement-20260710][Canicule en France : qu'est-ce que le «plan Orsec pour chaleurs extrêmes» déclenché par le gouvernement ?]]
+- [[https://www.lefigaro.fr/faits-divers/du-papa-poule-au-meurtrier-des-buttes-chaumont-lakhdar-m-condamne-a-27-ans-de-reclusion-pour-avoir-tue-et-demembre-son-epouse-assia-20260710][Du «papa poule» au meurtrier des Buttes-Chaumont : Lakhdar M. condamné à 27 ans de réclusion pour avoir tué et démembré son épouse, Assia]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss][Huge crowds in Mashhad as Iran's late supreme leader is buried]]
-- [[https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss][Ukrainian agent accused of murdering Monaco bomb suspect changes story]]
-- [[https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss][Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike]]
+- [[https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss][East Asia braces for destructive typhoon as landslides kill 15 in Philippines]]
+- [[https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss][Man fatally shot by ICE in Houston was not intended target, DHS says]]
+- [[https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss][Man nearly sucked out of window mid-air on Ryanair plane, passengers say]]
+- [[https://www.bbc.co.uk/news/videos/c8x2zez8qwzo?at_medium=RSS&at_campaign=rss][US declassifies even more UFO videos]]
 - [[https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss][China lands reusable rocket for first time, state media says]]
-- [[https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss][Chip giant SK Hynix raises $26.5bn in mega US share sale]]
 
 *** The Guardian
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/dagli-armadi-impianti-illuminazione-simest-dona-1700-arredi-scuole-ed-enti-AJGSn4E][Dagli armadi agli impianti di illuminazione: Simest dona 1700 arredi a scuole ed enti]]
-- [[https://www.ilsole24ore.com/art/polymarket-bloccato-italia-sito-nuovo-lista-nera-dogane-AJ4YI4E][Polymarket bloccato in Italia, sito di nuovo nella lista nera delle Dogane]]
-- [[https://www.ilsole24ore.com/art/industria-istat-03percento-produzione-maggio-11percento-anno-AJpK2yE][Produzione industriale -0,3% a maggio, +1,1% su anno]]
-- [[https://www.ilsole24ore.com/art/rfi-ripresa-circolazione-ferroviaria-nodo-firenze-AJrXawE][Rfi: ripresa la circolazione ferroviaria nel nodo di Firenze]]
-- [[https://www.ilsole24ore.com/art/piu-4-italiani-10-non-leggono-cartaceo-sempre-piu-forte-dell-e-book-AJWVALE][Più di 4 italiani su 10 non leggono, cartaceo sempre più forte dell’e-book]]
+- [[https://www.ilsole24ore.com/art/attentato-ranucci-perquisita-l-abitazione-factotum-lavitola-AJT6AUF][Attentato a Ranucci, perquisita l’abitazione del factotum di Lavitola]]
+- [[https://www.ilsole24ore.com/art/sicurezza-urbana-comuni-chiedono-aiuto-vigilanza-privata-AIkYt4xD][Sicurezza urbana, i Comuni chiedono aiuto alla vigilanza privata]]
+- [[https://www.ilsole24ore.com/art/radio-24-carone-petrelluzzi-rampini-talia-ospiti-ad-amici-e-nemici-AJR1UNF][Radio 24: Carone, Petrelluzzi, Rampini, Talia ospiti ad Amici e nemici]]
+- [[https://www.ilsole24ore.com/art/balcani-occidentali-ue-vertice-roma-italia-pressing-AJ1hRBF][Balcani occidentali nella Ue, vertice a Roma. Italia in pressing]]
+- [[https://www.ilsole24ore.com/art/mattarella-seveso-no-scambi-costi-umani-ed-economici-AJeJu9E][Mattarella a Seveso: no a scambi tra costi umani ed economici]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/uk-police-open-murder-probe-into-death-of-reform-uk-s-ann-widdecombe/a-77910345?maca=en-rss-en-world-4025-rdf][UK police open murder probe into death of Reform UK's Ann Widdecombe]]
+- [[https://www.dw.com/en/vietnam-s-baby-bonuses-unlikely-to-stop-the-aging-clock/a-77901363?maca=en-rss-en-world-4025-rdf][Vietnam's baby bonuses unlikely to stop the aging clock]]
 - [[https://www.dw.com/en/south-africa-driven-home-by-anti-migrant-protests/a-77889650?maca=en-rss-en-world-4025-rdf][South Africa: Driven home by anti-migrant protests]]
 - [[https://www.dw.com/en/congo-un-laments-uptick-in-fighting-in-south-kivu/a-77887082?maca=en-rss-en-world-4025-rdf][Congo: UN laments uptick in fighting in South Kivu]]
 - [[https://www.dw.com/en/iran-after-khamenei-a-new-order-takes-shape/a-77887756?maca=en-rss-en-world-4025-rdf][Iran after Khamenei: A new order takes shape]]
-- [[https://www.dw.com/en/is-the-strait-of-hormuz-still-iran-s-trump-card/a-77870807?maca=en-rss-en-world-4025-rdf][Is the Strait of Hormuz still Iran's trump card?]]
-- [[https://www.dw.com/en/south-korea-s-top-court-upholds-ex-president-yoon-s-7-year-sentence/a-77883414?maca=en-rss-en-world-4025-rdf][South Korea's top court upholds ex-president Yoon's 7-year sentence]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/petroleo-reverte-perdas-do-dia-anterior-e-volta-a-subir-com-escalada-da-guerra-no-ira.shtml][Petróleo reverte perdas do dia anterior e volta a subir com escalada da guerra no Irã]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/policiais-que-usarem-farda-e-viatura-em-campanha-serao-denunciados-ao-ministerio-publico.shtml][Policiais que usarem farda e viatura em campanha serão denunciados ao Ministério Público]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/07/cresce-compra-de-imoveis-por-estrangeiros-em-balneario-camboriu-sc.shtml][Cresce compra de imóveis por estrangeiros em Balneário Camboriú (SC)]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/07/governo-trump-propoe-revogar-regulamentacoes-e-facilitar-posse-de-armas-de-fogo-nos-eua.shtml][Governo Trump propõe revogar regulamentações e facilitar posse de armas de fogo nos EUA]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/07/euclid-leva-a-descoberta-de-31-quasares-um-dos-objetos-mais-luminosos-do-universo.shtml][Euclid leva à descoberta de 31 quasares, um dos objetos mais luminosos do Universo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/07/justica-eleitoral-determina-bloqueio-de-r-2277-mil-em-contas-de-ex-esposa-de-bolsonaro.shtml][Justiça Eleitoral determina bloqueio de R$ 227,7 mil em contas de ex-esposa de Bolsonaro]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/07/influenciadora-brasileira-morre-ao-cair-de-predio-em-dubai.shtml][Influenciadora brasileira morre ao cair de prédio em Dubai]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/07/brasil-e-convidado-a-entrar-em-grupo-contra-extrema-esquerda-orquestrado-pelos-eua.shtml][Brasil é convidado a entrar em grupo contra extrema esquerda orquestrado pelos EUA]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/ambipar-tinha-r-257-bi-em-caixa-com-quase-metade-investido-em-pre-precatorios.shtml][Ambipar tinha R$ 2,57 bi em caixa, com quase metade investido em pré-precatórios]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/braco-direito-de-ceo-da-openai-anuncia-saida-da-empresa.shtml][Braço direito de CEO da OpenAI anuncia saída da empresa]]
 
 *** O Globo
 
