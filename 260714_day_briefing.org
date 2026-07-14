@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 52.1°C | ⚖ Load: 0.00 | 🌐 Ping: 9.22ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 52.1°C | ⚖ Load: 0.56 | 🌐 Ping: 9.18ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,16 +41,16 @@
 
 *** El País
 
-- [[https://elpais.com/espana/2026-07-13/albares-exige-a-feijoo-que-desautorice-a-rajoy-por-su-inaceptable-articulo-sobre-la-seleccion-francesa.html][La Moncloa y París exigen a Rajoy rectificar un artículo “racista” que critica hasta la ultraderecha francesa]]
-- [[https://elpais.com/deportes/mundial-futbol/2026-07-13/de-la-francia-multirracial-del-98-a-la-espana-de-lamine-y-nico-williams.html][Lamine Yamal responde a Rajoy: “Si el fútbol sirve para algo es para integrar”]]
-- [[https://elpais.com/espana/2026-07-13/sanchez-y-moreno-advierten-juntos-sobre-el-cambio-climatico-10-dias-despues-del-acuerdo-entre-el-pp-y-vox.html][Sánchez y Moreno advierten juntos sobre el cambio climático 10 días después del acuerdo entre el PP y Vox]]
-- [[https://elpais.com/espana/2026-07-13/el-hijo-de-una-victima-del-incendio-de-los-gallardos-nadie-les-dijo-que-el-fuego-venia-hacia-ellos-y-cuando-intentaron-salir-ya-era-tarde.html][El hijo de una víctima del incendio de Los Gallardos: “Nadie les dijo que el fuego venía hacia ellos y cuando intentaron salir ya era tarde”]]
-- [[https://elpais.com/television/2026-07-13/marta-gomez-montero-vuelve-a-malas-lenguas-con-jesus-cintora-tras-abandonar-el-plato-no-hay-nada-preparado-para-cautivar-a-la-audiencia.html][Marta Gómez Montero vuelve a ‘Malas lenguas’ con Jesús Cintora tras abandonar el plató: “No hay nada preparado para cautivar a la audiencia”]]
+- [[https://elpais.com/espana/2026-07-14/rajoy-enturbia-la-semifinal-espana-francia-con-su-articulo-racista.html][Rajoy enturbia la semifinal España-Francia con su artículo “racista”]]
+- [[https://elpais.com/deportes/mundial-futbol/2026-07-14/espana-mide-su-control-al-vertigo-de-francia-en-la-gran-semifinal-del-mundial.html][España mide su control al vértigo de Francia en la gran semifinal del Mundial]]
+- [[https://elpais.com/deportes/mundial-futbol/2026-07-06/que-dicen-los-datos-de-espana-consulte-las-estadisticas-avanzadas-del-mundial-partido-a-partido.html][¿Qué selecciones han sido las mejores en el Mundial? Consulte sus datos partido a partido]]
+- [[https://elpais.com/espana/2026-07-14/waheed-el-ultimo-pastor-de-bedar-me-jugue-la-vida-por-mis-animales.html][Waheed, el último pastor de Bédar: “Me jugué la vida por mis animales”]]
+- [[https://elpais.com/espana/2026-07-14/una-victima-pide-a-la-fiscalia-que-acelere-la-identificacion-de-su-violador-tras-la-entrega-de-nuevas-pruebas.html][Una víctima pide a la Fiscalía que acelere la identificación de su violador tras la entrega de nuevas pruebas]]
 
 *** El Mundo
 
 - [[https://www.elmundo.es/espana/2026/07/13/6a5529e321efa0765a8b4581.html][La Policía eleva a 3 millones los inmigrantes regularizados con sus familias]]
-- [[https://www.elmundo.es/internacional/2026/07/14/6a552ac5e9cf4aec7b8b457a.html][Yesi Medina, la cirujana de las 45 operaciones tras el doble terremoto: "Poder ayudar es la gasolina que nos mantiene en pie"]]
+- [[https://www.elmundo.es/espana/2026/07/14/6a552a16fdddffc71b8b45ba.html][Anticorrupción, sobre el teléfono clave contra ZP: incautado "por autoridades soberanas de EEUU bajo su legislación y normativa internas"]]
 - [[https://www.elmundo.es/economia/macroeconomia/2026/07/13/6a54e069e85ece44248b458d.html][Una reforma que premia a Cataluña: ganaría 92 euros por habitante, pese a recibir ya 93 más que Madrid]]
 - [[https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/13/6a540b4ce85ece3d388b4599.html][Fabián Ruiz: "Poder decirle a mi madre: 'mamá, ya no tienes que trabajar más' fue algo muy especial, le dio sentido a todo"]]
 - [[https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/14/6a556442e4d4d8a0458b4595.html][Lamine, sobre la polémica con Rajoy: "Francia y España somos un ejemplo de integración. Eso es lo importante, y no lo que haya podido decir una persona"]]
@@ -65,11 +65,11 @@
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/santander/detenido-santander-incumplir-orden-alejamiento-parque-mesones/20260714115039195693.html][Detenido en Santander por incumplir la orden de alejamiento del Parque de Mesones]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/inquilina-61-anos-amenaza-casero-varios-cuchillos-tijeras-intenta-apunalarlo-santander/20260714113951195692.html][Una inquilina de 61 años intenta apuñalar a su casero con varios cuchillos y unas tijeras en Santander]]
+- [[https://eldiariocantabria.publico.es/articulo/municipios/denuncian-que-informacion-bono-semanal-parking-playa-san-vicente-barquera-estaba-tapada-usuarios-gastan-mas-dinero/20260714112535195688.html][Denuncian que la empresa concesionaria de un parking de San Vicente "oculta" la información sobre el bono semanal]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/trasladan-joven-valdecilla-mordedura-vibora-campamento-rionansa/20260714110713195690.html][Trasladan a un joven a Valdecilla tras la mordedura de una víbora en un campamento de Rionansa]]
 - [[https://eldiariocantabria.publico.es/articulo/cantabria/policia-busca-mujer-desaparecida-jueves-santander/20260713205257195687.html][La Policía busca a una mujer desaparecida desde el jueves en Santander]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/santander-mejora-oferta-prejubilaciones-asumir-convenio-especial-635-anos/20260713204722195685.html][Santander mejora su oferta de prejubilaciones al asumir el convenio especial hasta los 63,5 años]]
-- [[https://eldiariocantabria.publico.es/articulo/deportes/bathco-bm-torrelavega-abre-campana-socios-lema-sincio-naranja/20260713203409195684.html][El Bathco BM Torrelavega abre su campaña de socios bajo el lema ‘Sincio de Naranja’]]
-- [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/ayuntamiento-propone-adjudicar-contrato-limpieza-viaria-tahler-s-cinco-anos-97-millones-euros/20260713201754195681.html][El Ayuntamiento  propone adjudicar el contrato de limpieza viaria a Tahler S. A. por cinco años y 9,7 millones de euros]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/uso-lleva-ayuntamiento-santander-tribunales-ocultar-relacion-puestos-trabajo-tus/20260713200818195679.html][USO lleva al Ayuntamiento de Santander a los tribunales por ocultar la Relación de Puestos de Trabajo del TUS]]
 
 ** 🇺🇸 Estados Unidos
 
@@ -83,39 +83,39 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/uk/a-capybara-is-on-the-lam-in-the-english-countryside-and-locals-are-going-wild-51da31e2][A Capybara Is on the Lam in the English Countryside, and Locals Are Going Wild]]
 - [[https://www.wsj.com/world/middle-east/u-s-launches-new-iran-strikes-as-trump-weighs-attacking-nuclear-site-156d2109][U.S. Launches New Iran Strikes, as Trump Weighs Attacking Nuclear Site]]
 - [[https://www.wsj.com/world/americas/cuba-brazil-migrants-trump-immigration-cdb56324][Shut Out of U.S., Cubans Build ‘New Miami’ in Southern Brazil]]
 - [[https://www.wsj.com/world/x-putin-junior-partner-df611b88][Putin Was Xi’s Role Model. Now He’s the Junior Partner.]]
 - [[https://www.wsj.com/world/middle-east/a-wave-of-iranian-nationalism-is-drowning-out-its-diplomats-4e47bb74][A Wave of Iranian Nationalism Is Drowning Out Its Diplomats]]
-- [[https://www.wsj.com/world/middle-east/u-s-strikes-new-targets-after-iran-rejects-demand-to-open-hormuz-b1f167d0][Trump Says He Is Reimposing the U.S. Blockade of Iran]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html][EN DIRECT, canicule : plusieurs secteurs de la forêt de Fontainebleau fermés en raison d’un incendie qui a brûlé 800 hectares]]
-- [[https://www.lemonde.fr/politique/article/2026/07/13/emmanuel-macron-et-les-armees-dix-ans-de-relations-entre-defiance-espoirs-et-non-dits_6723032_823448.html][Emmanuel Macron et les armées, dix ans de relations entre défiance, espoirs, et non-dits]]
-- [[https://www.lemonde.fr/planete/article/2026/07/13/des-traces-d-acetamipride-et-d-autres-neonicotinoides-dans-le-nutella-et-des-miels-importes_6723039_3244.html][Des traces d’acétamipride et d’autres néonicotinoïdes dans le Nutella et des miels importés]]
-- [[https://www.lemonde.fr/international/article/2026/07/13/la-diplomatie-americaine-impuissante-face-a-la-reprise-des-hostilites-entre-l-iran-et-les-etats-unis_6723050_3210.html][La diplomatie américaine impuissante face à la reprise des hostilités au Moyen-Orient]]
-- [[https://www.lemonde.fr/disparitions/article/2026/07/13/sam-neill-celebre-pour-son-role-dans-jurassic-park-est-mort_6723059_3382.html][Sam Neill, célèbre pour son rôle dans « Jurassic Park », est mort]]
+- [[https://www.lemonde.fr/politique/live/2026/07/14/en-direct-14-juillet-suivez-le-dernier-defile-d-emmanuel-macron-dans-un-contexte-de-rearmement-europeen-et-sous-le-signe-du-soutien-a-l-ukraine_6723269_823448.html][EN DIRECT, 14-Juillet : Emmanuel Macron passe en revue les troupes le long des Champs-Elysées pour son dernier défilé]]
+- [[https://www.lemonde.fr/planete/article/2026/07/14/a-fontainebleau-plus-les-heures-passent-plus-ca-devient-irreel-de-se-dire-que-la-foret-est-en-flammes_6723244_3244.html][A Fontainebleau, « plus les heures passent, plus ça devient irréel de se dire que la forêt est en flammes »]]
+- [[https://www.lemonde.fr/international/live/2026/07/14/en-direct-guerre-au-moyen-orient-les-etats-unis-disent-avoir-lance-une-nouvelle-salve-de-frappes-contre-l-iran-donald-trump-estime-qu-un-accord-est-encore-possible_6722873_3210.html][EN DIRECT, guerre au Moyen-Orient : un pétrolier touché par un missile au large d’Oman lundi, rapporte l’agence de sécurité maritime britannique]]
+- [[https://www.lemonde.fr/economie/article/2026/07/14/dp-world-l-entreprise-qui-a-fait-des-emirats-arabes-unis-une-puissance-portuaire-et-logistique_6723274_3234.html][DP World, l’entreprise qui a fait des Emirats arabes unis une puissance portuaire et logistique]]
+- [[https://www.lemonde.fr/sport/article/2026/07/14/france-espagne-des-retrouvailles-pour-une-affiche-aux-airs-de-finale-avant-l-heure-dans-la-coupe-du-monde-2026_6723262_3242.html][France-Espagne : des retrouvailles pour une affiche aux airs de « finale avant l’heure » dans la Coupe du monde 2026]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/actualite-france/dans-la-foret-de-fontainebleau-les-secours-luttent-contre-des-incendies-exceptionnels-20260713][Dans la forêt de Fontainebleau, les secours luttent contre des incendies exceptionnels]]
-- [[https://www.lefigaro.fr/actualite-france/visualisez-en-carte-les-feux-en-cours-dans-la-foret-de-fontainebleau-20260713][«Un incendie d’une ampleur exceptionnelle» : visualisez en carte les feux en cours dans la forêt de Fontainebleau]]
-- [[https://www.lefigaro.fr/meteo/en-direct-canicule-l-incendie-en-foret-de-fontainebleau-est-d-une-ampleur-exceptionnelle-le-ministre-de-l-interieur-attendu-sur-place-lundi-matin-20260713][EN DIRECT - Incendies : 59 interpellations sur l’ensemble du territoire, dont deux pour la forêt de Fontainebleau, annonce Nuñez]]
-- [[https://www.lefigaro.fr/actualite-france/visualisez-en-cartes-les-feux-de-foret-en-cours-en-france-20260713][Visualisez en carte les feux de forêt en cours en France]]
-- [[https://www.lefigaro.fr/meteo/quand-allez-vous-sortir-de-la-canicule-decouvrez-en-cartes-les-dernieres-previsions-20260626][Quand allez-vous sortir de la canicule ? Découvrez en cartes les dernières prévisions]]
+- [[https://www.lefigaro.fr/actualite-france/14-juillet-fete-nationale-defile-militaire-macron-armee-champs-elysees-paris-20260714][EN DIRECT - 14 Juillet : le défilé militaire bat son plein sur les Champs-Élysées, avec l’Ukraine à l’honneur]]
+- [[https://www.lefigaro.fr/actualite-france/fete-nationale-et-demi-finale-de-la-coupe-du-monde-de-football-la-police-en-alerte-maximale-20260713][Fête nationale et demi-finale de la Coupe du monde de football : la police en alerte maximale]]
+- [[https://www.lefigaro.fr/international/ceremonie-du-14-juillet-les-europeens-a-l-heure-du-reveil-strategique-defilent-aux-cotes-de-l-ukraine-20260713][Cérémonie du 14 juillet : les Européens, à l’heure du « réveil stratégique », défilent aux côtés de l’Ukraine]]
+- [[https://www.lefigaro.fr/actualite-france/plus-de-6000-troupes-a-pied-98-avions-militaires-ukrainiens-decouvrez-le-programme-du-defile-militaire-du-14-juillet-sur-les-champs-elysees-20260714][Plus de 6000 troupes à pied, 98 avions, militaires ukrainiens... Découvrez le programme du défilé militaire du 14 juillet sur les Champs-Élysées]]
+- [[https://www.lefigaro.fr/international/franc-avec-le-president-et-lucide-sur-l-etat-des-forces-fabien-mandon-le-general-qui-prepare-les-armees-francaises-au-choc-20260714][Franc avec le président et lucide sur l’état des forces : Fabien Mandon, le général qui prépare les armées françaises au « choc »]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss][UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes]]
-- [[https://www.bbc.co.uk/news/articles/crr8gnx01d7o?at_medium=RSS&at_campaign=rss][''There was no way out': Witnesses describe how deadly inferno swept through Bangkok bar]]
-- [[https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss][Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety]]
+- [[https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss][Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30]]
+- [[https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss][Australian police reveal unseen photos 25 years after British backpacker murder]]
+- [[https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss][Hungary parliament votes to remove president from office]]
+- [[https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss][US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits]]
 - [[https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss][Colombian national killed by ICE agent during operation in Maine]]
-- [[https://www.bbc.co.uk/news/articles/c5yzy0lpello?at_medium=RSS&at_campaign=rss][Identity of Sydney daycare worker facing 329 child abuse offences revealed]]
 
 *** The Guardian
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/consob-ipotesi-guido-stazi-presidenza-domani-decisione-cdm-AJ2ZDNI][Consob: ipotesi Guido Stazi alla presidenza. Martedì la decisione in Cdm]]
-- [[https://www.ilsole24ore.com/art/la-settimana-caldo-record-picco-giovedi-45-gradi-sardegna-tutti-bollini-rossi-giorno-giorno-AJtGU7H][La settimana del caldo record: il picco giovedì, 45 gradi in Sardegna, tutti i bollini rossi giorno per giorno]]
-- [[https://www.ilsole24ore.com/art/scudo-anti-missili-nasce-coalizione-europea-michelangelo-dome-sampt-progetti-targati-italia-AJQ1BAI][Scudo anti missili, nasce la coalizione europea. Da Michelangelo Dome ai Samp/T, i progetti targati Italia]]
-- [[https://www.ilsole24ore.com/art/linee-guida-uniche-comunitarie-oggi-report-von-der-leyen-AJUYoMG][Linee guida uniche comunitarie, oggi il report a von der Leyen]]
-- [[https://www.ilsole24ore.com/art/due-livelli-protezione-europa-il-dsa-sanzioni-e-indennizzi-AJjNIMG][Due livelli di protezione in Europa con il Dsa: sanzioni e indennizzi]]
+- [[https://www.ilsole24ore.com/art/legge-elettorale-oggi-voto-ecco-tutti-nodi-preferenze-candidato-premier-AJkFhmI][Legge elettorale oggi al voto, ecco tutti i nodi: dalle preferenze al candidato premier]]
+- [[https://www.ilsole24ore.com/art/il-15-luglio-sciopero-rider-milano-e-bologna-sindacati-tutela-salute-e-salario-AJRzmmI][Il 15 luglio sciopero dei rider a Milano e Bologna. Sindacati: «Tutelare salute e salario»]]
+- [[https://www.ilsole24ore.com/art/oggi-cdm-ddl-concorrenza-carburanti-rc-auto-e-telemarketing-ecco-novita-arrivo-AJApblI][Oggi in Cdm il Ddl concorrenza: carburanti, Rc auto e telemarketing, ecco le novità in arrivo]]
+- [[https://www.ilsole24ore.com/art/il-ddl-sicurezza-torna-cdm-nuova-stretta-anti-maranza-AJp5WmI][Stretta anti-maranza: anche la polizia locale potrà effettuare il fermo preventivo]]
+- [[https://www.ilsole24ore.com/art/inps-piu-semplici-prestiti-trattenuta-fino-un-quinto-pensione-ecco-novita-AJfqV1H][Inps, più semplici prestiti con trattenuta fino a un quinto della pensione: ecco le novità]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/france-arrests-arson-suspects-amid-fontainebleau-forest-fire/a-77946073?maca=en-rss-en-world-4025-rdf][France arrests arson suspects amid Fontainebleau forest fire]]
 - [[https://www.dw.com/en/person-killed-in-ice-involved-shooting-in-maine/a-77941733?maca=en-rss-en-world-4025-rdf][Person killed in ICE-involved shooting in Maine]]
 - [[https://www.dw.com/en/south-korea-airs-concerns-over-north-korean-border-activity/a-77938229?maca=en-rss-en-world-4025-rdf][South Korea airs concerns over North Korean border activity]]
 - [[https://www.dw.com/en/iran-living-in-limbo-between-war-and-ceasefire/a-77933549?maca=en-rss-en-world-4025-rdf][Iran: Living in limbo between war and ceasefire]]
 - [[https://www.dw.com/en/kenya-what-impact-will-dangote-s-new-refinery-have-on-the-region/a-77927159?maca=en-rss-en-world-4025-rdf][Kenya: What impact will Dangote's new refinery have on the region?]]
-- [[https://www.dw.com/en/eu-experts-urge-social-media-restrictions-for-kids-under-13/a-77931424?maca=en-rss-en-world-4025-rdf][EU experts urge social media restrictions for kids under 13]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/07/agentes-do-ice-matam-colombiano-nos-eua.shtml][Agentes do ICE matam colombiano nos EUA]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/juros-sobre-capital-proprio-superam-dividendos-no-1o-semestre-de-2026-e-batem-recorde.shtml][Juros sobre Capital Próprio superam dividendos no 1º semestre de 2026 e batem recorde]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/petroleo-amplia-ganhos-em-meio-a-novos-ataques-em-hormuz.shtml][Petróleo amplia alta em meio a novos ataques em Hormuz]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/07/bukele-se-encaminha-para-terceiro-mandato-em-el-salvador-sem-oposicao.shtml][Bukele se encaminha para terceiro mandato em El Salvador sem oposição]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/publicitario-investigado-pela-pf-no-caso-master-anuncia-fechamento-de-agencia-e-ano-sabatico.shtml][Publicitário investigado pela PF no caso Master anuncia fechamento de agência e ano sabático]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/google-contesta-tese-do-cade-sobre-remuneracao-de-jornais-por-ia-e-pede-fim-de-investigacao.shtml][Google contesta tese do Cade sobre remuneração de jornais por IA e pede fim de investigação]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/07/cameras-com-ia-flagram-mil-infracoes-em-72-horas-na-raposo-tavares-sp.shtml][Câmeras com IA flagram mil infrações em 72 horas na Raposo Tavares (SP)]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/07/idosos-enfrentam-taxa-de-erro-cinco-vezes-maior-em-biometria-facial-e-sofrem-com-golpes-e-restricoes.shtml][Idosos enfrentam taxa de erro cinco vezes maior em biometria facial e sofrem com golpes e restrições]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/07/fifa-avalia-vender-direitos-da-copa-do-mundo-de-2030-para-globo-e-cazetv-sem-exclusividade.shtml][Fifa avalia vender direitos da Copa do Mundo de 2030 para Globo e CazéTV sem exclusividade]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folha-social-mais/2026/07/adolescente-do-amazonas-transforma-contos-de-fadas-em-licoes-de-educacao-financeira.shtml][Adolescente do Amazonas transforma contos de fadas em lições de educação financeira]]
 
 *** O Globo
 
