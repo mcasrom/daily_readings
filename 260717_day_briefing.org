@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 53.2°C | ⚖ Load: 0.80 | 🌐 Ping: 9.22ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 52.6°C | ⚖ Load: 0.00 | 🌐 Ping: 8.78ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -42,18 +42,18 @@
 *** El País
 
 - [[https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html][Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota]]
-- [[https://elpais.com/espana/2026-07-16/el-tjue-avala-la-ley-de-amnistia-al-descartar-que-contravenga-las-normas-europeas.html][El TJUE avala la ley de amnistía al descartar que contravenga las normas europeas y allana el regreso de Puigdemont]]
-- [[https://elpais.com/espana/2026-07-16/por-que-borrar-los-delitos-del-proces-no-vulnera-el-derecho-de-la-ue-preguntas-y-respuestas-de-las-primeras-sentencias-europeas-sobre-la-amnistia.html][¿Por qué borrar los delitos del ‘procés’ no vulnera el derecho de la UE?: preguntas y respuestas de las primeras sentencias europeas sobre la amnistía]]
-- [[https://elpais.com/espana/catalunya/2026-07-16/la-justicia-europea-avala-la-amnistia-a-los-cdr-que-estan-procesados-por-terrorismo.html][La justicia europea avala la amnistía a los CDR procesados por terrorismo: “Es un alivio”]]
-- [[https://elpais.com/espana/2026-07-16/el-gobierno-celebra-que-la-ley-de-amnistia-es-constitucional-y-conforme-al-derecho-europeo.html][El Gobierno celebra la ley de amnistía como un “logro colectivo” que ha contribuido a recuperar “la convivencia y la reconciliación”]]
+- [[https://elpais.com/internacional/2026-07-16/trump-suspende-a-su-operador-de-teleprompter-acusado-de-apostar-ilegalmente-en-kalshi-sobre-sus-discursos.html][Trump despide a su operador de teleprompter, acusado de apostar ilegalmente en Kalshi sobre sus discursos]]
+- [[https://elpais.com/argentina/2026-07-16/el-gobierno-de-milei-protesta-ante-el-reino-unido-por-la-presencia-de-un-buque-militar-britanico-en-el-mar-argentino.html][El Gobierno de Milei protesta ante el Reino Unido por la presencia de un buque militar británico en el mar argentino]]
+- [[https://elpais.com/sociedad/2026-07-17/morir-en-la-quinta-planta-del-gregorio-maranon-aqui-me-dan-paz-y-amor.html][Morir en la quinta planta del Gregorio Marañón: “Aquí me dan paz y amor”]]
+- [[https://elpais.com/clima-y-medio-ambiente/2026-07-16/volver-a-llenar-el-mar-de-aral-la-apuesta-de-cientificos-espanoles-para-evitar-la-liberacion-de-millones-de-toneladas-de-co.html][Volver a llenar el Mar de Aral: la apuesta de científicos españoles para evitar la liberación de millones de toneladas de CO₂]]
 
 *** El Mundo
 
 - [[https://www.elmundo.es/espana/2026/07/16/6a592344e85ecec83c8b456d.html][El Supremo mantiene el motivo clave por el que rechazó amnistiar la malversación de Puigdemont]]
-- [[https://www.elmundo.es/espana/2026/07/16/6a59274de4d4d8b6168b45ac.html][El Gobierno se aferra al TJUE para convencer a los nacionalistas de que cumple ante las próximas elecciones: "Necesitamos dar todos los pasos"]]
+- [[https://www.elmundo.es/espana/2026/07/17/6a59df95e9cf4ac0638b457b.html][Óscar Puente reta al Supremo: "Si yo fuera Puigdemont, hoy me plantaba en España, sin ninguna duda"]]
 - [[https://www.elmundo.es/espana/2026/07/16/6a58e3d521efa0411d8b458c.html][La UE critica al Gobierno por señalar y presionar a los jueces y toma nota de la condena al ex fiscal general García Ortiz]]
 - [[https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/16/6a590a0de9cf4a54648b45ac.html][De la pocha de Sudáfrica al Mario Kart online, TikTok y una consola antigua en 2026: así ha cambiado la convivencia de la selección]]
-- [[https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/16/6a591accfdddffd3578b4589.html][Argentina se agarra a la cábala: palo santo para limpiar energías, reparto de caramelos o la prohibición del pollo]]
+- [[https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/17/6a59ded4fc6c8312288b4578.html][Pedro Sánchez asistirá a la final del Mundial que jugará España frente a Argentina]]
 
 *** La Vanguardia
 
@@ -65,57 +65,57 @@
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/exigen-cambiar-nombre-calle-tomas-soto-pidal-santander-vinculacion-franquismo/20260717115700195890.html][Exigen cambiar el nombre de la calle Tomás Soto Pidal de Santander por su vinculación con la represión franquista]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/policias-locales-santander/20260717112854195887.html][Los policías locales de Santander, sin equipos de protección suficientes y con servicios unipersonales durante la Semana Grande]]
+- [[https://eldiariocantabria.publico.es/articulo/laboral/reforma-dependencia-creara-mas-1000-empleos-cantabria/20260717110555195881.html][La reforma de la dependencia prevé crear más de 1.000 nuevos empleos en Cantabria pese a no contar con el apoyo de PP y Vox]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/primer-premio-loteria-nacional-deja-30000-euros-decimo-pequeno-pueblo-cantabria/20260717103912195868.html][El primer premio de la Lotería Nacional deja 30.000 euros al décimo en este pueblo de Cantabria]]
 - [[https://eldiariocantabria.publico.es/articulo/trasmiera/psoe-exige-gobierno-pp-actuacion-inmediata-centro-salud-solares/20260716211456195853.html][El PSOE exige al Gobierno del PP una actuación “inmediata” en el centro de salud de Solares]]
-- [[https://eldiariocantabria.publico.es/articulo/torrelavega/prc-psoe-propone-modificacion-presupuestaria-23-millones-reforzar-inversiones/20260716205323195851.html][PRC-PSOE propone una modificación presupuestaria de 2,3 millones para reforzar inversiones]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/iu-exige-comision-extraordinaria-aparcamiento-pombo/20260716203919195850.html][IU exige una comisión extraordinaria sobre el aparcamiento de Pombo]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/16-de-julio-de-1946/20260716202330195848.html][16 de julio de 1946]]
-- [[https://eldiariocantabria.publico.es/articulo/educacion/uc-recuperara-cafeteria-industriales-telecomunicacion-cuatro-anos-servicio/20260716200945195847.html][La UC recuperará la cafetería de Industriales y Telecomunicación tras cuatro años sin servicio]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/07/17/after-years-drone-warfare-ukraine-is-selling-its-blood-experience-allies/][After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies]]
 - [[https://www.washingtonpost.com/world/2026/07/16/iran-threatens-regions-infrastructure-us-strikes-expand/][Iran threatens region’s infrastructure as U.S. strikes expand]]
 - [[https://www.washingtonpost.com/world/2026/07/16/iran-releases-us-citizen-goodwill-gesture-trump-says/][Iran releases U.S. citizen in goodwill gesture, Trump says]]
 - [[https://www.washingtonpost.com/world/2026/07/16/zelensky-ousts-popular-defense-minister-an-architect-ukraines-drone-program/][Zelensky ousts popular defense minister, an architect of Ukraine’s drone program]]
 - [[https://www.washingtonpost.com/world/2026/07/15/trump-iran-signed-truce-still-cant-agree-what-its-terms-mean/][Problematic paragraph on Strait of Hormuz places strain on U.S.-Iran deal]]
-- [[https://www.washingtonpost.com/weather/2026/07/16/wildfire-smoke-will-worsen-northeast-mid-atlantic-through-friday/][Wildfire smoke will worsen in the Northeast and Mid-Atlantic through Friday]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/china/trumps-allegations-of-chinese-interference-in-u-s-elections-stir-tensions-with-beijing-c7dd49d5][Trump Stirs China Tensions With Claims That It Meddled in U.S. Elections]]
+- [[https://www.wsj.com/world/uk/the-u-k-gets-another-new-leader-on-monday-his-first-task-reassure-the-markets-187dae5e][The U.K. Gets Another New Leader on Monday. His First Task: Reassure the Markets.]]
 - [[https://www.wsj.com/world/europe/the-u-s-is-trampling-allies-in-the-global-hunt-for-rare-earths-82371d13][The U.S. Is Trampling Allies in the Global Hunt for Rare Earths]]
 - [[https://www.wsj.com/world/middle-east/trumps-tightening-squeeze-on-iran-will-heap-more-pain-on-its-battered-economy-9e2e8952][Trump’s Tightening Squeeze on Iran Will Heap More Pain on Its Battered Economy]]
 - [[https://www.wsj.com/world/china/china-economy-tech-property-03444d83][China’s Two-Speed Economy Pairs High-Tech Success With Domestic Gloom]]
-- [[https://www.wsj.com/world/middle-east/u-s-targets-iranian-bridges-in-bid-to-choke-off-regimes-supply-routes-5ab1c512][U.S. Targets Iranian Bridges in Bid to Choke Off Regime’s Supply Routes]]
-- [[https://www.wsj.com/world/middle-east/saudi-arabia-riyadh-iran-war-99434d4b][Saudi Arabia Was in the Midst of Transformation. Then Came the Iran War.]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/live/2026/07/16/en-direct-guerre-en-ukraine-l-aiea-deplore-la-mort-de-l-ingenieur-en-chef-de-la-centrale-nucleaire-de-zaporijia_6722853_3210.html][EN DIRECT, guerre en Ukraine : « Ne touchez pas à Fedorov », « Ramenez Fedorov »… des rassemblements dans plusieurs villes ukrainiennes pour protester contre le départ du ministre de la défense]]
-- [[https://www.lemonde.fr/pixels/article/2026/07/16/de-nouvelles-preuves-demontrent-que-le-maroc-a-utilise-le-logiciel-espion-pegasus_6723736_4408996.html][De nouvelles preuves démontrent que le Maroc a bien utilisé le logiciel espion Pegasus]]
-- [[https://www.lemonde.fr/planete/live/2026/07/16/en-direct-incendies-emmanuel-macron-se-rend-a-fontainebleau-foret-emblematique-en-partie-detruite-par-les-flammes_6723261_3244.html][EN DIRECT, canicule : l’incendie de Die, dans la Drôme, « considéré comme fixé », selon la préfète ; Emmanuel Macron attendu à Fontainebleau]]
-- [[https://www.lemonde.fr/videos/article/2026/07/16/c-est-mad-max-sur-l-ocean-les-go-fast-charges-de-cocaine-a-l-assaut-des-cotes-europeennes_6723728_1669088.html][« C’est “Mad Max” sur l’Océan » : des go fast chargés de tonnes de cocaïne déferlent sur les côtes européennes]]
-- [[https://www.lemonde.fr/international/live/2026/07/16/en-direct-guerre-au-moyen-orient-les-etats-unis-ont-lance-de-nouvelles-frappes-contre-l-iran-teheran-cible-des-installations-americaines-en-jordanie_6722873_3210.html][EN DIRECT, guerre au Moyen-Orient : Téhéran menace de réduire à néant des infrastructures de la région si les siennes sont attaquées]]
+- [[https://www.lemonde.fr/international/article/2026/07/17/en-ukraine-apres-son-remaniement-volodymyr-zelensky-passe-outre-les-manifestants_6724085_3210.html][En Ukraine, Volodymyr Zelensky assume d’ouvrir une crise politique avec son remaniement]]
+- [[https://www.lemonde.fr/international/article/2026/07/17/donald-trump-livre-un-discours-aux-accents-complotistes-sur-la-vulnerabilite-du-systeme-electoral-americain-et-accuse-la-chine-d-ingerence_6724151_3210.html][Donald Trump livre un discours aux accents complotistes sur la « vulnérabilité » du système électoral américain et accuse la Chine d’ingérence]]
+- [[https://www.lemonde.fr/planete/article/2026/07/17/au-dela-des-dommages-faits-a-la-foret-le-feu-de-fontainebleau-suscite-une-profonde-tristesse_6724121_3244.html][Au-delà des dommages causés à la forêt, le feu de Fontainebleau suscite une « profonde tristesse »]]
+- [[https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-au-moyen-orient-les-attaques-americaines-de-la-nuit-en-iran-ont-fait-huit-morts-et-20-blesses_6722873_3210.html][EN DIRECT, guerre au Moyen-Orient : les attaques américaines de la nuit en Iran ont fait huit morts et 20 blessés]]
+- [[https://www.lemonde.fr/politique/article/2026/07/17/presidentielle-2027-entre-une-fidelite-contrariee-a-leur-parti-et-la-tentation-edouard-philippe-les-ministres-lr-cherchent-leur-place_6724083_823448.html][Présidentielle 2027 : entre une fidélité contrariée à leur parti et la tentation Edouard Philippe, les ministres LR cherchent leur place]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/en-direct-etats-unis-suivez-le-discours-de-donald-trump-qui-promet-des-revelations-lors-d-un-discours-a-la-nation-20260717][EN DIRECT - Dans son discours à la Nation, Trump accuse la Chine du «plus gros piratage de données électorales de l’Histoire»]]
-- [[https://www.lefigaro.fr/international/ingerences-chinoises-machines-a-voter-election-de-2020-donald-trump-promet-des-revelations-dans-son-discours-aux-americains-20260716][Ingérences chinoises, machines à voter, élection de 2020... Donald Trump promet des révélations dans son discours aux Américains]]
-- [[https://www.lefigaro.fr/international/un-agent-operant-le-prompteur-de-trump-suspendu-pour-avoir-parie-de-l-argent-sur-les-discours-du-president-americain-20260716][Un agent opérant le prompteur de Trump suspendu pour avoir parié de l’argent sur les discours du président américain]]
-- [[https://www.lefigaro.fr/faits-divers/ensevelissement-rudimentaire-ossements-eparpilles-ce-que-revelent-les-fouilles-pour-retrouver-le-corps-de-delphine-jubillar-20260716][Ensevelissement rudimentaire, ossements éparpillés… Ce que révèlent les fouilles pour retrouver le corps de Delphine Jubillar]]
-- [[https://www.lefigaro.fr/faits-divers/en-direct-affaire-jubillar-des-fouilles-en-cours-autour-de-cagnac-les-mines-cedric-jubillar-present-sur-place-20260716][Affaire Jubillar : Cédric Jubillar reconnaît un «acte abominable» et «exprime des regrets très forts», selon son avocat]]
+- [[https://www.lefigaro.fr/international/la-france-souhaite-de-nouveau-delivrer-250-000-visas-par-an-aux-ressortissants-algeriens-20260717][La France souhaite de nouveau délivrer 250.000 visas par an aux ressortissants algériens]]
+- [[https://www.lefigaro.fr/international/approuvez-vous-la-volonte-de-l-ambassadeur-de-france-d-augmenter-le-nombre-de-visas-accordes-a-l-algerie-20260717][Approuvez-vous la volonté de l'ambassadeur de France d'augmenter le nombre de visas accordés à l'Algérie ?]]
+- [[https://www.lefigaro.fr/marseille/maire-d-ales-menace-de-mort-par-la-dz-mafia-une-compagnie-de-crs-deployee-pour-securiser-la-ville-20260717][Maire d’Alès menacé de mort par la DZ Mafia : une compagnie de CRS déployée pour sécuriser la ville]]
+- [[https://www.lefigaro.fr/faits-divers/gard-le-maire-d-ales-recoit-deux-balles-de-calibre-9-mm-signees-dz-mafia-20260716][Gard : le maire d'Alès reçoit deux balles de calibre 9 mm signées «DZ Mafia»]]
+- [[https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-cachez-cette-chine-que-les-candidats-ne-sauraient-voir-20260717][Présidentielle 2027 : cachez cette Chine que les candidats ne sauraient voir]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss][US launches new wave of strikes on Iran as tensions escalate over Strait of Hormuz]]
-- [[https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss][Zelensky's removal of popular defence minister sparks protests in Ukraine]]
-- [[https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss][Teenager accused of carrying out sabotage actions in Poland for Russia]]
+- [[https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss][US launches new strikes as Iran says civilian infrastructure hit]]
+- [[https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss][Trump alleges China meddled in 2020 election and questions voting security ahead of midterms]]
 - [[https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss][More than 500 Rohingya vanished at sea - what happened?]]
-- [[https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss][Fifa 'assessing match reports' over Falklands banner]]
+- [[https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss][Japan relaxes royal succession rules - but ban on female emperors remains]]
+- [[https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss][Philippines condemns monkey video on Chinese media as racist]]
 
 *** The Guardian
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/confindustria-e-intesa-lanciano-piano-strategico-la-zes-20-AJt9BVM][Zes 2.0 per investire 60 miliardi al Sud]]
-- [[https://www.ilsole24ore.com/art/il-nicaragua-annuncia-l-interruzione-relazioni-diplomatiche-l-italia-AJ8p6VM][Nicaragua interrompe relazioni diplomatiche con Italia dopo le accuse di Tajani]]
-- [[https://www.ilsole24ore.com/art/progettazione-oice-fatturato-2025-imprese-associate-46-mld-61percento-AJxnd9L][Progettazione: Oice, fatturato 2025 imprese associate a 4,6 mld (+6,1%)]]
-- [[https://www.ilsole24ore.com/art/moda-procura-milano-apre-faro-altri-11-marchi-AJwpBzL][Moda, la procura di Milano accende un faro su altri 11 marchi]]
-- [[https://www.ilsole24ore.com/art/caldo-sardegna-superati-40-gradi-sulcis-e-nuorese-allerta-il-pericolo-incendi-AJrPdwL][Caldo, in Sardegna superati i 40 gradi tra Sulcis e nuorese. Allerta per il pericolo incendi]]
+- [[https://www.ilsole24ore.com/art/intesa-ue-e-ucraina-droni-fincantieri-e-le-aziende-selezionate-AJVgL8L][Intesa tra Ue e Ucraina sui droni. Fincantieri è tra le aziende selezionate]]
+- [[https://www.ilsole24ore.com/art/scontro-italia-e-nicaragua-tutto-quello-che-c-e-sapere-caso-casimirri-AJEsaoM][Scontro tra Italia e Nicaragua, tutto quello che c’è da sapere sul caso Casimirri]]
+- [[https://www.ilsole24ore.com/art/caccia-muro-contro-muro-opposizioni-critiche-e-agricoltori-favorevoli-AJUsU7L][Caccia: muro contro muro, opposizioni critiche e agricoltori favorevoli]]
+- [[https://www.ilsole24ore.com/art/napoli-smantellato-falso-ateneo-sequestrati-oltre-500-titoli-laurea-AJPEiBM][Napoli, smantellato un falso ateneo: sequestrati oltre 500 titoli di laurea]]
+- [[https://www.ilsole24ore.com/art/il-caso-roggero-e-maggioranza-vannaccizzata-gara-o-prove-d-intesa-AJ4bDlL][Il caso Roggero e la maggioranza vannaccizzata. Gara o prove d’intesa?]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/mandela-day-has-south-africa-failed-his-vision/a-77980740?maca=en-rss-en-world-4025-rdf][Mandela Day: Has South Africa failed his vision?]]
 - [[https://www.dw.com/en/why-gulf-states-are-investing-billions-in-africa/a-77971459?maca=en-rss-en-world-4025-rdf][Why Gulf states are investing billions in Africa]]
 - [[https://www.dw.com/en/monaco-assassination-plot-takes-a-new-turn/a-77983714?maca=en-rss-en-world-4025-rdf][Monaco assassination plot takes a new turn]]
 - [[https://www.dw.com/en/why-america-s-hospitals-keep-looking-to-india-for-nurses/a-77983988?maca=en-rss-en-world-4025-rdf][Why America's hospitals keep looking to India for nurses]]
 - [[https://www.dw.com/en/algeria-fire-at-orphanage-kills-11-including-children/a-77991351?maca=en-rss-en-world-4025-rdf][Algeria: Fire at orphanage kills 11, including children]]
-- [[https://www.dw.com/en/the-eu-climate-policy-the-world-copied-is-under-fire-what-s-at-stake/a-77979725?maca=en-rss-en-world-4025-rdf][The EU climate policy the world copied is under fire — what's at stake?]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/07/capita-da-pm-shiela-barbosa-e-a-vencedora-da-casa-do-patrao-e-leva-r-11-milhao.shtml][Capitã da PM Shiela Barbosa é a vencedora da Casa do Patrão e leva R$ 1,1 milhão]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/07/inscricoes-para-o-fies-do-segundo-semestre-terminam-nesta-sexta-17-veja-como-se-inscrever.shtml][Inscrições para o Fies do segundo semestre terminam nesta sexta (17); veja como se inscrever]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/07/fumaca-de-incendios-florestais-no-canada-coloca-em-risco-a-final-da-copa-do-mundo-em-nova-york.shtml][Fumaça de incêndios florestais no Canadá coloca em risco a final da Copa do Mundo em Nova York]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/o-mundo-e-uma-bola/2026/07/torcer-para-a-argentina-jamais.shtml][Torcer para a Argentina, jamais]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/07/espanha-e-argentina-chegam-a-final-com-jeitos-distintos-de-valorizar-a-posse.shtml][Espanha e Argentina chegam à final com jeitos distintos de valorizar a posse]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/e-provavel-que-produtividade-aumente-com-menos-horas-de-trabalho-diz-nobel-de-economia.shtml][É provável que produtividade aumente com menos horas de trabalho, diz Nobel de Economia]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/07/einstein-abre-inscricoes-para-vestibular-unificado-2027-em-medicina-e-mais-sete-cursos.shtml][Einstein abre inscrições para vestibular unificado 2027 em medicina e mais sete cursos]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/populacao-dos-eua-resiste-a-construcao-de-data-centers-pressionando-democratas-e-republicanos.shtml][População dos EUA resiste à construção de data centers, pressionando democratas e republicanos]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/07/governo-tarcisio-mudara-free-flow-na-imigrantes-sp-de-lugar-apos-pressao-de-moradores.shtml][Governo Tarcísio mudará free flow na Imigrantes (SP) de lugar após pressão de moradores]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/07/quem-ama-cuida-mariana-ximenes-ganha-mais-espaco-em-novela-apos-aprovacao-do-publico.shtml]['Quem Ama Cuida': Mariana Ximenes ganha mais espaço em novela após aprovação do público]]
 
 *** O Globo
 
