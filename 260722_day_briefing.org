@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
-#+HTML: <div class='telemetry'>🌡 52.6°C | ⚖ Load: 0.00 | 🌐 Ping: 11.5ms</div>
+#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
+#+HTML: <div class='telemetry'>🌡 52.6°C | ⚖ Load: 0.64 | 🌐 Ping: 9.38ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,11 +41,11 @@
 
 *** El País
 
-- [[https://elpais.com/sociedad/2026-07-21/francia-se-convierte-en-el-primer-pais-europeo-en-vetar-el-acceso-a-redes-sociales-a-menores-de-15-anos.html][Francia se convierte en el primer país europeo en vetar el acceso a redes sociales a menores de 15 años]]
-- [[https://elpais.com/sociedad/2026-07-21/la-nueva-ley-del-tabaco-prohibe-fumar-a-los-menores-y-hacerlo-en-terrazas-y-campus-universitarios.html][La nueva ley del tabaco prohíbe fumar a los menores y hacerlo en playas, terrazas y campus universitarios]]
-- [[https://elpais.com/internacional/2026-07-21/zelenski-releva-al-jefe-del-ejercito-en-ucrania-tras-seis-dias-de-protestas.html][Zelenski releva al jefe del ejército en Ucrania tras seis días de protestas]]
-- [[https://elpais.com/espana/catalunya/2026-07-21/puigdemont-denuncia-a-espana-ante-la-comision-europea-por-no-aplicarle-la-amnistia.html][Puigdemont denuncia a España ante la Comisión Europea por no aplicarle la amnistía]]
-- [[https://elpais.com/espana/2026-07-21/la-fiscalia-reclama-al-tribunal-de-cuentas-que-aplique-la-amnistia-tras-el-aval-de-la-justicia-europea.html][La Fiscalía reclama al Tribunal de Cuentas que aplique la amnistía tras el aval de la justicia europea]]
+- [[https://elpais.com/espana/2026-07-22/ultima-hora-de-los-incendios-forestales-en-directo.html][Última hora de los incendios forestales, en directo | Sánchez visita las zonas afectadas por el fuego en Guadalajara]]
+- [[https://elpais.com/clima-y-medio-ambiente/2026-07-22/el-incendio-de-guadalajara-dispara-la-superficie-quemada-en-espana-tras-un-nefasto-comienzo-de-julio.html][El incendio de Guadalajara dispara la superficie quemada en España tras un nefasto comienzo de julio]]
+- [[https://elpais.com/espana/2026-07-22/la-causa-contra-zapatero-situa-ahora-el-foco-en-la-cupula-de-plus-ultra-tras-contradecir-la-version-del-expresidente.html][La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente]]
+- [[https://elpais.com/espana/2026-07-22/la-nueva-dimension-del-caso-zapatero-no-mueve-al-gobierno-mientras-el-expresidente-mantiene-su-silencio.html][La nueva dimensión del ‘caso Zapatero’ no mueve al Gobierno mientras el expresidente mantiene su silencio]]
+- [[https://elpais.com/espana/catalunya/2026-07-22/una-testigo-revela-que-la-terapia-de-los-andic-incluia-una-situacion-extrema-en-un-barranco.html][Una testigo revela que la terapia de los Andic incluía una situación extrema en un barranco]]
 
 *** El Mundo
 
@@ -57,65 +57,65 @@
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/politica/20260721/11597627/julio-martinez-situa-correveidile-negocios-zapatero.html][El amigo de Zapatero se declara el “correveidile” de los negocios del expresidente]]
-- [[https://www.lavanguardia.com/politica/20260721/11597731/gobierno-insiste-declarar-inocente-zapatero-pese-nuevas-estrategias-defensa.html][El Gobierno insiste en declarar “inocente” a Zapatero pese a las nuevas “estrategias de defensa”]]
+- [[https://www.lavanguardia.com/politica/20260722/11597903/julio-martinez-senala-zapatero-cerebro-negocio-vender-influencias.html][Julio Martínez señala a Zapatero como el cerebro del negocio de vender influencias]]
+- [[https://www.lavanguardia.com/politica/20260722/11597947/gobierno-psoe-asumen-riesgo-sostener-inocencia-zapatero.html][Gobierno y PSOE asumen el “riesgo” de sostener la inocencia de Zapatero]]
 - [[https://www.lavanguardia.com/opinion/20260722/11597978/mancha-zapatero.html][La mancha de Zapatero]]
-- [[https://www.lavanguardia.com/politica/20260721/11597531/gobierno-jueces-logra-acuerdo-sobre-archivar-quejas-peinado.html][El gobierno de los jueces no se pone de acuerdo sobre qué hacer con las quejas contra Peinado]]
-- [[https://www.lavanguardia.com/politica/20260721/11597969/puigdemont-denuncia-espana-bruselas-negativa-aplicar-amnistia.html][Puigdemont denuncia a España ante la Comisión Europea por la negativa a aplicar la ley de Amnistía]]
+- [[https://www.lavanguardia.com/natural/20260722/11597794/trenes-olas-calor-nuevo-patron-veranos.html][Trenes de olas de calor: ¿el nuevo patrón de los veranos?]]
+- [[https://www.lavanguardia.com/sucesos/20260722/11597896/terapia-jonathan-andic-contemplaba-someterse-situacion-extrema-barranco.html][La terapia de Jonathan Andic contemplaba someterse a una situación extrema al borde de un barranco]]
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/campoo/inaugurada-actuacion-casi-380000-euros-mejorar-varios-viales-municipales/20260721212606196128.html][Inaugurada una actuación de casi 380.000 euros para mejorar varios viales municipales]]
-- [[https://eldiariocantabria.publico.es/articulo/campoo/inauguradas-19-viviendas-alquiler-asequible-reinosa-que-optan-123-personas/20260721211850196126.html][Inauguradas las 19 viviendas de alquiler asequible, a las que optan 123 personas]]
-- [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/concluye-renovacion-integral-vallado-senda-verde-pas-obregon/20260721211114196124.html][Concluye la renovación integral del vallado de la senda verde del Pas en Obregón]]
-- [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/realidad-extendida-centra-nuevo-curso-verano-uc-centro-empresas-municipal/20260721210446196122.html][La realidad extendida centra un nuevo Curso de Verano de la UC en el Centro de Empresas municipal]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/iu-denuncia-derrumbe-parcial-tejado-cabildo-arriba/20260721205822196121.html][IU denuncia el derrumbe parcial de un tejado en el Cabildo de Arriba]]
+- [[https://eldiariocantabria.publico.es/articulo/torrelavega/cierran-pasarela-colgante-viesca-motivos-seguridad/20260722114618196145.html][Cierran la pasarela colgante de La Viesca por motivos de seguridad tras detectar "deterioros de especial relevancia"]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/exfutbolista-jonatan-valle-otros-acusados-trafico-drogas-llegan-acuerdo-fiscalia-iran-juicio/20260722114223196144.html][El exfutbolista Jonatan Valle y otros acusados por tráfico de drogas no llegan a un acuerdo con Fiscalía e irán a juicio]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/quien-irian-canas-cantabros-rosalia-ibai-llanos-banderas-lideran-preferencias/20260722112701196141.html][¿Con quién se irían de cañas los cántabros? Rosalía, Ibai Llanos y Banderas lideran las preferencias]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/madrugada-ocho-jovenes-denunciados-ruidos-viviendas-santander/20260722112543196140.html][Ocho jóvenes denunciados por ruidos y dos locales propuestos para sanción esta madrugada en Santander]]
+- [[https://eldiariocantabria.publico.es/articulo/cultura/complices-revive-semana-grandes-exitos-concierto-frente-mar-cantabria/20260722105531196132.html][Cómplices revive esta semana sus grandes éxitos en un concierto frente al mar en Laredo]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
 - [[https://www.washingtonpost.com/national-security/2026/07/21/troops-killed-iranian-attacks-were-tasked-with-defending-bases-incoming-strikes/][Latest combat deaths show risk has shifted to troops far from Iran’s borders]]
-- [[https://www.washingtonpost.com/world/2026/07/21/red-sea-blockade-threatens-new-front-us-iran-war/][Hegseth faces bipartisan scrutiny as Iran war escalates]]
+- [[https://www.washingtonpost.com/world/2026/07/21/red-sea-blockade-threatens-new-front-us-iran-war/][Hegseth says Iran war has cost $37.5 billion, defends request for more]]
 - [[https://www.washingtonpost.com/world/2026/07/21/death-moroccan-man-italian-police-custody-sparks-protests-violence/][Death of Moroccan man in Italian police custody sparks protests, violence]]
 - [[https://www.washingtonpost.com/world/2026/07/21/zelensky-ousts-ukraines-military-commander-major-shake-up-continues/][Zelensky ousts Ukraine’s military commander as major shake-up continues]]
 - [[https://www.washingtonpost.com/politics/2026/07/21/trump-pledges-support-lebanon-peace-efforts-with-israel-clashes-continue/][Trump meets with Lebanese leader, pledges support for peace efforts with Israel]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/trump-approves-saudi-nuclear-deal-as-iran-missile-threat-persists-3f914b68][Trump Approves Saudi Nuclear Deal as Iran Missile Threat Persists]]
+- [[https://www.wsj.com/world/americas/florida-cubans-homes-real-estate-7b297e29][Cuban-Americans Who Lost Property in 1959 Revolution Seek Compensation]]
 - [[https://www.wsj.com/world/middle-east/mamdani-says-new-york-doesnt-have-authority-to-arrest-netanyahu-872d2c0d][Mamdani Says New York Doesn’t Have Authority to Arrest Netanyahu]]
 - [[https://www.wsj.com/world/middle-east/iran-shows-its-ballistic-missiles-are-still-a-force-to-reckon-with-42b18204][Iran Shows Its Ballistic Missiles Are Still a Force to Reckon With]]
 - [[https://www.wsj.com/world/middle-east/trump-approves-landmark-nuclear-deal-with-saudi-arabia-in-big-win-for-kingdom-2ed77584][Trump Approves Landmark Nuclear Deal With Saudi Arabia in Big Win for Kingdom]]
-- [[https://www.wsj.com/world/europe/zelensky-removes-ukraines-armed-forces-chief-after-days-of-street-protests-c69e1b49][Zelensky Removes Ukraine’s Armed-Forces Chief After Days of Street Protests]]
-- [[https://www.wsj.com/world/americas/rubio-says-nicaraguas-plans-to-cancel-elections-threaten-u-s-national-security-b3df9586][Rubio Says Nicaragua’s Plans to Cancel Elections Threaten U.S. National Security]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/article/2026/07/21/face-aux-etats-unis-l-iran-parie-sur-une-guerre-d-usure_6728460_3210.html][Face aux Etats-Unis, l’Iran parie sur une guerre d’usure]]
-- [[https://www.lemonde.fr/politique/article/2026/07/21/le-projet-de-loi-d-urgence-agricole-adopte-dans-la-cacophonie-par-une-assemblee-nationale-fracturee-sur-les-pesticides_6728117_823448.html][Le projet de loi d’urgence agricole adopté dans la cacophonie par une Assemblée nationale fracturée sur la question des pesticides]]
-- [[https://www.lemonde.fr/afrique/live/2026/07/21/ebola-en-rdc-posez-vos-questions-a-nos-journalistes-morgane-le-cam-et-philemon-barbier-de-retour-de-reportage-dans-l-epicentre-de-l-epidemie_6728461_3212.html][Ebola en RDC : posez vos questions à nos journalistes Morgane Le Cam et Philémon Barbier, de retour de reportage dans l’épicentre de l’épidémie]]
-- [[https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-en-ukraine-le-fmi-valide-une-enveloppe-immediate-de-690-millions-de-dollars-pour-kiev_6725306_3210.html][EN DIRECT, guerre en Ukraine : plus de 5 millions de réfugiés ukrainiens accueillis en Europe depuis le début de la guerre, selon le HCR]]
-- [[https://www.lemonde.fr/politique/article/2026/07/21/a-grenoble-la-gauche-se-divise-apres-l-interruption-du-concert-de-barbara-butch-boycottee-par-des-militants-locaux-lfi_6728356_823448.html][Interruption du concert de Barbara Butch à Grenoble : la maire écologiste, Laurence Ruffin, dénonce la « stratégie d’intimidation » des « insoumis »]]
+- [[https://www.lemonde.fr/politique/article/2026/07/22/le-recul-environnemental-de-trop-la-ministre-de-la-transition-ecologique-monique-barbut-annonce-remettre-sa-demission-apres-le-vote-de-la-loi-d-urgence-agricole_6729994_823448.html][« Le recul environnemental de trop » : Monique Barbut, ministre de la transition écologique, annonce remettre sa démission après le vote de la loi d’urgence agricole]]
+- [[https://www.lemonde.fr/international/article/2026/07/22/la-propagandiste-xenia-fedorova-echappe-aux-sanctions-europeennes-contre-des-personnalites-russes_6730000_3210.html][La propagandiste Xenia Fedorova échappe aux sanctions européennes contre des personnalités russes]]
+- [[https://www.lemonde.fr/series-d-ete/article/2026/07/22/au-maroc-je-ne-me-cachais-pas-le-maghreb-refuge-de-plus-en-plus-menace-des-narcos-francais_6729818_3451060.html][Le Maghreb, lieu de planque de moins en moins tranquille des « narcos » français]]
+- [[https://www.lemonde.fr/international/article/2026/07/22/le-lancement-des-zones-pilotes-dans-le-sud-du-liban-premier-test-de-l-accord-cadre-avec-israel_6729988_3210.html][Les zones pilotes dans le Liban sud, ce premier test de l’accord-cadre avec Israël : « On demande à l’armée la permission d’aller voir nos maisons une heure »]]
+- [[https://www.lemonde.fr/international/article/2026/07/22/l-italie-secouee-apres-la-mort-d-un-homme-lors-de-son-interpellation-par-la-police_6729997_3210.html][L’Italie secouée après la mort d’un homme lors de son interpellation par la police]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/politique/sebastien-lecornu-pret-a-sacrifier-sa-ministre-de-l-ecologie-monique-barbut-pour-menager-la-droite-et-les-agriculteurs-20260721][Sébastien Lecornu prêt à sacrifier sa ministre de l’Écologie démissionnaire, Monique Barbut, pour ménager la droite et les agriculteurs]]
-- [[https://www.lefigaro.fr/politique/nicolas-hulot-francois-de-rugy-monique-barbut-la-malediction-du-ministere-de-l-ecologie-20260721][Nicolas Hulot, François de Rugy, Monique Barbut : la malédiction du ministère de l’Écologie]]
-- [[https://www.lefigaro.fr/actualite-france/le-parlement-adopte-definitivement-la-loi-d-urgence-agricole-avec-son-volet-sur-les-pesticides-20260721][Le Parlement adopte définitivement la loi d’urgence agricole, avec son volet sur les pesticides]]
-- [[https://www.lefigaro.fr/politique/le-monde-agricole-francais-soulage-par-une-loi-lui-permettant-de-preserver-sa-competitivite-en-europe-20260721][Le monde agricole français soulagé par une loi lui permettant de préserver sa compétitivité en Europe]]
-- [[https://www.lefigaro.fr/politique/elles-ont-failli-en-venir-aux-mains-a-l-assemblee-grosse-altercation-borne-genevard-en-marge-de-la-loi-agricole-20260721][«Elles ont failli en venir aux mains» : à l’Assemblée, grosse altercation Borne-Genevard en marge de la loi agricole]]
+- [[https://www.lefigaro.fr/flash-actu/hauts-de-seine-daniel-siad-le-rabatteur-presume-de-jeffrey-epstein-retrouve-mort-a-son-domicile-20260722][Hauts-de-Seine : Daniel Siad, le «rabatteur» présumé de Jeffrey Epstein, retrouvé mort à son domicile]]
+- [[https://madame.lefigaro.fr/societe/a-ton-avis-qu-est-ce-qu-elles-ont-fait-pour-gagner-autant-d-argent-le-temoignage-glacant-d-une-victime-du-rabatteur-d-epstein-20260212][«Ne t’en fais pas, il y a une petite cabane où on peut dormir» : Ebba Karlsson raconte son cauchemar aux côtés de Daniel Siad]]
+- [[https://www.lefigaro.fr/actualite-france/recruteur-de-filles-ne-en-algerie-plainte-pour-viol-qui-est-daniel-siad-rabatteur-presume-de-jeffrey-epstein-20260210][«Recruteur de filles», né en Algérie, cinq plaintes pour viol... Qui était Daniel Siad, «rabatteur» présumé de Jeffrey Epstein ?]]
+- [[https://www.lefigaro.fr/actualite-france/en-direct-incendie-dans-le-var-le-feu-continue-de-progresser-a-une-vitesse-tres-importante-et-a-deja-parcouru-plus-de-1700-hectares-20260722][EN DIRECT - Incendie dans le Var : le feu est «toujours actif» annonce le préfet, deux monastères évacués et 2500 hectares déjà parcourus]]
+- [[https://www.lefigaro.fr/actualite-france/incendie-visualisez-en-carte-les-feux-de-foret-en-cours-dans-le-var-20260722][Incendie : visualisez en carte les feux de forêt en cours dans le Var]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
 - [[https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss][Zelensky sacks Ukraine's top army commander after days of protests]]
-- [[https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss][Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal]]
-- [[https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss][Carney looking at 'all options' as Trump announces 50% tariffs on Canada]]
-- [[https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss][Dozens hurt in Bologna protests after man dies while being restrained by police]]
-- [[https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss][US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers]]
+- [[https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss][Ukrainian drones hit more sites of Russian online retailer Wildberries]]
+- [[https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss][Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more]]
+- [[https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss][India's Modi government under growing pressure as 'cockroach' protests intensify]]
+- [[https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss][France passes law banning under-15s from social media]]
 
 *** The Guardian
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
+- [[https://www.ilsole24ore.com/art/immigrazione-ricongiungimenti-subito-lavoratori-qualificati-tre-mesi-piu-i-migranti-rischio-fuga-AJj03RR][Immigrazione, ricongiungimenti subito ai lavoratori qualificati. Tre mesi in più per i migranti a rischio fuga]]
+- [[https://www.ilsole24ore.com/art/caro-carburanti-prezzi-vicini-record-piu-cari-sicilia-friuli-e-bolzano-AJAsbaR][Caro carburanti, prezzi vicini ai record: i più cari in Sicilia, Friuli e  Bolzano]]
+- [[https://www.ilsole24ore.com/art/pet-food-sequestri-17-milioni-AJRUEzR][Pet food, sequestri per 1,7 milioni]]
+- [[https://www.ilsole24ore.com/art/dalla-spagna-62-chili-d-oro-bagagli-maxi-sequestro-fiumicino-AJaPYHR][Dalla Spagna con 62 chili d’oro nei bagagli: maxi sequestro a Fiumicino]]
 - [[https://www.ilsole24ore.com/art/cedolare-secca-calo-gettito-continua-anche-2026-255percento-AJXPHCQ][Cedolare secca, il calo del gettito continua anche nel 2026: -25,5%]]
-- [[https://www.ilsole24ore.com/art/fine-terza-ondata-caldo-italia-aria-fresca-norvegese-e-temporali-arrivo-AJ1lZTR][Fine della terza ondata di caldo in Italia: aria fresca norvegese e temporali in arrivo]]
-- [[https://lab24.ilsole24ore.com/situazione-neve-italia/][Italia a rischio siccità: si rischia un altro 2022?]]
-- [[https://www.ilsole24ore.com/art/siccita-po-autobotti-l-acqua-potabile-diversi-comuni-AJHZaJR][Emergenza siccità: autobotti per l’acqua potabile in Veneto, Lombardia, Piemonte e Marche. A Pavia fedeli in preghiera per la pioggia]]
-- [[https://www.ilsole24ore.com/art/equalize-richiesta-processo-74-imputati-oltre-800-spiati-AJH5yLR][Equalize, richiesta di processo per 74 imputati con oltre 800 spiati]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/turkey-pkk-talks-is-peace-finally-possible/a-78059048?maca=en-rss-en-world-4025-rdf][Turkey-PKK talks: Is peace finally possible?]]
 - [[https://www.dw.com/en/jordan-faces-growing-risk-of-becoming-latest-frontline-state-in-us-iran-conflict/a-78055209?maca=en-rss-en-world-4025-rdf][Jordan faces growing risk of becoming latest frontline state in US-Iran conflict]]
 - [[https://www.dw.com/en/china-narrows-ai-gap-challenges-us-influence/a-78053001?maca=en-rss-en-world-4025-rdf][China narrows AI gap, challenges US influence]]
 - [[https://www.dw.com/en/how-india-s-youth-led-cockroach-movement-challenges-modi/a-78048621?maca=en-rss-en-world-4025-rdf][How India's youth-led 'Cockroach' movement challenges Modi]]
 - [[https://www.dw.com/en/mexican-drug-lord-el-mayo-sentenced-to-life-without-parole-in-us-prison/a-78042164?maca=en-rss-en-world-4025-rdf][Mexican drug lord 'El Mayo' sentenced to life without parole in US prison]]
-- [[https://www.dw.com/en/aliexpress-hit-with-record-eu-fine/a-78040720?maca=en-rss-en-world-4025-rdf][AliExpress hit with record EU fine]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/trump-anuncia-tarifa-de-100-sobre-medicamentos-genericos-a-partir-de-2028.shtml][Trump anuncia tarifa de 100% sobre medicamentos genéricos a partir de 2028]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/07/trump-fecha-acordo-nuclear-historico-com-a-arabia-saudita-diz-jornal.shtml][Trump fecha acordo nuclear histórico com a Arábia Saudita, diz jornal]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/07/futebol-na-venezuela-volta-com-vitoria-do-santos-em-estadio-esvaziado.shtml][Futebol na Venezuela volta com vitória do Santos em estádio esvaziado]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/07/mais-demagogia-no-alemao.shtml][Mais demagogia no Alemão]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/07/pandemia-e-custo-de-transmissao-levaram-globo-a-recusar-pacote-completo-da-copa.shtml][Pandemia e custo de transmissão levaram Globo a recusar pacote completo da Copa]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/cerca-de-4-entregadores-relataram-violencia-por-dia-nos-ultimos-3-anos-aponta-ifood.shtml][Cerca de 4 entregadores relataram violência por dia nos últimos 3 anos, aponta iFood]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/07/guerra-esquecida-em-mianmar-leva-pais-ao-colapso.shtml][Guerra esquecida em Mianmar leva país ao colapso]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/empresas-criticam-proposta-do-governo-para-exportacao-de-creditos-de-carbono.shtml][Empresas criticam proposta do governo para exportação de créditos de carbono]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/ia-impulsiona-exportacoes-mexicanas-para-os-eua-e-dificulta-cruzada-comercial-de-trump.shtml][IA impulsiona exportações mexicanas para os EUA e dificulta cruzada comercial de Trump]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/07/brasil-tem-reducao-de-25-nos-feminicidios-no-1o-semestre-mas-nove-estados-vao-na-contramao.shtml][Brasil tem redução de 2,5% nos feminicídios no 1º semestre, mas nove estados vão na contramão]]
 
 *** O Globo
 
