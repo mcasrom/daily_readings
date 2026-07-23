@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
-#+HTML: <div class='telemetry'>🌡 52.6°C | ⚖ Load: 0.00 | 🌐 Ping: 8.97ms</div>
+#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
+#+HTML: <div class='telemetry'>🌡 52.6°C | ⚖ Load: 0.10 | 🌐 Ping: 9.12ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -44,24 +44,24 @@
 - [[https://elpais.com/espana/comunidad-valenciana/2026-07-22/les-corts-valencianes-aprueban-los-primeros-presupuestos-en-espana-que-incluyen-la-prioridad-nacional-de-vox.html][El PP se pliega a Vox y Les Corts Valencianes aprueban los primeros presupuestos en España que incluyen la “prioridad nacional”]]
 - [[https://elpais.com/espana/2026-07-22/el-incendio-de-guadalajara-entra-en-fase-de-estabilizacion-tras-arrasar-mas-de-32000-hectareas.html][El incendio de Guadalajara entra en fase de “estabilización” tras arrasar más de 32.000 hectáreas]]
 - [[https://elpais.com/espana/madrid/2026-07-22/evacuado-el-encinar-del-alberche-y-confinado-villa-del-prado-en-madrid-por-un-incendio-en-la-localidad-toledana-de-almorox.html][El incendio de la localidad toledana de Almorox salta a Madrid y se moviliza la UME]]
-- [[https://elpais.com/tecnologia/2026-07-22/un-nuevo-modelo-de-openai-provoca-un-ataque-sin-precedentes-contra-otra-plataforma-de-inteligencia-artificial.html][Un nuevo modelo de OpenAI provoca un ataque “sin precedentes” contra otra plataforma de inteligencia artificial]]
+- [[https://elpais.com/internacional/2026-07-22/trump-autoriza-un-pacto-nuclear-que-permitira-a-arabia-saudi-enriquecer-uranio.html][Trump autoriza un pacto nuclear que permitirá a Arabia Saudí enriquecer uranio]]
 - [[https://elpais.com/espana/catalunya/2026-07-22/una-testigo-revela-que-la-terapia-de-los-andic-incluia-una-situacion-extrema-en-un-barranco.html][Una testigo revela que la terapia de los Andic incluía una situación extrema en un barranco]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/internacional/2026/07/22/6a60f897e85ece030d8b457e.html][Del heroísmo a los algoritmos: Zelenski sustituye al veterano jefe del ejército por un reformista para intentar cerrar su mayor crisis interna]]
-- [[https://www.elmundo.es/espana/2026/07/22/6a610bf4e9cf4a3b3e8b45b6.html][El juez amplía la investigación patrimonial de Santos Cerdán a las cuentas de su mujer, su hija, su hermana y su cuñado]]
-- [[https://www.elmundo.es/espana/2026/07/22/6a60c810fdddff07098b457d.html][La Comisión Europea se limita a confirmar que ha recibido la denuncia de Puigdemont: "No tenemos más comentarios"]]
-- [[https://www.elmundo.es/papel/historias/2026/07/22/6a5a50d0e9cf4a33658b4596.html][No es país para niños: "Cada vez hay más gente que sólo los ve como una molestia"]]
-- [[https://www.elmundo.es/internacional/2026/07/22/6a60c26ffc6c8379178b45ad.html][Trump aprueba un histórico acuerdo nuclear con Arabia Saudí en una gran victoria para el reino]]
+- [[https://www.elmundo.es/espana/2026/07/22/6a611098fc6c8380618b45a4.html][El Gobierno rescató a Plus Ultra con una estructura de control accionarial falseada]]
+- [[https://www.elmundo.es/espana/2026/07/22/6a60e3bf21efa078558b4583.html][La Audiencia ve como un "gran avance" para el tráfico de influencias la confesión del pagador de Zapatero y los directivos de Plus Ultra]]
+- [[https://www.elmundo.es/espana/2026/07/22/6a611444e4d4d8850e8b4588.html][Feijóo promete una "reconstrucción nacional" y reformas estructurales: "Hacienda dejará de ser el gran beneficiario"]]
+- [[https://www.elmundo.es/espana/2026/07/22/6a61154afdddff34498b45ba.html][Las 1.001 vidas de los evacuados en el incendio de Guadalajara y el pastor que desafió a la Guardia Civil quedándose en su pueblo pese a las llamas: "No podía permitir que se quemaran mis ovejas y mis colmenas"]]
+- [[https://www.elmundo.es/internacional/2026/07/23/6a5f802121efa0435f8b45a2.html][Un pragmático al frente de Hamas para dar un empujón a la negociación con EEUU e Israel en una Gaza con 1.000 civiles muertos ya desde la tregua]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/politica/20260722/11597903/julio-martinez-senala-zapatero-cerebro-negocio-vender-influencias.html][Julio Martínez señala a Zapatero como el cerebro del negocio de vender influencias]]
-- [[https://www.lavanguardia.com/politica/20260722/11597947/gobierno-psoe-asumen-riesgo-sostener-inocencia-zapatero.html][Gobierno y PSOE asumen el “riesgo” de sostener la inocencia de Zapatero]]
-- [[https://www.lavanguardia.com/politica/20260722/11598549/feijoo-da-finiquitada-legislatura-promete-gobierno-reconstruccion.html][Feijóo arremete contra Sánchez: “Son sus últimas Navidades en la Moncloa”]]
-- [[https://www.lavanguardia.com/politica/20260722/11598376/cristina-narbona-presidenta-psoe-nuestra-tolerancia-corrupcion-cero.html][Cristina Narbona, presidenta del PSOE: “A mí no me van a imputar, he dicho al juez lo que sé”]]
-- [[https://www.lavanguardia.com/politica/20260722/11598504/como-funciona-denuncia-presentado-puigdemont-espana-comision-europea.html][¿Cómo funciona la denuncia que ha presentado Puigdemont contra España ante la Comisión Europea?]]
+- [[https://www.lavanguardia.com/vida/20260723/11598791/mierla-desolacion-e-indignacion-mayores-incendios-espana.html][La Mierla: desolación e indignación por uno de los mayores incendios de España]]
+- [[https://www.lavanguardia.com/vida/20260722/11598530/incendios-activos-espana.html][Los incendios activos en España]]
+- [[https://www.lavanguardia.com/vida/20260722/11598810/confinan-villa-prado-evacuan-urbanizacion-incendio-almorox-toledo.html][Confinan la Villa del Prado y evacuan varias urbanizaciones de Madrid por el incendio en Almorox (Toledo)]]
+- [[https://www.lavanguardia.com/politica/20260722/11598431/comision-europea-recibe-demanda-puigdemont-abstiene-comentarla.html][Bruselas recuerda que los tribunales españoles tienen que aplicar el fallo del TJUE]]
+- [[https://www.lavanguardia.com/politica/20260722/11598826/zapatero-concede-primera-entrevista-television-publica-imputacion.html][Zapatero concede la primera entrevista a la televisión pública tras su imputación]]
 
 *** El Diario de Cantabria
 
@@ -83,11 +83,11 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/americas/carney-has-tried-the-carrot-and-the-stick-with-trumpbut-neither-is-working-a1c2a7bf][Carney Has Tried the Carrot and the Stick With Trump—but Neither Is Working]]
+- [[https://www.wsj.com/world/asia/nvidia-sk-hynix-chips-ceo-chey-divorce-30016f65][This AI Tech Billionaire Just Doubled His Net Worth. His Ex Asked for Half.]]
 - [[https://www.wsj.com/world/middle-east/u-s-surges-forces-toward-middle-east-giving-trump-options-to-expand-iran-war-e5d627b1][U.S. Surges Forces Toward Middle East, Giving Trump Options to Expand Iran War]]
 - [[https://www.wsj.com/world/middle-east/trump-approves-landmark-nuclear-deal-with-saudi-arabia-in-big-win-for-kingdom-2ed77584][Trump Approves Landmark Nuclear Deal With Saudi Arabia in Big Win for Kingdom]]
 - [[https://www.wsj.com/world/middle-east/trump-says-u-s-will-bomb-irans-power-plants-bridges-if-tehran-strikes-ships-7db7e165][Trump Says U.S. Will Bomb Iran’s Power Plants, Bridges if Tehran Strikes Ships]]
-- [[https://www.wsj.com/world/middle-east/trump-attends-dignified-transfer-for-u-s-servicemembers-killed-in-middle-east-06a12a92][Trump Attends Dignified Transfer for U.S. Servicemembers Killed in Middle East]]
-- [[https://www.wsj.com/world/middle-east/saudi-nuclear-deal-five-things-to-know-4f2d36a8][Saudi Nuclear Deal: Five Things to Know]]
 
 ** 🇫🇷 Francia
 
@@ -105,17 +105,17 @@
 - [[https://www.lefigaro.fr/marseille/nous-condamnons-fermement-cette-facon-de-faire-dans-une-video-des-membres-presumes-de-la-dz-mafia-nient-avoir-menace-le-maire-d-ales-20260722][«Nous condamnons fermement cette façon de faire» : dans une vidéo, des membres présumés de la DZ Mafia nient avoir menacé le maire d’Alès]]
 - [[https://www.lefigaro.fr/marseille/il-a-fait-le-malin-alors-ils-ne-vont-pas-le-lacher-a-ales-une-etonnante-banalisation-de-la-violence-apres-les-menaces-de-mort-repetees-contre-le-maire-20260722][«Il a fait le malin, alors ils ne vont pas le lâcher» : à Alès, une étonnante banalisation de la violence après les menaces de mort répétées contre le maire]]
 - [[https://www.lefigaro.fr/vox/societe/l-editorial-d-yves-threard-face-au-narcotrafic-la-france-ne-peut-pas-capituler-20260722][L’éditorial d’Yves Thréard : « Face au narcotrafic, la France ne peut pas capituler »]]
-- [[https://www.lefigaro.fr/meteo/fortes-pluies-grele-rafales-a-plus-de-100-km-h-des-orages-violents-vont-toucher-la-france-ce-week-end-20260722][Fortes pluies, grêle, rafales à plus de 100 km/h... Des orages «violents» vont toucher la France ce week-end]]
+- [[https://www.lefigaro.fr/actualite-france/en-direct-incendie-dans-le-var-le-feu-continue-de-progresser-a-une-vitesse-tres-importante-et-a-deja-parcouru-plus-de-1700-hectares-20260722][EN DIRECT - Incendies : 2000 hectares dévorés par les flammes en Gironde, au moins 12.000 personnes évacuées]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
 - [[https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss][US signs landmark nuclear deal with Saudi Arabia]]
-- [[https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss][Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist]]
+- [[https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss][Houthis claim attack on oil tankers as US launches more strikes on Iran]]
 - [[https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss][Tankers make sharp U-turns after Houthi shipping threat]]
+- [[https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss][Russia's businesses under strain from Ukraine's attacks on Wildberries]]
 - [[https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss][Fire kills 10 members of same family in Peru, police say]]
-- [[https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&at_campaign=rss][British woman jailed for blackmail after accusing banker of rape in Hong Kong]]
 
 *** The Guardian
 
@@ -165,11 +165,11 @@
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/07/flavio-bolsonaro-emitiu-e-cancelou-r-1-milhao-em-notas-fiscais-para-empresa-que-operou-com-o-master.shtml][Flávio Bolsonaro emitiu e cancelou R$ 1 milhão em notas fiscais para empresa que operou com o Master]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/07/futuro-museu-de-sao-paulo-recebe-aviao-historico-dos-estados-unidos.shtml][Futuro Museu de São Paulo recebe avião histórico dos Estados Unidos]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/07/filha-mais-nova-de-brad-pitt-e-angelina-jolie-entra-na-justica-para-tirar-o-sobrenome-do-pai.shtml][Filha mais nova de Brad Pitt e Angelina Jolie entra na Justiça para tirar o sobrenome do pai]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/thiago-amparo/2026/07/flavio-nunca-foi-um-moderado.shtml][Flávio nunca foi um moderado]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/07/claudia-raia-relembra-boatos-sobre-hiv-e-diz-que-apoio-a-collor-foi-desgraca-em-sua-vida.shtml][Claudia Raia relembra boatos sobre HIV e diz que apoio a Collor foi 'desgraça' em sua vida]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/07/mudancas-climaticas-nao-el-nino-causaram-branqueamento-de-corais-em-escala-global.shtml][Mudanças climáticas, não El Niño, causaram branqueamento de corais em escala global]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/07/governo-lula-publica-regras-para-preco-confidencial-na-saude-e-espera-desconto-de-50-no-alto-custo.shtml][Governo Lula publica regras para preço confidencial na Saúde e espera desconto de 50% no alto custo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/07/educacao-corporativa-cresce-como-alternativa-as-limitacoes-do-ensino-a-distancia.shtml][Educação corporativa cresce como alternativa às limitações do ensino a distância]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/07/sem-regulamentacao-formal-microlearning-cresce-por-demanda-do-mercado.shtml][Sem regulamentação formal, microlearning cresce por demanda do mercado]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/07/com-atividades-presenciais-ead-tenta-aumentar-qualidade-e-reduzir-deficiencias-de-formacao.shtml][Com atividades presenciais, EAD tenta aumentar qualidade e reduzir deficiências de formação]]
 
 *** O Globo
 
