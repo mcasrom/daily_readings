@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 52.6°C | ⚖ Load: 0.10 | 🌐 Ping: 9.12ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 52.6°C | ⚖ Load: 0.00 | 🌐 Ping: 9.11ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,35 +41,35 @@
 
 *** El País
 
-- [[https://elpais.com/espana/comunidad-valenciana/2026-07-22/les-corts-valencianes-aprueban-los-primeros-presupuestos-en-espana-que-incluyen-la-prioridad-nacional-de-vox.html][El PP se pliega a Vox y Les Corts Valencianes aprueban los primeros presupuestos en España que incluyen la “prioridad nacional”]]
-- [[https://elpais.com/espana/2026-07-22/el-incendio-de-guadalajara-entra-en-fase-de-estabilizacion-tras-arrasar-mas-de-32000-hectareas.html][El incendio de Guadalajara entra en fase de “estabilización” tras arrasar más de 32.000 hectáreas]]
-- [[https://elpais.com/espana/madrid/2026-07-22/evacuado-el-encinar-del-alberche-y-confinado-villa-del-prado-en-madrid-por-un-incendio-en-la-localidad-toledana-de-almorox.html][El incendio de la localidad toledana de Almorox salta a Madrid y se moviliza la UME]]
-- [[https://elpais.com/internacional/2026-07-22/trump-autoriza-un-pacto-nuclear-que-permitira-a-arabia-saudi-enriquecer-uranio.html][Trump autoriza un pacto nuclear que permitirá a Arabia Saudí enriquecer uranio]]
-- [[https://elpais.com/espana/catalunya/2026-07-22/una-testigo-revela-que-la-terapia-de-los-andic-incluia-una-situacion-extrema-en-un-barranco.html][Una testigo revela que la terapia de los Andic incluía una situación extrema en un barranco]]
+- [[https://elpais.com/sociedad/2026-07-23/monica-garcia-las-logicas-partidistas-no-deben-frenar-una-ley-que-busca-evitar-140-muertes-al-dia.html][Mónica García: “Las lógicas partidistas no deben frenar una ley que busca evitar 140 muertes al día”]]
+- [[https://elpais.com/sociedad/2026-07-23/de-la-generacion-sin-humo-britanica-a-fumar-en-los-bares-alemanes-asi-lucha-europa-contra-el-tabaco.html][De la generación sin humo británica a fumar en los bares alemanes: así lucha Europa contra el tabaco]]
+- [[https://elpais.com/economia/2026-07-23/el-gobierno-declara-la-guerra-al-tabaco-con-la-recaudacion-de-los-cigarrillos-y-vapeadores-en-maximos-historicos.html][El Gobierno declara la guerra al tabaco con la recaudación de los cigarrillos y vapeadores en máximos históricos]]
+- [[https://elpais.com/espana/2026-07-23/ultima-hora-de-la-actualidad-politica-en-directo.html][Última hora de la actualidad política, en directo | El PSOE espera de la entrevista a Zapatero que dé “explicaciones que despejen dudas”]]
+- [[https://elpais.com/economia/2026-07-23/el-gobierno-propone-a-yolanda-diaz-como-directora-general-de-la-oit-el-organismo-de-la-onu-dedicado-al-trabajo.html][El Gobierno propone a Yolanda Díaz como directora general de la OIT, el organismo de la ONU dedicado al trabajo]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/07/22/6a611098fc6c8380618b45a4.html][El Gobierno rescató a Plus Ultra con una estructura de control accionarial falseada]]
+- [[https://www.elmundo.es/espana/2026/07/22/6a611098fc6c8380618b45a4.html][El Gobierno rescató  Plus Ultra con una estructura de control accionarial falseada]]
 - [[https://www.elmundo.es/espana/2026/07/22/6a60e3bf21efa078558b4583.html][La Audiencia ve como un "gran avance" para el tráfico de influencias la confesión del pagador de Zapatero y los directivos de Plus Ultra]]
 - [[https://www.elmundo.es/espana/2026/07/22/6a611444e4d4d8850e8b4588.html][Feijóo promete una "reconstrucción nacional" y reformas estructurales: "Hacienda dejará de ser el gran beneficiario"]]
 - [[https://www.elmundo.es/espana/2026/07/22/6a61154afdddff34498b45ba.html][Las 1.001 vidas de los evacuados en el incendio de Guadalajara y el pastor que desafió a la Guardia Civil quedándose en su pueblo pese a las llamas: "No podía permitir que se quemaran mis ovejas y mis colmenas"]]
-- [[https://www.elmundo.es/internacional/2026/07/23/6a5f802121efa0435f8b45a2.html][Un pragmático al frente de Hamas para dar un empujón a la negociación con EEUU e Israel en una Gaza con 1.000 civiles muertos ya desde la tregua]]
+- [[https://www.elmundo.es/economia/2026/07/23/6a61bd11e4d4d85a3e8b456f.html][El Gobierno propone a Yolanda Díaz para dirigir la Organización Internacional del Trabajo]]
 
 *** La Vanguardia
 
 - [[https://www.lavanguardia.com/vida/20260723/11598791/mierla-desolacion-e-indignacion-mayores-incendios-espana.html][La Mierla: desolación e indignación por uno de los mayores incendios de España]]
-- [[https://www.lavanguardia.com/vida/20260722/11598530/incendios-activos-espana.html][Los incendios activos en España]]
 - [[https://www.lavanguardia.com/vida/20260722/11598810/confinan-villa-prado-evacuan-urbanizacion-incendio-almorox-toledo.html][Confinan la Villa del Prado y evacuan varias urbanizaciones de Madrid por el incendio en Almorox (Toledo)]]
-- [[https://www.lavanguardia.com/politica/20260722/11598431/comision-europea-recibe-demanda-puigdemont-abstiene-comentarla.html][Bruselas recuerda que los tribunales españoles tienen que aplicar el fallo del TJUE]]
-- [[https://www.lavanguardia.com/politica/20260722/11598826/zapatero-concede-primera-entrevista-television-publica-imputacion.html][Zapatero concede la primera entrevista a la televisión pública tras su imputación]]
+- [[https://www.lavanguardia.com/vida/20260722/11598530/incendios-activos-espana.html][Los incendios activos en España]]
+- [[https://www.lavanguardia.com/local/catalunya/20260723/11599056/catalunya-alerta-maxima-riesgo-incendio-hoy-semana.html][Catalunya, en alerta máxima por riesgo de incendio desde hoy y hasta el fin de semana]]
+- [[https://www.lavanguardia.com/politica/20260722/11598826/zapatero-concede-primera-entrevista-television-publica-imputacion.html][Zapatero se explica en televisión tras la declaración acusatoria de su amigo]]
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/politica/cantabria-otras-cinco-comunidades-pp-plantan-cara-gobierno-central-reforma-costas-apelan-bruselas/20260723114609196199.html][Cantabria y otras cinco comunidades del PP plantan cara al Gobierno central por la reforma de Costas y reclaman que Bruselas estudie sus alegaciones]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/convocan-dos-protestas-tauromaquia-feria-santiago-santander/20260723111325196196.html][La feria taurina de Santander, de nuevo en el centro de la polémica: convocan dos protestas para denunciar que "la tortura no es cultura"]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/averia-electrica-paraliza-gran-parte-circulacion-cercanias-cantabria/20260723102403196194.html][Una avería eléctrica deja sin circulación gran parte de los trenes de Cantabria]]
 - [[https://eldiariocantabria.publico.es/articulo/saja-besaya/ayuntamiento-compra-parcela-dotar-carandia-pista-deportiva/20260722213244196192.html][El Ayuntamiento compra una parcela para dotar a Carandía de una pista deportiva]]
 - [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/212-ninos-jovenes-municipio-disfrutan-campamentos-verano-organizados-entidades-juveniles/20260722212422196190.html][212 niños y jóvenes del municipio disfrutan de los campamentos de verano organizados por entidades juveniles]]
-- [[https://eldiariocantabria.publico.es/articulo/torrelavega/cursos-verano-uc-encaran-recta-final-capital-besaya/20260722211323196188.html][Los Cursos de Verano de la UC encaran su recta final en la capital del Besaya]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/prc-pide-iluminar-fachada-ayuntamiento-colores-cantabria-28-julio/20260722210115196186.html][El PRC pide iluminar la fachada del Ayuntamiento con los colores de Cantabria el 28 de julio]]
-- [[https://eldiariocantabria.publico.es/articulo/trasmiera/cerrada-playa-trengandin-noja-picadura-medusas-varios-banistas/20260722205127196185.html][Cerrada la playa de Trengandín de Noja tras la picadura de medusas a varios bañistas]]
 
 ** 🇺🇸 Estados Unidos
 
@@ -93,19 +93,19 @@
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/politique/article/2026/07/22/le-recul-environnemental-de-trop-la-ministre-de-la-transition-ecologique-monique-barbut-annonce-remettre-sa-demission-apres-le-vote-de-la-loi-d-urgence-agricole_6729994_823448.html][« Le recul environnemental de trop » : Monique Barbut, ministre de la transition écologique, annonce remettre sa démission après le vote de la loi d’urgence agricole]]
-- [[https://www.lemonde.fr/international/article/2026/07/22/la-propagandiste-xenia-fedorova-echappe-aux-sanctions-europeennes-contre-des-personnalites-russes_6730000_3210.html][La propagandiste Xenia Fedorova échappe aux sanctions européennes contre des personnalités russes]]
-- [[https://www.lemonde.fr/series-d-ete/article/2026/07/22/au-maroc-je-ne-me-cachais-pas-le-maghreb-refuge-de-plus-en-plus-menace-des-narcos-francais_6729818_3451060.html][Le Maghreb, lieu de planque de moins en moins tranquille des « narcos » français]]
-- [[https://www.lemonde.fr/international/article/2026/07/22/le-lancement-des-zones-pilotes-dans-le-sud-du-liban-premier-test-de-l-accord-cadre-avec-israel_6729988_3210.html][Les zones pilotes dans le Liban sud, ce premier test de l’accord-cadre avec Israël : « On demande à l’armée la permission d’aller voir nos maisons une heure »]]
-- [[https://www.lemonde.fr/international/article/2026/07/22/l-italie-secouee-apres-la-mort-d-un-homme-lors-de-son-interpellation-par-la-police_6729997_3210.html][L’Italie secouée après la mort d’un homme lors de son interpellation par la police]]
+- [[https://www.lemonde.fr/planete/live/2026/07/23/en-direct-incendie-en-gironde-2-000-hectares-parcourus-par-les-flammes-12-000-personnes-evacuees_6730417_3244.html][EN DIRECT, incendie en Gironde : un incendie particulièrement intense près du bassin d’Arcachon, tous les massifs du Var fermés à cause des feux]]
+- [[https://www.lemonde.fr/planete/article/2026/07/23/la-rougeole-hors-de-controle-aux-etats-unis-sur-fond-de-vaccino-scepticisme_6730520_3244.html][Une épidémie de rougeole « hors de contrôle » aux Etats-Unis, sur fond de vaccino-scepticisme d’une partie des habitants et de l’administration Trump]]
+- [[https://www.lemonde.fr/economie/article/2026/07/23/totalenergies-engrange-11-2-milliards-de-dollars-de-benefice-en-six-mois-sur-fond-de-guerre-au-moyen-orient_6730624_3234.html][TotalEnergies engrange 11,2 milliards de dollars de bénéfice en six mois, sur fond de guerre au Moyen-Orient]]
+- [[https://www.lemonde.fr/societe/article/2026/07/23/sanctionne-pour-avoir-conteste-ses-conditions-de-detention-salah-abdeslam-est-decide-a-faire-valoir-ses-droits_6730416_3224.html][Salah Abdeslam, sanctionné pour avoir dénoncé ses conditions de détention, se confronte à l’administration pénitentiaire]]
+- [[https://www.lemonde.fr/international/live/2026/07/23/en-direct-guerre-au-moyen-orient-l-iran-revendique-des-bombardements-sur-des-sites-militaires-americains-en-jordanie-et-au-koweit_6725301_3210.html][EN DIRECT, guerre au Moyen-Orient : l’Iran revendique des bombardements sur des sites militaires américains en Jordanie et au Koweït]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/actualite-france/on-a-franchi-un-palier-supplementaire-apres-l-exfiltration-du-maire-d-ales-les-elus-dans-le-viseur-des-narcotrafiquants-20260722][« On a franchi un palier supplémentaire » : après l’exfiltration du maire d’Alès, les élus dans le viseur des narcotrafiquants]]
-- [[https://www.lefigaro.fr/marseille/nous-condamnons-fermement-cette-facon-de-faire-dans-une-video-des-membres-presumes-de-la-dz-mafia-nient-avoir-menace-le-maire-d-ales-20260722][«Nous condamnons fermement cette façon de faire» : dans une vidéo, des membres présumés de la DZ Mafia nient avoir menacé le maire d’Alès]]
-- [[https://www.lefigaro.fr/marseille/il-a-fait-le-malin-alors-ils-ne-vont-pas-le-lacher-a-ales-une-etonnante-banalisation-de-la-violence-apres-les-menaces-de-mort-repetees-contre-le-maire-20260722][«Il a fait le malin, alors ils ne vont pas le lâcher» : à Alès, une étonnante banalisation de la violence après les menaces de mort répétées contre le maire]]
-- [[https://www.lefigaro.fr/vox/societe/l-editorial-d-yves-threard-face-au-narcotrafic-la-france-ne-peut-pas-capituler-20260722][L’éditorial d’Yves Thréard : « Face au narcotrafic, la France ne peut pas capituler »]]
-- [[https://www.lefigaro.fr/actualite-france/en-direct-incendie-dans-le-var-le-feu-continue-de-progresser-a-une-vitesse-tres-importante-et-a-deja-parcouru-plus-de-1700-hectares-20260722][EN DIRECT - Incendies : 2000 hectares dévorés par les flammes en Gironde, au moins 12.000 personnes évacuées]]
+- [[https://www.lefigaro.fr/elections/stature-presidentielle-francois-hollande-prend-le-pouvoir-a-gauche-20260723][Stature présidentielle : François Hollande prend le pouvoir à gauche]]
+- [[https://www.lefigaro.fr/meteo/en-direct-incendies-du-var-a-la-gironde-les-pompiers-se-battent-contre-deux-feux-d-ampleur-20260723][EN DIRECT - Incendies : huit campings au nord du bassin d’Arcachon ont été évacués]]
+- [[https://www.lefigaro.fr/nantes/nantes-un-nouvel-incendie-ravage-un-campement-rom-aux-portes-de-la-ville-8-hectares-brules-20260723][Nantes : un nouvel incendie ravage un campement rom aux portes de la ville, 8 hectares brûlés]]
+- [[https://www.lefigaro.fr/meteo/gironde-une-spectaculaire-tornade-de-feu-filmee-au-coeur-de-l-incendie-pres-de-2000-hectares-deja-ravages-20260723][Gironde : une spectaculaire «tornade de feu» filmée au cœur de l’incendie, près de 2000 hectares déjà ravagés]]
+- [[https://www.lefigaro.fr/actualite-france/feux-de-foret-en-france-quels-ont-ete-les-incendies-les-plus-devastateurs-20260714][Feux de forêt en France : quels ont été les incendies les plus dévastateurs ?]]
 
 ** 🇬🇧 Reino Unido
 
@@ -113,9 +113,9 @@
 
 - [[https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss][US signs landmark nuclear deal with Saudi Arabia]]
 - [[https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss][Houthis claim attack on oil tankers as US launches more strikes on Iran]]
+- [[https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss][Around 12,000 people evacuated in France fires]]
+- [[https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss]['I am still alive': Indian activist on hunger strike for 26 days loses 11kg]]
 - [[https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss][Tankers make sharp U-turns after Houthi shipping threat]]
-- [[https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss][Russia's businesses under strain from Ukraine's attacks on Wildberries]]
-- [[https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss][Fire kills 10 members of same family in Peru, police say]]
 
 *** The Guardian
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
+- [[https://www.ilsole24ore.com/art/bocchettoni-piscine-arriva-stretta-camera-approva-all-unanimita-nuovo-obbligo-AJ2oLHT][Bocchettoni piscine, arriva la stretta: la Camera approva all’unanimità il nuovo obbligo]]
+- [[https://www.ilsole24ore.com/art/commercio-dettaglio-meno-dipendenti-ma-fatturato-piu-alto-ecco-quali-settori-cresce-l-efficienza-operativa-AJoTKBT][Commercio al dettaglio, meno dipendenti ma fatturato più alto: ecco in quali settori cresce l’efficienza operativa]]
+- [[https://www.ilsole24ore.com/art/dipendenti-pubblici-record-contratti-20-intese-cinque-anni-AJe9znS][Dipendenti pubblici, record di contratti: 20 intese in cinque anni]]
+- [[https://www.ilsole24ore.com/art/mattarella-compie-85-anni-sfide-colle-elezioni-e-costituzione-AJZQ4YS][Mattarella compie 85 anni: le sfide al Colle tra elezioni e Costituzione]]
 - [[https://www.ilsole24ore.com/art/milano-calabresi-candidarmi-ci-penso-mi-piacerebbe-fare-mia-parte-AJDWusS][Milano: Calabresi, candidarmi? Ci penso, mi piacerebbe fare mia parte]]
-- [[https://www.ilsole24ore.com/art/scossa-centrodestra-milanese-capogruppo-forza-italia-passa-vannacci-AJFuBpS][Milano, scossa nel centrodestra: capogruppo di Forza Italia passa con Vannacci]]
-- [[https://www.ilsole24ore.com/art/emendamento-dl-sport-chiusura-le-piscine-bocchettoni-non-norma-AJu9XhS][Emendamento al dl Sport, chiusura per le piscine con bocchettoni non a norma]]
-- [[https://www.ilsole24ore.com/art/esma-comporti-commissario-consob-forte-esperienza-europea-AJJ8wUS][Esma: Comporti, il commissario Consob con forte esperienza europea]]
-- [[https://www.ilsole24ore.com/art/delmastro-no-giunta-richiesta-pm-acquisire-chat-m5s-occupa-banchi-governo-AJW60OS][Delmastro, no della Giunta alla richiesta dei pm di acquisire le chat.  M5s occupa i banchi del governo]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/mykhailo-drapatyi-who-is-ukraine-s-new-commander-in-chief/a-78077075?maca=en-rss-en-world-4025-rdf][Mykhailo Drapatyi: Who is Ukraine's new commander-in-chief?]]
 - [[https://www.dw.com/en/hungary-ex-pm-orban-pledges-resistance-to-magyar-tyranny/a-78076217?maca=en-rss-en-world-4025-rdf][Hungary: Ex-PM Orban pledges resistance to Magyar 'tyranny']]
 - [[https://www.dw.com/en/who-could-be-the-next-un-secretary-general/a-78052763?maca=en-rss-en-world-4025-rdf][Who could be the next UN Secretary-General?]]
 - [[https://www.dw.com/en/how-russia-is-luring-foreign-nationals-to-fight-in-ukraine/a-78074153?maca=en-rss-en-world-4025-rdf][How Russia is luring foreign nationals to fight in Ukraine]]
 - [[https://www.dw.com/en/germany-s-growing-interest-in-africa-a-win-for-both-sides/a-78068049?maca=en-rss-en-world-4025-rdf][Germany's growing interest in Africa: A win for both sides?]]
-- [[https://www.dw.com/en/what-s-holding-up-the-gaza-stabilization-mission/a-78066920?maca=en-rss-en-world-4025-rdf][What's holding up the Gaza stabilization mission?]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/07/mudancas-climaticas-nao-el-nino-causaram-branqueamento-de-corais-em-escala-global.shtml][Mudanças climáticas, não El Niño, causaram branqueamento de corais em escala global]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/07/governo-lula-publica-regras-para-preco-confidencial-na-saude-e-espera-desconto-de-50-no-alto-custo.shtml][Governo Lula publica regras para preço confidencial na Saúde e espera desconto de 50% no alto custo]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/07/educacao-corporativa-cresce-como-alternativa-as-limitacoes-do-ensino-a-distancia.shtml][Educação corporativa cresce como alternativa às limitações do ensino a distância]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/07/sem-regulamentacao-formal-microlearning-cresce-por-demanda-do-mercado.shtml][Sem regulamentação formal, microlearning cresce por demanda do mercado]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/07/com-atividades-presenciais-ead-tenta-aumentar-qualidade-e-reduzir-deficiencias-de-formacao.shtml][Com atividades presenciais, EAD tenta aumentar qualidade e reduzir deficiências de formação]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/07/falha-paralisa-linhas-11-12-e-13-da-trivia-trens-e-provoca-caos-no-transporte-coletivo-em-sp.shtml][Falha paralisa linhas 11, 12 e 13 da Trivia Trens e provoca caos no transporte coletivo em SP]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/07/familia-enfrenta-minas-terrestres-e-mar-revolto-para-fugir-da-coreia-do-norte.shtml][Família enfrenta minas terrestres e mar revolto para fugir da Coreia do Norte]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/07/vereadora-acusa-ex-de-perseguicao-politica-apos-divulgar-boletim-de-ocorrencia-contra-ela.shtml][Vereadora acusa ex de perseguição política após divulgar boletim de ocorrência contra ela]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/07/lotofacil-de-independencia-vai-pagar-premio-recorde-de-r-300-milhoes.shtml][Lotofácil de Independência vai pagar prêmio recorde de R$ 300 milhões]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/07/ex-marido-de-preta-gil-se-oferece-para-participar-de-a-fazenda-record-nega-negociacao.shtml][Ex-marido de Preta Gil se oferece para participar de A Fazenda; Record nega negociação]]
 
 *** O Globo
 
