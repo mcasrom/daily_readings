@@ -12,8 +12,8 @@ analytics:
   - 5
   - 7
 clustering:
-  min_cluster_size: 2
-  min_samples: 1
+  min_cluster_size: 3
+  min_samples: 2
   similarity_threshold: 0.75
   window_days: 7
 deploy:
@@ -46,6 +46,10 @@ sources:
     name: Deutsche Welle
     type: general
     url: https://rss.dw.com/rdf/rss-en-world
+  - lang: de
+    name: Die Zeit
+    type: general
+    url: https://www.zeit.de/index.rss
   brasil:
   - lang: pt
     name: Folha de S.Paulo
@@ -89,6 +93,14 @@ sources:
     name: WSJ
     type: financial
     url: https://feeds.content.dowjones.io/public/rss/RSSWorldNews
+  - lang: en
+    name: CNN
+    type: general
+    url: http://rss.cnn.com/rss/edition_world.rss
+  - lang: en
+    name: Reuters
+    type: general
+    url: https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best&best-sectors=world
   francia:
   - lang: fr
     name: Le Monde
@@ -98,6 +110,10 @@ sources:
     name: Le Figaro
     type: general
     url: https://www.lefigaro.fr/rss/figaro_actualites.xml
+  - lang: fr
+    name: France24
+    type: general
+    url: https://www.france24.com/en/rss
   italia:
   - lang: it
     name: Corriere della Sera
