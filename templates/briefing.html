@@ -1,0 +1,991 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intelligence Hub — {{ date }}</title>
+    <meta name="description" content="Intelligence Hub · Análisis geopolítico automatizado. Clustering, detección de sincronizadas, word tracking y wordclouds sobre 16 fuentes RSS en 7 países.">
+    <meta property="og:title" content="Intelligence Hub — {{ date }}">
+    <meta property="og:description" content="Análisis geopolítico automatizado · 7 países · 16 fuentes · Clustering · Sincronizadas · Word Tracking">
+    <meta property="og:image" content="https://{{ site_domain }}/preview.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://{{ site_domain }}">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Intelligence Hub — {{ date }}">
+    <meta name="twitter:description" content="Análisis geopolítico automatizado · 7 países · 16 fuentes">
+    <meta name="twitter:image" content="https://{{ site_domain }}/preview.jpg">
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="192x192" href="/preview-icon.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="mobile-web-app-capable" content="yes">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            font-size: 16px; background: #0a0e17; color: #d0dbe8; line-height: 1.75;
+            max-width: 1320px; margin: 0 auto; padding: 0;
+        }
+
+        /* ── HEADER ── */
+        .top-bar {
+            background: linear-gradient(135deg, #0d1520 0%, #141e30 100%);
+            border-bottom: 1px solid #1a2a4a;
+            padding: 36px 36px 24px;
+            text-align: center;
+        }
+        .top-bar h1 {
+            font-size: 2.6em; color: #00d4ff; letter-spacing: 3px;
+            text-transform: uppercase; font-weight: 700;
+        }
+        .top-bar .tagline {
+            color: #607d8b; font-style: italic; font-size: 1.05em;
+            margin-top: 8px; border-top: 1px solid #1a2a4a;
+            padding-top: 12px; display: inline-block;
+        }
+        .top-bar .meta-bar {
+            display: flex; justify-content: center; gap: 36px;
+            flex-wrap: wrap; margin-top: 18px;
+            font-size: 0.95em; color: #546e7a;
+        }
+        .top-bar .meta-bar span { color: #4fc3f7; font-weight: 600; }
+
+        /* ── NAV ── */
+        .nav-bar {
+            display: flex; gap: 0; background: #0d1520;
+            border-bottom: 1px solid #1a2a4a; overflow-x: auto;
+            position: sticky; top: 0; z-index: 100;
+        }
+        .nav-bar a {
+            color: #607d8b; text-decoration: none; padding: 14px 22px;
+            font-size: 0.9em; border-bottom: 2px solid transparent;
+            transition: all 0.2s; white-space: nowrap;
+        }
+        .nav-bar a:hover { color: #00d4ff; border-bottom-color: #00d4ff; background: #111827; }
+
+        /* ── SECTIONS ── */
+        .section { padding: 25px 30px; border-bottom: 1px solid #0d1520; }
+        .section-title {
+            font-size: 1.5em; color: #00d4ff; margin-bottom: 20px;
+            display: flex; align-items: center; gap: 12px;
+        }
+        .section-title .badge {
+            background: #1a2a4a; color: #4fc3f7; font-size: 0.65em;
+            padding: 3px 12px; border-radius: 14px; font-weight: 500;
+        }
+
+        /* ── STATS CARDS ── */
+        .stats-grid {
+            display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px; margin-bottom: 10px;
+        }
+        .stat-card {
+            background: linear-gradient(135deg, #111827, #0d1520);
+            border: 1px solid #1a2a4a; border-radius: 10px;
+            padding: 18px; text-align: center;
+        }
+        .stat-card .num { font-size: 2.4em; font-weight: 700; color: #00d4ff; }
+        .stat-card .label { font-size: 0.85em; color: #607d8b; margin-top: 6px; }
+
+        /* ── COUNTRY / SOURCE ── */
+        .country-block { margin-bottom: 25px; }
+        .country-block + .country-block { margin-top: 35px; padding-top: 25px; border-top: 2px solid #1a2a4a; }
+        .source-block + .source-block { margin-top: 18px; padding-top: 12px; border-top: 1px dashed #0d1520; }
+        .country-header {
+            font-size: 1.3em; color: #4fc3f7; margin-bottom: 12px;
+            padding-bottom: 8px; border-bottom: 1px solid #1a2a4a;
+        }
+        .source-block { margin: 10px 0 10px 18px; }
+        .source-block.closed .article { display: none; }
+        .source-block.closed .source-name::after { content: "\25b6"; font-size: 0.7em; color: #455a64; margin-left: 6px; }
+        .source-block:not(.closed) .source-name::after { content: "\25bc"; font-size: 0.7em; color: #455a64; margin-left: 6px; }
+        .source-name { cursor: pointer; user-select: none; 
+            color: #78909c; font-size: 0.85em; text-transform: uppercase;
+            letter-spacing: 1.2px; margin-bottom: 5px;
+            display: flex; align-items: center; gap: 6px; cursor: pointer;
+        }
+        .source-name .star { color: #2a3a5a; font-size: 1.1em; transition: color 0.2s; user-select: none; }
+        .source-name .star.fav { color: #ffd54f; }
+        .source-name:hover .star { color: #4a5a7a; }
+        .article {
+            padding: 5px 0 5px 16px; border-left: 2px solid #1a2a4a;
+            margin: 4px 0; transition: border-color 0.15s;
+        }
+        .article:hover { border-left-color: #00d4ff; background: rgba(0,212,255,0.03); }
+        .article a {
+            color: #b0bec5; text-decoration: none; font-size: 0.95em;
+            display: block;
+        }
+        .article a:hover { color: #00d4ff; }
+
+        /* ── CLUSTER ── */
+        .cluster-card {
+            background: linear-gradient(135deg, #111827, #0d1520);
+            border: 1px solid #1a2a4a; border-left: 4px solid #ffd54f;
+            border-radius: 10px; padding: 18px; margin-bottom: 15px;
+        }
+        .cluster-card h3 { color: #ffd54f; font-size: 1.1em; margin-bottom: 6px; }
+        .cluster-card .meta { color: #607d8b; font-size: 0.85em; margin-bottom: 6px; }
+        .cluster-card .summary { color: #78909c; font-size: 0.9em; margin-bottom: 10px; }
+        .cluster-card .keywords { color: #4fc3f7; font-size: 0.85em; }
+        .cluster-card .article-list { margin-top: 8px; }
+        .cluster-card .article-list .article { border-left-color: #2a3a5a; }
+
+        /* ── SYNC ── */
+        .sync-card {
+            background: linear-gradient(135deg, #111827, #0d1520);
+            border: 1px solid #1a2a4a; border-left: 4px solid #ffd54f;
+            border-radius: 10px; padding: 14px 18px; margin-bottom: 12px;
+        }
+        .sync-card.editorial { border-left-color: #ff5252; }
+        .sync-card .topic { font-weight: 600; color: #e0e0e0; font-size: 1em; }
+        .sync-card .sources { color: #ffd54f; font-size: 0.85em; margin-top: 4px; }
+        .sync-card .countries { color: #546e7a; font-size: 0.8em; margin-top: 2px; }
+
+/* ── STANCE ── */        .stance-grid {            display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));            gap: 15px;        }        .stance-card {            background: linear-gradient(135deg, #111827, #0d1520);            border: 1px solid #1a2a4a; border-radius: 10px; padding: 16px;        }        .stance-card h3 { color: #4fc3f7; font-size: 1em; margin-bottom: 8px; }        .stance-card .bar { display: flex; height: 20px; border-radius: 4px; overflow: hidden; margin: 4px 0; }        .stance-card .bar .pro { background: #4caf50; }        .stance-card .bar .contra { background: #f44336; }        .stance-card .bar .neutral { background: #607d8b; }        .stance-card .src-row { display: flex; justify-content: space-between; font-size: 0.85em; margin: 6px 0; }        .stance-card .src-row .name { color: #b0bec5; }        .stance-card .src-row .counts { color: #78909c; }        .stance-card .legend { display: flex; gap: 12px; font-size: 0.75em; color: #607d8b; margin-top: 6px; }        .stance-card .legend span { display: flex; align-items: center; gap: 4px; }        .stance-card .legend .dot { width: 8px; height: 8px; border-radius: 2px; display: inline-block; }        /* ── COORDINATION ── */        .coord-card {            background: linear-gradient(135deg, #1a1520, #0d1520);            border: 1px solid #4a2a2a; border-left: 4px solid #ff5252;            border-radius: 10px; padding: 14px 18px; margin-bottom: 12px;        }        .coord-card .topic { font-weight: 600; color: #ff8a80; font-size: 1em; }        .coord-card .meta { color: #607d8b; font-size: 0.8em; margin-top: 4px; }
+        /* ── WORD WINDOWS ── */
+        .windows-grid {
+            display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+        }
+        .window-card {
+            background: #111827; border: 1px solid #1a2a4a;
+            border-radius: 10px; padding: 18px;
+        }
+        .window-card h3 { color: #4fc3f7; font-size: 1.05em; margin-bottom: 12px; text-align: center; }
+        .window-card ol { padding-left: 24px; font-size: 0.9em; columns: 2; column-gap: 24px; }
+        .window-card li { margin: 3px 0; color: #b0bec5; break-inside: avoid; }
+        .window-card li .count { color: #546e7a; }
+
+        /* ── WORDCLOUDS ── */
+        .clouds-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; }
+        .cloud-card { background: #111827; border: 1px solid #1a2a4a; border-radius: 10px; padding: 12px; text-align: center; }
+        .cloud-card h3 { color: #4fc3f7; font-size: 0.95em; margin-bottom: 10px; }
+        .cloud-card img { width: 100%; height: auto; border-radius: 6px; border: 1px solid #1a2a4a; }
+
+        /* ── TRENDING ── */
+        .trending-block { margin: 8px 0; }
+        .trending-lang { color: #4fc3f7; font-weight: 600; font-size: 0.9em; margin-top: 10px; }
+        .trending-tag {
+            display: inline-block; background: #1a2a4a; color: #69f0ae;
+            padding: 4px 14px; border-radius: 16px; font-size: 0.85em;
+            margin: 4px 5px 4px 0;
+        }
+        .trending-tag .ratio { color: #546e7a; }
+
+        /* ── FOOTER ── */
+        .footer {
+            text-align: center; color: #546e7a; font-size: 0.85em;
+            padding: 28px 30px; border-top: 1px solid #0d1520;
+        }
+        .footer a { color: #607d8b; }
+
+        /* ── BREAKING ── */
+        .breaking-banner {
+            background: linear-gradient(135deg, #3a1111, #2a0a0a); border: 1px solid #ff5252;
+            border-radius: 10px; padding: 18px; margin-bottom: 15px;
+            display: flex; align-items: center; gap: 15px; flex-wrap: wrap;
+        }
+        .breaking-banner .icon { font-size: 2em; }
+        .breaking-banner .content { flex: 1; }
+        .breaking-banner .content h3 { color: #ff5252; font-size: 1.1em; margin: 0; }
+        .breaking-banner .content p { color: #ff8a80; font-size: 0.9em; margin: 4px 0 0; }
+        .breaking-badge { background: #ff5252; color: #fff; padding: 2px 10px; border-radius: 12px; font-size: 0.7em; font-weight: bold; }
+
+        /* ── ENTIDADES ── */
+        .entities-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; }
+        .entity-card { background: #111827; border: 1px solid #1a2a4a; border-radius: 8px; padding: 12px; }
+        .entity-card h3 { color: #4fc3f7; font-size: 0.95em; margin-bottom: 10px; }
+        .entity-card .tag {
+        .entity-card .tag {
+            display: inline-block; background: #0d1520; border: 1px solid #1a2a4a;
+            padding: 4px 12px; border-radius: 14px; font-size: 0.85em; margin: 3px 4px; color: #b0bec5;
+        }
+        .entity-card .tag .count { color: #546e7a; }
+
+        /* ── MODAL ── */
+        .modal-overlay {
+            display: none; position: fixed; z-index: 999; inset: 0;
+            background: rgba(0,0,0,0.75); backdrop-filter: blur(4px);
+            justify-content: center; align-items: center; padding: 20px;
+        }
+        .modal-overlay.active { display: flex; }
+        .modal-content {
+            background: #0d1520; border: 1px solid #1a2a4a; border-radius: 14px;
+            max-width: 720px; width: 100%; max-height: 85vh; overflow-y: auto;
+            padding: 24px; position: relative;
+        }
+        .modal-content .close {
+            position: absolute; top: 12px; right: 16px; color: #455a64;
+            cursor: pointer; font-size: 1.5em; line-height: 1;
+        }
+        .modal-content .close:hover { color: #ff5252; }
+        .modal-content h2 { color: #00d4ff; font-size: 1.3em; margin-bottom: 16px; }
+        .modal-step {
+            display: flex; gap: 14px; padding: 10px 12px;
+            border-bottom: 1px solid #1a2a4a; align-items: flex-start;
+        }
+        .modal-step:last-child { border-bottom: none; }
+        .modal-step .num {
+            color: #ffd54f; font-weight: 700; font-size: 1.1em;
+            min-width: 28px; margin-top: 2px;
+        }
+        .modal-step .desc { flex: 1; }
+        .modal-step .desc strong { color: #4fc3f7; display: block; font-size: 0.9em; }
+        .modal-step .desc p { color: #78909c; font-size: 0.82em; margin: 2px 0 0; line-height: 1.5; }
+        .modal-step .code { color: #455a64; font-size: 0.7em; white-space: nowrap; }
+        .btn-modal {
+            background: transparent; border: 1px solid #1a2a4a; color: #4fc3f7;
+            cursor: pointer; padding: 8px 18px; border-radius: 8px; font-size: 0.85em;
+            transition: all 0.2s; display: inline-flex; align-items: center; gap: 6px;
+        }
+        .btn-modal:hover { border-color: #00d4ff; background: rgba(0,212,255,0.05); }
+        .status-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 8px; margin-top: 12px; }
+        .status-item { display: flex; align-items: center; gap: 8px; padding: 6px 10px; border-radius: 6px; font-size: 0.8em; background: #111827; }
+        .status-item .dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+        .status-item .dot.ok { background: #69f0ae; }
+        .status-item .dot.err { background: #ff5252; }
+        .status-item .dot.cache { background: #4fc3f7; }
+        .status-item .name { color: #b0bec5; }
+        .status-item .count { color: #455a64; margin-left: auto; font-size: 0.85em; }
+        .status-item .error { color: #ff5252; font-size: 0.8em; margin-left: 8px; }
+
+        /* ── TIMELINE ── */
+        .timeline { display: flex; gap: 6px; flex-wrap: wrap; margin: 8px 0; }
+        .timeline-day {
+            background: #0d1520; border: 1px solid #1a2a4a; border-radius: 6px;
+            padding: 4px 10px; font-size: 0.7em; color: #607d8b;
+        }
+        .timeline-day.active { border-color: #4fc3f7; color: #4fc3f7; }
+        .timeline-day .count { color: #455a64; }
+
+        /* ── FUENTES ── */
+        .fuentes-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; }
+        .fuente-card {
+            background: #111827; border: 1px solid #1a2a4a; border-radius: 8px;
+            padding: 12px 15px; transition: border-color 0.2s;
+        }
+        .fuente-card:hover { border-color: #2a3a5a; }
+        .fuente-card .name { color: #4fc3f7; font-size: 0.95em; font-weight: 600; }
+        .fuente-card .url { color: #455a64; font-size: 0.7em; word-break: break-all; margin: 2px 0; }
+        .fuente-card .lang { color: #607d8b; font-size: 0.75em; }
+        .fuente-card .status { display: inline-block; font-size: 0.7em; padding: 1px 8px; border-radius: 10px; }
+        .fuente-card .status.ok { background: #1b3a2a; color: #69f0ae; }
+        .fuente-card .status.err { background: #3a1b1b; color: #ff5252; }
+
+        /* ── METODOLOGÍA ── */
+        .methodology { background: #111827; border: 1px solid #1a2a4a; border-radius: 10px; padding: 20px; }
+        .methodology h3 { color: #4fc3f7; font-size: 1.05em; margin: 18px 0 8px; }
+        .methodology h3:first-child { margin-top: 0; }
+        .methodology p { color: #78909c; font-size: 0.9em; margin-bottom: 8px; line-height: 1.7; }
+        .methodology code { background: #0a0e17; padding: 1px 6px; border-radius: 4px; color: #ffd54f; font-size: 0.9em; }
+        .pipeline { display: flex; flex-wrap: wrap; gap: 6px; margin: 12px 0; }
+        .pipeline-step {
+            background: #0d1520; border: 1px solid #1a2a4a; border-radius: 6px;
+            padding: 8px 14px; font-size: 0.8em; color: #b0bec5; text-align: center; flex: 1; min-width: 100px;
+        }
+        .pipeline-step .arrow { color: #00d4ff; display: block; font-size: 1.2em; margin-top: 4px; }
+
+        /* ── ABOUT ── */
+        .about-section { background: #111827; border: 1px solid #1a2a4a; border-radius: 10px; padding: 20px; }
+        .about-section p { color: #78909c; font-size: 0.9em; line-height: 1.7; margin-bottom: 10px; }
+        .about-section .highlight { color: #4fc3f7; }
+        .tech-list { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }
+        .tech-tag { background: #0d1520; border: 1px solid #1a2a4a; padding: 4px 12px; border-radius: 6px; font-size: 0.8em; color: #b0bec5; }
+
+        /* ── RESPONSIVE ── */
+        @media (max-width: 768px) {
+            .top-bar h1 { font-size: 1.5em; }
+            .top-bar { padding: 20px 15px; }
+            .section { padding: 18px 15px; }
+            .nav-bar a { padding: 10px 14px; font-size: 0.8em; }
+            .stats-grid { grid-template-columns: repeat(2, 1fr); }
+            .window-card ol { columns: 1; }
+        }
+    
+        /* ── ACCORDION ── */
+        summary.section-title { cursor: pointer; user-select: none; display: flex; align-items: center; gap: 12px; padding: 0; }
+        summary.section-title:hover { opacity: 0.8; }
+        summary.section-title::after { content: "\25bc"; font-size: 0.6em; color: #455a64; margin-left: auto; transition: transform 0.2s; }
+        details.section:not([open]) summary.section-title::after { transform: rotate(-90deg); }
+        details.section { border-bottom: none; padding: 0; }
+
+
+        /* ── ACCORDION ── */
+        summary.section-title { cursor: pointer; user-select: none; display: flex; align-items: center; gap: 12px; padding: 0; }
+        summary.section-title:hover { opacity: 0.8; }
+        summary.section-title::after { content: "\25bc"; font-size: 0.6em; color: #455a64; margin-left: auto; transition: transform 0.2s; }
+        details.section:not([open]) summary.section-title::after { transform: rotate(-90deg); }
+        details.section { border-bottom: none; padding: 0; }
+
+</style>
+<!-- SEPARADORES ACTIVOS ♥ -->
+</head>
+<body>
+
+<div class="top-bar">
+    <h1>🌍 Intelligence Hub</h1>
+    <div class="tagline">«Quien controla el flujo de los datos, controla la narrativa del territorio»</div>
+    <div class="meta-bar">
+        <span>📅</span> {{ date }}
+        <span>⚡</span> {{ generated_at }}
+        <span>📊</span> {{ total_articles }} artículos
+        <span>🗂</span> {{ total_clusters }} clusters
+        <span>🔗</span> {{ sync_events|length }} sincronizadas
+    </div>
+</div>
+
+<nav class="nav-bar">
+    <a href="#titulares">📰 Titulares</a>
+    {% if breaking %}<a href="#breaking">🚨 Breaking</a>{% endif %}
+    {% if entities %}<a href="#entidades">🏷️ Entidades</a>{% endif %}
+    {% if clusters %}<a href="#clusters">🗂 Clústeres</a>{% endif %}
+    {% if sync_events %}<a href="#sincronizadas">🔗 Sincronizadas</a>{% endif %}
+    {% if frequencies %}<a href="#palabras">📈 Palabras</a>{% endif %}
+    {% if wordclouds %}<a href="#wordclouds">☁️ Nubes</a>{% endif %}
+    {% if trends %}<a href="#trending">🔥 Trending</a>{% endif %}
+    <a href="#archivo">🗂 Archivo</a>
+    <a href="#fuentes">📡 Fuentes</a>
+    <a href="#status">💚 Estado</a>
+    <a href="#metodologia">⚙️ Metodología</a>
+    <a href="#about">ℹ️ About</a>
+</nav>
+
+<div class="section" id="stats">
+    <div class="stats-grid">
+        <div class="stat-card"><div class="num">{{ total_articles }}</div><div class="label">Artículos</div></div>
+        <div class="stat-card"><div class="num">{{ total_clusters }}</div><div class="label">Clústeres</div></div>
+        <div class="stat-card"><div class="num">{{ sync_events|length }}</div><div class="label">Sincronizadas</div></div>
+        <div class="stat-card"><div class="num">{{ by_country|length }}</div><div class="label">Países</div></div>
+        <div class="stat-card" id="visit-stat"><div class="num" id="visit-count">···</div><div class="label">Visitas totales</div></div>
+    </div>
+</div>
+
+{% if breaking %}
+<div class="section" id="breaking">
+    <div class="section-title">🚨 Breaking News <span class="badge">{{ breaking|length }}</span></div>
+    {% for b in breaking %}
+    <div class="breaking-banner">
+        <div class="icon">🚨</div>
+        <div class="content">
+            <h3>{{ b.label }}</h3>
+            <p>{{ b.recent_articles }} artículos recientes · {{ b.sources }} fuentes · {{ b.countries|join(', ')|upper }}</p>
+        </div>
+        <span class="breaking-badge">{{ b.size }} total</span>
+    </div>
+    {% endfor %}
+</div>
+{% endif %}
+
+{% if entities %}
+<div class="section" id="entidades">
+    <div class="section-title">🏷️ Entidades detectadas</div>
+    <div class="entities-grid">
+        {% if entities.persons %}
+        <div class="entity-card">
+            <h3>👤 Personas</h3>
+            {% for name, count in entities.persons.items() %}
+            <span class="tag">{{ name }} <span class="count">({{ count }})</span></span>
+            {% endfor %}
+        </div>
+        {% endif %}
+        {% if entities.organizations %}
+        <div class="entity-card">
+            <h3>🏢 Organizaciones</h3>
+            {% for name, count in entities.organizations.items() %}
+            <span class="tag">{{ name }} <span class="count">({{ count }})</span></span>
+            {% endfor %}
+        </div>
+        {% endif %}
+        {% if entities.locations %}
+        <div class="entity-card">
+            <h3>🌍 Lugares</h3>
+            {% for name, count in entities.locations.items() %}
+            <span class="tag">{{ name }} <span class="count">({{ count }})</span></span>
+            {% endfor %}
+        </div>
+        {% endif %}
+        {% if entities.events %}
+        <div class="entity-card">
+            <h3>📌 Eventos</h3>
+            {% for name, count in entities.events.items() %}
+            <span class="tag">{{ name }} <span class="count">({{ count }})</span></span>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </div>
+</div>
+{% endif %}
+
+<div class="section" id="kpi">
+    <div class="section-title">📈 KPI 7 días <span class="badge">artículos / fuentes / clústeres</span></div>
+    <div style="position:relative;height:260px;">
+        <canvas id="kpiChart" style="width:100%;height:100%;"></canvas>
+    </div>
+    <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:10px;justify-content:center;">
+        {% for i in range(7) %}
+        <a{% if chart_data.editions[i] %} href="{{ chart_data.editions[i] }}_day_briefing.html"{% endif %}
+           style="display:flex;flex-direction:column;align-items:center;padding:8px 12px;border-radius:8px;text-decoration:none;
+                  {% if chart_data.editions[i] %}background:#111827;border:1px solid #1a2a4a;color:#4fc3f7;{% else %}background:#0a0e17;border:1px solid #0d1520;color:#2a3a5a;{% endif %}">
+            <span style="font-size:0.7em;color:#607d8b;">{{ chart_data.labels[i] }}</span>
+            <span style="font-size:1.1em;font-weight:700;">{{ chart_data.articles[i] }}</span>
+            <span style="font-size:0.6em;color:#607d8b;">arts</span>
+        </a{% if chart_data.editions[i] %}>{% else %}>{% endif %}
+        {% endfor %}
+    </div>
+</div>
+
+<div class="section" id="archivo">
+    <div class="section-title">🗂 Archivo de Noticias <span class="badge">7 días</span></div>
+    <div style="display:flex;gap:8px;flex-wrap:wrap;">
+    {% for entry in archive %}
+        {% if entry.exists %}
+        <a href="{{ entry.date }}_day_briefing.html" style="display:inline-block;background:#111827;border:1px solid #1a2a4a;border-radius:8px;padding:12px 18px;text-decoration:none;color:#4fc3f7;font-size:0.9em;transition:border-color 0.2s;" onmouseover="this.style.borderColor='#00d4ff'" onmouseout="this.style.borderColor='#1a2a4a'">
+            ⚡ Edición: {{ entry.date }}
+            <span style="display:block;color:#455a64;font-size:0.7em;margin-top:2px;">{{ entry.label }}</span>
+        </a>
+        {% else %}
+        <span style="display:inline-block;background:#0a0e17;border:1px solid #0d1520;border-radius:8px;padding:12px 18px;color:#2a3a5a;font-size:0.9em;">
+            ⚡ Edición: {{ entry.date }}
+            <span style="display:block;font-size:0.7em;margin-top:2px;">— no disponible —</span>
+        </span>
+        {% endif %}
+    {% endfor %}
+    </div>
+</div>
+
+{% if clusters %}
+<details class="section" id="clusters">
+    <summary class="section-title">🗂 Clústeres de noticias <span class="badge">{{ clusters|length }}</span></summary>
+    <div class="section-desc" style="color:#607d8b;font-size:0.9em;margin:-10px 0 18px;border-left:3px solid #1a2a4a;padding-left:14px;">
+        <strong style="color:#78909c;">¿Qué es un clúster?</strong> Un clúster agrupa noticias que hablan del mismo tema, detectado automáticamente por similitud semántica entre titulares. Cada clúster reúne artículos de distintas fuentes y países que cubren un mismo evento o narrativa. Los clústeres con un solo artículo se filtran como ruido. Los listados aquí tienen <strong>2 o más artículos</strong>.
+    </div>
+    {% for cid, cdata in clusters.items() %}
+    <div class="cluster-card">
+        <h3>{{ cdata.get('summary', 'Cluster ' ~ cid) }}</h3>
+        <div class="meta">{{ cdata.size }} artículos</div>
+        {% if cdata.get('timeline') %}
+        <div class="timeline">
+            {% for day, titles in cdata.timeline.items() %}
+            <span class="timeline-day{% if loop.first %} active{% endif %}">{{ day }} <span class="count">({{ titles|length }})</span></span>
+            {% endfor %}
+        </div>
+        {% endif %}
+        {% if cdata.get('detailed') %}
+            <div class="summary">{{ cdata.detailed.get('angulo_editorial', '') }}</div>
+            <div class="keywords">
+                🏷 {{ cdata.detailed.get('palabras_clave', [])|join(' · ') }}
+                {% if cdata.detailed.get('paises_implicados') %} | 🌍 {{ cdata.detailed.paises_implicados|join(', ')|upper }}{% endif %}
+            </div>
+        {% endif %}
+        <div class="article-list">
+        {% for a in cdata.articles[:5] %}
+            <div class="article">
+                <a href="{{ a.url }}" target="_blank">{{ a.title }}</a>
+                <span style="color:#455a64;font-size:0.75em;margin-left:6px;">— {{ a.source }}</span>
+            </div>
+        {% endfor %}
+        {% if cdata.articles|length > 5 %}
+            <div style="color:#455a64;font-size:0.8em;margin-top:6px;">+ {{ cdata.articles|length - 5 }} más</div>
+        {% endif %}
+        </div>
+    </div>
+    {% endfor %}
+</details>
+{% endif %}
+
+{% if sync_events %}
+<details class="section" id="sincronizadas">
+    <summary class="section-title">🔗 Noticias sincronizadas <span class="badge">{{ sync_events|length }}</span></summary>
+    {% for se in sync_events[:15] %}
+    <div class="sync-card{% if se.is_editorial %} editorial{% endif %}">
+        <div class="topic">{{ se.topic }}</div>
+        <div class="sources">
+            {% if se.is_editorial %}📝 EDITORIAL · {% endif %}
+            {{ se.size }} fuentes: {{ se.sources|join(', ') }}
+        </div>
+        <div class="countries">🌐 {{ se.countries|join(', ')|upper }}</div>
+    </div>
+    {% endfor %}
+</details>
+{% endif %}
+
+
+{% if stance_data %}
+<details class="section" id="cobertura">
+    <summary class="section-title">&#127758; Cobertura por bloque <span class="badge">{{ stance_data|length }} actores</span></summary>
+    <div style="color:#607d8b;font-size:0.85em;margin:-10px 0 18px;border-left:3px solid #1a2a4a;padding-left:14px;">
+        <strong style="color:#78909c;">¿Qué es?</strong> Análisis de cobertura por bloque geopolítico. Cada titular se clasifica vía LLM como <strong>pro</strong>, <strong>contra</strong> o <strong>neutral</strong> respecto al bloque. Datos basados en los artículos recolectados en los últimos <strong>7 días</strong> (ventana deslizante). Las barras muestran la proporción por fuente.
+    </div>
+    <div class="stance-grid">
+    {% for actor, sources in stance_data.items() %}
+        <div class="stance-card">
+            <h3>{{ actor }}</h3>
+            {% for src_name, counts in sources.items() %}
+            <div class="src-row">
+                <span class="name">{{ src_name }}</span>
+                <span class="counts">&#128077; {{ counts.pro }} &#128078; {{ counts.contra }} &#10134; {{ counts.neutral }}</span>
+            </div>
+            {% set total = counts.pro + counts.contra + counts.neutral %}
+            {% if total > 0 %}
+            <div class="bar">
+                <div class="pro" style="width:{{ (counts.pro / total * 100)|int }}%"></div>
+                <div class="contra" style="width:{{ (counts.contra / total * 100)|int }}%"></div>
+                <div class="neutral" style="width:{{ (counts.neutral / total * 100)|int }}%"></div>
+            </div>
+            {% endif %}
+            {% endfor %}
+            <div class="legend">
+                <span><span class="dot" style="background:#4caf50;"></span> Pro</span>
+                <span><span class="dot" style="background:#f44336;"></span> Contra</span>
+                <span><span class="dot" style="background:#607d8b;"></span> Neutral</span>
+            </div>
+        </div>
+    {% endfor %}
+    </div>
+</details>
+{% endif %}
+
+
+{% if coordination_flags %}
+<details class="section" id="coordinacion">
+    <summary class="section-title">&#9888;&#65039; Posible coordinacion <span class="badge">{{ coordination_flags|length }}</span></summary>
+    <div style="color:#607d8b;font-size:0.85em;margin:-10px 0 18px;border-left:3px solid #4a2a2a;padding-left:14px;">
+        <strong style="color:#78909c;">&#191;Que es?</strong> Varias fuentes cubriendo el mismo tema con el mismo angulo en una ventana de &lt; 6 horas. Puede indicar coordinacion editorial o agenda sincronizada.
+    </div>
+    {% for flag in coordination_flags[:10] %}
+    <div class="coord-card">
+        <div class="topic">{{ flag.topic }}</div>
+        <div class="meta">{{ flag.sources|join(', ') }} &#183; {{ flag.countries|join(', ')|upper }} &#183; {{ flag.spread_hours }}h de diferencia</div>
+    </div>
+    {% endfor %}
+</details>
+{% endif %}
+
+<div class="section" id="titulares">
+    <div class="section-title">📰 Titulares por país <span class="badge">{{ total_articles }}</span></div>
+    {% for country, country_data in all_sources.items() %}
+    <div class="country-block">
+        <div class="country-header">
+            {% set country_key = country|lower|replace(' ', '_') %}
+            {% if country_key == 'espana' %}🇪🇸{% elif country_key == 'estados_unidos' %}🇺🇸{% elif country_key == 'francia' %}🇫🇷
+            {% elif country_key == 'reino_unido' %}🇬🇧{% elif country_key == 'italia' %}🇮🇹{% elif country_key == 'alemania' %}🇩🇪
+            {% elif country_key == 'brasil' %}🇧🇷{% else %}🌐{% endif %}
+            {{ country }}
+            <span style="color:#455a64;font-size:0.65em;font-weight:400;margin-left:8px;">
+                {{ country_data.total }} artículos
+            </span>
+        </div>
+        {% for src_name, src_data in country_data.sources.items() %}
+        <div class="source-block closed">
+            <div class="source-name" onclick="toggleSource(this);toggleFav(this)" data-source="{{ src_name }}">
+                <span class="star">☆</span> {{ src_name }}
+                <span style="color:#455a64;font-size:0.75em;margin-left:6px;">({{ src_data.count }})</span>
+                {% if src_data.count == 0 %}
+                <span style="color:#2a3a5a;font-size:0.7em;margin-left:4px;">— sin titulares hoy —</span>
+                {% endif %}
+            </div>
+            {% for a in src_data.articles %}
+            <div class="article">
+                <a href="{{ a.url }}" target="_blank">{{ a.title }}</a>
+            </div>
+            {% endfor %}
+        </div>
+        {% endfor %}
+    </div>
+    {% endfor %}
+</div>
+
+{% if frequencies %}
+<div class="section" id="palabras">
+    <div class="section-title">📈 Palabras clave por ventana</div>
+    <div class="windows-grid">
+        {% for days in [3, 5, 7] %}
+        {% if days in frequencies %}
+        <div class="window-card">
+            <h3>⏱ {{ days }} días</h3>
+            {% for lang, words in frequencies[days].items() %}
+            <div style="color:#607d8b;font-size:0.75em;margin:4px 0 2px;">{{ lang|upper }}</div>
+            <ol>
+            {% for word, count in words[:20] %}
+                <li>{{ word }} <span class="count">({{ count }})</span></li>
+            {% endfor %}
+            </ol>
+            {% endfor %}
+        </div>
+        {% endif %}
+        {% endfor %}
+    </div>
+</div>
+{% endif %}
+
+{% if wordclouds %}
+<div class="section" id="wordclouds">
+    <div class="section-title">☁️ Nubes de palabras</div>
+    <div class="clouds-grid">
+    {% for key, path in wordclouds.items() %}
+        <div class="cloud-card">
+            <h3>{{ key|replace('_', ' / ') }}</h3>
+            <img src="{{ path }}" alt="{{ key }}">
+        </div>
+    {% endfor %}
+    </div>
+</div>
+{% endif %}
+
+{% if trends %}
+<div class="section" id="trending">
+    <div class="section-title">🔥 Términos en ascenso</div>
+    {% for lang, words in trends.items() %}
+    <div class="trending-block">
+        <div class="trending-lang">{{ lang|upper }}</div>
+        {% for word, data in (words.items()|list)[:15] %}
+        <span class="trending-tag">{{ word }} <span class="ratio">×{{ data.ratio }}</span></span>
+        {% endfor %}
+    </div>
+    {% endfor %}
+</div>
+{% endif %}
+
+{% if feed_status %}
+<div class="section" id="status">
+    <div class="section-title">💚 Estado de fuentes <span class="badge">{{ feed_status|selectattr('ok')|list|length }}/{{ feed_status|length }} OK</span></div>
+    <div class="status-grid">
+    {% for s in feed_status %}
+        <div class="status-item">
+            {% if s.cached %}<span class="dot cache" title="cache"></span>
+            {% elif s.ok %}<span class="dot ok" title="ok"></span>
+            {% else %}<span class="dot err" title="error"></span>{% endif %}
+            <span class="name">{{ s.name }}</span>
+            {% if s.ok %}<span class="count">{{ s.articles }} arts</span>{% endif %}
+            {% if s.error %}<span class="error">⚠ {{ s.error }}</span>{% endif %}
+        </div>
+    {% endfor %}
+    </div>
+</div>
+{% endif %}
+
+<div class="section" id="fuentes">
+    <div class="section-title">📡 Fuentes RSS <span class="badge">{{ sources|length }} feeds</span></div>
+    <div class="fuentes-grid">
+    {% for country, feeds in sources.items() %}
+        {% for f in feeds %}
+        <div class="fuente-card">
+            <div class="name">{{ f.name }}</div>
+            <div class="url">{{ f.url }}</div>
+            <div>
+                <span class="lang">{{ f.lang|upper }} · {{ country|replace('_',' ')|title }}</span>
+                <span class="status ok">activo</span>
+            </div>
+        </div>
+        {% endfor %}
+    {% endfor %}
+    </div>
+</div>
+
+<div class="section" id="metodologia">
+    <div class="section-title">⚙️ Metodología</div>
+    <div class="methodology">
+        <div class="pipeline">
+            <div class="pipeline-step">📡 RSS Feeds<span class="arrow">↓</span></div>
+            <div class="pipeline-step">🧹 feedparser<span class="arrow">↓</span></div>
+            <div class="pipeline-step">📊 TF-IDF Embeddings<span class="arrow">↓</span></div>
+            <div class="pipeline-step">🔬 HDBSCAN Clustering<span class="arrow">↓</span></div>
+            <div class="pipeline-step">🔗 Sync Detection<span class="arrow">↓</span></div>
+            <div class="pipeline-step">📈 Word Tracking<span class="arrow">↓</span></div>
+            <div class="pipeline-step">🌐 HTML + JSON</div>
+        </div>
+
+        <h3>📡 Scraping</h3>
+        <p>Recolección vía <code>feedparser</code> desde 16 fuentes RSS en 7 países (ES, US, FR, UK, IT, DE, BR). Política de rate limiting con backoff exponencial + jitter para no saturar servidores. Cache TTL de 30 minutos.</p>
+
+        <h3>🧬 Clustering (HDBSCAN)</h3>
+        <p>Los titulares se vectorizan mediante <code>TF-IDF char-wb ngrams(2,4)</code> en 500 dimensiones. Se aplica <code>HDBSCAN</code> con <code>min_cluster_size=2</code> para capturar tanto temas principales como pares de noticias relacionadas. Los puntos etiquetados como <code>-1</code> son ruido no agrupado.</p>
+
+        <h3>🔗 Detección de sincronizadas</h3>
+        <p>Se calcula la <strong>similitud coseno</strong> entre todos los pares de embeddings. Si la similitud supera el umbral (<code>threshold=0.75</code>), se agrupan como una misma noticia cubierta por múltiples fuentes. Los editoriales se detectan por patrones de texto ("editorial", "opinión", columnistas conocidos).</p>
+
+        <h3>📈 Analítica de palabras</h3>
+        <p>Extracción de palabras clave por título filtrando stopwords multilingüe (ES, EN, FR, IT, PT, DE). Se computan ventanas de <strong>3, 5 y 7 días</strong> para identificar términos persistentes. Los <strong>trending terms</strong> se calculan como ratio entre ventanas para detectar palabras en ascenso.</p>
+
+        {% if llm_model %}
+        <h3>🤖 Enriquecimiento LLM</h3>
+        <p>Los clusters se etiquetan mediante {{ llm_model }} para generar resúmenes, palabras clave y detección de ángulos editoriales.</p>
+        {% endif %}
+
+        <h3>🚀 Stack</h3>
+        <p>Python 3.12 · SQLite (WAL mode) · scikit-learn · Jinja2 · Groq/Gemini APIs · Deploy: GitHub Pages + rsync · <strong>PWA</strong></p>
+
+        <button class="btn-modal" onclick="document.getElementById('funnelModal').classList.add('active')">
+            🔄 Ver proceso completo (9 pasos)
+        </button>
+
+        <!-- Funnel Modal -->
+        <div class="modal-overlay" id="funnelModal" onclick="if(event.target===this)this.classList.remove('active')">
+            <div class="modal-content">
+                <span class="close" onclick="document.getElementById('funnelModal').classList.remove('active')">&times;</span>
+                <h2>🔄 Proceso completo — Intelligence Hub</h2>
+
+                <div class="modal-step">
+                    <span class="num">1</span>
+                    <div class="desc"><strong>📡 Scraping RSS</strong><p>16 feeds de 7 países se consultan con rate limiting. Timeout 15s, backoff 2ⁿ con jitter. Solo titulares + enlaces.</p></div>
+                    <span class="code">scraper.py</span>
+                </div>
+                <div class="modal-step">
+                    <span class="num">2</span>
+                    <div class="desc"><strong>💾 Almacenamiento</strong><p>Cada artículo se guarda en SQLite con fuente, país, idioma y fecha. Deduplicación por URL.</p></div>
+                    <span class="code">db.py</span>
+                </div>
+                <div class="modal-step">
+                    <span class="num">3</span>
+                    <div class="desc"><strong>🧬 Vectorización</strong><p>Los titulares se convierten en vectores de 500d mediante TF-IDF (char-ngrams 2-4). Captura similitud multilingüe.</p></div>
+                    <span class="code">embeddings.py</span>
+                </div>
+                <div class="modal-step">
+                    <span class="num">4</span>
+                    <div class="desc"><strong>🔬 Clustering</strong><p>HDBSCAN agrupa vectores similares. Cada cluster es un tema. Los puntos sin grupo son ruido.</p></div>
+                    <span class="code">clusterer.py</span>
+                </div>
+                <div class="modal-step">
+                    <span class="num">5</span>
+                    <div class="desc"><strong>🔗 Sincronizadas</strong><p>Similitud coseno entre todos los pares. Si ≥0.75, misma noticia en distintas fuentes. Editoriales por patrón.</p></div>
+                    <span class="code">sync_detector.py</span>
+                </div>
+                <div class="modal-step">
+                    <span class="num">6</span>
+                    <div class="desc"><strong>📊 Analítica</strong><p>Keywords por idioma (stopwords multilingüe). Ventanas 3/5/7 días. Trending ratio entre ventanas.</p></div>
+                    <span class="code">analytics.py</span>
+                </div>
+                <div class="modal-step">
+                    <span class="num">7</span>
+                    <div class="desc"><strong>☁️ Wordclouds + NER</strong><p>Nubes de palabras por idioma/ventana. Entidades (personas, orgs, lugares). Breaking news (crecimiento súbito).</p></div>
+                    <span class="code">wordcloud_gen.py<br>advanced_analysis.py</span>
+                </div>
+                <div class="modal-step">
+                    <span class="num">8</span>
+                    <div class="desc"><strong>🌐 Generación HTML</strong><p>Jinja2 renderiza el dashboard con 9 secciones + JSON data. Incluye OG tags para RRSS.</p></div>
+                    <span class="code">generator.py</span>
+                </div>
+                <div class="modal-step" style="border-left:3px solid #00d4ff;">
+                    <span class="num">9</span>
+                    <div class="desc"><strong>🚀 Deploy</strong><p>rsync al server heznert + git push a GitHub. Nginx + systemd para el contador SSL con Let's Encrypt.</p></div>
+                    <span class="code">deploy/</span>
+                </div>
+
+                <div style="margin-top:14px; padding:10px; background:#0a0e17; border-radius:6px; text-align:center; color:#607d8b; font-size:0.8em;">
+                    ⏱ Tiempo total del pipeline: ~2-5 min &nbsp;|&nbsp; 🎯 16 fuentes · 7 países · 5 idiomas
+                </div>
+            </div>
+        </div>
+
+        <h3>⚠️ Limitaciones y advertencias</h3>
+        <p><strong>Alcance del scraping:</strong> Este sistema recolecta <strong>únicamente titulares y enlaces</strong> de fuentes RSS públicas. No extrae el cuerpo completo de los artículos, no vulnera paywalls, ni accede a contenido restringido. Cada feed se consulta con rate limiting (mínimo 15 min entre requests) y <code>User-Agent</code> identificativo, respetando los términos de servicio de cada fuente.</p>
+        <p><strong>Derechos de autor:</strong> Los titulares y enlaces pertenecen a sus respectivos medios. Este proyecto no almacena ni reproduce contenido protegido más allá del título y la URL, operando bajo el principio de <em>fair use / cita</em> con fines de agregación y análisis.</p>
+        <p><strong>Fiabilidad del análisis:</strong> El clustering, detección de sincronizadas y extracción de entidades son procesos <strong>automáticos basados en similitud estadística</strong> (TF-IDF + HDBSCAN). Pueden generar falsos positivos (noticias agrupadas incorrectamente) y falsos negativos (noticias relacionadas no detectadas). Las etiquetas LLM son generadas por IA y deben verificarse. Este sistema es una <strong>herramienta de exploración</strong>, no una fuente definitiva de verdad.</p>
+        <p><strong>Privacidad:</strong> No se recopilan datos personales de usuarios. El contador de visitas es anónimo. No se usan cookies ni tracking.</p>
+        <p style="color:#ff5252;font-size:0.8em;margin-top:10px;">⸻ Use este sistema con responsabilidad. Verifique siempre la información con fuentes primarias.</p>
+    </div>
+</div>
+
+<div class="section" id="about">
+    <div class="section-title">ℹ️ Sobre Intelligence Hub</div>
+    <div class="about-section">
+        <p><span class="highlight">Intelligence Hub</span> es un sistema de agregación y análisis de noticias geopolíticas. Recolecta titulares de medios de comunicación de 7 países, detecta patrones y relaciones entre fuentes, y genera briefings automáticos diarios.</p>
+        <p>El proyecto surgió como una evolución de <span class="highlight">daily_readings</span> (originalmente en Raspberry Pi vía org-mode + GitHub Pages), migrado a un stack Python moderno con capacidad de clustering y análisis semántico.</p>
+        <p><strong>📱 PWA:</strong> Este sitio es instalable como app en móviles y tablets. Desde Chrome pulsa "Añadir a pantalla de inicio"; desde Safari usa el botón Compartir. Funciona offline parcial gracias al service worker.</p>
+        <p style="margin-top:8px; border-left: 3px solid #ff5252; padding-left: 12px; font-size: 0.85em; color: #78909c;">
+            <strong>Aviso legal:</strong> Este sitio opera bajo el derecho de cita (art. 32 LPI). No almacena ni reproduce contenido protegido más allá de titulares y enlaces. No tiene fines comerciales. Las marcas, logotipos y contenidos enlazados pertenecen a sus respectivos propietarios.
+        </p>
+        <p style="margin-top:12px;"><strong>Tecnologías:</strong></p>
+        <div class="tech-list">
+            <span class="tech-tag">Python 3.12</span>
+            <span class="tech-tag">scikit-learn</span>
+            <span class="tech-tag">HDBSCAN</span>
+            <span class="tech-tag">SQLite</span>
+            <span class="tech-tag">Jinja2</span>
+            <span class="tech-tag">Groq API</span>
+            <span class="tech-tag">Gemini API</span>
+            <span class="tech-tag">GitHub Pages</span>
+            <span class="tech-tag">Hetzner Cloud</span>
+        </div>
+        <p style="margin-top:12px;"><strong>Autor:</strong> El Mapa y El Código · <a href="mailto:news@viajeinteligencia.com" style="color:#4fc3f7;">news@viajeinteligencia.com</a></p>
+        <p style="margin-top:4px;"><strong>Ecosistema:</strong> <a href="https://viajeinteligencia.com" style="color:#4fc3f7;" target="_blank">viajeinteligencia.com</a></p>
+        <p style="margin-top:4px;"><strong>Código:</strong> <a href="https://github.com/mcasrom/daily_readings" style="color:#4fc3f7;" target="_blank">github.com/mcasrom/daily_readings</a></p>
+        {% if site_domain %}<p style="margin-top:4px;"><strong>Web:</strong> <a href="https://{{ site_domain }}" style="color:#4fc3f7;" target="_blank">{{ site_domain }}</a></p>{% endif %}
+    </div>
+</div>
+
+<div class="footer">
+    <p><strong>Intelligence Hub</strong> · Por El Mapa y El Código</p>
+    <p style="margin-top:6px;">
+        <a href="mailto:news@viajeinteligencia.com">news@viajeinteligencia.com</a> ·
+        <a href="https://viajeinteligencia.com" target="_blank">viajeinteligencia.com</a> ·
+        <a href="https://github.com/mcasrom/daily_readings" target="_blank">GitHub</a>
+    </p>
+    <p style="margin-top:6px;">© {{ date[:4] }} Inteligencia Geopolítica · {{ generated_at }} · <a href="#metodologia" style="color:#455a64;">⚠️ Limitaciones</a></p>
+</div>
+
+<script>
+// Smooth scroll
+document.querySelectorAll('.nav-bar a').forEach(a => {
+    a.addEventListener('click', e => {
+        e.preventDefault();
+        const target = document.querySelector(a.getAttribute('href'));
+        if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+});
+
+// Favoritos (localStorage)
+const FAV_KEY = 'ihub_favs';
+function getFavs() {
+    try { return JSON.parse(localStorage.getItem(FAV_KEY)) || []; } catch { return []; }
+}
+function setFavs(f) { localStorage.setItem(FAV_KEY, JSON.stringify(f)); }
+
+function toggleSource(el) { el.closest(".source-block").classList.toggle("closed"); }
+function toggleFav(el) {
+    const name = el.dataset.source;
+    const star = el.querySelector('.star');
+    let favs = getFavs();
+    if (favs.includes(name)) {
+        favs = favs.filter(f => f !== name);
+        star.classList.remove('fav');
+        star.textContent = '☆';
+    } else {
+        favs.push(name);
+        star.classList.add('fav');
+        star.textContent = '★';
+    }
+    setFavs(favs);
+    reorderSources();
+}
+
+function reorderSources() {
+    const favs = getFavs();
+    document.querySelectorAll('.source-block').forEach(b => {
+        const name = b.querySelector('.source-name')?.dataset.source;
+        if (favs.includes(name)) {
+            b.classList.add('fav-source');
+            b.parentNode.prepend(b);
+        } else {
+            b.classList.remove('fav-source');
+        }
+    });
+}
+
+function initFavs() {
+    const favs = getFavs();
+    document.querySelectorAll('.source-name').forEach(el => {
+        const star = el.querySelector('.star');
+        if (favs.includes(el.dataset.source)) {
+            star.classList.add('fav');
+            star.textContent = '★';
+        }
+    });
+    reorderSources();
+}
+document.addEventListener('DOMContentLoaded', initFavs);
+
+// Service Worker (PWA)
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js').catch(() => {});
+}
+
+// Contador de visitas
+const COUNTER_URL = 'https://{{ site_domain }}/api/count';
+fetch(COUNTER_URL + '?visit=1', { mode: 'cors' })
+    .then(r => r.json())
+    .then(d => { document.getElementById('visit-count').textContent = d.count; })
+    .catch(() => { document.getElementById('visit-count').textContent = '---'; });
+
+// ── KPI Chart ──
+(function() {
+    const labels = {{ chart_data.labels | tojson }};
+    const articles = {{ chart_data.articles | tojson }};
+    const sources = {{ chart_data.sources | tojson }};
+    const clusters = {{ chart_data.clusters | tojson }};
+    const canvas = document.getElementById('kpiChart');
+    if (!canvas || typeof Chart === 'undefined') return;
+    new Chart(canvas, {
+        type: 'bar',
+        data: {
+            labels: labels,
+            datasets: [
+                {
+                    label: 'Artículos',
+                    data: articles,
+                    backgroundColor: 'rgba(0, 212, 255, 0.5)',
+                    borderColor: 'rgba(0, 212, 255, 1)',
+                    borderWidth: 1,
+                    order: 2,
+                    yAxisID: 'y',
+                },
+                {
+                    label: 'Fuentes activas',
+                    data: sources,
+                    type: 'line',
+                    borderColor: '#ffd54f',
+                    backgroundColor: 'rgba(255, 213, 79, 0.1)',
+                    pointBackgroundColor: '#ffd54f',
+                    pointRadius: 4,
+                    tension: 0.3,
+                    order: 1,
+                    yAxisID: 'y1',
+                },
+                {
+                    label: 'Clústeres',
+                    data: clusters,
+                    type: 'line',
+                    borderColor: '#69f0ae',
+                    backgroundColor: 'rgba(105, 240, 174, 0.1)',
+                    pointBackgroundColor: '#69f0ae',
+                    pointRadius: 3,
+                    tension: 0.3,
+                    borderDash: [4, 2],
+                    order: 0,
+                    yAxisID: 'y1',
+                }
+            ]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: {
+                    labels: { color: '#78909c', font: { size: 10, family: 'Inter' } }
+                }
+            },
+            scales: {
+                x: {
+                    ticks: { color: '#607d8b', font: { size: 10 } },
+                    grid: { color: '#1a2a4a' }
+                },
+                y: {
+                    beginAtZero: true,
+                    ticks: { color: '#607d8b', font: { size: 9 }, stepSize: 1 },
+                    grid: { color: '#1a2a4a' },
+                    title: { display: true, text: 'Artículos', color: '#00d4ff', font: { size: 9 } }
+                },
+                y1: {
+                    beginAtZero: true,
+                    position: 'right',
+                    ticks: { color: '#607d8b', font: { size: 9 }, stepSize: 1 },
+                    grid: { drawOnChartArea: false },
+                    title: { display: true, text: 'Fuentes / Clústeres', color: '#ffd54f', font: { size: 9 } }
+                }
+            }
+        }
+    });
+})();
+</script>
+
+</body>
+</html>

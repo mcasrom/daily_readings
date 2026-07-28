@@ -1,0 +1,16 @@
+# daily_news
+venv/
+__pycache__/
+*.pyc
+data/news.db
+data/cache/
+output/
+.env
+.DS_Store
+*.swp
+*.bak
+cron.log
+cron_log.json
+run.sh
+run_pipeline.sh
+check_dates.py

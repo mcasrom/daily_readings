@@ -1,0 +1,118 @@
+analytics:
+  stopwords_langs:
+  - es
+  - en
+  - fr
+  - it
+  - pt
+  - de
+  top_n_words: 50
+  word_windows:
+  - 3
+  - 5
+  - 7
+clustering:
+  min_cluster_size: 2
+  min_samples: 1
+  similarity_threshold: 0.75
+  window_days: 7
+deploy:
+  github_branch: main
+  github_repo: git@github.com:mcasrom/daily_readings.git
+  server_host: viaje
+  server_path: /var/www/daily_readings
+  site_domain: news.viajeinteligencia.com
+llm:
+  production:
+    gemini_model: models/embedding-001
+    groq_model: llama-3.3-70b-versatile
+  test:
+    ollama_embed: tinyllama
+    ollama_model: tinyllama
+mode: production
+rotation:
+  backoff_base: 2
+  cache_ttl: 1800
+  jitter: true
+  max_retries: 3
+  min_interval: 900
+sources:
+  alemania:
+  - lang: de
+    name: Der Spiegel
+    type: general
+    url: https://www.spiegel.de/schlagzeilen/index.rss
+  - lang: en
+    name: Deutsche Welle
+    type: general
+    url: https://rss.dw.com/rdf/rss-en-world
+  brasil:
+  - lang: pt
+    name: Folha de S.Paulo
+    type: general
+    url: https://feeds.folha.uol.com.br/emcimadahora/rss091.xml
+  - lang: pt
+    name: G1 Globo
+    type: general
+    url: https://g1.globo.com/rss/g1/
+  espana:
+  - lang: es
+    name: El País
+    type: general
+    url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada
+  - lang: es
+    name: El Mundo
+    type: general
+    url: https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml
+  - lang: es
+    name: La Vanguardia
+    type: general
+    url: https://www.lavanguardia.com/rss/home.xml
+  - lang: es
+    name: El Diario Cantabria
+    type: regional
+    url: https://eldiariocantabria.publico.es/rss/
+  estados_unidos:
+  - lang: en
+    name: Fox News
+    type: general
+    url: https://moxie.foxnews.com/google-publisher/world.xml
+  - lang: en
+    name: NYT
+    type: general
+    url: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+  - lang: en
+    name: Washington Post
+    type: general
+    url: https://feeds.washingtonpost.com/rss/world
+  - lang: en
+    name: WSJ
+    type: financial
+    url: https://feeds.content.dowjones.io/public/rss/RSSWorldNews
+  francia:
+  - lang: fr
+    name: Le Monde
+    type: general
+    url: https://www.lemonde.fr/rss/une.xml
+  - lang: fr
+    name: Le Figaro
+    type: general
+    url: https://www.lefigaro.fr/rss/figaro_actualites.xml
+  italia:
+  - lang: it
+    name: Corriere della Sera
+    type: general
+    url: https://www.corriere.it/rss/homepage.xml
+  - lang: it
+    name: Il Sole 24 Ore
+    type: financial
+    url: https://www.ilsole24ore.com/rss/italia.xml
+  reino_unido:
+  - lang: en
+    name: BBC News
+    type: general
+    url: https://feeds.bbci.co.uk/news/world/rss.xml
+  - lang: en
+    name: The Guardian
+    type: general
+    url: https://www.theguardian.com/world/rss

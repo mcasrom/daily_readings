@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clústeres — {{ date }}</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, monospace;
+            background: #0a0e17; color: #c8d6e5; line-height: 1.6;
+            max-width: 960px; margin: 0 auto; padding: 25px;
+        }
+        .back { color: #607d8b; text-decoration: none; font-size: 0.9em; display: inline-block; margin-bottom: 15px; }
+        .back:hover { color: #00d4ff; }
+        h1 { color: #00d4ff; font-size: 1.8em; border-bottom: 2px solid #1a2a4a; padding-bottom: 10px; margin-bottom: 6px; }
+        .subtitle { color: #455a64; font-size: 0.85em; margin-bottom: 25px; }
+        .cluster {
+            background: linear-gradient(135deg, #111827, #0d1520);
+            border: 1px solid #1a2a4a; border-left: 4px solid #ffd54f;
+            border-radius: 10px; padding: 18px; margin-bottom: 16px;
+        }
+        .cluster h2 { color: #ffd54f; font-size: 1.1em; margin-bottom: 4px; }
+        .cluster .meta { color: #607d8b; font-size: 0.8em; margin-bottom: 6px; }
+        .cluster .summary { color: #78909c; font-size: 0.85em; margin-bottom: 8px; }
+        .cluster .kw { color: #4fc3f7; font-size: 0.8em; margin-bottom: 10px; }
+        .article { padding: 3px 0; }
+        .article a { color: #b0bec5; text-decoration: none; font-size: 0.9em; }
+        .article a:hover { color: #00d4ff; }
+        .article .src { color: #455a64; font-size: 0.75em; margin-left: 4px; }
+        .footer { text-align: center; color: #455a64; font-size: 0.8em; margin-top: 35px; padding-top: 20px; border-top: 1px solid #0d1520; }
+    </style>
+</head>
+<body>
+    <a href="index.html" class="back">← Volver al briefing</a>
+    <h1>🗂 Análisis de Clústeres</h1>
+    <div class="subtitle">{{ date }} · {{ clusters|length }} clústeres · {{ generated_at }}</div>
+
+    {% for cid, cdata in clusters.items() %}
+    <div class="cluster">
+        <h2>{{ cdata.get('summary', 'Cluster #' ~ cid) }}</h2>
+        <div class="meta">{{ cdata.size }} artículos</div>
+        {% if cdata.get('detailed') %}
+            <div class="summary">{{ cdata.detailed.get('angulo_editorial', '') }}</div>
+            <div class="kw">🏷 {{ cdata.detailed.get('palabras_clave', [])|join(' · ') }}</div>
+        {% endif %}
+        {% for a in cdata.articles %}
+        <div class="article">
+            <a href="{{ a.url }}" target="_blank">{{ a.title }}</a>
+            <span class="src">— {{ a.source }}</span>
+        </div>
+        {% endfor %}
+    </div>
+    {% else %}
+    <p style="color:#607d8b;">No se encontraron clústeres en esta ventana.</p>
+    {% endfor %}
+
+    <div class="footer">© {{ date[:4] }} Inteligencia Geopolítica</div>
+</body>
+</html>
