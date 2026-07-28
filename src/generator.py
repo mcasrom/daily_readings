@@ -212,8 +212,9 @@ def generate_health_json(run_id, start_time, total_articles, total_clusters, tot
                           feeds_ok, feeds_fail, errors=None, duration=None):
     _ensure_dirs()
     now = datetime.now(timezone.utc)
+    critical_errors = [e for e in (errors or []) if "429" not in e and "LLM" not in e]
     health = {
-        "status": "ok" if not errors else "degraded",
+        "status": "ok" if not critical_errors else "degraded",
         "run_id": run_id,
         "generated_at": now.isoformat(),
         "pipeline_date": start_time.strftime("%Y-%m-%d"),

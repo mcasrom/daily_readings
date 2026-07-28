@@ -717,7 +717,7 @@
         <p>Los titulares se vectorizan mediante <code>TF-IDF char-wb ngrams(2,4)</code> en 500 dimensiones. Se aplica <code>HDBSCAN</code> con <code>min_cluster_size=2</code> para capturar tanto temas principales como pares de noticias relacionadas. Los puntos etiquetados como <code>-1</code> son ruido no agrupado.</p>
 
         <h3>🔗 Detección de sincronizadas</h3>
-        <p>Se calcula la <strong>similitud coseno</strong> entre todos los pares de embeddings. Si la similitud supera el umbral (<code>threshold=0.75</code>), se agrupan como una misma noticia cubierta por múltiples fuentes. Los editoriales se detectan por patrones de texto ("editorial", "opinión", columnistas conocidos).</p>
+        <p>Se calcula la <strong>similitud coseno</strong> entre todos los pares de embeddings. Si la similitud supera el umbral (<code>threshold=0.65</code>), se agrupan como una misma noticia cubierta por múltiples fuentes. Los editoriales se detectan por patrones de texto ("editorial", "opinión", columnistas conocidos).</p>
 
         <h3>📈 Analítica de palabras</h3>
         <p>Extracción de palabras clave por título filtrando stopwords multilingüe (ES, EN, FR, IT, PT, DE). Se computan ventanas de <strong>3, 5 y 7 días</strong> para identificar términos persistentes. Los <strong>trending terms</strong> se calculan como ratio entre ventanas para detectar palabras en ascenso.</p>
@@ -913,7 +913,7 @@ fetch(COUNTER_URL + '?visit=1', { mode: 'cors' })
     .catch(() => { document.getElementById('visit-count').textContent = '---'; });
 
 // Pipeline health status
-fetch('/health.json', { mode: 'cors' })
+fetch('/health.json?t=' + Date.now(), { mode: 'cors', cache: 'no-cache' })
     .then(r => r.json())
     .then(h => {
         const el = document.getElementById('pipeline-status');

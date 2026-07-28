@@ -17,6 +17,7 @@ COUNTRIES = {
     "spiegel.de": "alemania", "dw.com": "alemania",
     "folha.uol.com.br": "brasil", "oglobo.globo.com": "brasil",
     "g1.globo.com": "brasil",
+    "lanacion.com.ar": "argentina", "elcohetealaluna.com": "argentina",
 }
 
 

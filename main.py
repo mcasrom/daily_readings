@@ -11,7 +11,7 @@ from src.db import init_db, save_articles, get_articles_window, save_word_freque
 from src.scraper import scrape_all
 from src.rotation import RateLimiter, FeedCache
 from src.embeddings import EmbeddingsProvider
-from src.clusterer import compute_clusters
+from src.clusterer import compute_clusters, merge_clusters_by_sync
 from src.sync_detector import detect_sync_groups
 from src.analytics import compute_frequencies, compute_trending
 from src.llm import LLMProvider
@@ -246,6 +246,16 @@ def main(fast=False):
     saved_syncs = get_sync_events()
     editorials = [s for s in saved_syncs if s['is_editorial']]
     print('[*] Editoriales sincronizados: ' + str(len(editorials)))
+
+    # Merge clusters linked by sync events (cross-lingual, same event)
+    clustered, merged = merge_clusters_by_sync(clustered, sync_events)
+    if merged is not None:
+        clusters = merged
+        active_clusters = {k: v for k, v in clusters.items() if v['size'] >= 2}
+        update_clusters(clustered)
+        print('[*] Clusters tras merge por sync: ' + str(len(active_clusters)))
+
+
 
     print('')
     print('=' * 60)

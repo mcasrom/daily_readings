@@ -12,9 +12,9 @@ analytics:
   - 5
   - 7
 clustering:
-  min_cluster_size: 3
-  min_samples: 2
-  similarity_threshold: 0.75
+  min_cluster_size: 2
+  min_samples: 1
+  similarity_threshold: 0.65
   window_days: 7
 deploy:
   github_branch: main
@@ -123,6 +123,15 @@ sources:
     name: Il Sole 24 Ore
     type: financial
     url: https://www.ilsole24ore.com/rss/italia.xml
+  argentina:
+  - lang: es
+    name: La Nación
+    type: general
+    url: https://www.lanacion.com.ar/arc/outboundfeeds/rss/
+  - lang: es
+    name: El Cohete a la Luna
+    type: analysis
+    url: https://www.elcohetealaluna.com/feed/
   reino_unido:
   - lang: en
     name: BBC News
