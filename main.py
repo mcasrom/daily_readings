@@ -155,26 +155,53 @@ def main(fast=False):
 
     print('')
     print('=' * 60)
-    print('FASE 3: Generando embeddings')
+    print('FASE 3: Generando embeddings (con caché)')
     print('=' * 60)
     embedder = EmbeddingsProvider(mode)
-    titles = [a['title'] for a in db_articles]
 
-    print('[*] Generando ' + str(len(titles)) + ' embeddings...')
+    from src.db import get_articles_needing_embeddings, save_embedding
+    articles_to_embed = get_articles_needing_embeddings(config.get('clustering', {}).get('window_days', 7))
+    cached_count = len(db_articles) - len(articles_to_embed)
+    print(f'[*] Embeddings en caché: {cached_count} | Pendientes: {len(articles_to_embed)}')
+
+    if articles_to_embed:
+        new_titles = [a['title'] for a in articles_to_embed]
+        print(f'[*] Generando {len(new_titles)} embeddings nuevos...')
+        try:
+            new_embeddings = embedder.embed(new_titles)
+            print(f'[OK] {len(new_embeddings)} embeddings generados')
+            for art, emb in zip(articles_to_embed, new_embeddings):
+                save_embedding(art['id'], emb)
+            print(f'[OK] {len(new_embeddings)} embeddings guardados en caché')
+        except Exception as e:
+            print('[ERROR] Embeddings fallaron: ' + str(e))
+            errors.append('Embeddings: ' + str(e))
+            generate_briefing(db_articles, {}, [], {}, {}, date_str)
+            generate_json_data(db_articles, {}, [], {}, {}, date_str)
+            generate_health_json(run_id, start_time, len(all_articles), 0, 0, feeds_ok, feeds_fail, errors)
+            write_cron_log(run_id, "error", {"articles": len(all_articles), "error": f"embeddings: {e}"})
+            fail_pipeline_log(run_id, f"embeddings: {e}")
+            notify_telegram('<b>daily_news ERROR</b>\nEmbeddings: ' + str(e))
+            deploy(mode, config.get('deploy', {}))
+            return
+
+    # Reconstruct all embeddings from DB (cached + new)
+    import json
+    conn = __import__('src.db', fromlist=['get_conn']).get_conn()
     try:
-        embeddings = embedder.embed(titles)
-        print('[OK] ' + str(len(embeddings)) + ' embeddings generados')
-    except Exception as e:
-        print('[ERROR] Embeddings fallaron: ' + str(e))
-        errors.append('Embeddings: ' + str(e))
-        generate_briefing(db_articles, {}, [], {}, {}, date_str)
-        generate_json_data(db_articles, {}, [], {}, {}, date_str)
-        generate_health_json(run_id, start_time, len(all_articles), 0, 0, feeds_ok, feeds_fail, errors)
-        write_cron_log(run_id, "error", {"articles": len(all_articles), "error": f"embeddings: {e}"})
-        fail_pipeline_log(run_id, f"embeddings: {e}")
-        notify_telegram('<b>daily_news ERROR</b>\nEmbeddings: ' + str(e))
-        deploy(mode, config.get('deploy', {}))
-        return
+        rows = conn.execute(
+            "SELECT id, embedding FROM articles WHERE fetched >= ? AND embedding IS NOT NULL ORDER BY published DESC",
+            ((datetime.now(timezone.utc) - timedelta(days=config.get('clustering', {}).get('window_days', 7))).isoformat(),)
+        ).fetchall()
+        id_to_embedding = {r['id']: json.loads(r['embedding']) for r in rows}
+        embeddings = [id_to_embedding[a['id']] for a in db_articles if a['id'] in id_to_embedding]
+        if len(embeddings) != len(db_articles):
+            print(f'  [WARN] {len(db_articles) - len(embeddings)} artículos sin embedding, forzando regenerate')
+            titles = [a['title'] for a in db_articles]
+            embeddings = embedder.embed(titles)
+    finally:
+        conn.close()
+    print(f'[OK] Total embeddings listos: {len(embeddings)}')
 
     print('')
     print('=' * 60)

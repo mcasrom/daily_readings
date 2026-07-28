@@ -357,6 +357,7 @@
     <a href="#status">💚 Estado</a>
     <a href="#metodologia">⚙️ Metodología</a>
     <a href="#about">ℹ️ About</a>
+    <span id="pipeline-status" style="margin-left:auto;padding:14px 22px;"></span>
 </nav>
 
 <div class="section" id="stats">
@@ -366,6 +367,11 @@
         <div class="stat-card"><div class="num">{{ sync_events|length }}</div><div class="label">Sincronizadas</div></div>
         <div class="stat-card"><div class="num">{{ by_country|length }}</div><div class="label">Países</div></div>
         <div class="stat-card" id="visit-stat"><div class="num" id="visit-count">···</div><div class="label">Visitas totales</div></div>
+    </div>
+    <div id="health-detail" style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap;margin-top:8px;font-size:0.75em;color:#455a64;">
+        <span>⏱ <span id="health-age">···</span></span>
+        <span>📊 <span id="health-articles">···</span> arts</span>
+        <span>📡 <span id="health-feeds">···</span> feeds</span>
     </div>
 </div>
 
@@ -905,6 +911,31 @@ fetch(COUNTER_URL + '?visit=1', { mode: 'cors' })
     .then(r => r.json())
     .then(d => { document.getElementById('visit-count').textContent = d.count; })
     .catch(() => { document.getElementById('visit-count').textContent = '---'; });
+
+// Pipeline health status
+fetch('/health.json', { mode: 'cors' })
+    .then(r => r.json())
+    .then(h => {
+        const el = document.getElementById('pipeline-status');
+        if (!el) return;
+        const age = (Date.now() - new Date(h.generated_at).getTime()) / 1000;
+        const ageOk = age < 21600; // 6h
+        el.innerHTML =
+            '<span style="display:inline-flex;align-items:center;gap:6px;padding:3px 10px;border-radius:12px;font-size:0.8em;' +
+            (h.status === 'ok' && ageOk
+                ? 'background:#1b3a2a;color:#69f0ae;" title="Última ejecución: hace ' + Math.round(age/60) + 'min">● OK'
+                : 'background:#3a1b1b;color:#ff5252;" title="Última ejecución: hace ' + Math.round(age/60) + 'min">● ' + h.status) +
+            '</span>';
+        if (document.getElementById('health-age')) {
+            document.getElementById('health-age').textContent = Math.round(age/60) + 'min';
+            document.getElementById('health-articles').textContent = h.total_articles || '?';
+            document.getElementById('health-feeds').textContent = (h.feeds_ok || 0) + '/' + (h.feeds_total || 0);
+        }
+    })
+    .catch(() => {
+        const el = document.getElementById('pipeline-status');
+        if (el) el.innerHTML = '<span style="color:#455a64;font-size:0.8em;">⋯ sin señal</span>';
+    });
 
 // ── KPI Chart ──
 (function() {

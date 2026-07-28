@@ -133,6 +133,17 @@ def get_articles_window(days=7):
     return [dict(r) for r in rows]
 
 
+def get_articles_needing_embeddings(days=7):
+    conn = get_conn()
+    cutoff = (datetime.utcnow() - timedelta(days=days)).isoformat()
+    rows = conn.execute(
+        "SELECT id, title FROM articles WHERE fetched >= ? AND embedding IS NULL ORDER BY published DESC",
+        (cutoff,)
+    ).fetchall()
+    conn.close()
+    return [dict(r) for r in rows]
+
+
 def save_embedding(article_id, embedding):
     conn = get_conn()
     conn.execute(

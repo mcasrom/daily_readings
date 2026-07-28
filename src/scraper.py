@@ -1,6 +1,7 @@
 import feedparser
 import requests
 from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from src.rotation import RateLimiter, FeedCache
 from src.db import update_feed_health
 
@@ -67,33 +68,57 @@ def process_feed(source_name, source_url, lang, timeout=15):
     return articles, status
 
 
+def _process_feed_wrapper(feed_cfg, country, rate_limiter, feed_cache):
+    name = feed_cfg["name"]
+    url = feed_cfg["url"]
+    lang = feed_cfg["lang"]
+
+    cached = feed_cache.get(url)
+    if cached:
+        print(f"  [CACHE] {name}: {len(cached)} artículos")
+        return cached, {"name": name, "url": url, "lang": lang, "ok": True, "articles": len(cached), "error": None, "cached": True}
+
+    rate_limiter.wait_if_needed(url)
+    articles, status = process_feed(name, url, lang)
+
+    if articles:
+        feed_cache.set(url, articles)
+    return articles, status
+
+
 def scrape_all(sources, rate_limiter, feed_cache, max_feeds=None):
     all_articles = []
     all_status = []
+
+    tasks = []
     processed = 0
     for country, feeds in sources.items():
-        print(f"\n[{country}]")
         for feed_cfg in feeds:
             if max_feeds and processed >= max_feeds:
-                return all_articles, all_status
+                break
             processed += 1
-            name = feed_cfg["name"]
-            url = feed_cfg["url"]
-            lang = feed_cfg["lang"]
+            tasks.append((country, feed_cfg))
 
-            cached = feed_cache.get(url)
-            if cached:
-                print(f"  [CACHE] {name}: {len(cached)} artículos")
-                all_articles.extend(cached)
-                all_status.append({"name": name, "url": url, "lang": lang, "ok": True, "articles": len(cached), "error": None, "cached": True})
-                continue
+    if max_feeds:
+        tasks = tasks[:max_feeds]
 
-            rate_limiter.wait_if_needed(url)
-            articles, status = process_feed(name, url, lang)
-            all_status.append(status)
+    print(f"  [PARALLEL] Scrapeando {len(tasks)} feeds con ThreadPoolExecutor...")
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        futures = {}
+        for country, feed_cfg in tasks:
+            f = executor.submit(_process_feed_wrapper, feed_cfg, country, rate_limiter, feed_cache)
+            futures[f] = (country, feed_cfg["name"])
 
-            if articles:
-                feed_cache.set(url, articles)
-                all_articles.extend(articles)
+        for f in as_completed(futures):
+            country, name = futures[f]
+            try:
+                articles, status = f.result()
+                all_status.append(status)
+                if articles:
+                    all_articles.extend(articles)
+            except Exception as e:
+                print(f"  [ERROR] {name}: {e}")
+                all_status.append({"name": name, "url": "", "lang": "?", "ok": False, "articles": 0, "error": str(e)[:120]})
 
+    print(f"\n[*] Total feeds procesados: {len(all_status)}")
     return all_articles, all_status
