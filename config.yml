@@ -98,9 +98,9 @@ sources:
     type: general
     url: http://rss.cnn.com/rss/edition_world.rss
   - lang: en
-    name: Reuters
+    name: ABC News
     type: general
-    url: https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best
+    url: https://abcnews.go.com/abcnews/topstories
   francia:
   - lang: fr
     name: Le Monde
