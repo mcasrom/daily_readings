@@ -1,5 +1,6 @@
 import os
 import json
+import hashlib
 import requests
 
 
@@ -7,6 +8,7 @@ class LLMProvider:
     def __init__(self, mode='test', groq_model='llama3-70b-8192'):
         self.mode = mode
         self.groq_model = groq_model
+        self._cache_enabled = True
         if mode == 'production':
             self.groq_key = os.environ.get('GROQ_API_KEY')
             if not self.groq_key:
@@ -14,6 +16,27 @@ class LLMProvider:
         else:
             self.ollama_host = os.environ.get('OLLAMA_HOST', 'http://localhost:11434')
             self.ollama_model = os.environ.get('OLLAMA_LLM_MODEL', 'tinyllama')
+
+    def _cache_key(self, prompt):
+        return hashlib.md5(prompt.encode()).hexdigest()
+
+    def _check_cache(self, prompt):
+        if not self._cache_enabled:
+            return None
+        try:
+            from src.db import get_llm_cache
+            return get_llm_cache(self._cache_key(prompt))
+        except Exception:
+            return None
+
+    def _save_cache(self, prompt, result):
+        if not self._cache_enabled:
+            return
+        try:
+            from src.db import set_llm_cache
+            set_llm_cache(self._cache_key(prompt), result)
+        except Exception:
+            pass
 
     def _truncate_titles(self, titles, max_chars=2000):
         result = []
@@ -29,7 +52,12 @@ class LLMProvider:
     def label_cluster(self, titles, lang='es'):
         titles = self._truncate_titles(titles, 1500)
         prompt = f'Resume en 1 linea el tema comun de estas noticias (idioma: {lang}):\nTitulos: {titles[:5]}\nTema:'
-        return self._query(prompt)
+        cached = self._check_cache(prompt)
+        if cached:
+            return cached
+        result = self._query(prompt)
+        self._save_cache(prompt, result)
+        return result
 
     def summarize_cluster(self, titles, lang='es'):
         titles = self._truncate_titles(titles, 2000)
@@ -38,7 +66,11 @@ class LLMProvider:
 
 Titulos: {json.dumps(titles[:8])}
 Idioma: {lang}'''
+        cached = self._check_cache(prompt)
+        if cached:
+            return cached if isinstance(cached, dict) else json.loads(cached)
         result = self._query(prompt)
+        self._save_cache(prompt, result)
         try:
             return json.loads(result)
         except json.JSONDecodeError:
@@ -49,7 +81,21 @@ Idioma: {lang}'''
         prompt = f'''Identifica si estas noticias son editoriales coordinados o angulos independientes:
 {json.dumps(article_titles)}
 Responde SOLO: coordinado, independiente o mixto.'''
-        return self._query(prompt)
+        cached = self._check_cache(prompt)
+        if cached:
+            return cached
+        result = self._query(prompt)
+        self._save_cache(prompt, result)
+        return result
+
+    def classify_stance(self, title, actor):
+        prompt = f"Classify the stance toward {actor} in this news headline.\nHeadline: {title[:200]}\nRespond ONLY with one word: pro, contra, or neutral."
+        cached = self._check_cache(prompt)
+        if cached:
+            return cached
+        result = self._query(prompt)
+        self._save_cache(prompt, result)
+        return result
 
     def _query(self, prompt):
         if self.mode == 'production':

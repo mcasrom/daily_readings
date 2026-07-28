@@ -34,22 +34,16 @@ def detect_actor_mentions(articles):
 
 
 def classify_stance(title, actor, llm):
-    cache_key = (title[:100], actor)
-    if cache_key in STANCE_CACHE:
-        return STANCE_CACHE[cache_key]
-    prompt = "Classify the stance toward " + actor + " in this news headline.\nHeadline: " + title[:200] + "\nRespond ONLY with one word: pro, contra, or neutral."
     try:
-        result = llm._query(prompt).strip().lower()
+        result = llm.classify_stance(title, actor).strip().lower()
         if "pro" in result:
-            stance = "pro"
+            return "pro"
         elif "contra" in result or "anti" in result or "negative" in result:
-            stance = "contra"
+            return "contra"
         else:
-            stance = "neutral"
+            return "neutral"
     except Exception:
-        stance = "neutral"
-    STANCE_CACHE[cache_key] = stance
-    return stance
+        return "neutral"
 
 
 def aggregate_stance(actor_mentions, llm):

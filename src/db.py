@@ -89,6 +89,13 @@ def init_db():
             status TEXT DEFAULT 'running'
         );
 
+        CREATE TABLE IF NOT EXISTS llm_cache (
+            cache_key TEXT PRIMARY KEY,
+            result TEXT NOT NULL,
+            created_at TEXT DEFAULT (datetime('now')),
+            ttl_days INTEGER DEFAULT 7
+        );
+
         CREATE INDEX IF NOT EXISTS idx_articles_date ON articles(published);
         CREATE INDEX IF NOT EXISTS idx_articles_cluster ON articles(cluster_id);
         CREATE INDEX IF NOT EXISTS idx_word_freq_date ON word_frequencies(date);
@@ -317,6 +324,42 @@ def fail_pipeline_log(run_id, errors):
     conn.close()
 
 
+def get_llm_cache(cache_key, max_age_days=7):
+    conn = get_conn()
+    row = conn.execute(
+        "SELECT result FROM llm_cache WHERE cache_key = ? AND created_at >= datetime('now', ? || ' days')",
+        (cache_key, f'-{max_age_days}')
+    ).fetchone()
+    conn.close()
+    if row:
+        try:
+            return json.loads(row['result'])
+        except Exception:
+            return row['result']
+    return None
+
+
+def set_llm_cache(cache_key, result):
+    conn = get_conn()
+    result_str = json.dumps(result) if not isinstance(result, str) else result
+    conn.execute(
+        "INSERT OR REPLACE INTO llm_cache (cache_key, result, created_at) VALUES (?, ?, datetime('now'))",
+        (cache_key, result_str)
+    )
+    conn.commit()
+    conn.close()
+
+
+def clean_llm_cache(max_age_days=7):
+    conn = get_conn()
+    conn.execute("DELETE FROM llm_cache WHERE created_at < datetime('now', ? || ' days')",
+                 (f'-{max_age_days}',))
+    deleted = conn.total_changes
+    conn.commit()
+    conn.close()
+    return deleted
+
+
 def rotate_articles(days=7):
     conn = get_conn()
     cutoff = (datetime.utcnow() - timedelta(days=days)).isoformat()
@@ -327,6 +370,7 @@ def rotate_articles(days=7):
     deleted_words = cursor2.rowcount
     cursor3 = conn.execute('DELETE FROM sync_events WHERE last_seen < ?', (cutoff,))
     deleted_syncs = cursor3.rowcount
+    clean_llm_cache(days)
     conn.commit()
     conn.close()
     return deleted_articles, deleted_words, deleted_syncs
