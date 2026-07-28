@@ -193,12 +193,29 @@ def main(fast=False):
             "SELECT id, embedding FROM articles WHERE fetched >= ? AND embedding IS NOT NULL ORDER BY published DESC",
             ((datetime.now(timezone.utc) - timedelta(days=config.get('clustering', {}).get('window_days', 7))).isoformat(),)
         ).fetchall()
-        id_to_embedding = {r['id']: json.loads(r['embedding']) for r in rows}
-        embeddings = [id_to_embedding[a['id']] for a in db_articles if a['id'] in id_to_embedding]
-        if len(embeddings) != len(db_articles):
-            print(f'  [WARN] {len(db_articles) - len(embeddings)} artículos sin embedding, forzando regenerate')
+        id_to_embedding = {}
+        dims = set()
+        for r in rows:
+            emb = json.loads(r['embedding'])
+            dims.add(len(emb) if isinstance(emb, list) else 0)
+            id_to_embedding[r['id']] = emb
+        if len(dims) > 1:
+            print(f'  [WARN] Dimensiones inconsistentes ({dims}), forzando regenerate')
+            conn.execute('UPDATE articles SET embedding = NULL WHERE fetched >= ?',
+                         ((datetime.now(timezone.utc) - timedelta(days=config.get('clustering', {}).get('window_days', 7))).isoformat(),))
+            conn.commit()
             titles = [a['title'] for a in db_articles]
             embeddings = embedder.embed(titles)
+            for art, emb in zip(db_articles, embeddings):
+                conn.execute('UPDATE articles SET embedding = ? WHERE id = ?', (json.dumps(emb), art['id']))
+            conn.commit()
+        else:
+            embeddings = [id_to_embedding.get(a['id']) for a in db_articles]
+            missing = sum(1 for e in embeddings if e is None)
+            if missing:
+                print(f'  [WARN] {missing} artículos sin embedding, forzando regenerate')
+                titles = [a['title'] for a in db_articles]
+                embeddings = embedder.embed(titles)
     finally:
         conn.close()
     print(f'[OK] Total embeddings listos: {len(embeddings)}')
@@ -307,7 +324,7 @@ def main(fast=False):
                       is_index=True)
 
     for i in range(1, 7):
-        ds = (now - timedelta(days=i)).strftime('%y%m%d')
+        ds = (start_time - timedelta(days=i)).strftime('%y%m%d')
         generate_briefing(db_articles, active_clusters, sync_events, frequencies, trends, date_str=ds, all_articles_in_window=db_articles, sources=config['sources'], llm_model=llm_model,
                           wordclouds={}, breaking=[], entities={},
                           feed_status=feed_status, stance_data=stance_data,

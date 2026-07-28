@@ -47,9 +47,9 @@ sources:
     type: general
     url: https://rss.dw.com/rdf/rss-en-world
   - lang: de
-    name: Die Zeit
+    name: FAZ
     type: general
-    url: https://www.zeit.de/index.rss
+    url: https://www.faz.net/rss/aktuell/
   brasil:
   - lang: pt
     name: Folha de S.Paulo
@@ -100,7 +100,7 @@ sources:
   - lang: en
     name: Reuters
     type: general
-    url: https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best&best-sectors=world
+    url: https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best
   francia:
   - lang: fr
     name: Le Monde
