@@ -1,6 +1,10 @@
 import os
+import pickle
 import numpy as np
+from pathlib import Path
 from sklearn.feature_extraction.text import TfidfVectorizer
+
+VECTORIZER_PATH = Path(__file__).parent.parent / "data" / "tfidf_vectorizer.pkl"
 
 
 class EmbeddingsProvider:
@@ -8,6 +12,24 @@ class EmbeddingsProvider:
         self.mode = mode
         self._tfidf = None
         self.api_key = os.environ.get("GEMINI_API_KEY")
+        self._load_vectorizer()
+
+    def _load_vectorizer(self):
+        if VECTORIZER_PATH.exists():
+            try:
+                with open(VECTORIZER_PATH, "rb") as f:
+                    self._tfidf = pickle.load(f)
+                print(f"  [CACHE] Vectorizer cargado ({self._tfidf.max_features} features)")
+            except Exception as e:
+                print(f"  [WARN] No se pudo cargar vectorizer: {e}")
+                self._tfidf = None
+
+    def _save_vectorizer(self):
+        if self._tfidf is not None:
+            VECTORIZER_PATH.parent.mkdir(parents=True, exist_ok=True)
+            with open(VECTORIZER_PATH, "wb") as f:
+                pickle.dump(self._tfidf, f)
+            print(f"  [OK] Vectorizer guardado ({self._tfidf.max_features} features)")
 
     def embed(self, texts):
         if isinstance(texts, str):
@@ -26,6 +48,7 @@ class EmbeddingsProvider:
                 strip_accents="unicode",
             )
             matrix = self._tfidf.fit_transform(texts)
+            self._save_vectorizer()
         else:
             matrix = self._tfidf.transform(texts)
         return matrix.toarray().tolist()
