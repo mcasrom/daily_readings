@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 52.6°C | ⚖ Load: 0.00 | 🌐 Ping: 16.1ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 52.6°C | ⚖ Load: 0.00 | 🌐 Ping: 14.1ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -44,16 +44,16 @@
 - [[https://elpais.com/espana/2026-08-01/la-desgracia-sumergida-en-la-frontera-de-ceuta-hay-mas-muertos-en-el-mar.html][La desgracia sumergida en la frontera de Ceuta: “Hay más muertos en el mar”]]
 - [[https://elpais.com/espana/2026-08-01/sanchez-afea-la-actitud-egoista-de-algunos-gobiernos-europeos-por-la-crisis-de-ceuta-y-pide-una-reunion-urgente-de-la-ue.html][Sánchez afea la actitud “egoísta” de algunos gobiernos europeos por la crisis de Ceuta]]
 - [[https://elpais.com/espana/2026-08-01/el-rey-expresa-su-indignacion-por-los-graves-acontecimientos-de-ceuta-y-pide-medidas-para-que-no-se-repitan.html][El Rey expresa su “indignación” por los “graves acontecimientos” de Ceuta y pide “medidas” para que no se repitan]]
-- [[https://elpais.com/espana/2026-08-01/el-gobierno-despliega-una-barrera-flotante-en-la-frontera-de-ceuta-para-cumplir-la-sentencia-del-supremo.html][El Gobierno despliega una barrera flotante en la frontera de Ceuta para cumplir la sentencia del Supremo]]
+- [[https://elpais.com/espana/2026-08-01/el-gobierno-despliega-una-barrera-flotante-en-la-frontera-de-ceuta-para-cumplir-la-sentencia-del-supremo.html][El Gobierno despliega una barrera flotante en la frontera de Ceuta]]
 - [[https://elpais.com/espana/2026-08-01/ceuta-recobra-parte-de-la-calma-en-medio-de-la-tension-politica.html][Ceuta recobra parte de la calma en medio de la tensión política]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/internacional/2026/08/01/6a6dcbd7e9cf4a5d338b4585.html][22 países liderados por Italia y Dinamarca cuestionan la política migratoria de España y reclaman que la UE coja el timón]]
-- [[https://www.elmundo.es/espana/2026/08/01/6a6db0e9e85eceff058b456e.html][Sánchez lleva la batalla a Europa: carga contra los países "egoístas" en su reacción "ilegal" a la crisis de Ceuta y pide una reunión de ministros del Interior]]
-- [[https://www.elmundo.es/espana/2026/08/01/6a6e1a1cfc6c83f2708b458e.html][Felipe VI recuerda que el Estado "debe velar por la seguridad de los ciudadanos" y transmite su "indignación" por la llegada de marroquíes a nado a Ceuta]]
-- [[https://www.elmundo.es/espana/2026/08/01/6a6da54b21efa0a7288b458e.html][El Gobierno empieza a instalar barreras de contención en Ceuta dos años después de la sentencia del 'efecto llamada' e insiste en alabar la "cooperación leal" con Marruecos]]
-- [[https://www.elmundo.es/espana/2026/07/31/6a6ced9bfdddfffa7a8b456f.html]["A Marruecos se le fue de las manos": los primeros análisis sobre la avalancha de Ceuta apuntan a Rabat]]
+- [[https://www.elmundo.es/espana/2026/08/02/6a6e51e621efa031348b4586.html][Los migrantes retratan la desidia de Marruecos ante la avalancha del jueves: "Había 3-4 gendarmes y sólo nos echaban hacia el mar"]]
+- [[https://www.elmundo.es/espana/2026/08/01/6a6e3c75e4d4d8165a8b457a.html][El fracaso en las crisis persigue a Sánchez hasta el final: imprevisión y reacción tardía, del Covid a Ceuta]]
+- [[https://www.elmundo.es/espana/2026/08/02/6a6de3b4fdddff645c8b4572.html][Las otras víctimas de la crisis migratoria en Ceuta: Un centenar de feriantes "secuestrados" en una feria fantasma]]
+- [[https://www.elmundo.es/espana/2026/08/02/6a6e3024fc6c83e22a8b4597.html][La migración como arma de la guerra híbrida]]
+- [[https://www.elmundo.es/deportes/futbol/2026/07/31/6a6cb7e6e9cf4a0a518b4596.html][Y, al fondo, el fútbol (y Florentino): la tensa relación entre Marruecos y España por la final del Mundial 2030]]
 
 *** La Vanguardia
 
@@ -83,8 +83,8 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/middle-east/iran-stokes-the-middle-east-war-with-drone-attacks-on-kuwait-f25530a0][Trump Calls Off Planned Attack on Iran, Citing Diplomatic Progress]]
 - [[https://www.wsj.com/world/europe/can-marine-le-pens-30-year-old-protege-win-over-frances-ceos-8e597a22][Can Marine Le Pen’s 30-Year-Old Protégé Win Over France’s CEOs?]]
-- [[https://www.wsj.com/world/middle-east/iran-stokes-the-middle-east-war-with-drone-attacks-on-kuwait-f25530a0][Iran Stokes the Middle East War With Drone Attacks on Kuwait]]
 - [[https://www.wsj.com/world/europe/spain-migrants-morocco-update-0f16944d][Spain Says Most Immigrants Who Overran Its African Enclave Have Left]]
 - [[https://www.wsj.com/world/americas/u-s-backed-democracy-talks-sideline-venezuelas-opposition-leader-3617c4d5][U.S.-Backed Democracy Talks Sideline Venezuela’s Opposition Leader]]
 - [[https://www.wsj.com/world/asia/ten-climbers-dead-after-avalanche-in-pakistan-mountain-fbc54cd8][Ten Climbers Dead After Avalanche on Pakistan Mountain]]
@@ -93,29 +93,29 @@
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/planete/live/2026/08/01/en-direct-incendies-dans-le-var-la-bataille-est-remportee-ce-soir-selon-le-prefet-malgre-un-feu-toujours-pas-fixe-et-1-800-hectares-brules_6737097_3244.html][EN DIRECT, incendies : dans le Var, « la bataille est remportée » ce soir, selon le préfet, malgré un feu toujours « pas fixé » et 1 800 hectares brûlés]]
-- [[https://www.lemonde.fr/idees/article/2026/08/01/la-puissance-ne-repose-plus-seulement-sur-les-territoires-les-ressources-ou-l-armee-elle-depend-de-la-capacite-a-controler-les-flux_6737183_3232.html][« La puissance ne repose plus seulement sur les territoires, les ressources ou l’armée : elle dépend de la capacité à contrôler les flux »]]
+- [[https://www.lemonde.fr/planete/live/2026/08/02/en-direct-incendies-les-feux-sont-aujourd-hui-globalement-sous-controle-en-france-selon-sebastien-lecornu_6737097_3244.html][EN DIRECT, incendies : les feux sont aujourd’hui globalement « sous contrôle » en France, selon Sébastien Lecornu]]
+- [[https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-au-moyen-orient-des-ambassades-americaines-appellent-leurs-citoyens-a-envisager-de-quitter-la-region_6737099_3210.html][EN DIRECT, guerre au Moyen-Orient : Donald Trump assure retenir des frappes contre l’Iran à la demande de Téhéran et de pays de la région, dans l’attente d’un accord rapide]]
 - [[https://www.lemonde.fr/sport/article/2026/08/01/malgre-la-volte-face-de-gianni-infantino-l-uefa-veut-son-depart-ayant-perdu-confiance-en-lui_6737241_3242.html][Malgré la volte-face de Gianni Infantino, l’UEFA veut son départ, ayant « perdu confiance » en lui]]
 - [[https://www.lemonde.fr/international/article/2026/08/01/ceuta-l-ue-convoque-une-reunion-d-urgence-afin-d-echanger-sur-la-crise-migratoire_6737238_3210.html][Ceuta : l’UE convoque une réunion d’urgence afin d’échanger sur la crise migratoire]]
-- [[https://www.lemonde.fr/idees/article/2026/08/01/serge-joncour-romancier-depuis-2026-l-ete-n-a-plus-rien-de-leger-quelque-chose-a-change-l-ete-nous-a-ete-vole_6737230_3232.html][Serge Joncour, romancier : « Depuis 2026, l’été n’a plus rien de léger, quelque chose a changé. L’été nous a été volé »]]
+- [[https://www.lemonde.fr/intimites/article/2026/08/02/sexuellement-le-lacher-prise-est-il-encore-possible_6737248_6190330.html][Sexuellement, le lâcher-prise est-il encore possible ?]]
 
 *** Le Figaro
 
+- [[https://www.lefigaro.fr/international/guerre-au-moyen-orient-trump-suspend-les-frappes-americaines-contre-l-iran-20260802][Guerre au Moyen-Orient: Trump suspend les frappes américaines contre l'Iran]]
+- [[https://www.lefigaro.fr/international/etats-unis-fusillade-mortelle-dans-un-restaurant-de-l-idaho-20260802][États-Unis: fusillade mortelle dans un restaurant de l'Idaho]]
 - [[https://sante.lefigaro.fr/psychologie/flashbacks-cauchemars-stress-post-traumatique-le-lourd-impact-des-incendies-sur-la-sante-mentale-des-populations-sinistrees-20260801][Flashbacks, cauchemars, stress post-traumatique... Le lourd impact des incendies sur la santé mentale des populations sinistrées]]
 - [[https://www.lefigaro.fr/bordeaux/il-est-rare-qu-ils-se-plaignent-en-gironde-le-combat-des-medecins-pompiers-pour-proteger-les-leurs-des-fumees-toxiques-20260801][« Il est rare qu’ils se plaignent » : en Gironde, le combat des médecins pompiers pour protéger les leurs des fumées toxiques]]
 - [[https://sante.lefigaro.fr/social/sante-publique/fumees-toxiques-brulures-cancers-que-risquent-les-pompiers-en-luttant-contre-les-feux-de-foret-20260728][Fumées toxiques, brûlures, cancers... Que risquent les pompiers en luttant contre les feux de forêt ?]]
-- [[https://www.lefigaro.fr/meteo/en-direct-canicule-chaleur-meteo-incendies-feux-sud-france-var-20260801][EN DIRECT - Incendies : les feux sont globalement «sous contrôle» en France, annonce Sébastien Lecornu]]
-- [[https://www.lefigaro.fr/actualite-france/visualisez-en-cartes-les-feux-de-foret-en-cours-en-france-20260731][Gironde, Var... Visualisez en carte les feux de forêt qui ravagent la France]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
+- [[https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss][Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal]]
+- [[https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss][How Spain's migrant crisis created a political storm - whipped up by social media]]
 - [[https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss][EU calls emergency meeting to discuss Ceuta migrant crossings]]
-- [[https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss][Call for 'full review' as pressure grows on Infantino]]
-- [[https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss][Tourist plane crashes in Peru, killing 13]]
-- [[https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss][Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge]]
-- [[https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss][Italy putting nearly all major cities on highest heat alert]]
+- [[https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss][Young guns for hire - the teenage hitmen recruited to kill across Europe]]
+- [[https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss][The Sopranos star Vincent Pastore dies aged 80]]
 
 *** The Guardian
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/hungary-to-shut-sole-nuclear-plant-for-first-time-on-sunday/a-78205668?maca=en-rss-en-world-4025-rdf][Hungary to shut sole nuclear plant for first time on Sunday]]
+- [[https://www.dw.com/en/homemade-bomb-goes-off-outside-upscale-moscow-restaurant-state-officials-say/a-78205022?maca=en-rss-en-world-4025-rdf][Homemade bomb goes off outside upscale Moscow restaurant state officials say]]
 - [[https://www.dw.com/en/how-does-eastern-europe-commemorate-the-roma-holocaust/a-78183503?maca=en-rss-en-world-4025-rdf][How does eastern Europe commemorate the Roma Holocaust?]]
 - [[https://www.dw.com/en/war-in-ukraine-why-crimea-has-become-a-strategic-target/a-78197135?maca=en-rss-en-world-4025-rdf][War in Ukraine: Why Crimea has become a strategic target]]
 - [[https://www.dw.com/en/how-crypto-miners-are-stealing-power-in-southeast-asia/a-78175364?maca=en-rss-en-world-4025-rdf][How crypto miners are stealing power in Southeast Asia]]
-- [[https://www.dw.com/en/sudan-civil-war-when-drones-strike-the-classroom/a-78089487?maca=en-rss-en-world-4025-rdf][Sudan civil war: When drones strike the classroom]]
-- [[https://www.dw.com/en/humanoid-robots-trump-s-latest-china-trade-battle/a-78181288?maca=en-rss-en-world-4025-rdf][Humanoid robots: Trump's latest China trade battle?]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/lucas-lucco-relata-perda-de-vontade-de-cantar-ao-falar-sobre-depressao.shtml][Lucas Lucco relata perda de vontade de cantar ao falar sobre depressão]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/08/convencao-de-tarcisio-sem-a-foto-de-flavio.shtml][Convenção de Tarcísio sem a foto de Flávio]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/renan-santos-mira-ataques-a-flavio-em-evento-do-missao-e-defende-matar-quem-roubar.shtml][Renan Santos mira ataques a Flávio em evento do Missão e defende 'matar quem roubar']]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/tecnologia-vencedora-do-nobel-impulsiona-projeto-para-transformar-ar-em-agua-potavel.shtml][Tecnologia vencedora do Nobel impulsiona projeto para transformar ar em água potável]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/homem-aranha-um-novo-dia-bate-recorde-em-estreia-na-america-do-norte.shtml]['Homem-Aranha: Um Novo Dia' bate recorde em estreia na América do Norte]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/com-gol-anulado-e-neymar-discreto-santos-so-empata-com-o-remo-em-casa.shtml][Com gol anulado e Neymar discreto, Santos só empata com o Remo em casa]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/met-enfrenta-dilema-para-homenagear-o-controverso-estilista-john-galliano.shtml][Met enfrenta dilema para homenagear o controverso estilista John Galliano]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/mae-de-gabriel-medina-comemora-gravidez-e-exalta-uniao-familiar-do-filho.shtml][Mãe de Gabriel Medina comemora gravidez e exalta união familiar do filho]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/alexandra-moraes-ombudsman/2026/08/enroscos-da-corrida-eleitoral-e-as-voltas-que-o-lula-la-da.shtml][Enroscos da corrida eleitoral e as voltas que o 'Lula lá' dá]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/pela-1a-vez-em-70-anos-cuba-tem-como-derrubar-ditadura-diz-lider-da-diaspora-nos-eua.shtml][Pela 1ª vez em 70 anos Cuba tem como derrubar ditadura, diz líder da diáspora nos EUA]]
 
 *** O Globo
 
