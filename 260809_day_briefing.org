@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
-#+HTML: <div class='telemetry'>🌡 53.7°C | ⚖ Load: 0.00 | 🌐 Ping: 14.8ms</div>
+#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
+#+HTML: <div class='telemetry'>🌡 53.7°C | ⚖ Load: 0.00 | 🌐 Ping: 14.6ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -42,10 +42,10 @@
 *** El País
 
 - [[https://elpais.com/ciencia/2026-08-09/llega-el-dia-de-las-dos-noches-millones-de-espanoles-buscan-su-lugar-para-ver-el-eclipse.html][Llega el día de las dos noches: millones de españoles buscan su lugar para ver el eclipse]]
-- [[https://elpais.com/ciencia/2026-08-09/arcos-de-salinas-el-pueblo-turolense-que-teme-desbordarse-de-turistas-por-el-eclipse-vamos-a-morir-de-exito.html][Arcos de las Salinas, el pueblo turolense que teme desbordarse de turistas por el eclipse: “Vamos a morir de éxito”]]
 - [[https://elpais.com/ciencia/2026-08-09/que-pasara-cuando-la-luna-tape-el-sol-en-que-debes-fijarte-para-apreciar-el-eclipse-total.html][¿Qué pasará cuando la Luna tape el Sol? En qué debes fijarte para apreciar el eclipse total]]
-- [[https://elpais.com/sociedad/2026-08-09/asesinato-machista-en-la-casa-cuartel.html][La despedida a Laura Cruz: “La mató porque era feliz”]]
-- [[https://elpais.com/sociedad/2026-08-09/maria-eugenia-prendes-laura-cruz-habia-dicho-que-sabia-que-no-iba-a-parar-hasta-matarla-eso-es-algo-tan-rotundo-que-tiene-que-ser-lo-primero-que-tengamos-en-la-cabeza.html][María Eugenia Prendes: “Laura Cruz había dicho que sabía que no iba a parar hasta matarla. Eso es algo tan rotundo que tiene que ser lo primero que tengamos en la cabeza”]]
+- [[https://elpais.com/opinion/2026-08-09/el-eclipse-de-todos.html][El eclipse de todos]]
+- [[https://elpais.com/ciencia/2026-08-09/una-mirada-mas-profunda-a-la-belleza-de-un-eclipse.html][Una mirada más profunda a la belleza de un eclipse]]
+- [[https://elpais.com/ciencia/2026-08-09/arcos-de-salinas-el-pueblo-turolense-que-teme-desbordarse-de-turistas-por-el-eclipse-vamos-a-morir-de-exito.html][Arcos de las Salinas, el pueblo turolense que teme desbordarse de turistas por el eclipse: “Vamos a morir de éxito”]]
 
 *** El Mundo
 
@@ -57,19 +57,19 @@
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/politica/20260808/11610367/asi-son-controles-pie-avion-procedente-italia-centrados-ciudadanos-terceros-paises.html][Así son los controles a pie de avión procedente de Italia: centrados en ciudadanos de terceros países]]
-- [[https://www.lavanguardia.com/politica/20260808/11610335/extremadura-aragon-castilla-leon-no-acogeran-menores-inmigrantes.html][Extremadura, Aragón y Castilla y León expresan al Gobierno su negativa a acoger menores migrantes de Ceuta]]
-- [[https://www.lavanguardia.com/politica/20260808/11610297/enfrentamiento-total-italia-espana-protagoniza-prensa-italiana.html][El “enfrentamiento total” entre Italia y España protagoniza la prensa italiana]]
-- [[https://www.lavanguardia.com/politica/20260808/11610014/italia-recibe-pese-mas-inmigrantes-espana.html][Italia recibe, pese a todo, más inmigrantes que España]]
-- [[https://www.lavanguardia.com/politica/20260808/11610333/primeros-controles-aeropuerto-prat-vuelos-procedentes-italia.html][Primeros controles en los aeropuertos españoles a los vuelos procedentes de Italia]]
+- [[https://www.lavanguardia.com/politica/20260809/11610434/como-sentencia-supremo-bulos-derivaron-asalto-ceuta.html][Así fue cómo la sentencia del Tribunal Supremo y los bulos derivaron en el asalto en Ceuta]]
+- [[https://www.lavanguardia.com/politica/20260809/11610407/reunificacion-familiar-debe-consistir-mera-entrega-menores-marruecos.html][“La reunificación familiar no debe consistir en una mera entrega de los menores a Marruecos”]]
+- [[https://www.lavanguardia.com/economia/20260809/11609980/remesas-migrantes-aportan-7-economia-marruecos.html][Las remesas de los inmigrantes marroquíes aportan ya el 7% de la economía de su país]]
+- [[https://www.lavanguardia.com/economia/20260809/11609986/estados-unidos-aliado-mas-estrategico-nunca-marruecos.html][Estados Unidos, un aliado más estratégico que nunca para Marruecos]]
+- [[https://www.lavanguardia.com/internacional/20260809/11609713/inmigracion-europa-ue-ceuta-espana-marruecos-estados-unidos-schengen.html][Europa naufraga en el Estrecho]]
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/deportes/nombres-propios-fuera-cesped/20260809113247196958.html][Los nombres propios fuera del césped]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/sanchez-felicita-dia-cantabria-es-tierra-unica-cuyas-tradiciones-folclore-cultura-marcan-identidad/20260809111042196955.html][Sánchez felicita el Día de Cantabria: "Es una tierra única, cuyas tradiciones, folclore y cultura marcan su identidad"]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/infanta-elena-buruaga-leonor-lavado-forman-parte-libro-limones-solidarios-novales/20260809105603196954.html][La infanta Elena, Buruaga y Leonor Lavado ya forman parte del libro de Los Limones Solidarios de Novales]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/alto-campoo-roza-liderato-nacional-frio-marcar-67-grados-minima/20260809103726196952.html][Alto Campoo roza el liderato nacional de frío al marcar 6,7 grados de mínima]]
 - [[https://eldiariocantabria.publico.es/articulo/cantabria/mirador-cable-registra-mayor-racha-viento-espana-110-km-h-valderredible-supera-35-grados/20260808205601196949.html][El Mirador del Cable registra la mayor racha de viento de España, 110 km/h, y Valderredible supera los 35 grados]]
-- [[https://eldiariocantabria.publico.es/articulo/campoo/gobierno-acomete-mejoras-pabellon-ies-montesclaros/20260808204444196948.html][El Gobierno acomete mejoras en el pabellón del IES Montesclaros]]
-- [[https://eldiariocantabria.publico.es/articulo/ason/cofradia-tomate-pimiento-celebra-v-capitulo-gema-igual-como-cofrade-honor/20260808202733196946.html][La Cofradía del Tomate y Pimiento celebra su V Capítulo con Gema Igual como Cofrade de Honor]]
-- [[https://eldiariocantabria.publico.es/articulo/trasmiera/decenas-personas-dan-cita-fiestas-nuestra-senora-san-roque-riano/20260808201717196944.html][Decenas de personas se dan cita en las fiestas de Nuestra Señora y San Roque en Riaño]]
-- [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/ayuntamiento-creara-espacio-dedicado-cantabria-soberon-pide-gobierno-que-extienda-102-municipios/20260808194311196941.html][El Ayuntamiento creará un espacio dedicado a Cantabria, y Soberón pide al Gobierno que lo extienda a los 102 municipios]]
 
 ** 🇺🇸 Estados Unidos
 
@@ -85,35 +85,35 @@
 - [[https://www.wsj.com/world/china/cuba-china-solar-power-da5b3338?mod=rss_worldnews][Cuba Is Low on Oil. Now, It’s Counting on Solar, With China’s Help.]]
 - [[https://www.wsj.com/world/europe/jared-kushner-albania-shehu-drug-investigation-95391263?mod=rss_worldnews][The Suspected Gangster Causing Headaches for Kushner’s Albania Deal]]
 - [[https://www.wsj.com/world/middle-east/u-a-e-says-iran-attacked-one-of-its-ships-in-hormuz-bfbec3b2?mod=rss_worldnews][Iran Demands U.S. Withdrawal to Open Hormuz]]
-- [[https://www.wsj.com/world/asia/taiwan-war-drills-internet-speed-e4813870?mod=rss_worldnews][One Casualty of Taiwan’s War Drills: A Slower Internet]]
+- [[https://www.wsj.com/world/asia/taiwan-war-drills-internet-speed-e4813870?mod=rss_worldnews][Taiwan Is Slowing Its Internet for a War Drill. Locals Aren’t Worried.]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/economie/article/2026/08/08/pourquoi-les-nationalisations-d-entreprises-font-leur-grand-retour-dans-le-monde_6740787_3234.html][Pourquoi les nationalisations d’entreprises font leur grand retour dans le monde]]
-- [[https://www.lemonde.fr/politique/article/2026/08/08/presidentielle-2027-dix-ans-apres-l-election-d-emmanuel-macron-les-candidats-parient-sur-une-prime-a-l-experience_6740710_823448.html][Présidentielle 2027 : dix ans après l’élection d’Emmanuel Macron, les candidats parient sur une « prime à l’expérience »]]
-- [[https://www.lemonde.fr/societe/article/2026/08/08/dossiers-a-l-abandon-ou-perdus-malgre-des-auteurs-identifies-personnels-mal-formes-les-rapports-explosifs-des-magistrats-sur-les-enquetes-pour-atteintes-sexuelles-aux-mineurs_6740745_3224.html][Après la mort de Lyhanna, les rapports explosifs des magistrats sur les enquêtes pour atteintes sexuelles aux mineurs]]
-- [[https://www.lemonde.fr/sciences/article/2026/08/08/apres-le-crash-d-une-fusee-spacex-sur-la-lune-les-specialistes-tirailles-entre-l-opportunite-scientifique-et-l-absence-de-cadre-juridique_6741410_1650684.html][Après le crash d’une fusée SpaceX sur la Lune, les spécialistes tiraillés entre l’opportunité scientifique et l’absence de cadre juridique]]
-- [[https://www.lemonde.fr/sport/article/2026/08/08/pour-pauline-ferrand-prevot-un-tour-de-france-complique-et-inacheve-loin-de-ses-espoirs-de-double_6741513_3242.html][Pour Pauline Ferrand-Prévot, un Tour de France compliqué et inachevé, loin de ses espoirs de doublé]]
+- [[https://www.lemonde.fr/international/article/2026/08/09/a-gaza-les-plus-grandes-funerailles-collectives-de-l-histoire-de-la-palestine-ou-la-difficulte-de-donner-une-sepulture-aux-morts-et-aux-disparus-de-la-guerre_6741922_3210.html][A Gaza, « les plus grandes funérailles collectives de l’histoire de la Palestine », ou la difficulté de donner une sépulture aux morts et aux disparus de la guerre]]
+- [[https://www.lemonde.fr/sciences/article/2026/08/09/apres-les-incendies-comment-limiter-les-risques-pour-la-sante-mentale_6741927_1650684.html][Après les incendies, comment limiter les risques pour la santé mentale]]
+- [[https://www.lemonde.fr/politique/article/2026/08/09/presidentielle-2027-l-eventuelle-candidature-de-francois-hollande-scrutee-par-le-bloc-central_6741884_823448.html][Présidentielle 2027 : l’éventuelle candidature de François Hollande scrutée par le bloc central]]
+- [[https://www.lemonde.fr/international/article/2026/08/09/la-crimee-peninsule-des-souvenirs-ce-qu-il-nous-reste-de-la-bas-rien-tout-dans-le-c-ur_6741926_3210.html][La Crimée, péninsule des souvenirs : « Ce qu’il nous reste de là-bas ? Rien. Tout dans le cœur »]]
+- [[https://www.lemonde.fr/disparitions/article/2026/08/09/dominique-frot-meurt-a-l-age-de-68-ans_6742268_3382.html][Dominique Frot est morte à l’âge de 68 ans]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/canada-20-000-evacues-suite-a-un-megafeu-de-foret-l-etat-d-urgence-declare-20260809][Canada: 20.000 évacués suite à un mégafeu de forêt, l’état d'urgence déclaré]]
-- [[https://www.lefigaro.fr/sports/la-fifa-denonce-un-effort-concerte-et-continu-pour-affaiblir-infantino-20260809][La Fifa dénonce «un effort concerté et continu» pour affaiblir Infantino]]
-- [[https://www.lefigaro.fr/sciences/encore-plus-d-un-mois-a-tenir-ces-villes-ou-la-temperature-ne-descend-plus-sous-les-200c-l-ete-20260808][«Encore plus d’un mois à tenir» : ces villes où la température ne descend plus sous les 20°C l’été]]
+- [[https://www.lefigaro.fr/actualite-france/violences-sexuelles-sur-mineurs-le-syndicat-des-commissaires-de-la-police-nationale-ecoeure-par-le-courrier-de-gerald-darmanin-20260809][Violences sexuelles sur mineurs : le syndicat des commissaires de la police nationale «écœuré» par le courrier de Gérald Darmanin]]
+- [[https://www.lefigaro.fr/actualite-france/ce-courrier-de-darmanin-qui-pointe-les-defaillances-des-enquetes-sur-les-violences-sexuelles-sur-mineurs-20260808][Ce courrier de Darmanin qui pointe les défaillances des enquêtes sur les violences sexuelles sur mineurs]]
+- [[https://www.lefigaro.fr/societes/canicule-le-reacteur-de-la-centrale-nucleaire-de-golfech-de-nouveau-arrete-20260809][Canicule : le réacteur de la centrale nucléaire de Golfech de nouveau arrêté]]
+- [[https://www.lefigaro.fr/meteo/jusqu-a-42-0c-attendus-mercredi-decouvrez-l-arrivee-de-la-vague-de-chaleur-en-carte-20260728][Jusqu’à 40 °C : découvrez en cartes comment la chaleur va s’étendre à tout le pays]]
 - [[https://www.lefigaro.fr/meteo/canicule-13-departements-en-vigilance-orange-dimanche-20260808][Canicule : 13 départements en vigilance orange dimanche]]
-- [[https://www.lefigaro.fr/sciences/des-inondations-exceptionnelles-aux-records-de-chaleurs-comment-la-france-a-t-elle-bascule-dans-une-secheresse-historique-20260807][Des inondations exceptionnelles aux records de chaleurs, comment la France a-t-elle basculé dans une sécheresse « historique »?]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
+- [[https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss][Israel accused of weaponising archaeology at ancient West Bank sites]]
+- [[https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss][Hundreds arrested over French wildfires, but who is to blame?]]
 - [[https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss][Hormuz talks positive, Oman says, as Iran warns deal would not open strait]]
+- [[https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss][Perez Hilton faces long recovery after reports he self-harmed during livestream]]
 - [[https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss][Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general]]
-- [[https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss][US offers $1bn to Colombia on new right-wing president's first day of office]]
-- [[https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss][Messi's father Jorge dies aged 68 after illness]]
-- [[https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss][Madonna pays tribute to 'genius, otherworldly' producer William Orbit]]
 
 *** The Guardian
 
@@ -135,11 +135,11 @@
 
 *** Il Sole 24 Ore
 
+- [[https://www.ilsole24ore.com/art/ancora-caldo-e-afa-lunedi-bollino-rosso-19-citta-AJy97fi][Ancora caldo e afa: lunedì bollino rosso in 19 città]]
+- [[https://www.ilsole24ore.com/art/furbetti-targhe-estere-stretta-controlli-mirino-riciclaggio-ed-elusione-AJElHFi][Furbetti delle targhe estere, stretta sui controlli: nel mirino riciclaggio ed elusione]]
 - [[https://www.ilsole24ore.com/art/campi-flegrei-813-nuclei-familiari-allontanati-loro-abitazioni-AJuF0Qi][Campi Flegrei, 813 nuclei familiari allontanati dalle loro abitazioni]]
 - [[https://www.ilsole24ore.com/art/sindaco-milano-vannacci-lancia-carmelo-burgio-futuro-nazionale-ecco-chi-e-AJqSqOi][Sindaco di Milano, Vannacci lancia  Carmelo Burgio per Futuro nazionale. Ecco chi è]]
 - [[https://www.ilsole24ore.com/art/fisco-ora-spuntano-anche-firme-digitali-false-frodi-ed-evasione-AJVHXKi][Fisco, ora spuntano anche le firme digitali false per frodi ed evasione]]
-- [[https://www.ilsole24ore.com/art/imballaggi-oggi-vigore-decreto-ecco-nuove-regole-e-sanzioni-AJxtjlh][Imballaggi, da oggi in vigore il decreto: ecco le nuove regole e le sanzioni]]
-- [[https://www.ilsole24ore.com/art/pos-e-scontrini-niente-sanzioni-e-rischio-chiusura-piccoli-errori-AJ91RGi][Pos e scontrini, niente sanzioni e rischio chiusura per piccoli errori]]
 
 ** 🇩🇪 Alemania
 
@@ -153,21 +153,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/australia-jetstar-qatar-airways-planes-almost-collide-on-sydney-airport-tarmac/a-78293085?maca=en-rss-en-world-4025-rdf][Australia: Jetstar, Qatar Airways planes almost collide on Sydney Airport tarmac]]
 - [[https://www.dw.com/en/nigeria-marries-1-500-couples-in-mass-wedding/a-78291396?maca=en-rss-en-world-4025-rdf][Nigeria marries 1,500 couples in mass wedding]]
 - [[https://www.dw.com/en/kosovo-pm-kurti-egged-in-parliament-amid-political-crisis/a-78291171?maca=en-rss-en-world-4025-rdf][Kosovo PM Kurti egged in parliament amid political crisis]]
 - [[https://www.dw.com/en/war-terror-diplomacy-what-if-israel-takes-al-aqsa-mosque/a-78284016?maca=en-rss-en-world-4025-rdf][War, terror, diplomacy: What if Israel takes Al-Aqsa Mosque?]]
 - [[https://www.dw.com/en/typhoon-dolphin-hits-japan-as-china-braces-for-coming-storm/a-78286728?maca=en-rss-en-world-4025-rdf][Typhoon Dolphin hits Japan as China braces for coming storm]]
-- [[https://www.dw.com/en/ceuta-spain-sets-up-border-controls-on-travelers-from-italy/a-78282840?maca=en-rss-en-world-4025-rdf][Ceuta: Spain sets up border controls on travelers from Italy]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/ex-jogador-jadson-e-preso-em-flagrante-no-parana-sob-suspeita-de-violencia-domestica.shtml][Ex-jogador Jadson é preso em flagrante no Paraná sob suspeita de violência doméstica]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/raro-show-de-paulinho-da-viola-e-maria-bethania-embala-doce-maravilha.shtml][Raro show de Paulinho da Viola e Maria Bethânia embala Doce Maravilha]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2026/08/a-sabatina-de-renan-santos.shtml][A sabatina de Renan Santos]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/china-tem-1o-parque-industrial-zero-carbono-com-fabricas-de-baterias-e-de-turbinas-eolicas.shtml][China tem 1º parque industrial zero carbono, com fábricas de baterias e de turbinas eólicas]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/08/podemos-dizer-que-ia-tem-mente-semelhante-a-de-humanos.shtml][Podemos dizer que IA tem mente semelhante a de humanos?]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/influenciadores-pro-trump-perdem-milhoes-de-visualizacoes-em-plataformas-de-video.shtml][Influenciadores pró-Trump perdem milhões de visualizações em plataformas de vídeo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/eventos-presenciais-se-tornam-mais-valiosos-em-mundo-virtual-diz-ex-chefe-do-sxsw.shtml][Eventos presenciais se tornam mais valiosos em mundo virtual, diz ex-chefe do SXSW]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/acucar-foi-tao-chave-quanto-carne-na-evolucao-humana-aponta-estudo.shtml][Açúcar foi tão chave quanto carne na evolução humana, aponta estudo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/classe-c-rejeita-rotulos-ideologico-e-vota-por-resultado-diz-livro.shtml][Classe C rejeita rótulos ideológico e vota por resultado, diz livro]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/08/petrobras-escolhe-empresa-para-creditos-de-carbono-cujo-socio-teve-madeireira-punida.shtml][Petrobras escolhe empresa para créditos de carbono cujo sócio teve madeireira punida]]
 
 *** O Globo
 
