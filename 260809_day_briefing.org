@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 54.8°C | ⚖ Load: 0.02 | 🌐 Ping: 14.5ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 53.7°C | ⚖ Load: 0.00 | 🌐 Ping: 14.8ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,18 +41,18 @@
 
 *** El País
 
-- [[https://elpais.com/espana/2026-08-08/primer-dia-de-control-a-los-viajeros-procedentes-de-italia-la-policia-pide-la-documentacion-a-solo-el-5-o-10-de-los-pasajeros.html][Primer día de control a los viajeros procedentes de Italia: la policía pide la documentación a solo el 5% o 10% de los pasajeros]]
-- [[https://elpais.com/espana/2026-08-08/rollan-amenaza-a-marlaska-robles-y-albares-con-tomar-medidas-si-no-acuden-al-senado-a-informar-sobre-la-crisis-de-ceuta.html][Rollán advierte a Marlaska, Robles y Albares con tomar medidas si no acuden al Senado a informar sobre la crisis de Ceuta]]
-- [[https://elpais.com/espana/2026-08-08/el-asalto-multitudinario-a-ceuta-fue-una-operacion-organizada-y-no-un-movimiento-espontaneo.html][El asalto multitudinario a Ceuta fue “una operación organizada y no un movimiento espontáneo”]]
-- [[https://elpais.com/internacional/2026-08-08/la-crisis-de-ceuta-da-alas-a-los-partidarios-de-los-centros-de-deportacion-fuera-de-la-ue.html][La crisis de Ceuta da alas a los partidarios de los centros de deportación de migrantes fuera de la UE]]
-- [[https://elpais.com/espana/2026-08-08/lourdes-reyzabal-nadie-pagaria-a-una-mafia-por-entrar-por-una-puerta-que-estaba-abierta.html][Lourdes Reyzábal: “Nadie pagaría a una mafia por entrar por una puerta que estaba abierta”]]
+- [[https://elpais.com/ciencia/2026-08-09/llega-el-dia-de-las-dos-noches-millones-de-espanoles-buscan-su-lugar-para-ver-el-eclipse.html][Llega el día de las dos noches: millones de españoles buscan su lugar para ver el eclipse]]
+- [[https://elpais.com/ciencia/2026-08-09/arcos-de-salinas-el-pueblo-turolense-que-teme-desbordarse-de-turistas-por-el-eclipse-vamos-a-morir-de-exito.html][Arcos de las Salinas, el pueblo turolense que teme desbordarse de turistas por el eclipse: “Vamos a morir de éxito”]]
+- [[https://elpais.com/ciencia/2026-08-09/que-pasara-cuando-la-luna-tape-el-sol-en-que-debes-fijarte-para-apreciar-el-eclipse-total.html][¿Qué pasará cuando la Luna tape el Sol? En qué debes fijarte para apreciar el eclipse total]]
+- [[https://elpais.com/sociedad/2026-08-09/asesinato-machista-en-la-casa-cuartel.html][La despedida a Laura Cruz: “La mató porque era feliz”]]
+- [[https://elpais.com/sociedad/2026-08-09/maria-eugenia-prendes-laura-cruz-habia-dicho-que-sabia-que-no-iba-a-parar-hasta-matarla-eso-es-algo-tan-rotundo-que-tiene-que-ser-lo-primero-que-tengamos-en-la-cabeza.html][María Eugenia Prendes: “Laura Cruz había dicho que sabía que no iba a parar hasta matarla. Eso es algo tan rotundo que tiene que ser lo primero que tengamos en la cabeza”]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/08/08/6a773461fdddffcf728b457e.html][Los controles de viajeros de Italia empezaron sólo en Madrid y Barcelona y se han ido extendiendo a cinco aeropuertos]]
-- [[https://www.elmundo.es/espana/2026/08/08/6a76f28021efa025218b4581.html][Primeros viajeros procedentes de Italia afectados por los controles en Barajas tras el choque de Sánchez con Meloni: "Es ridículo, sólo por motivos políticos"]]
-- [[https://www.elmundo.es/espana/2026/08/08/6a76f1b6fc6c83ae228b459a.html][Los controles entre Italia y España por el fin de Schengen afectan a 86.000 viajeros al día en una de las rutas más transitadas de la UE]]
-- [[https://www.elmundo.es/cronica/2026/08/08/6a7625c9e9cf4a56328b4597.html][Testigos de la Italia que ha 'sacado' a España de Schengen: "Es un clima muy triste el que estamos viviendo en la UE"]]
+- [[https://www.elmundo.es/espana/2026/08/08/6a772cfffdddff232d8b4580.html][El colapso en la seguridad del Estado en la crisis de Ceuta deja la peor herencia: fallos en la protección de la frontera y desconfianza en Marruecos]]
+- [[https://www.elmundo.es/espana/2026/08/08/6a772d1dfdddff19488b45c1.html][Sánchez y Meloni dinamitan con la migración cuatro años de equilibrio institucional por la frontera sur de Europa]]
+- [[https://www.elmundo.es/espana/encuestas/2026/08/08/6a772d41fdddff2b0e8b4578.html][Sólo un 6% ve culpables a las mafias en la avalancha de Ceuta y casi la mitad cree que hubo "presión" de Marruecos, tesis que secunda el 61,9% de socialistas]]
+- [[https://www.elmundo.es/cronica/2026/08/08/6a74ca8821efa0ec258b4592.html][Los rostros de los desaparecidos de Ceuta]]
 - [[https://www.elmundo.es/espana/2026/08/08/6a777641fdddff512f8b4578.html][Vox propone investigar a Sánchez por posibles delitos de traición y contra la seguridad del Estado por la "invasión" de Ceuta]]
 
 *** La Vanguardia
@@ -81,29 +81,29 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/russia/the-wild-history-of-the-russian-online-retail-giant-being-bombarded-by-ukraine-ea0bc57d?mod=rss_worldnews][The Wild History of the Russian Online Retail Giant Being Bombarded by Ukraine]]
+- [[https://www.wsj.com/world/china/cuba-china-solar-power-da5b3338?mod=rss_worldnews][Cuba Is Low on Oil. Now, It’s Counting on Solar, With China’s Help.]]
+- [[https://www.wsj.com/world/europe/jared-kushner-albania-shehu-drug-investigation-95391263?mod=rss_worldnews][The Suspected Gangster Causing Headaches for Kushner’s Albania Deal]]
 - [[https://www.wsj.com/world/middle-east/u-a-e-says-iran-attacked-one-of-its-ships-in-hormuz-bfbec3b2?mod=rss_worldnews][Iran Demands U.S. Withdrawal to Open Hormuz]]
 - [[https://www.wsj.com/world/asia/taiwan-war-drills-internet-speed-e4813870?mod=rss_worldnews][One Casualty of Taiwan’s War Drills: A Slower Internet]]
-- [[https://www.wsj.com/world/europe/eus-internal-borders-start-to-harden-as-row-grows-over-migrants-d40a6ccd?mod=rss_worldnews][EU’s Internal Borders Start to Harden as Dispute Grows Over Migrants]]
-- [[https://www.wsj.com/world/china/a-lost-civilization-is-baffling-experts-and-rewriting-chinas-origin-story-cda8dba7?mod=rss_worldnews][A Lost Civilization Is Baffling Experts and Rewriting China’s Origin Story]]
-- [[https://www.wsj.com/world/russia/russias-hottest-startup-is-a-state-backed-sanctions-evasion-network-7afc488c?mod=rss_worldnews][Russia’s Hottest Startup Is a State-Backed Sanctions Evasion Network]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
+- [[https://www.lemonde.fr/economie/article/2026/08/08/pourquoi-les-nationalisations-d-entreprises-font-leur-grand-retour-dans-le-monde_6740787_3234.html][Pourquoi les nationalisations d’entreprises font leur grand retour dans le monde]]
 - [[https://www.lemonde.fr/politique/article/2026/08/08/presidentielle-2027-dix-ans-apres-l-election-d-emmanuel-macron-les-candidats-parient-sur-une-prime-a-l-experience_6740710_823448.html][Présidentielle 2027 : dix ans après l’élection d’Emmanuel Macron, les candidats parient sur une « prime à l’expérience »]]
 - [[https://www.lemonde.fr/societe/article/2026/08/08/dossiers-a-l-abandon-ou-perdus-malgre-des-auteurs-identifies-personnels-mal-formes-les-rapports-explosifs-des-magistrats-sur-les-enquetes-pour-atteintes-sexuelles-aux-mineurs_6740745_3224.html][Après la mort de Lyhanna, les rapports explosifs des magistrats sur les enquêtes pour atteintes sexuelles aux mineurs]]
-- [[https://www.lemonde.fr/economie/article/2026/08/08/pourquoi-les-nationalisations-d-entreprises-font-leur-grand-retour-dans-le-monde_6740787_3234.html][Pourquoi les nationalisations d’entreprises font leur grand retour dans le monde]]
 - [[https://www.lemonde.fr/sciences/article/2026/08/08/apres-le-crash-d-une-fusee-spacex-sur-la-lune-les-specialistes-tirailles-entre-l-opportunite-scientifique-et-l-absence-de-cadre-juridique_6741410_1650684.html][Après le crash d’une fusée SpaceX sur la Lune, les spécialistes tiraillés entre l’opportunité scientifique et l’absence de cadre juridique]]
 - [[https://www.lemonde.fr/sport/article/2026/08/08/pour-pauline-ferrand-prevot-un-tour-de-france-complique-et-inacheve-loin-de-ses-espoirs-de-double_6741513_3242.html][Pour Pauline Ferrand-Prévot, un Tour de France compliqué et inachevé, loin de ses espoirs de doublé]]
 
 *** Le Figaro
 
+- [[https://www.lefigaro.fr/international/canada-20-000-evacues-suite-a-un-megafeu-de-foret-l-etat-d-urgence-declare-20260809][Canada: 20.000 évacués suite à un mégafeu de forêt, l’état d'urgence déclaré]]
+- [[https://www.lefigaro.fr/sports/la-fifa-denonce-un-effort-concerte-et-continu-pour-affaiblir-infantino-20260809][La Fifa dénonce «un effort concerté et continu» pour affaiblir Infantino]]
 - [[https://www.lefigaro.fr/sciences/encore-plus-d-un-mois-a-tenir-ces-villes-ou-la-temperature-ne-descend-plus-sous-les-200c-l-ete-20260808][«Encore plus d’un mois à tenir» : ces villes où la température ne descend plus sous les 20°C l’été]]
 - [[https://www.lefigaro.fr/meteo/canicule-13-departements-en-vigilance-orange-dimanche-20260808][Canicule : 13 départements en vigilance orange dimanche]]
 - [[https://www.lefigaro.fr/sciences/des-inondations-exceptionnelles-aux-records-de-chaleurs-comment-la-france-a-t-elle-bascule-dans-une-secheresse-historique-20260807][Des inondations exceptionnelles aux records de chaleurs, comment la France a-t-elle basculé dans une sécheresse « historique »?]]
-- [[https://www.lefigaro.fr/meteo/jusqu-a-42-0c-attendus-mercredi-decouvrez-l-arrivee-de-la-vague-de-chaleur-en-carte-20260728][Jusqu’à 39 °C : découvrez en cartes où la chaleur va frapper le plus fort ce week-end]]
-- [[https://www.lefigaro.fr/vox/culture/nicolas-de-villiers-l-ouverture-d-un-parc-saoudien-sur-dragon-ball-ou-l-abandon-d-un-recit-francais-20260808][Nicolas de Villiers : « L’ouverture d’un parc saoudien sur “Dragon Ball” ou l’abandon d’un récit français »]]
 
 ** 🇬🇧 Reino Unido
 
@@ -153,21 +153,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/nigeria-marries-1-500-couples-in-mass-wedding/a-78291396?maca=en-rss-en-world-4025-rdf][Nigeria marries 1,500 couples in mass wedding]]
 - [[https://www.dw.com/en/kosovo-pm-kurti-egged-in-parliament-amid-political-crisis/a-78291171?maca=en-rss-en-world-4025-rdf][Kosovo PM Kurti egged in parliament amid political crisis]]
 - [[https://www.dw.com/en/war-terror-diplomacy-what-if-israel-takes-al-aqsa-mosque/a-78284016?maca=en-rss-en-world-4025-rdf][War, terror, diplomacy: What if Israel takes Al-Aqsa Mosque?]]
 - [[https://www.dw.com/en/typhoon-dolphin-hits-japan-as-china-braces-for-coming-storm/a-78286728?maca=en-rss-en-world-4025-rdf][Typhoon Dolphin hits Japan as China braces for coming storm]]
 - [[https://www.dw.com/en/ceuta-spain-sets-up-border-controls-on-travelers-from-italy/a-78282840?maca=en-rss-en-world-4025-rdf][Ceuta: Spain sets up border controls on travelers from Italy]]
-- [[https://www.dw.com/en/colombia-trump-ally-de-la-espriella-takes-office/a-78286636?maca=en-rss-en-world-4025-rdf][Colombia: Trump ally De la Espriella takes office]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/08/por-fogo-columbia-britanica-declara-emergencia-e-milhares-tem-que-deixar-suas-casas.shtml][Por fogo, Colúmbia Britânica declara emergência e milhares têm que deixar suas casas]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/anitta-diz-que-precisou-desacelerar-vida-frenetica-para-criar-equilibrium.shtml][Anitta diz que precisou desacelerar vida frenética para criar 'Equilibrium']]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/gremio-vira-sobre-o-sao-paulo-para-deixar-o-z4-do-brasileirao.shtml][Grêmio vira sobre o São Paulo para deixar o Z4 do Brasileirão]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/gisele-bundchen-compartilha-foto-rara-do-filho-cacula.shtml][Gisele Bündchen compartilha foto rara do filho caçula]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/tarcisio-declara-r-27-milhoes-em-bens-ao-registrar-candidatura-a-reeleicao-em-sp.shtml][Tarcísio declara R$ 2,7 milhões em bens ao registrar candidatura à reeleição em SP]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/ex-jogador-jadson-e-preso-em-flagrante-no-parana-sob-suspeita-de-violencia-domestica.shtml][Ex-jogador Jadson é preso em flagrante no Paraná sob suspeita de violência doméstica]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/raro-show-de-paulinho-da-viola-e-maria-bethania-embala-doce-maravilha.shtml][Raro show de Paulinho da Viola e Maria Bethânia embala Doce Maravilha]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2026/08/a-sabatina-de-renan-santos.shtml][A sabatina de Renan Santos]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/china-tem-1o-parque-industrial-zero-carbono-com-fabricas-de-baterias-e-de-turbinas-eolicas.shtml][China tem 1º parque industrial zero carbono, com fábricas de baterias e de turbinas eólicas]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/08/podemos-dizer-que-ia-tem-mente-semelhante-a-de-humanos.shtml][Podemos dizer que IA tem mente semelhante a de humanos?]]
 
 *** O Globo
 
