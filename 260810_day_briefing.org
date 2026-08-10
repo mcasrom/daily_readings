@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 54.2°C | ⚖ Load: 0.24 | 🌐 Ping: 14.8ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 54.2°C | ⚖ Load: 0.00 | 🌐 Ping: 16.6ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -42,34 +42,34 @@
 *** El País
 
 - [[https://elpais.com/espana/2026-08-10/la-instalacion-de-una-planta-china-junto-a-la-base-naval-de-ferrol-enciende-las-alertas-en-defensa-y-el-cni.html][La instalación de una planta china junto a la base naval de Ferrol enciende las alertas en Defensa y el CNI]]
+- [[https://elpais.com/espana/2026-08-10/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html][Última hora de la entrada de inmigrantes a Ceuta, en directo | Italia y Dinamarca rechazan “la inmigración descontrolada” y piden centros de deportación]]
 - [[https://elpais.com/espana/2026-08-10/el-asilo-que-no-llega-a-ceuta-soy-palestino-cruce-a-nado-y-no-me-dicen-nada-de-mi-solicitud.html][El asilo que no llega a Ceuta: “Soy palestino, crucé a nado y no me dicen nada de mi solicitud”]]
 - [[https://elpais.com/espana/2026-08-10/un-gobierno-en-emergencia-permanente.html][Un Gobierno en emergencia permanente]]
-- [[https://elpais.com/clima-y-medio-ambiente/2026-08-10/espana-en-alerta-roja-por-miedo-a-los-incendios-por-negligencias-durante-la-observacion-del-eclipse.html][España, en alerta roja por miedo a los incendios por negligencias durante la observación del eclipse]]
 - [[https://elpais.com/el-tiempo/2026-08-10/donde-habra-nubes-que-impidan-ver-el-eclipse-consulte-como-estaran-los-cielos-y-el-horizonte-en-cada-municipio.html][¿Dónde habrá nubes durante el eclipse? Consulte cómo estarán los cielos y el horizonte en cada municipio]]
 
 *** El Mundo
 
 - [[https://www.elmundo.es/espana/2026/08/09/6a78669be9cf4ad41f8b456e.html][Informes del Ejército alertan del riesgo para la seguridad de la fábrica de China en Ferrol: "Es una amenaza"]]
 - [[https://www.elmundo.es/salud/2026/08/10/6a760a08fc6c83bc218b456f.html][La ley de reproducción asistida que el Congreso quiere cambiar: "A ellos les basta con decir que ya no quieren sus gametos, a nosotras no"]]
-- [[https://www.elmundo.es/espana/2026/08/09/6a78d34ae85eced91b8b456e.html][Ceuta clama "Basta ya" y exige respuestas a España y Europa]]
+- [[https://www.elmundo.es/espana/2026/08/10/6a7988b1e4d4d8306d8b4571.html][Italia insiste en censurar la política migratoria de Sánchez: "Decisiones unilaterales no pueden descargar sus consecuencias en los socios"]]
 - [[https://www.elmundo.es/economia/empresas/2026/08/09/6a71fda6e85ecee01b8b4583.html][Los 29 kilómetros de cable bajo el Estrecho que pueden 'apagar' la economía de Marruecos: "Son su cordón umbilical"]]
 - [[https://www.elmundo.es/cataluna/2026/08/10/6a7787e6e4d4d855758b4570.html][Salvador Illa llega al ecuador del mandato: aprobado en estabilidad y deficiencias en la gestión]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/politica/20260809/11610811/miles-ceuties-salen-calle-grito-basta-ceuta-rinde.html][Miles de ceutíes salen a la calle al grito de “Basta ya: Ceuta no se rinde”]]
-- [[https://www.lavanguardia.com/internacional/20260809/11609713/inmigracion-europa-ue-ceuta-espana-marruecos-estados-unidos-schengen.html][Europa naufraga en el Estrecho]]
-- [[https://www.lavanguardia.com/politica/20260809/11610434/como-sentencia-supremo-bulos-derivaron-asalto-ceuta.html][Así fue cómo la sentencia del Tribunal Supremo y los bulos derivaron en el asalto en Ceuta]]
-- [[https://www.lavanguardia.com/politica/20260809/11610771/guardia-civil-encuentra-cuerpo-vida-elevan-83-victimas-entrada-masiva-halladas-ceuta.html][La Guardia Civil encuentra otro cuerpo sin vida y se elevan a 83 las víctimas de la entrada masiva halladas en Ceuta]]
-- [[https://www.lavanguardia.com/vida/20260809/11610721/embarcacion-20-migrantes-alcanza-madrugada-costa-linea-cadiz.html][Una embarcación con 20 migrantes alcanza de madrugada la costa de La Línea (Cádiz)]]
+- [[https://www.lavanguardia.com/local/barcelona/20260810/11610772/ladrones-cobre-actuan-vias-rodalies-diario.html][Los robos de cable de cobre se disparan y agravan la crisis de Rodalies]]
+- [[https://www.lavanguardia.com/opinion/20260810/11610738/vigila-rodalies.html][¿Quién vigila en Rodalies?]]
+- [[https://www.lavanguardia.com/politica/20260810/11610781/gobiernos-pp-vox-superan-momento-test-crisis-ceuta.html][Los gobiernos de PP y Vox superan de momento el test de la crisis de Ceuta]]
+- [[https://www.lavanguardia.com/politica/20260809/11610811/miles-ceuties-salen-calle-grito-basta-ceuta-rinde.html][Más de 15.000 ceutíes se concentran para pedir “respuestas” a España y Europa]]
+- [[https://www.lavanguardia.com/politica/20260810/11610778/ultimo-mohicano.html][El último mohicano]]
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/ecocidio-sur-cantabria-alertan-impacto-poligono-eolico-somaloma-quemadas/20260810113813196989.html][“Ecocidio” en el sur de Cantabria: alertan de los “graves impactos ambientales” del polígono eólico Somaloma-Las Quemadas]]
+- [[https://eldiariocantabria.publico.es/articulo/cultura/rap-toma-calles-santander-reivindicar-derechos-pueblos-indigenas/20260810111808196986.html][El rap toma las calles de Santander para reivindicar los derechos de los pueblos indígenas]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/primeros-vuelos-italia-llegan-cantabria-controles-fronterizos-suspension-schengen/20260810105417196984.html][Los primeros vuelos de Italia llegan a Cantabria sin controles fronterizos tras la suspensión de Schengen]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/cantabria-cuela-entre-lugares-mas-frios-espana-lunes-temperaturas-debajo-10-grados/20260810103551196983.html][Cantabria se cuela entre los lugares más fríos de España este lunes con temperaturas por debajo de 10 grados]]
 - [[https://eldiariocantabria.publico.es/articulo/saja-besaya/juegos-tradicionales-firmamento-asi-sera-jornada-infantil-jueves-13/20260809193333196981.html][De los juegos tradicionales a un paseo por las estrellas: así será la jornada infantil del jueves 13]]
-- [[https://eldiariocantabria.publico.es/articulo/saja-besaya/prc-senala-necesidad-reforzar-plantilla-policia-local/20260809192420196979.html][El PRC señala la necesidad de reforzar la plantilla de la Policía Local]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/susto-san-vicente-barquera-arder-motor-vehiculo-estacionado/20260809190621196978.html][Susto en San Vicente de la Barquera tras arder el motor de un vehículo estacionado]]
-- [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/avip-denuncia-estancamiento-ampliacion-ies-valle-pielagos-nuevo-instituto-boo/20260809184803196976.html][AVIP denuncia el estancamiento de la ampliación del IES Valle de Piélagos y del nuevo instituto de Boo]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/duras-criticas-oposicion-buruaga-sigue-viviendo-pais-maravillas/20260809183602196974.html][Duras críticas de la oposición a Buruaga: "Sigue viviendo en el país de las maravillas"]]
 
 ** 🇺🇸 Estados Unidos
 
@@ -80,39 +80,39 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/middle-east/israel-rejects-trump-plan-for-hamas-disarmament-2d1475cb?mod=rss_worldnews][Israel Rejects Next Phase of Trump’s Gaza Peace Plan]]
 - [[https://www.wsj.com/business/energy-oil/u-a-e-s-adnoc-gas-to-invest-more-than-8-billion-in-expansion-push-cceb572d?mod=rss_worldnews][U.A.E.’s Adnoc Gas to Invest More Than $8 Billion in Expansion Push]]
 - [[https://www.wsj.com/world/china/in-china-moles-are-leaking-official-secrets-for-profit-94b156ac?mod=rss_worldnews][In China, ‘Moles’ Are Leaking Official Secrets for Profit]]
 - [[https://www.wsj.com/world/china/this-billionaire-became-chinas-charles-schwab-then-beijing-cracked-down-6d7f8ef3?mod=rss_worldnews][This Billionaire Became China’s Charles Schwab. Then Beijing Cracked Down.]]
-- [[https://www.wsj.com/world/middle-east/israel-rejects-trump-plan-for-hamas-disarmament-2d1475cb?mod=rss_worldnews][Israel Rejects Next Phase of Trump’s Gaza Peace Plan]]
 - [[https://www.wsj.com/world/europe/alleged-irish-crime-boss-extradited-from-u-a-e-ending-yearslong-hunt-24a239e0?mod=rss_worldnews][Alleged Irish Crime Boss Extradited From U.A.E., Ending Yearslong Hunt]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/planete/article/2026/08/10/en-europe-occidentale-une-secheresse-exceptionnelle-qui-pese-sur-les-activites-humaines-et-les-ecosystemes_6743010_3244.html][En Europe occidentale, une sécheresse exceptionnelle qui pèse sur les activités humaines et les écosystèmes]]
-- [[https://www.lemonde.fr/sport/article/2026/08/10/la-victoire-de-demi-vollering-au-tour-de-france-consacre-le-triomphe-de-la-meilleure-cycliste-au-monde-et-d-un-collectif-devoue-a-la-quete-du-maillot-jaune_6742907_3242.html][La victoire de Demi Vollering au Tour de France consacre le triomphe de « la meilleure cycliste au monde » et d’un collectif dévoué à la quête du maillot jaune]]
-- [[https://www.lemonde.fr/politique/article/2026/08/10/aux-journees-internationales-de-corte-le-jeu-en-miroir-des-independantistes-avec-le-flnc-sur-le-peuple-corse_6742874_823448.html][Aux Journées internationales de Corte, le jeu en miroir des indépendantistes avec le FLNC sur le peuple corse]]
-- [[https://www.lemonde.fr/planete/article/2026/08/09/l-incendie-dans-la-drome-s-est-etendu-un-total-de-370-hectares-brules-et-quatre-pompiers-blesses_6742401_3245.html][L’incendie dans la Drôme s’est étendu, un total de 370 hectares brûlés et quatre pompiers blessés]]
-- [[https://www.lemonde.fr/societe/article/2026/08/09/violences-sexuelles-sur-mineurs-la-police-judiciaire-denonce-une-trahison-de-gerald-darmanin_6742840_3224.html][Violences sexuelles sur mineurs : l’association de la police judiciaire dénonce une « trahison » de Gérald Darmanin]]
+- [[https://www.lemonde.fr/economie/article/2026/08/10/airbus-et-boeing-sur-la-voie-d-une-montee-en-cadence-industrielle-record_6743044_3234.html][Airbus et Boeing sur la voie d’une montée en cadence industrielle record avec plus de 16 000 avions à fabriquer]]
+- [[https://www.lemonde.fr/international/article/2026/08/10/aux-etats-unis-le-camp-republicain-face-aux-vents-contraires-avant-les-elections-de-mi-mandat_6743085_3210.html][Aux Etats-Unis, le camp républicain face aux vents contraires avant les élections de mi-mandat]]
+- [[https://www.lemonde.fr/planete/article/2026/08/10/canicule-vingt-deux-departements-du-centre-et-du-sud-est-en-vigilance-orange-lundi_6741964_3245.html][Canicule : 22 départements du Centre et du Sud-Est en vigilance orange lundi]]
+- [[https://www.lemonde.fr/societe/article/2026/08/10/suspecte-d-etre-un-infiltre-un-afghan-de-lourdes-mis-en-examen-pour-terrorisme-apres-un-sejour-clandestin-chez-les-talibans_6743082_3224.html][Suspecté d’être un « infiltré », un Afghan de Lourdes mis en examen pour terrorisme après un séjour clandestin chez les talibans]]
+- [[https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-une-attaque-de-drones-ukrainienne-fait-au-moins-douze-morts-et-des-dizaines-de-blesses-au-tatarstan_6741928_3210.html][EN DIRECT, guerre en Ukraine : une attaque de drones ukrainienne a fait au moins 13 morts au Tatarstan ; Kiev revendique des frappes sur une raffinerie]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/entre-la-guerre-des-etats-unis-et-la-repression-des-ultras-du-regime-le-calvaire-sans-fin-des-iraniens-20260809][Entre la guerre des États-Unis et la répression des ultras du régime, le calvaire sans fin des Iraniens]]
-- [[https://www.lefigaro.fr/international/teheran-cherche-a-imposer-ses-conditions-pour-la-reouverture-d-ormuz-20260809][L’Iran cherche à imposer ses conditions pour la réouverture d’Ormuz]]
-- [[https://www.lefigaro.fr/international/c-est-comme-une-partie-d-echecs-face-a-l-iran-trump-temporise-et-mise-sur-la-pression-economique-20260809][«C’est comme une partie d’échecs» : face à l’Iran, Trump temporise et mise sur la pression économique]]
-- [[https://www.lefigaro.fr/international/iran-rare-rencontre-entre-le-guide-supreme-mojtaba-khamenei-et-le-president-iranien-20260809][Iran : rare rencontre entre le guide suprême Mojtaba Khamenei et le président iranien]]
-- [[https://www.lefigaro.fr/vox/monde/l-editorial-de-philippe-gelie-le-pouvoir-iranien-contre-le-peuple-20260809][L’éditorial de Philippe Gélie : «Le pouvoir iranien contre le peuple»]]
+- [[https://www.lefigaro.fr/sports/autres-sports/championnats-d-europe-de-natation-marchand-et-grousset-en-papillon-les-chances-des-bleus-en-dos-dix-courses-a-ne-pas-manquer-20260810][Championnats d’Europe de natation : Marchand et Grousset en papillon, les chances des Bleus en dos... Dix courses à ne pas manquer]]
+- [[https://www.lefigaro.fr/sports/autres-sports/championnats-d-europe-de-natation-maxime-grousset-se-rassure-le-sans-faute-tricolore-20260810][Championnats d’Europe de natation : Maxime Grousset se rassure, le sans-faute tricolore]]
+- [[https://www.lefigaro.fr/sports/autres-sports/championnats-d-europe-de-natation-pour-leon-marchand-la-quete-d-or-continue-malgre-tout-20260810][Championnats d’Europe de natation : pour Léon Marchand, la quête d’or continue malgré tout]]
+- [[https://www.lefigaro.fr/sports/autres-sports/championnats-d-europe-de-natation-le-programme-jour-par-jour-de-leon-marchand-20260809][Championnats d’Europe de natation : le programme jour par jour de Léon Marchand]]
+- [[https://www.lefigaro.fr/sciences/en-direct-canicule-la-vague-de-chaleur-continue-de-gagner-du-terrain-20260810][EN DIRECT - Canicule : la vague de chaleur continue de gagner du terrain]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss][Suspected crime boss Daniel Kinahan appears in court after extradition]]
+- [[https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss][At least 13 killed in Ukrainian drone strike on Russia's Tatarstan region, officials say]]
+- [[https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss][China evacuates one million from homes as massive storm arrives]]
+- [[https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss][Former Thai MP allegedly kills official and confesses on YouTube]]
+- [[https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss][Suspected crime boss Kinahan spends first night in custody in Ireland]]
 - [[https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss][Israel rejects Trump's 15-point plan for Gaza, Netanyahu says]]
-- [[https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss][Evidence that South African special forces murdered top detective shared with BBC]]
-- [[https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss][Drones spotted over German base days after Leipzig bomb incident]]
-- [[https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss][Ancient Roman shipwreck discovered off Sicily coast]]
 
 *** The Guardian
 
@@ -134,11 +134,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/bianchedi-nazionale-scoppia-caso-botta-e-risposta-coni-e-figc-AJRaNsi][Bianchedi in Nazionale, scoppia il caso. Botta e risposta tra Coni e Figc]]
-- [[https://www.ilsole24ore.com/art/taranto-sprint-finale-giochi-mediterraneo-si-comincia-12-giorni-AJOCVri][Taranto allo sprint finale dei Giochi del Mediterraneo: si comincia tra 12 giorni]]
-- [[https://www.ilsole24ore.com/art/furgone-ribaltato-foggiano-bracciante-morto-e-otto-feriti-AJ226qi][Furgone ribaltato nel Foggiano: un bracciante morto e nove feriti]]
-- [[https://www.ilsole24ore.com/art/migranti-3-sbarchi-lampedusa-108-persone-AJV82pi][Migranti, 3 sbarchi a Lampedusa con 108 persone]]
-- [[https://www.ilsole24ore.com/art/prima-repubblica-addio-cencelli-cosi-invento-manuale-potere-dc-AJf0bli][Prima Repubblica, addio a Cencelli: così invento il manuale del potere Dc]]
+- [[https://www.ilsole24ore.com/art/spese-istruzione-rimborso-possibile-anche-se-pagare-e-coniuge-dipendente-AJdeLFj][Spese per istruzione, rimborso possibile anche se a pagare è il coniuge del dipendente]]
+- [[https://www.ilsole24ore.com/art/caldo-intenso-fino-ferragosto-possibile-svolta-il-17-AJoJVCj][Caldo intenso fino a Ferragosto, possibile svolta dopo il 17]]
+- [[https://www.ilsole24ore.com/art/rifiuti-fardello-84-milioni-in-due-anni-lasciato-covid-AJ88Qoh][Rifiuti, il fardello da 84 milioni (in due anni) lasciato dal Covid]]
+- [[https://www.ilsole24ore.com/art/carburanti-frodi-e-prezzi-mirino-boom-irregolarita-scoperte-guardia-finanza-AJqZg9i][Carburanti, frodi e prezzi nel mirino: boom di irregolarità scoperte dalla Guardia di Finanza]]
+- [[https://www.ilsole24ore.com/art/migranti-e-ancora-scontro-meloni-e-premier-danese-non-accettiamo-immigrazione-incontrollata-AJv8i9i][Migranti, è ancora scontro. Meloni e la premier danese: «No a immigrazione incontrollata»]]
 
 ** 🇩🇪 Alemania
 
@@ -152,21 +152,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/thailand-gunshots-fired-in-government-office-ex-mp-arrested/a-78300045?maca=en-rss-en-world-4025-rdf][Thailand: Gunshots fired in government office, ex-MP arrested]]
+- [[https://www.dw.com/en/when-extreme-heat-threatens-europe-s-nuclear-power/a-78297778?maca=en-rss-en-world-4025-rdf][When extreme heat threatens Europe's nuclear power]]
+- [[https://www.dw.com/en/western-europe-records-hottest-june-and-july-on-record/a-78298751?maca=en-rss-en-world-4025-rdf][Western Europe records hottest June and July on record]]
 - [[https://www.dw.com/en/netanyahu-rejects-trump-backed-gaza-peace-plan/a-78298282?maca=en-rss-en-world-4025-rdf][Netanyahu rejects Trump-backed Gaza peace plan]]
 - [[https://www.dw.com/en/australia-jetstar-qatar-airways-planes-almost-collide-on-sydney-airport-tarmac/a-78293085?maca=en-rss-en-world-4025-rdf][Australia: Jetstar, Qatar Airways planes almost collide on Sydney Airport tarmac]]
-- [[https://www.dw.com/en/nigeria-marries-1-500-couples-in-mass-wedding/a-78291396?maca=en-rss-en-world-4025-rdf][Nigeria marries 1,500 couples in mass wedding]]
-- [[https://www.dw.com/en/kosovo-pm-kurti-egged-in-parliament-amid-political-crisis/a-78291171?maca=en-rss-en-world-4025-rdf][Kosovo PM Kurti egged in parliament amid political crisis]]
-- [[https://www.dw.com/en/war-terror-diplomacy-what-if-israel-takes-al-aqsa-mosque/a-78284016?maca=en-rss-en-world-4025-rdf][War, terror, diplomacy: What if Israel takes Al-Aqsa Mosque?]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/governo-lula-e-violencia-viram-temas-de-tarcisio-e-haddad-em-debate-veja-como-foi-em-8-pontos.shtml][Governo Lula e violência viram temas de Tarcísio e Haddad em debate; veja como foi em 8 pontos]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/cremos-mais-em-maquinas-do-que-pessoas-diz-esther-perel-em-abertura-da-sp2b.shtml][Cremos mais em máquinas do que pessoas, diz Esther Perel em abertura da SP2B]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/frente-a-frente-programa-da-folha-e-do-uol-entrevista-kim-kataguiri-nesta-segunda.shtml][Frente a Frente, programa da Folha e do UOL, entrevista Kim Kataguiri nesta segunda]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/no-doce-maravilha-caetano-veloso-faz-show-oitentista-sob-chuva-com-emicida.shtml][No Doce Maravilha, Caetano Veloso faz show oitentista sob chuva com Emicida]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/debate-entre-tarcisio-e-haddad-tem-excesso-de-numeros-e-vira-previa-para-2030.shtml][Debate entre Tarcísio e Haddad tem excesso de números e vira prévia para 2030]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/08/instituicao-procura-egua-para-cavalo-caramelo-virar-pai.shtml][Instituição procura égua para cavalo Caramelo virar pai]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/empresas-jovens-criadas-apos-2021-receberam-r-870-milhoes-do-master.shtml][Empresas jovens, criadas após 2021, receberam R$ 870 milhões do Master]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/08/novos-livros-obrigatorios-da-fuvest-elevam-exigencia-interpretativa-de-candidatos.shtml][Novos livros obrigatórios da Fuvest elevam exigência interpretativa de candidatos]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/08/achei-que-a-hora-de-voltar-era-agora-diz-sheron-menezzes-sobre-retorno-as-novelas-da-globo.shtml]['Achei que a hora de voltar era agora', diz Sheron Menezzes sobre retorno às novelas da Globo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/el-nino-ja-mexe-com-precos-no-mercado-livre-de-energia-e-deixa-cenario-futuro-incerto.shtml][El Niño já mexe com preços no mercado livre de energia e deixa cenário futuro incerto]]
 
 *** O Globo
 
