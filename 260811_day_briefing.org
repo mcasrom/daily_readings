@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 53.7°C | ⚖ Load: 0.00 | 🌐 Ping: 14.2ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 53.2°C | ⚖ Load: 0.00 | 🌐 Ping: 14.9ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,40 +41,41 @@
 
 *** El País
 
-- [[https://elpais.com/america-colombia/2026-08-10/ultima-hora-del-terremoto-en-colombia-en-directo.html][Última hora del terremoto en Colombia, en directo | Al menos 132 muertos y 570 heridos por el terremoto de magnitud 7,4 en Colombia]]
-- [[https://elpais.com/america-colombia/2026-08-10/cali-escarba-entre-los-escombros-del-terremoto-no-podia-salir-y-dejar-tirados-a-mis-pacientes.html][Cali escarba entre los escombros del terremoto: “No podía salir y dejar tirados a mis pacientes”]]
+- [[https://elpais.com/america-colombia/2026-08-11/colombia-amanece-bajo-el-estado-de-emergencia-por-el-terremoto-que-deja-mas-de-130-muertos.html][Colombia, bajo el estado de emergencia por el terremoto que causa más de 130 muertos]]
+- [[https://elpais.com/america-colombia/2026-08-11/ultima-hora-del-terremoto-en-colombia-en-directo.html][Última hora del terremoto en Colombia, en directo | Continúan durante la noche las labores de rescate de los cientos de desaparecidos]]
+- [[https://elpais.com/america-colombia/2026-08-11/cali-pasa-la-primera-noche-despues-del-terremoto-que-viene-despues-de-esto.html][Cali pasa la primera noche después del terremoto: “¿Qué viene después de esto?”]]
+- [[https://elpais.com/america-colombia/2026-08-10/rodrigo-leon-geologo-colombiano-experto-en-terremotos-habra-replicas-la-ciudadania-tiene-que-prepararse.html][Rodrigo León, geólogo colombiano experto en terremotos: “Habrá réplicas, la ciudadanía tiene que prepararse”]]
 - [[https://elpais.com/internacional/2026-08-10/mapas-y-graficos-del-devastador-terremoto-en-colombia.html][Mapas y gráficos del devastador terremoto en Colombia]]
-- [[https://elpais.com/america-colombia/2026-08-10/colombia-revive-el-trauma-del-terremoto-que-arraso-el-eje-cafetero-hace-27-anos.html][Colombia revive el trauma del terremoto que arrasó el Eje Cafetero hace 27 años]]
-- [[https://elpais.com/america-colombia/2026-08-10/video-la-devastacion-en-cali-tras-el-terremoto-vista-desde-el-aire.html][Video | La devastación en Cali tras el terremoto vista desde el aire]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/internacional/2026/08/10/6a79cc12fdddff3a6a8b4578.html][Colombia declara el "desastre nacional" tras un terremoto de 7,4 que ha dejado al menos 132 muertos y 570 heridos]]
-- [[https://www.elmundo.es/internacional/2026/08/10/6a79f7b2fc6c839e488b4593.html][El relato de una Colombia "devastada" por el terremoto: "Sonó durísimo, sentimos como si hubiera caballos cabalgando debajo de casa"]]
+- [[https://www.elmundo.es/internacional/2026/08/11/6a7ae1fce4d4d8662c8b456f.html][Terremoto en Colombia: sigue la búsqueda de 188 desaparecidos bajo los escombros tras un seísmo que ha dejado al menos 132 muertos]]
+- [[https://www.elmundo.es/internacional/2026/08/11/6a7aed58e9cf4a3c768b457b.html][Colombia frente a los terremotos: cuando el riesgo también está construido]]
 - [[https://www.elmundo.es/espana/2026/08/10/6a7a0b3221efa04e0e8b4596.html][Las alertas del Ejército abren la mayor brecha a Sánchez en su apuesta por China]]
 - [[https://www.elmundo.es/galicia/2026/08/11/6a7a0bfe21efa0cb578b4592.html]['Top secret' y puertas abiertas: la doble vía gallega para el gigante chino de los 120.000 coches al año]]
 - [[https://www.elmundo.es/espana/2026/08/10/6a79dcafe85ece8c388b4586.html][El PSOE ha perdido 23.388 militantes desde que Pedro Sánchez llegó a La Moncloa en 2018]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/internacional/20260810/11611420/terremoto-colombia.html][Colombia declara “desastre nacional” tras un terremoto de 7,4 que deja más de cien muertos]]
-- [[https://www.lavanguardia.com/internacional/20260810/11611565/asi-temnblado-aeopuerto-pereira-terremoto-magnitud-7-4-colombia.html][Así ha temblado el aeropuerto de Pereira durante el terremoto de magnitud 7,4 en Colombia]]
-- [[https://www.lavanguardia.com/gente/20260810/11611605/shakira-j-balvin-maluma-otros-famosos-colombianos-vuelcan-pais-terremoto.html][Shakira, J Balvin, Maluma y otros famosos colombianos se vuelcan con su país tras el terremoto]]
+- [[https://www.lavanguardia.com/internacional/20260811/11611762/colombia-intensifica-rescates-terremoto-magnitud-7-4-deja-132-muertos.html][Colombia intensifica los rescates tras el terremoto de magnitud 7,4 que deja ya 132 muertos]]
 - [[https://www.lavanguardia.com/internacional/20260810/11611505/terremoto-colombia-imagenes-temblor-7-4.html][Terremoto en Colombia: las imágenes tras el temblor de 7,4]]
-- [[https://www.lavanguardia.com/internacional/20260810/11611492/trump-sopesa-declarar-victoria-iran-alcanzar-acuerdo-nuclear-integral.html][Trump sopesa declarar la victoria en Irán sin alcanzar un acuerdo nuclear integral]]
+- [[https://www.lavanguardia.com/internacional-1/20260811/11611758/terremoto-colombia-directo-132-muertos-ultima-hora-rescates-heridos-desaparecidos-seismo-magnitud-7-4.html][Más de 5.000 edificios afectados en el terremoto de Colombia, el más fuerte en lo que va de siglo]]
+- [[https://www.lavanguardia.com/internacional/20260810/11611565/asi-temnblado-aeopuerto-pereira-terremoto-magnitud-7-4-colombia.html][Así tembló el aeropuerto de Pereira durante el terremoto de Colombia]]
+- [[https://www.lavanguardia.com/internacional/20260811/11611766/rescatistas-sacan-vida-madre-bebe-escombros-cali-devastador-terremoto-colombia.html][Rescatados con vida un bebé y su madre de los escombros tras el terremoto en Cali]]
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/campoo/cantabria-invierte-casi-800000-euros-mejorar-abastecimiento-agua-municipio/20260810213001197034.html][Cantabria invierte casi 800.000 euros en mejorar el abastecimiento de agua en el municipio]]
-- [[https://eldiariocantabria.publico.es/articulo/oriental/unidos-x-laredo-pide-inspeccion-anomalias-renovacion-estacion-autobuses/20260810211648197032.html][Unidos x Laredo pide una inspección por “anomalías” en la renovación de la estación de autobuses]]
-- [[https://eldiariocantabria.publico.es/articulo/saja-besaya/concierto-clasicos-disney-luz-velas-propuesta-ayuntamiento-despues-eclipse/20260810210836197030.html][Un concierto de clásicos Disney a la luz de las velas, propuesta del Ayuntamiento para después del eclipse]]
-- [[https://eldiariocantabria.publico.es/articulo/deportes/racing-athletic-club-acuerdan-traspaso-guardameta-julen-agirrezabala/20260810210403197029.html][Racing y Athletic Club acuerdan el traspaso del guardameta Julen Agirrezabala]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/herido-grave-conductor-68-anos-salirse-via-carril-deceleracion-8-altura-colindres/20260810205742197027.html][Herido grave un conductor de 68 años tras salirse de la vía en un carril de deceleración de la A-8 a la altura de Colindres]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/detenido-motorista-santander-circular-casco-piernas-ensangrentadas/20260811115246197046.html][Detenido un motorista en Santander por circular sin casco y con las piernas ensangrentadas]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/alcaldesa-bezana-herida-grave-accidente-trafico-67/20260811112624197044.html][La alcaldesa de Bezana, Carmen Pérez, herida grave tras un accidente de tráfico en la A-67]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/cantabristas-califica-perdida-historica-derribo-edificios-remonta-santander/20260811110328197043.html][Cantabristas califica de "pérdida histórica" el derribo de los edificios de La Remonta en Santander]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/dia-gran-eclipse-solar-total/20260811104541197041.html][A un día del gran eclipse solar total]]
+- [[https://eldiariocantabria.publico.es/articulo/trasmiera/suerte-sonrie-argonos-boleto-primitiva-lleva-mas-65000-euros/20260811101807197039.html][La suerte sonríe a Argoños: un boleto de La Primitiva se lleva más de 65.000 euros]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/politics/2026/08/11/trump-netanyahu-experience-tension-critical-election-year/][Trump-Netanyahu rift widens as election pressures pull them in opposite directions]]
 - [[https://www.washingtonpost.com/national-security/2026/08/10/russias-supreme-court-bars-last-anti-war-party-elections/][Russia’s Supreme Court bars last anti-war party from elections]]
 - [[https://www.washingtonpost.com/world/2026/08/10/74-magnitude-earthquake-colombia-kills-least-20/][At least 111 dead as 7.4-magnitude earthquake strikes Colombia]]
 - [[https://www.washingtonpost.com/world/2026/08/10/spain-border-collapse-reveals-risk-weaponized-migration-eu-us/][Chaos at Spain’s border underscores how migrant flows can be weaponized]]
@@ -84,7 +85,7 @@
 
 - [[https://www.wsj.com/world/middle-east/irans-mysterious-ruler-signals-a-hard-line-on-trump-with-new-leadership-4ae054ea?mod=rss_worldnews][Iran’s Mysterious Ruler Signals a Hard Line on Trump With New Leadership]]
 - [[https://www.wsj.com/world/middle-east/gulf-states-accept-a-new-normal-in-hormuz-iran-is-in-control-6db8908d?mod=rss_worldnews][Gulf States Accept a New Normal in Hormuz: Iran Is in Control]]
-- [[https://www.wsj.com/world/middle-east/trump-shifts-to-economic-pressure-again-as-iran-wont-meet-his-demands-4445c840?mod=rss_worldnews][Trump Shifts to Economic Pressure, Again, As Iran Won’t Meet His Demands]]
+- [[https://www.wsj.com/world/middle-east/trump-shifts-to-economic-pressure-again-as-iran-wont-meet-his-demands-4445c840?mod=rss_worldnews][Trump Shifts to Economic Pressure, Again, as Iran Won’t Meet His Demands]]
 - [[https://www.wsj.com/world/americas/colombia-earthquake-president-espriella-e901bc97?mod=rss_worldnews][Earthquake Hits Colombia Days After New President Takes Reins]]
 - [[https://www.wsj.com/world/asia/will-taiwan-fight-china-just-ask-its-people-a6e358eb?mod=rss_worldnews][Will Taiwan Fight China? Just Ask Its People]]
 
@@ -92,29 +93,29 @@
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/article/2026/08/11/l-allemagne-s-inquiete-de-sa-vulnerabilite-face-a-des-incursions-de-drones-qui-se-multiplient-sur-son-territoire_6743745_3210.html][L’Allemagne s’inquiète de sa vulnérabilité face à des incursions de drones qui se multiplient sur son territoire]]
-- [[https://www.lemonde.fr/planete/article/2026/08/10/secheresse-un-record-absolu-en-france-et-en-suisse-en-juillet-pres-des-trois-quarts-de-l-angleterre-concernes_6743433_3244.html][Sécheresse : un record absolu en France et en Suisse en juillet ; près des trois quarts de l’Angleterre concernés]]
-- [[https://www.lemonde.fr/planete/article/2026/08/10/seisme-en-colombie-au-moins-111-morts-le-gouvernement-decrete-l-etat-d-urgence_6743410_3245.html][Séisme en Colombie : au moins 111 morts ; le président Abelardo de la Espriella décrète l’« état d’urgence »]]
-- [[https://www.lemonde.fr/international/article/2026/08/11/donald-trump-aurait-quitte-le-sommet-de-l-otan-en-turquie-en-juillet-a-bord-d-un-avion-secret-en-raison-des-menaces-de-l-iran_6743710_3210.html][Donald Trump aurait quitté le sommet de l’OTAN en Turquie en juillet à bord d’un avion secret en raison des menaces de l’Iran]]
-- [[https://www.lemonde.fr/international/article/2026/08/10/la-turquie-adopte-une-loi-historique-sur-la-reintegration-des-combattants-du-pkk-le-sort-d-abdullah-ocalan-reste-a-regler_6743543_3210.html][La Turquie adopte une loi historique sur la réintégration des combattants du PKK ; le sort d’Abdullah Öcalan reste à régler]]
+- [[https://www.lemonde.fr/afrique/article/2026/08/11/jean-jacques-muyembe-virologue-congolais-ebola-se-propage-a-une-vitesse-que-nous-n-avions-encore-jamais-observee_6743759_3212.html][« Ebola se propage à une vitesse que nous n’avions encore jamais observée » : l’alerte de Jean-Jacques Muyembe, codécouvreur du virus]]
+- [[https://www.lemonde.fr/idees/article/2026/08/11/au-dela-des-catastrophes-le-changement-climatique-fragilise-nos-societes_6743783_3232.html][Au-delà des catastrophes, le changement climatique fragilise nos sociétés]]
+- [[https://www.lemonde.fr/societe/article/2026/08/11/des-aspirantes-mannequins-prises-au-piege-d-une-escroquerie-tentaculaire-et-d-une-justice-a-la-peine-lors-du-depot-de-plainte-on-m-a-fait-comprendre-que-j-etais-trop-conne_6743747_3224.html][Des aspirantes mannequins prises au piège d’une escroquerie tentaculaire et d’une justice à la peine : « Lors du dépôt de plainte, on m’a fait comprendre que j’étais trop conne »]]
+- [[https://www.lemonde.fr/international/article/2026/08/11/bachar-al-assad-condamne-a-la-peine-de-mort-par-contumace-en-syrie-pour-crimes-de-guerre-et-crimes-contre-l-humanite_6743778_3210.html][Bachar Al-Assad condamné, en son absence, à la peine de mort en Syrie pour « crimes de guerre » et « crimes contre l’humanité »]]
+- [[https://www.lemonde.fr/international/live/2026/08/11/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-la-russie-a-utilise-des-missiles-balistiques-nord-coreens-contre-zaporijia_6741928_3210.html][EN DIRECT, guerre en Ukraine : Kiev revendique une attaque sur la raffinerie russe d’Orsk, à 1 400 kilomètres de sa frontière]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/conjoncture/budget-2027-bercy-envisage-de-desindexer-les-retraites-les-plus-elevees-20260810][Budget 2027 : Bercy envisage de désindexer les retraites les plus élevées]]
-- [[https://www.lefigaro.fr/actualite-france/un-enorme-epuisement-moral-et-physique-le-cri-d-alarme-des-agriculteurs-face-a-une-catastrophe-inedite-20260810][« Un énorme épuisement moral et physique » : le cri d’alarme des agriculteurs face à une « catastrophe inédite »]]
-- [[https://www.lefigaro.fr/sciences/la-secheresse-atteint-un-niveau-critique-en-france-20260810][La sécheresse atteint un niveau critique en France]]
-- [[https://www.lefigaro.fr/conjoncture/nucleaire-fret-tourisme-les-consequences-en-cascade-des-fleuves-au-plus-bas-20260810][Nucléaire, fret, tourisme… Les conséquences en cascade des fleuves au plus bas]]
-- [[https://www.lefigaro.fr/actualite-france/secheresse-l-etat-doit-il-accorder-des-milliards-aux-agriculteurs-comme-le-demande-la-fnsea-20260810][Sécheresse : l'État doit-il accorder des «milliards» aux agriculteurs, comme le demande la FNSEA ?]]
+- [[https://www.lefigaro.fr/faits-divers/toulouse-deux-policiers-municipaux-blesses-a-l-arme-blanche-en-plein-centre-ville-l-agresseur-interpelle-20260811][Toulouse : deux policiers municipaux blessés à l’arme blanche en plein centre-ville, l’agresseur interpellé]]
+- [[https://www.lefigaro.fr/sciences/lunettes-heures-sites-d-observation-comment-se-preparer-au-mieux-a-l-eclipse-de-soleil-du-12-aout-20260801][Lunettes, heures, sites d’observation... Comment se préparer au mieux à l’éclipse solaire du 12 août ?]]
+- [[https://www.lefigaro.fr/conjoncture/on-a-cherche-pendant-deux-heures-mais-on-n-a-rien-trouve-est-il-encore-possible-de-trouver-des-lunettes-pour-l-eclipse-solaire-20260811][«On a cherché pendant deux heures mais on n’a rien trouvé...» : est-il encore possible de dénicher des lunettes pour l’éclipse solaire?]]
+- [[https://www.lefigaro.fr/sciences/ambiance-de-fin-du-monde-cornes-du-diable-ou-double-crepuscule-que-pouvons-nous-attendre-en-france-de-l-eclipse-du-12-aout-20260810][Ambiance de fin du monde, cornes du diable ou double crépuscule : que pouvons-nous attendre en France de l’éclipse du 12 août ?]]
+- [[https://www.lefigaro.fr/voyages/guides/eclipse-totale-du-12-aout-2026-europe-du-nord-espagne-ou-en-france-voici-ou-assister-a-cet-incroyable-spectacle-20260416][Éclipse totale du 12 août 2026 : Europe du nord, Espagne ou en France, voici où assister à cet incroyable spectacle]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
+- [[https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss][Trump hid in catering truck in secret plane swap over Iran threat, reports say]]
+- [[https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss][Russia using North Korean missiles to strike Ukraine, Zelensky says]]
+- [[https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss][Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia]]
 - [[https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss][At least 132 killed in Colombia's largest  earthquake in years]]
-- [[https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss][Canada flight cancelled after child refuses to wear seat belt]]
-- [[https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss][Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis]]
-- [[https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss][At least 13 killed in Ukrainian drone strike deep into Russia]]
-- [[https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss][Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word]]
+- [[https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss][Libyan authorities battle big blaze at major oil refinery]]
 
 *** The Guardian
 
@@ -136,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
+- [[https://www.ilsole24ore.com/art/famiglie-italiane-cambia-spesa-tecnologia-e-tempo-libero-trainano-consumi-arretrano-alimentari-e-moda-AJAvpIj][Famiglie italiane, cambia la spesa: tecnologia e tempo libero trainano i consumi, arretrano alimentari e moda]]
+- [[https://www.ilsole24ore.com/art/migranti-perche-germania-ha-riaperto-caso-dublinanti-l-italia-AJCNkSj][Migranti, perché la Germania ha riaperto il caso dublinanti con l’Italia]]
+- [[https://www.ilsole24ore.com/art/bonus-nuovi-nati-le-domande-c-e-tempo-fino-mercoledi-12-agosto-AJuRxbj][Bonus nuovi nati, per le domande c’è tempo fino a mercoledì 12 agosto]]
 - [[https://www.ilsole24ore.com/art/aeroporto-catania-voli-sospesi-fino-martedi-6-AJ5X5Yj][Aeroporto di Catania, voli sospesi fino a martedì alle 6 per l’eruzione dell’Etna]]
 - [[https://www.ilsole24ore.com/art/siccita-senza-tregua-bacino-po-laghi-prealpini-quasi-esauriti-AJKDwFj][Siccità senza tregua nel bacino del Po: laghi prealpini quasi esauriti]]
-- [[https://www.ilsole24ore.com/art/il-costo-siccita-e-l-opportunita-che-puo-arrivare-riciclo-dell-acqua-AJBQwMj][Il costo della siccità: fino a 74 miliardi di euro e 960mila posti di lavoro]]
-- [[https://www.ilsole24ore.com/art/valter-lavitola-arrestato-l-attentato-ranucci-AJgoDKj][Valter Lavitola arrestato per l’attentato a Ranucci. Gip: «Voleva posto in politica con conduttore»]]
-- [[https://www.ilsole24ore.com/art/picchi-d-umidita-97percento-liguria-come-un-bagno-turco-AJlrFGj][Picchi d’umidità al 97%, in Liguria come in un bagno turco]]
 
 ** 🇩🇪 Alemania
 
@@ -154,7 +155,7 @@
 
 *** Deutsche Welle
 
-- [[https://www.dw.com/en/trump-pushes-overhaul-of-us-childhood-vaccine-policy/a-78313546?maca=en-rss-en-world-4025-rdf][Trump pushes overhaul of US childhood vaccine policy]]
+- [[https://www.dw.com/en/trump-pushes-overhaul-of-us-policy-on-vaccines-for-children/a-78313546?maca=en-rss-en-world-4025-rdf][Trump pushes overhaul of US policy on vaccines for children]]
 - [[https://www.dw.com/en/turkey-mps-back-historic-law-on-reintegrating-pkk-militants/a-78313397?maca=en-rss-en-world-4025-rdf][Turkey MPs back historic law on reintegrating PKK militants]]
 - [[https://www.dw.com/en/colombia-earthquake-death-toll-rises-to-over-100/a-78307841?maca=en-rss-en-world-4025-rdf][Colombia earthquake: Death toll rises to over 100]]
 - [[https://www.dw.com/en/which-country-is-the-new-mecca-defense-pact-targeting/a-78307673?maca=en-rss-en-world-4025-rdf][Which country is the new Mecca defense pact targeting?]]
@@ -164,11 +165,11 @@
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/quem-e-wesley-batista-filho-o-proximo-ceo-global-da-jbs.shtml][Quem é Wesley Batista Filho, o próximo CEO global da JBS]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/um-estratagema-elaborado-trump-usou-secretamente-um-jato-militar-para-deixar-a-turquia-em-meio-a-ameacas.shtml][Um estratagema elaborado: Trump usou secretamente um jato militar para deixar a Turquia em meio a ameaças]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/08/guardian-refaz-comercial-de-1986-para-alertar-sobre-desinformacao-e-ia.shtml][Guardian refaz comercial de 1986 para alertar sobre desinformação e IA]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/reformado-studio-museum-reabre-em-nova-york-como-meca-da-arte-negra-mundial.shtml][Reformado, Studio Museum reabre em Nova York como meca da arte negra mundial]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/requiao-filho-candidato-no-parana-participa-de-sabatina-da-folhauol-nesta-terca-feira.shtml][Requião Filho, candidato no Paraná, participa de sabatina da Folha/UOL nesta terça-feira]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/tribunal-sirio-condena-bashar-al-assad-a-morte-por-crimes-de-guerra.shtml][Tribunal sírio condena Bashar al-Assad à morte por crimes de guerra]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/08/goleiro-bruno-processa-a-band-por-suposta-perseguicao-e-pede-r-4-milhoes-de-indenizacao.shtml]['Goleiro Bruno' processa a Band por suposta perseguição e pede R$ 4 milhões de indenização]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/cerebro-de-cachorros-capta-varias-emocoes-no-rosto-humano-segundo-estudo.shtml][Cérebro de cachorros capta várias emoções no rosto humano, segundo estudo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/chile-permite-que-codelco-uma-das-maiores-produtoras-de-cobre-do-mundo-reinvista-todo-o-lucro-de-2025.shtml][Chile permite que Codelco, uma das maiores produtoras de cobre do mundo, reinvista todo o lucro de 2025]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/discord-pode-levar-multa-de-ate-r-50-milhoes-a-cada-falha-na-protecao-de-jovens.shtml][Discord pode levar multa de até R$ 50 milhões a cada falha na proteção de jovens]]
 
 *** O Globo
 
