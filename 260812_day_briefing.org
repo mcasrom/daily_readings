@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 53.7°C | ⚖ Load: 0.00 | 🌐 Ping: 14.7ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 53.7°C | ⚖ Load: 0.00 | 🌐 Ping: 14.5ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,27 +41,27 @@
 
 *** El País
 
-- [[https://elpais.com/america-colombia/2026-08-11/colombia-se-vuelca-en-el-rescate-de-los-supervivientes-del-terremoto-no-se-desgasten-aqui-la-unica-senal-de-vida-es-en-el-otro-lado.html][Colombia se vuelca en el rescate de los supervivientes del terremoto: “No se desgasten aquí, la única señal de vida es en el otro lado”]]
-- [[https://elpais.com/espana/2026-08-11/albares-garantiza-la-integridad-de-schengen-y-asegura-que-ningun-migrante-ha-llegado-a-la-peninsula.html][Albares garantiza la integridad de Schengen y asegura que ningún migrante ha llegado a la Península]]
-- [[https://elpais.com/espana/2026-08-11/un-organismo-de-marruecos-acusa-a-la-policia-espanola-de-propinar-malos-tratos-y-agresiones-a-los-emigrantes-en-ceuta.html][Un organismo oficial de Marruecos acusa a la policía española de infligir “malos tratos y agresiones” a los migrantes en Ceuta]]
-- [[https://elpais.com/internacional/2026-08-11/trump-cambio-de-avion-tras-la-cumbre-de-la-otan-en-turquia-oculto-en-un-camion-de-catering-por-una-amenaza-de-iran.html][Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán]]
-- [[https://elpais.com/espana/2026-08-11/defensa-comunica-a-la-xunta-que-no-pondra-objeciones-a-la-fabrica-china-en-ferrol.html][Defensa comunica a la Xunta que no pondrá objeciones a la fábrica china en Ferrol]]
+- [[https://elpais.com/ciencia/2026-08-12/se-acabo-la-espera-espana-vivira-su-primer-eclipse-de-sol-total-en-mas-de-un-siglo.html][Se acabó la espera: España vivirá su primer eclipse de Sol total en más de un siglo]]
+- [[https://elpais.com/ciencia/2026-08-12/de-2026-a-2034-asi-sera-el-recorrido-del-eclipse-total-por-espana-segundo-a-segundo.html][De 20.26 a 20.34: así será el recorrido del eclipse total por España, segundo a segundo]]
+- [[https://elpais.com/videos/2026-08-12/todos-los-errores-que-pueden-arruinar-la-experiencia-del-eclipse-y-que-puedes-evitar.html][Todos los errores que pueden arruinar la experiencia del eclipse y que puedes evitar]]
+- [[https://elpais.com/ciencia/2026-08-12/se-vera-total-o-parcial-como-sera-el-eclipse-en-cada-provincia-y-en-que-fijarse-para-apreciarlo.html][¿Se verá total o parcial? Cómo será el eclipse en cada provincia y en qué fijarse para apreciarlo]]
+- [[https://elpais.com/ciencia/2026-08-12/los-haters-del-eclipse-prefiero-ir-al-cine-antes-que-verlo.html][Los ‘haters’ del eclipse: “Prefiero ir al cine antes que verlo”]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/08/11/6a7af50dfdddff33798b458d.html][Albares justifica desde Ceuta la actuación de Rabat en la crisis y promete: "Hasta la última persona volverá a Marruecos, que no ha pedido nada a cambio"]]
-- [[https://www.elmundo.es/espana/2026/08/11/6a7afb84fdddff92378b4591.html][Moncloa desmiente que Robles vaya a comparecer en el Senado el 18 de agosto después de que la ministra haya mostrado su "plena disposición"]]
-- [[https://www.elmundo.es/espana/2026/08/10/6a79dcafe85ece8c388b4586.html][El PSOE ha perdido 23.388 militantes desde que Pedro Sánchez llegó a La Moncloa en 2018]]
-- [[https://www.elmundo.es/internacional/2026/08/10/6a79fa5c21efa049498b4586.html][Ucrania llora al arqueólogo Oleksi Yúkov, el "recolector de almas"]]
-- [[https://www.elmundo.es/internacional/2026/08/11/6a7ae1fce4d4d8662c8b456f.html][Colombia busca contrarreloj a los 195 desaparecidos que siguen bajo los escombros]]
+- [[https://www.elmundo.es/espana/2026/08/11/6a7b73bae85ece9c5d8b45a5.html][El Gobierno reniega ahora de la "acogida" a los migrantes y promete mano dura a Europa]]
+- [[https://www.elmundo.es/espana/2026/08/12/6a7b64b3fc6c83ca618b45b5.html][La promesa 'imposible' de devolver a todos los irregulares de Ceuta: la doble condena de 2021 bloquea al Gobierno]]
+- [[https://www.elmundo.es/salud/2026/08/11/6a7b366de4d4d8b81b8b459a.html][Los mensajes de denuncia de los médicos en Ceuta: "Esto va a explotar con una auténtica crisis de salud poblacional", "el hospital no aguanta"]]
+- [[https://www.elmundo.es/cronica/2026/08/12/6a7a0392e4d4d8c73d8b458c.html][Desde Rota, militares estadounidenses: «Marruecos usó la migración para evaluar cómo respondería España ante una invasión»]]
+- [[https://www.elmundo.es/economia/empresas/2026/08/11/6a4e0f75e4d4d84e4d8b4599.html][La gran banca tira de viajes, tarjetas, suscripciones y 'cashback' para reconquistar a los 11,5 millones de clientes de los neobancos]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/politica/20260811/11611981/albares-advierte-tajante-ceuta-ultima-persona-entro-devuelta.html][Albares advierte tajante desde Ceuta: “Hasta la última persona va a ser devuelta”]]
-- [[https://www.lavanguardia.com/internacional/20260811/11611883/primer-ministro-suecia-califica-mala-idea-regulacion-inmigrantes-aprobada-espana.html][El primer ministro de Suecia califica de “muy mala idea” la regulación de inmigrantes aprobada por España]]
-- [[https://www.lavanguardia.com/politica/20260811/11611840/dilema-reagrupacion-familiar-menores-ceuta-vuelta-marruecos-parientes-espana.html][El dilema ante la “reagrupación familiar” de menores de Ceuta: ¿vuelta a Marruecos o con parientes en España?]]
-- [[https://www.lavanguardia.com/politica/20260811/11612149/marruecos-refuerza-controles-ceuta-melilla-nuevas-convocatorias-acceso-masivo.html][Marruecos refuerza los controles en Ceuta y Melilla ante nuevas convocatorias de acceso masivo]]
+- [[https://www.lavanguardia.com/economia/20260811/11612209/ia-crisis-geopolitica-provocan-repunte-paro-juvenil-mundo.html][La IA y la crisis geopolítica provocan un repunte del paro juvenil en el mundo]]
+- [[https://www.lavanguardia.com/politica/20260811/11611840/dilema-reagrupacion-familiar-menores-ceuta-vuelta-marruecos-parientes-espana.html][El dilema de los menores de Ceuta: ¿quedarse o no con parientes en España?]]
 - [[https://www.lavanguardia.com/internacional/20260811/11611756/trump-cambio-avion-secreto-amenaza-asesinato-iran-cumbre-otan-ankara.html][Así se escondió Trump en un contenedor de catering para salir en secreto del Air Force One por temor a un atentado]]
+- [[https://www.lavanguardia.com/internacional/20260811/11612159/trump-incide-alarma-sobre-vacunacion-infantil-reduce-dosis-recomendadas-ninos.html][Trump agrava la alarma en la vacunación infantil al reducir las dosis recomendadas para niños]]
+- [[https://www.lavanguardia.com/internacional/20260812/11612238/colombia-busca-mas-3-000-desaparecidos-terremoto.html][Colombia busca a más de 3.000 desaparecidos por el terremoto]]
 
 *** El Diario de Cantabria
 
@@ -75,47 +75,47 @@
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/08/11/colombia-rescuers-scramble-find-survivors-earthquake-death-toll-rises/][Rescuers search collapsed hospitals for patients trapped by Colombia quake]]
+- [[https://www.washingtonpost.com/national-security/2026/08/11/nearly-400-civilians-killed-wounded-us-strikes-yemen-last-year/][Pentagon report reveals steep civilian toll of Trump’s Yemen campaign]]
 - [[https://www.washingtonpost.com/world/2026/08/11/severe-malnutrition-somalia-is-surging-after-us-cuts-aid-groups-say/][Severe malnutrition in Somalia is surging after U.S. cuts, aid groups say]]
+- [[https://www.washingtonpost.com/health/2026/08/11/30000-pounds-beef-argentina-recalled-two-states/][30,000 pounds of beef from Argentina recalled in two states]]
 - [[https://www.washingtonpost.com/world/2026/08/11/former-us-marine-robert-gilman-released-russian-prison/][Russia releases ailing former Marine imprisoned since 2022]]
-- [[https://www.washingtonpost.com/world/2026/08/11/lebanon-takes-step-become-first-arab-country-abolish-death-penalty/][Lebanon takes step to become first Arab country to abolish death penalty]]
-- [[https://www.washingtonpost.com/world/2026/08/11/colombia-rescuers-scramble-find-survivors-earthquake-death-toll-rises/][Rescuers search for Colombia quake survivors as death toll passes 200]]
-- [[https://www.washingtonpost.com/world/2026/08/11/former-syrian-dictator-bashar-al-assad-is-sentenced-death-absentia/][Former Syrian dictator Bashar al-Assad is sentenced to death in absentia]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/americas/rescue-teams-in-colombia-dig-through-rubble-to-pull-out-quake-victims-ca1f1211?mod=rss_worldnews][Rescue Teams in Colombia Dig Through Rubble to Pull Out Quake Victims]]
 - [[https://www.wsj.com/world/middle-east/yemen-strikes-civilian-deaths-pentagon-report-d64b35d5?mod=rss_worldnews][U.S. Strikes on Yemen Last Year Killed and Wounded Hundreds, Pentagon Finds]]
 - [[https://www.wsj.com/world/middle-east/iran-is-defying-u-s-pressure-by-becoming-a-survival-economy-5e8edf9f?mod=rss_worldnews][Iran Is Defying U.S. Pressure by Becoming a ‘Survival Economy’]]
 - [[https://www.wsj.com/world/middle-east/u-s-fires-on-ship-breaking-its-blockade-of-iran-d8b99456?mod=rss_worldnews][U.S. Fires on Ship Breaking Its Blockade of Iran]]
-- [[https://www.wsj.com/world/americas/rescue-teams-in-colombia-dig-through-rubble-to-pull-out-quake-victims-ca1f1211?mod=rss_worldnews][Rescue Teams in Colombia Dig Through Rubble to Pull Out Quake Victims]]
 - [[https://www.wsj.com/world/europe/top-german-general-says-russia-is-probing-nato-defenses-with-hybrid-attacks-18597d36?mod=rss_worldnews][Top German General Says Russia Is Probing NATO Defenses With Hybrid Attacks]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/article/2026/08/11/carlo-masala-specialiste-des-questions-de-securite-l-allemagne-est-visee-parce-qu-elle-est-le-principal-pilier-du-soutien-europeen-a-l-ukraine_6744160_3210.html][Carlo Masala, spécialiste des questions de sécurité : « L’Allemagne est visée parce qu’elle est le principal pilier du soutien européen à l’Ukraine »]]
-- [[https://www.lemonde.fr/le-monde-des-religions/article/2026/08/11/comment-les-eclipses-solaires-sont-percues-par-les-religions-entre-mauvais-presages-et-signes-annonciateurs-de-la-fin-du-monde_6743975_6038514.html][Comment les éclipses solaires sont perçues par les religions, entre mauvais présages et signes annonciateurs de la fin du monde]]
+- [[https://www.lemonde.fr/international/article/2026/08/12/l-exfiltration-secrete-de-donald-trump-a-ankara-symptome-d-un-dispositif-de-securite-marque-par-la-febrilite-et-l-improvisation_6744564_3210.html][L’exfiltration secrète de Donald Trump à Ankara, symptôme d’un dispositif de sécurité marqué par la fébrilité et l’improvisation]]
+- [[https://www.lemonde.fr/sciences/article/2026/08/12/en-espagne-l-eclipse-solaire-totale-tient-tout-le-pays-en-haleine_6744531_1650684.html][En Espagne, l’éclipse solaire totale tient tout le pays en haleine]]
 - [[https://www.lemonde.fr/politique/article/2026/08/11/budget-2027-le-gouvernement-rouvre-le-dossier-sensible-du-gel-des-pensions-de-retraite_6744021_823448.html][Budget 2027 : le gouvernement rouvre le dossier sensible du gel des pensions de retraite]]
-- [[https://www.lemonde.fr/economie/article/2026/08/11/les-entreprises-francaises-encore-peu-affectees-par-les-vagues-de-chaleur-et-les-incendies_6744159_3234.html][Les entreprises françaises encore peu affectées par les vagues de chaleur et les incendies]]
-- [[https://www.lemonde.fr/international/article/2026/08/11/mohammed-dahlan-l-ambitieux-exile-gazaoui-qui-a-joue-de-ses-relations-avec-l-administration-trump-pour-negocier-le-desarmement-du-hamas_6744015_3210.html][Mohammed Dahlan, l’ambitieux exilé gazaoui qui a joué de ses relations avec l’administration Trump pour négocier le désarmement du Hamas]]
+- [[https://www.lemonde.fr/pixels/article/2026/08/11/meta-face-a-un-proces-a-hauts-risques-financiers_6744194_4408996.html][Meta face à un procès civil à haut risque financier]]
+- [[https://www.lemonde.fr/international/article/2026/08/11/carlo-masala-specialiste-des-questions-de-securite-l-allemagne-est-visee-parce-qu-elle-est-le-principal-pilier-du-soutien-europeen-a-l-ukraine_6744160_3210.html][Carlo Masala, spécialiste des questions de sécurité : « L’Allemagne est visée parce qu’elle est le principal pilier du soutien européen à l’Ukraine »]]
 
 *** Le Figaro
 
+- [[https://www.lefigaro.fr/conjoncture/il-suffit-de-prendre-les-titres-et-de-les-foutre-au-feu-pourquoi-le-projet-d-annulation-de-la-dette-de-jean-luc-melenchon-est-ruineux-et-mensonger-20260811][«Il suffit de prendre les titres et de les foutre au feu» : pourquoi le projet d’annulation de la dette de Jean-Luc Mélenchon est ruineux et mensonger]]
 - [[https://www.lefigaro.fr/sciences/comment-profiter-de-l-eclipse-si-vous-n-avez-pas-de-lunettes-de-protection-20260811][Comment profiter de l’éclipse si vous n’avez pas de lunettes de protection ?]]
 - [[https://www.lefigaro.fr/sciences/ambiance-de-fin-du-monde-cornes-du-diable-ou-double-crepuscule-que-pouvons-nous-attendre-en-france-de-l-eclipse-du-12-aout-20260810][Ambiance de fin du monde, cornes du diable ou double crépuscule : que pouvons-nous attendre en France de l’éclipse du 12 août ?]]
 - [[https://www.lefigaro.fr/sciences/la-pluie-d-etoiles-filantes-des-perseides-doit-atteindre-son-apogee-ce-lundi-soir-20240812][Perséides : après l’éclipse, la nuit d’étoiles filantes la plus spectaculaire et la plus populaire de l’année]]
 - [[https://www.lefigaro.fr/sciences/des-visions-de-paco-rabanne-a-la-disparition-brutale-de-la-gravite-predite-par-la-nasa-l-eclipse-solaire-objet-de-tous-les-fantasmes-20260811][Des visions de Paco Rabanne à la disparition brutale de la gravité « prédite par la Nasa »… L’éclipse solaire, objet de tous les fantasmes]]
-- [[https://www.lefigaro.fr/sciences/allez-vous-regarder-l-eclipse-solaire-mercredi-soir-20260811][Allez-vous regarder l'éclipse solaire mercredi soir ?]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
 - [[https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss][Rescuers scramble for survivors with 180 dead in Colombia earthquake]]
+- [[https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss][Trump's dramatic plane swap hints at personal stakes of Iran war]]
+- [[https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss][Trump says he switched planes after Nato summit because of possible threat]]
 - [[https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss][US says helicopter fired missiles to disable ship breaking Iran blockade]]
-- [[https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss][Inside the Secret Service 'shell game' to hide US presidents in plain sight]]
-- [[https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss][Russia using North Korean missiles to strike Ukraine, Zelensky says]]
-- [[https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss][Russia releases former US Marine reported in poor health]]
+- [[https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss][Baby Shark Boy set to make K-pop debut]]
 
 *** The Guardian
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/unesco-2-4-million-girls-barred-from-school-in-afghanistan/a-78328926?maca=en-rss-en-world-4025-rdf][UNESCO: 2.4 million girls barred from school in Afghanistan]]
 - [[https://www.dw.com/en/can-the-new-pkk-law-bring-peace-to-turkey/a-78326063?maca=en-rss-en-world-4025-rdf][Can the new PKK law bring peace to Turkey?]]
 - [[https://www.dw.com/en/hungary-s-parliament-elects-orban-critic-as-new-president/a-78325589?maca=en-rss-en-world-4025-rdf][Hungary's parliament elects Orban critic as new president]]
 - [[https://www.dw.com/en/disrupted-monsoons-force-india-to-face-climate-threat/a-78324753?maca=en-rss-en-world-4025-rdf][Disrupted monsoons force India to face climate threat]]
 - [[https://www.dw.com/en/key-issues-in-zambia-s-2026-general-election/a-78320087?maca=en-rss-en-world-4025-rdf][Key issues in Zambia's 2026 general election]]
-- [[https://www.dw.com/en/bulgaria-drone-crash-a-wake-up-call-for-country-s-defenses/a-78320070?maca=en-rss-en-world-4025-rdf][Bulgaria drone crash a wake-up call for country's defenses]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/08/julio-andrade-mc-cabelinho-e-hermila-guedes-assinam-com-a-globo-para-paraiso-perdido.shtml][Júlio Andrade, MC Cabelinho e Hermila Guedes assinam com a Globo para 'Paraíso Perdido']]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/premio-octavio-frias-de-oliveira-anuncia-vencedores-da-17a-edicao-nesta-quarta-12.shtml][Prêmio Octavio Frias de Oliveira anuncia vencedores da 17ª edição nesta quarta (12)]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/pesquisadora-que-ajudou-a-transformar-hpv-em-alvo-de-vacina-contra-cancer-recebe-premio-icesp.shtml][Pesquisadora que ajudou a transformar HPV em alvo de vacina contra câncer recebe prêmio Icesp]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/movimentos-lancam-projeto-para-reservar-50-das-cadeiras-do-legislativo-a-mulheres.shtml][Movimentos lançam projeto para reservar 50% das cadeiras do Legislativo a mulheres]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/mistura-de-alcool-e-anestesico-usado-em-golpes-causou-morte-de-advogado-na-vila-madalena-diz-laudo.shtml][Mistura de álcool e anestésico usado em golpes causou morte de advogado na Vila Madalena, diz laudo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/rosalia-canta-elis-regina-exalta-caetano-veloso-e-convida-pabllo-vittar.shtml][Rosalía canta Elis Regina, exalta Caetano Veloso e convida Pabllo Vittar]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/metade-dos-adolescentes-brasileiros-passa-mais-tempo-online-do-que-gostaria-diz-pesquisa.shtml][Metade dos adolescentes brasileiros passa mais tempo online do que gostaria, diz pesquisa]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/tiago-piquilo-se-pronuncia-apos-polemica-com-ratinho-nao-me-senti-ofendido.shtml][Tiago Piquilo se pronuncia após polêmica com Ratinho: 'Não me senti ofendido']]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/sao-paulo-inicia-mata-mata-contra-bolivar-com-empate-na-altitude-de-la-paz.shtml][São Paulo inicia mata-mata contra Bolívar com empate na altitude de La Paz]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/filme-lembra-honestino-guimaraes-e-expoe-a-barbarie-da-ditadura.shtml][Filme lembra Honestino Guimarães e expõe a barbárie da ditadura]]
 
 *** O Globo
 
