@@ -351,7 +351,7 @@
 </head>
 <body>
 
-<script>try{if(localStorage.getItem('hub_theme')==='light')document.body.classList.add('light');}catch(e){}</script>
+<script>try{var t=localStorage.getItem('hub_theme');if(t==='light'||(t===null&&window.matchMedia&&matchMedia('(prefers-color-scheme: light)').matches))document.body.classList.add('light');}catch(e){}</script>
 
 
 <div class="top-bar">
