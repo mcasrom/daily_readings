@@ -29,12 +29,13 @@
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
     <style>
 :root{
-            --bg:var(--bg); --bg2:var(--bg2); --panel:var(--panel); --grad:var(--grad);
-            --line:var(--line); --text:var(--text);
-            --accent:var(--accent); --accent2:var(--accent2);
-            --dim:var(--dim); --dim2:var(--dim2); --link:var(--link); --meta:var(--meta);
-            --faint:var(--faint); --star-dim:var(--star-dim); --star-hover:var(--star-hover);
-            --hl-bg:var(--hl-bg);
+            --bg:#0a0e17; --bg2:#0d1520; --panel:#111827; --grad:#141e30;
+            --line:#1a2a4a; --text:#d0dbe8;
+            --accent:#00d4ff; --accent2:#4fc3f7;
+            --dim:#607d8b; --dim2:#78909c; --link:#b0bec5; --meta:#546e7a;
+            --faint:#455a64; --star-dim:#2a3a5a; --star-hover:#4a5a7a;
+            --hl-bg:rgba(0,212,255,0.03);
+            --trend:#69f0ae;
         }
         body.light{
             --bg:#f4f6fb; --bg2:#eef1f8; --panel:#ffffff; --grad:#e3ebf7;
@@ -43,6 +44,7 @@
             --dim:#475569; --dim2:#64748b; --link:#1e293b; --meta:#64748b;
             --faint:#94a3b8; --star-dim:#cbd5e1; --star-hover:#94a3b8;
             --hl-bg:rgba(2,132,199,0.06);
+            --trend:#15803d;
         }
         body.light { color-scheme: light; }
         
@@ -193,7 +195,7 @@
         .trending-block { margin: 8px 0; }
         .trending-lang { color: var(--accent2); font-weight: 600; font-size: 0.9em; margin-top: 10px; }
         .trending-tag {
-            display: inline-block; background: var(--line); color: #69f0ae;
+            display: inline-block; background: var(--line); color: var(--trend);
             padding: 4px 14px; border-radius: 16px; font-size: 0.85em;
             margin: 4px 5px 4px 0;
         }
