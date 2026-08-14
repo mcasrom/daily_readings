@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 53.7°C | ⚖ Load: 0.32 | 🌐 Ping: 14.6ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 53.7°C | ⚖ Load: 0.00 | 🌐 Ping: 14.3ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,19 +49,19 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/08/13/6a7db93321efa0013c8b4594.html][El Gobierno admite por primera vez que su política potenció la avalancha sobre Ceuta: "Ninguno de ellos se va a regularizar"]]
-- [[https://www.elmundo.es/espana/2026/08/13/6a7ddaaafdddffac5d8b459c.html][Infancia acusa a las comunidades del PP de boicotear el debate sobre los menores migrantes de Ceuta]]
-- [[https://www.elmundo.es/espana/2026/08/13/6a7db4c3e85ece9b7d8b4574.html][Robles aplaza su comparecencia en el Senado para poder ser más "precisa y exhaustiva" en sus explicaciones sobre la crisis de Ceuta]]
-- [[https://www.elmundo.es/ciencia/2026/08/13/6a7df67ae85ece37298b4592.html][Tortilla, la perra Zoeh y una rampa en la España vaciada para una imagen única del eclipse: "No nos apoyó ninguna marca"]]
-- [[https://www.elmundo.es/ciencia/2026/08/13/6a7db60de4d4d8c9378b45af.html][Las 10 lecciones que aprendimos del eclipse solar que hechizó a España]]
+- [[https://www.elmundo.es/espana/2026/08/13/6a7e00b6fc6c8333778b45ad.html][Armengol gasta más de cuatro millones en los pinganillos que Sánchez concedió al independentismo]]
+- [[https://www.elmundo.es/economia/empresas/2026/08/13/6a7db616e85ece9d1b8b459e.html][El Gobierno agota su última bala para contener la subida del carburante y Ormuz aboca a renegociar otro plan anticrisis a la vuelta del verano]]
+- [[https://www.elmundo.es/espana/2026/08/13/6a7c820ce4d4d82a318b4593.html][Soledad, la madre a la que retiraron los niños por encerrarlos en una jaula para conejos: "¡Por Dios, eso es mentira!"]]
+- [[https://www.elmundo.es/espana/2026/08/14/6a7e08c621efa0d00a8b45c0.html]['Operación 1.898': el reparto de los menores en Ceuta lleva al límite la capacidad y la solidaridad]]
+- [[https://www.elmundo.es/espana/2026/08/13/6a7e0199fc6c83a05d8b458b.html]["Sería un ridículo mundial": Marruecos instala concertinas y despliega cañones de agua para evitar otro salto el 15-A]]
 
 *** La Vanguardia
 
 - [[https://www.lavanguardia.com/politica/20260813/11613463/gobierno-omite-mensajes-rabat-evita-choque-diplomatico-soberania-ceuta-melilla.html][El Gobierno omite los mensajes de Rabat y evita el choque por la soberanía de Ceuta y Melilla]]
-- [[https://www.lavanguardia.com/politica/20260813/11613318/marlaska-elogia-relacion-marruecos-eleva-1-898-menores-registrados-ceuta.html][Marlaska elogia la relación con Marruecos y eleva a 1.898 los menores migrantes registrados en Ceuta]]
-- [[https://www.lavanguardia.com/politica/20260813/11613137/interior-instala-dique-sur-melilla-barrera-flotante-mar-ceuta.html][Interior instala en el dique sur de Melilla una barrera flotante en el mar como en Ceuta]]
+- [[https://www.lavanguardia.com/opinion/20260814/11613454/espana-marruecos-mundial-rabat-ceuta-ciervos.html][La diplomacia del ciervo]]
 - [[https://www.lavanguardia.com/internacional/20260813/11613321/soldados-israelies-intenta-evacuar-grupo-colonos-atrincherados-poblacion-palestina.html][Cinco días de asedio de colonos a una familia en Cisjordania]]
 - [[https://www.lavanguardia.com/deportes/fc-barcelona/20260813/11613470/ferran-torres-psg-50-millones.html][Ferran Torres, al PSG por casi 50 millones]]
+- [[https://www.lavanguardia.com/deportes/fc-barcelona/20260813/11613490/ferran-torres-tiburon-acabo-cautivar-barca.html][Ferran Torres, el tiburón que no acabó de cautivar en el Barça]]
 
 *** El Diario de Cantabria
 
@@ -83,39 +83,39 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/see-the-battlefield-innovations-reshaping-the-russia-ukraine-war-b8f58805?mod=rss_worldnews][See the Battlefield Innovations Reshaping the Russia-Ukraine War]]
 - [[https://www.wsj.com/world/americas/cuba-throws-a-birthday-bash-for-fidel-as-his-legacy-lies-in-ruins-92389a0a?mod=rss_worldnews][Cuba Throws a Birthday Bash for Fidel as His Legacy Lies in Ruins]]
 - [[https://www.wsj.com/world/middle-east/israel-puts-west-bank-village-on-lockdown-over-settler-siege-a3b40466?mod=rss_worldnews][Israel Puts West Bank Village on Lockdown Over Settler Siege]]
 - [[https://www.wsj.com/world/uk/has-nigel-farage-peaked-summer-of-setbacks-hits-britains-irrepressible-populist-ec1b7b78?mod=rss_worldnews][Has Nigel Farage Peaked? Summer of Setbacks Hits Britain’s Irrepressible Populist]]
 - [[https://www.wsj.com/world/asia/russia-japan-putin-kuril-islands-c59e7f3b?mod=rss_worldnews][Putin’s Visit to Disputed Island Adds to Pressure on Japan]]
-- [[https://www.wsj.com/business/north-koreans-use-stolen-ids-ai-to-land-u-s-jobsand-funnel-millions-to-kims-regime-1385adf7?mod=rss_worldnews][North Koreans Use Stolen IDs, AI to Land U.S. Jobs—and Funnel Millions to Kim’s Regime]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/planete/article/2026/08/13/juillet-et-aout-etaient-les-mois-de-la-legerete-quand-la-repetition-des-canicules-chasse-l-insouciance-estivale_6745814_3244.html][« Juillet et août étaient les mois de la légèreté » : quand la répétition des canicules chasse l’insouciance estivale]]
+- [[https://www.lemonde.fr/planete/article/2026/08/14/pourquoi-les-canicules-se-repetent-elles-en-france-les-questions-posees-par-une-succession-inedite-de-vagues-de-chaleur_6746106_3244.html][Pourquoi les canicules se répètent-elles en France ? Les questions posées par une succession inédite de vagues de chaleur]]
 - [[https://www.lemonde.fr/societe/article/2026/08/13/les-menages-solos-toujours-plus-nombreux-peinent-a-se-loger-ce-serait-beaucoup-plus-facile-a-deux-j-ai-un-sentiment-de-double-peine_6745503_3224.html][Les ménages solos, toujours plus nombreux, peinent à se loger : « Avec 3 700 euros net par mois, je ne peux même pas toucher le bas du marché »]]
+- [[https://www.lemonde.fr/international/article/2026/08/14/le-japon-sous-le-choc-apres-une-visite-de-vladimir-poutine-sur-des-territoires-disputes-du-sud-des-iles-kouriles_6746073_3210.html][Le Japon sous le choc après une visite de Vladimir Poutine sur des territoires disputés du sud des îles Kouriles]]
 - [[https://www.lemonde.fr/pixels/article/2026/08/13/la-plateforme-des-impots-victime-d-une-cyberattaque_6745830_4408996.html][La plateforme des impôts, Impots.gouv.fr, victime d’une cyberattaque]]
-- [[https://www.lemonde.fr/societe/article/2026/08/13/ces-discours-politiques-ne-sont-plus-audibles-dans-les-casernes-et-sur-le-terrain-les-pompiers-expliquent-les-raisons-de-leur-deception-apres-leur-rencontre-avec-le-ministre-de-l-interieur_6745836_3224.html][« Ces discours politiques ne sont plus audibles dans les casernes et sur le terrain » : les pompiers expliquent les raisons de leur « déception » après leur rencontre avec Laurent Nuñez]]
-- [[https://www.lemonde.fr/series-d-ete/article/2026/08/13/adieu-fake-news-bonjour-fimi-le-lexique-de-la-desinformation-fait-peau-neuve_6745813_3451060.html][Adieu « fake news », bonjour « FIMI » : le lexique de la désinformation fait peau neuve]]
+- [[https://www.lemonde.fr/international/live/2026/08/13/en-direct-guerre-en-ukraine-une-frappe-russe-fait-deux-blesses-dans-la-region-de-zaporijia-selon-l-administration-militaire-locale_6741928_3210.html][EN DIRECT, guerre en Ukraine : une frappe russe fait un mort et une quinzaine de blessés à Kramatorsk, dans le Donbass]]
 
 *** Le Figaro
 
 - [[https://www.lefigaro.fr/international/les-russes-testent-partout-l-inquietude-s-accroit-au-sein-des-etats-majors-europeens-face-a-une-menace-desinhibee-du-kremlin-20260813][« Les Russes testent partout » : l’inquiétude s’accroît au sein des états-majors européens face à une menace désinhibée du Kremlin]]
 - [[https://www.lefigaro.fr/international/l-ukraine-revendique-la-destruction-du-systeme-de-protection-aerienne-du-palais-de-poutine-en-crimee-20260813][L’Ukraine revendique la destruction du système de protection aérienne du palais de Poutine au bord de la mer noire]]
 - [[https://www.lefigaro.fr/international/nous-nous-preparons-au-pire-des-scenarios-en-russie-une-importante-raffinerie-mise-a-l-arret-au-moins-six-mois-apres-une-attaque-ukrainienne-20260813][«Nous nous préparons au pire des scénarios» : en Russie, une importante raffinerie mise à l’arrêt au moins six mois après une attaque ukrainienne]]
-- [[https://www.lefigaro.fr/meteo/en-direct-live-meteo-canicule-vague-chaleur-soleil-incendies-feux-temperatures-vigilance-secheresse-20260813][EN DIRECT - Canicule : 81 départements maintenus en alerte orange vendredi, 400 hectares parcourus par un incendie dans les Landes]]
-- [[https://www.lefigaro.fr/voyages/quelles-sont-les-plages-les-plus-proches-de-paris-20220423][Canicule : quelles sont les plages les plus proches de Paris ?]]
+- [[https://www.lefigaro.fr/conjoncture/trump-annonce-des-droits-de-douane-allant-jusqu-a-100-sur-les-drones-importes-20260814][Trump annonce des droits de douane allant jusqu'à 100% sur les drones importés]]
+- [[https://www.lefigaro.fr/culture/au-bresil-la-police-retrouve-des-oeuvres-de-matisse-derobees-en-2025-a-sao-paulo-20260814][Au Brésil, la police retrouve des œuvres de Matisse dérobées en 2025 à São Paulo]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
 - [[https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss][Palestinians told to leave homes in village where Israeli settlers besieged houses]]
+- [[https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss][US says dozens of countries helped China dodge Trump's tariffs]]
 - [[https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss][Romania shuts only nuclear plant as heat causes huge drop in Danube River level]]
-- [[https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss][Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC]]
 - [[https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss][Engine parts smashed Ryanair window that man's head was sucked out of, report says]]
-- [[https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss][Conditions on US aircraft carrier at sea for more than 250 days raise alarms]]
+- [[https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss][Person fined after using foghorn to wake sleeping polar bear]]
 
 *** The Guardian
 
@@ -165,11 +165,11 @@
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/fux-diz-que-justica-nao-pretende-obrigar-bancos-a-socorrer-brb.shtml][Fux diz que Justiça não pretende obrigar bancos a socorrer BRB]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/corregedoria-afasta-juiz-do-caso-banco-santos-apos-audio-com-sugestao-de-venda-ao-master.shtml][Corregedoria afasta juiz do caso Banco Santos após áudio com sugestão de venda ao Master]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/familiares-relatam-tentativas-de-suicidio-de-militares-a-bordo-de-porta-avioes-dos-eua-no-oriente-medio.shtml][Familiares relatam tentativas de suicídio de militares a bordo de porta-aviões dos EUA no Oriente Médio]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/pms-vao-a-juri-popular-sob-acusacao-de-tentar-matar-motoboy-durante-operacao-escudo-em-sp.shtml][PMs vão a júri popular sob acusação de tentar matar motoboy durante Operação Escudo em SP]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/puxado-pelo-credito-lucro-do-nubank-alcanca-us-1-bilhao-pela-primeira-vez.shtml][Puxado pelo crédito, lucro do Nubank alcança US$ 1 bilhão pela primeira vez]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/azul-reverte-lucro-e-encerra-2o-tri-com-prejuizo-de-r-1-bilhao-apos-alta-dos-combustiveis.shtml][Azul reverte lucro e encerra 2º tri com prejuízo de R$ 1 bilhão após alta dos combustíveis]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/carla-madeira-navega-o-caos-do-luto-e-se-revolta-contra-a-homofobia-no-livro-quando.shtml][Carla Madeira navega o caos do luto e se revolta contra a homofobia no livro 'Quando']]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/entenda-como-funciona-a-filiacao-partidaria-que-gerou-polemica-com-flavio-bolsonaro.shtml][Entenda como funciona a filiação partidária, que gerou polêmica com Flávio Bolsonaro]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/corinthians-fica-com-um-a-menos-mas-deixa-argentina-vivo-na-copa-libertadores.shtml][Corinthians fica com um a menos, mas deixa Argentina vivo na Copa Libertadores]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/vencedor-do-masterchef-confeitaria-e-internado-as-pressas-quase-fui-de-arrasta.shtml][Vencedor do MasterChef Confeitaria é internado às pressas: 'Quase fui de arrasta']]
 
 *** O Globo
 
