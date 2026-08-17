@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 53.7°C | ⚖ Load: 0.00 | 🌐 Ping: 14.3ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 53.7°C | ⚖ Load: 0.00 | 🌐 Ping: 15.0ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,19 +49,19 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/salud/2026/08/16/6a818e3421efa0e7588b456f.html][Mónica García niega el "colapso sanitario" en Ceuta que denuncian los médicos y el PP: "No hemos hecho venir a nadie de vacaciones"]]
-- [[https://www.elmundo.es/espana/2026/08/16/6a81b434e9cf4a77488b458d.html][La gran desescalada llega a la frontera de Ceuta tras el batacazo del 15-A: "El régimen marroquí ha mandado su mensaje alto y claro"]]
-- [[https://www.elmundo.es/espana/2026/08/16/6a81fb0a21efa0b91d8b4584.html][Un militar muerto y 3 heridos al volcar una autobomba de la UME en el incendio de Las Peñas de Riglos]]
-- [[https://www.elmundo.es/deportes/futbol/primera-division/2026/08/16/6a789b5efc6c83ca618b456f.html][El Barcelona cierra el fichaje de Rodri por cuatro temporadas tras pagar 75 millones al City]]
-- [[https://www.elmundo.es/espana/2026/08/15/6a80a85d21efa0a66c8b4595.html][PP y Vox ganan ya en 38 provincias y diluyen al bloque de Sánchez a mandar en sólo ocho]]
+- [[https://www.elmundo.es/espana/2026/08/16/6a82101ee4d4d81c118b459a.html][Un Congreso paralizado con menos leyes que nunca mientras Sánchez bate récord de decretos]]
+- [[https://www.elmundo.es/economia/empresas/2026/08/16/6a7b2412fdddffc11d8b459a.html][El mayor parque eólico de Repsol le abre un agujero contable de casi 300 millones]]
+- [[https://www.elmundo.es/economia/2026/08/16/6a70b1ccfdddff0a738b456d.html][Una vida entera al margen de la Seguridad Social: "Tengo 69 años y estoy obligada a seguir trabajando"]]
+- [[https://www.elmundo.es/espana/2026/08/17/6a82090fe85ecef71c8b4587.html][Marruecos avanza en su alianza militar y tecnológica con EEUU en plena crisis por Ceuta]]
+- [[https://www.elmundo.es/internacional/2026/08/16/6a819d1221efa015388b45ad.html][Marruecos nos necesita]]
 
 *** La Vanguardia
 
 - [[https://www.lavanguardia.com/politica/20260816/11614767/sanidad-niega-emergencia-sanitaria-ceuta-urge-crear-espacios-sanitarios-calle.html][Sanidad niega el colapso sanitario en Ceuta y sitúa la urgencia en la calle]]
 - [[https://www.lavanguardia.com/politica/20260816/11614788/pp-acusa-gobierno-indolencia-ceuta-reclama-dimision-monica-garcia.html][El PP acusa al Gobierno de “indolencia” en Ceuta y reclama la dimisión de Mónica García]]
 - [[https://www.lavanguardia.com/local/aragon/20260816/11614855/muere-militar-ume-tareas-extincion-incendio-riglos.html][Muere un militar de la UME durante las tareas de extinción del incendio de Riglos]]
-- [[https://www.lavanguardia.com/internacional/20260816/11614692/cuatro-muertos-ataque-ucraniano-mas-600-drones-rusia.html][Más de 600 drones ucranianos vuelven a acechar Moscú en otro día de ataques cruzados]]
-- [[https://www.lavanguardia.com/internacional/20260816/11614684/avion-combate-espanol-otan-derriba-dron-violaba-espacio-aereo-rumania.html][Dos cazas españoles derriban un dron que violaba el espacio aéreo rumano]]
+- [[https://www.lavanguardia.com/local/andalucia/20260817/11615031/tres-muertos-menor-tiroteo-isla-cristina.html][Tres muertos, entre ellos un menor, y un herido grave en un tiroteo en Isla Cristina]]
+- [[https://www.lavanguardia.com/local/barcelona/20260816/11614812/joven-italiano-coma-atacado-salir-discoteca-barcelona.html][Un joven italiano, en coma tras ser atacado al salir de una discoteca en Barcelona]]
 
 *** El Diario de Cantabria
 
@@ -83,26 +83,26 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/middle-east/iran-plan-escalate-war-cc657664?mod=rss_worldnews][Iran’s Secret Plan to Escalate the War]]
 - [[https://www.wsj.com/world/americas/brazils-right-has-a-new-bolsonaro-60488a0f?mod=rss_worldnews][Brazil’s Right Has a New Bolsonaro]]
 - [[https://www.wsj.com/world/europe/workers-unearth-10-million-in-gold-under-homeless-shelter-site-in-belgium-ec858009?mod=rss_worldnews][Workers Unearth $10 Million in Gold Under Homeless Shelter Site in Belgium]]
 - [[https://www.wsj.com/world/iran-says-pilots-missing-after-a-brazen-bombing-run-are-prisoners-in-qatar-9095fac0?mod=rss_worldnews][Iran Says Pilots Missing After a Brazen Bombing Run Are Prisoners in Qatar]]
 - [[https://www.wsj.com/world/europe/nato-jets-down-suspected-russian-drone-over-romania-19d66e3d?mod=rss_worldnews][NATO Jets Down Suspected Russian Drone Over Romania]]
-- [[https://www.wsj.com/world/china/hengli-china-oil-company-iran-c802475a?mod=rss_worldnews][This Sprawling Chinese Refinery Is Bankrolling Tehran]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/series-d-ete/article/2026/08/16/notre-voisine-hurlait-les-talibans-reviennent-nous-etions-petrifiees-cinq-ans-apres-des-afghanes-racontent-ce-jour-funeste-ou-elles-sont-devenues-le-pire-ennemi-de-leur-propre-nation_6747646_3451060.html][« Notre voisine hurlait : “Les talibans reviennent !”, nous étions pétrifiées » : cinq ans après le 15 août 2021, des Afghanes racontent leur enfer]]
+- [[https://www.lemonde.fr/economie/article/2026/08/17/mise-a-mal-par-une-secheresse-historique-l-agriculture-francaise-souffre-et-s-inquiete-pour-son-avenir_6747960_3234.html][Mise à mal par une sécheresse historique, l’agriculture française souffre et s’inquiète pour son avenir]]
+- [[https://www.lemonde.fr/international/article/2026/08/17/donald-trump-demande-a-reduire-les-exercices-militaires-menes-avec-la-coree-du-sud-pour-preserver-ses-liens-avec-le-dirigeant-nord-coreen-kim-jong-un_6747888_3210.html][Donald Trump a demandé à réduire les exercices militaires menés avec la Corée du Sud pour préserver ses liens avec le dirigeant nord-coréen, Kim Jong-un]]
+- [[https://www.lemonde.fr/international/article/2026/08/17/repression-en-iran-les-echanges-culturels-francais-dans-le-viseur-du-pouvoir_6747965_3210.html][Répression en Iran : les échanges culturels français dans le viseur du pouvoir]]
 - [[https://www.lemonde.fr/sport/article/2026/08/16/leon-marchand-champion-d-europe-sur-400-m-nage-libre-la-reinvention-du-nageur-francais-qu-on-n-attendait-pas-sur-cette-distance_6747685_3242.html][Léon Marchand champion d’Europe sur 400 m nage libre : la réinvention du nageur français, qu’on n’attendait pas sur cette distance]]
-- [[https://www.lemonde.fr/economie/article/2026/08/16/avec-la-canicule-les-equarrisseurs-croulent-sous-les-cadavres-de-volailles-en-decomposition-dont-l-odeur-exaspere-riverains-et-pouvoirs-publics_6747543_3234.html][Avec la canicule, les équarrisseurs croulent sous les cadavres de volailles en décomposition dont l’odeur exaspère riverains et pouvoirs publics]]
-- [[https://www.lemonde.fr/sport/article/2026/08/16/le-rc-lens-remporte-le-premier-trophee-des-champions-de-son-histoire-face-au-psg_6747855_3242.html][Le RC Lens remporte le premier Trophée des champions de son histoire face au PSG]]
-- [[https://www.lemonde.fr/idees/article/2026/08/16/l-extreme-droite-francaise-a-voue-une-detestation-tenace-au-general-de-gaulle-aujourd-hui-elle-pourrait-reussir-sa-strategie-de-captation-d-heritage_6747643_3232.html][« L’extrême droite française a voué une détestation tenace au général de Gaulle ; aujourd’hui, elle pourrait réussir sa stratégie de captation d’héritage »]]
+- [[https://www.lemonde.fr/series-d-ete/article/2026/08/17/cannibalisme-l-etrange-maladie-du-kuru-rancon-de-festins-mortuaires_6747962_3451060.html][Cannibalisme : l’étrange maladie du kuru, rançon de festins mortuaires]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/trump-reduit-les-exercices-militaires-avec-seoul-au-nom-de-sa-relation-avec-kim-jong-un-20260816][Trump réduit les exercices militaires avec Séoul au nom de sa relation avec Kim Jong Un]]
 - [[https://www.lefigaro.fr/international/en-israel-l-echec-du-plan-de-destabilisation-de-l-iran-plonge-le-mossad-dans-la-tourmente-20260816][En Israël, l’échec du plan de déstabilisation de l’Iran plonge le Mossad dans la tourmente]]
+- [[https://www.lefigaro.fr/international/ukraine-kaja-kallas-veut-augmenter-d-un-tiers-les-entites-russes-sanctionnees-20260817][Ukraine: Kaja Kallas veut augmenter d'un tiers les entités russes sanctionnées]]
 - [[https://www.lefigaro.fr/conjoncture/l-inquietant-piratage-des-donnees-fiscales-des-francais-met-en-evidence-les-fragilites-de-l-administration-20260816][L’inquiétant piratage des données fiscales des Français met en évidence les fragilités de l’administration]]
 - [[https://www.lefigaro.fr/economie/piratage-du-fisc-lecornu-presidera-lundi-une-cellule-interministerielle-de-crise-20260816][Piratage du fisc : Lecornu présidera lundi une cellule interministérielle de crise]]
 - [[https://www.lefigaro.fr/secteur/high-tech/piratage-des-donnees-du-fisc-ces-menaces-qui-pesent-desormais-sur-les-particuliers-et-les-entreprises-20260815][Piratage des données du fisc : ces menaces qui pèsent désormais sur les particuliers et les entreprises]]
@@ -111,7 +111,7 @@
 
 *** BBC News
 
-- [[https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss][Trump says US to scale back military drills with South Korea after it stayed out of Iran war]]
+- [[https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss][Trump says US to scale back South Korea military drills after it stayed out of Iran war]]
 - [[https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss][Trump envoy Kushner meets Hamas leader to push Gaza peace plan]]
 - [[https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss][Russia says at least seven killed in largest Ukrainian attack of 2026]]
 - [[https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss][Two dead and hundreds evacuated after twin fires break out on Greek island]]
@@ -119,11 +119,11 @@
 
 *** The Guardian
 
+- [[https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history][Ebola outbreak in Democratic Republic of Congo now deadliest in country’s history]]
 - [[https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident][Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered]]
 - [[https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta][Moroccan police arrest more than 100 people as they attempt to enter Ceuta]]
 - [[https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping][American missionary kidnapped in Niger freed after nine months]]
 - [[https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province][DRC’s fast-growing Ebola outbreak spreads to sixth province]]
-- [[https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher][French ambassador to CAR investigated over claims he hosted dozens of women]]
 
 ** 🇮🇹 Italia
 
@@ -165,11 +165,11 @@
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/autoridade-do-governo-trump-acusa-brasil-de-censura-apos-x-alterar-algoritmo-para-eleicao.shtml][Autoridade do governo Trump acusa Brasil de censura após X alterar algoritmo para eleição]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/08/luciano-huck-reforca-sigilo-para-estreia-da-danca-dos-famosos.shtml][Luciano Huck reforça sigilo para estreia da 'Dança dos Famosos']]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/08/danca-dos-famosos-2026-conheca-os-participantes-da-edicao.shtml][Dança dos Famosos 2026: Conheça os participantes da edição]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/08/torcida-do-vasco-provoca-neymar-com-mascaras-do-craque-chorando-e-de-bruna-marquezine.shtml][Torcida do Vasco provoca Neymar com máscaras do craque chorando e de Bruna Marquezine]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/sobe-para-84-o-numero-de-mortos-em-naufragio-de-balsa-no-zimbabue.shtml][Sobe para 84 o número de mortos em naufrágio de balsa no Zimbábue]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/candidato-ao-governo-do-parana-pelo-psd-sandro-alex-participa-de-sabatina-folhauol-nesta-segunda.shtml][Candidato ao Governo do Paraná pelo PSD, Sandro Alex participa de sabatina Folha/UOL nesta segunda]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/latino-se-pronuncia-apos-declaracao-de-ex-noiva-nego-todas-as-acusacoes.shtml][Latino se pronuncia após declaração de ex-noiva: 'Nego todas as acusações']]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/acho-que-desta-vez-ele-tentou-me-matar-diz-esposa-agredida-por-empresario-em-sp.shtml]['Desta vez ele tentou me matar', diz esposa agredida por empresário em SP]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/tremor-na-colombia-expoe-face-ideologica-de-espriella-em-sua-1a-semana-no-cargo.shtml][Tremor na Colômbia expõe face ideológica de Espriella em sua 1ª semana no cargo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2026/08/tem-gente-que-acha-que-sua-vida-sexual-deve-ser-o-centro-da-politica.shtml][Tem gente que acha que sua vida sexual deve ser o centro da política]]
 
 *** O Globo
 
