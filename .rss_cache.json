@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T00:00:02.681804",
+  "timestamp": "2026-08-19T06:00:03.138349",
   "data": {
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada": [
       {
@@ -25,24 +25,24 @@
     ],
     "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml": [
       {
-        "title": "Europa presiona a España para que los menores migrantes en Ceuta sean devueltos por estar \"cubierto por el Derecho de la UE\"",
-        "link": "https://www.elmundo.es/espana/2026/08/18/6a8445c121efa017488b4590.html"
+        "title": "Cargos del PSOE abren ya la crítica por Ceuta y ven al Gobierno \"sobrepasado e impotente\"",
+        "link": "https://www.elmundo.es/espana/2026/08/18/6a849bc7e85ece40318b4581.html"
       },
       {
-        "title": "El Gobierno insinúa que el Ejecutivo de Ceuta podría \"cortar\" las ayudas a las entidades sociales por la dependencia del PP con Vox en otras CCAA",
-        "link": "https://www.elmundo.es/espana/2026/08/18/6a84391cfdddff03298b45a2.html"
+        "title": "Europa atenaza a Sánchez y 'condena' a Ceuta: \"Es importante que nadie sea trasladado a la Península\"",
+        "link": "https://www.elmundo.es/espana/2026/08/18/6a848bb7e85ecef2468b456d.html"
       },
       {
         "title": "Primer policía diagnosticado con sarna tras haber prestado servicio en la crisis migratoria de Ceuta",
         "link": "https://www.elmundo.es/espana/2026/08/18/6a84a6e221efa0e11d8b4599.html"
       },
       {
-        "title": "Siete terremotos consecutivos en Granada dejan tres heridos leves, provocan desalojos de centros comerciales y hoteles y se suspenden las consultas médicas y las cirugías programadas",
-        "link": "https://www.elmundo.es/andalucia/2026/08/18/6a841e4dfc6c8358538b4597.html"
+        "title": "\"Ceuta no puede ser la Albania de España\"",
+        "link": "https://www.elmundo.es/espana/2026/08/18/6a84bf43e9cf4af87e8b4599.html"
       },
       {
-        "title": "Sentido un nuevo terremoto de magnitud 3,4 con epicentro en Ogíjares (Granada)",
-        "link": "https://www.elmundo.es/espana/2026/08/18/6a84cbf4fc6c83ee7b8b458c.html"
+        "title": "El Gobierno se resigna ante el portazo francés a Renfe en plena crisis de la red ferroviaria: 13 años de bloqueo, encontrazos con Puente y una liberalización asimétrica",
+        "link": "https://www.elmundo.es/economia/2026/08/18/6a849e2b21efa05b3c8b4589.html"
       }
     ],
     "https://www.lavanguardia.com/rss/home.xml": [
@@ -59,12 +59,12 @@
         "link": "https://www.lavanguardia.com/politica/20260818/11615975/jueces-piden-refuerzos-ceuta-frente-crisis-migratoria.html"
       },
       {
-        "title": "El PP reclama “rearmar el Estado” en Ceuta para no depender de Rabat",
-        "link": "https://www.lavanguardia.com/politica/20260818/11616163/pp-reclama-rearmar-ceuta-depender-rabat.html"
+        "title": "Negar la evidencia",
+        "link": "https://www.lavanguardia.com/opinion/20260819/11616204/negar-evidencia.html"
       },
       {
-        "title": "El Gobierno esquiva definitivamente al Senado para blindar su relato de Ceuta en el Congreso",
-        "link": "https://www.lavanguardia.com/politica/20260818/11615935/gobierno-esquiva-senado-blindar-relato-ceuta-congreso.html"
+        "title": "El PP reclama “rearmar el Estado” en Ceuta para no depender de Rabat",
+        "link": "https://www.lavanguardia.com/politica/20260818/11616163/pp-reclama-rearmar-ceuta-depender-rabat.html"
       }
     ],
     "https://eldiariocantabria.publico.es/rss/": [
@@ -113,49 +113,53 @@
     ],
     "https://feeds.content.dowjones.io/public/rss/RSSWorldNews": [
       {
+        "title": "Trump Pauses 50% Tariff On Some Canadian Products",
+        "link": "https://www.wsj.com/economy/trade/trump-pauses-50-tariff-on-some-canadian-products-2b3fd404?mod=rss_worldnews"
+      },
+      {
         "title": "Why Canada’s Booze Ban Is Such a Sore Point in Trade Talks",
         "link": "https://www.wsj.com/world/americas/why-canadas-booze-ban-is-such-a-sore-point-in-trade-talks-c6677014?mod=rss_worldnews"
       },
       {
+        "title": "The Tiny Spanish Territory of Ceuta Is Grappling With a New Migrant Crisis",
+        "link": "https://www.wsj.com/world/europe/the-tiny-spanish-territory-of-ceuta-is-grappling-with-a-new-migrant-crisis-5762ebb9?mod=rss_worldnews"
+      },
+      {
+        "title": "Trump Pushes for Kim Jong Un Meeting This Year",
+        "link": "https://www.wsj.com/world/asia/trump-pushes-for-kim-jong-un-meeting-this-year-2a9f9ae0?mod=rss_worldnews"
+      },
+      {
         "title": "Iran’s Attacks on Ships in Hormuz Mount, Testing U.S. Military Restraint",
         "link": "https://www.wsj.com/world/middle-east/irans-attacks-on-ships-in-hormuz-pile-up-testing-u-s-military-restraint-6ff9f5dd?mod=rss_worldnews"
-      },
-      {
-        "title": "Syria Takes Major Step to Come Clean on Past Nuclear Program",
-        "link": "https://www.wsj.com/world/middle-east/syria-takes-major-step-to-come-clean-on-past-nuclear-program-e41b6754?mod=rss_worldnews"
-      },
-      {
-        "title": "China Mourns Former Premier ‘Boss Zhu’—but on the Communist Party’s Terms",
-        "link": "https://www.wsj.com/world/china/china-mourns-former-premier-boss-zhubut-on-the-communist-partys-terms-5b2b3413?mod=rss_worldnews"
-      },
-      {
-        "title": "Pro-Business Leader Wins Re-Election in Zambia Vote Marred by Fraud Allegations",
-        "link": "https://www.wsj.com/world/africa/pro-business-leader-wins-re-election-in-zambia-vote-marred-by-fraud-allegations-9712ff98?mod=rss_worldnews"
       }
     ],
     "https://www.lemonde.fr/rss/une.xml": [
       {
-        "title": "« Vous n’imaginez pas comme les Afghanes se battent et inventent des stratégies pour survivre » : une radio féminine et des écoles clandestines comme lueurs d’espoir",
-        "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/18/vous-n-imaginez-pas-comme-les-afghanes-se-battent-et-inventent-des-strategies-pour-survivre-une-radio-feminine-et-des-ecoles-clandestines-comme-lueurs-d-espoir_6749086_3451060.html"
+        "title": "En Ukraine, l’ancien ministre de la défense Mykhaïlo Fedorov réclame la tenue d’élections et dénonce la corruption, dans un acte de défi à Volodymyr Zelensky",
+        "link": "https://www.lemonde.fr/international/article/2026/08/19/en-ukraine-l-ancien-ministre-de-la-defense-mykhailo-fedorov-reclame-la-tenue-d-elections-et-denonce-la-corruption-dans-un-acte-de-defi-a-volodymyr-zelensky_6749426_3210.html"
       },
       {
-        "title": "EN DIRECT, guerre en Ukraine : Mykhaïlo Fedorov, le populaire ex-ministre de la défense écarté par Volodymyr Zelensky, demande d’ouvrir la voie à des élections",
-        "link": "https://www.lemonde.fr/international/live/2026/08/18/en-direct-guerre-en-ukraine-andy-burnham-nouveau-premier-ministre-britannique-reaffirme-son-soutien-a-kiev-apres-les-menaces-de-la-russie_6746952_3210.html"
+        "title": "Piratage du fisc : le ministère des comptes publics présente ses « excuses » mais peine à contenir la crise",
+        "link": "https://www.lemonde.fr/politique/article/2026/08/18/piratage-du-fisc-bercy-presente-ses-excuses-mais-peine-a-contenir-la-crise_6749090_823448.html"
       },
       {
-        "title": "« Si j’ai mis ma fille dans une bouée et que je l’ai poussée dans l’eau, c’est pour son avenir » : l’horizon bouché de cette jeunesse du Maroc qui veut rejoindre Ceuta",
-        "link": "https://www.lemonde.fr/afrique/article/2026/08/18/au-maroc-l-horizon-bouche-des-jeunes-qui-revent-de-rejoindre-ceuta-j-ai-l-impression-de-faire-du-surplace-pendant-que-ma-fille-grandit_6749071_3212.html"
+        "title": "Au procès de Meta, la firme de Mark Zuckerberg accusée d’avoir ciblé les enfants et minoré les dangers d’Instagram",
+        "link": "https://www.lemonde.fr/economie/article/2026/08/19/au-proces-de-meta-la-firme-de-mark-zuckerberg-accusee-d-avoir-cible-les-enfants-et-minore-les-dangers-d-instagram_6749391_3234.html"
       },
       {
-        "title": "Piratage du site des impôts : le gouvernement détaille les trois fuites de données qui concernent aussi les données cadastrales et les successions",
-        "link": "https://www.lemonde.fr/pixels/live/2026/08/18/en-direct-piratage-du-site-des-impots-le-gouvernement-detaille-les-trois-fuites-de-donnees-qui-concernent-aussi-les-donnees-cadastrales-et-les-successions_6749047_4408996.html"
+        "title": "Le bombardement par Israël d’une base aérienne en Syrie, un avertissement à Damas et à Ankara",
+        "link": "https://www.lemonde.fr/international/article/2026/08/19/le-bombardement-par-israel-d-une-base-aerienne-en-syrie-un-avertissement-a-damas-et-a-ankara_6749427_3210.html"
       },
       {
-        "title": "Les Etats-Unis sanctionnent la juriste Tomoko Akane, présidente de la CPI",
-        "link": "https://www.lemonde.fr/international/article/2026/08/18/les-etats-unis-sanctionnent-la-presidente-de-la-cour-penale-internationale-tomoko-akane_6749085_3210.html"
+        "title": "Les exercices militaires conjoints de la Corée du Sud et des Etats-Unis écourtés de six jours, annonce Séoul après les critiques émises par Trump",
+        "link": "https://www.lemonde.fr/international/article/2026/08/19/les-exercices-militaires-conjoints-de-la-coree-du-sud-et-des-etats-unis-ecourtes-de-six-jours-annonce-seoul-apres-les-critiques-emises-par-trump_6749324_3210.html"
       }
     ],
     "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
+      {
+        "title": "Emmanuel Macron promulgue la loi sur l’aide à mourir",
+        "link": "https://www.lefigaro.fr/politique/emmanuel-macron-promulgue-la-loi-sur-l-aide-a-mourir-20260819"
+      },
       {
         "title": "« Ce n’est même plus de l’amateurisme, c’est du sabordage » : après son éloge de Jean-Luc Mélenchon, la ministre Monique Barbut à nouveau dans la tourmente",
         "link": "https://www.lefigaro.fr/politique/ce-n-est-meme-plus-de-l-amateurisme-c-est-du-sabordage-apres-son-eloge-de-jean-luc-melenchon-la-ministre-monique-barbut-a-nouveau-dans-la-tourmente-20260818"
@@ -171,32 +175,28 @@
       {
         "title": "«Elle m’a dit : “là-bas, on fait ça à toutes les petites filles”» : ces jeunes Françaises victimes d’excision dans le pays d’origine de leurs parents",
         "link": "https://www.lefigaro.fr/actualite-france/elle-m-a-dit-la-bas-on-fait-ca-a-toutes-les-petites-filles-ces-jeunes-francaises-victimes-d-excision-dans-le-pays-d-origine-de-leurs-parents-20260818"
-      },
-      {
-        "title": "Sortie dans l’espace de Sophie Adenot : revivez la sortie de l’astronaute française pour une mission de maintenance de six heures",
-        "link": "https://www.lefigaro.fr/sciences/en-direct-nasa-sophie-adenot-astronaute-iss-espace-20260818"
       }
     ],
     "https://feeds.bbci.co.uk/news/world/rss.xml": [
       {
-        "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-        "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss"
+        "title": "Sacked Ukrainian defence minister calls for presidential election",
+        "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Earthquake rocks Spain's historic Granada, injuring three",
-        "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss"
+        "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+        "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Brazil's President Lula hails oil discovery near Amazon river",
-        "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss"
+        "title": "Meta hooked children on Facebook and Instagram, US court hears",
+        "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
-        "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss"
+        "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
+        "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
-        "link": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss"
+        "title": "Husband and mother-in-law charged over Indian bride's death",
+        "link": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "https://www.theguardian.com/world/rss": [
@@ -245,6 +245,14 @@
     ],
     "https://www.ilsole24ore.com/rss/italia.xml": [
       {
+        "title": "Truffe sulle bollette per 2,9 milioni di italiani ma il dato è in calo: telefono maggior pericolo",
+        "link": "https://www.ilsole24ore.com/art/truffe-bollette-29-milioni-italiani-ma-dato-e-calo-telefono-maggior-pericolo-AJaXNDp"
+      },
+      {
+        "title": "Riapre l’alta velocità Milano-Bologna dopo otto giorni di lavori",
+        "link": "https://www.ilsole24ore.com/art/riapre-l-alta-velocita-milano-bologna-otto-giorni-lavori-AJKKiDp"
+      },
+      {
         "title": "Transizione 5.0, investimenti da 5 miliardi in due mesi",
         "link": "https://www.ilsole24ore.com/art/transizione-50-investimenti-5-miliardi-due-mesi-AJbSxWn"
       },
@@ -255,14 +263,6 @@
       {
         "title": "San Marzano by night, nell’Agro Sarnese-Nocerino la raccolta dei pomodori è in notturna",
         "link": "https://www.ilsole24ore.com/art/san-marzano-by-night-nell-agro-sarnese-nocerino-raccolta-pomodori-e-notturna-AJ9Pdso"
-      },
-      {
-        "title": "Piano Casa, si parte: bando da 700 milioni a settembre per gli alloggi popolari",
-        "link": "https://www.ilsole24ore.com/art/piano-casa-si-parte-bando-700-milioni-settembre-gli-alloggi-popolari-AJdALPo"
-      },
-      {
-        "title": "Ippica, è morto Varenne: il più grande trottatore di tutti i tempi",
-        "link": "https://www.ilsole24ore.com/art/ippica-e-morto-varenne-piu-grande-trottatore-tutti-tempi-AJavcto"
       }
     ],
     "https://www.spiegel.de/international/index.rss": [
@@ -289,6 +289,14 @@
     ],
     "https://rss.dw.com/rdf/rss-en-world": [
       {
+        "title": "US: Meta hooked children, prosecutors say, as trial over social media harm begins",
+        "link": "https://www.dw.com/en/us-meta-hooked-children-prosecutors-say-as-trial-over-social-media-harm-begins/a-78408050?maca=en-rss-en-world-4025-rdf"
+      },
+      {
+        "title": "German Africa Prize goes to Kenyan social entrepreneur",
+        "link": "https://www.dw.com/en/german-africa-prize-goes-to-kenyan-social-entrepreneur/a-78417681?maca=en-rss-en-world-4025-rdf"
+      },
+      {
         "title": "Minors living alone on Ceuta's streets at risk of abuse",
         "link": "https://www.dw.com/en/minors-living-alone-on-ceuta-s-streets-at-risk-of-abuse/a-78416604?maca=en-rss-en-world-4025-rdf"
       },
@@ -299,36 +307,28 @@
       {
         "title": "Should India be worried about the Mecca defense pact?",
         "link": "https://www.dw.com/en/should-india-be-worried-about-the-mecca-defense-pact/a-78415444?maca=en-rss-en-world-4025-rdf"
-      },
-      {
-        "title": "Fact check: How do I spot AI-generated images?",
-        "link": "https://www.dw.com/en/fact-check-how-do-i-spot-ai-generated-images/a-65252602?maca=en-rss-en-world-4025-rdf"
-      },
-      {
-        "title": "Belgium wildfire: Rains help High Fens containment efforts",
-        "link": "https://www.dw.com/en/belgium-wildfire-rains-help-high-fens-containment-efforts/a-78411972?maca=en-rss-en-world-4025-rdf"
       }
     ],
     "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml": [
       {
-        "title": "Amiga de Lulinha encaminhou minuta de contrato a ex-chefe de gabinete de Lula",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/amiga-de-lulinha-encaminhou-minuta-de-contrato-a-ex-chefe-de-gabinete-de-lula.shtml"
+        "title": "Glória Menezes: relembre papéis marcantes da 'primeira-dama' que comoveu gerações e ajudou a escrever a história da TV brasileira",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/gloria-menezes-relembre-papeis-marcantes-da-primeira-dama-que-comoveu-geracoes-e-ajudou-a-escrever-a-historia-da-tv-brasileira.shtml"
       },
       {
-        "title": "Nem Glória, nem Menezes: saiba o nome verdadeiro e outras curiosidades da vida da artista",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/nem-gloria-nem-menezes-saiba-o-nome-verdadeiro-e-outras-curiosidades-da-vida-da-artista.shtml"
+        "title": "TSE encerra ação do PT após desistência e destrava repasses do fundo eleitoral",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/tse-encerra-acao-do-pt-apos-desistencia-e-destrava-repasses-do-fundo-eleitoral.shtml"
       },
       {
-        "title": "Ministros defendem diploma para jornalistas, e Dino diz que sigilo da fonte não é absoluto",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/ministros-defendem-diploma-para-jornalistas-e-dino-diz-que-sigilo-da-fonte-nao-e-absoluto.shtml"
+        "title": "SBT resgata episódios raros de Chaves para comemorar 45 anos da emissora",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/08/sbt-resgata-episodios-raros-de-chaves-para-comemorar-45-anos-da-emissora.shtml"
       },
       {
-        "title": "'Que dia triste': internautas lamentam mortes de Laura Cardoso e Glória Menezes",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/08/que-dia-triste-internautas-lamentam-mortes-de-laura-cardoso-e-gloria-menezes.shtml"
+        "title": "Trump manda repórter se calar, e Casa Branca diz que filhos 'vão se envergonhar' dela",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/trump-manda-reporter-se-calar-e-casa-branca-diz-que-filhos-vao-se-envergonhar-dela.shtml"
       },
       {
-        "title": "'Star quality' de Glória Menezes moldou as novelas brasileiras",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/star-quality-de-gloria-menezes-moldou-as-novelas-brasileiras.shtml"
+        "title": "Juíza diz que medidas cautelares não são suficientes para proteger mulher do marido empresário em SP",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/juiza-diz-que-medidas-cautelares-nao-sao-suficientes-para-proteger-mulher-do-marido-empresario-em-sp.shtml"
       }
     ],
     "https://oglobo.globo.com/rss.xml": []
