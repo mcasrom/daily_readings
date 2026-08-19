@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 53.7°C | ⚖ Load: 0.00 | 🌐 Ping: 16.5ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 53.7°C | ⚖ Load: 0.00 | 🌐 Ping: 14.5ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,11 +41,11 @@
 
 *** El País
 
-- [[https://elpais.com/internacional/2026-08-18/trump-declara-el-estrecho-de-ormuz-nuevo-territorio-de-estados-unidos.html][Trump declara el estrecho de Ormuz “nuevo territorio de Estados Unidos”]]
-- [[https://elpais.com/internacional/2026-08-18/la-casa-blanca-se-abalanza-contra-un-senador-democrata-por-hablar-de-natalie-harp-la-impresora-humana-de-trump.html][La Casa Blanca se abalanza contra un senador demócrata por hablar de Natalie Harp, la “impresora humana” de Trump]]
-- [[https://elpais.com/cultura/2026-08-18/muere-a-los-83-anos-el-mago-juan-tamariz-genio-de-la-cartomagia-y-maestro-de-generaciones-de-ilusionistas.html][Muere a los 83 años el mago Juan Tamariz, genio de la cartomagia y maestro de generaciones de ilusionistas]]
-- [[https://elpais.com/cultura/2026-08-18/juan-tamariz-genio-de-lo-cotidiano-y-poeta-de-lo-imposible.html][Juan Tamariz, genio de lo cotidiano y poeta de lo imposible]]
-- [[https://elpais.com/cultura/2026-08-18/juan-tamariz-el-ultimo-maestro.html][Juan Tamariz, el último maestro]]
+- [[https://elpais.com/espana/2026-08-19/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html][Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno trabaja en el traslado urgente de 500 niñas migrantes de Ceuta a la Península]]
+- [[https://elpais.com/espana/2026-08-19/los-motivos-de-la-joven-wafae-para-no-volver-a-marruecos-las-mujeres-estamos-por-debajo-de-los-hombres-y-no-quiero-cubrirme-como-pide-mi-familia.html][Los motivos de la joven Wafae para no volver a Marruecos: “Las mujeres estamos por debajo de los hombres y no quiero cubrirme como pide mi familia”]]
+- [[https://elpais.com/espana/2026-08-19/los-menores-que-no-querian-su-traslado-a-la-peninsula-ya-tenia-media-vida-hecha-en-tenerife.html][Los menores que no querían su traslado a la Península: “Ya tenía media vida hecha en Tenerife”]]
+- [[https://elpais.com/clima-y-medio-ambiente/2026-08-19/la-gran-sequia-devora-el-corazon-de-europa-cosechas-en-minimos-restricciones-historicas-y-la-economia-estancada.html][La gran sequía devora el corazón de Europa: cosechas en mínimos, restricciones históricas y la economía estancada]]
+- [[https://elpais.com/clima-y-medio-ambiente/2026-08-18/la-ola-de-calor-mas-preocupante-del-verano-viene-del-mar.html][La ola de calor más preocupante del verano está en el mar: “Puede provocar fenómenos meteorológicos extremos en tierra”]]
 
 *** El Mundo
 
@@ -57,19 +57,19 @@
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/politica/20260818/11616152/bruselas-avala-devolucion-menores-acompanados-marruecos.html][Bruselas recuerda que es posible la devolución de los menores a Marruecos con condiciones]]
-- [[https://www.lavanguardia.com/politica/20260818/11615761/interior-eleva-2-168-menores-migrantes-registrados-ceuta.html][Interior eleva a 2.168 los menores migrantes registrados en Ceuta]]
-- [[https://www.lavanguardia.com/politica/20260818/11615975/jueces-piden-refuerzos-ceuta-frente-crisis-migratoria.html][Los jueces piden refuerzos en Ceuta para “hacer frente a la crisis migratoria”]]
+- [[https://www.lavanguardia.com/politica/20260819/11616198/gobierno-planea-trasladar-migrantes-peninsula-pese-malestar-causan-ceuta.html][El Gobierno no planea trasladar migrantes a la Península pese al malestar que causan en Ceuta]]
+- [[https://www.lavanguardia.com/politica/20260818/11616152/bruselas-avala-devolucion-menores-acompanados-marruecos.html][Bruselas avala la devolución de los menores no acompañados a Marruecos]]
 - [[https://www.lavanguardia.com/opinion/20260819/11616204/negar-evidencia.html][Negar la evidencia]]
-- [[https://www.lavanguardia.com/politica/20260818/11616163/pp-reclama-rearmar-ceuta-depender-rabat.html][El PP reclama “rearmar el Estado” en Ceuta para no depender de Rabat]]
+- [[https://www.lavanguardia.com/opinion/20260819/11615964/gambito-marroqui.html][El gambito marroquí]]
+- [[https://www.lavanguardia.com/internacional/20260819/11616409/el-exministro-de-defensa-destituido-fedorov-desafia-a-zelenski-y-pide-elecciones-en-ucrania.html][El exministro de Defensa destituido Fédorov desafía a Zelenski y pide elecciones en Ucrania]]
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/deportes/parte-medico-pedro-sufre-micro-rotura-isquiotibiales-pierna-derecha/20260818202001197403.html][Parte médico de Pedro Felipe: sufre una micro-rotura en los isquiotibiales de la pierna derecha]]
-- [[https://eldiariocantabria.publico.es/articulo/memoria/homenaje-ciriego-rafael-rodriguez-rapun-cada-ano-poco-menos-solo/20260818200631197401.html][Homenaje en Ciriego a Rafael Rodríguez Rapún: "Cada año, un poco menos solo"]]
-- [[https://eldiariocantabria.publico.es/articulo/campoo/calles-acogeran-3-octubre-nueva-edicion-milla-urbana-legua-nocturna/20260818195535197399.html][Las calles acogerán el 3 de octubre una nueva edición de la Milla Urbana y la Legua Nocturna]]
-- [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/obras-modernizar-vestuarios-complejo-deportivo-cros-arrancaran-verano/20260818191923197396.html][Las obras para modernizar los vestuarios del complejo deportivo de Cros arrancarán tras el verano]]
-- [[https://eldiariocantabria.publico.es/articulo/torrelavega/aprobadas-bases-cubrir-tres-plazas-conserje-ayudante-limpieza-viaria/20260818185658197394.html][Aprobadas las bases para cubrir tres plazas de conserje y una de ayudante de limpieza viaria]]
+- [[https://eldiariocantabria.publico.es/articulo/sanidad/gobierno-parece-pensar-que-cualquier-cosa-vale-zonas-rurales-denuncian-deficiencias-nueva-unidad-movil-cancer-mama/20260819115534197412.html]["Este Gobierno parece pensar que cualquier cosa vale en zonas rurales": denuncian deficiencias en la nueva unidad móvil de cáncer de mama]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/policia-santander-sorprende-conductor-carne-suspendido-que-duplicaba-tasa-alcohol/20260819113757197410.html][La Policía de Santander sorprende a un conductor con el carné suspendido y a otro que duplicaba la tasa de alcohol]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/santander-suma-siete-noches-tropicales-seguidas-baja-20-grados-eclipse/20260819112624197409.html][Santander encadena siete noches tropicales seguidas sin bajar de los 20 grados desde el eclipse]]
+- [[https://eldiariocantabria.publico.es/articulo/oriental/permitir-abuso-ocupacion-espacio-publico-terrazas-hosteleria/20260819111017197408.html][Acusan al alcalde de permitir el "abuso" en la ocupación de la vía pública: "Ha entregado el espacio público al negocio privado"]]
+- [[https://eldiariocantabria.publico.es/articulo/politica/soberon-carga-silencio-buruaga-80-viviendas-vacias-guarnizo/20260819104510197407.html][Soberón carga contra el "silencio" de Buruaga ante las 80 viviendas vacías de Guarnizo: "Seguimos sin señales de vida"]]
 
 ** 🇺🇸 Estados Unidos
 
@@ -83,7 +83,7 @@
 
 *** WSJ.com: World News
 
-- [[https://www.wsj.com/economy/trade/trump-pauses-50-tariff-on-some-canadian-products-2b3fd404?mod=rss_worldnews][Trump Pauses 50% Tariff On Some Canadian Products]]
+- [[https://www.wsj.com/economy/trade/trump-pauses-50-tariff-on-some-canadian-products-2b3fd404?mod=rss_worldnews][Trump Pauses 50% Tariff on Some Canadian Products]]
 - [[https://www.wsj.com/world/americas/why-canadas-booze-ban-is-such-a-sore-point-in-trade-talks-c6677014?mod=rss_worldnews][Why Canada’s Booze Ban Is Such a Sore Point in Trade Talks]]
 - [[https://www.wsj.com/world/europe/the-tiny-spanish-territory-of-ceuta-is-grappling-with-a-new-migrant-crisis-5762ebb9?mod=rss_worldnews][The Tiny Spanish Territory of Ceuta Is Grappling With a New Migrant Crisis]]
 - [[https://www.wsj.com/world/asia/trump-pushes-for-kim-jong-un-meeting-this-year-2a9f9ae0?mod=rss_worldnews][Trump Pushes for Kim Jong Un Meeting This Year]]
@@ -93,29 +93,29 @@
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/article/2026/08/19/en-ukraine-l-ancien-ministre-de-la-defense-mykhailo-fedorov-reclame-la-tenue-d-elections-et-denonce-la-corruption-dans-un-acte-de-defi-a-volodymyr-zelensky_6749426_3210.html][En Ukraine, l’ancien ministre de la défense Mykhaïlo Fedorov réclame la tenue d’élections et dénonce la corruption, dans un acte de défi à Volodymyr Zelensky]]
-- [[https://www.lemonde.fr/politique/article/2026/08/18/piratage-du-fisc-bercy-presente-ses-excuses-mais-peine-a-contenir-la-crise_6749090_823448.html][Piratage du fisc : le ministère des comptes publics présente ses « excuses » mais peine à contenir la crise]]
-- [[https://www.lemonde.fr/economie/article/2026/08/19/au-proces-de-meta-la-firme-de-mark-zuckerberg-accusee-d-avoir-cible-les-enfants-et-minore-les-dangers-d-instagram_6749391_3234.html][Au procès de Meta, la firme de Mark Zuckerberg accusée d’avoir ciblé les enfants et minoré les dangers d’Instagram]]
-- [[https://www.lemonde.fr/international/article/2026/08/19/le-bombardement-par-israel-d-une-base-aerienne-en-syrie-un-avertissement-a-damas-et-a-ankara_6749427_3210.html][Le bombardement par Israël d’une base aérienne en Syrie, un avertissement à Damas et à Ankara]]
-- [[https://www.lemonde.fr/international/article/2026/08/19/les-exercices-militaires-conjoints-de-la-coree-du-sud-et-des-etats-unis-ecourtes-de-six-jours-annonce-seoul-apres-les-critiques-emises-par-trump_6749324_3210.html][Les exercices militaires conjoints de la Corée du Sud et des Etats-Unis écourtés de six jours, annonce Séoul après les critiques émises par Trump]]
+- [[https://www.lemonde.fr/politique/article/2026/08/19/la-hausse-du-chomage-enterre-la-promesse-d-emmanuel-macron-de-retrouver-le-plein-emploi_6749465_823448.html][La hausse du chômage enterre la promesse d’Emmanuel Macron de retrouver le plein-emploi]]
+- [[https://www.lemonde.fr/international/article/2026/08/19/en-ukraine-l-ancien-ministre-de-la-defense-mykhailo-fedorov-reclame-la-tenue-d-elections-et-denonce-la-corruption-dans-un-acte-de-defi-a-volodymyr-zelensky_6749426_3210.html][Mykhaïlo Fedorov, l’ex-ministre de la défense ukrainien, réclame la tenue d’élections et dénonce la corruption, dans un acte de défi à Volodymyr Zelensky]]
+- [[https://www.lemonde.fr/climat/article/2026/08/19/la-vague-de-chaleur-en-cours-est-la-seconde-plus-longue-jamais-enregistree-avec-22-jours-d-affilee_6749811_1652612.html][La vague de chaleur en cours est la deuxième plus longue jamais enregistrée avec 22 jours d’affilée]]
+- [[https://www.lemonde.fr/idees/article/2026/08/19/reconnaitre-le-courage-des-femmes-d-afghanistan_6749813_3232.html][Reconnaître le courage des femmes d’Afghanistan]]
+- [[https://www.lemonde.fr/idees/article/2026/08/19/l-usage-des-grands-reservoirs-artificiels-temoigne-d-une-meconnaissance-des-cycles-de-l-eau-et-des-causes-de-leur-degradation_6749468_3232.html][« L’usage des grands réservoirs artificiels témoigne d’une méconnaissance des cycles de l’eau et des causes de leur dégradation »]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/politique/emmanuel-macron-promulgue-la-loi-sur-l-aide-a-mourir-20260819][Emmanuel Macron promulgue la loi sur l’aide à mourir]]
-- [[https://www.lefigaro.fr/politique/ce-n-est-meme-plus-de-l-amateurisme-c-est-du-sabordage-apres-son-eloge-de-jean-luc-melenchon-la-ministre-monique-barbut-a-nouveau-dans-la-tourmente-20260818][« Ce n’est même plus de l’amateurisme, c’est du sabordage » : après son éloge de Jean-Luc Mélenchon, la ministre Monique Barbut à nouveau dans la tourmente]]
-- [[https://www.lefigaro.fr/vox/politique/l-editorial-d-yves-threard-monique-barbut-l-ete-brulant-de-madame-transat-20260818][L’éditorial d’Yves Thréard : « Monique Barbut, l’été brûlant de “Madame Transat” »]]
-- [[https://www.lefigaro.fr/politique/apres-son-eloge-du-programme-ecologique-de-lfi-monique-barbut-peut-elle-rester-au-gouvernement-20260818][Après son éloge du programme écologique de LFI, Monique Barbut peut-elle rester au gouvernement ?]]
-- [[https://www.lefigaro.fr/actualite-france/elle-m-a-dit-la-bas-on-fait-ca-a-toutes-les-petites-filles-ces-jeunes-francaises-victimes-d-excision-dans-le-pays-d-origine-de-leurs-parents-20260818][«Elle m’a dit : “là-bas, on fait ça à toutes les petites filles”» : ces jeunes Françaises victimes d’excision dans le pays d’origine de leurs parents]]
+- [[https://www.lefigaro.fr/meteo/la-vague-de-chaleur-en-cours-devient-la-deuxieme-plus-longue-jamais-enregistree-en-france-20260819][La vague de chaleur en cours devient la deuxième plus longue jamais enregistrée en France]]
+- [[https://www.lefigaro.fr/conso/secheresse-bientot-des-fruits-et-legumes-moches-et-plus-petits-sur-les-etals-des-supermarches-20260819][Sécheresse : bientôt des fruits et légumes «moches» et plus petits sur les étals des supermarchés ?]]
+- [[https://www.lefigaro.fr/animaux/il-est-desormais-interdit-de-laisser-son-chien-seul-dans-la-voiture-lors-des-fortes-chaleurs-dans-ces-6-villes-francaises-20260819][Il est désormais interdit de laisser son chien seul dans la voiture, lors des fortes chaleurs, dans ces 6 villes françaises]]
+- [[https://www.lefigaro.fr/sports/football/foot-menaces-de-disparition-les-girondins-de-bordeaux-abattent-leur-derniere-carte-20260818][Une décision «absurde et rigide» : monument du football français, les Girondins de Bordeaux vont-ils disparaître ?]]
+- [[https://www.lefigaro.fr/actualite-france/c-est-l-un-des-meilleurs-systemes-scolaires-du-monde-notre-classement-de-37-pensionnats-britanniques-pour-les-eleves-francais-20260218][« C’est l’un des meilleurs systèmes scolaires du monde » : notre classement de 37 pensionnats britanniques pour les élèves français]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
 - [[https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss][Sacked Ukrainian defence minister calls for presidential election]]
-- [[https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss][Trump pauses new tariffs on Canada and says countries close to a deal]]
+- [[https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss][Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told]]
+- [[https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss][Trump pauses new tariffs on Canada for three days, saying deal close]]
 - [[https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss][Meta hooked children on Facebook and Instagram, US court hears]]
-- [[https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss][Witness gets combative in Tupac murder trial - 'I don't want to send him to prison']]
-- [[https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss][Husband and mother-in-law charged over Indian bride's death]]
+- [[https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss][South Korea shortens war games with US, citing Washington request]]
 
 *** The Guardian
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
+- [[https://www.ilsole24ore.com/art/carburanti-ultima-settimana-taglio-accise-e-gasolio-torna-sopra-21-euro-litro-AJKBWap][Carburanti, ultima settimana di taglio accise. E il gasolio torna sopra 2,1 euro al litro]]
+- [[https://www.ilsole24ore.com/art/sicurezza-stradale-crescita-numero-pedoni-morti-investimento-AJcNeYp][Sicurezza stradale, in crescita il numero di pedoni morti dopo investimento]]
+- [[https://www.ilsole24ore.com/art/energia-ue-flessibilita-spesa-ad-ampio-spettro-AJb3zvo][Energia, dalla Ue flessibilità di spesa ad ampio spettro]]
 - [[https://www.ilsole24ore.com/art/truffe-bollette-29-milioni-italiani-ma-dato-e-calo-telefono-maggior-pericolo-AJaXNDp][Truffe sulle bollette per 2,9 milioni di italiani ma il dato è in calo: telefono maggior pericolo]]
 - [[https://www.ilsole24ore.com/art/riapre-l-alta-velocita-milano-bologna-otto-giorni-lavori-AJKKiDp][Riapre l’alta velocità Milano-Bologna dopo otto giorni di lavori]]
-- [[https://www.ilsole24ore.com/art/transizione-50-investimenti-5-miliardi-due-mesi-AJbSxWn][Transizione 5.0, investimenti da 5 miliardi in due mesi]]
-- [[https://www.ilsole24ore.com/art/migranti-svizzera-come-germania-rimanda-italia-richiedenti-asilo-non-sua-competenza-AJNFQyo][Migranti, la Svizzera come la Germania: rimanda in Italia i richiedenti asilo non di sua competenza]]
-- [[https://www.ilsole24ore.com/art/san-marzano-by-night-nell-agro-sarnese-nocerino-raccolta-pomodori-e-notturna-AJ9Pdso][San Marzano by night, nell’Agro Sarnese-Nocerino la raccolta dei pomodori è in notturna]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/in-drought-stricken-france-tankers-supply-drinking-water/a-78420016?maca=en-rss-en-world-4025-rdf][In drought-stricken France, tankers supply drinking water]]
 - [[https://www.dw.com/en/us-meta-hooked-children-prosecutors-say-as-trial-over-social-media-harm-begins/a-78408050?maca=en-rss-en-world-4025-rdf][US: Meta hooked children, prosecutors say, as trial over social media harm begins]]
 - [[https://www.dw.com/en/german-africa-prize-goes-to-kenyan-social-entrepreneur/a-78417681?maca=en-rss-en-world-4025-rdf][German Africa Prize goes to Kenyan social entrepreneur]]
 - [[https://www.dw.com/en/minors-living-alone-on-ceuta-s-streets-at-risk-of-abuse/a-78416604?maca=en-rss-en-world-4025-rdf][Minors living alone on Ceuta's streets at risk of abuse]]
 - [[https://www.dw.com/en/afghanistan-only-5-of-labor-market-are-women-under-taliban/a-78415895?maca=en-rss-en-world-4025-rdf][Afghanistan: Only 5% of labor market are women under Taliban]]
-- [[https://www.dw.com/en/should-india-be-worried-about-the-mecca-defense-pact/a-78415444?maca=en-rss-en-world-4025-rdf][Should India be worried about the Mecca defense pact?]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/gloria-menezes-relembre-papeis-marcantes-da-primeira-dama-que-comoveu-geracoes-e-ajudou-a-escrever-a-historia-da-tv-brasileira.shtml][Glória Menezes: relembre papéis marcantes da 'primeira-dama' que comoveu gerações e ajudou a escrever a história da TV brasileira]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/tse-encerra-acao-do-pt-apos-desistencia-e-destrava-repasses-do-fundo-eleitoral.shtml][TSE encerra ação do PT após desistência e destrava repasses do fundo eleitoral]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/08/sbt-resgata-episodios-raros-de-chaves-para-comemorar-45-anos-da-emissora.shtml][SBT resgata episódios raros de Chaves para comemorar 45 anos da emissora]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/trump-manda-reporter-se-calar-e-casa-branca-diz-que-filhos-vao-se-envergonhar-dela.shtml][Trump manda repórter se calar, e Casa Branca diz que filhos 'vão se envergonhar' dela]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/juiza-diz-que-medidas-cautelares-nao-sao-suficientes-para-proteger-mulher-do-marido-empresario-em-sp.shtml][Juíza diz que medidas cautelares não são suficientes para proteger mulher do marido empresário em SP]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/cenipa-aponta-falhas-no-freio-e-possivel-piloto-nao-habilitado-em-saida-de-pista-de-jatinho-no-rs.shtml][Cenipa aponta falhas no freio e possível piloto não habilitado em saída de pista de jatinho no RS]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/08/moda-penitenciaria-busca-por-roupas-para-quem-vai-visitar-detentos-cresce-nas-redes.shtml][Moda penitenciária: Busca por roupas para quem vai visitar detentos cresce nas redes]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/brasil-ve-disparada-na-apreensao-de-maconha-gourmet-produzida-nos-eua.shtml][Brasil vê disparada na apreensão de 'maconha gourmet' produzida nos EUA]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/sociedade-de-pediatria-desaconselha-fotos-com-pacientes-em-redes-sociais-e-upload-de-imagens-de-ia.shtml][Sociedade de Pediatria desaconselha fotos com pacientes em redes sociais e upload de imagens de IA]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/via-lactea-devorou-galaxia-ana-cerca-de-118-bilhoes-de-anos-atras.shtml][Via Láctea devorou galáxia anã cerca de 11,8 bilhões de anos atrás]]
 
 *** O Globo
 
