@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
-#+HTML: <div class='telemetry'>🌡 52.6°C | ⚖ Load: 0.32 | 🌐 Ping: 11.6ms</div>
+#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
+#+HTML: <div class='telemetry'>🌡 52.6°C | ⚖ Load: 0.01 | 🌐 Ping: 9.56ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,41 +41,41 @@
 
 *** El País
 
-- [[https://elpais.com/espana/2026-08-23/elma-saiz-algunos-quieren-inmigrantes-pero-sin-derechos-quieren-ciudadanos-de-primera-y-de-segunda.html][Elma Saiz: “Algunos quieren inmigrantes, pero sin derechos. Quieren ciudadanos de primera y de segunda”]]
-- [[https://elpais.com/espana/2026-08-23/feijoo-ahonda-en-la-crisis-de-salud-publica-en-ceuta.html][Feijóo ahonda en la “crisis de salud pública” en Ceuta]]
-- [[https://elpais.com/espana/2026-08-23/ceuta-la-crisis-imposible.html][Ceuta, la crisis imposible]]
-- [[https://elpais.com/espana/2026-08-23/la-vida-de-cuatro-mujeres-migrantes-varadas-en-ceuta-el-miedo-mas-grande-es-a-que-me-devuelvan.html][La vida de cuatro mujeres migrantes varadas en Ceuta: “El miedo más grande es a que me devuelvan”]]
-- [[https://elpais.com/espana/2026-08-23/juan-jesus-vivas-un-politico-catapultado-por-la-crisis.html][Juan Jesús Vivas, un político catapultado por la crisis]]
+- [[https://elpais.com/economia/vivienda/2026-08-24/la-larga-escalada-de-la-vivienda-las-casas-duplican-el-precio-tras-12-anos-de-subidas-ininterrumpidas.html][La larga escalada de la vivienda: las casas duplican el precio tras 12 años de subidas ininterrumpidas]]
+- [[https://elpais.com/espana/2026-08-24/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html][Última hora de la entrada de inmigrantes a Ceuta, en directo | Elma Saiz considera una “irresponsabilidad mayúscula” las declaraciones de Feijóo sobre confinar Ceuta]]
+- [[https://elpais.com/espana/2026-08-24/la-frontera-interior-de-ceuta.html][La frontera interior de Ceuta]]
+- [[https://elpais.com/espana/2026-08-24/justicia-urge-al-poder-judicial-a-tramitar-los-refuerzos-para-ceuta-el-ministerio-tiene-todo-preparado.html][El Gobierno urge al Poder Judicial a tramitar los refuerzos para Ceuta: “El Ministerio tiene todo preparado”]]
+- [[https://elpais.com/internacional/2026-08-24/washington-no-se-acostumbra-a-la-guardia-nacional-un-ano-despues-de-que-trump-enviara-las-tropas.html][Washington no se acostumbra a la Guardia Nacional un año después de que Trump enviara las tropas]]
 
 *** El Mundo
 
 - [[https://www.elmundo.es/espana/2026/08/23/6a8ad5a5e4d4d8e00d8b4571.html][Los 25 días de "locura" de Juan Vivas en Ceuta: "¿Quién nos asegura que mañana no van a meter a 200.000 y se llevan Ceuta por delante?"]]
-- [[https://www.elmundo.es/espana/2026/08/23/6a8ae403fc6c83444d8b45ac.html][Gestos obscenos a una ceutí, asfixia entre migrantes y un "fuera, a tu país, mientras le daba patadas": las tres violencias que sacuden Ceuta desde el 30-J]]
+- [[https://www.elmundo.es/espana/2026/08/23/6a8ae403fc6c83444d8b45ac.html][Gestos obscenos a una ceutí, asfixia entre migrantes y un "fuera, a tu país" mientras le daba patadas: las tres violencias que sacuden Ceuta desde el 30-J]]
 - [[https://www.elmundo.es/economia/2026/08/23/6a86dae8e85ece985e8b4585.html][Zapatero, Carmona y Gaspart, la llave española para entrar en el nuevo gran experimento económico de China]]
 - [[https://www.elmundo.es/espana/2026/08/23/6a8adc58e9cf4acc348b4573.html][Líder de su propio mundo y el mayor fracaso muy vigente en Rabat]]
-- [[https://www.elmundo.es/economia/empresas/2026/08/23/6a79fc99e85ece614f8b4585.html][Relevo extranjero en el ladrillo español: más de la mitad de los peones de construcción y el 48% de los albañiles ya son de origen inmigrante]]
+- [[https://www.elmundo.es/internacional/2026/08/24/6a89c5bce85ecedf6e8b45a1.html][Las cuatro resurrecciones de Morten Messerschmidt, el azote danés de España]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/internacional/20260823/11618197/crisis-ensanan-europa.html][El clima extremo se ensaña con Europa y agrava su crisis política]]
-- [[https://www.lavanguardia.com/internacional/20260823/11618202/bruselas-suaviza-politicas-climaticas-presion-industria-paises.html][Bruselas suaviza sus políticas climáticas por la presión de la industria y de algunos países]]
-- [[https://www.lavanguardia.com/vida/20260823/11616520/ebro-mediterraneo.html][El Ebro contra el Mediterráneo]]
-- [[https://www.lavanguardia.com/local/barcelona/20260823/11618633/alcaldes-costa-dourada-piden-reformar-tren-evitar-nuevas-inundaciones.html][Alcaldes de la Costa Daurada piden reformar la vía del tren para evitar nuevas inundaciones]]
-- [[https://www.lavanguardia.com/politica/20260823/11618238/crisis-ceuta-abre-brecha-politica-migratoria-vecindad.html][La crisis de Ceuta abre otra brecha: la política migratoria y de vecindad]]
+- [[https://www.lavanguardia.com/vida/20260824/11618644/diseno-virus-ia-alerta-investigadores-sobre-bioseguridad.html][El diseño de virus con IA dispara las alarmas sobre la bioseguridad]]
+- [[https://www.lavanguardia.com/opinion/20260824/11618546/cursar-bioterrorismo-online.html][Cursar bioterrorismo online]]
+- [[https://www.lavanguardia.com/economia/20260824/11618630/exiliados-precio-vivienda-baleares-lanzan-comprar-casa-asturias.html][Exiliados por el precio de la vivienda: los baleares se lanzan a comprar casa en Asturias]]
+- [[https://www.lavanguardia.com/politica/20260823/11618620/10-preguntas-deberian-responder-ministros-sobre-crisis-ceuta-congreso.html][Las 10 preguntas que deberían responder los ministros sobre la crisis de Ceuta en el Congreso]]
+- [[https://www.lavanguardia.com/politica/20260824/11618623/esperando-respuesta.html][Esperando una respuesta]]
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/santander/juzgado-admite-recurso-iu-cierre-vial-arco-banco-santander/20260824115020197598.html][El juzgado admite el recurso de IU contra el cierre al tráfico del vial bajo el arco del Banco Santander]]
+- [[https://eldiariocantabria.publico.es/articulo/campoo/camino-entre-ormas-hoz-abiada-sera-acondicionado-inversion-40000-euros/20260824111448197597.html][El camino entre Ormas y Hoz de Abiada será acondicionado con una inversión de 40.000 euros]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/denuncian-que-laherran-vuelve-romper-tercera-vez-precinto-sigue-operando-licencia-pielagos/20260824105643197595.html][Denuncian que Laherrán rompe por tercera vez el precinto para seguir operando "sin licencia" en la cantera de Arce]]
+- [[https://eldiariocantabria.publico.es/articulo/educacion/podemos-acusa-educacion-usar-cupos-profesorado-como-venganza-politica-escuela-publica/20260824103440197594.html][Acusan a Silva de usar los cupos de profesorado como una "venganza política" contra las reivindicaciones docentes]]
 - [[https://eldiariocantabria.publico.es/articulo/deportes/amarga-derrota-coliseum/20260823230701197592.html][Amarga derrota en el Coliseum]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/mundo-reves-turistas-quejan-vecinos-utilizar-coches-dejar-puertas-casas-abiertas-pueblo-cantabria/20260823222631197590.html][El mundo al revés: los turistas se quejan de los vecinos por utilizar sus coches o dejar las puertas de sus casas abiertas en este pueblo de Cantabria]]
-- [[https://eldiariocantabria.publico.es/articulo/torrelavega/voloteando-gana-concurso-carrozas-gala-floral/20260823211508197588.html][‘Voloteando’ gana el concurso de carrozas de la Gala Floral]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/prc-pide-ejecutar-mocion-aprobada-proteger-palas-cantabras-santander/20260823210812197586.html][El PRC pide ejecutar la moción aprobada para proteger las palas cántabras en Santander]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/cantabria-alcanza-35-grados-varios-municipios-superando-33-domingo/20260823205207197584.html][Cantabria alcanza los 35 grados, con varios municipios superando los 33 este domingo]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
-- [[https://www.washingtonpost.com/world/2026/08/22/shes-trump-acolyte-hes-gringo-sandinista-meet-harps/][She’s a Trump acolyte. He’s a ‘gringo Sandinista.’ Meet the Harps.]]
+- /Feed no disponible temporalmente/
 
 *** WSJ.com: World News
 
@@ -89,29 +89,29 @@
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/politique/article/2026/08/24/presidentielle-2027-la-bataille-des-gauches-irreconciliables-est-lancee_6754812_823448.html][Présidentielle 2027 : la bataille des gauches irréconciliables est lancée]]
-- [[https://www.lemonde.fr/planete/article/2026/08/23/une-alimentation-bio-et-plus-vegetale-sera-bonne-a-la-fois-pour-l-environnement-et-pour-la-sante_6753751_3244.html][« Une alimentation bio et plus végétale sera bonne à la fois pour l’environnement et pour la santé »]]
-- [[https://www.lemonde.fr/societe/article/2026/08/23/paolo-campana-professeur-de-criminologie-le-crime-organise-cherche-aussi-a-se-presenter-comme-une-alternative-a-la-puissance-publique_6754098_3224.html][Paolo Campana, professeur de criminologie : « Le crime organisé cherche aussi à se présenter comme une alternative à la puissance publique »]]
-- [[https://www.lemonde.fr/sport/article/2026/08/24/arthur-fils-remporte-le-masters-1000-de-cincinnati-le-premier-sacre-d-un-francais-dans-cette-categorie-de-tournoi-depuis-2014_6754640_3242.html][Arthur Fils remporte le Masters 1000 de Cincinnati, le premier sacre d’un Français dans cette catégorie de tournoi depuis 2014]]
-- [[https://www.lemonde.fr/international/article/2026/08/23/en-chine-les-poils-sous-les-bras-naturels-ou-flashy-s-exhibent-pour-denoncer-des-canons-de-beaute-artificiels_6754201_3210.html][En Chine, les poils sous les bras, naturels ou flashy, s’exhibent pour dénoncer des canons de beauté artificiels]]
+- [[https://www.lemonde.fr/les-decodeurs/article/2026/07/02/presidentielle-2027-qui-sont-les-34-candidats-declares-et-probables_6680905_4355771.html][Présidentielle 2027 : qui sont les 32 candidats déclarés et probables ?]]
+- [[https://www.lemonde.fr/disparitions/article/2026/08/24/philippe-bouvard-journaliste-homme-de-radio-et-de-television-est-mort-a-l-age-de-96-ans_6755089_3382.html][Philippe Bouvard, journaliste, homme de radio et de télévision, est mort à l’âge de 96 ans]]
+- [[https://www.lemonde.fr/planete/article/2026/08/24/orages-dix-huit-departements-de-la-moitie-sud-du-pays-en-vigilance-orange-lundi-apres-midi_6754437_3245.html][Orages : dix-huit départements de la moitié sud du pays en vigilance orange lundi après-midi]]
+- [[https://www.lemonde.fr/international/live/2026/08/24/en-direct-guerre-en-ukraine-andy-burnham-nouveau-premier-ministre-britannique-est-a-kiev-pour-son-premier-deplacement-a-l-etranger_6753793_3210.html][EN DIRECT, guerre en Ukraine : Andy Burnham, nouveau premier ministre britannique, est à Kiev pour son premier déplacement à l’étranger]]
+- [[https://www.lemonde.fr/economie/article/2026/08/24/des-ufs-moins-nombreux-et-plus-petits-le-double-effet-de-l-ete-caniculaire-sur-les-elevages-de-poules-pondeuses_6754778_3234.html][Des œufs moins nombreux et plus petits : le double effet de l’été caniculaire sur les élevages de poules pondeuses]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/etats-unis-environ-90-000-evacues-face-au-megafeu-de-foret-hawk-dans-le-nevada-20260824][États-Unis : environ 90.000 évacués face au mégafeu de forêt «Hawk» dans le Nevada]]
-- [[https://www.lefigaro.fr/sports/le-patron-de-l-uefa-aleksander-ceferin-ne-sera-pas-candidat-a-la-presidence-de-la-fifa-20260824][Le patron de l'UEFA Aleksander Ceferin ne sera pas candidat à la présidence de la Fifa]]
-- [[https://www.lefigaro.fr/politique/presidentielle-2027-raphael-glucksmann-se-lance-dans-la-course-20260823][Présidentielle 2027 : Raphaël Glucksmann entre en course avec l’ambition de «relever la France»]]
-- [[https://www.lefigaro.fr/elections/presidentielles/raphael-glucksmann-l-europeen-convaincu-qui-veut-devenir-le-recours-de-la-gauche-face-a-jean-luc-melenchon-20260823][Raphaël Glucksmann, l’Européen convaincu qui veut devenir le recours de la gauche face à Jean-Luc Mélenchon]]
-- [[https://www.lefigaro.fr/politique/presidentielle-2027-raphael-glucksmann-peut-il-atteindre-le-second-tour-20260823][Présidentielle 2027 : Raphaël Glucksmann peut-il atteindre le second tour ?]]
+- [[https://www.lefigaro.fr/actualite-france/l-interdiction-des-telephones-portables-dans-les-lycees-pourra-etre-effective-des-la-rentree-annonce-le-gouvernement-20260824][L’interdiction des téléphones portables dans les lycées «pourra être effective dès la rentrée», annonce le gouvernement]]
+- [[https://www.lefigaro.fr/politique/presidentielle-2027-que-disent-les-derniers-sondages-20260824][Présidentielle 2027 : que disent les derniers sondages ?]]
+- [[https://www.lefigaro.fr/elections/presidentielles/les-programmes-sont-en-train-de-converger-pecresse-appelle-philippe-et-retailleau-a-un-rassemblement-de-la-droite-et-du-centre-20260824][«Les programmes sont en train de converger» : Pécresse appelle Philippe et Retailleau à «un rassemblement de la droite et du centre»]]
+- [[https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-on-va-gagner-l-election-soutient-raphael-glucksmann-qui-tend-la-main-aux-ecologistes-20260824][EN DIRECT - Présidentielle 2027 : «Le candidat le mieux placé pour l’impératif écologique», Yannick Jadot annonce soutenir Raphaël Glucksmann]]
+- [[https://www.lefigaro.fr/politique/les-milliardaires-sont-des-nuisibles-une-phrase-de-manon-aubry-a-l-universite-d-ete-de-la-france-insoumise-cree-la-polemique-20260824][«Les milliardaires sont des nuisibles» : une phrase de Manon Aubry à l’université d’été de La France insoumise crée la polémique]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss][Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine]]
+- [[https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss][Divorce, smartphones and control - BBC sees how Taliban run Afghanistan]]
+- [[https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss][Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada]]
 - [[https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss][Trump says Canada wants 'benefits' of being US state after trade talks collapse]]
-- [[https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss][Shein aims for almost $27bn valuation in stock market debut]]
-- [[https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss][Guinea rubbish landfill collapse kills 30]]
-- [[https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss][Nearly 3 million Teslas recalled in China over hidden door handles]]
+- [[https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss][Nearly three million Teslas recalled in China over hidden door handles]]
+- [[https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss][King of Norway's health has worsened, palace says]]
 
 *** The Guardian
 
@@ -133,11 +133,11 @@
 
 *** Il Sole 24 Ore
 
+- [[https://www.ilsole24ore.com/art/sisma-2016-mattarella-ultimare-risanamento-prima-possibile-oggi-attesa-meloni-AJ9IvDt][Sisma 2016, Mattarella: «Ultimare risanamento prima possibile». Oggi attesa Meloni]]
+- [[https://www.ilsole24ore.com/art/taglio-accise-fino-mercoledi-governo-cerca-risorse-un-altra-proroga-AJeiK8s][Taglio accise fino a mercoledì, il Governo cerca risorse per un’altra proroga]]
+- [[https://www.ilsole24ore.com/art/immigrati-e-rientri-ingressi-sono-stabili-ma-marocco-716percento-AJBooar][Immigrati e rientri, gli ingressi sono stabili: ma dal Marocco +71,6%]]
+- [[https://www.ilsole24ore.com/art/manovra-si-studia-taglio-tasse-tredicesime-pressing-lega-pensioni-AJcVTus][Manovra, si studia il taglio delle tasse sulle tredicesime. Pressing della Lega sulle pensioni]]
 - [[https://www.ilsole24ore.com/art/papa-leone-xiv-rimini-vescovo-anselmi-aiuti-gaza-e-campo-calcio-carcere-AJlzAts][Papa Leone XIV a Rimini, il vescovo Anselmi: aiuti per Gaza e un campo da calcio in carcere]]
-- [[https://www.ilsole24ore.com/art/giorgetti-firma-decreto-accise-mobili-sconto-gasolio-fino-26-agosto-AJPhRps][Giorgetti firma il decreto sulle accise mobili, sconto sul gasolio fino al 26 agosto]]
-- [[https://www.ilsole24ore.com/art/codice-strada-ministero-nessuna-limitazione-gli-over-85-AJ8awns][Codice della strada, il ministero: nessuna limitazione per gli over 85]]
-- [[https://www.ilsole24ore.com/art/inps-tre-milioni-giovani-utilizzano-servizi-digitali-AJmlfjs][Inps: tre milioni di giovani utilizzano i servizi digitali]]
-- [[https://www.ilsole24ore.com/art/l-appello-papa-leone-dieci-anni-terremoto-sostenere-ricostruzione-AJ15Igs][Dieci anni dal terremoto del Centro Italia, finora 4,3 mld alla ricostruzione. Lunedì Meloni ad Amatrice]]
 
 ** 🇩🇪 Alemania
 
@@ -151,21 +151,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/scientists-discover-new-immune-hubs-in-skull-bone-marrow/a-78460417?maca=en-rss-en-world-4025-rdf][Scientists discover new 'immune hubs' in skull bone marrow]]
+- [[https://www.dw.com/en/spiraling-health-costs-force-iranians-to-delay-care/a-78455430?maca=en-rss-en-world-4025-rdf][Spiraling health costs force Iranians to delay care]]
 - [[https://www.dw.com/en/could-russia-s-growing-fuel-crisis-help-end-the-ukraine-war/a-78472138?maca=en-rss-en-world-4025-rdf][Could Russia's growing fuel crisis help end the Ukraine war?]]
 - [[https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-world-4025-rdf][Ukraine: Zelenskyy rejects wartime elections]]
 - [[https://www.dw.com/en/is-the-us-seeing-a-turning-point-in-obesity-rates/a-78436782?maca=en-rss-en-world-4025-rdf][Is the US seeing a turning point in obesity rates?]]
-- [[https://www.dw.com/en/ukraine-could-ex-defense-minister-challenge-zelenskyy/a-78469496?maca=en-rss-en-world-4025-rdf][Ukraine: Could ex-defense minister challenge Zelenskyy?]]
-- [[https://www.dw.com/en/mexican-governor-facing-us-drug-charges-says-leaving-office/a-78473557?maca=en-rss-en-world-4025-rdf][Mexican governor facing US drug charges says leaving office]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/c6-no-rock-leva-multidao-ao-ibirapuera-com-classicos-do-rock-nacional.shtml][C6 no Rock leva multidão ao Ibirapuera com clássicos do rock nacional]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/debate-mico-teve-pastelao-de-cury-verborragia-de-renan-e-goianidade-de-caiado.shtml][Debate-mico teve pastelão de Cury, verborragia de Renan e goianidade de Caiado]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/perdeu-o-debate-saiba-em-8-pontos-como-foi-o-confronto-entre-caiado-renan-santos-e-augusto-cury.shtml][Perdeu o debate? Saiba em 8 pontos como foi o confronto entre Caiado, Renan Santos e Augusto Cury]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2026/08/vontade-de-abandonar-o-mundo-se-repete-na-historia-de-diferentes-povos.shtml][Vontade de abandonar o mundo se repete na história de diferentes povos]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/folha-lanca-carga-humana-serie-sobre-trafico-de-brasileiros-no-camboja.shtml][Folha lança Carga Humana, série sobre tráfico de brasileiros no Camboja]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/israel-registra-exodo-incomum-apos-guerra-e-crise-politica-interna.shtml][Israel registra êxodo incomum após guerra e crise política interna]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/08/ana-hikari-fez-20-aulas-para-dirigir-ambulancia-em-emergencia-53-era-muita-adrenalina.shtml][Ana Hikari fez 20 aulas para dirigir ambulância em 'Emergência 53': 'Era muita adrenalina']]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/numero-de-acoes-no-stf-que-contestam-decisoes-de-outros-tribunais-bate-recorde.shtml][Número de ações no STF que contestam decisões de outros tribunais bate recorde]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/oculos-de-ia-da-meta-facilitam-assedio-e-exposicao-de-mulheres-diz-estudo.shtml][Óculos de IA da Meta facilitam assédio e exposição de mulheres, diz estudo]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/fungos-e-bacterias-podem-sobreviver-na-lua-mas-sem-proliferar-sugere-estudo.shtml][Fungos e bactérias podem sobreviver na Lua, mas sem proliferar, sugere estudo]]
 
 *** O Globo
 
