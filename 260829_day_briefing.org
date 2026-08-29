@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 51.5°C | ⚖ Load: 0.09 | 🌐 Ping: 9.89ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 51.5°C | ⚖ Load: 0.16 | 🌐 Ping: 9.65ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,19 +49,19 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/08/28/6a9179dde9cf4a5a2f8b45a4.html][Albares salva a Marruecos y descarga toda la culpa de la entrada masiva en Ceuta en los "bulos" en las redes sociales]]
-- [[https://www.elmundo.es/espana/2026/08/28/6a91c14ee85ecefe378b456f.html][España pide a la UE el apoyo de Frontex un mes después del asalto para el triaje de los migrantes que siguen en Ceuta]]
-- [[https://www.elmundo.es/espana/2026/08/28/6a91c076e4d4d8514c8b45af.html][Expulsados a Marruecos once de los doce detenidos por el ataque a militares en Ceuta]]
-- [[https://www.elmundo.es/cronica/2026/08/28/6a8892c9e9cf4a197c8b456d.html][El aniversario de Alhucemas y Vélez de la Gomera: siglos de españolidad y bastión militar frente a los 'beach clubs' marroquíes]]
-- [[https://www.elmundo.es/espana/2026/08/28/6a918f2821efa09a648b4577.html][Las cifras de la acogida en Ceuta: 2.905 plazas entre el Ceti y las carpas, 93.650 lotes de alimentos, 1.396 kits de higiene femenina y 6.687 atenciones sanitarias]]
+- [[https://www.elmundo.es/cataluna/2026/08/28/6a91e66ae9cf4a55098b4581.html][El 90% ve a Marruecos detrás de la invasión de Ceuta]]
+- [[https://www.elmundo.es/espana/2026/08/29/6a91d2affdddff7d568b459d.html][La "tibieza" con Marruecos también agrieta el discurso oficial: Albares culpa a los "bulos" y Robles dice que Rabat sabrá "lo que ha hecho y lo que no"]]
+- [[https://www.elmundo.es/espana/2026/08/28/6a91d08421efa0de108b4599.html][La Policía detecta que proxenetas marroquíes captan a niñas llegadas a Ceuta para prostituirlas a cambio de comida]]
+- [[https://www.elmundo.es/espana/2026/08/28/6a91d0af21efa0fb328b459c.html][El dilema de los ceutíes, entre la compasión y el enfado: "Yo no soy racista, solo quiero recuperar mi barrio"]]
+- [[https://www.elmundo.es/economia/2026/08/29/6a91584521efa0e1128b4584.html][La subida de la inflación reaviva los temores a una nueva crisis de precios y eleva la presión sobre los bolsillos de la familia]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/politica/20260828/11621912/espana-pide-ue-apoyo-frontex-triaje-migrantes-permanecen-ceuta.html][España pide a la UE el apoyo de Frontex para acelerar la devolución de los migrantes]]
+- [[https://www.lavanguardia.com/politica/20260829/11622182/espana-pide-ayuda-frontex-acelerar-devolucion-migrantes.html][España pide a la UE el apoyo de Frontex para acelerar la devolución de los migrantes]]
 - [[https://www.lavanguardia.com/politica/20260828/11621536/marlaska-llama-calma-altercados-ceuta-cifra-5-000-migrantes-siguen-ciudad.html][Marlaska llama a la “calma” tras los altercados en Ceuta y cifra en 5.000 los migrantes que siguen en la ciudad]]
 - [[https://www.lavanguardia.com/politica/20260828/11621820/meloni-dispone-prolongar-pulso-espana-schengen.html][Meloni busca alargar el pulso con España por Schengen por el “agravamiento” en Ceuta]]
 - [[https://www.lavanguardia.com/internacional/20260828/11621730/recorrido-visual-riada-nepal.html][Recorrido visual de la riada de Nepal]]
-- [[https://www.lavanguardia.com/internacional/20260828/11621864/localizado-tres-espanoles-desaparecidos-riadas-nepal.html][Localizado uno de los tres españoles desaparecidos tras las riadas en Nepal]]
+- [[https://www.lavanguardia.com/internacional/20260829/11621994/china-nepal-elevan-alerta-riesgo-nuevo-desbordamiento.html][China y Nepal elevan la alerta por el riesgo de un nuevo desbordamiento]]
 
 *** El Diario de Cantabria
 
@@ -83,11 +83,11 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/china/china-oil-market-edf57588?mod=rss_worldnews][How Xi Jinping Turned Oil From a Weakness Into a Geopolitical Weapon]]
+- [[https://www.wsj.com/politics/national-security/drain-on-u-s-munitions-from-iran-war-raises-fears-over-ability-to-deter-china-russia-c7d4512d?mod=rss_worldnews][Drain on U.S. Munitions From Iran War Raises Fears Over Ability to Deter China, Russia]]
+- [[https://www.wsj.com/world/asia/singapore-found-a-way-to-beat-gridlockby-making-cars-cost-as-much-as-a-house-2e1d858c?mod=rss_worldnews][Singapore Found a Way to Beat Gridlock, but Some Cars Cost as Much as Real Estate]]
+- [[https://www.wsj.com/world/americas/claudia-sheinbaum-is-taking-more-control-as-u-s-pressures-mexico-926e4e00?mod=rss_worldnews][Claudia Sheinbaum Is Taking More Control as U.S. Pressures Mexico]]
 - [[https://www.wsj.com/world/asia/death-toll-rises-as-rescuers-search-for-victims-of-nepal-flood-5a4c4c6e?mod=rss_worldnews][Death Toll Rises as Rescuers Search for Victims of Nepal Flood]]
-- [[https://www.wsj.com/world/middle-east/a-core-egyptian-bank-gets-caught-up-in-treasurys-iran-crackdown-bb867772?mod=rss_worldnews][A Core Egyptian Bank Gets Caught Up in Treasury’s Iran Crackdown]]
-- [[https://www.wsj.com/world/russia/whats-left-of-russian-democracy-some-say-a-debate-over-a-statue-9483bcb8?mod=rss_worldnews][What’s Left of Russian Democracy? Some Say a Debate Over a Statue]]
-- [[https://www.wsj.com/world/europe/iceland-weighs-security-versus-sovereignty-in-vote-over-eu-membership-talks-c1158126?mod=rss_worldnews][Iceland Weighs Security Versus Sovereignty in Vote on EU Membership Talks]]
-- [[https://www.wsj.com/world/asia/we-tested-a-smartphone-smuggled-from-north-korea-c2915548?mod=rss_worldnews][We Tested a Smartphone Smuggled From North Korea]]
 
 ** 🇫🇷 Francia
 
@@ -95,9 +95,9 @@
 
 - [[https://www.lemonde.fr/politique/article/2026/08/28/marine-le-pen-voit-l-economie-a-travers-l-electeur-d-henin-beaumont-les-reserves-du-patronat-apres-la-rentree-du-medef_6759065_823448.html][Marine Le Pen « voit l’économie à travers l’électeur d’Hénin-Beaumont » : les réserves du patronat après la rentrée du Medef]]
 - [[https://www.lemonde.fr/planete/article/2026/08/28/j-etais-certaine-de-mourir-dans-les-hopitaux-de-katmandou-des-survivants-stupefaits-et-des-familles-qui-cherchent-desesperement-leurs-proches_6759063_3244.html][« J’étais certaine de mourir » : après les inondations au Népal et au Tibet, des survivants stupéfaits et des familles qui cherchent désespérément leurs proches]]
+- [[https://www.lemonde.fr/international/article/2026/08/29/donald-trump-annonce-la-mainmise-americaine-sur-le-petrole-venezuelien_6759434_3210.html][Donald Trump annonce la mainmise américaine sur le pétrole vénézuélien]]
 - [[https://www.lemonde.fr/international/article/2026/08/28/le-calvaire-des-agriculteurs-ukrainiens-entre-cereales-bloquees-et-fermes-bombardees-ils-frappent-deliberement-nos-silos-nos-hangars-ils-visent-les-fermiers_6759004_3210.html][Le calvaire des agriculteurs ukrainiens, entre céréales bloquées et fermes bombardées : « Ils frappent délibérément nos silos, nos hangars, ils visent les fermiers »]]
-- [[https://www.lemonde.fr/economie/article/2026/08/28/kevin-warsh-renforce-la-credibilite-de-la-fed-face-a-donald-trump-a-jackson-hole_6759135_3234.html][Kevin Warsh renforce la crédibilité de la Fed face à Donald Trump à Jackson Hole]]
-- [[https://www.lemonde.fr/economie/article/2026/08/28/l-agence-fitch-maintient-la-note-de-la-dette-de-la-france-a-a-assortie-d-une-perspective-stable_6759168_3234.html][L’agence Fitch maintient la note de la dette de la France à A+ assortie d’une perspective stable]]
+- [[https://www.lemonde.fr/economie/article/2026/08/28/kevin-warsh-renforce-la-credibilite-de-la-fed-face-a-donald-trump-a-jackson-hole_6759135_3234.html][Kevin Warsh renforce la crédibilité de la Fed face à Donald Trump à Jackson Hole]]
 
 *** Le Figaro
 
@@ -111,11 +111,11 @@
 
 *** BBC News
 
+- [[https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss][Footage of Tibet floods isn't being shown in China - and we know little about victims there]]
+- [[https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss][Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil]]
+- [[https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss][Landlady to 9/11 hijackers reveals their links to alleged Saudi spy]]
 - [[https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss][Norway mourns King Harald as Haakon VIII ascends throne]]
-- [[https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss][Oslo mayor calls off wedding ceremony after death of Norway's king]]
-- [[https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss][Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say]]
 - [[https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss][Right-wing commentator Milo Yiannopoulos detained by ICE]]
-- [[https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss][Berlin is being blackmailed by hackers, mayor says]]
 
 *** The Guardian
 
@@ -165,11 +165,11 @@
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/sandromacedo/2026/08/domingo-tem-unidos-de-memphis-x-academicos-do-neymar.shtml][Domingo tem Unidos de Memphis x Acadêmicos do Neymar]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2026/08/flup-2026-levara-referencias-do-pensamento-negro-mundial-ao-rio-em-setembro.shtml][Flup 2026 levará referências do pensamento negro mundial ao Rio em setembro]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/mortes-jornalista-trocou-as-redacoes-pelas-panelas.shtml][Mortes: Jornalista trocou as Redações pelas panelas]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/08/quem-ama-cuida-pilar-flagra-ingrid-no-quarto-de-iuri.shtml]['Quem Ama Cuida': Pilar flagra Ingrid no quarto de Iuri]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/indigena-de-recente-contato-desaparece-apos-soltura-de-presidio-em-manaus-a-1200-km-de-casa.shtml][Indígena de recente contato desaparece após soltura de presídio em Manaus, a 1.200 km de casa]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/flavio-diz-que-nao-e-preciso-mexer-em-aposentadorias-ou-no-salario-minimo-para-fazer-ajuste-fiscal.shtml][Flávio diz que não é preciso mexer em aposentadorias ou no salário mínimo para fazer ajuste fiscal]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/policial-militar-de-folga-e-morto-durante-tentativa-de-roubo-na-marginal-tiete-em-sp-diz-corporacao.shtml][Policial militar de folga é morto durante tentativa de roubo na marginal Tietê, em SP, diz corporação]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/justica-proibe-cinemateca-de-cobrar-custos-do-deposito-legal-de-obras-feitas-ate-2025.shtml][Justiça proíbe Cinemateca de cobrar custos do depósito legal de obras feitas até 2025]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/corregedoria-encontrou-49-celulares-lacrados-dentro-de-saco-de-lixo-em-delegacia-agentes-sao-investigados.shtml][Corregedoria encontrou 49 celulares lacrados dentro de saco de lixo em delegacia; agentes são investigados]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2026/08/filme-a-ilha-esquecida-e-bienal-do-livro-sao-opcoes-para-as-criancas-em-setembro.shtml][Filme 'A Ilha Esquecida' e Bienal do Livro são opções para as crianças em setembro]]
 
 *** O Globo
 
