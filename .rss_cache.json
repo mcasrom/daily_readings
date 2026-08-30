@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30T00:00:02.434597",
+  "timestamp": "2026-08-30T06:00:03.070734",
   "data": {
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada": [
       {
@@ -25,24 +25,24 @@
     ],
     "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml": [
       {
-        "title": "Feijóo exige que comparezca la directora del CNI y anuncia que el PP se personará en la causa por Ceuta: \"Alguien miente\"",
-        "link": "https://www.elmundo.es/espana/2026/08/29/6a92c2ede85ece47038b459c.html"
+        "title": "La parálisis de Sánchez en Ceuta hunde a España en una crisis de Estado",
+        "link": "https://www.elmundo.es/espana/2026/08/29/6a9300df21efa0b7328b4588.html"
       },
       {
-        "title": "Un sargento herido y cuatro marroquíes detenidos tras una segunda emboscada contra militares en Ceuta",
-        "link": "https://www.elmundo.es/espana/2026/08/29/6a92cdc521efa0ce738b45b3.html"
+        "title": "Los militares temen más emboscadas de inmigrantes en Ceuta y piden ser agentes de la autoridad",
+        "link": "https://www.elmundo.es/espana/2026/08/29/6a930df4e85eceed1f8b4593.html"
       },
       {
-        "title": "Pogacar abandona la Vuelta a España tras una caída de la que es evacuado en ambulancia",
-        "link": "https://www.elmundo.es/deportes/ciclismo/2026/08/29/6a92f63ce85ece20498b456e.html"
+        "title": "De la incredulidad a la ira de los vecinos de Ceuta en el primer mes de \"una ciudad en duelo\": \"Vivimos en alerta permanente, con el cortisol por las nubes\"",
+        "link": "https://www.elmundo.es/espana/2026/08/29/6a92fc18e4d4d867508b4599.html"
       },
       {
-        "title": "EEUU tomará el control de gran parte de las reservas petroleras de Venezuela",
-        "link": "https://www.elmundo.es/internacional/2026/08/29/6a922770e9cf4aa4208b45ae.html"
+        "title": "Oscar Puente en la semana del debate del relevo de Sánchez: \"Nunca he pensado en ser líder del PSOE\"",
+        "link": "https://www.elmundo.es/cronica/2026/08/29/6a91ac05fc6c83d9738b457b.html"
       },
       {
-        "title": "Ascienden a 37 los muertos en un ataque aéreo de Rusia sobre Kiev que deja cientos de evacuados",
-        "link": "https://www.elmundo.es/internacional/2026/08/29/6a929ddb21efa061608b458e.html"
+        "title": "En Islandia avanza el no a la UE aunque el bolsillo pide el sí: \"A los del sí los mueve el resentimiento\"",
+        "link": "https://www.elmundo.es/internacional/2026/08/28/6a91d2dee9cf4a6d0e8b4571.html"
       }
     ],
     "https://www.lavanguardia.com/rss/home.xml": [
@@ -51,8 +51,8 @@
         "link": "https://www.lavanguardia.com/politica/20260829/11622275/feijoo-advierte-habra-consecuencias-crisis-ceuta-pide-comparecencia-directora-cni.html"
       },
       {
-        "title": "Un verano para recordar",
-        "link": "https://www.lavanguardia.com/politica/20260829/11621905/verano-recordar.html"
+        "title": "El mal verano de Sánchez",
+        "link": "https://www.lavanguardia.com/opinion/20260830/11622461/mal-verano-sanchez.html"
       },
       {
         "title": "Un kamikaze que huía de los Mossos causa un accidente múltiple con nueve heridos en la AP-7",
@@ -113,6 +113,14 @@
     ],
     "https://feeds.content.dowjones.io/public/rss/RSSWorldNews": [
       {
+        "title": "Russia Is Bombarding Europe With a New Wave of ‘Gray Zone’ Attacks",
+        "link": "https://www.wsj.com/world/europe/russia-is-bombarding-europe-with-a-new-wave-of-gray-zone-attacks-c5eab3fa?mod=rss_worldnews"
+      },
+      {
+        "title": "The ICC Tried to Take On the World’s Big Powers. Now It’s Fighting for Survival.",
+        "link": "https://www.wsj.com/world/the-icc-tried-to-take-on-the-worlds-big-powers-now-its-fighting-for-survival-0a37648f?mod=rss_worldnews"
+      },
+      {
         "title": "China Rebuts Claims It Could Have Given Nepal Warning of Deadly Floods",
         "link": "https://www.wsj.com/world/asia/close-to-3-000-missing-in-floods-in-nepal-and-china-75f61b42?mod=rss_worldnews"
       },
@@ -123,14 +131,6 @@
       {
         "title": "Russian Strike on Ukraine Ammo Depot Kills at Least 37",
         "link": "https://www.wsj.com/world/europe/ammunition-explosion-in-ukraine-kills-at-least-37-0db28d94?mod=rss_worldnews"
-      },
-      {
-        "title": "How Xi Jinping Turned Oil From a Weakness Into a Geopolitical Weapon",
-        "link": "https://www.wsj.com/world/china/china-oil-market-edf57588?mod=rss_worldnews"
-      },
-      {
-        "title": "Drain on U.S. Munitions From Iran War Raises Fears Over Ability to Deter China, Russia",
-        "link": "https://www.wsj.com/politics/national-security/drain-on-u-s-munitions-from-iran-war-raises-fears-over-ability-to-deter-china-russia-c7d4512d?mod=rss_worldnews"
       }
     ],
     "https://www.lemonde.fr/rss/une.xml": [
@@ -165,22 +165,26 @@
         "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-a-cannes-la-figure-du-patronat-francais-pierre-gattaz-assume-des-convergences-avec-le-projet-politique-de-david-lisnard-20260829"
       },
       {
+        "title": "L'Équateur en alerte rouge face au phénomène climatique El Niño",
+        "link": "https://www.lefigaro.fr/international/l-equateur-en-alerte-rouge-face-au-phenomene-climatique-el-nino-20260830"
+      },
+      {
         "title": "EN DIRECT - Présidentielle 2027 : Jordan Bardella réfute toute «déloyauté» à l’égard de Le Pen, mais assume sa propre «sensibilité»",
         "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-jordan-bardella-fait-sa-rentree-politique-a-la-foire-de-chalons-ce-samedi-le-patron-du-ps-olivier-faure-sous-pression-20260829"
       },
       {
         "title": "Présidentielle 2027 : Jean-Luc Mélenchon recule, Raphaël Glucksmann progresse, selon un sondage",
         "link": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-jean-luc-melenchon-recule-raphael-glucksmann-progresse-selon-un-sondage-20260829"
-      },
-      {
-        "title": "Présidentielle 2027 : «Il n’y aura pas de moratoire sur l’immigration de travail, dont nous avons besoin», soutient Édouard Philippe",
-        "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-il-n-y-aura-pas-de-moratoire-sur-l-immigration-de-travail-dont-nous-avons-besoin-soutient-edouard-philippe-20260829"
       }
     ],
     "https://feeds.bbci.co.uk/news/world/rss.xml": [
       {
         "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
         "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iceland EU referendum on a knife edge as counting continues",
+        "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
@@ -191,12 +195,8 @@
         "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Norway's new king remembers 'my dear father' in first speech",
-        "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Former Ecuadorian president imprisoned for corruption",
-        "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss"
+        "title": "Canada installs large Lake Ontario sign in latest jab at US",
+        "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "https://www.theguardian.com/world/rss": [
@@ -311,24 +311,24 @@
     ],
     "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml": [
       {
-        "title": "Michelle Obama diz não sentir falta das filhas após saída de casa",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/michelle-obama-diz-nao-sentir-falta-das-filhas-apos-saida-de-casa.shtml"
+        "title": "Judô estreia no Spaten Fight com vitória de Rafaela Silva e derrota de Bia Souza",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/judo-estreia-no-spaten-fight-com-vitoria-de-rafaela-silva-e-derrota-de-bia-souza.shtml"
       },
       {
-        "title": "A pequena cidade escocesa que procura migrantes para estancar a queda da população",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/a-pequena-cidade-escocesa-que-procura-migrantes-para-estancar-a-queda-da-populacao.shtml"
+        "title": "Mostra de São Paulo terá cartaz de James Gray e vai exibir o premiado 'Minotaur'",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/mostra-de-sao-paulo-tera-cartaz-de-james-gray-e-vai-exibir-o-premiado-minotaur.shtml"
       },
       {
-        "title": "Com elenco em greve, Ponte Preta relaciona atletas da base para jogo na série B",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/com-elenco-em-greve-ponte-preta-relaciona-atletas-da-base-para-jogo-na-serie-b.shtml"
+        "title": "Lendário Trem da Morte volta a operar na Bolívia",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/sobre-trilhos/2026/08/lendario-trem-da-morte-volta-a-operar-na-bolivia.shtml"
       },
       {
-        "title": "Lula convida empresários e banqueiros para jantar no Alvorada, e campanha busca aproximação com PIB",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/lula-convida-empresarios-e-banqueiros-para-jantar-no-alvorada-e-campanha-busca-aproximacao-com-pib.shtml"
+        "title": "Presidente interina da Venezuela diz que acordo energético com os EUA vai durar 25 anos",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/presidente-interina-da-venezuela-diz-que-acordo-energetico-com-os-eua-vai-durar-25-anos.shtml"
       },
       {
-        "title": "Breve história das reviravoltas no mês final da eleição para presidente",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/08/breve-historia-das-reviravoltas-no-mes-final-da-eleicao-para-presidente.shtml"
+        "title": "Queria que Lula fosse comigo a Israel, diz CEO de grupo pró-Israel",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/queria-que-lula-fosse-comigo-a-israel-diz-ceo-de-grupo-pro-israel.shtml"
       }
     ],
     "https://oglobo.globo.com/rss.xml": []
