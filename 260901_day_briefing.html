@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2026-09-01 Tue 00:00 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Daily Briefing - 2026-09-01</title>
+<meta name="generator" content="Org Mode" />
+<style type="text/css">
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+<link rel="icon" type="image/png" href="https://fav.farm/🌍">
+<meta property="og:title" content="Daily Briefing - Intelligence Hub">
+<meta property="og:description" content="Análisis geopolítico y titulares globales actualizados.">
+<meta property="og:image" content="https://mcasrom.github.io/daily_readings/preview.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:url" content="https://mcasrom.github.io/daily_readings/index.html">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<style>
+:root { --bg: #05070a; --surface: #0f141d; --primary: #00f2ff; --secondary: #7000ff; --text: #e2e8f0; --gold: #ffd700; --muted: #64748b; }
+body { font-family: 'Inter', -apple-system, sans-serif; background: var(--bg); color: var(--text); max-width: 900px; margin: auto; padding: 25px; line-height: 1.8; }
+h1, h2, h3 { color: var(--primary); text-transform: uppercase; letter-spacing: 1px; text-align: center; }
+.nav-menu { display: flex; justify-content: center; gap: 30px; margin-bottom: 40px; border-bottom: 2px solid var(--surface); padding-bottom: 20px; }
+.nav-menu a { color: var(--text); text-decoration: none; font-weight: bold; transition: 0.3s; font-size: 0.9em; }
+.nav-menu a:hover { color: var(--primary); text-shadow: 0 0 8px var(--primary); }
+.timestamp { text-align: center; color: var(--muted); font-size: 0.8em; margin-bottom: 10px; }
+.telemetry { text-align: center; color: var(--gold); font-family: monospace; font-size: 0.9em; background: var(--surface); padding: 10px; border-radius: 4px; border-left: 3px solid var(--gold); margin-bottom: 30px; }
+.quote-box { text-align: center; font-style: italic; color: var(--primary); margin: 25px 0; padding: 15px; border-top: 1px solid var(--surface); border-bottom: 1px solid var(--surface); font-size: 1.15em; }
+.visit-counter { text-align: center; color: var(--gold); font-family: monospace; font-size: 0.95em; background: var(--surface); padding: 12px; border-radius: 6px; border: 1px solid var(--gold); margin: 20px auto; max-width: 400px; }
+ul { list-style: none; padding: 0; }
+li { background: var(--surface); margin-bottom: 12px; padding: 15px; border-radius: 8px; border: 1px solid #1e293b; transition: all 0.2s ease; }
+li:hover { border-color: var(--primary); transform: translateX(5px); }
+li a { color: var(--text); text-decoration: none; display: block; font-weight: 500; }
+.briefing-item { background: var(--surface); border: 1px solid var(--primary); border-radius: 10px; margin: 15px 0; padding: 20px; text-align: center; }
+.briefing-item a { color: var(--primary); text-decoration: none; font-weight: bold; font-size: 1.1em; }
+.cta-blog { background: linear-gradient(135deg, #0f141d 0%, #05070a 100%); border: 2px solid var(--primary); padding: 30px; border-radius: 15px; text-align: center; margin-top: 50px; }
+.footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
+</style>
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">Daily Briefing - 2026-09-01</h1>
+<div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
+<div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
+<div class='telemetry'>🌡 51.5°C | ⚖ Load: 0.09 | 🌐 Ping: 9.38ms</div>
+
+<div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
+<div id="outline-container-org8d01d53" class="outline-2">
+<h2 id="org8d01d53">🗞 Titulares</h2>
+<div class="outline-text-2" id="text-org8d01d53">
+</div>
+<div id="outline-container-org1034ac5" class="outline-3">
+<h3 id="org1034ac5">🇪🇸 España</h3>
+<div class="outline-text-3" id="text-org1034ac5">
+</div>
+<div id="outline-container-org4336108" class="outline-4">
+<h4 id="org4336108">El País</h4>
+<div class="outline-text-4" id="text-org4336108">
+<ul class="org-ul">
+<li><a href="https://elpais.com/espana/2026-08-31/sanchez-destaca-la-cooperacion-instantanea-con-marruecos-y-asegura-que-el-rey-visitara-ceuta.html">Sánchez exculpa a Marruecos por la crisis de Ceuta y avanza que el Rey la visitará por primera vez con este Gobierno</a></li>
+<li><a href="https://elpais.com/espana/2026-08-31/el-pp-reprocha-a-sanchez-que-senale-a-todos-menos-a-marruecos-por-la-crisis-de-ceuta-le-falta-culpar-a-franco.html">El PP reprocha a Sánchez que señale a todos menos a Marruecos por la crisis de Ceuta: “Le falta culpar a Franco”</a></li>
+<li><a href="https://elpais.com/espana/2026-08-31/sanchez-sobre-el-piso-de-ayuso-esta-senora-ha-querido-comprarse-un-aticazo-con-la-pasta-de-los-madrilenos-para-vivir-en-el.html">Sánchez, sobre el piso de Ayuso: “Esta señora ha querido comprarse un aticazo con la pasta de los madrileños para vivir en él”</a></li>
+<li><a href="https://elpais.com/espana/2026-08-31/sanchez-defiende-a-zapatero-y-asegura-que-los-expresidentes-se-dedican-al-lobby-en-la-amplisima-mayoria-de-democracias.html">Sánchez defiende a Zapatero y asegura que los expresidentes se dedican al ‘lobby’ “en la amplísima mayoría de democracias”</a></li>
+<li><a href="https://elpais.com/espana/2026-08-31/el-gobierno-responde-a-meloni-y-prorroga-tambien-el-control-a-los-pasajeros-procedentes-de-italia.html">El Gobierno responde a Meloni y prorroga también el control a los pasajeros procedentes de Italia</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org743e54a" class="outline-4">
+<h4 id="org743e54a">El Mundo</h4>
+<div class="outline-text-4" id="text-org743e54a">
+<ul class="org-ul">
+<li><a href="https://www.elmundo.es/espana/2026/08/31/6a951e7ee9cf4a43568b45a0.html">Sánchez promete que el Rey irá a Ceuta sin concretar fecha y hace una defensa cerrada de Marruecos: "Sin cooperación esta crisis se agravaría"</a></li>
+<li><a href="https://www.elmundo.es/espana/2026/08/31/6a95693ee85ecefb098b4574.html">Ferraz desautoriza a los alcaldes socialistas que participarán en las concentraciones por Ceuta del 2-S: "Hay versos libres"</a></li>
+<li><a href="https://www.elmundo.es/andalucia/2026/08/31/6a95443e21efa0a15c8b4585.html">Crece la rebelión de cargos del PSOE contra Sánchez por Ceuta: los alcaldes de Mérida, León, Espartinas, Moguer, Chiclana&#x2026; se manifestarán junto al PP</a></li>
+<li><a href="https://www.elmundo.es/espana/2026/08/31/6a95581ce4d4d81f238b459a.html">Disparos al aire de la Policía para disolver un asentamiento de miles de inmigrantes en Ceuta: "Había reyertas, agresiones sexuales&#x2026;"</a></li>
+<li><a href="https://www.elmundo.es/espana/2026/08/31/6a95c7ffe9cf4a921d8b456f.html">Ceuta decide no abrir dos de las tres escuelas infantiles públicas hasta finales de septiembre mientras el Gobierno mantiene la vuelta al cole el día 8</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org5fed5e0" class="outline-4">
+<h4 id="org5fed5e0">La Vanguardia</h4>
+<div class="outline-text-4" id="text-org5fed5e0">
+<ul class="org-ul">
+<li><a href="https://www.lavanguardia.com/politica/20260831/11623498/sanchez-anuncia-rey-visitara-ceuta-melilla-primera-vez-aznar-begona-zapatero.html">Sánchez asegura que el Rey visitará Ceuta: “Hay argumentos suficientes”</a></li>
+<li><a href="https://www.lavanguardia.com/politica/20260831/11623907/israel-califica-mentira-acusacion-sanchez-implicacion-crisis-ceuta.html">Israel califica de “mentira” la acusación de Sánchez de su implicación en la crisis de Ceuta</a></li>
+<li><a href="https://www.lavanguardia.com/politica/20260831/11623794/sumar-exige-psoe-traslado-inmediato-peninsula-migrantes-ceuta.html">Sumar exige al PSOE el traslado “inmediato” a la Península de los migrantes de Ceuta</a></li>
+<li><a href="https://www.lavanguardia.com/politica/20260831/11623563/pp-acusa-sanchez-rendicion-frente-marruecos-crisis-ceuta.html">El PP exige a Sánchez “respeto” al rey Felipe VI: “Si Feijóo fuera presidente, le acompañaría a Ceuta”</a></li>
+<li><a href="https://www.lavanguardia.com/politica/20260831/11623525/disparos-aire-tension-puertas-centro-acogida-loma-colmenar-ceuta.html">Disparos al aire para frenar a cientos de migrantes que buscan las nuevas camas de acogida en Ceuta</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org2a08e92" class="outline-4">
+<h4 id="org2a08e92">El Diario de Cantabria</h4>
+<div class="outline-text-4" id="text-org2a08e92">
+<ul class="org-ul">
+<li><a href="https://eldiariocantabria.publico.es/articulo/oriental/ayuntamiento-cierra-nuevo-aviso-albergue-municipal-acometer-mejoras/20260831210503197905.html">El Ayuntamiento cierra “hasta nuevo aviso” el Albergue Municipal para acometer mejoras</a></li>
+<li><a href="https://eldiariocantabria.publico.es/articulo/saja-besaya/casa-cultura-fernando-velarde-acoge-muestra-fotografica-juan-montero-belleza-mundo-subterraneo/20260831205536197903.html">La Casa de Cultura Fernando Velarde acoge una muestra fotográfica de Juan Montero sobre la belleza del mundo subterráneo</a></li>
+<li><a href="https://eldiariocantabria.publico.es/articulo/torrelavega/arranca-renovacion-alumbrado-publico-torres-arriba/20260831204417197902.html">Arranca la renovación del alumbrado público en Torres Arriba</a></li>
+<li><a href="https://eldiariocantabria.publico.es/articulo/santander/imd-instala-37-maquinas-mas-eficientes-modernas-gimnasio-piscina-cubierta/20260831203648197900.html">El IMD instala 37 máquinas más eficientes y modernas en el gimnasio de la piscina cubierta</a></li>
+<li><a href="https://eldiariocantabria.publico.es/articulo/cantabria/hosteleros-registran-ocupacion-90-agosto-picos-95-dias-como-eclipse/20260831201834197898.html">Los hosteleros registran una ocupación del 90 % en agosto, con picos del 95 % en días como el del eclipse</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org1cf150c" class="outline-3">
+<h3 id="org1cf150c">🇺🇸 Estados Unidos</h3>
+<div class="outline-text-3" id="text-org1cf150c">
+</div>
+<div id="outline-container-org52ef817" class="outline-4">
+<h4 id="org52ef817">The Washington Post</h4>
+<div class="outline-text-4" id="text-org52ef817">
+<ul class="org-ul">
+<li><a href="https://www.washingtonpost.com/world/2026/08/31/irans-economy-long-accustomed-sanctions-feels-new-us-pressure/">Trump vows to hit Iran hard as strikes and economic pressure ramp up</a></li>
+<li><a href="https://www.washingtonpost.com/sports/2026/08/31/soccer-great-lionel-messi-announces-retirement-argentinas-national-team/">Soccer great Lionel Messi announces retirement from Argentina’s national team</a></li>
+<li><a href="https://www.washingtonpost.com/world/2026/08/31/iceland-opposes-eu-membership-talks-local-concerns-outweigh-fears-trump/">Iceland opposes E.U. membership talks as local concerns outweigh fears of Trump</a></li>
+<li><a href="https://www.washingtonpost.com/national-security/2026/08/30/us-strikes-iran-missile-sites-larak-island/">A U.S. strike on Iran breaks a month-long lull, and Iran fires back</a></li>
+<li><a href="https://www.washingtonpost.com/politics/2026/08/31/google-unveils-lake-america-us-users/">Google unveils ‘Lake America’ for U.S. users</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org7d16777" class="outline-4">
+<h4 id="org7d16777">WSJ.com: World News</h4>
+<div class="outline-text-4" id="text-org7d16777">
+<ul class="org-ul">
+<li><a href="https://www.wsj.com/world/americas/bessent-criticizes-canada-as-global-summit-shows-divisions-483a0b70?mod=rss_worldnews">Bessent Criticizes Canada as Global Summit Shows Divisions</a></li>
+<li><a href="https://www.wsj.com/world/europe/icelands-rejection-of-eu-keeps-it-a-nato-island-straddling-u-s-and-europe-21e133e7?mod=rss_worldnews">Iceland’s Rejection of EU Keeps It a NATO Island Straddling U.S. and Europe</a></li>
+<li><a href="https://www.wsj.com/world/russia-turns-to-new-generation-drones-and-all-day-attacks-to-wear-down-ukrainians-b492ec1b?mod=rss_worldnews">Russia Turns to New-Generation Drones and All-Day Attacks to Wear Down Ukrainians</a></li>
+<li><a href="https://www.wsj.com/world/middle-east/u-s-strikes-two-iranian-rocket-launchers-in-first-attack-in-weeks-17602dcf?mod=rss_worldnews">Fighting Flares in Middle East After U.S. Strike on Iranian Rocket Launchers</a></li>
+<li><a href="https://www.wsj.com/world/americas-biggest-companies-ring-up-hefty-sales-and-raise-their-outlooks-1b78875a?mod=rss_worldnews">America’s Biggest Companies Ring Up Hefty Sales and Raise Their Outlooks</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org150faa4" class="outline-3">
+<h3 id="org150faa4">🇫🇷 Francia</h3>
+<div class="outline-text-3" id="text-org150faa4">
+</div>
+<div id="outline-container-orgbbbc5f4" class="outline-4">
+<h4 id="orgbbbc5f4">Le Monde</h4>
+<div class="outline-text-4" id="text-orgbbbc5f4">
+<ul class="org-ul">
+<li><a href="https://www.lemonde.fr/disparitions/article/2026/08/31/edouard-balladur-ancien-premier-ministre-est-mort-a-l-age-de-97-ans_6762811_3382.html">Edouard Balladur, ancien premier ministre, est mort à l’âge de 97 ans</a></li>
+<li><a href="https://www.lemonde.fr/international/live/2026/08/31/en-direct-guerre-en-ukraine-kiev-prepare-de-nouvelles-frappes-contre-la-russie-et-estime-que-poutine-veut-poursuivre-la-guerre_6760568_3210.html">EN DIRECT, guerre en Ukraine : Kiev prépare de nouvelles frappes contre la Russie et estime que Poutine veut poursuivre la guerre</a></li>
+<li><a href="https://www.lemonde.fr/economie/article/2026/08/31/l-union-europeenne-annonce-suspendre-ses-importations-de-viande-bresilienne-a-partir-de-jeudi_6762819_3234.html">L’Union européenne annonce suspendre ses importations de viande brésilienne à partir de jeudi</a></li>
+<li><a href="https://www.lemonde.fr/societe/article/2026/08/31/apologie-du-terrorisme-cinq-rapporteurs-speciaux-de-l-onu-prennent-la-defense-de-rima-hassan_6762854_3224.html">Apologie du terrorisme : cinq rapporteurs spéciaux de l’ONU prennent la défense de Rima Hassan</a></li>
+<li><a href="https://www.lemonde.fr/planete/article/2026/08/31/au-nepal-les-glaciologues-sideres-face-a-l-ampleur-de-la-catastrophe_6762244_3244.html">Au Népal, après les inondations, les glaciologues sidérés par l’ampleur de la catastrophe</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org652d555" class="outline-4">
+<h4 id="org652d555">Le Figaro</h4>
+<div class="outline-text-4" id="text-org652d555">
+<ul class="org-ul">
+<li><a href="https://www.lefigaro.fr/politique/l-ancien-premier-ministre-edouard-balladur-est-decede-a-l-age-de-97-ans-20260831">L’ancien premier ministre Édouard Balladur est mort à l’âge de 97 ans</a></li>
+<li><a href="https://www.lefigaro.fr/politique/homme-d-etat-serviteur-exigeant-il-laisse-un-vide-immense-la-classe-politique-rend-hommage-a-edouard-balladur-20260831">«Homme d’État», «serviteur exigeant», «il laisse un vide immense»&#x2026; La classe politique salue la figure d’Édouard Balladur</a></li>
+<li><a href="https://www.lefigaro.fr/politique/je-vous-demande-de-vous-arreter-la-phrase-culte-d-edouard-balladur-apres-sa-defaite-au-premier-tour-de-la-presidentielle-de-1995-20260831">«Je vous demande de vous arrêter» : la phrase culte d’Édouard Balladur après sa défaite au premier tour de la présidentielle de 1995</a></li>
+<li><a href="https://www.lefigaro.fr/vox/politique/edouard-balladur-l-objectif-est-clair-il-faut-eviter-que-le-candidat-des-insoumis-soit-au-second-tour-20260428">Édouard Balladur : «L’objectif est clair : il faut éviter que le candidat des Insoumis soit au second tour»</a></li>
+<li><a href="https://photo.lefigaro.fr/politique/mort-d-edouard-balladur-la-vie-d-un-serviteur-de-l-etat-en-images-20260831">Édouard Balladur : la vie d’un serviteur de l’État en images</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org9c9365f" class="outline-3">
+<h3 id="org9c9365f">🇬🇧 Reino Unido</h3>
+<div class="outline-text-3" id="text-org9c9365f">
+</div>
+<div id="outline-container-org7478fa1" class="outline-4">
+<h4 id="org7478fa1">BBC News</h4>
+<div class="outline-text-4" id="text-org7478fa1">
+<ul class="org-ul">
+<li><a href="https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&amp;at_campaign=rss">Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously</a></li>
+<li><a href="https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&amp;at_campaign=rss">US singer D4vd's celebrity lawyers withdraw from murder case</a></li>
+<li><a href="https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&amp;at_campaign=rss">Man arrested after Swiss rave shooting that killed woman</a></li>
+<li><a href="https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&amp;at_campaign=rss">'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus</a></li>
+<li><a href="https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&amp;at_campaign=rss">US and Iran trade strikes for first time in weeks</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgdabf62c" class="outline-4">
+<h4 id="orgdabf62c">The Guardian</h4>
+<div class="outline-text-4" id="text-orgdabf62c">
+<ul class="org-ul">
+<li><a href="https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand">South African airline defends dramatic low-level flyby before rugby union clash</a></li>
+<li><a href="https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee">Countries legally obliged to consider slavery reparations, says UN committee</a></li>
+<li><a href="https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez">Morocco not to blame for Ceuta border breach, says Spanish PM</a></li>
+<li><a href="https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid">People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city</a></li>
+<li><a href="https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid">Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org2ede794" class="outline-3">
+<h3 id="org2ede794">🇮🇹 Italia</h3>
+<div class="outline-text-3" id="text-org2ede794">
+</div>
+<div id="outline-container-org2fe463a" class="outline-4">
+<h4 id="org2fe463a">Corriere della Sera</h4>
+<div class="outline-text-4" id="text-org2fe463a">
+<ul class="org-ul">
+<li><a href="https://www.corriere.it/dataroom-milena-gabanelli/codice-strada-ecco-cosa-cambia-perche-non-ridurra-numero-vittime/a9ec82f6-0fb3-11ef-a8f0-a1f7c0d711f2-va.shtml">Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime</a></li>
+<li><a href="https://www.corriere.it/politica/24_maggio_13/toti-spinelli-elezioni-9eac3140-71d7-4523-b980-142b573d5xlk.shtml">Toti a Spinelli: «Ti vengo a trovare prima delle elezioni. Ti chiedo un po’ di robe» Ecco le immagini degli incontri sullo yacht</a></li>
+<li><a href="https://www.corriere.it/politica/24_maggio_12/inchiesta-liguria-marco-bucci-gioco-al-massacro-non-ci-sto-chiedo-chiarezza-su-di-me-sono-pronto-a-parlare-con-i-pm-57e1da92-5b6c-4d81-94f6-321a522abxlk.shtml">IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»</a></li>
+<li><a href="https://www.corriere.it/cronache/24_maggio_12/toti-arrestato-gli-incontri-sullo-yacht-di-spinelli-e-i-telefonini-lasciati-all-esterno-per-blindare-i-colloqui-riservati-e99c3dad-0cea-46a5-9b3a-8e728c4c3xlk.shtml">LE FOTO SULLO YACHT Le immagini degli incontri e i telefonini lasciati all’esterno per blindare i colloqui riservati</a></li>
+<li><a href="https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml">I DATI DEL COVID «Io avevo già truccato»: così, secondo i pm, in Liguria manipolavano i numeri sulla pandemia</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgeae2900" class="outline-4">
+<h4 id="orgeae2900">Il Sole 24 Ore</h4>
+<div class="outline-text-4" id="text-orgeae2900">
+<ul class="org-ul">
+<li><a href="https://www.ilsole24ore.com/art/denatalita-2050-coppie-senza-figli-saranno-piu-numerose-quelle-figli-AJcXBez">Denatalità, nel 2050 le coppie senza figli saranno più numerose di quelle con figli</a></li>
+<li><a href="https://www.ilsole24ore.com/art/altroconsumo-risparmi-3790-euro-l-anno-scegliendo-insegna-e-prodotti-AJ4yWYx">Altroconsumo, risparmi da 3.790 euro l’anno scegliendo insegna e prodotti</a></li>
+<li><a href="https://www.ilsole24ore.com/art/emergenza-incendi-sicilia-e-sardegna-inizia-conta-danni-ma-l-attenzione-resta-alta-AJ1IIez">Emergenza incendi, in Sicilia e Sardegna  inizia la conta dei danni ma l’attenzione resta alta</a></li>
+<li><a href="https://www.ilsole24ore.com/art/istat-popolazione-calo-4-milioni-2050-ma-cresce-partecipazione-lavoro-AJs0yUz">Istat, popolazione in calo di 4 milioni nel 2050 ma cresce la partecipazione al lavoro</a></li>
+<li><a href="https://www.ilsole24ore.com/art/giochi-mediterraneo-italia-star-le-medaglie-nuoto-allori-le-discipline-AJWFDMz">Giochi del Mediterraneo: Italia star con le medaglie, nuoto sugli allori per le discipline</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-orgb169364" class="outline-3">
+<h3 id="orgb169364">🇩🇪 Alemania</h3>
+<div class="outline-text-3" id="text-orgb169364">
+</div>
+<div id="outline-container-org88984f7" class="outline-4">
+<h4 id="org88984f7">Der Spiegel</h4>
+<div class="outline-text-4" id="text-org88984f7">
+<ul class="org-ul">
+<li><a href="https://www.spiegel.de/international/business/byd-geely-xpeng-germany-vaunted-auto-industry-in-dire-straits-amid-chinese-surge-a-6a3dfa2e-b95f-4c12-83a4-9cc5add8d5a6#ref=rss">BYD, Geely, Xpeng: Germany’s Vaunted Auto Industry in Dire Straits Amid Chinese Surge</a></li>
+<li><a href="https://www.spiegel.de/international/business/amodei-vs-altman-how-the-race-for-ai-dominance-is-increasing-the-risks-a-0aa34d2c-c3a2-466f-9925-831a0e5a2213#ref=rss">Amodei vs. Altman: How the Race for AI Dominance Is Increasing the Risks</a></li>
+<li><a href="https://www.spiegel.de/international/europe/migration-wie-die-eu-sich-von-warlords-der-haftar-familie-erpressen-laesst-1787217281-a-9d6ea35f-75ce-49e2-95fc-268abe54936b#ref=rss">Boats from Eastern Libya: How Europe Is Bowing to a Libyan Warlord on Migration</a></li>
+<li><a href="https://www.spiegel.de/international/world/moaning-for-the-mainland-how-taiwan-satisfies-chinas-lust-for-pornography-a-b9b409d3-0b2e-4969-afe1-86ebaae2f81e#ref=rss">Moaning for the Mainland: How Taiwan Satisfies China's Lust for Pornography</a></li>
+<li><a href="https://www.spiegel.de/international/world/the-new-axis-of-evil-der-spiegel-investigation-reveals-deep-military-cooperation-between-russia-and-china-a-12dc295a-413d-4a2f-b44f-2922092270e3#ref=rss">The New Axis of Evil: DER SPIEGEL Investigation Reveals Deep Military Cooperation between Russia and China</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org280e072" class="outline-4">
+<h4 id="org280e072">Deutsche Welle</h4>
+<div class="outline-text-4" id="text-org280e072">
+<ul class="org-ul">
+<li><a href="https://www.dw.com/en/how-china-buried-tibet-flood-images-after-nepal-disaster/a-78576472?maca=en-rss-en-world-4025-rdf">How China buried Tibet flood images after Nepal disaster</a></li>
+<li><a href="https://www.dw.com/en/deceived-and-deployed-how-young-cameroonians-end-up-fighting-in-russia-s-war-in-ukraine/a-78513256?maca=en-rss-en-world-4025-rdf">Deceived and deployed: How young Cameroonians end up fighting in Russia's war in Ukraine</a></li>
+<li><a href="https://www.dw.com/en/tariffs-spat-carney-bets-canada-can-defy-trump/a-78542754?maca=en-rss-en-world-4025-rdf">Tariffs spat: Carney bets Canada can defy Trump</a></li>
+<li><a href="https://www.dw.com/en/putin-modi-meeting-at-sco-can-russia-india-ties-hold/a-78575121?maca=en-rss-en-world-4025-rdf">Putin-Modi meeting at SCO: Can Russia-India ties hold?</a></li>
+<li><a href="https://www.dw.com/en/nepal-floods-test-pm-balen-s-young-government/a-78574227?maca=en-rss-en-world-4025-rdf">Nepal floods test PM Balen's young government</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-orgdf36d22" class="outline-3">
+<h3 id="orgdf36d22">🇧🇷 Brasil</h3>
+<div class="outline-text-3" id="text-orgdf36d22">
+</div>
+<div id="outline-container-orgd772e24" class="outline-4">
+<h4 id="orgd772e24">Folha de S.Paulo</h4>
+<div class="outline-text-4" id="text-orgd772e24">
+<ul class="org-ul">
+<li><a href="https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/raquel-lyra-aciona-policia-por-circulacao-de-cartazes-com-acusacoes-sobre-morte-do-marido.shtml">Raquel Lyra aciona polícia por circulação de cartazes com acusações sobre morte do marido</a></li>
+<li><a href="https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/messi-fez-nos-ultimos-seis-anos-quase-metade-de-seus-gols-pela-argentina.shtml">Messi fez nos últimos seis anos quase metade de seus gols pela Argentina</a></li>
+<li><a href="https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/terreno-da-comabem-vai-a-leilao-para-pagar-credores-divida-e-de-r-23-milhoes.shtml">Terreno da Comabem vai a leilão para pagar credores; dívida é de R$ 23 milhões</a></li>
+<li><a href="https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/moraes-marca-julgamento-de-acao-contra-eduardo-bolsonaro-por-atuacao-nos-eua.shtml">Moraes marca julgamento de ação contra Eduardo Bolsonaro por atuação nos EUA</a></li>
+<li><a href="https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/no-corre/2026/08/e-se-o-ficaemcasa-voltasse.shtml">E se o #ficaemcasa voltasse?</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgd35d241" class="outline-4">
+<h4 id="orgd35d241">O Globo</h4>
+<div class="outline-text-4" id="text-orgd35d241">
+<ul class="org-ul">
+<li><i>Feed no disponible temporalmente</i></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-org4d673fe" class="outline-2">
+<h2 id="org4d673fe">🧠 Think Tanks</h2>
+<div class="outline-text-2" id="text-org4d673fe">
+<ul class="org-ul">
+<li><a href="https://www.realinstitutoelcano.org">Real Instituto Elcano</a> (🇪🇸 España)</li>
+<li><a href="https://www.ifri.org">IFRI</a> (🇫🇷 Francia)</li>
+<li><a href="https://www.chathamhouse.org">Chatham House</a> (🇬🇧 Reino Unido)</li>
+<li><a href="https://www.ispionline.it">ISPI</a> (🇮🇹 Italia)</li>
+<li><a href="https://www.swp-berlin.org">SWP</a> (🇩🇪 Alemania)</li>
+<li><a href="https://www.rand.org">RAND Corporation</a> (🇺🇸 Estados Unidos)</li>
+</ul>
+
+
+<div class="footer-hub">
+<p><strong>Autor:</strong> El Mapa y El Código | <a href="mailto:mcasrom@gmail.com" style="color:var(--primary);">mcasrom@gmail.com</a></p>
+<p>© 2026 Inteligencia Geopolítica | 🚀 Operado desde DietPi OS</p>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
