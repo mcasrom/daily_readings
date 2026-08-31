@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-31T12:00:03.000206",
+  "timestamp": "2026-08-31T18:00:03.198949",
   "data": {
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada": [
       {
@@ -7,7 +7,11 @@
         "link": "https://elpais.com/espana/2026-08-31/sanchez-destaca-la-cooperacion-instantanea-con-marruecos-y-asegura-que-el-rey-visitara-ceuta.html"
       },
       {
-        "title": "Sánchez, sobre el piso de Ayuso: “Esta señora ha querido comprarse un ‘aticazo’ con la pasta de los madrileños para vivir en él”",
+        "title": "El PP reprocha a Sánchez que señale a todos menos a Marruecos por la crisis de Ceuta: “Le falta culpar a Franco”",
+        "link": "https://elpais.com/espana/2026-08-31/el-pp-reprocha-a-sanchez-que-senale-a-todos-menos-a-marruecos-por-la-crisis-de-ceuta-le-falta-culpar-a-franco.html"
+      },
+      {
+        "title": "Sánchez, sobre el piso de Ayuso: “Esta señora ha querido comprarse un aticazo con la pasta de los madrileños para vivir en él”",
         "link": "https://elpais.com/espana/2026-08-31/sanchez-sobre-el-piso-de-ayuso-esta-senora-ha-querido-comprarse-un-aticazo-con-la-pasta-de-los-madrilenos-para-vivir-en-el.html"
       },
       {
@@ -15,12 +19,8 @@
         "link": "https://elpais.com/espana/2026-08-31/sanchez-se-muestra-dispuesto-a-presentarse-a-las-elecciones-de-2027-hoy-no-tenemos-una-propuesta-de-alternancia.html"
       },
       {
-        "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Rego asegura que los menores de Ceuta “no son invasores, sino víctimas” y pide tiempo para su devolución",
-        "link": "https://elpais.com/espana/2026-08-31/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
-      },
-      {
-        "title": "Los servicios secretos ven probables más acciones encubiertas sobre Ceuta y Melilla",
-        "link": "https://elpais.com/espana/2026-08-31/los-servicios-secretos-ven-probables-mas-acciones-encubiertas-sobre-ceuta-y-melilla.html"
+        "title": "El Gobierno responde a Meloni y prorroga también el control a los pasajeros procedentes de Italia",
+        "link": "https://elpais.com/espana/2026-08-31/el-gobierno-responde-a-meloni-y-prorroga-tambien-el-control-a-los-pasajeros-procedentes-de-italia.html"
       }
     ],
     "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml": [
@@ -29,20 +29,20 @@
         "link": "https://www.elmundo.es/espana/2026/08/31/6a951e7ee9cf4a43568b45a0.html"
       },
       {
-        "title": "Italia prorroga 15 días más los controles de los viajes procedentes de España por la crisis de Ceuta",
-        "link": "https://www.elmundo.es/espana/2026/08/31/6a954dd8fdddffb46a8b4588.html"
+        "title": "Ferraz desautoriza a los alcaldes socialistas que participarán en las concentraciones por Ceuta del 2-S: \"Hay versos libres\"",
+        "link": "https://www.elmundo.es/espana/2026/08/31/6a95693ee85ecefb098b4574.html"
       },
       {
-        "title": "El grito de las mujeres ceutíes desarma a Sánchez",
-        "link": "https://www.elmundo.es/espana/2026/08/30/6a9450d5e9cf4a34188b4578.html"
+        "title": "El PP denuncia la \"conspiranoia\" de Sánchez por atribuir la crisis de Ceuta a Israel y Rusia: \"Sólo le falta culpar a Franco\"",
+        "link": "https://www.elmundo.es/espana/2026/08/31/6a957481fc6c83d42f8b4587.html"
       },
       {
-        "title": "En el paraíso de Kamel y sus seis 'robinsones' de Ceuta: \"De aquí no nos movemos, Europa es mejor que África\"",
-        "link": "https://www.elmundo.es/espana/2026/08/30/6a944762e4d4d8b55c8b4587.html"
+        "title": "Disparos al aire de la Policía para disolver un asentamiento de miles de inmigrantes en Ceuta: \"Había reyertas, agresiones sexuales...\"",
+        "link": "https://www.elmundo.es/espana/2026/08/31/6a95581ce4d4d81f238b459a.html"
       },
       {
-        "title": "Sánchez intenta ridiculizar a Page porque \"innova en cada declaración\" y cree que Zapatero demostrará \"la legalidad de las joyas\"",
-        "link": "https://www.elmundo.es/espana/2026/08/31/6a952d5afc6c838e1a8b458d.html"
+        "title": "Igualdad contabiliza 21 agresiones sexuales en Ceuta y nueve víctimas menores de edad",
+        "link": "https://www.elmundo.es/espana/2026/08/31/6a9559c1fdddff082d8b458f.html"
       }
     ],
     "https://www.lavanguardia.com/rss/home.xml": [
@@ -51,67 +51,79 @@
         "link": "https://www.lavanguardia.com/politica/20260831/11623498/sanchez-anuncia-rey-visitara-ceuta-melilla-primera-vez-aznar-begona-zapatero.html"
       },
       {
-        "title": "Sánchez denuncia la “impunidad” de Ayuso por “comprarse un aticazo”",
-        "link": "https://www.lavanguardia.com/politica/20260831/11623570/sanchez-denuncia-impunidad-ayuso-comprarse-aticazo.html"
+        "title": "Israel califica de “mentira” la acusación de Sánchez de su implicación en la crisis de Ceuta",
+        "link": "https://www.lavanguardia.com/politica/20260831/11623907/israel-califica-mentira-acusacion-sanchez-implicacion-crisis-ceuta.html"
       },
       {
-        "title": "La Ola",
-        "link": "https://www.lavanguardia.com/politica/20260831/11623165/ola.html"
+        "title": "Sumar exige al PSOE el traslado “inmediato” a la Península de los migrantes de Ceuta",
+        "link": "https://www.lavanguardia.com/politica/20260831/11623794/sumar-exige-psoe-traslado-inmediato-peninsula-migrantes-ceuta.html"
       },
       {
-        "title": "Una crisis migratoria que ya lo es de convivencia",
-        "link": "https://www.lavanguardia.com/politica/20260831/11623164/crisis-migratoria-convivencia.html"
+        "title": "El PP exige a Sánchez “respeto” al rey Felipe VI: “Si Feijóo fuera presidente, le acompañaría a Ceuta”",
+        "link": "https://www.lavanguardia.com/politica/20260831/11623563/pp-acusa-sanchez-rendicion-frente-marruecos-crisis-ceuta.html"
       },
       {
-        "title": "Disparos al aire y tensión a las puertas del centro de acogida de Loma Colmenar de Ceuta",
+        "title": "Disparos al aire para frenar a cientos de migrantes que buscan las nuevas camas de acogida en Ceuta",
         "link": "https://www.lavanguardia.com/politica/20260831/11623525/disparos-aire-tension-puertas-centro-acogida-loma-colmenar-ceuta.html"
       }
     ],
     "https://eldiariocantabria.publico.es/rss/": [
       {
-        "title": "Caos en los Cercanías de Cantabria: nueve trenes suprimidos este lunes por averías y reajustes en el servicio",
-        "link": "https://eldiariocantabria.publico.es/articulo/cantabria/caos-cercanias-cantabria-nueve-trenes-suprimidos-lunes-averias-reajustes/20260831113233197866.html"
+        "title": "‘¿Qué comen los dragones?’ y ‘Nadie contesta’ ganan el VIII Festival Cine y Zona",
+        "link": "https://eldiariocantabria.publico.es/articulo/cultura/que-comen-dragones-nadie-contesta-ganan-viii-festival-cine-zona/20260831174955197884.html"
       },
       {
-        "title": "Sergio Martínez pone rumbo al Real Madrid",
-        "link": "https://eldiariocantabria.publico.es/articulo/deportes/sergio-martinez-pone-rumbo-real-madrid/20260831111652197865.html"
+        "title": "Corneado por un toro un hombre de 92 años en Bárcena Mayor",
+        "link": "https://eldiariocantabria.publico.es/articulo/saja-besaya/corneado-toro-hombre-92-anos-barcena-mayor/20260831174233197882.html"
       },
       {
-        "title": "Santander busca donantes de sangre este miércoles ante las reservas \"muy ajustadas\" de estos grupos sanguíneos",
-        "link": "https://eldiariocantabria.publico.es/articulo/sanidad/santander-busca-donantes-sangre-miercoles-reservas-muy-ajustadas/20260831105249197863.html"
+        "title": "El diésel será más barato a partir de este martes: así queda el combustible con los descuentos que llegan en septiembre",
+        "link": "https://eldiariocantabria.publico.es/articulo/economia/diesel-sera-mas-barato-partir-martes-asi-queda-combustible-descuentos-que-llegan-septiembre/20260831173048197880.html"
       },
       {
-        "title": "Triplica la tasa de alcohol al volante tras golpear a varios coches estacionados en Santander",
-        "link": "https://eldiariocantabria.publico.es/articulo/santander/triplica-tasa-alcohol-volante-golpear-varios-coches-estacionados-santander/20260831102802197857.html"
+        "title": "Cantabria recoge 18 toneladas de lana de oveja con un proyecto único en España",
+        "link": "https://eldiariocantabria.publico.es/articulo/cantabria/cantabria-recoge-18-toneladas-lana-oveja-proyecto-unico-espana/20260831140516197879.html"
       },
       {
-        "title": "Terceros, terceros ampliado o todo riesgo: cómo elegir el seguro de coche que realmente necesitas",
-        "link": "https://eldiariocantabria.publico.es/articulo/comunicados/terceros-terceros-ampliado-todo-riesgo-como-elegir-seguro-coche-que-realmente-necesitas/20260831101810197852.html"
+        "title": "Podemos inicia sus primarias para las elecciones autonómicas y locales con la mirada puesta en un posible adelanto electoral de Sánchez",
+        "link": "https://eldiariocantabria.publico.es/articulo/politica/podemos-inicia-primarias-elecciones-autonomicas-locales-prepara-posible-adelanto-electoral-sanchez/20260831135348197877.html"
       }
     ],
     "https://feeds.washingtonpost.com/rss/world": [
+      {
+        "title": "Iran, accustomed to sanctions, cites pain of new U.S. pressure but doesn’t bend",
+        "link": "https://www.washingtonpost.com/world/2026/08/31/irans-economy-long-accustomed-sanctions-feels-new-us-pressure/"
+      },
+      {
+        "title": "A U.S. strike on Iran breaks a month-long lull, and Iran fires back",
+        "link": "https://www.washingtonpost.com/national-security/2026/08/30/us-strikes-iran-missile-sites-larak-island/"
+      },
+      {
+        "title": "Secretive deals may cut billions from U.S. global health spending, analysis shows",
+        "link": "https://www.washingtonpost.com/national-security/2026/08/30/trumps-deals-africa-could-cut-us-health-aid-by-more-than-half-analysis-shows/"
+      },
       {
         "title": "They went to Nepal for a spiritual journey. Then an epic flood arrived.",
         "link": "https://www.washingtonpost.com/world/2026/08/30/families-those-missing-nepal-search-answers-after-devastating-flood/"
       },
       {
-        "title": "U.S. forces strike Iranian launch site in first disclosed attack in nearly a month",
-        "link": "https://www.washingtonpost.com/national-security/2026/08/30/us-strikes-iran-missile-sites-larak-island/"
-      },
-      {
         "title": "Ontario’s premier urges thaw in U.S.-Canada trade war: ‘We’re best friends.’",
         "link": "https://www.washingtonpost.com/world/2026/08/30/ontarios-premier-urges-thaw-us-canada-trade-war-were-best-friends/"
-      },
-      {
-        "title": "Military leaders warn Hegseth against extending Iran war operations",
-        "link": "https://www.washingtonpost.com/national-security/2026/08/30/military-leaders-warn-hegseth-against-extending-iran-war-operations/"
-      },
-      {
-        "title": "Venezuela vowed not to ‘hand over’ its oil. Trump aims to grab a windfall.",
-        "link": "https://www.washingtonpost.com/world/2026/08/30/venezuela-vowed-not-hand-over-its-oil-trump-aims-grab-windfall/"
       }
     ],
     "https://feeds.content.dowjones.io/public/rss/RSSWorldNews": [
+      {
+        "title": "Russia Turns to New-Generation Drones and All-Day Attacks to Wear Down Ukrainians",
+        "link": "https://www.wsj.com/world/russia-turns-to-new-generation-drones-and-all-day-attacks-to-wear-down-ukrainians-b492ec1b?mod=rss_worldnews"
+      },
+      {
+        "title": "Fighting Flares in Middle East After U.S. Strike on Iranian Rocket Launchers",
+        "link": "https://www.wsj.com/world/middle-east/u-s-strikes-two-iranian-rocket-launchers-in-first-attack-in-weeks-17602dcf?mod=rss_worldnews"
+      },
+      {
+        "title": "America’s Biggest Companies Ring Up Hefty Sales and Raise Their Outlooks",
+        "link": "https://www.wsj.com/world/americas-biggest-companies-ring-up-hefty-sales-and-raise-their-outlooks-1b78875a?mod=rss_worldnews"
+      },
       {
         "title": "Nepal Focuses on Dangerous Tunnel Rescues as Flood Toll Tops 900",
         "link": "https://www.wsj.com/world/asia/nepal-focuses-on-dangerous-tunnel-rescues-as-flood-toll-tops-900-712e3a57?mod=rss_worldnews"
@@ -119,43 +131,43 @@
       {
         "title": "Japan Targets Record Defense Spend as China Pressure Grows",
         "link": "https://www.wsj.com/world/asia/japan-targets-record-defense-spend-as-china-pressure-grows-c30a382e?mod=rss_worldnews"
-      },
-      {
-        "title": "The Geopolitical Mismatch Driving Russia to Threaten the West",
-        "link": "https://www.wsj.com/world/europe/the-geopolitical-mismatch-driving-russia-to-threaten-the-west-9b9a5ebd?mod=rss_worldnews"
-      },
-      {
-        "title": "Fighting Flares in Middle East After U.S. Strike on Iranian Rocket Launchers",
-        "link": "https://www.wsj.com/world/middle-east/u-s-strikes-two-iranian-rocket-launchers-in-first-attack-in-weeks-17602dcf?mod=rss_worldnews"
-      },
-      {
-        "title": "The Summer That Scorched French Grapes, English Gardens—and Europe’s Economy",
-        "link": "https://www.wsj.com/world/europe/the-summer-that-scorched-french-grapes-english-gardensand-europes-economy-a7b33771?mod=rss_worldnews"
       }
     ],
     "https://www.lemonde.fr/rss/une.xml": [
       {
-        "title": "Présidentielle 2027 : du PS à LR, les partis tiraillés entre « bataille fratricide » et nécessité de l’union face au RN et à LFI",
-        "link": "https://www.lemonde.fr/politique/article/2026/08/31/presidentielle-2027-la-petite-musique-de-l-union-au-centre-pour-contrer-le-rn-et-lfi_6761864_823448.html"
+        "title": "Retraites : Sébastien Lecornu confirme la piste de la désindexation",
+        "link": "https://www.lemonde.fr/politique/article/2026/08/31/retraites-sebastien-lecornu-confirme-la-piste-de-la-desindexation_6762446_823448.html"
       },
       {
-        "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis ont mené de nouveaux  bombardements en Iran ; Téhéran vise des cibles militaires américaines en Jordanie",
-        "link": "https://www.lemonde.fr/international/live/2026/08/31/en-direct-guerre-au-moyen-orient-les-etats-unis-ont-mene-de-nouveaux-bombardements-en-iran-teheran-vise-des-cibles-militaires-americaines-en-jordanie_6761630_3210.html"
+        "title": "Au Népal, après les inondations, les glaciologues sidérés par l’ampleur de la catastrophe",
+        "link": "https://www.lemonde.fr/planete/article/2026/08/31/au-nepal-les-glaciologues-sideres-face-a-l-ampleur-de-la-catastrophe_6762244_3244.html"
       },
       {
-        "title": "Les factures de gaz pèsent de plus en plus lourd dans le budget des ménages",
-        "link": "https://www.lemonde.fr/economie/article/2026/08/31/les-factures-de-gaz-pesent-de-plus-en-plus-lourd-dans-le-budget-des-menages_6762175_3234.html"
+        "title": "Vincent Bolloré dépose plainte pour « association de malfaiteurs » contre des magistrats, après son renvoi devant le tribunal pour corruption",
+        "link": "https://www.lemonde.fr/societe/article/2026/08/31/vincent-bollore-depose-plainte-pour-association-de-malfaiteurs-contre-des-magistrats-apres-son-renvoi-devant-le-tribunal-pour-corruption_6762587_3224.html"
       },
       {
-        "title": "Jean-François Leroy, directeur du festival Visa pour l’image et avocat acharné du photojournalisme, est mort",
-        "link": "https://www.lemonde.fr/disparitions/article/2026/08/31/jean-francois-leroy-directeur-du-festival-visa-pour-l-image-et-avocat-acharne-du-photojournalisme-est-mort_6762210_3382.html"
+        "title": "La Suède signe un contrat de 4,3 milliards d’euros pour l’acquisition de quatre frégates françaises",
+        "link": "https://www.lemonde.fr/international/article/2026/08/31/la-suede-signe-un-contrat-de-4-3-milliards-d-euros-pour-l-acquisition-de-quatre-fregates-francaises_6762592_3210.html"
       },
       {
-        "title": "Pour les admis au nouveau concours enseignant, une première rentrée entre confusion et impatience",
-        "link": "https://www.lemonde.fr/societe/article/2026/08/31/pour-les-admis-au-nouveau-concours-enseignant-une-premiere-rentree-entre-confusion-et-impatience_6761900_3224.html"
+        "title": "Donald Trump multiplie les attaques contre les parcs nationaux américains",
+        "link": "https://www.lemonde.fr/planete/article/2026/08/31/yosemite-big-bend-utah-trump-multiplie-les-attaques-contre-les-parcs-nationaux-americains_6761902_3244.html"
       }
     ],
     "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
+      {
+        "title": "«Je me suis vidé, je n’ai plus rien à donner»: Lionel Messi annonce sa retraite internationale avec l’Argentine",
+        "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/la-fin-d-une-epoque-lionel-messi-met-un-terme-a-sa-carriere-avec-la-selection-argentine-20260831"
+      },
+      {
+        "title": "Retraite : quelles sont ces deux nouvelles mesures pour les mères qui entrent en vigueur au 1er septembre ?",
+        "link": "https://www.lefigaro.fr/social/retraite-quelles-sont-ces-deux-nouvelles-mesures-pour-les-meres-qui-entrent-en-vigueur-au-1er-septembre-20260831"
+      },
+      {
+        "title": "Glucksmann, Faure, Royal... Qui sont les participants à la primaire du PS et de Place publique ?",
+        "link": "https://www.lefigaro.fr/politique/glucksmann-faure-royal-qui-sont-les-participants-a-la-primaire-du-ps-et-de-place-publique-20260831"
+      },
       {
         "title": "Présidentielle 2027 : Maud Bregeon estime «qu’il n’y a plus match» entre Philippe et Attal, et que «le temps de la primaire est terminé»",
         "link": "https://www.lefigaro.fr/politique/presidentielle-2027-maud-bregeon-estime-qu-il-n-y-a-plus-match-entre-philippe-et-attal-et-que-le-temps-de-la-primaire-est-termine-20260831"
@@ -163,18 +175,6 @@
       {
         "title": "EN DIRECT - «Personne ne peut considérer qu’il est une évidence» : Hervé Morin lance un avertissement à Édouard Philippe avant la présidentielle",
         "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-sondages-candidats-lecornu-philippe-le-pen-retailleau-bardella-royal-faure-glucksmann-melenchon-20260831"
-      },
-      {
-        "title": "Présidentielle 2027 : accusé par Attal de porter des «idées d’il y a 20 ans», Philippe lui suggère de «diriger ses traits vers leurs adversaires»",
-        "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/2027-accuse-par-attal-de-porter-des-idees-d-il-y-a-20-ans-philippe-lui-propose-de-diriger-ses-traits-vers-leurs-adversaires-20260830"
-      },
-      {
-        "title": "Présidentielle 2027 : pour Jean-Philippe Tanguy, Marine Le Pen et Jordan Bardella forment un tandem « efficace » et « harmonieux »",
-        "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-pour-jean-philippe-tanguy-marine-le-pen-et-jordan-bardella-forment-un-tandem-efficace-et-harmonieux-20260830"
-      },
-      {
-        "title": "Fiscalité immobilière, résidences secondaires, LMNP... Le chamboule-tout du RN pour «restaurer le droit de propriété»",
-        "link": "https://immobilier.lefigaro.fr/article/fiscalite-immobiliere-residences-secondaires-lmnp-le-chamboule-tout-du-rn-pour-restaurer-le-droit-de-propriete-20260831"
       }
     ],
     "https://feeds.bbci.co.uk/news/world/rss.xml": [
@@ -183,23 +183,35 @@
         "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'Moonies' church leader jailed for two years over bribery offences",
-        "link": "https://www.bbc.co.uk/news/articles/c8xkqjdk142o?at_medium=RSS&at_campaign=rss"
+        "title": "Man arrested after Swiss rave shooting that killed woman",
+        "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
-        "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss"
+        "title": "South African airline defends low-altitude aerial stunt over packed stadium",
+        "link": "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Dolly Parton laid to rest alongside husband in Nashville",
-        "link": "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss"
+        "title": "The jury's options in Lindsay Clancy's murder trial",
+        "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "One dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
-        "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss"
+        "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
+        "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "https://www.theguardian.com/world/rss": [
+      {
+        "title": "South African airline defends dramatic low-level flyby before rugby union clash",
+        "link": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand"
+      },
+      {
+        "title": "Countries legally obliged to consider slavery reparations, says UN committee",
+        "link": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee"
+      },
+      {
+        "title": "Morocco not to blame for Ceuta border breach, says Spanish PM",
+        "link": "https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez"
+      },
       {
         "title": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
         "link": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid"
@@ -207,18 +219,6 @@
       {
         "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
         "link": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid"
-      },
-      {
-        "title": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
-        "link": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact"
-      },
-      {
-        "title": "UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’",
-        "link": "https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism"
-      },
-      {
-        "title": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
-        "link": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs"
       }
     ],
     "https://www.corriere.it/rss/homepage.xml": [
@@ -245,24 +245,24 @@
     ],
     "https://www.ilsole24ore.com/rss/italia.xml": [
       {
+        "title": "Emergenza incendi, in Sicilia e Sardegna  inizia la conta dei danni ma l’attenzione resta alta",
+        "link": "https://www.ilsole24ore.com/art/emergenza-incendi-sicilia-e-sardegna-inizia-conta-danni-ma-l-attenzione-resta-alta-AJ1IIez"
+      },
+      {
+        "title": "Istat, popolazione in calo di 4 milioni nel 2050 ma cresce la partecipazione al lavoro",
+        "link": "https://www.ilsole24ore.com/art/istat-popolazione-calo-4-milioni-2050-ma-cresce-partecipazione-lavoro-AJs0yUz"
+      },
+      {
+        "title": "Giochi del Mediterraneo: Italia star con le medaglie, nuoto sugli allori per le discipline",
+        "link": "https://www.ilsole24ore.com/art/giochi-mediterraneo-italia-star-le-medaglie-nuoto-allori-le-discipline-AJWFDMz"
+      },
+      {
+        "title": "Varese, muratore muore schiacciato in un cantiere",
+        "link": "https://www.ilsole24ore.com/art/varese-muratore-muore-schiacciato-un-cantiere-AJC29Kz"
+      },
+      {
         "title": "Franceschini: «Convivo con il Parkinson, è stata una botta tremenda»",
         "link": "https://www.ilsole24ore.com/art/franceschini-convivo-il-parkinson-e-stata-botta-tremenda-AJcIHFz"
-      },
-      {
-        "title": "Migranti, l’Italia proroga la sospensione di Schengen con la Spagna per 15 giorni",
-        "link": "https://www.ilsole24ore.com/art/schengen-governo-decide-oggi-se-prolungare-controlli-la-spagna-AJSFvBz"
-      },
-      {
-        "title": "Maria Spinelli morta nella sparatoria al rave di Aarau: chi era la 22enne abruzzese con la passione per la musica techno",
-        "link": "https://www.ilsole24ore.com/art/maria-spinelli-morta-sparatoria-rave-aarau-chi-era-22enne-abruzzese-la-passione-la-musica-techno-AJk3Txy"
-      },
-      {
-        "title": "Silvano Loia morto a 52 anni: chi era il manager Rai compagno di Francesca Neri",
-        "link": "https://www.ilsole24ore.com/art/silvano-loia-morto-52-anni-chi-era-manager-rai-compagno-francesca-neri-AJ4Rmpy"
-      },
-      {
-        "title": "Traghetto affondato a largo di Cipro: 8 vittime. Arrestati comandante ed equipaggio",
-        "link": "https://www.ilsole24ore.com/art/traghetto-affondato-largo-cipro-ci-sono-vittime-AJdsBoy"
       }
     ],
     "https://www.spiegel.de/international/index.rss": [
@@ -289,46 +289,46 @@
     ],
     "https://rss.dw.com/rdf/rss-en-world": [
       {
-        "title": "Guinea-Bissau votes to reshape presidency",
-        "link": "https://www.dw.com/en/guinea-bissau-votes-to-reshape-presidency/a-78562523?maca=en-rss-en-world-4025-rdf"
+        "title": "How China buried Tibet flood images after Nepal disaster",
+        "link": "https://www.dw.com/en/how-china-buried-tibet-flood-images-after-nepal-disaster/a-78576472?maca=en-rss-en-world-4025-rdf"
       },
       {
-        "title": "Greece, Turkey clash over protected Aegean marine areas",
-        "link": "https://www.dw.com/en/greece-turkey-clash-over-protected-aegean-marine-areas/a-78550021?maca=en-rss-en-world-4025-rdf"
+        "title": "Deceived and deployed: How young Cameroonians end up fighting in Russia's war in Ukraine",
+        "link": "https://www.dw.com/en/deceived-and-deployed-how-young-cameroonians-end-up-fighting-in-russia-s-war-in-ukraine/a-78513256?maca=en-rss-en-world-4025-rdf"
       },
       {
-        "title": "India's citizen-led school audits test limits of activism",
-        "link": "https://www.dw.com/en/india-s-citizen-led-school-audits-test-limits-of-activism/a-78545789?maca=en-rss-en-world-4025-rdf"
+        "title": "Tariffs spat: Carney bets Canada can defy Trump",
+        "link": "https://www.dw.com/en/tariffs-spat-carney-bets-canada-can-defy-trump/a-78542754?maca=en-rss-en-world-4025-rdf"
       },
       {
-        "title": "Nepal issues fresh flood warning as 3,000 still missing",
-        "link": "https://www.dw.com/en/nepal-issues-fresh-flood-warning-as-3-000-still-missing/a-78561068?maca=en-rss-en-world-4025-rdf"
+        "title": "Modi-Putin meeting at SCO: Can India-Russia ties hold?",
+        "link": "https://www.dw.com/en/modi-putin-meeting-at-sco-can-india-russia-ties-hold/a-78575121?maca=en-rss-en-world-4025-rdf"
       },
       {
-        "title": "Israeli settlers attack Palestinian homes in West Bank",
-        "link": "https://www.dw.com/en/israeli-settlers-attack-palestinian-homes-in-west-bank/a-78560116?maca=en-rss-en-world-4025-rdf"
+        "title": "Nepal floods: A major test for PM Balen's government",
+        "link": "https://www.dw.com/en/nepal-floods-a-major-test-for-pm-balen-s-government/a-78574227?maca=en-rss-en-world-4025-rdf"
       }
     ],
     "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml": [
       {
-        "title": "Trump publica vídeo de IA sobre ataque à ilha de Kharg, Irã nega e chama publicação de 'risível'",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/trump-publica-video-de-ia-sobre-ataque-a-ilha-de-kharg-ira-nega-e-chama-publicacao-de-risivel.shtml"
+        "title": "Aliados de Lula dizem que percepção sobre preços e dívidas é risco maior que Lulinha na eleição",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/aliados-de-lula-dizem-que-percepcao-sobre-precos-e-dividas-e-risco-maior-que-lulinha-na-eleicao.shtml"
       },
       {
-        "title": "IA tenta rastrear os fatores que levam ao sucesso ou ao fracasso na ciência",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/ia-tenta-rastrear-os-fatores-que-levam-ao-sucesso-ou-ao-fracasso-na-ciencia.shtml"
+        "title": "Aporte não é Pix de R$ 6 bilhões aos Correios, diz ministro do Planejamento",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/aporte-nao-e-pix-de-r-6-bilhoes-aos-correios-diz-ministro-do-planejamento.shtml"
       },
       {
-        "title": "Dizer que há crise fiscal é fake news, diz coordenador do programa de Lula",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/dizer-que-ha-crise-fiscal-e-fake-news-diz-coordenador-do-programa-de-lula.shtml"
+        "title": "Ministro de Bukele diz que estado de exceção é ferramenta constitucional para combater crime",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/ministro-de-bukele-diz-que-estado-de-excecao-e-ferramenta-constitucional-para-combater-crime.shtml"
       },
       {
-        "title": "O diretor de escola que salvou 900 estudantes das inundações no Nepal",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/o-diretor-de-escola-que-salvou-900-estudantes-das-inundacoes-no-nepal.shtml"
+        "title": "Moradores do Brooklin, na zona sul de SP, protestam contra construção de prédio de 32 andares",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/moradores-do-brooklin-na-zona-sul-de-sp-protestam-contra-construcao-de-predio-de-32-andares.shtml"
       },
       {
-        "title": "Rendimentos de títulos públicos globais sobem com guerra no Irã e ampliam pressão fiscal no G7",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/rendimentos-de-titulos-publicos-globais-sobem-com-guerra-no-ira-e-ampliam-pressao-fiscal-no-g7.shtml"
+        "title": "Maya Massafera tranquiliza fãs após internação: 'Estou ótima. Não tive um AVC'",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/maya-massafera-tranquiliza-fas-apos-internacao-estou-otima-nao-tive-um-avc.shtml"
       }
     ],
     "https://oglobo.globo.com/rss.xml": []
