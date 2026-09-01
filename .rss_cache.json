@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01T00:00:02.861623",
+  "timestamp": "2026-09-01T06:00:02.974783",
   "data": {
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada": [
       {
@@ -25,24 +25,24 @@
     ],
     "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml": [
       {
-        "title": "Sánchez promete que el Rey irá a Ceuta sin concretar fecha y hace una defensa cerrada de Marruecos: \"Sin cooperación esta crisis se agravaría\"",
-        "link": "https://www.elmundo.es/espana/2026/08/31/6a951e7ee9cf4a43568b45a0.html"
+        "title": "Las expulsiones de inmigrantes a Marruecos atascadas: \"Los funcionarios no quieren firmar\"",
+        "link": "https://www.elmundo.es/espana/2026/08/31/6a95a49be85eced42a8b4599.html"
       },
       {
-        "title": "Ferraz desautoriza a los alcaldes socialistas que participarán en las concentraciones por Ceuta del 2-S: \"Hay versos libres\"",
-        "link": "https://www.elmundo.es/espana/2026/08/31/6a95693ee85ecefb098b4574.html"
+        "title": "La realidad desborda los cálculos de Sánchez y todavía faltan 4.000 plazas más en Ceuta",
+        "link": "https://www.elmundo.es/espana/2026/09/01/6a95a4c3e85ece8d208b4595.html"
       },
       {
-        "title": "Crece la rebelión de cargos del PSOE contra Sánchez por Ceuta: los alcaldes de Mérida, León, Espartinas, Moguer, Chiclana... se manifestarán junto al PP",
-        "link": "https://www.elmundo.es/andalucia/2026/08/31/6a95443e21efa0a15c8b4585.html"
+        "title": "Los 18 primeros antidisturbios a Ceuta fueron para proteger a Sánchez: quejas policiales por los recursos para cargos públicos",
+        "link": "https://www.elmundo.es/espana/2026/08/31/6a95a923e4d4d8f55b8b4589.html"
       },
       {
-        "title": "Disparos al aire de la Policía para disolver un asentamiento de miles de inmigrantes en Ceuta: \"Había reyertas, agresiones sexuales...\"",
-        "link": "https://www.elmundo.es/espana/2026/08/31/6a95581ce4d4d81f238b459a.html"
+        "title": "Cinco días de violencia ya en Ceuta: \"Va a ocurrir una desgracia\"",
+        "link": "https://www.elmundo.es/espana/2026/08/31/6a95c50efc6c83fa308b459e.html"
       },
       {
-        "title": "Ceuta decide no abrir dos de las tres escuelas infantiles públicas hasta finales de septiembre mientras el Gobierno mantiene la vuelta al cole el día 8",
-        "link": "https://www.elmundo.es/espana/2026/08/31/6a95c7ffe9cf4a921d8b456f.html"
+        "title": "\"Que convoque elecciones y la derecha tendrá una mayoría histórica\": el PP responde a Sánchez por deslegitimar \"la alternancia\"",
+        "link": "https://www.elmundo.es/espana/2026/08/31/6a95ce10e85eceb0388b4570.html"
       }
     ],
     "https://www.lavanguardia.com/rss/home.xml": [
@@ -91,6 +91,10 @@
     ],
     "https://feeds.washingtonpost.com/rss/world": [
       {
+        "title": "Russian finance minister, invited by Trump, draws objections at G-20 meeting",
+        "link": "https://www.washingtonpost.com/world/2026/08/31/russian-finance-minister-invited-by-trump-draws-objections-g-20-meeting/"
+      },
+      {
         "title": "Trump vows to hit Iran hard as strikes and economic pressure ramp up",
         "link": "https://www.washingtonpost.com/world/2026/08/31/irans-economy-long-accustomed-sanctions-feels-new-us-pressure/"
       },
@@ -105,13 +109,21 @@
       {
         "title": "A U.S. strike on Iran breaks a month-long lull, and Iran fires back",
         "link": "https://www.washingtonpost.com/national-security/2026/08/30/us-strikes-iran-missile-sites-larak-island/"
-      },
-      {
-        "title": "Google unveils ‘Lake America’ for U.S. users",
-        "link": "https://www.washingtonpost.com/politics/2026/08/31/google-unveils-lake-america-us-users/"
       }
     ],
     "https://feeds.content.dowjones.io/public/rss/RSSWorldNews": [
+      {
+        "title": "The Ukraine Drones That Are Carrying a Bigger Punch, Deeper Into Russia",
+        "link": "https://www.wsj.com/world/europe/the-ukraine-drones-that-are-carrying-a-bigger-punch-deeper-into-russia-db8a6409?mod=rss_worldnews"
+      },
+      {
+        "title": "Washington’s Deadly New Headache: an al Qaeda-Houthi Terrorist Alliance",
+        "link": "https://www.wsj.com/world/middle-east/iran-oil-houthis-shipping-terrorism-bfa4fd9b?mod=rss_worldnews"
+      },
+      {
+        "title": "Mine Warfare With Iran Hampers U.S. Efforts to Win Control of Hormuz",
+        "link": "https://www.wsj.com/world/europe/mine-warfare-with-iran-hampers-u-s-efforts-to-win-control-of-hormuz-45abc6b0?mod=rss_worldnews"
+      },
       {
         "title": "Bessent Criticizes Canada as Global Summit Shows Divisions",
         "link": "https://www.wsj.com/world/americas/bessent-criticizes-canada-as-global-summit-shows-divisions-483a0b70?mod=rss_worldnews"
@@ -119,40 +131,28 @@
       {
         "title": "Iceland’s Rejection of EU Keeps It a NATO Island Straddling U.S. and Europe",
         "link": "https://www.wsj.com/world/europe/icelands-rejection-of-eu-keeps-it-a-nato-island-straddling-u-s-and-europe-21e133e7?mod=rss_worldnews"
-      },
-      {
-        "title": "Russia Turns to New-Generation Drones and All-Day Attacks to Wear Down Ukrainians",
-        "link": "https://www.wsj.com/world/russia-turns-to-new-generation-drones-and-all-day-attacks-to-wear-down-ukrainians-b492ec1b?mod=rss_worldnews"
-      },
-      {
-        "title": "Fighting Flares in Middle East After U.S. Strike on Iranian Rocket Launchers",
-        "link": "https://www.wsj.com/world/middle-east/u-s-strikes-two-iranian-rocket-launchers-in-first-attack-in-weeks-17602dcf?mod=rss_worldnews"
-      },
-      {
-        "title": "America’s Biggest Companies Ring Up Hefty Sales and Raise Their Outlooks",
-        "link": "https://www.wsj.com/world/americas-biggest-companies-ring-up-hefty-sales-and-raise-their-outlooks-1b78875a?mod=rss_worldnews"
       }
     ],
     "https://www.lemonde.fr/rss/une.xml": [
+      {
+        "title": "Comment Sébastien Lecornu espère faire adopter un budget minimaliste pour 2027",
+        "link": "https://www.lemonde.fr/politique/article/2026/09/01/comment-sebastien-lecornu-espere-faire-adopter-un-budget-minimaliste-pour-2027_6763095_823448.html"
+      },
       {
         "title": "Edouard Balladur, ancien premier ministre, est mort à l’âge de 97 ans",
         "link": "https://www.lemonde.fr/disparitions/article/2026/08/31/edouard-balladur-ancien-premier-ministre-est-mort-a-l-age-de-97-ans_6762811_3382.html"
       },
       {
-        "title": "EN DIRECT, guerre en Ukraine : Kiev prépare de nouvelles frappes contre la Russie et estime que Poutine veut poursuivre la guerre",
+        "title": "EN DIRECT, guerre en Ukraine : des frappes mortelles sur Kiev et sa région ; l’Ukraine dit préparer de nouvelles attaques contre la Russie",
         "link": "https://www.lemonde.fr/international/live/2026/08/31/en-direct-guerre-en-ukraine-kiev-prepare-de-nouvelles-frappes-contre-la-russie-et-estime-que-poutine-veut-poursuivre-la-guerre_6760568_3210.html"
       },
       {
-        "title": "L’Union européenne annonce suspendre ses importations de viande brésilienne à partir de jeudi",
-        "link": "https://www.lemonde.fr/economie/article/2026/08/31/l-union-europeenne-annonce-suspendre-ses-importations-de-viande-bresilienne-a-partir-de-jeudi_6762819_3234.html"
+        "title": "Un nouvel épisode de chaleur « remarquable » attendu à partir de mercredi dans le sud de la France",
+        "link": "https://www.lemonde.fr/planete/article/2026/09/01/un-nouvel-episode-de-chaleur-remarquable-attendu-a-partir-de-mercredi-dans-le-sud-de-la-france_6763098_3244.html"
       },
       {
-        "title": "Apologie du terrorisme : cinq rapporteurs spéciaux de l’ONU prennent la défense de Rima Hassan",
-        "link": "https://www.lemonde.fr/societe/article/2026/08/31/apologie-du-terrorisme-cinq-rapporteurs-speciaux-de-l-onu-prennent-la-defense-de-rima-hassan_6762854_3224.html"
-      },
-      {
-        "title": "Au Népal, après les inondations, les glaciologues sidérés par l’ampleur de la catastrophe",
-        "link": "https://www.lemonde.fr/planete/article/2026/08/31/au-nepal-les-glaciologues-sideres-face-a-l-ampleur-de-la-catastrophe_6762244_3244.html"
+        "title": "La Cour suprême autorise la poursuite du chantier de la salle de bal à la Maison Blanche",
+        "link": "https://www.lemonde.fr/international/article/2026/09/01/la-cour-supreme-autorise-la-poursuite-du-chantier-de-la-salle-de-bal-a-la-maison-blanche_6762954_3210.html"
       }
     ],
     "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
@@ -179,6 +179,10 @@
     ],
     "https://feeds.bbci.co.uk/news/world/rss.xml": [
       {
+        "title": "What it was like inside court for Tupac Shakur’s murder trial verdict",
+        "link": "https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
         "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss"
       },
@@ -191,12 +195,8 @@
         "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
-        "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US and Iran trade strikes for first time in weeks",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
+        "title": "Shein shares slide in long-awaited stock market debut",
+        "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "https://www.theguardian.com/world/rss": [
@@ -311,24 +311,24 @@
     ],
     "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml": [
       {
-        "title": "Raquel Lyra aciona polícia por circulação de cartazes com acusações sobre morte do marido",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/raquel-lyra-aciona-policia-por-circulacao-de-cartazes-com-acusacoes-sobre-morte-do-marido.shtml"
+        "title": "Joesley Batista influenciou Trump em medidas para conter preço da carne nos EUA, diz jornal",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/joesley-batista-influenciou-trump-em-medidas-para-conter-preco-da-carne-nos-eua-diz-jornal.shtml"
       },
       {
-        "title": "Messi fez nos últimos seis anos quase metade de seus gols pela Argentina",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/messi-fez-nos-ultimos-seis-anos-quase-metade-de-seus-gols-pela-argentina.shtml"
+        "title": "Lula promete a empresários fazer o possível para reduzir juros e reclama de descrença sobre questão fiscal",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/lula-promete-a-empresarios-fazer-o-possivel-para-reduzir-juros-e-reclama-de-descrenca-sobre-questao-fiscal.shtml"
       },
       {
-        "title": "Terreno da Comabem vai a leilão para pagar credores; dívida é de R$ 23 milhões",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/terreno-da-comabem-vai-a-leilao-para-pagar-credores-divida-e-de-r-23-milhoes.shtml"
+        "title": "Haddad diz que designação de PCC como terrorista pelos EUA 'é uma questão menor'",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/haddad-diz-que-designacao-de-pcc-como-terrorista-pelos-eua-e-uma-questao-menor.shtml"
       },
       {
-        "title": "Moraes marca julgamento de ação contra Eduardo Bolsonaro por atuação nos EUA",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/moraes-marca-julgamento-de-acao-contra-eduardo-bolsonaro-por-atuacao-nos-eua.shtml"
+        "title": "Corintiano que matou esposa palmeirense é condenado por júri a 13 anos de prisão em SP",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/corintiano-que-matou-esposa-palmeirense-e-condenado-por-juri-a-13-anos-de-prisao-em-sp.shtml"
       },
       {
-        "title": "E se o #ficaemcasa voltasse?",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/no-corre/2026/08/e-se-o-ficaemcasa-voltasse.shtml"
+        "title": "Presidenciáveis criticam emendas do Congresso, mas não detalham como mudar repasses",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/presidenciaveis-criticam-emendas-do-congresso-mas-nao-detalham-como-mudar-repasses.shtml"
       }
     ],
     "https://oglobo.globo.com/rss.xml": []

@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 51.5°C | ⚖ Load: 0.09 | 🌐 Ping: 9.38ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 51.5°C | ⚖ Load: 0.08 | 🌐 Ping: 9.66ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,11 +49,11 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/08/31/6a951e7ee9cf4a43568b45a0.html][Sánchez promete que el Rey irá a Ceuta sin concretar fecha y hace una defensa cerrada de Marruecos: "Sin cooperación esta crisis se agravaría"]]
-- [[https://www.elmundo.es/espana/2026/08/31/6a95693ee85ecefb098b4574.html][Ferraz desautoriza a los alcaldes socialistas que participarán en las concentraciones por Ceuta del 2-S: "Hay versos libres"]]
-- [[https://www.elmundo.es/andalucia/2026/08/31/6a95443e21efa0a15c8b4585.html][Crece la rebelión de cargos del PSOE contra Sánchez por Ceuta: los alcaldes de Mérida, León, Espartinas, Moguer, Chiclana... se manifestarán junto al PP]]
-- [[https://www.elmundo.es/espana/2026/08/31/6a95581ce4d4d81f238b459a.html][Disparos al aire de la Policía para disolver un asentamiento de miles de inmigrantes en Ceuta: "Había reyertas, agresiones sexuales..."]]
-- [[https://www.elmundo.es/espana/2026/08/31/6a95c7ffe9cf4a921d8b456f.html][Ceuta decide no abrir dos de las tres escuelas infantiles públicas hasta finales de septiembre mientras el Gobierno mantiene la vuelta al cole el día 8]]
+- [[https://www.elmundo.es/espana/2026/08/31/6a95a49be85eced42a8b4599.html][Las expulsiones de inmigrantes a Marruecos atascadas: "Los funcionarios no quieren firmar"]]
+- [[https://www.elmundo.es/espana/2026/09/01/6a95a4c3e85ece8d208b4595.html][La realidad desborda los cálculos de Sánchez y todavía faltan 4.000 plazas más en Ceuta]]
+- [[https://www.elmundo.es/espana/2026/08/31/6a95a923e4d4d8f55b8b4589.html][Los 18 primeros antidisturbios a Ceuta fueron para proteger a Sánchez: quejas policiales por los recursos para cargos públicos]]
+- [[https://www.elmundo.es/espana/2026/08/31/6a95c50efc6c83fa308b459e.html][Cinco días de violencia ya en Ceuta: "Va a ocurrir una desgracia"]]
+- [[https://www.elmundo.es/espana/2026/08/31/6a95ce10e85eceb0388b4570.html]["Que convoque elecciones y la derecha tendrá una mayoría histórica": el PP responde a Sánchez por deslegitimar "la alternancia"]]
 
 *** La Vanguardia
 
@@ -75,29 +75,29 @@
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/08/31/russian-finance-minister-invited-by-trump-draws-objections-g-20-meeting/][Russian finance minister, invited by Trump, draws objections at G-20 meeting]]
 - [[https://www.washingtonpost.com/world/2026/08/31/irans-economy-long-accustomed-sanctions-feels-new-us-pressure/][Trump vows to hit Iran hard as strikes and economic pressure ramp up]]
 - [[https://www.washingtonpost.com/sports/2026/08/31/soccer-great-lionel-messi-announces-retirement-argentinas-national-team/][Soccer great Lionel Messi announces retirement from Argentina’s national team]]
 - [[https://www.washingtonpost.com/world/2026/08/31/iceland-opposes-eu-membership-talks-local-concerns-outweigh-fears-trump/][Iceland opposes E.U. membership talks as local concerns outweigh fears of Trump]]
 - [[https://www.washingtonpost.com/national-security/2026/08/30/us-strikes-iran-missile-sites-larak-island/][A U.S. strike on Iran breaks a month-long lull, and Iran fires back]]
-- [[https://www.washingtonpost.com/politics/2026/08/31/google-unveils-lake-america-us-users/][Google unveils ‘Lake America’ for U.S. users]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/europe/the-ukraine-drones-that-are-carrying-a-bigger-punch-deeper-into-russia-db8a6409?mod=rss_worldnews][The Ukraine Drones That Are Carrying a Bigger Punch, Deeper Into Russia]]
+- [[https://www.wsj.com/world/middle-east/iran-oil-houthis-shipping-terrorism-bfa4fd9b?mod=rss_worldnews][Washington’s Deadly New Headache: an al Qaeda-Houthi Terrorist Alliance]]
+- [[https://www.wsj.com/world/europe/mine-warfare-with-iran-hampers-u-s-efforts-to-win-control-of-hormuz-45abc6b0?mod=rss_worldnews][Mine Warfare With Iran Hampers U.S. Efforts to Win Control of Hormuz]]
 - [[https://www.wsj.com/world/americas/bessent-criticizes-canada-as-global-summit-shows-divisions-483a0b70?mod=rss_worldnews][Bessent Criticizes Canada as Global Summit Shows Divisions]]
 - [[https://www.wsj.com/world/europe/icelands-rejection-of-eu-keeps-it-a-nato-island-straddling-u-s-and-europe-21e133e7?mod=rss_worldnews][Iceland’s Rejection of EU Keeps It a NATO Island Straddling U.S. and Europe]]
-- [[https://www.wsj.com/world/russia-turns-to-new-generation-drones-and-all-day-attacks-to-wear-down-ukrainians-b492ec1b?mod=rss_worldnews][Russia Turns to New-Generation Drones and All-Day Attacks to Wear Down Ukrainians]]
-- [[https://www.wsj.com/world/middle-east/u-s-strikes-two-iranian-rocket-launchers-in-first-attack-in-weeks-17602dcf?mod=rss_worldnews][Fighting Flares in Middle East After U.S. Strike on Iranian Rocket Launchers]]
-- [[https://www.wsj.com/world/americas-biggest-companies-ring-up-hefty-sales-and-raise-their-outlooks-1b78875a?mod=rss_worldnews][America’s Biggest Companies Ring Up Hefty Sales and Raise Their Outlooks]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
+- [[https://www.lemonde.fr/politique/article/2026/09/01/comment-sebastien-lecornu-espere-faire-adopter-un-budget-minimaliste-pour-2027_6763095_823448.html][Comment Sébastien Lecornu espère faire adopter un budget minimaliste pour 2027]]
 - [[https://www.lemonde.fr/disparitions/article/2026/08/31/edouard-balladur-ancien-premier-ministre-est-mort-a-l-age-de-97-ans_6762811_3382.html][Edouard Balladur, ancien premier ministre, est mort à l’âge de 97 ans]]
-- [[https://www.lemonde.fr/international/live/2026/08/31/en-direct-guerre-en-ukraine-kiev-prepare-de-nouvelles-frappes-contre-la-russie-et-estime-que-poutine-veut-poursuivre-la-guerre_6760568_3210.html][EN DIRECT, guerre en Ukraine : Kiev prépare de nouvelles frappes contre la Russie et estime que Poutine veut poursuivre la guerre]]
-- [[https://www.lemonde.fr/economie/article/2026/08/31/l-union-europeenne-annonce-suspendre-ses-importations-de-viande-bresilienne-a-partir-de-jeudi_6762819_3234.html][L’Union européenne annonce suspendre ses importations de viande brésilienne à partir de jeudi]]
-- [[https://www.lemonde.fr/societe/article/2026/08/31/apologie-du-terrorisme-cinq-rapporteurs-speciaux-de-l-onu-prennent-la-defense-de-rima-hassan_6762854_3224.html][Apologie du terrorisme : cinq rapporteurs spéciaux de l’ONU prennent la défense de Rima Hassan]]
-- [[https://www.lemonde.fr/planete/article/2026/08/31/au-nepal-les-glaciologues-sideres-face-a-l-ampleur-de-la-catastrophe_6762244_3244.html][Au Népal, après les inondations, les glaciologues sidérés par l’ampleur de la catastrophe]]
+- [[https://www.lemonde.fr/international/live/2026/08/31/en-direct-guerre-en-ukraine-kiev-prepare-de-nouvelles-frappes-contre-la-russie-et-estime-que-poutine-veut-poursuivre-la-guerre_6760568_3210.html][EN DIRECT, guerre en Ukraine : des frappes mortelles sur Kiev et sa région ; l’Ukraine dit préparer de nouvelles attaques contre la Russie]]
+- [[https://www.lemonde.fr/planete/article/2026/09/01/un-nouvel-episode-de-chaleur-remarquable-attendu-a-partir-de-mercredi-dans-le-sud-de-la-france_6763098_3244.html][Un nouvel épisode de chaleur « remarquable » attendu à partir de mercredi dans le sud de la France]]
+- [[https://www.lemonde.fr/international/article/2026/09/01/la-cour-supreme-autorise-la-poursuite-du-chantier-de-la-salle-de-bal-a-la-maison-blanche_6762954_3210.html][La Cour suprême autorise la poursuite du chantier de la salle de bal à la Maison Blanche]]
 
 *** Le Figaro
 
@@ -111,11 +111,11 @@
 
 *** BBC News
 
+- [[https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o?at_medium=RSS&at_campaign=rss][What it was like inside court for Tupac Shakur’s murder trial verdict]]
 - [[https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss][Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously]]
 - [[https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss][US singer D4vd's celebrity lawyers withdraw from murder case]]
 - [[https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss][Man arrested after Swiss rave shooting that killed woman]]
-- [[https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss]['She slipped out of my hand' - children missing after ferry sinks off northern Cyprus]]
-- [[https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss][US and Iran trade strikes for first time in weeks]]
+- [[https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss][Shein shares slide in long-awaited stock market debut]]
 
 *** The Guardian
 
@@ -165,11 +165,11 @@
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/raquel-lyra-aciona-policia-por-circulacao-de-cartazes-com-acusacoes-sobre-morte-do-marido.shtml][Raquel Lyra aciona polícia por circulação de cartazes com acusações sobre morte do marido]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/messi-fez-nos-ultimos-seis-anos-quase-metade-de-seus-gols-pela-argentina.shtml][Messi fez nos últimos seis anos quase metade de seus gols pela Argentina]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/terreno-da-comabem-vai-a-leilao-para-pagar-credores-divida-e-de-r-23-milhoes.shtml][Terreno da Comabem vai a leilão para pagar credores; dívida é de R$ 23 milhões]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/moraes-marca-julgamento-de-acao-contra-eduardo-bolsonaro-por-atuacao-nos-eua.shtml][Moraes marca julgamento de ação contra Eduardo Bolsonaro por atuação nos EUA]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/no-corre/2026/08/e-se-o-ficaemcasa-voltasse.shtml][E se o #ficaemcasa voltasse?]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/joesley-batista-influenciou-trump-em-medidas-para-conter-preco-da-carne-nos-eua-diz-jornal.shtml][Joesley Batista influenciou Trump em medidas para conter preço da carne nos EUA, diz jornal]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/lula-promete-a-empresarios-fazer-o-possivel-para-reduzir-juros-e-reclama-de-descrenca-sobre-questao-fiscal.shtml][Lula promete a empresários fazer o possível para reduzir juros e reclama de descrença sobre questão fiscal]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/haddad-diz-que-designacao-de-pcc-como-terrorista-pelos-eua-e-uma-questao-menor.shtml][Haddad diz que designação de PCC como terrorista pelos EUA 'é uma questão menor']]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/corintiano-que-matou-esposa-palmeirense-e-condenado-por-juri-a-13-anos-de-prisao-em-sp.shtml][Corintiano que matou esposa palmeirense é condenado por júri a 13 anos de prisão em SP]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/presidenciaveis-criticam-emendas-do-congresso-mas-nao-detalham-como-mudar-repasses.shtml][Presidenciáveis criticam emendas do Congresso, mas não detalham como mudar repasses]]
 
 *** O Globo
 
