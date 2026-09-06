@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 52.1°C | ⚖ Load: 0.08 | 🌐 Ping: 9.73ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 52.1°C | ⚖ Load: 0.00 | 🌐 Ping: 9.79ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -42,44 +42,44 @@
 *** El País
 
 - [[https://elpais.com/ideas/2026-09-06/marruecos-envalentonado-mohamed-vi-se-crece-gracias-al-apoyo-de-trump-y-de-israel.html][Marruecos, envalentonado: Mohamed VI se crece gracias al apoyo de Trump (y de Israel)]]
-- [[https://elpais.com/espana/2026-09-06/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html][Última hora de la entrada de inmigrantes a Ceuta, en directo | Trump ve “triste” lo que pasa en Ceuta y dice que España no controla su frontera]]
-- [[https://elpais.com/espana/2026-09-06/ceuta-atrapada-en-la-guerra-politica.html][Ceuta, atrapada en la guerra política]]
-- [[https://elpais.com/espana/2026-09-06/las-otras-crisis-de-interior-que-marcan-el-paso-a-marlaska-en-ceuta.html][Las otras crisis de Interior que marcan el paso a Marlaska en Ceuta]]
-- [[https://elpais.com/espana/2026-09-06/la-vuelta-al-cole-en-ceuta-de-material-escolar-lo-primero-es-el-gas-pimienta.html][La vuelta al cole en Ceuta: “De material escolar, lo primero es el gas pimienta”]]
+- [[https://elpais.com/espana/2026-09-06/trump-vuelve-a-usar-la-triste-crisis-de-ceuta-para-criticar-a-espana-pais-con-cero-control-de-su-frontera.html][Trump vuelve a usar la “triste” crisis de Ceuta para criticar a España, “un país con cero control de su frontera”]]
+- [[https://elpais.com/espana/2026-09-06/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html][Última hora de la entrada de inmigrantes a Ceuta, en directo | Marlaska vuelve a Ceuta este martes]]
+- [[https://elpais.com/internacional/2026-09-06/tomoko-akane-presidenta-del-tribunal-penal-internacional-tarde-o-temprano-la-historia-nos-pedira-cuentas-a-todos-donde-estabas.html][Tomoko Akane, presidenta del Tribunal Penal Internacional: “Tarde o temprano la Historia nos pedirá cuentas a todos. ¿Dónde estabas?"]]
+- [[https://elpais.com/espana/2026-09-05/soy-manuel-lluesma-ejecutado-el-29-del-12-de-1942-dejo-hijos.html][“Soy Manuel Lluesma, ejecutado el 29 del 12 de 1942. Dejo hijos”]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/internacional/2026/09/06/6a9bf5f7fc6c833e0e8b4570.html][El amigo íntimo canadiense]]
+- [[https://www.elmundo.es/espana/2026/09/06/6a9c47b321efa00a318b4583.html][La izquierda del PSOE abandona a Sánchez con Ceuta: "No podíamos tragarnos esto como tragamos el Sáhara"]]
+- [[https://www.elmundo.es/espana/2026/09/06/6a9c2f59fc6c83e50b8b458c.html][Temor en el Gobierno a un aumento de la tensión social por la crisis de Ceuta]]
+- [[https://www.elmundo.es/cronica/2026/09/05/6a9b01a1e4d4d8d00a8b45e6.html][En busca de Farah, la 'niña leyenda' marroquí que disparó el efecto llamada hacia Ceuta (según el Gobierno)]]
 - [[https://www.elmundo.es/espana/2026/09/05/6a9c3abfe85ece0a068b45a3.html][Un tercio de los habitantes de Ceuta han pensado en marcharse desde el inicio de la crisis]]
 - [[https://www.elmundo.es/espana/2026/09/06/6a9b1078fc6c83b7498b457b.html]["Llevo 20 años como guardia civil en la frontera de El Tarajal, y lo peor es que nuestro trabajo no sirve para nada, es lamentable"]]
-- [[https://www.elmundo.es/espana/2026/09/06/6a9c506de4d4d8c92c8b456f.html][La Jungla de Calais, en Ceuta]]
-- [[https://www.elmundo.es/espana/2026/09/06/6a9d21d2fc6c8369228b45a6.html][El PP planteará un conflicto de atribuciones ante el Tribunal Constitucional por el 'plantón' de tres ministros]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/local/barcelona/20260906/11628106/manresa-veintena-jovenes-miedo-ciudad.html][Manresa, una veintena de jóvenes y el miedo de una ciudad]]
-- [[https://www.lavanguardia.com/opinion/20260906/11628203/miedo-salir-noche.html][Del miedo a salir de noche]]
-- [[https://www.lavanguardia.com/politica/20260906/11628129/paciencia-ceuta-gobierna-espana.html][La paciencia de Ceuta gobierna España]]
-- [[https://www.lavanguardia.com/politica/20260906/11628401/trump-tilda-triste-caso-ceuta-acusa-sanchez-control-sobre-frontera.html][Trump tilda de “triste” el caso de Ceuta y acusa a Sánchez de no tener control sobre la frontera]]
+- [[https://www.lavanguardia.com/politica/20260906/11627567/red-foros-chats-agito-mensaje-salto-ceuta-1-5-millones-personas.html][Una red de foros y chats agitó el mensaje del salto a Ceuta entre 1,5 millones de personas]]
 - [[https://www.lavanguardia.com/politica/20260906/11628029/angel-victor-torres-lealtad-gobierno-ceuta-hay-cuestiones-esto-acabe-diremos.html][“¿Lealtad del gobierno de Ceuta? Hay cuestiones que, cuando esto acabe, diremos”]]
+- [[https://www.lavanguardia.com/politica/20260906/11628519/21-migrantes-detenidos-lanzar-piedras-militares-guardias-civiles-ceuta.html][21 migrantes detenidos en Ceuta por lanzar piedras a militares y guardias civiles]]
+- [[https://www.lavanguardia.com/politica/20260906/11628129/paciencia-ceuta-gobierna-espana.html][La paciencia de Ceuta gobierna España]]
+- [[https://www.lavanguardia.com/politica/20260906/11628201/despegan-eurofighters.html][Despegan los Eurofighters]]
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/alertan-posibles-afecciones-8-67-avance-tormentas-cantabria/20260906173232198141.html][Alertan de posibles afecciones en la A-8 y la A-67 por las tormentas que avanzan en Cantabria]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/supremo-condena-gobierno-cantabria-mantener-casi-cinco-anos-trabajadora-interina-contratacion-larga-injustificada/20260906134632198139.html][El Supremo condena al Gobierno de Cantabria por mantener durante casi cinco años a una trabajadora interina con una contratación "larga e injustificada"]]
+- [[https://eldiariocantabria.publico.es/articulo/oriental/cientos-personas-viven-segundo-encierro-limpio-emocionante-rapido/20260906131545198138.html][Cientos de personas viven un segundo encierro "limpio, emocionante y rápido"]]
+- [[https://eldiariocantabria.publico.es/articulo/memoria/gobierno-ordena-retirada-monumento-carrero-blanco-exaltar-franquismo/20260906124757198137.html][El Ministerio ordena la retirada del monumento a Carrero Blanco por exaltar el franquismo]]
 - [[https://eldiariocantabria.publico.es/articulo/cantabria/cantabria-supera-millon-expedientes-electronicos-gestiona-97-procedimientos-internet/20260906115522198136.html][Cantabria supera el millón de expedientes electrónicos y ya gestiona el 97% de sus procedimientos por internet]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/incendio-forestal-cantabria-amenaza-nucleo-urbano-correpoco/20260906110220198134.html][Un incendio forestal amenaza el núcleo urbano de Correpoco]]
-- [[https://eldiariocantabria.publico.es/articulo/deportes/racing-merece-mas-rayo-vallecano-3-2/20260905221132198132.html][El Racing merece más ante el Rayo Vallecano (3-2)]]
-- [[https://eldiariocantabria.publico.es/articulo/santander/ayuntamiento-vuelve-vallar-vial-arco-faro-santander-circulacion-vehiculos/20260905215237198129.html][El Ayuntamiento vuelve a vallar el vial bajo el arco de Faro Santander tras el paso de vehículos y dos días después del auto que obliga a abrirlo]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/asi-sera-tiempo-domingo-cantabria-tormentas-granizo-temperaturas-34-grados/20260905212957198127.html][Así será el tiempo en Cantabria este domingo: tormentas, granizo y temperaturas de hasta 34 grados]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/09/06/us-envoys-kyiv-russia-ukraine-peace-talks-after-meeting-with-putin/][U.S. envoys in Kyiv for Russia-Ukraine peace talks after meeting with Putin]]
+- [[https://www.washingtonpost.com/world/2026/09/06/deadly-iran-wedding-strike-likely-due-us-weapon-missing-nearby-target/][Deadly Iran wedding strike likely due to U.S. bomb missing a nearby target]]
+- [[https://www.washingtonpost.com/world/2026/09/06/alternative-germany-looks-big-boost-regional-elections-germany/][Alternative for Germany looks for big boost in regional elections in Germany]]
+- [[https://www.washingtonpost.com/world/2026/09/06/rare-flurry-trips-xi-pitches-china-stable-alternative-us-under-trump/][In rare flurry of trips, Xi pitches China as stable alternative to U.S. under Trump]]
 - [[https://www.washingtonpost.com/world/2026/09/05/us-says-it-hit-3-iranian-oil-tankers-including-one-near-kharg-island/][U.S. military says it hit 3 Iranian tankers after Navy ships targeted]]
-- [[https://www.washingtonpost.com/world/2026/09/05/witkoff-kushner-arrive-moscow-talks-with-putin/][U.S. envoys meet Putin in Moscow, pressing Russia-Ukraine peace talks]]
-- [[https://www.washingtonpost.com/world/2026/09/05/crew-uss-abraham-lincoln-spends-few-days-thailand-after-nine-months-sea/][After nine months at sea, a muted stay in Thailand for crew of USS Abraham Lincoln]]
-- [[https://www.washingtonpost.com/world/2026/09/05/un-endorses-map-change-represent-africa-more-accurately/][The U.N. backed a map that shows Africa true to size. The U.S. was sole objector.]]
-- [[https://www.washingtonpost.com/world/2026/09/05/trove-documents-reveals-alleged-chemical-weapons-stockpile-sudan/][Trove of documents reveals alleged chemical weapons stockpile in Sudan]]
 
 *** WSJ.com: World News
 
@@ -93,29 +93,29 @@
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/politique/article/2026/09/06/presidentielle-2027-les-risques-d-une-campagne-a-l-ombre-de-l-esprit-de-defaite_6766815_823448.html][Présidentielle 2027 : les risques d’une campagne à l’ombre de « l’esprit de défaite »]]
-- [[https://www.lemonde.fr/international/article/2026/09/06/vladimir-poutine-rappelle-ses-exigences-aux-deux-emissaires-de-donald-trump-venus-au-kremlin-avec-des-idees-pour-la-paix_6766768_3210.html][Vladimir Poutine rappelle ses exigences aux deux émissaires de Donald Trump venus au Kremlin avec des « idées » pour la paix]]
-- [[https://www.lemonde.fr/international/article/2026/09/06/pourquoi-l-extreme-droite-pourrait-gouverner-la-saxe-anhalt-ce-qu-il-faut-savoir-avant-les-elections-du-6-septembre_6766775_3210.html][Pourquoi l’extrême droite pourrait gouverner la Saxe-Anhalt : ce qu’il faut savoir avant les élections du 6 septembre]]
-- [[https://www.lemonde.fr/planete/article/2026/09/06/en-france-la-faune-sauvage-a-durement-souffert-des-canicules-et-de-la-secheresse-toute-la-chaine-alimentaire-est-perturbee_6766771_3244.html][En France, la faune sauvage a durement souffert des canicules et de la sécheresse : « Toute la chaîne alimentaire est perturbée »]]
-- [[https://www.lemonde.fr/livres/article/2026/09/06/antoine-volodine-signe-simultanement-onze-livres-sous-le-nom-d-infernus-iohannes-autant-de-points-finaux_6766777_3260.html][Antoine Volodine signe simultanément onze livres sous le nom d’Infernus Iohannes : autant de points finaux]]
+- [[https://www.lemonde.fr/international/live/2026/09/06/en-direct-elections-regionales-en-allemagne-l-afd-peut-elle-remporter-son-premier-land-en-saxe-anhalt-suivez-la-soiree-electorale-avec-nous_6767342_3210.html][EN DIRECT, élections régionales en Allemagne : « La perspective d’une arrivée au pouvoir de l’AfD en Saxe-Anhalt est scrutée de près, le parti d’extrême droite ayant l’intention de ne pas appliquer un certain nombre de politiques fédérales »]]
+- [[https://www.lemonde.fr/societe/article/2026/09/06/loik-le-priol-face-a-la-justice-pour-l-assassinat-de-l-ex-rugbyman-federico-martin-aramburu_6767297_3224.html][Loïk Le Priol face à la justice pour l’assassinat de l’ex-rugbyman Federico Martin Aramburu]]
+- [[https://www.lemonde.fr/international/live/2026/09/06/en-direct-guerre-en-ukraine-le-president-ukrainien-volodymyr-zelensky-rencontre-les-emissaires-americains-jared-kushner-et-steve-witkoff-a-kiev_6766818_3210.html][EN DIRECT, guerre en Ukraine : les premières discussions avec Volodymyr Zelensky ont été « très significatives », a déclaré Steve Witkoff, en visite à Kiev avec Jared Kushner]]
+- [[https://www.lemonde.fr/culture/article/2026/09/06/luz-dessinateur-apres-l-attentat-de-2015-j-ai-ete-habite-par-des-fantomes_6766817_3246.html][Luz, dessinateur : « Après l’attentat de 2015, j’ai été habité par des fantômes »]]
+- [[https://www.lemonde.fr/campus/article/2026/09/06/on-subit-un-abandon-et-on-se-retrouve-encore-seul-a-devoir-trouver-les-reponses-le-parcours-solitaire-des-jeunes-adoptes_6766816_4401467.html][« On subit un abandon, et on se retrouve encore seul à devoir trouver les réponses » : le parcours solitaire des jeunes adoptés]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-la-france-courrait-un-danger-letal-en-cas-de-deuxieme-tour-entre-le-rn-et-lfi-juge-francois-bayrou-20260906][EN DIRECT - Présidentielle 2027 : la France «courrait un danger létal» en cas de deuxième tour entre le RN et LFI, juge François Bayrou]]
-- [[https://www.lefigaro.fr/politique/jordan-bardella-reaffirme-son-affinite-politique-et-personnelle-indefectible-envers-marine-le-pen-20260906][Jordan Bardella réaffirme son «affinité politique et personnelle indéfectible» envers Marine Le Pen]]
-- [[https://www.lefigaro.fr/elections/presidentielles/a-levens-eric-ciotti-pose-un-pacte-d-alliance-sur-la-table-de-marine-le-pen-20260905][À Levens, Éric Ciotti pose un «pacte d’alliance» sur la table de Marine Le Pen]]
-- [[https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-le-patron-de-casino-demande-aux-candidats-de-defendre-les-commerces-de-proximite-20260906][Présidentielle 2027 : le patron de Casino demande aux candidats de défendre les commerces de proximité]]
+- [[https://www.lefigaro.fr/international/allemagne-ouverture-des-bureaux-de-vote-pour-les-legislatives-en-saxe-anhalt-l-afd-en-quete-d-une-victoire-historique-20260906][Allemagne : l’AfD en quête d’une victoire historique, les premières estimations attendues à la fermeture des bureaux de vote à 18h en Saxe-Anhalt]]
+- [[https://www.lefigaro.fr/international/ici-c-est-aussi-l-orientation-future-de-notre-pays-qui-se-joue-l-allemagne-retient-son-souffle-avant-l-election-en-saxe-anhalt-20260904][«Ici, c’est aussi l’orientation future de notre pays qui se joue» : l’Allemagne retient son souffle avant l’élection en Saxe-Anhalt]]
+- [[https://www.lefigaro.fr/international/on-va-gagner-en-saxe-anhalt-une-journee-de-campagne-avec-le-parti-d-extreme-droite-afd-plus-proche-que-jamais-du-pouvoir-20260904][« On va gagner ! » : en Saxe-Anhalt, une journée de campagne avec le parti d’extrême droite AfD, plus proche que jamais du pouvoir]]
+- [[https://www.lefigaro.fr/international/en-direct-guerre-en-ukraine-apres-une-rencontre-avec-poutine-a-moscou-les-emissaires-de-trump-attendus-a-kiev-pour-la-premiere-fois-20260906][EN DIRECT - Guerre en Ukraine : les pourparlers à Kiev ont été «significatifs» et se poursuivront «aussi longtemps qu’il le faudra», annonce Steve Witkoff]]
 - [[https://www.lefigaro.fr/international/guerre-en-ukraine-dans-le-salon-rouge-du-kremlin-trois-heures-de-discussion-entre-witkoff-kushner-et-poutine-sans-avancee-notable-20260906][Guerre en Ukraine : dans le Salon rouge du Kremlin, trois heures de discussion entre Witkoff, Kushner et Poutine... sans avancée notable]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss][US envoys set for Ukraine talks after meeting Putin in Russia]]
-- [[https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss][US and Iran trade retaliatory attacks on ships as conflict flares]]
-- [[https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss][TV presenter among 12 sentenced to death in Egypt drugs case]]
+- [[https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss][US envoys hold talks with Zelensky in Kyiv after meeting Putin]]
 - [[https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss][Volcano eruption leaves 150,000 passengers stranded in Indonesia]]
-- [[https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss][Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home]]
+- [[https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss][Dozens feared trapped in collapsed building in Delhi]]
+- [[https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss][TV presenter among 12 sentenced to death in Egypt drugs case]]
+- [[https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss][US and Iran trade retaliatory attacks on ships as conflict flares]]
 
 *** The Guardian
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/tronchetti-provera-l-europa-cambi-governance-o-restera-fuori-giochi-AJ51FY4][Tronchetti Provera: «L’Europa cambi governance o resterà fuori dai giochi»]]
-- [[https://www.ilsole24ore.com/art/cernobbio-oggi-attesi-forum-interventi-salvini-schlein-e-renzi-AJPhqt4][Cernobbio, Renzi: scandalo golden power su UniCredit. Schlein: usare flessibilità Ue per energia]]
-- [[https://www.ilsole24ore.com/art/carburanti-via-altro-taglio-accise-gasolio-aiuti-mirati-forse-fine-mese-AJK6pa4][Carburanti, al via un altro taglio accise sul gasolio: gli aiuti mirati forse a fine mese]]
-- [[https://www.ilsole24ore.com/art/violenza-donne-politica-risponde-all-appello-all-unita-padre-lorena-isceri-AJzSKg4][Violenza sulle donne, la politica  risponde all’appello all’unità del padre di Lorena Isceri]]
-- [[https://www.ilsole24ore.com/art/detenuti-41-bis-sardegna-regione-contro-governo-trattati-come-cayenna-d-italia-AJzqnd4][Detenuti 41 bis in Sardegna, la Regione contro il Governo: «trattati come Cayenna d’Italia»]]
+- [[https://www.ilsole24ore.com/art/trasporti-lunedi-sera-parte-sciopero-nazionale-treni-dettagli-AJSKg74][Trasporti, lunedì sera parte lo sciopero nazionale dei treni: i dettagli]]
+- [[https://www.ilsole24ore.com/art/il-vaticano-fine-vita-meno-fondi-ad-armi-e-piu-cure-palliative-AJkj734][Il Vaticano sul fine vita: «Meno fondi ad armi e più cure palliative»]]
+- [[https://www.ilsole24ore.com/art/giorgetti-nella-prudenza-conti-sovranismo-pragmatico-fine-anno-pil-al-1percento-AJD4C44][Giorgetti: «Nella prudenza dei conti il sovranismo pragmatico. A fine anno Pil vicino al +1%»]]
+- [[https://www.ilsole24ore.com/art/a-cernobbio-oltre-90percento-imprese-boccia-politica-estera-trump-AJHUHz4][A Cernobbio oltre il 90% delle imprese boccia la politica estera di Trump]]
+- [[https://www.ilsole24ore.com/art/muore-incastrato-un-macchinario-la-raccolta-dell-uva-trapanese-AJy98x4][Muore incastrato in un macchinario per la raccolta dell’uva nel Trapanese]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/us-envoys-witkoff-kushner-arrive-in-kiyv-after-putin-talks/a-79054779?maca=en-rss-en-world-4025-rdf][US envoys Witkoff, Kushner arrive in Kiyv after Putin talks]]
+- [[https://www.dw.com/en/germany-kosovo-unite-against-ticks-carrying-deadly-virus/a-78655223?maca=en-rss-en-world-4025-rdf][Germany, Kosovo unite against ticks carrying deadly virus]]
 - [[https://www.dw.com/en/how-climate-change-and-food-insecurity-could-fuel-future-conflicts/a-78871431?maca=en-rss-en-world-4025-rdf][How climate change and food insecurity could fuel future conflicts]]
 - [[https://www.dw.com/en/ebola-why-children-are-last-to-be-treated-in-medical-crises/a-79050107?maca=en-rss-en-world-4025-rdf][Ebola: Why children are last to be treated in medical crises]]
 - [[https://www.dw.com/en/hungary-begins-hunt-for-corrupt-regime-s-billions/a-79047176?maca=en-rss-en-world-4025-rdf][Hungary begins hunt for corrupt regime's billions]]
-- [[https://www.dw.com/en/why-many-syrians-feel-assad-death-sentence-isn-t-enough/a-78985915?maca=en-rss-en-world-4025-rdf][Why many Syrians feel Assad death sentence isn't enough]]
-- [[https://www.dw.com/en/outrage-as-maltese-tycoon-acquitted-in-journalist-s-murder/a-79027008?maca=en-rss-en-world-4025-rdf][Outrage as Maltese tycoon acquitted in journalist's murder]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/eles-abriram-a-porta-e-nos-arrastaram-para-fora-operacao-do-ice-amplia-medo-em-nova-jersey.shtml]['Eles abriram a porta e nos arrastaram para fora': operação do ICE amplia medo em Nova Jersey]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/expedicao-na-mata-atlantica-busca-microrganismos-para-construir-banco-de-moleculas.shtml][Expedição na mata atlântica busca microrganismos para construir banco de moléculas]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/planalto-mobiliza-militancia-para-lotar-7-de-setembro-mas-proibe-propaganda-politica.shtml][Planalto mobiliza militância para lotar 7 de Setembro, mas proíbe propaganda política]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/confira-a-partir-das-11h-deste-domingo-6-o-resultado-do-concurso-3054-da-mega-sena.shtml][Confira a partir das 11h deste domingo (6) o resultado do concurso 3054 da Mega-Sena]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/sos-mata-atlantica-completa-40-anos-tentando-reacender-mobilizacao-popular.shtml][SOS Mata Atlântica completa 40 anos tentando reacender mobilização popular]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/mulher-de-lito-souza-nega-privilegio-para-obter-remedio-experimental.shtml][Mulher de Lito Souza nega privilégio para obter remédio experimental]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/contas-do-rj-perdem-folego-apos-impulso-de-receita-extraordinaria-e-interino-tenta-reverter-deficit.shtml][Contas do RJ perdem fôlego após impulso de receita extraordinária, e interino tenta reverter déficit]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/ha-agencias-que-dizem-para-nao-me-contratarem-diz-susan-sarandon-em-veneza.shtml]['Há agências que dizem para não me contratarem', diz Susan Sarandon, em Veneza]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/antonelli-escala-o-grid-vence-e-faz-a-festa-dos-italianos-em-monza.shtml][Antonelli escala o grid, vence e faz a festa dos italianos em Monza]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/acidente-com-onibus-de-excursao-infantil-mata-ao-menos-25-em-cabo-verde.shtml][Acidente com ônibus de excursão infantil mata ao menos 25 em Cabo Verde]]
 
 *** O Globo
 
