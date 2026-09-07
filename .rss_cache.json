@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-07T00:00:03.211916",
+  "timestamp": "2026-09-07T06:00:02.531144",
   "data": {
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada": [
       {
@@ -25,30 +25,34 @@
     ],
     "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml": [
       {
-        "title": "Las taxi-pateras irrumpen \"sin control\" en las costas de Murcia: \"Hay una sensación de impunidad\"",
-        "link": "https://www.elmundo.es/murcia/2026/09/06/6a99a00521efa0ec718b457f.html"
+        "title": "La Audiencia Nacional investiga un contrato ficticio de 15 millones vinculado a la financiación del PSOE",
+        "link": "https://www.elmundo.es/espana/2026/09/06/6a9d861fe85ece85578b458c.html"
       },
       {
-        "title": "Temor en el Gobierno a un aumento de la tensión social por la crisis de Ceuta",
-        "link": "https://www.elmundo.es/espana/2026/09/06/6a9c2f59fc6c83e50b8b458c.html"
+        "title": "Los ex directivos de Plus Ultra confirmarán ante el juez el pago de la 'mordida' a Zapatero por el rescate a la compañía",
+        "link": "https://www.elmundo.es/espana/2026/09/06/6a9da1bb21efa086438b4592.html"
       },
       {
-        "title": "En busca de Farah, la 'niña leyenda' marroquí que disparó el efecto llamada hacia Ceuta (según el Gobierno)",
-        "link": "https://www.elmundo.es/cronica/2026/09/05/6a9b01a1e4d4d8d00a8b45e6.html"
+        "title": "Pánico autonómico al batacazo en el informe PISA, que examina toda la era Sánchez: \"Vamos a volver a caer\"",
+        "link": "https://www.elmundo.es/espana/2026/09/06/6a9d2ff1fdddff8d4c8b4581.html"
       },
       {
-        "title": "Un tercio de los habitantes de Ceuta han pensado en marcharse desde el inicio de la crisis",
-        "link": "https://www.elmundo.es/espana/2026/09/05/6a9c3abfe85ece0a068b45a3.html"
+        "title": "La insólita vuelta al cole en Ceuta con policías, absentismo e incertidumbre",
+        "link": "https://www.elmundo.es/espana/2026/09/07/6a9da4d8fc6c8334508b4578.html"
       },
       {
-        "title": "21 detenidos tras un nuevo ataque con piedras a militares en Ceuta",
-        "link": "https://www.elmundo.es/espana/2026/09/06/6a9d4864fdddff8d4c8b458b.html"
+        "title": "Barones del PP asumen que tendrán que acoger a los menores de Ceuta: \"Y no podremos decir que no\",",
+        "link": "https://www.elmundo.es/espana/2026/09/07/6a9d9d6efc6c830b1d8b459b.html"
       }
     ],
     "https://www.lavanguardia.com/rss/home.xml": [
       {
-        "title": "La ultraderecha arrasa en Sajonia-Anhalt y podría llegar a gobernar",
+        "title": "La ultraderecha alemana arrasa en Sajonia-Anhalt y podría llegar a gobernar por primera vez",
         "link": "https://www.lavanguardia.com/internacional/20260906/11628575/ultraderechista-afd-arrasa-sajonia-anhalt-logra-mayoria-absoluta-sondeos.html"
+      },
+      {
+        "title": "Un futuro inquietante",
+        "link": "https://www.lavanguardia.com/opinion/20260907/11628626/afd-sajonia-anhalt-merz-hitler.html"
       },
       {
         "title": "“¿Lealtad del gobierno de Ceuta? Hay cuestiones que, cuando esto acabe, diremos”",
@@ -59,12 +63,8 @@
         "link": "https://www.lavanguardia.com/politica/20260906/11627567/red-foros-chats-agito-mensaje-salto-ceuta-1-5-millones-personas.html"
       },
       {
-        "title": "La paciencia de Ceuta gobierna España",
-        "link": "https://www.lavanguardia.com/politica/20260906/11628129/paciencia-ceuta-gobierna-espana.html"
-      },
-      {
-        "title": "21 migrantes detenidos por lanzar piedras a militares y guardias civiles en Ceuta",
-        "link": "https://www.lavanguardia.com/politica/20260906/11628519/21-migrantes-detenidos-lanzar-piedras-militares-guardias-civiles-ceuta.html"
+        "title": "Quemar las naves en Marruecos",
+        "link": "https://www.lavanguardia.com/politica/20260906/11628016/quemar-naves-marruecos.html"
       }
     ],
     "https://eldiariocantabria.publico.es/rss/": [
@@ -91,7 +91,7 @@
     ],
     "https://feeds.washingtonpost.com/rss/world": [
       {
-        "title": "Alternative for Germany scores first-place finish in key regional election",
+        "title": "Nationalist AfD party scores first-place in key regional election in Germany",
         "link": "https://www.washingtonpost.com/world/2026/09/06/alternative-germany-looks-big-boost-regional-elections-germany/"
       },
       {
@@ -113,6 +113,10 @@
     ],
     "https://feeds.content.dowjones.io/public/rss/RSSWorldNews": [
       {
+        "title": "How Ukrainian Drone Strikes Are Pounding Russia’s Economy",
+        "link": "https://www.wsj.com/world/russia/how-ukrainian-drone-strikes-are-pounding-russias-economy-a03652a7?mod=rss_worldnews"
+      },
+      {
         "title": "After Far-Right Election Breakthrough, Germany’s Merz Faces Painful Dilemma",
         "link": "https://www.wsj.com/world/europe/germanys-right-wing-populists-on-course-for-historic-victory-56662408?mod=rss_worldnews"
       },
@@ -127,28 +131,24 @@
       {
         "title": "The Violent Israeli Nomads Who Defy Law and Order in the Name of God",
         "link": "https://www.wsj.com/world/middle-east/israel-west-bank-settlers-violence-palestinians-359a69a8?mod=rss_worldnews"
-      },
-      {
-        "title": "Putin Meets Trump Envoys as U.S. Pushes to Revive Ukraine Peace Talks",
-        "link": "https://www.wsj.com/world/russia/putin-to-meet-trump-envoys-as-u-s-pushes-to-revive-ukraine-peace-talks-564945af?mod=rss_worldnews"
       }
     ],
     "https://www.lemonde.fr/rss/une.xml": [
       {
-        "title": "EN DIRECT, élections régionales en Allemagne : Ulrich Siegmund appelle les partis à s’allier avec l’AfD en Saxe-Anhalt ; le parti d’extrême droite n’atteint pas la majorité absolue, selon les dernières estimations",
-        "link": "https://www.lemonde.fr/international/live/2026/09/06/en-direct-elections-regionales-en-allemagne-l-afd-effectue-une-poussee-historique-en-saxe-anhalt-mais-les-consequences-restent-incertaines_6767342_3210.html"
+        "title": "En Allemagne, l’extrême droite réalise une performance historique lors d’élections régionales en Saxe-Anhalt",
+        "link": "https://www.lemonde.fr/international/article/2026/09/07/en-allemagne-l-extreme-droite-realise-une-performance-historique-lors-d-elections-regionales-en-saxe-anhalt_6767759_3210.html"
+      },
+      {
+        "title": "EN DIRECT, guerre en Ukraine : les premières discussions avec Volodymyr Zelensky ont été « très significatives », a déclaré Steve Witkoff, en visite à Kiev avec Jared Kushner",
+        "link": "https://www.lemonde.fr/international/live/2026/09/06/en-direct-guerre-en-ukraine-le-president-ukrainien-volodymyr-zelensky-rencontre-les-emissaires-americains-jared-kushner-et-steve-witkoff-a-kiev_6766818_3210.html"
       },
       {
         "title": "Loïk Le Priol face à la justice pour l’assassinat de l’ex-rugbyman Federico Martin Aramburu",
         "link": "https://www.lemonde.fr/societe/article/2026/09/06/loik-le-priol-face-a-la-justice-pour-l-assassinat-de-l-ex-rugbyman-federico-martin-aramburu_6767297_3224.html"
       },
       {
-        "title": "Fabien Roussel officialise sa candidature à la présidentielle et promet « un projet de rupture »",
-        "link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/09/06/fabien-roussel-officialise-sa-candidature-a-la-presidentielle-et-promet-un-projet-de-rupture_6767491_6205049.html"
-      },
-      {
-        "title": "EN DIRECT, guerre en Ukraine : les premières discussions avec Volodymyr Zelensky ont été « très significatives », a déclaré Steve Witkoff, en visite à Kiev avec Jared Kushner",
-        "link": "https://www.lemonde.fr/international/live/2026/09/06/en-direct-guerre-en-ukraine-le-president-ukrainien-volodymyr-zelensky-rencontre-les-emissaires-americains-jared-kushner-et-steve-witkoff-a-kiev_6766818_3210.html"
+        "title": "A Miami, un avion-cargo d’Amazon sort de piste, faisant cinq morts et cinq blessés",
+        "link": "https://www.lemonde.fr/international/article/2026/09/06/a-miami-un-avion-cargo-d-amazon-sort-de-piste-et-percute-des-vehicules_6767591_3210.html"
       },
       {
         "title": "Avant sa venue à Paris, le président sud-coréen, Lee Jae-myung, plaide pour une coopération internationale « fondée sur des valeurs communes »",
@@ -157,23 +157,23 @@
     ],
     "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
       {
-        "title": "États-Unis: au moins cinq morts et cinq blessés après l’accident d’un avion-cargo à l’aéroport de Miami",
-        "link": "https://www.lefigaro.fr/international/etats-unis-a-miami-un-avion-cargo-sort-de-piste-et-percute-des-vehicules-20260906"
-      },
-      {
         "title": "En Saxe-Anhalt, le triomphe du candidat AfD Ulrich Siegmund, « homme le plus dangereux d’Allemagne » aux airs de « gendre idéal »",
         "link": "https://www.lefigaro.fr/international/en-saxe-anhalt-le-triomphe-du-candidat-afd-ulrich-siegmund-homme-le-plus-dangereux-d-allemagne-aux-airs-de-gendre-ideal-20260906"
+      },
+      {
+        "title": "Victoire de l'AfD en Saxe-Anhalt: en France, la gauche et le centre expriment leurs inquiétudes, le RN garde le silence",
+        "link": "https://www.lefigaro.fr/international/victoire-de-l-afd-en-saxe-anhalt-en-france-la-gauche-et-le-centre-expriment-leurs-inquietudes-le-rn-garde-le-silence-20260907"
       },
       {
         "title": "Allemagne : en Saxe-Anhalt, l’AfD réalise le meilleur score de son histoire à une élection régionale",
         "link": "https://www.lefigaro.fr/international/allemagne-en-saxe-anhalt-l-afd-realise-le-meilleur-score-de-son-histoire-a-une-election-regionale-20260906"
       },
       {
-        "title": "«Ici, c’est aussi l’orientation future de notre pays qui se joue» : l’Allemagne retient son souffle avant l’élection en Saxe-Anhalt",
-        "link": "https://www.lefigaro.fr/international/ici-c-est-aussi-l-orientation-future-de-notre-pays-qui-se-joue-l-allemagne-retient-son-souffle-avant-l-election-en-saxe-anhalt-20260904"
+        "title": "Trump suggère de rebaptiser l'État du Nouveau-Mexique «Nouvelle Amérique»",
+        "link": "https://www.lefigaro.fr/international/trump-suggere-de-rebaptiser-l-etat-du-nouveau-mexique-nouvelle-amerique-20260907"
       },
       {
-        "title": "EN DIRECT - Guerre en Ukraine : pour Zelensky, il «semble» que la guerre va se poursuivre cet hiver",
+        "title": "Guerre en Ukraine : pour Zelensky, il «semble» que la guerre va se poursuivre cet hiver",
         "link": "https://www.lefigaro.fr/international/en-direct-guerre-en-ukraine-apres-une-rencontre-avec-poutine-a-moscou-les-emissaires-de-trump-attendus-a-kiev-pour-la-premiere-fois-20260906"
       }
     ],
@@ -181,6 +181,10 @@
       {
         "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
         "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+        "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
@@ -193,10 +197,6 @@
       {
         "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
         "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Dozens feared trapped in collapsed building in Delhi",
-        "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss"
       }
     ],
     "https://www.theguardian.com/world/rss": [
@@ -289,8 +289,8 @@
     ],
     "https://rss.dw.com/rdf/rss-en-world": [
       {
-        "title": "US envoys Witkoff, Kushner arrive in Kiyv after Putin talks",
-        "link": "https://www.dw.com/en/us-envoys-witkoff-kushner-arrive-in-kiyv-after-putin-talks/a-79054779?maca=en-rss-en-world-4025-rdf"
+        "title": "US envoys Witkoff and Kushner hold Ukraine talks after meeting Putin",
+        "link": "https://www.dw.com/en/us-envoys-witkoff-and-kushner-hold-ukraine-talks-after-meeting-putin/a-79054779?maca=en-rss-en-world-4025-rdf"
       },
       {
         "title": "Germany, Kosovo unite against ticks carrying deadly virus",
@@ -311,24 +311,24 @@
     ],
     "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml": [
       {
-        "title": "Rock in Rio 2026: João Victor Gonçalves fala sobre apoio recebido após ser hostilizado na rua",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-joao-victor-goncalves-fala-sobre-apoio-recebido-apos-ser-hostilizado-na-rua.shtml"
+        "title": "Ideia de que nossos líderes deveriam servir de exemplo é uma letra morta",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2026/09/ideia-de-que-nossos-lideres-deveriam-servir-de-exemplo-e-uma-letra-morta.shtml"
       },
       {
-        "title": "A apresentadora de TV condenada à morte por tráfico de drogas no Egito",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/a-apresentadora-de-tv-condenada-a-morte-por-trafico-de-drogas-no-egito.shtml"
+        "title": "Condomínio de luxo de Lulinha na Espanha tem spa e tirolesa",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/condominio-de-luxo-de-lulinha-na-espanha-tem-spa-e-tirolesa.shtml"
       },
       {
-        "title": "Flamengo martela até superar o Remo e coloca pressão no Palmeiras",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/flamengo-martela-ate-superar-o-remo-e-coloca-pressao-no-palmeiras.shtml"
+        "title": "Rock in Rio 2026: Bruno Gagliasso admite erro após polêmica no McDonald's e fala em volta às novelas",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-bruno-gagliasso-admite-erro-apos-polemica-no-mcdonalds-e-fala-em-volta-as-novelas.shtml"
       },
       {
-        "title": "Por que medir qualidade do sono pode estar fazendo você dormir pior",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/por-que-medir-qualidade-do-sono-pode-estar-fazendo-voce-dormir-pior.shtml"
+        "title": "Black Eyed Peas apresenta músicas do passado e agita o público do Rock in Rio",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/black-eyed-peas-apresenta-musicas-do-passado-e-agita-o-publico-do-rock-in-rio.shtml"
       },
       {
-        "title": "Santos faz três gols no 1º tempo, quase cede empate no 2º, mas vence o Inter",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/santos-faz-tres-gols-no-1o-tempo-e-quase-cede-empate-mas-vence-o-inter.shtml"
+        "title": "Rock in Rio 2026: Recém-solteira, Bárbara Borges curte festival acompanhada de amigo",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-recem-solteira-barbara-borges-curte-festival-acompanhada-de-amigo.shtml"
       }
     ],
     "https://oglobo.globo.com/rss.xml": []
