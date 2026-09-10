@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 50.5°C | ⚖ Load: 0.06 | 🌐 Ping: 9.29ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 49.9°C | ⚖ Load: 1.30 | 🌐 Ping: 9.46ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,11 +41,11 @@
 
 *** El País
 
-- [[https://elpais.com/espana/2026-09-09/el-cni-aviso-a-marruecos-delegacion-del-gobierno-y-guardia-civil-de-convocatorias-en-grupos-con-180000-personas-el-dia-antes-de-la-entrada-masiva-de-ceuta.html][El CNI avisó a Marruecos, Delegación del Gobierno y Guardia Civil de convocatorias masivas “para asalto por valla y mar” en Ceuta]]
-- [[https://elpais.com/espana/2026-09-09/el-ejercito-aviso-el-dia-30-de-una-entrada-masiva-y-muy-probable-cuando-esta-ya-se-estaba-produciendo.html][El Ejército avisó el día 30 de una entrada “masiva” y “muy probable” cuando esta ya se estaba produciendo]]
-- [[https://elpais.com/espana/2026-09-09/el-gobierno-minimiza-el-aviso-por-whatsapp-del-cni-no-hubo-informe-ni-se-elevo-como-alerta-a-los-superiores.html][El Gobierno minimiza el aviso por WhatsApp del CNI: “No hubo informe ni se elevó como alerta a los superiores”]]
-- [[https://elpais.com/espana/2026-09-09/la-jueza-admite-al-gobierno-como-acusacion-en-la-investigacion-sobre-la-entrada-masiva-a-ceuta.html][La jueza admite al Gobierno como acusación en la investigación sobre la entrada masiva a Ceuta]]
-- [[https://elpais.com/espana/2026-09-09/las-conversaciones-entre-el-cni-la-delegacion-del-gobierno-y-la-guardia-civil-sobre-las-convocatorias-en-redes-hay-dos-grupos-con-un-total-de-180000-seguidores.html][Las conversaciones entre el CNI, la Delegación del Gobierno y la Guardia Civil sobre las convocatorias en redes: “Hay dos grupos con un total de 180.000 seguidores”]]
+- [[https://elpais.com/espana/2026-09-10/anatomia-de-la-desclasificacion-los-40-documentos-que-revelan-las-claves-y-tensiones-de-la-crisis-migratoria-en-ceuta.html][Anatomía de la desclasificación: los 40 documentos que revelan las claves y tensiones de la crisis migratoria en Ceuta]]
+- [[https://elpais.com/espana/2026-09-09/la-moncloa-minimiza-el-aviso-del-cni-y-da-la-razon-a-marlaska-frente-a-robles-no-hubo-informe-ni-aviso-a-los-superiores.html][El Gobierno intenta zanjar la guerra de versiones tras la desclasificación de los informes previos al salto de Ceuta]]
+- [[https://elpais.com/espana/2026-09-10/intercambio-de-wasaps-y-una-nota-a-la-inteligencia-marroqui-los-tres-avisos-del-cni-sobre-ceuta.html][Intercambio de wasaps y una nota a la inteligencia marroquí: los tres avisos del CNI sobre Ceuta]]
+- [[https://elpais.com/espana/madrid/2026-09-10/ayuso-intenta-enterrar-la-crisis-del-atico-con-el-anuncio-de-mas-de-100-medidas-en-la-asamblea-de-madrid.html][Ayuso intenta enterrar la crisis del ático con el anuncio de más de 100 medidas en el debate del estado de la región]]
+- [[https://elpais.com/ciencia/2026-09-10/un-ano-de-trabajo-de-dos-matematicos-espanoles-frente-a-88-horas-y-15-millones-de-openai-sin-nuestra-idea-la-ia-no-lo-habria-resuelto.html][Un año de trabajo de dos matemáticos españoles frente a 88 horas y 15 millones de OpenAI: “Sin nuestra idea, la IA no lo habría resuelto”]]
 
 *** El Mundo
 
@@ -57,65 +57,65 @@
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/politica/20260909/11631340/cni-aviso-llamamientos-masivos-calibrar-gravedad.html][El CNI se limitó a avisar por WhatsApp sobre llamadas en las redes a asaltar Ceuta]]
+- [[https://www.lavanguardia.com/politica/20260909/11631340/cni-aviso-llamamientos-masivos-calibrar-gravedad.html][El CNI avisó de “llamamientos” masivos en redes para cruzar a Ceuta, pero sin calibrar la gravedad]]
+- [[https://www.lavanguardia.com/politica/20260910/11631662/israel-acusa-gobierno-utilizarle-cortina-humo-crisis-ceuta.html][Israel acusa al Gobierno de utilizarle como “cortina de humo” ante la crisis de Ceuta]]
+- [[https://www.lavanguardia.com/politica/20260910/11631544/sanchez-ceuta-entrada-masiva-informes-cni.html][Sánchez asegura que nadie “ni en España ni en la UE” podía anticipar la entrada masiva en Ceuta]]
 - [[https://www.lavanguardia.com/politica/20260909/11631280/pp-cree-documentos-desclasificados-ceuta-revelan-mentira-responsable-directo-sanchez.html][El PP cree que los documentos desclasificados de Ceuta revelan una “mentira de Estado” y hacen “responsable directo” a Sánchez]]
-- [[https://www.lavanguardia.com/politica/20260909/11631281/albares-niega-constancia-ningun-informe-pudiera-prever-magnitud-crisis.html][Albares niega tener constancia de “ningún informe que pudiera prever la magnitud” de la crisis]]
-- [[https://www.lavanguardia.com/opinion/20260910/11631346/dimision-inoportuna.html][Una dimisión inoportuna]]
-- [[https://www.lavanguardia.com/internacional/20260909/11631306/avion-zelenski-estuvo-punto-alcanzado-dron-dirigia-oslo.html][El avión de Zelenski estuvo a punto de ser alcanzado por un dron]]
+- [[https://www.lavanguardia.com/internacional/20260910/11631541/trump-promete-dividendo-5-000-dolares-estadounidense-republicanos-ganan-midterm.html][Trump promete una paga de 5.000 dólares a cada estadounidense si gana las 'midterm']]
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/sanidad/iu-podemos-alerta-nuevo-record-listas-espera-quirurgicas-16642-pacientes-154-dias-demora-media/20260910112533198394.html][IU-Podemos alerta de un nuevo récord de las listas de espera quirúrgicas: 16.642 pacientes y 154 días de demora media]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/largas-colas-visitar-faro-santander/20260910110850198392.html][Largas colas para visitar Faro Santander]]
+- [[https://eldiariocantabria.publico.es/articulo/economia/cae-creacion-empresas-suben-disoluciones-cantabria/20260910104535198390.html][Cae la creación de empresas y suben las disoluciones en Cantabria]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/comite-empresa-afronta-cuarto-dia-protesta-coincidencia-reunion-negociacion-propuesta-presidencia/20260910101854198388.html][El comité del Gobierno de Cantabria afronta su cuarto día de encierro]]
 - [[https://eldiariocantabria.publico.es/articulo/sociedad/casi-80-espanoles-cree-que-viviendas-turisticas-disparan-precio-alquiler/20260909210632198385.html][Casi el 80% de los españoles cree que las viviendas turísticas disparan el precio del alquiler]]
-- [[https://eldiariocantabria.publico.es/articulo/politica/exalcaldesa-pielagos-veronica-samperio-psoe-presentara-municipales-2027/20260909203341198384.html][La exalcaldesa de Piélagos Verónica Samperio (PSOE) no se presentará a las municipales de 2027]]
-- [[https://eldiariocantabria.publico.es/articulo/campoo/psoe-prc-sacan-adelante-presupuesto-reinosa/20260909201521198383.html][PSOE y PRC sacan adelante el presupuesto de Reinosa]]
-- [[https://eldiariocantabria.publico.es/articulo/arco-de-la-bahia/cerca-4000-alumnos-han-comenzado-curso-trece-centros-educativos-municipio/20260909200035198381.html][Cerca de 4.000 alumnos han comenzado el curso en los trece centros educativos del municipio]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/calor-intenso-regresa-fin-semana-termometros-10oc-encima-habitual/20260909195101198379.html][El calor intenso regresa este fin de semana con termómetros hasta 10ºC por encima de lo habitual]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/09/10/ancient-spirit-whos-helping-protect-rio-effects-el-nio/][The ancient spirit who’s helping protect Rio from the effects of El Niño]]
 - [[https://www.washingtonpost.com/world/2026/09/09/plane-carrying-zelensky-threatened-by-drone-moldova-norways-premier-says/][Plane carrying Zelensky threatened by drone in Moldova, Norway’s premier says]]
 - [[https://www.washingtonpost.com/us-policy/2026/09/09/see-how-canada-is-shifting-its-trade-beyond-us/][See how Canada is shifting its trade beyond the U.S.]]
 - [[https://www.washingtonpost.com/technology/2026/09/09/peter-thiel-backed-firm-make-low-cost-missiles-amid-us-shortage/][Peter Thiel-backed firm to make low-cost missiles amid U.S. shortage]]
 - [[https://www.washingtonpost.com/world/2026/09/08/renewed-fighting-southern-lebanon-strains-us-backed-ceasefire/][Israel ramps up strikes in southern Lebanon]]
-- [[https://www.washingtonpost.com/immigration/2026/09/09/they-were-given-refuge-us-decades-now-their-benefit-is-expiring/][TPS expires for an immigrant group shielded from deportation for decades]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/us-news/sept-11-terrorist-attacks-anniversary-coverage-6339aa0b?mod=rss_worldnews][The Long Shadow of 9/11, Told Through the WSJ Archive]]
+- [[https://www.wsj.com/world/asia/south-korea-nears-agreement-on-billions-in-u-s-investments-a-win-for-trump-2b58dc4a?mod=rss_worldnews][South Korea Nears Agreement on Billions in U.S. Investments, a Win for Trump]]
+- [[https://www.wsj.com/business/drone-deal-kicks-off-consolidation-in-ukraines-500-company-industry-0d1535e9?mod=rss_worldnews][Drone Deal Kicks Off Consolidation in Ukraine’s 500-Company Industry]]
 - [[https://www.wsj.com/world/middle-east/with-close-calls-on-u-s-warships-iran-shows-new-appetite-for-escalation-e2758bbd?mod=rss_worldnews][With Close Calls on U.S. Warships, Iran Shows New Appetite for Escalation]]
 - [[https://www.wsj.com/world/europe/the-baltic-country-calling-for-calm-in-the-face-of-russian-threat-afdcfa2f?mod=rss_worldnews][The Baltic Country Calling for Calm in the Face of Russian Threat]]
-- [[https://www.wsj.com/world/middle-east/trumps-top-advisers-confront-possibility-that-iran-war-lasts-through-end-of-term-5f4e23d7?mod=rss_worldnews][Trump’s Top Advisers Confront Possibility That Iran War Lasts Through End of Term]]
-- [[https://www.wsj.com/world/anthropic-researcher-quits-over-industrys-rush-to-build-self-improving-ai-e3bd7fa7?mod=rss_worldnews][Anthropic Researcher Quits Over Industry’s Rush to Build Self-Improving AI]]
-- [[https://www.wsj.com/economy/trade/trump-says-he-will-block-canadian-firms-from-government-contracts-a4c3c21e?mod=rss_worldnews][Trump Signs Orders to Ban Some Canadian Products From U.S. Market]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/international/article/2026/09/10/l-ukraine-se-prepare-a-affronter-un-nouvel-hiver-effroyable-faute-d-une-defense-anti-aerienne-suffisante_6769332_3210.html][L’Ukraine se prépare à affronter un nouvel hiver effroyable, faute d’une défense anti-aérienne suffisante]]
-- [[https://www.lemonde.fr/international/article/2026/09/10/vingt-cinq-ans-du-11-septembre-l-adaptation-permanente-a-la-lutte-antiterroriste-erode-l-etat-de-droit-et-les-libertes-publiques_6769334_3210.html][Vingt-cinq ans du 11-Septembre : l’adaptation permanente à la lutte antiterroriste érode l’Etat de droit et les libertés publiques]]
-- [[https://www.lemonde.fr/societe/article/2026/09/09/la-deambulation-raciste-d-un-policier-municipal-de-carcassonne-captee-par-sa-propre-camera-pieton-suscite-l-indignation-generale-et-l-embarras-du-rn_6768954_3224.html][Les propos racistes d’un policier municipal de Carcassonne, captés par sa propre caméra-piéton, suscitent l’indignation générale et l’embarras du RN]]
-- [[https://www.lemonde.fr/planete/article/2026/09/10/aout-2026-est-le-mois-le-plus-chaud-jamais-mesure-dans-le-monde-copernicus-alerte-sur-des-risques-accrus-pour-l-europe_6769228_3244.html][Août 2026 est le mois le plus chaud jamais mesuré dans le monde, Copernicus alerte sur des risques accrus pour l’Europe]]
-- [[https://www.lemonde.fr/politique/article/2026/09/09/emmanuel-macron-et-friedrich-merz-deux-strategies-perdantes-face-a-l-extreme-droite_6768963_823448.html][Emmanuel Macron et Friedrich Merz, deux stratégies perdantes face à l’extrême droite]]
+- [[https://www.lemonde.fr/politique/article/2026/09/10/a-l-assemblee-nationale-les-reserves-de-lfi-sur-la-loi-integrale-contre-les-violences-sexuelles-faites-aux-femmes-et-aux-enfants_6769590_823448.html][A l’Assemblée nationale, les réserves de LFI sur la proposition de loi intégrale contre les violences sexuelles]]
+- [[https://www.lemonde.fr/sport/article/2026/09/10/la-federation-francaise-de-football-retire-son-soutien-a-gianni-infantino-le-president-fragilise-de-la-fifa_6769724_3242.html][La Fédération française de football retire son soutien à Gianni Infantino, le président fragilisé de la FIFA]]
+- [[https://www.lemonde.fr/societe/article/2026/09/10/a-marseille-le-marche-du-soleil-haut-lieu-de-la-contrefacon-condamne-a-la-fermeture-ravage-par-un-incendie_6769723_3224.html][A Marseille, le marché du Soleil, haut lieu de la contrefaçon condamné à la fermeture, ravagé par un incendie]]
+- [[https://www.lemonde.fr/economie/article/2026/09/10/en-pologne-la-fin-du-charbon-redessine-le-c-ur-industriel-de-la-silesie_6769690_3234.html][En Pologne, la fin du charbon redessine le cœur industriel de la Silésie]]
+- [[https://www.lemonde.fr/international/live/2026/09/10/en-direct-guerre-en-ukraine-volodymyr-zelensky-en-deplacement-au-canada-pour-renforcer-l-appui-d-ottawa-a-kiev_6766818_3210.html][EN DIRECT, guerre en Ukraine : Volodymyr Zelensky en déplacement au Canada pour renforcer l’appui d’Ottawa à Kiev]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/les-gens-n-ont-plus-d-argent-les-iraniens-en-premiere-ligne-face-aux-sanctions-americaines-20260909][« Les gens n’ont plus d’argent » : les Iraniens en première ligne face aux sanctions américaines]]
-- [[https://www.lefigaro.fr/international/en-iran-le-regime-tente-par-l-escalade-militaire-20260909][En Iran, le régime tenté par l’escalade militaire]]
-- [[https://www.lefigaro.fr/international/les-pays-du-golfe-cherchent-l-alternative-a-la-fermeture-du-detroit-d-ormuz-20260909][Les pays du Golfe cherchent l’alternative à la fermeture du détroit d’Ormuz]]
-- [[https://www.lefigaro.fr/international/midterms-trump-promet-un-dividende-de-5000-dollars-par-citoyen-si-son-parti-garde-le-controle-du-congres-20260910][«Midterms» : Trump promet un «dividende» de 5000 dollars par citoyen si son parti garde le contrôle du Congrès]]
-- [[https://www.lefigaro.fr/secteur/high-tech/ils-jouent-avec-nos-vies-la-demission-fracassante-du-chercheur-d-anthropic-relance-les-debats-sur-la-regulation-du-secteur-20260909][« Ils jouent avec nos vies » : la démission fracassante du chercheur d’Anthropic relance les débats sur la régulation du secteur]]
+- [[https://www.lefigaro.fr/conjoncture/travailler-3-a-4-ans-de-plus-la-proposition-explosive-du-haut-commissariat-a-la-strategie-et-au-plan-20260910][« Travailler trois à quatre ans de plus » : la proposition explosive sur les retraites du Haut-commissariat au Plan]]
+- [[https://www.lefigaro.fr/elections/presidentielles/programmes/de-60-a-68-ans-le-grand-ecart-des-candidats-a-la-presidentielle-sur-l-age-de-depart-a-la-retraite-20260907][De 60 à 68 ans : le grand écart des candidats à la présidentielle sur l’âge de départ à la retraite]]
+- [[https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-le-couple-le-pen-bardella-a-l-epreuve-de-la-rentree-chahutee-du-rn-20260910][Présidentielle 2027 : le couple Le Pen-Bardella à l’épreuve de la rentrée chahutée du RN]]
+- [[https://tvmag.lefigaro.fr/programme-tv/actu-tele/deprogrammes-en-derniere-minute-la-france-insoumise-boycotte-les-emissions-de-bfmtv-la-chaine-repond-20260910][«Déprogrammés en dernière minute» : La France Insoumise boycotte les émissions de BFMTV, la chaîne répond]]
+- [[https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-le-secretaire-general-des-republicains-tend-la-main-a-david-lisnard-mais-exclut-un-rapprochement-avec-reconquete-20260910][EN DIRECT - Présidentielle 2027 : «Quand on invite, il faut avoir une légitimité», tacle François Bayrou sur la proposition d’Édouard Philippe]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss][Spanish intelligence warned of Ceuta mass crossing plans before surge]]
-- [[https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss][Google picks Finland for its largest single investment in Europe]]
-- [[https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss][Oil hits $100 a barrel for first time since July after US and Houthi strikes]]
-- [[https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss][Iran referred to UN Security Council for nuclear non-compliance]]
-- [[https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss][Germany's Merz attacks AfD in stormy debate after far-right election win]]
+- [[https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss][Trump says every adult American will get $5,000 if Republicans win midterms]]
+- [[https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss][Watch: Is Trump's $5,000 election pledge legal?]]
+- [[https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss][Iran war won't end until after crucial November elections, says Trump]]
+- [[https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss][Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry]]
+- [[https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss][Royal family rift after popular TV news presenter chosen to succeed Ugandan king]]
 
 *** The Guardian
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
+- [[https://www.ilsole24ore.com/art/in-5-anni-l-occupazione-cresce-ovunque-tranne-che-i-giovani-ecco-perche-AJSEsy8][In 5 anni l’occupazione cresce ovunque tranne che tra i giovani. Ecco perché]]
+- [[https://www.ilsole24ore.com/art/istat-luglio-produzione-industriale-07percento-invariata-anno-AJx2pv8][Produzione (+0,7%) avanti adagio, invariata su anno nonostante la spinta dell’auto]]
+- [[https://www.ilsole24ore.com/art/l-assegno-unico-diventa-piu-ricco-ecco-come-cambia-il-nuovo-calcolo-isee--calcolatore-AJYEWs8][L’assegno unico diventa più “ricco”, ecco come cambia con il nuovo calcolo Isee]]
 - [[https://www.ilsole24ore.com/art/il-ghiacciaio-marmolada-sempre-piu-ridotto-nove-ettari-meno-rispetto-scorso-anno-AJm9RO8][Il ghiacciaio della Marmolada sempre più ridotto: nove ettari in meno rispetto allo scorso anno]]
 - [[https://www.ilsole24ore.com/art/francesco-guccini-e-testamento-ecco-cosa-va-moglie-e-cosa-figlia-AJVjcG8][Francesco Guccini e il testamento: ecco cosa va alla moglie e cosa alla figlia]]
-- [[https://www.ilsole24ore.com/art/lega-vertice-salvini-governatori-ora-manifesto-e-road-map-AJuzrH8][Lega, vertice Salvini-governatori: ora manifesto e road map]]
-- [[https://www.ilsole24ore.com/art/durigon-pensione-64-anni-una-platea-80mila-pensionati-contributi-versati-1996-AJ4K787][Durigon: pensione a 64 anni per una platea di 80mila pensionati con contributi versati dal 1996]]
-- [[https://www.ilsole24ore.com/art/maltempo-piogge-intense-emilia-romagna-e-lombardia-estesa-allerta-arancione-AJWox67][Maltempo, piogge intense su Emilia-Romagna e Lombardia. Estesa allerta arancione]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/serbia-the-conflicted-eu-candidate/a-79203774?maca=en-rss-en-world-4025-rdf][Serbia, the conflicted EU candidate]]
 - [[https://www.dw.com/en/china-english-to-be-removed-as-a-graded-core-subject/a-79199629?maca=en-rss-en-world-4025-rdf][China: English to be removed as a graded core subject?]]
 - [[https://www.dw.com/en/germany-s-connection-to-the-september-11-2001-attacks/a-79202918?maca=en-rss-en-world-4025-rdf][Germany's connection to the September 11, 2001 attacks]]
-- [[https://www.dw.com/en/serbia-the-conflicted-eu-candidate/a-79203774?maca=en-rss-en-world-4025-rdf][Serbia, the conflicted EU candidate]]
 - [[https://www.dw.com/en/iran-tightens-social-control-with-crackdown-on-cafes/a-79204988?maca=en-rss-en-world-4025-rdf][Iran tightens social control with crackdown on cafes]]
-- [[https://www.dw.com/en/ethiopia-s-constitutional-reform-what-does-it-mean-especially-for-abiy/a-79172262?maca=en-rss-en-world-4025-rdf][Ethiopia's constitutional reform: What does it mean — especially for Abiy?]]
+- [[https://www.dw.com/en/how-ethiopia-s-constitutional-reform-gives-pm-more-power/a-79172262?maca=en-rss-en-world-4025-rdf][How Ethiopia's constitutional reform gives PM more power]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/mulher-e-esquartejada-e-tem-partes-jogadas-no-rio-guarapiranga-na-zona-sul-de-sao-paulo.shtml][Mulher é esquartejada e tem partes jogadas no rio Guarapiranga, na zona sul de São Paulo]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/light-anuncia-encerramento-da-recuperacao-judicial-apos-3-anos.shtml][Light anuncia encerramento da recuperação judicial após 3 anos]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/o-brasil-perdeu-geraldo-forbes.shtml][O Brasil perdeu Geraldo Forbes]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/debate-entre-candidatos-ao-senado-tem-troca-de-ataques-entre-bolsonaristas-em-sp.shtml][Debate entre candidatos ao Senado tem troca de ataques entre bolsonaristas em SP]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/corinthians-reage-empata-na-argentina-e-decide-vaga-na-semi-da-libertadores-em-casa.shtml][Corinthians reage, empata na Argentina e decide vaga na semi da Libertadores em casa]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/bolsonaro-melhora-de-crises-de-soluco-em-prisao-domiciliar.shtml][Bolsonaro melhora de crises de soluço em prisão domiciliar]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/globo-aumenta-publicidade-de-quem-ama-cuida-para-tentar-conter-queda-de-ibope.shtml][Globo aumenta publicidade de 'Quem Ama Cuida' para tentar conter queda de ibope]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/matematica-no-enem-exige-dominio-de-operacoes-e-estrategia-saiba-o-que-estudar.shtml][Matemática no Enem exige domínio de operações e estratégia; saiba o que estudar]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/canada-atrai-cientistas-que-querem-deixar-ciencia-dos-eua-sob-trump.shtml][Canadá atrai cientistas que querem deixar ciência dos EUA sob Trump]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/entidades-pedem-que-ocde-cobre-do-stf-julgamento-sobre-provas-da-odebrecht-anuladas-por-toffoli.shtml][Entidades pedem que OCDE cobre do STF julgamento sobre provas da Odebrecht anuladas por Toffoli]]
 
 *** O Globo
 
