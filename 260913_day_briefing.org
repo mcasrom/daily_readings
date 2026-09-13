@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
-#+HTML: <div class='telemetry'>🌡 49.9°C | ⚖ Load: 0.00 | 🌐 Ping: 9.40ms</div>
+#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
+#+HTML: <div class='telemetry'>🌡 49.9°C | ⚖ Load: 0.00 | 🌐 Ping: 9.55ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -42,40 +42,44 @@
 *** El País
 
 - [[https://elpais.com/eps/2026-09-13/zohran-mamdani-la-democracia-no-sirve-si-la-gente-no-puede-cubrir-sus-necesidades.html][Zohran Mamdani: “La democracia no sirve si la gente no puede cubrir sus necesidades”]]
-- [[https://elpais.com/videos/2026-09-13/la-entrevista-a-zohran-mamdani-resumida-en-un-video-de-cinco-minutos.html][La entrevista a Zohran Mamdani resumida en un vídeo de cinco minutos]]
+- [[https://elpais.com/economia/2026-09-13/openai-pospone-su-salida-a-bolsa-por-la-inquietud-sobre-los-riesgos-de-la-ia.html][OpenAI pospone su salida a Bolsa por la inquietud sobre los riesgos de la IA]]
 - [[https://elpais.com/videos/2026-09-13/los-metodos-que-puede-usar-la-ia-para-matarnos.html][Los métodos que puede usar la IA para matarnos]]
-- [[https://elpais.com/tecnologia/2026-09-13/la-resistencia-contra-la-ia-gana-fuerza.html][La resistencia contra la IA gana fuerza]]
 - [[https://elpais.com/espana/2026-09-13/cuatro-horas-de-deliberacion-para-suspender-el-voto-a-miles-de-nacionalizados-por-la-ley-de-nietos.html][Cuatro horas de deliberación para suspender el voto a miles de nacionalizados por la ‘ley de nietos’]]
+- [[https://elpais.com/espana/2026-09-13/un-gobierno-que-se-siente-cercado-por-el-estado-profundo.html][Un Gobierno que se siente cercado por el “Estado profundo”]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/09/12/6aa57340fc6c832a7a8b459b.html][Alberto Núñez Feijóo: "La agresión de Marruecos continúa y Ceuta será el epitafio de Sánchez"]]
+- [[https://www.elmundo.es/espana/2026/09/13/6aa57359fc6c83ae2b8b456d.html][Los choques de Sánchez]]
 - [[https://www.elmundo.es/espana/2026/09/13/6aa4195621efa066158b45a3.html][La mayoría de inmigrantes entrevistados en Ceuta alegan ser gays o perseguidos políticos para intentar quedarse en España]]
 - [[https://www.elmundo.es/cronica/2026/09/12/6aa42704e85ece160b8b45b6.html][Coronel Luis Romero, ex número 3 del CNI: "Por mi experiencia puedo afirmar que las rencillas entre ministros han impedido una rápida solución. Marlaska y Albares se comportan como prima donnas"]]
-- [[https://www.elmundo.es/espana/2026/09/12/6aa5434ee9cf4a282b8b45b5.html][Directores de instituto de las tres mejores autonomías en el informe PISA dan la clave del éxito escolar: "Exigencia con acompañamiento"]]
-- [[https://www.elmundo.es/espana/2026/09/13/6aa57f46e4d4d8871b8b4597.html][Abdellatif Hammouchi, el hombre que pudo evitar el asalto a Ceuta]]
+- [[https://www.elmundo.es/deportes/formula-1/2026/09/13/6aa6bb17e85ece20138b456d.html][El 'niño' Antonelli es el primer ganador en Madrid y da un nuevo bocado al Mundial; Sainz y Alonso, choque y decepción]]
+- [[https://www.elmundo.es/madrid/2026/09/13/6aa6bf4ee4d4d8d57b8b456f.html][Un olé ronco atronó en la curva La Monumental entre abanicos, cerveza y cochinillo vip: "Pasan los coches muy cerquita"]]
 
 *** La Vanguardia
 
 - [[https://www.lavanguardia.com/politica/20260913/11633321/veo-feijoo-obsesionado-vox-ecosistema-m-30-le-contagiado.html][Pradales: “Ceuta puede acabar con la legislatura si Pedro Sánchez no cierra la crisis ya”]]
 - [[https://www.lavanguardia.com/opinion/20260913/11633439/pnv-siempre-cuenta.html][El PNV siempre cuenta]]
 - [[https://www.lavanguardia.com/politica/20260913/11633341/seis-aristas-crisis-ceuti-traeran-cola.html][Seis aristas de la crisis ceutí que traerán cola]]
-- [[https://www.lavanguardia.com/politica/20260913/11633654/policia-traslada-inmigrantes-aun-pernoctaban-calle-864-nuevas-plazas-acogida-habilitadas-gobierno.html][El Gobierno traslada a migrantes que dormían en la calle a 864 nuevas plazas de acogida]]
 - [[https://www.lavanguardia.com/politica/20260913/11633442/punto-vista-vox.html][El punto de vista de Vox]]
+- [[https://www.lavanguardia.com/economia/20260913/11633741/altman-afirma-seria-poco-aconsejable-sacar-openai-bolsa-riesgos-ia.html][Sam Altman paraliza la salida a bolsa de OpenAI ante los riesgos de la IA]]
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/dos-acusados-muerte-joven-asturiano-potes-tienen-vista-acuerdo-que-evite-juicio-18/20260913113541198496.html][Los dos acusados por la muerte de un joven asturiano en Potes tienen la vista para un acuerdo que evite el juicio el 18]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/cantabria-registra-temperatura-mas-baja-espana-menos-cuatro-grados/20260913095913198495.html][Cantabria registra la temperatura más baja de España]]
-- [[https://eldiariocantabria.publico.es/articulo/cultura/rodolfo-montero-palacio-incorpora-como-mentor-proyectos-cinematograficos-platino-next-gen-2026/20260912203254198493.html][Rodolfo Montero de Palacio se incorpora como mentor de los proyectos cinematográficos de PLATINO Next Gen 2026]]
-- [[https://eldiariocantabria.publico.es/articulo/municipios/san-vicente-monte-celebra-dia-diversidad-rural-presencia-manolita-chen/20260912202239198491.html][San Vicente del Monte celebra el Día de la Diversidad Rural con la presencia de Manolita Chen]]
-- [[https://eldiariocantabria.publico.es/articulo/saja-besaya/pielagos-suma-campana-bingo-compremio-potenciar-consumo/20260912200317198489.html][Piélagos se suma a la campaña ‘Bingo ComPremio’ para potenciar el consumo]]
+- [[https://eldiariocantabria.publico.es/articulo/saja-besaya/rescatado-senderista-madrileno-27-anos-desorientado-canal-san-sebastian-garabandal/20260913175026198512.html][Rescatado un senderista madrileño de 27 años desorientado en una canal de San Sebastián de Garabandal]]
+- [[https://eldiariocantabria.publico.es/articulo/politica/noja-mira-fuera-cubrir-puestos-mientras-deja-aire-oportunidades-laborales-propios-vecinos/20260913173843198508.html][Noja mira fuera para cubrir sus puestos en el Ayuntamiento mientras deja en el aire las oportunidades laborales de sus propios vecinos]]
+- [[https://eldiariocantabria.publico.es/articulo/politica/pp-asegura-que-30000-euros-familias-celiacas-estan-disposicion-acecan-que-gestion-corresponde-gobierno/20260913173119198510.html][El PP asegura que los 30.000 euros para las familias celíacas están a disposición de ACECAN, por lo que su gestión “ya no corresponde al Gobierno”]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/7447-viajes-50-euros-imserso-comercializa-lunes-casi-880000-plazas/20260913140749198507.html][7.447 viajes a 50 euros: el Imserso comercializa desde este lunes casi 880.000 plazas]]
+- [[https://eldiariocantabria.publico.es/articulo/deportes/amargo-debut-alicante/20260913134655198506.html][Amargo debut en Alicante]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
-- /Feed no disponible temporalmente/
+- [[https://www.washingtonpost.com/world/2026/09/13/trump-threatened-bomb-oman-oman-has-questions/][Omanis baffled by Trump’s threat to bomb their country]]
+- [[https://www.washingtonpost.com/world/2026/09/13/six-dead-140-missing-after-indonesian-passenger-ship-hits-bad-weather-java-sea/][Six dead, over 100 missing after Indonesian passenger ship hits bad weather in Java Sea]]
+- [[https://www.washingtonpost.com/world/2026/09/13/canadians-boycott-us-its-products-amid-trump-threats/][Bye, America: Trump’s rhetoric pushes some Canadians to shun the U.S.]]
+- [[https://www.washingtonpost.com/world/2026/09/12/trump-dublin-says-he-would-love-see-irish-reunification/][Trump endorses Irish reunification, breaking with decades of U.S. policy]]
+- [[https://www.washingtonpost.com/world/2026/09/12/with-no-clear-path-out-us-war-iran-messy-mideast-gets-messier/][As Iran proxies activate in Yemen and Iraq, Trump’s Mideast morass deepens]]
 
 *** WSJ.com: World News
 
@@ -89,29 +93,29 @@
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/politique/article/2026/09/13/chez-les-le-pen-la-famille-l-emporte-toujours-pour-sa-quatrieme-campagne-presidentielle-marine-le-pen-se-repose-sur-ses-proches_6772178_823448.html][« Chez les Le Pen, la famille l’emporte toujours » : pour sa quatrième campagne présidentielle, Marine Le Pen se repose sur ses proches]]
-- [[https://www.lemonde.fr/culture/article/2026/09/13/celine-dion-renait-sur-scene-pour-le-premier-des-26-concerts-de-sa-residence-a-nanterre-je-veux-chanter-pour-vous-chanter-la-vie_6772198_3246.html][Céline Dion renaît sur scène, pour le premier des 26 concerts de sa résidence à Nanterre : « Je veux chanter pour vous, chanter la vie »]]
-- [[https://www.lemonde.fr/politique/article/2026/09/12/budget-2027-le-gouvernement-propose-des-mesures-pour-faciliter-les-transmissions-familiales_6771777_823448.html][Budget 2027 : le gouvernement propose des mesures pour faciliter les transmissions familiales]]
-- [[https://www.lemonde.fr/detroit-d-ormuz/article/2026/09/13/sur-les-rives-du-detroit-d-ormuz-des-vies-entre-mer-et-feu-dans-l-il-d-un-photographe-iranien-il-fallait-montrer-ce-que-la-guerre-leur-fait_6772182_6671036.html][Sur les rives du détroit d’Ormuz, des vies entre mer et feu dans l’œil d’un photographe iranien : « Il fallait montrer ce que la guerre leur fait »]]
-- [[https://www.lemonde.fr/pixels/article/2026/09/13/sam-altman-annonce-qu-openai-n-entrera-pas-en-bourse-en-2026-en-raison-des-inquietudes-lies-a-la-securite-de-l-intelligence-artificielle_6772466_4408996.html][Sam Altman annonce qu’OpenAI n’entrera pas en Bourse en 2026, en raison des inquiétudes liés à la sécurité de l’intelligence artificielle]]
+- [[https://www.lemonde.fr/politique/live/2026/09/13/en-direct-presidentielle-2027-marine-le-pen-lors-de-son-discours-de-rentree-politique-a-henin-beaumont-promet-que-le-logement-sera-un-des-grands-chantiers-du-quinquennat_6770586_823448.html][EN DIRECT, présidentielle 2027 : Marine Le Pen, lors de son discours de rentrée politique à Hénin-Beaumont, promet que le logement sera « un des grands chantiers du quinquennat »]]
+- [[https://www.lemonde.fr/economie/article/2026/09/13/le-controle-des-houthistes-sur-le-detroit-de-bab-al-mandab-fait-planer-une-nouvelle-menace-sur-l-economie-mondiale_6772733_3234.html][Le contrôle des houthistes sur le détroit de Bab Al-Mandab fait planer une nouvelle menace sur l’économie mondiale]]
+- [[https://www.lemonde.fr/international/live/2026/09/13/en-direct-guerre-en-ukraine-un-train-reliant-kiev-a-varsovie-touche-par-un-drone-russe-sans-faire-de-victimes_6772184_3210.html][EN DIRECT, guerre en Ukraine : une « attaque systémique » est « en cours » contre le rail à travers le pays, selon la compagnie des chemins de fer ukrainiens]]
+- [[https://www.lemonde.fr/societe/article/2026/09/13/le-djihadiste-francais-othman-garrido-juge-pour-sa-participation-a-des-executions-par-decapitation-en-syrie_6772734_3224.html][Le djihadiste français Othman Garrido jugé pour sa participation à des exécutions par décapitation en Syrie]]
+- [[https://www.lemonde.fr/international/article/2026/09/13/en-turquie-une-operation-policiere-sans-precedent-contre-la-communaute-lgbt_6772767_3210.html][En Turquie, une opération policière sans précédent contre la communauté LGBT+]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/faits-divers/violent-imprevisible-manipulateur-le-parcours-terrifiant-d-alexandre-17-ans-adolescent-place-soupconne-de-multiples-viols-20260913][«Violent, imprévisible, manipulateur» : le parcours terrifiant d’Alexandre, 17 ans, adolescent placé soupçonné de multiples viols]]
-- [[https://www.lefigaro.fr/politique/16-et-20-d-opinions-favorables-emmanuel-macron-et-sebastien-lecornu-battent-un-record-d-impopularite-20260913][«16% et 20% d’opinions favorables» : Emmanuel Macron et Sébastien Lecornu battent un record d’impopularité]]
-- [[https://www.lefigaro.fr/elections/presidentielles/en-direct-je-ne-suis-pas-un-homme-presse-pour-l-election-presidentielle-edouard-philippe-defend-la-tortue-et-moque-les-lievres-20260912][EN DIRECT - Présidentielle 2027 : en cette journée de rentrée pour le RN, Marine Le Pen souhaite son anniversaire à Jordan Bardella]]
+- [[https://www.lefigaro.fr/conjoncture/elle-sera-abrogee-purement-et-simplement-la-loi-sru-qui-impose-25-de-logements-sociaux-en-ville-dans-le-viseur-de-marine-le-pen-20260913][«Elle sera abrogée, purement et simplement» : la loi SRU, qui impose 25% de logements sociaux en ville, dans le viseur de Marine Le Pen]]
+- [[https://www.lefigaro.fr/elections/presidentielles/en-direct-je-ne-suis-pas-un-homme-presse-pour-l-election-presidentielle-edouard-philippe-defend-la-tortue-et-moque-les-lievres-20260912][EN DIRECT - Présidentielle 2027 : à Port-Marly, Éric Zemmour plaide pour «la remigration» pour «défendre les peuples européens]]
+- [[https://www.lefigaro.fr/politique/marine-est-geniale-mais-jordan-rassemblerait-mieux-a-henin-beaumont-fief-du-rn-le-dilemme-des-electeurs-20260913][«Marine est géniale, mais Jordan rassemblerait mieux» : à Hénin-Beaumont, fief du RN, le dilemme des électeurs]]
+- [[https://immobilier.lefigaro.fr/article/fiscalite-immobiliere-residences-secondaires-lmnp-le-chamboule-tout-du-rn-pour-restaurer-le-droit-de-propriete-20260831][Fiscalité immobilière, résidences secondaires, LMNP... Le chamboule-tout du RN pour «restaurer le droit de propriété»]]
 - [[https://www.lefigaro.fr/elections/presidentielles/on-ne-pourra-pas-gagner-a-gauche-avec-deux-tiers-des-francais-qui-nous-haissent-a-la-fete-de-l-huma-ruffin-tacle-implicitement-melenchon-20260913][«On ne pourra pas gagner à gauche avec deux tiers des Français qui nous haïssent» : à la fête de l’Huma, Ruffin tacle implicitement Mélenchon]]
-- [[https://www.lefigaro.fr/politique/presidentielle-2027-a-la-fete-de-la-rose-francois-hollande-prone-l-union-sacree-des-democrates-au-dela-des-partis-20260913][Présidentielle 2027 : à la Fête de la rose, François Hollande prône «l’union sacrée des démocrates» au-delà des partis]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
-- [[https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss][Anthropic boss Dario Amodei calls for AI development to slow down]]
-- [[https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss][Trump's comments on a united Ireland may have targeted audience across the Atlantic]]
-- [[https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss][They lost their jobs after posting about Charlie Kirk, but some have no regrets]]
-- [[https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss][Russians seek answers over hundreds missing after Ukraine's 2024 incursion]]
-- [[https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss][Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq]]
+- [[https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss][AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC]]
+- [[https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss][Iran war reshapes Brics ties but also exposes divisions]]
+- [[https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss][Six dead, 130 missing after Indonesian ferry capsizes in Java Sea]]
+- [[https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss][Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists]]
+- [[https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss][Trump doubles down on united Ireland comments on day two of visit]]
 
 *** The Guardian
 
@@ -133,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
+- [[https://www.ilsole24ore.com/art/strade-sicure-lega-attacca-ma-crosetto-non-sia-solo-scelta-estetica-AJgQBBCB][Strade sicure, la Lega attacca ma Crosetto: «Non sia solo scelta estetica»]]
+- [[https://www.ilsole24ore.com/art/turismo-americani-citta-d-arte-inglesi-isole-sorpresa-polacca-sud-AJ2wKqAB][Turismo: americani in città d’arte, inglesi sulle isole. Sorpresa polacca al Sud]]
+- [[https://www.ilsole24ore.com/art/salvini-autunno-bando-gli-aiuti-all-affitto-genitori-separati-AJ4mi2BB][Salvini: in autunno il bando per  gli aiuti all’affitto dei genitori separati]]
 - [[https://www.ilsole24ore.com/art/tajani-carburanti-allo-studio-misure-ridurre-fardello-chi-e-piu-difficolta-ecco-tutte-ipotesi-AJ5nozBB][Carburanti, Tajani: «allo studio misure per ridurre fardello per chi è più in difficoltà». Tutte le ipotesi]]
 - [[https://www.ilsole24ore.com/art/con-6-superenalotto-lecco-stato-incassa-subito-446-milioni-come-4-giorni-sconto-gasolio-AJF64bBB][Con il 6 al Superenalotto di Lecco lo Stato incassa  44,6 milioni (come 4 giorni di sconto sul gasolio)]]
-- [[https://www.ilsole24ore.com/art/legge-elettorale-e-raccolta-firme-centristi-onorato-ex-leghisti-ecco-chi-rischia-restare-fuori-AJzKJbBB][Legge elettorale e raccolta firme: dai centristi di Onorato agli ex leghisti, ecco chi rischia di restare fuori]]
-- [[https://www.ilsole24ore.com/art/telefono-azzurro-vertice-onu-proteggere-minori-governance-dell-intelligenza-artificiale-AJiT8ZBB][Telefono Azzurro all’Onu: proteggere i minori nella governance AI]]
-- [[https://www.ilsole24ore.com/art/la-carta-benessere-rilanciare-crescita-AJm22Q4][La carta del benessere per rilanciare la crescita]]
 
 ** 🇩🇪 Alemania
 
@@ -151,21 +155,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/russians-on-the-goethe-institut-hostage-to-politics/a-79218936?maca=en-rss-en-world-4025-rdf][Russians on the Goethe-Institut: 'Hostage to politics']]
 - [[https://www.dw.com/en/a-romani-artist-in-hungary-reclaims-his-identity/a-79247266?maca=en-rss-en-world-4025-rdf][A Romani artist in Hungary reclaims his identity]]
 - [[https://www.dw.com/en/trump-visits-ireland-says-unification-would-be-fantastic/a-79244685?maca=en-rss-en-world-4025-rdf][Trump visits Ireland, says unification would be 'fantastic']]
 - [[https://www.dw.com/en/corals-as-climate-archive-are-el-ninos-intensifying/a-79243425?maca=en-rss-en-world-4025-rdf][Corals as climate archive: Are El Ninos intensifying?]]
 - [[https://www.dw.com/en/uber-leaves-two-key-african-markets-and-their-drivers-in-despair/a-79232189?maca=en-rss-en-world-4025-rdf][Uber leaves two key African markets — and their drivers in despair]]
-- [[https://www.dw.com/en/russia-s-drone-war-comes-to-moldova-and-romania/a-79239591?maca=en-rss-en-world-4025-rdf][Russia's drone war comes to Moldova and Romania]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/presidente-da-ans-diz-que-aconselha-amigos-a-procurarem-a-justica-contra-planos-de-saude.shtml][Presidente da ANS diz que aconselha amigos a procurarem a Justiça contra planos de saúde]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/ceo-da-ryanair-contesta-relato-de-passageiro-sugado-por-janela-de-aviao-na-grecia.shtml][CEO da Ryanair contesta relato de passageiro sugado por janela de avião na Grécia]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/pegadas-de-66-milhoes-de-anos-sao-primeira-trilha-conhecida-de-um-t-rex-adulto.shtml][Pegadas de 66 milhões de anos são primeira trilha conhecida de um T. rex adulto]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/planeta-completa-100-dias-de-recorde-de-calor-no-oceano-e-temperatura-segue-alta.shtml][Planeta completa 100 dias de recorde de calor no oceano e temperatura segue alta]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/sao-paulo-segue-em-alerta-de-perigo-para-tempestades-neste-domingo-13.shtml][São Paulo segue em alerta de perigo para tempestades neste domingo (13)]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/operacao-especial-leva-remedio-experimental-para-lito-sousa-ao-einstein.shtml][Operação especial leva remédio experimental para Lito Sousa ao Einstein]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/virginia-fonseca-chama-a-atencao-com-vini-jr-em-corrida-da-formula-1-na-espanha.shtml][Virginia Fonseca chama a atenção com Vini Jr em corrida da Fórmula 1 na Espanha]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/trump-critica-forcas-negativas-que-querem-desacelerar-a-ia.shtml][Trump critica 'forças negativas' que querem desacelerar a IA]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/kimi-antonelli-lider-da-f1-vence-prova-da-espanha.shtml][Kimi Antonelli, líder da F1, vence prova da Espanha]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/moradia-propria-alugada-ou-de-favor-mapa-mostra-como-e-em-cada-bairro-de-sao-paulo.shtml][Moradia própria, alugada ou de favor? Mapa mostra como é em cada bairro de São Paulo]]
 
 *** O Globo
 
