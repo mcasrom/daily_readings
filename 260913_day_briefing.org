@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 49.9°C | ⚖ Load: 0.56 | 🌐 Ping: 9.11ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 49.9°C | ⚖ Load: 0.00 | 🌐 Ping: 9.40ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,35 +41,35 @@
 
 *** El País
 
-- [[https://elpais.com/educacion/2026-09-13/el-analista-jefe-del-informe-pisa-la-ia-esta-dando-a-los-alumnos-la-experiencia-opuesta-al-aprendizaje.html][El analista jefe del Informe PISA: “La IA está dando a los alumnos la experiencia opuesta al aprendizaje”]]
-- [[https://elpais.com/tecnologia/2026-09-12/el-director-general-de-anthropic-pide-ralentizar-el-progreso-de-la-ia-y-que-todas-las-empresas-admitan-verificadores-externos.html][Los líderes de la IA alertan  de que esta tecnología crece demasiado rápido]]
-- [[https://elpais.com/tecnologia/2026-09-12/los-riesgos-de-la-ia-segun-los-que-la-han-visto-desde-dentro-el-mundo-no-esta-preparado-y-nosotros-no-estamos-preparados.html][Los riesgos de la IA según los que la han visto desde dentro: “El mundo no está preparado y nosotros no estamos preparados”]]
-- [[https://elpais.com/internacional/2026-09-12/la-extrema-derecha-se-dispara-alemania-deja-de-ser-la-excepcion-europea-80-anos-despues-del-nazismo.html][La extrema derecha se dispara: Alemania deja de ser la excepción europea 80 años después del nazismo]]
-- [[https://elpais.com/internacional/2026-09-12/trump-rechaza-auxiliar-a-arabia-saudi-en-el-mar-rojo-pese-al-cierre-de-un-oleoducto-clave.html][Trump rechaza auxiliar a Arabia Saudí en el mar Rojo pese al cierre de un oleoducto clave]]
+- [[https://elpais.com/eps/2026-09-13/zohran-mamdani-la-democracia-no-sirve-si-la-gente-no-puede-cubrir-sus-necesidades.html][Zohran Mamdani: “La democracia no sirve si la gente no puede cubrir sus necesidades”]]
+- [[https://elpais.com/videos/2026-09-13/la-entrevista-a-zohran-mamdani-resumida-en-un-video-de-cinco-minutos.html][La entrevista a Zohran Mamdani resumida en un vídeo de cinco minutos]]
+- [[https://elpais.com/videos/2026-09-13/los-metodos-que-puede-usar-la-ia-para-matarnos.html][Los métodos que puede usar la IA para matarnos]]
+- [[https://elpais.com/tecnologia/2026-09-13/la-resistencia-contra-la-ia-gana-fuerza.html][La resistencia contra la IA gana fuerza]]
+- [[https://elpais.com/espana/2026-09-13/cuatro-horas-de-deliberacion-para-suspender-el-voto-a-miles-de-nacionalizados-por-la-ley-de-nietos.html][Cuatro horas de deliberación para suspender el voto a miles de nacionalizados por la ‘ley de nietos’]]
 
 *** El Mundo
 
 - [[https://www.elmundo.es/espana/2026/09/12/6aa57340fc6c832a7a8b459b.html][Alberto Núñez Feijóo: "La agresión de Marruecos continúa y Ceuta será el epitafio de Sánchez"]]
 - [[https://www.elmundo.es/espana/2026/09/13/6aa4195621efa066158b45a3.html][La mayoría de inmigrantes entrevistados en Ceuta alegan ser gays o perseguidos políticos para intentar quedarse en España]]
-- [[https://www.elmundo.es/espana/2026/09/13/6aa5738afc6c834f4a8b456d.html][Un escrito de Illa aboca al Tribunal de Cuentas a aplicar la amnistía y salvar a los independentistas de devolver 5 millones por el 'procés']]
+- [[https://www.elmundo.es/cronica/2026/09/12/6aa42704e85ece160b8b45b6.html][Coronel Luis Romero, ex número 3 del CNI: "Por mi experiencia puedo afirmar que las rencillas entre ministros han impedido una rápida solución. Marlaska y Albares se comportan como prima donnas"]]
 - [[https://www.elmundo.es/espana/2026/09/12/6aa5434ee9cf4a282b8b45b5.html][Directores de instituto de las tres mejores autonomías en el informe PISA dan la clave del éxito escolar: "Exigencia con acompañamiento"]]
-- [[https://www.elmundo.es/economia/vivienda/2026/09/12/6a96abace9cf4a743a8b45a6.html][La crisis de la vivienda azota Europa: causas y consecuencias de un fenómeno que pone en jaque a la clase media]]
+- [[https://www.elmundo.es/espana/2026/09/13/6aa57f46e4d4d8871b8b4597.html][Abdellatif Hammouchi, el hombre que pudo evitar el asalto a Ceuta]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/vida/20260912/11633315/director-ejecutivo-anthropic-afirma-hora-ralentizar-ritmo-mejora-modelos-ia.html][El CEO de Anthropic pide ralentizar el avance de la IA “antes de perder el control”]]
-- [[https://www.lavanguardia.com/vida/20260912/11632923/anthropic-radiografia-riesgos-ia-cree-aun-vigilarla.html][Anthropic radiografía los riesgos de su IA y cree que aún puede vigilarla]]
-- [[https://www.lavanguardia.com/economia/20260912/11632879/alarma-apocaliptica-ia.html][Alarma apocalíptica en la IA]]
-- [[https://www.lavanguardia.com/politica/20260912/11633338/feijoo-abascal-aprovechan-crisis-ceuta-reforzar-relacion.html][Feijóo y Abascal aprovechan la crisis de Ceuta para reforzar su relación]]
-- [[https://www.lavanguardia.com/politica/20260912/11633276/pp-ve-insuficiente-dimision-jefe-gabinete-ceuta-broma.html][El PP ve insuficiente la dimisión del jefe de gabinete en Ceuta: “Es una broma”]]
+- [[https://www.lavanguardia.com/politica/20260913/11633321/veo-feijoo-obsesionado-vox-ecosistema-m-30-le-contagiado.html][Pradales: “Ceuta puede acabar con la legislatura si Pedro Sánchez no cierra la crisis ya”]]
+- [[https://www.lavanguardia.com/opinion/20260913/11633439/pnv-siempre-cuenta.html][El PNV siempre cuenta]]
+- [[https://www.lavanguardia.com/politica/20260913/11633341/seis-aristas-crisis-ceuti-traeran-cola.html][Seis aristas de la crisis ceutí que traerán cola]]
+- [[https://www.lavanguardia.com/politica/20260913/11633654/policia-traslada-inmigrantes-aun-pernoctaban-calle-864-nuevas-plazas-acogida-habilitadas-gobierno.html][El Gobierno traslada a migrantes que dormían en la calle a 864 nuevas plazas de acogida]]
+- [[https://www.lavanguardia.com/politica/20260913/11633442/punto-vista-vox.html][El punto de vista de Vox]]
 
 *** El Diario de Cantabria
 
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/dos-acusados-muerte-joven-asturiano-potes-tienen-vista-acuerdo-que-evite-juicio-18/20260913113541198496.html][Los dos acusados por la muerte de un joven asturiano en Potes tienen la vista para un acuerdo que evite el juicio el 18]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/cantabria-registra-temperatura-mas-baja-espana-menos-cuatro-grados/20260913095913198495.html][Cantabria registra la temperatura más baja de España]]
 - [[https://eldiariocantabria.publico.es/articulo/cultura/rodolfo-montero-palacio-incorpora-como-mentor-proyectos-cinematograficos-platino-next-gen-2026/20260912203254198493.html][Rodolfo Montero de Palacio se incorpora como mentor de los proyectos cinematográficos de PLATINO Next Gen 2026]]
 - [[https://eldiariocantabria.publico.es/articulo/municipios/san-vicente-monte-celebra-dia-diversidad-rural-presencia-manolita-chen/20260912202239198491.html][San Vicente del Monte celebra el Día de la Diversidad Rural con la presencia de Manolita Chen]]
 - [[https://eldiariocantabria.publico.es/articulo/saja-besaya/pielagos-suma-campana-bingo-compremio-potenciar-consumo/20260912200317198489.html][Piélagos se suma a la campaña ‘Bingo ComPremio’ para potenciar el consumo]]
-- [[https://eldiariocantabria.publico.es/articulo/politica/prc-exige-pp-que-desbloquee-30000-euros-destinados-familias-celiacas/20260912193847198487.html][El PRC exige al PP que “desbloquee” los 30.000 euros destinados a las familias celíacas]]
-- [[https://eldiariocantabria.publico.es/articulo/politica/semana-clave-pasiega-firma-convenio-construir-estacion-intermodal/20260912191134198485.html][Semana clave para La Pasiega con la firma del convenio para construir la estación intermodal]]
 
 ** 🇺🇸 Estados Unidos
 
@@ -79,39 +79,39 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/europe/wealthy-europeans-are-moving-north-as-temperatures-climb-9b47dac0?mod=rss_worldnews][Wealthy Europeans Are Moving North as Temperatures Climb]]
 - [[https://www.wsj.com/world/china/a-u-s-scholar-was-invited-to-china-then-he-vanished-88c720af?mod=rss_worldnews][A U.S. Scholar Was Invited to China. Then He Vanished.]]
 - [[https://www.wsj.com/world/europe/canada-alliance-eu-carney-276f1778?mod=rss_worldnews][Mark Carney’s Audacious Bid to Make Canada an ‘Associate Member’ of the EU]]
 - [[https://www.wsj.com/world/uk/u-k-s-reform-party-rakes-in-record-97-million-donations-from-crypto-world-18d9f11d?mod=rss_worldnews][U.K.’s Reform Party Rakes In Record $97 Million Donations From Crypto World]]
 - [[https://www.wsj.com/world/china/chinas-economic-troubles-reach-the-mushroom-hunters-of-shangri-la-ea4cd49d?mod=rss_worldnews][China’s Economic Troubles Reach the Mushroom Hunters of Shangri-La]]
-- [[https://www.wsj.com/tech/ai-fears-leap-from-silicon-valley-into-mainstream-america-3e632708?mod=rss_worldnews][AI Fears Leap From Silicon Valley Into Mainstream America]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/politique/article/2026/09/13/presidentielle-2027-a-la-fete-de-l-humanite-jean-luc-melenchon-accentue-la-pression-sur-les-autres-forces-de-gauche_6772183_823448.html][Présidentielle 2027 : à la Fête de « L’Humanité », Jean-Luc Mélenchon accentue la pression sur les autres forces de gauche]]
-- [[https://www.lemonde.fr/culture/article/2026/09/12/celine-dion-remonte-sur-scene-en-chantant-on-ne-change-pas-apres-plus-de-six-ans-d-absence_6771946_3246.html][Céline Dion remonte sur scène en chantant « On ne change pas », après plus de six ans d’absence]]
+- [[https://www.lemonde.fr/politique/article/2026/09/13/chez-les-le-pen-la-famille-l-emporte-toujours-pour-sa-quatrieme-campagne-presidentielle-marine-le-pen-se-repose-sur-ses-proches_6772178_823448.html][« Chez les Le Pen, la famille l’emporte toujours » : pour sa quatrième campagne présidentielle, Marine Le Pen se repose sur ses proches]]
+- [[https://www.lemonde.fr/culture/article/2026/09/13/celine-dion-renait-sur-scene-pour-le-premier-des-26-concerts-de-sa-residence-a-nanterre-je-veux-chanter-pour-vous-chanter-la-vie_6772198_3246.html][Céline Dion renaît sur scène, pour le premier des 26 concerts de sa résidence à Nanterre : « Je veux chanter pour vous, chanter la vie »]]
 - [[https://www.lemonde.fr/politique/article/2026/09/12/budget-2027-le-gouvernement-propose-des-mesures-pour-faciliter-les-transmissions-familiales_6771777_823448.html][Budget 2027 : le gouvernement propose des mesures pour faciliter les transmissions familiales]]
-- [[https://www.lemonde.fr/pixels/article/2026/09/12/ia-le-patron-d-anthropic-dario-amodei-appelle-a-ralentir-la-vitesse-de-developpement-de-l-intelligence-artificelle-et-a-mieux-controler-ses-evolutions_6771707_4408996.html][IA : le patron d’Anthropic, Dario Amodei, appelle à ralentir la vitesse de développement de l’intelligence artificielle avant que des agents soient « capables de prendre le contrôle d’internet »]]
-- [[https://www.lemonde.fr/sport/article/2026/09/13/us-open-2026-elena-rybakina-nouvelle-reine-de-new-york-et-du-tennis-mondial_6772012_3242.html][US Open 2026 : Elena Rybakina, nouvelle reine de New York et du tennis mondial]]
+- [[https://www.lemonde.fr/detroit-d-ormuz/article/2026/09/13/sur-les-rives-du-detroit-d-ormuz-des-vies-entre-mer-et-feu-dans-l-il-d-un-photographe-iranien-il-fallait-montrer-ce-que-la-guerre-leur-fait_6772182_6671036.html][Sur les rives du détroit d’Ormuz, des vies entre mer et feu dans l’œil d’un photographe iranien : « Il fallait montrer ce que la guerre leur fait »]]
+- [[https://www.lemonde.fr/pixels/article/2026/09/13/sam-altman-annonce-qu-openai-n-entrera-pas-en-bourse-en-2026-en-raison-des-inquietudes-lies-a-la-securite-de-l-intelligence-artificielle_6772466_4408996.html][Sam Altman annonce qu’OpenAI n’entrera pas en Bourse en 2026, en raison des inquiétudes liés à la sécurité de l’intelligence artificielle]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/musique/pour-son-retour-une-celine-dion-a-hauteur-d-homme-a-paris-20260913][Pour son retour sur scène, une Céline Dion à hauteur d’homme à Paris]]
-- [[https://www.lefigaro.fr/musique/rien-n-arrete-un-fan-de-celine-dion-apres-le-concert-la-fete-se-poursuit-jusqu-au-bout-de-la-nuit-20260913][«Rien n’arrête un fan de Céline Dion» : après le concert, la fête se poursuit jusqu’au bout de la nuit]]
-- [[https://www.lefigaro.fr/musique/celine-dion-en-concert-a-paris-suivez-le-grand-retour-de-la-diva-en-direct-20260912][« Je m’étais promis de ne pas pleurer, je ne tiens pas mes promesses » : Céline Dion de retour sur scène à Paris]]
-- [[https://www.lefigaro.fr/musique/michelle-obama-thomas-pesquet-aya-nakamura-ces-stars-qui-ont-assiste-au-premier-concert-de-celine-dion-20260913][Michelle Obama, Thomas Pesquet, Aya Nakamura… Ces stars qui ont assisté au premier concert de Céline Dion]]
-- [[https://www.lefigaro.fr/conjoncture/participation-au-redressement-des-finances-publiques-sebastien-lecornu-lance-une-concertation-sur-la-desindexation-des-retraites-20260912][«Participation au redressement des finances publiques» : Sébastien Lecornu lance une concertation sur la désindexation des retraites]]
+- [[https://www.lefigaro.fr/faits-divers/violent-imprevisible-manipulateur-le-parcours-terrifiant-d-alexandre-17-ans-adolescent-place-soupconne-de-multiples-viols-20260913][«Violent, imprévisible, manipulateur» : le parcours terrifiant d’Alexandre, 17 ans, adolescent placé soupçonné de multiples viols]]
+- [[https://www.lefigaro.fr/politique/16-et-20-d-opinions-favorables-emmanuel-macron-et-sebastien-lecornu-battent-un-record-d-impopularite-20260913][«16% et 20% d’opinions favorables» : Emmanuel Macron et Sébastien Lecornu battent un record d’impopularité]]
+- [[https://www.lefigaro.fr/elections/presidentielles/en-direct-je-ne-suis-pas-un-homme-presse-pour-l-election-presidentielle-edouard-philippe-defend-la-tortue-et-moque-les-lievres-20260912][EN DIRECT - Présidentielle 2027 : en cette journée de rentrée pour le RN, Marine Le Pen souhaite son anniversaire à Jordan Bardella]]
+- [[https://www.lefigaro.fr/elections/presidentielles/on-ne-pourra-pas-gagner-a-gauche-avec-deux-tiers-des-francais-qui-nous-haissent-a-la-fete-de-l-huma-ruffin-tacle-implicitement-melenchon-20260913][«On ne pourra pas gagner à gauche avec deux tiers des Français qui nous haïssent» : à la fête de l’Huma, Ruffin tacle implicitement Mélenchon]]
+- [[https://www.lefigaro.fr/politique/presidentielle-2027-a-la-fete-de-la-rose-francois-hollande-prone-l-union-sacree-des-democrates-au-dela-des-partis-20260913][Présidentielle 2027 : à la Fête de la rose, François Hollande prône «l’union sacrée des démocrates» au-delà des partis]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
 - [[https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss][Anthropic boss Dario Amodei calls for AI development to slow down]]
-- [[https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss][Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq]]
-- [[https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss][They lost their jobs after posting about Charlie Kirk, but some have no regrets]]
 - [[https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss][Trump's comments on a united Ireland may have targeted audience across the Atlantic]]
-- [[https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss][Fire at nursing home in Chile kills 16 residents]]
+- [[https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss][They lost their jobs after posting about Charlie Kirk, but some have no regrets]]
+- [[https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss][Russians seek answers over hundreds missing after Ukraine's 2024 incursion]]
+- [[https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss][Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq]]
 
 *** The Guardian
 
@@ -133,11 +133,11 @@
 
 *** Il Sole 24 Ore
 
+- [[https://www.ilsole24ore.com/art/tajani-carburanti-allo-studio-misure-ridurre-fardello-chi-e-piu-difficolta-ecco-tutte-ipotesi-AJ5nozBB][Carburanti, Tajani: «allo studio misure per ridurre fardello per chi è più in difficoltà». Tutte le ipotesi]]
 - [[https://www.ilsole24ore.com/art/con-6-superenalotto-lecco-stato-incassa-subito-446-milioni-come-4-giorni-sconto-gasolio-AJF64bBB][Con il 6 al Superenalotto di Lecco lo Stato incassa  44,6 milioni (come 4 giorni di sconto sul gasolio)]]
 - [[https://www.ilsole24ore.com/art/legge-elettorale-e-raccolta-firme-centristi-onorato-ex-leghisti-ecco-chi-rischia-restare-fuori-AJzKJbBB][Legge elettorale e raccolta firme: dai centristi di Onorato agli ex leghisti, ecco chi rischia di restare fuori]]
 - [[https://www.ilsole24ore.com/art/telefono-azzurro-vertice-onu-proteggere-minori-governance-dell-intelligenza-artificiale-AJiT8ZBB][Telefono Azzurro all’Onu: proteggere i minori nella governance AI]]
 - [[https://www.ilsole24ore.com/art/la-carta-benessere-rilanciare-crescita-AJm22Q4][La carta del benessere per rilanciare la crescita]]
-- [[https://www.ilsole24ore.com/art/manager-sempre-piu-corde-e-dipendenti-perdono-slancio-AJkkTP4][Manager sempre più alle corde. E i dipendenti perdono slancio]]
 
 ** 🇩🇪 Alemania
 
@@ -151,21 +151,21 @@
 
 *** Deutsche Welle
 
+- [[https://www.dw.com/en/a-romani-artist-in-hungary-reclaims-his-identity/a-79247266?maca=en-rss-en-world-4025-rdf][A Romani artist in Hungary reclaims his identity]]
 - [[https://www.dw.com/en/trump-visits-ireland-says-unification-would-be-fantastic/a-79244685?maca=en-rss-en-world-4025-rdf][Trump visits Ireland, says unification would be 'fantastic']]
 - [[https://www.dw.com/en/corals-as-climate-archive-are-el-ninos-intensifying/a-79243425?maca=en-rss-en-world-4025-rdf][Corals as climate archive: Are El Ninos intensifying?]]
 - [[https://www.dw.com/en/uber-leaves-two-key-african-markets-and-their-drivers-in-despair/a-79232189?maca=en-rss-en-world-4025-rdf][Uber leaves two key African markets — and their drivers in despair]]
 - [[https://www.dw.com/en/russia-s-drone-war-comes-to-moldova-and-romania/a-79239591?maca=en-rss-en-world-4025-rdf][Russia's drone war comes to Moldova and Romania]]
-- [[https://www.dw.com/en/dw-exclusive-zelenskyy-offers-to-meet-putin-at-g20-in-miami/a-79241703?maca=en-rss-en-world-4025-rdf][DW exclusive: Zelenskyy offers to meet Putin at G20 in Miami]]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-tambem-quero-viver-de-musica-diz-rainer-cadete-que-se-lancou-cantor.shtml][Rock in Rio 2026: 'Também quero viver de música', diz Rainer Cadete, que se lançou cantor]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/demi-lovato-agita-multidao-em-grande-show-com-participacao-de-pabllo-vittar-no-rock-in-rio.shtml][Demi Lovato agita multidão em grande show com participação de Pabllo Vittar no Rock in Rio]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-camila-queiroz-revela-saudade-das-novelas-e-dificuldade-para-se-afastar-da-filha.shtml][Rock in Rio 2026: Camila Queiroz revela saudade das novelas e dificuldade para se afastar da filha]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/sobre-trilhos/2026/09/estacao-de-trem-cenario-de-novelas-chega-aos-cem-anos-no-interior-de-sp.shtml][Estação de trem cenário de novelas chega aos cem anos no interior de SP]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-esta-tudo-certo-diz-thaila-ayala-apos-climao-entre-o-marido-e-tata-werneck.shtml][Rock in Rio 2026: 'Está tudo certo', diz Thaila Ayala após climão entre o marido e Tata Werneck]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/presidente-da-ans-diz-que-aconselha-amigos-a-procurarem-a-justica-contra-planos-de-saude.shtml][Presidente da ANS diz que aconselha amigos a procurarem a Justiça contra planos de saúde]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/ceo-da-ryanair-contesta-relato-de-passageiro-sugado-por-janela-de-aviao-na-grecia.shtml][CEO da Ryanair contesta relato de passageiro sugado por janela de avião na Grécia]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/pegadas-de-66-milhoes-de-anos-sao-primeira-trilha-conhecida-de-um-t-rex-adulto.shtml][Pegadas de 66 milhões de anos são primeira trilha conhecida de um T. rex adulto]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/planeta-completa-100-dias-de-recorde-de-calor-no-oceano-e-temperatura-segue-alta.shtml][Planeta completa 100 dias de recorde de calor no oceano e temperatura segue alta]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/sao-paulo-segue-em-alerta-de-perigo-para-tempestades-neste-domingo-13.shtml][São Paulo segue em alerta de perigo para tempestades neste domingo (13)]]
 
 *** O Globo
 
