@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
-#+HTML: <div class='telemetry'>🌡 49.4°C | ⚖ Load: 0.08 | 🌐 Ping: 9.23ms</div>
+#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
+#+HTML: <div class='telemetry'>🌡 49.4°C | ⚖ Load: 0.00 | 🌐 Ping: 9.45ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -41,89 +41,89 @@
 
 *** El País
 
-- [[https://elpais.com/america/2026-09-14/estados-unidos-frena-la-investigacion-en-espana-de-alejandro-betancourt-su-nuevo-zar-del-petroleo-en-venezuela.html][Estados Unidos frena la investigación en España de Alejandro Betancourt, su nuevo ‘zar’ del petróleo en Venezuela]]
-- [[https://elpais.com/tecnologia/2026-09-13/codigo-rojo-en-la-ia-el-vertigo-paraliza-a-las-tecnologicas-y-openai-suspende-la-salida-a-bolsa.html][Código rojo en la IA: el vértigo paraliza a las tecnológicas y OpenAI suspende la salida a Bolsa]]
-- [[https://elpais.com/mexico/2026-09-14/asesinada-en-morelos-una-estudiante-espanola-de-intercambio.html][Asesinada en Morelos una estudiante española de intercambio]]
-- [[https://elpais.com/espana/2026-09-14/la-espanola-asesinada-en-mexico-era-de-canarias-y-estudiaba-educacion-infantil-en-la-universidad-de-granada.html][La española asesinada en México era de Canarias y estudiaba Educación Infantil en la Universidad de Granada]]
+- [[https://elpais.com/espana/2026-09-14/la-junta-electoral-acata-dividida-el-mandato-del-supremo-sobre-la-ley-de-nietos.html][La Junta Electoral acata dividida el mandato del Supremo sobre la ‘ley de nietos’]]
+- [[https://elpais.com/espana/2026-09-14/la-crisis-de-ceuta-castiga-al-psoe-con-dos-puntos-menos-segun-el-cis.html][La crisis de Ceuta castiga al PSOE con dos puntos de voto menos, según el CIS]]
 - [[https://elpais.com/espana/2026-09-14/marruecos-vive-la-crisis-de-ceuta-entre-el-fervor-politico-nacionalista-y-la-preocupacion-popular-por-el-trato-a-los-migrantes.html][Marruecos vive la crisis de Ceuta entre el fervor político nacionalista y la preocupación popular por el trato a los migrantes]]
+- [[https://elpais.com/mexico/2026-09-14/asesinada-en-morelos-una-estudiante-espanola-de-intercambio.html][Asesinada en México una estudiante española que estaba de intercambio en la Universidad de Morelos]]
+- [[https://elpais.com/espana/2026-09-14/la-espanola-asesinada-en-mexico-era-de-canarias-y-estudiaba-educacion-infantil-en-la-universidad-de-granada.html][La española asesinada en México era de Canarias y estudiaba Educación Infantil en la Universidad de Granada]]
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/09/13/6aa69061e9cf4a6d218b459d.html][El Tribunal de Cuentas entrega al juez un 'pendrive' con el nombre y apellidos de los donantes del PSOE en la investigación de la financiación ilegal del partido]]
-- [[https://www.elmundo.es/espana/2026/09/14/6aa690f3e85ece0f718b458b.html][El sector progresista del Poder Judicial mueve ficha para negociar ya las vacantes en la Sala Segunda del Tribunal Supremo]]
-- [[https://www.elmundo.es/papel/historias/2026/09/13/6aa422dce9cf4ae15a8b45b3.html][Los nuevos reyes de las mañanas de la radio: "Los tres queremos ser los más escuchados, pero no debemos cavar trincheras"]]
-- [[https://www.elmundo.es/espana/2026/09/13/6aa3eb3021efa047018b4595.html][Bruselas avisó en mayo de que España no tiene un plan efectivo ante llegadas masivas de inmigrantes y sufre "carencias de personal" fronterizo]]
-- [[https://www.elmundo.es/espana/2026/09/14/6aa68febe9cf4ad23e8b457c.html][Interior rebaja la vigilancia sobre la Inteligencia marroquí: apartan a tres policías tras investigar a un súbdito vinculado a Mohamed VI]]
+- [[https://www.elmundo.es/espana/2026/09/14/6aa7e57be9cf4a27138b4598.html][Moncloa y Ferraz estallan contra algunos jueces por la suspensión de la 'ley de nietos': "jueces salvapatrias"; "lobos solitarios"; "independencia no es inmunidad"]]
+- [[https://www.elmundo.es/espana/2026/09/14/6aa7efb8e85ece256f8b457a.html][La Junta Electoral ejecuta la paralización de la 'ley de nietos' y pide informes a los consulados sobre el nexo de los nacionalizados con el exilio]]
+- [[https://www.elmundo.es/espana/2026/09/14/6aa7cffbe4d4d8413c8b4576.html][La juez Tardón propone a los juzgados de Ceuta que la Audiencia Nacional asuma la investigación sobre la actuación del delegado del Gobierno]]
+- [[https://www.elmundo.es/espana/2026/09/14/6aa7804cfc6c83984c8b457f.html][Asesinan en México a una estudiante española de 21 años que se encontraba de intercambio]]
+- [[https://www.elmundo.es/espana/2026/09/14/6aa7c2f3e4d4d883708b457d.html][El PSOE baja dos puntos por la crisis de Ceuta en el  CIS de Tezanos, que le mantiene con 5,5 puntos sobre el PP]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/economia/20260914/11633799/espana-afronta-reconversion-industrial-fabricas-coches.html][El sector del automóvil afronta en España una difícil reconversión]]
-- [[https://www.lavanguardia.com/economia/20260914/11633849/seat-griffiths-coqueteo-socio-chino-g-8-vuelve-reunirse-cambra-fira.html][Cuando la Seat de Griffiths coqueteó con un socio chino // El G-8 vuelve a reunirse]]
-- [[https://www.lavanguardia.com/politica/20260914/11633785/papeles-desclasificados-ceuta-sirven-jueza-tardon-tirar-hilo.html][Los papeles desclasificados de Ceuta sirven a la jueza Tardón para tirar del hilo]]
-- [[https://www.lavanguardia.com/politica/20260914/11633790/situacion-ceuta-mas-politicos.html][La situación de Ceuta, más allá de los políticos]]
-- [[https://www.lavanguardia.com/politica/20260914/11633835/boom-reformas-caseras-ceuta-mano-obra-barata-inmigrante.html][El 'boom' de las reformas caseras en Ceuta con mano de obra (barata) inmigrante]]
+- [[https://www.lavanguardia.com/economia/20260914/11634146/tecnologicas-bolsa-openai-ia-anthropic.html][Las tecnológicas sufren en bolsa en medio de los temores por el avance de la IA]]
+- [[https://www.lavanguardia.com/vida/20260914/11634119/sam-altman-perder-control-futuro-ia.html][Sam Altman: “Podríamos perder el control del futuro ante la IA”]]
+- [[https://www.lavanguardia.com/vida/20260914/11634359/vaticano-reivindica-papel-profetico-leon-xiv-alarma-ia.html][El Vaticano reivindica el papel “profético” de León XIV ante la alarma por la IA]]
+- [[https://www.lavanguardia.com/vida/20260914/11634094/china-lanza-alerta-sobre-riesgos-ia-pleno-debate-sobre-limites-desarrollo.html][China lanza su advertencia más detallada hasta la fecha sobre los riesgos de la IA]]
+- [[https://www.lavanguardia.com/vida/20260914/11634287/china-defiende-ia-orientada-opone-narrativas-amenaza-confrontacion.html][China defiende una IA “orientada al bien” y se opone a narrativas de amenaza o confrontación]]
 
 *** El Diario de Cantabria
 
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/xiii-marcha-solidaria-memorial-lucia-chusa-blanco/20260914115447198544.html][La XIII Marcha Solidaria “Memorial Lucía Chusa Blanco” llega a Tagle este domingo]]
-- [[https://eldiariocantabria.publico.es/articulo/cantabria/detenidos-santander-hombre-50-gramos-hachis-menor-cocaina-mdma/20260914113343198541.html][Detenidos en Santander un hombre con 50 gramos de hachís y un menor con cocaína y MDMA]]
-- [[https://eldiariocantabria.publico.es/articulo/economia/desiertas-ayudas-gobierno-cantabria-planes-urbanisticos-concurrir-ningun-ayuntamiento/20260914112013198540.html][Desiertas las ayudas del Gobierno de Cantabria para planes urbanísticos tras no concurrir ningún ayuntamiento]]
-- [[https://eldiariocantabria.publico.es/articulo/sociedad/detenido-santander-agredir-pareja-discusion/20260914110624198538.html][Detenido en Santander por agredir a su pareja tras una discusión]]
-- [[https://eldiariocantabria.publico.es/articulo/economia/cantabria-gana-849-afiliados-extranjeros-seguridad-social-agosto-encima-media-nacional/20260914105812198537.html][Cantabria gana 849 afiliados extranjeros a la Seguridad Social en agosto, por encima de la media nacional]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/cantabria-roza-36-grados/20260914173825198562.html][Cantabria roza los 36 grados]]
+- [[https://eldiariocantabria.publico.es/articulo/educacion/reves-historico-educacion-cantabria-gobierno-pp-que-heredo-sistema-educativo-cabeza-espana-europa/20260914172624198561.html][“Revés histórico” en la Educación de Cantabria bajo el Gobierno del PP, que heredó un “sistema educativo a la cabeza de España y Europa”]]
+- [[https://eldiariocantabria.publico.es/articulo/politica/cantabria-queda-fuera-ayudas-estatales-vivienda-decision-propio-gobierno-pp/20260914171415198560.html][“Cantabria se queda fuera de ayudas estatales para vivienda por decisión de su propio Gobierno del PP”]]
+- [[https://eldiariocantabria.publico.es/articulo/cantabria/adif-apunta-jueves-recuperar-trenes-entre-astillero-orejo-mientras-siguen-obras-doble-via/20260914170108198559.html][Adif apunta al jueves para recuperar los trenes entre Astillero y Orejo mientras siguen las obras de la doble vía]]
+- [[https://eldiariocantabria.publico.es/articulo/santander/investigados-cuatro-conductores-santander-circular-ebrios-carne/20260914164759198557.html][Investigados cuatro conductores en Santander por circular ebrios o sin carné]]
 
 ** 🇺🇸 Estados Unidos
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/09/14/putin-warns-europe-war-if-peacekeeping-troops-are-deployed-ukraine/][Putin warns Europe of war if peacekeeping troops are deployed to Ukraine]]
+- [[https://www.washingtonpost.com/world/2026/09/14/iran-persian-gulf-foreign-ministers-postpone-meeting-talks-stall/][Iran and Persian Gulf foreign ministers postpone meeting as talks stall]]
+- [[https://www.washingtonpost.com/world/2026/09/14/king-charles-host-ai-leaders-disaster-warnings-mount/][King Charles to host AI leaders as disaster warnings mount]]
+- [[https://www.washingtonpost.com/world/2026/09/14/ukraines-war-outlook-worsens-kyiv-confronts-budget-weapons-shortfalls/][Ukraine’s war outlook worsens as Kyiv confronts budget and weapons shortfalls]]
 - [[https://www.washingtonpost.com/world/2026/09/13/trump-calls-zelensky-stop-attacking-russian-energy-targets/][Trump calls on Zelensky to stop attacking Russian energy targets]]
-- [[https://www.washingtonpost.com/world/2026/09/13/uk-debate-over-ireland-unification-catches-fire-after-trump-comments/][Trump pokes the U.K., and Ireland’s unity debate catches fire]]
-- [[https://www.washingtonpost.com/world/2026/09/13/trump-threatened-bomb-oman-oman-has-questions/][Oman, a mediator with Iran, is baffled by Trump’s bombing threat]]
-- [[https://www.washingtonpost.com/world/2026/09/13/six-dead-140-missing-after-indonesian-passenger-ship-hits-bad-weather-java-sea/][Six dead, over 100 missing after Indonesian passenger ship hits bad weather in Java Sea]]
-- [[https://www.washingtonpost.com/world/2026/09/13/canadians-boycott-us-its-products-amid-trump-threats/][Bye, America: Trump’s rhetoric pushes some Canadians to shun the U.S.]]
 
 *** WSJ.com: World News
 
-- [[https://www.wsj.com/sports/sand-beer-and-dogs-on-the-pitch-scots-are-suddenly-crazy-about-cricket-f5587525?mod=rss_worldnews][Sand, Beer and Dogs on the Pitch: Scots Are Suddenly Crazy About Cricket]]
+- [[https://www.wsj.com/world/middle-east/what-is-saudi-arabias-east-west-pipeline-and-why-is-it-rocking-oil-markets-3e9823a3?mod=rss_worldnews][What Is Saudi Arabia’s East-West Pipeline and Why Is It Rocking Oil Markets?]]
+- [[https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-congress-is-suddenly-waking-up-to-the-ai-doomsday-threat-29c1baa8?mod=rss_worldnews][The Morning Risk Report: Congress Is Suddenly Waking Up to the AI Doomsday Threat]]
+- [[https://www.wsj.com/sports/sand-beer-and-dogs-on-the-pitch-scots-are-suddenly-crazy-about-cricket-f5587525?mod=rss_worldnews][A Snooty Sport Gets a Scottish Makeover—With Beer, Sand and Dogs on the Pitch]]
 - [[https://www.wsj.com/world/china/justin-sun-jing-tian-bride-fee-5d83b7c5?mod=rss_worldnews][Did a Crypto Bro Pay $4.5 Million to Marry a Movie Star? A Scandal Grips China]]
 - [[https://www.wsj.com/world/russia-is-churning-out-smart-cheap-new-weapons-faster-than-ukraine-or-the-u-s-c817d014?mod=rss_worldnews][Russia Is Churning Out Smart, Cheap New Weapons Faster Than Ukraine or the U.S.]]
-- [[https://www.wsj.com/world/middle-east/widening-mideast-instability-squeezes-global-oil-supplies-0cd316ad?mod=rss_worldnews][Widening Mideast Instability Squeezes Global Oil Supplies]]
-- [[https://www.wsj.com/world/europe/dueling-airstrikes-fuel-angst-as-russia-ukraine-war-escalates-a6c0a67b?mod=rss_worldnews][Dueling Airstrikes Fuel Angst as Russia-Ukraine War Escalates]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/politique/live/2026/09/14/en-direct-presidentielle-2027-posez-vos-questions-a-la-politiste-anne-muxel-suite-aux-resultats-de-la-premiere-enquete-electorale-du-monde_6770586_823448.html][EN DIRECT, présidentielle 2027 : « Les Français veulent un changement profond, non dénué de radicalité, pour répondre aux préoccupations qui sont les leurs »]]
-- [[https://www.lemonde.fr/societe/article/2026/09/14/arrets-maladie-des-medecins-s-inquietent-pour-leurs-patients-du-durcissement-des-regles_6773359_3224.html][Arrêts maladie : des médecins s’inquiètent pour leurs patients du durcissement des règles]]
-- [[https://www.lemonde.fr/international/article/2026/09/14/en-cisjordanie-occupee-israel-porte-un-projet-d-elimination-des-palestiniens-accuse-l-ong-b-tselem_6773567_3210.html][En Cisjordanie occupée, Israël porte un projet d’« élimination » des Palestiniens, accuse l’ONG B’Tselem]]
-- [[https://www.lemonde.fr/international/live/2026/09/14/en-direct-guerre-en-ukraine-la-russie-affirme-poursuivre-ses-attaques-contre-les-trains-ukrainiens_6772184_3210.html][EN DIRECT, guerre en Ukraine : la Russie affirme poursuivre ses attaques contre les trains ukrainiens]]
-- [[https://www.lemonde.fr/sciences/article/2026/09/14/apprentissage-de-la-lecture-ce-que-disent-les-neurosciences-et-les-sciences-de-l-education_6773363_1650684.html][Apprentissage de la lecture : ce que disent les neurosciences et les sciences de l’éducation]]
+- [[https://www.lemonde.fr/societe/article/2026/09/14/le-proces-du-complotiste-remy-daillet-et-de-son-groupuscule-ou-le-recit-d-une-derive-terroriste-de-l-enlevement-de-mia-a-un-projet-de-coup-d-etat_6773853_3224.html][Le procès du complotiste Rémy Daillet et de son groupuscule, ou le récit d’une dérive terroriste, de l’enlèvement de Mia à un projet de coup d’Etat]]
+- [[https://www.lemonde.fr/politique/live/2026/09/14/en-direct-presidentielle-2027-suivez-les-derniers-developpements-de-la-campagne_6770586_823448.html][Présidentielle 2027 : retrouvez les résultats de la première grande enquête électorale réalisée pour « Le Monde »]]
+- [[https://www.lemonde.fr/international/article/2026/09/14/en-pologne-la-droite-nationaliste-au-c-ur-d-un-scandale-lie-a-une-plateforme-de-cryptomonnaies_6773841_3210.html][En Pologne, la droite nationaliste au cœur d’un scandale lié à une plateforme de cryptomonnaies]]
+- [[https://www.lemonde.fr/international/article/2026/09/14/en-espagne-des-centaines-de-milliers-de-citoyens-pourraient-etre-prives-de-droit-de-vote-aux-legislatives-de-2027_6773843_3210.html][En Espagne, des centaines de milliers de citoyens pourraient être privés de droit de vote aux législatives de 2027]]
+- [[https://www.lemonde.fr/pixels/article/2026/09/14/wikipedia-en-francais-interdit-l-usage-de-l-ia-generative-pour-rediger-des-articles_6773851_4408996.html][Wikipédia en français interdit l’usage de l’IA générative pour rédiger des articles]]
 
 *** Le Figaro
 
-- [[https://www.lefigaro.fr/international/guerre-en-ukraine-jean-noel-barrot-denonce-la-frappe-inacceptable-contre-un-train-qui-vise-a-desunir-les-allies-de-kiev-20260914][Guerre en Ukraine : Jean-Noël Barrot dénonce la frappe «inacceptable» contre un train, qui vise à «désunir» les alliés de Kiev]]
-- [[https://www.lefigaro.fr/international/en-ukraine-la-diplomatie-francaise-en-manoeuvre-sous-la-menace-des-drones-russe-20260913][En Ukraine, la diplomatie française en manœuvre sous la menace des drones russes]]
-- [[https://www.lefigaro.fr/international/guerre-en-ukraine-une-attaque-russe-sur-un-entrepot-d-une-entreprise-agricole-fait-au-moins-trois-morts-et-sept-blesses-20260914][Guerre en Ukraine : une attaque russe sur un entrepôt d’une entreprise agricole fait au moins trois morts et sept blessés]]
-- [[https://www.lefigaro.fr/conjoncture/les-taux-francais-a-10-ans-passent-le-seuil-des-4-5-au-plus-haut-depuis-plus-de-18-ans-20260914][Les taux français à 10 ans passent le seuil des 4,5%, au plus haut depuis plus de 18 ans]]
-- [[https://www.lefigaro.fr/secteur/high-tech/revolut-se-fait-avoir-par-une-usurpation-d-identite-sophistiquee-et-transmet-des-donnees-sensibles-de-clients-20260914][Revolut victime d’une usurpation d’identité «sophistiquée» a transmis des données sensibles de clients]]
+- [[https://www.lefigaro.fr/societes/la-campagne-presidentielle-ne-doit-pas-affaiblir-la-credibilite-de-la-france-la-mise-en-garde-de-thomas-buberl-directeur-general-d-axa-20260914][« La campagne présidentielle ne doit pas affaiblir la crédibilité de la France » : la mise en garde de Thomas Buberl, directeur général d’Axa]]
+- [[https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-jean-luc-melenchon-n-est-pas-un-ennemi-pour-olivier-faure-gabriel-attal-veut-reveiller-la-campagne-20260914][EN DIRECT - Présidentielle 2027 : «Elle ne cesse de varier», François-Xavier Bellamy tacle la proposition de Marine Le Pen sur la priorité nationale]]
+- [[https://www.lefigaro.fr/politique/presidentielle-2027-que-disent-les-derniers-sondages-20260824][Présidentielle 2027 : que disent les derniers sondages ?]]
+- [[https://www.lefigaro.fr/politique/vous-ne-pouvez-pas-imaginer-comme-elle-est-soulagee-la-nouvelle-vie-d-anne-hidalgo-loin-de-la-politique-20260914][« Vous ne pouvez pas imaginer comme elle est soulagée » : la nouvelle vie d’Anne Hidalgo, loin de la politique]]
+- [[https://www.lefigaro.fr/vox/politique/nicolas-bouzou-melenchon-veut-decreter-l-etat-d-urgence-apres-son-election-mais-personne-ne-s-en-inquiete-20260914][Nicolas Bouzou : «Mélenchon veut décréter l’état d’urgence après son élection mais personne ne s’en inquiète»]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
+- [[https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss][China criticises idea it is in 'malicious competition' over AI]]
 - [[https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss][Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station]]
-- [[https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss][Trump downplays warnings of AI risks, citing rivalry with China]]
-- [[https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss][Questions mount over what an AI 'slowdown' would look like]]
+- [[https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss][Thousands demand end to violence in Mexican cartel hotspot]]
 - [[https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss][Swedish left-wing bloc narrowly ahead with election too close to call]]
-- [[https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss][Six dead, 130 missing after Indonesian ferry capsizes in Java Sea]]
+- [[https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss][Wild dogs record 2,500-mile trek across Africa in search of a mate]]
 
 *** The Guardian
 
+- [[https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade][The London hospital funded by donors who invested in the slave trade]]
+- [[https://www.theguardian.com/world/2026/sep/14/aliko-dangote-nigeria-africa-richest-man-ipo][Africa’s richest man aiming to make $23bn from continent’s biggest-ever IPO]]
 - [[https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda][Burial of King Oyo takes place in Uganda as news anchor prepares for throne]]
 - [[https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams][Six Nigerians extradited to US over $6m online romance scam]]
 - [[https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide][$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide]]
-- [[https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute][Secret son revelation ignites bitter succession dispute in Ugandan kingdom]]
-- [[https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles][Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief]]
 
 ** 🇮🇹 Italia
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
-- [[https://www.ilsole24ore.com/art/fisco-volata-finale-il-730-entrate-rafforzano-l-assistenza-call-center-anche-sabato-19-e-26-settembre-AJ36BGAB][Fisco, volata finale per il 730. Le Entrate rafforzano l’assistenza: call center anche sabato 19 e 26 settembre]]
-- [[https://www.ilsole24ore.com/art/quattro-espatriati-dieci-tornano-italia-trend-consolidamento-AJuZZeCB][Quattro espatriati su dieci tornano in Italia, «trend in consolidamento»]]
-- [[https://www.ilsole24ore.com/art/bonino-l-ultimo-omaggio-centinaia-cittadini-oggi-veglia-civile-campidoglio-AJvOSECB][Bonino, l’ultimo omaggio di centinaia di cittadini. Oggi veglia civile in Campidoglio]]
-- [[https://www.ilsole24ore.com/art/affitti-partite-iva-giovani-manovra-gioca-carta-flat-tax-AJxCdLCB][Affitti, partite Iva, giovani: la manovra gioca la carta delle Flat tax]]
-- [[https://www.ilsole24ore.com/art/piano-d-azione-contro-xylella-calabria-isolate-sette-piante-infette-piana-gioia-tauro-AJMjaXCB][Piano d’azione contro la Xylella in Calabria, isolate sette piante infette nella Piana di Gioia Tauro]]
+- [[https://www.ilsole24ore.com/art/fisco-niente-stretta-tfr-resta-paracadute-aliquote-piu-basse-AJYcYmCB][Fisco, niente stretta sul Tfr: resta il paracadute delle aliquote più basse]]
+- [[https://www.ilsole24ore.com/art/tax-credit-autotrasporto-prorogata-scadenza-piattaforma-20-settembre-AJqE5tCB][Tax credit autotrasporto, prorogata la scadenza della piattaforma al 20 settembre]]
+- [[https://www.ilsole24ore.com/art/caso-roggero-giudice-sorveglianza-no-differimento-pena-il-gioielliere-cuneese-AJMM7tCB][Caso Roggero,  dal giudice di sorveglianza no al differimento della pena: il gioielliere resta in carcere]]
+- [[https://www.ilsole24ore.com/art/dalla-riserva-concorsi-pubblici-calo-inattivi-effetti-servizio-civile-universale-AJ75ppCB][Dalla riserva nei concorsi pubblici al calo degli inattivi: gli effetti del servizio civile universale]]
+- [[https://www.ilsole24ore.com/art/papa-leone-revoca-tagli-bergoglio-e-alza-stipendi-cardinali-AJ894mCB][Papa Leone revoca i tagli di Bergoglio e alza gli stipendi dei cardinali]]
 
 ** 🇩🇪 Alemania
 
@@ -155,21 +155,21 @@
 
 *** Deutsche Welle
 
-- [[https://www.dw.com/en/can-iran-replace-sea-trade-with-land-routes/a-79211179?maca=en-rss-en-world-4025-rdf][Can Iran replace sea trade with land routes?]]
-- [[https://www.dw.com/en/russians-on-the-goethe-institut-hostage-to-politics/a-79218936?maca=en-rss-en-world-4025-rdf][Russians on the Goethe-Institut: 'Hostage to politics']]
-- [[https://www.dw.com/en/a-romani-artist-in-hungary-reclaims-his-identity/a-79247266?maca=en-rss-en-world-4025-rdf][A Romani artist in Hungary reclaims his identity]]
-- [[https://www.dw.com/en/trump-visits-ireland-says-unification-would-be-fantastic/a-79244685?maca=en-rss-en-world-4025-rdf][Trump visits Ireland, says unification would be 'fantastic']]
-- [[https://www.dw.com/en/uganda-lays-boy-king-oyo-to-rest-amid-succession-row/a-79243428?maca=en-rss-en-world-4025-rdf][Uganda lays 'boy king' Oyo to rest amid succession row]]
+- [[https://www.dw.com/en/ipo-for-the-people-is-out-of-reach-for-many-in-nigeria/a-79263398?maca=en-rss-en-world-4025-rdf][IPO 'for the people' is out of reach for many in Nigeria]]
+- [[https://www.dw.com/en/nepal-thousands-still-missing-as-flood-recovery-begins/a-79259980?maca=en-rss-en-world-4025-rdf][Nepal: thousands still missing as flood recovery begins]]
+- [[https://www.dw.com/en/eu-leaders-urge-unity-after-russian-strike-on-train/a-79259807?maca=en-rss-en-world-4025-rdf][EU leaders urge unity after Russian strike on train]]
+- [[https://www.dw.com/en/pay-to-ghost-your-boss-japan-s-resignation-business/a-79213584?maca=en-rss-en-world-4025-rdf][Pay to ghost your boss: Japan's resignation business]]
+- [[https://www.dw.com/en/israeli-minister-accuses-naza-filmmakers-of-treason/a-79255860?maca=en-rss-en-world-4025-rdf][Israeli minister accuses 'NAZA' filmmakers of 'treason']]
 
 ** 🇧🇷 Brasil
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/e-possivel-resistir-as-big-techs.shtml][É possível resistir às big techs]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/chineses-encontram-mais-pistas-de-misteriosos-humanos-ancestrais.shtml][Chineses encontram mais pistas de misteriosos humanos ancestrais]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/brasil-impressiona-por-insistir-na-tese-errada-diz-sergio-vale-novo-colunista-do-c-level.shtml][Brasil impressiona por insistir na tese errada, diz Sergio Vale, novo colunista do C-Level]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/cris-vianna-assina-com-a-globo-para-viver-personagem-inedita-em-avenida-brasil-2.shtml][Cris Vianna assina com a Globo para viver personagem inédita em 'Avenida Brasil 2']]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/agencia-que-fiscaliza-redes-acumula-poderes-mas-enfrenta-pressao-politica-e-falta-de-estrutura.shtml][Agência que fiscaliza redes acumula poderes mas enfrenta pressão política e falta de estrutura]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/pf-aponta-que-cezinha-de-madureira-atuou-junto-a-nunes-marques-em-dois-processos-no-stf.shtml][PF aponta que Cezinha de Madureira atuou junto a Nunes Marques em dois processos no STF]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/russia-e-ucrania-param-ataques-ao-setor-de-energia-diz-trump.shtml][Rússia e Ucrânia param ataques ao setor de energia, diz Trump]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pedido-da-pf-sobre-cezinha-de-madureira-cita-comercializacao-de-influencia-junto-a-stf-stj-e-tse.shtml][Pedido da PF sobre Cezinha de Madureira cita 'comercialização de influência' junto a STF, STJ e TSE]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/australian-gold-estreia-no-bodycare-no-brasil-com-linha-kakadu-care.shtml][Australian Gold estreia no bodycare no Brasil com linha Kakadu Care]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2026/09/desafio-de-matematica-tapete-de-retalho.shtml][Desafio de matemática: Tapete de Retalho]]
 
 *** O Globo
 
