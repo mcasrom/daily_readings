@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«El mapa es el territorio, pero el código es la ley que lo hace funcionar».</div>
-#+HTML: <div class='telemetry'>🌡 50.5°C | ⚖ Load: 0.00 | 🌐 Ping: 9.27ms</div>
+#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
+#+HTML: <div class='telemetry'>🌡 49.4°C | ⚖ Load: 0.00 | 🌐 Ping: 9.38ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,15 +49,15 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/09/13/6aa570bde9cf4a991a8b45a0.html][Moncloa cree que hasta dentro de tres meses no habrá normalidad en Ceuta y hay preocupación en el PSOE por el "caos": "Los ministros están en el sálvese quien pueda"]]
-- [[https://www.elmundo.es/espana/2026/09/12/6aa57340fc6c832a7a8b459b.html][Alberto Núñez Feijóo: "La agresión de Marruecos continúa y Ceuta será el epitafio de Sánchez"]]
-- [[https://www.elmundo.es/cronica/2026/09/12/6aa42704e85ece160b8b45b6.html][Coronel Luis Romero, ex número 3 del CNI: "Por mi experiencia puedo afirmar que las rencillas entre ministros han impedido una rápida solución. Marlaska y Albares se comportan como prima donnas"]]
-- [[https://www.elmundo.es/deportes/formula-1/2026/09/13/6aa6bb17e85ece20138b456d.html][El 'niño' Antonelli es el primer ganador en Madrid y da un nuevo bocado al Mundial; Sainz y Alonso, choque y decepción]]
-- [[https://www.elmundo.es/deportes/formula-1/2026/09/13/6aa6bedee9cf4ac6238b45a2.html][Alonso y Sainz, batalla dentro y fuera del circuito: "Me ha echado contra el muro"]]
+- [[https://www.elmundo.es/espana/2026/09/13/6aa69061e9cf4a6d218b459d.html][El Tribunal de Cuentas entrega al juez un 'pendrive' con el nombre y apellidos de los donantes del PSOE en la investigación de la financiación ilegal del partido]]
+- [[https://www.elmundo.es/espana/2026/09/14/6aa690f3e85ece0f718b458b.html][El sector progresista del Poder Judicial mueve ficha para negociar ya las vacantes en la Sala Segunda del Tribunal Supremo]]
+- [[https://www.elmundo.es/papel/historias/2026/09/13/6aa422dce9cf4ae15a8b45b3.html][Los nuevos reyes de las mañanas de la radio: "Los tres queremos ser los más escuchados, pero no debemos cavar trincheras"]]
+- [[https://www.elmundo.es/espana/2026/09/13/6aa3eb3021efa047018b4595.html][Bruselas avisó en mayo de que España no tiene un plan efectivo ante llegadas masivas de inmigrantes y sufre "carencias de personal" fronterizo]]
+- [[https://www.elmundo.es/economia/empresas/2026/09/14/6a78c7f3e9cf4aa23d8b457c.html][Dario Amodei, Sam Altman y Elon Musk piden frenar la IA mientras Washington se desentiende]]
 
 *** La Vanguardia
 
-- [[https://www.lavanguardia.com/internacional/20260913/11633822/oposicion-centroizquierda-gana-elecciones-suecia-sondeos.html][Las proyecciones apuntan a un empate técnico en Suecia pese a la ventaja socialdemócrata]]
+- [[https://www.lavanguardia.com/internacional/20260913/11633822/oposicion-centroizquierda-gana-elecciones-suecia-sondeos.html][Un escaño decide la mayoría: ventaja del bloque opositor socialdemócrata en las elecciones suecas]]
 - [[https://www.lavanguardia.com/politica/20260913/11633321/veo-feijoo-obsesionado-vox-ecosistema-m-30-le-contagiado.html][Pradales: “Ceuta puede acabar con la legislatura si Pedro Sánchez no cierra la crisis ya”]]
 - [[https://www.lavanguardia.com/economia/20260913/11633741/altman-afirma-seria-poco-aconsejable-sacar-openai-bolsa-riesgos-ia.html][Sam Altman paraliza la salida a bolsa de OpenAI ante los riesgos de la IA]]
 - [[https://www.lavanguardia.com/internacional/20260913/11633760/trump-critica-fuerzas-negativas-senalan-preocupaciones-sobre-avance-ia.html][Trump critica las “fuerzas negativas” que señalan preocupaciones sobre el avance de la IA]]
@@ -83,21 +83,21 @@
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/china/justin-sun-jing-tian-bride-fee-5d83b7c5?mod=rss_worldnews][Did a Crypto Bro Pay $4.5 Million to Marry a Movie Star? A Scandal Grips China]]
+- [[https://www.wsj.com/world/russia-is-churning-out-smart-cheap-new-weapons-faster-than-ukraine-or-the-u-s-c817d014?mod=rss_worldnews][Russia Is Churning Out Smart, Cheap New Weapons Faster Than Ukraine or the U.S.]]
+- [[https://www.wsj.com/world/middle-east/widening-mideast-instability-squeezes-global-oil-supplies-0cd316ad?mod=rss_worldnews][Widening Mideast Instability Squeezes Global Oil Supplies]]
 - [[https://www.wsj.com/world/europe/dueling-airstrikes-fuel-angst-as-russia-ukraine-war-escalates-a6c0a67b?mod=rss_worldnews][Dueling Airstrikes Fuel Angst as Russia-Ukraine War Escalates]]
 - [[https://www.wsj.com/world/europe/wealthy-europeans-are-moving-north-as-temperatures-climb-9b47dac0?mod=rss_worldnews][Wealthy Europeans Are Moving North as Temperatures Climb]]
-- [[https://www.wsj.com/world/china/a-u-s-scholar-was-invited-to-china-then-he-vanished-88c720af?mod=rss_worldnews][A U.S. Scholar Was Invited to China. Then He Vanished.]]
-- [[https://www.wsj.com/world/europe/canada-alliance-eu-carney-276f1778?mod=rss_worldnews][Mark Carney’s Audacious Bid to Make Canada an ‘Associate Member’ of the EU]]
-- [[https://www.wsj.com/world/uk/u-k-s-reform-party-rakes-in-record-97-million-donations-from-crypto-world-18d9f11d?mod=rss_worldnews][U.K.’s Reform Party Rakes In Record $97 Million Donations From Crypto World]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
-- [[https://www.lemonde.fr/politique/article/2026/09/13/enquete-electorale-presidentielle-2027-marine-le-pen-entame-la-campagne-sur-un-socle-inedit-au-c-ur-d-un-electorat-inquiet-et-en-colere_6772946_823448.html][Enquête électorale présidentielle 2027 : Marine Le Pen entame la campagne sur un socle inédit au cœur d’un électorat inquiet et en colère]]
+- [[https://www.lemonde.fr/politique/article/2026/09/13/presidentielle-2027-entre-poussee-populiste-et-desir-de-bascule-politique-les-ambiguites-de-la-demande-de-rupture-chez-les-francais_6772945_823448.html][Présidentielle 2027 : entre poussée populiste et désir de bascule politique, les ambiguïtés de la demande de rupture chez les Français]]
+- [[https://www.lemonde.fr/international/article/2026/09/14/guerre-en-ukraine-emoi-international-apres-une-frappe-de-drone-russe-sur-un-train-reliant-kiev-a-varsovie_6773350_3210.html][Guerre en Ukraine : émoi international après une frappe de drone russe sur un train reliant Kiev à Varsovie]]
 - [[https://www.lemonde.fr/economie/article/2026/09/13/le-controle-des-houthistes-sur-le-detroit-de-bab-al-mandab-fait-planer-une-nouvelle-menace-sur-l-economie-mondiale_6772733_3234.html][Le contrôle des houthistes sur le détroit de Bab Al-Mandab fait planer une nouvelle menace sur l’économie mondiale]]
-- [[https://www.lemonde.fr/international/article/2026/09/11/en-ukraine-dans-le-village-martyr-d-andriivka-antre-du-boucher-de-boutcha_6770614_3210.html][En Ukraine, dans le village martyr d’Andriïvka, antre du « boucher de Boutcha »]]
+- [[https://www.lemonde.fr/planete/article/2026/09/14/en-colombie-un-mois-apres-le-seisme-les-plaies-beantes-du-choco-ici-les-personnes-dependent-de-l-etat_6773248_3244.html][En Colombie, un mois après le séisme, les plaies béantes du Choco : « Ici, les personnes dépendent de l’Etat »]]
 - [[https://www.lemonde.fr/idees/article/2026/09/13/investir-dans-l-education-et-la-transition-ecologique-oui-mais-comment-le-financer-le-debat-entre-deux-economistes_6772195_3232.html][Investir dans l’éducation et la transition écologique : oui, mais comment le financer ? Le débat entre deux économistes]]
-- [[https://www.lemonde.fr/societe/article/2026/09/13/le-djihadiste-francais-othman-garrido-juge-pour-sa-participation-a-des-executions-par-decapitation-en-syrie_6772734_3224.html][Le djihadiste français Othman Garrido jugé pour sa participation à des exécutions par décapitation en Syrie]]
 
 *** Le Figaro
 
@@ -114,7 +114,7 @@
 - [[https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss][Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station]]
 - [[https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss][Trump downplays warnings of AI risks, citing rivalry with China]]
 - [[https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss][Questions mount over what an AI 'slowdown' would look like]]
-- [[https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss][Swedish party blocs tied after Sunday vote, projections say]]
+- [[https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss][Swedish left-wing bloc narrowly ahead with election too close to call]]
 - [[https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss][Six dead, 130 missing after Indonesian ferry capsizes in Java Sea]]
 
 *** The Guardian
@@ -165,11 +165,11 @@
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/ivete-sangalo-faz-show-latino-em-dia-dedicado-as-mulheres-no-rock-in-rio.shtml][Ivete Sangalo faz show latino em dia dedicado às mulheres no Rock in Rio]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/zverev-vence-shelton-e-conquista-o-segundo-grand-slam-de-sua-carreira.shtml][Zverev vence Shelton e conquista o segundo Grand Slam de sua carreira]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/policia-civil-deixou-produtora-de-dark-horse-de-fora-de-pedido-ao-coaf.shtml][Polícia Civil deixou produtora de 'Dark Horse' de fora de pedido ao Coaf]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/09/dark-horse-distribui-dinheiro-em-show-de-daniela-mercury-no-rock-in-rio-veja-video.shtml]['Dark Horse' distribui dinheiro em show de Daniela Mercury no Rock in Rio; veja vídeo]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/triatleta-de-46-anos-morre-apos-sofrer-mal-subito-durante-treino-em-brasilia.shtml][Triatleta de 46 anos morre após sofrer mal súbito durante treino em Brasília]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/em-show-performatico-e-teatral-halsey-debuta-no-palco-mundo-do-rock-in-rio.shtml][Em show performático e teatral, Halsey debuta no palco Mundo do Rock in Rio]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-wanessa-camargo-comenta-fake-news-envolvendo-malvino-salvador.shtml][Rock in Rio 2026: Wanessa Camargo comenta fake news envolvendo Malvino Salvador]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-sempre-as-mesmas-pessoas-diz-kadu-moliterno-sobre-panelinhas-na-tv.shtml][Rock in Rio 2026: 'Sempre as mesmas pessoas', diz Kadu Moliterno sobre 'panelinhas' na TV]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-vao-ficar-estremecidos-diz-jose-loreto-sobre-romance-de-iuri-e-ingrid.shtml][Rock in Rio 2026: 'Vão ficar estremecidos', diz José Loreto sobre romance de Iuri e Ingrid]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/estados-do-golfo-adiam-negociacoes-com-o-ira-devido-a-impasse-em-ormuz.shtml][Estados do Golfo adiam negociações com o Irã devido a impasse em Ormuz]]
 
 *** O Globo
 
