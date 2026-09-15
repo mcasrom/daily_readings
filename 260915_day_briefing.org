@@ -30,8 +30,8 @@
 #+HTML_HEAD:    .footer-hub { margin-top: 80px; text-align: center; border-top: 1px solid var(--surface); padding-top: 30px; color: var(--muted); font-size: 0.85em; }
 #+HTML_HEAD: </style>
 #+HTML: <div class="nav-menu"><a href="index.html">DASHBOARD</a><a href="about.html">SOBRE MÍ</a><a href="contact.html">CONTACTO</a></div>
-#+HTML: <div class='quote-box'>«En el tablero internacional, el silencio de hoy es el conflicto del mañana».</div>
-#+HTML: <div class='telemetry'>🌡 50.5°C | ⚖ Load: 0.00 | 🌐 Ping: 9.64ms</div>
+#+HTML: <div class='quote-box'>«Las fronteras dividen la tierra, pero la información conecta los nodos de poder».</div>
+#+HTML: <div class='telemetry'>🌡 49.4°C | ⚖ Load: 0.06 | 🌐 Ping: 9.44ms</div>
 
 #+HTML: <div style='text-align:center; margin:20px 0;'><p style='color:var(--primary); font-family:monospace;'>● CANAL DE INTELIGENCIA SEGURO</p></div>
 
@@ -49,11 +49,11 @@
 
 *** El Mundo
 
-- [[https://www.elmundo.es/espana/2026/09/14/6aa7e57be9cf4a27138b4598.html][Moncloa y Ferraz estallan contra algunos jueces por la suspensión de la 'ley de nietos': "jueces salvapatrias"; "lobos solitarios"; "independencia no es inmunidad"]]
-- [[https://www.elmundo.es/espana/2026/09/14/6aa7efb8e85ece256f8b457a.html][La Junta Electoral ejecuta la paralización de la 'ley de nietos' "dividida por la mitad"]]
-- [[https://www.elmundo.es/espana/2026/09/14/6aa8595de85ece256f8b459b.html][Sánchez justifica su defensa de Marruecos en la crisis de Ceuta: "Es el país al que tienen que retornar la mayoría de los inmigrantes que llegaron"]]
-- [[https://www.elmundo.es/espana/2026/09/14/6aa7804cfc6c83984c8b457f.html][Asesinan en México a una estudiante española de 21 años que se encontraba de intercambio]]
-- [[https://www.elmundo.es/espana/2026/09/14/6aa7c2f3e4d4d883708b457d.html][El PSOE baja dos puntos por la crisis de Ceuta en el  CIS de Tezanos, que le mantiene con 5,5 puntos sobre el PP]]
+- [[https://www.elmundo.es/espana/2026/09/14/6aa8288121efa01a628b4587.html][Feijóo quitará la nacionalidad a los inmigrantes que cometan delitos graves]]
+- [[https://www.elmundo.es/espana/2026/09/14/6aa828be21efa0d25e8b458f.html][El Gobierno "al ataque" contra los jueces para intentar salvar su gestión: "No nos vamos a callar"]]
+- [[https://www.elmundo.es/espana/2026/09/14/6aa82cbce4d4d8404f8b4588.html][La Junta Electoral se parte en dos por la 'ley de nietos': "Esto es un caos"]]
+- [[https://www.elmundo.es/economia/2026/09/14/6aa818fae85ece761b8b4594.html][Washington y Pekín coinciden por una vez: la IA no se debe frenar]]
+- [[https://www.elmundo.es/economia/dinero-inversion/2026/09/15/6aa802c1e9cf4a6f028b4596.html][Los grandes bancos desaconsejan abandonar la inversión en IA y mantienen que el riesgo se encuentra en las "regulaciones engorrosas al sector"]]
 
 *** La Vanguardia
 
@@ -75,29 +75,29 @@
 
 *** The Washington Post
 
+- [[https://www.washingtonpost.com/world/2026/09/14/when-drones-targeted-our-train-journey-out-ukraine/][When drones targeted our train journey out of Ukraine]]
 - [[https://www.washingtonpost.com/world/2026/09/14/scotland-wales-northern-ireland-join-celtic-independence-push/][Scotland, Wales and Northern Ireland join in Celtic independence push]]
 - [[https://www.washingtonpost.com/entertainment/music/2026/09/14/macklemore-dropped-ed-sheeran-tour-after-pro-palestine-comments/][Macklemore dropped from Ed Sheeran tour after pro-Palestine comments]]
 - [[https://www.washingtonpost.com/world/2026/09/14/putin-warns-europe-war-if-peacekeeping-troops-are-deployed-ukraine/][Putin warns Europe of war if peacekeeping troops are deployed to Ukraine]]
-- [[https://www.washingtonpost.com/world/2026/09/14/iran-persian-gulf-foreign-ministers-postpone-meeting-talks-stall/][Iran and Persian Gulf foreign ministers postpone meeting as talks stall]]
-- [[https://www.washingtonpost.com/world/2026/09/14/king-charles-host-ai-leaders-disaster-warnings-mount/][King Charles to host AI leaders as disaster warnings mount]]
+- [[https://www.washingtonpost.com/world/2026/09/14/iran-persian-gulf-foreign-ministers-postpone-meeting-talks-stall/][With Saudi Arabia under pressure, talks on how to end Iran war face delay]]
 
 *** WSJ.com: World News
 
+- [[https://www.wsj.com/world/middle-east/the-lightning-offensive-that-saw-the-houthis-grab-a-crucial-oil-corridor-f70f0e96?mod=rss_worldnews][The Lightning Offensive That Saw the Houthis Grab a Crucial Oil Corridor]]
+- [[https://www.wsj.com/world/middle-east/the-gulfs-ai-nightmare-came-courtesy-of-an-iranian-drone-3f313cb3?mod=rss_worldnews][The Gulf’s AI Nightmare Came Courtesy of an Iranian Drone]]
 - [[https://www.wsj.com/world/russia/russian-businessman-financed-donald-trump-jr-s-wedding-celebrations-fe993af8?mod=rss_worldnews][Russian Businessman Financed Donald Trump Jr.’s Wedding Celebrations]]
 - [[https://www.wsj.com/world/middle-east/what-is-saudi-arabias-east-west-pipeline-and-why-is-it-rocking-oil-markets-3e9823a3?mod=rss_worldnews][What Is Saudi Arabia’s East-West Pipeline and Why Is It Rocking Oil Markets?]]
 - [[https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-congress-is-suddenly-waking-up-to-the-ai-doomsday-threat-29c1baa8?mod=rss_worldnews][The Morning Risk Report: Congress Is Suddenly Waking Up to the AI Doomsday Threat]]
-- [[https://www.wsj.com/sports/sand-beer-and-dogs-on-the-pitch-scots-are-suddenly-crazy-about-cricket-f5587525?mod=rss_worldnews][A Snooty Sport Gets a Scottish Makeover—With Beer, Sand and Dogs on the Pitch]]
-- [[https://www.wsj.com/world/china/justin-sun-jing-tian-bride-fee-5d83b7c5?mod=rss_worldnews][Did a Crypto Bro Pay $4.5 Million to Marry a Movie Star? A Scandal Grips China]]
 
 ** 🇫🇷 Francia
 
 *** Le Monde
 
+- [[https://www.lemonde.fr/politique/article/2026/09/15/budget-2027-attention-a-ne-pas-casser-ce-qui-reste-de-croissance-par-une-austerite-trop-violente_6774287_823448.html][Budget 2027 : « Attention à ne pas casser ce qui reste de croissance par une austérité trop violente ! »]]
 - [[https://www.lemonde.fr/international/article/2026/09/14/vladimir-poutine-un-president-bunkerise-dans-une-russie-mise-sous-cloche_6773871_3210.html][Vladimir Poutine, un président bunkérisé dans une Russie mise sous cloche]]
 - [[https://www.lemonde.fr/politique/article/2026/09/14/marine-le-pen-consolide-son-ancrage-chez-les-retraites-son-obsession-en-vue-de-la-presidentielle-de-2027_6773875_823448.html][Marine Le Pen consolide son ancrage chez les retraités, son obsession en vue de la présidentielle de 2027]]
-- [[https://www.lemonde.fr/societe/article/2026/09/14/a-strasbourg-au-proces-de-l-agression-de-trois-etudiants-juifs-des-violences-reconnues-mais-pas-de-caractere-antisemite_6773880_3224.html][A Strasbourg, au procès de l’agression de trois étudiants juifs, des violences reconnues mais pas de caractère antisémite]]
 - [[https://www.lemonde.fr/societe/article/2026/09/14/le-proces-du-complotiste-remy-daillet-et-de-son-groupuscule-ou-le-recit-d-une-derive-terroriste-de-l-enlevement-de-mia-a-un-projet-de-coup-d-etat_6773853_3224.html][Le procès du complotiste Rémy Daillet et de son groupuscule, ou le récit d’une dérive terroriste, de l’enlèvement de Mia à un projet de coup d’Etat]]
-- [[https://www.lemonde.fr/idees/article/2026/09/14/alain-madelin-et-jean-philippe-feldman-la-souverainete-populaire-peut-et-doit-etre-limitee-n-en-deplaise-aux-populistes-de-tout-poil_6773877_3232.html][Alain Madelin et Jean-Philippe Feldman : « La souveraineté populaire peut et doit être limitée, n’en déplaise aux populistes de tout poil »]]
+- [[https://www.lemonde.fr/international/article/2026/09/15/le-mariage-du-fils-aine-de-donald-trump-aux-bahamas-sponsorise-par-un-homme-d-affaires-russe_6774052_3210.html][Le mariage du fils aîné de Donald Trump aux Bahamas sponsorisé par un homme d’affaires russe]]
 
 *** Le Figaro
 
@@ -105,17 +105,17 @@
 - [[https://www.lefigaro.fr/conjoncture/30-milliards-d-euros-a-trouver-entreprises-salaries-fonctionnaires-pourquoi-les-efforts-budgetaires-concerneront-tout-le-monde-20260914][30 milliards d’euros à trouver : entreprises, salariés, fonctionnaires… Pourquoi les efforts budgétaires concerneront «tout le monde»]]
 - [[https://www.lefigaro.fr/conjoncture/il-n-est-pas-anormal-de-faire-appel-a-un-effort-des-retraites-pour-le-prochain-budget-soutient-le-ministre-du-travail-20260914][«Il n’est pas anormal de faire appel à un effort des retraités» pour le prochain budget, soutient le ministre du Travail]]
 - [[https://www.lefigaro.fr/societes/la-campagne-presidentielle-ne-doit-pas-affaiblir-la-credibilite-de-la-france-la-mise-en-garde-de-thomas-buberl-directeur-general-d-axa-20260914][« La campagne présidentielle ne doit pas affaiblir la crédibilité de la France » : la mise en garde de Thomas Buberl, directeur général d’Axa]]
-- [[https://www.lefigaro.fr/actualite-france/nous-attendons-des-excuses-rattrapes-par-le-scandale-du-periscolaire-anne-hidalgo-et-patrick-bloche-sommes-de-repondre-aux-familles-devant-le-senat-20260914][« Nous attendons des excuses » : rattrapés par le scandale du périscolaire, Anne Hidalgo et Patrick Bloche sommés de répondre aux familles devant le Sénat]]
+- [[https://www.lefigaro.fr/international/un-drone-abattu-par-l-otan-au-dessus-de-la-lituanie-20260915][Un drone abattu par l’Otan au-dessus de la Lituanie]]
 
 ** 🇬🇧 Reino Unido
 
 *** BBC News
 
 - [[https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss][China criticises idea it is in 'malicious competition' over AI]]
-- [[https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss][Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station]]
-- [[https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss][Swedish left-wing bloc narrowly ahead with election too close to call]]
+- [[https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss][Welsh actor Matthew Rhys makes Emmy Awards history with double win]]
+- [[https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss][Nato jets down drone that entered Lithuanian airspace]]
+- [[https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss][US confirms for first time it has deployed space weapons]]
 - [[https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss][Wild dogs record 2,500-mile trek across Zambia in search of a mate]]
-- [[https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss][Thousands demand end to violence in Mexican cartel hotspot]]
 
 *** The Guardian
 
@@ -137,11 +137,11 @@
 
 *** Il Sole 24 Ore
 
+- [[https://www.ilsole24ore.com/art/piccoli-negozi-15-milioni-cedolare-affitti-mirino-AJ65RfCB][Piccoli negozi, per 1,5 milioni cedolare affitti nel mirino]]
 - [[https://www.ilsole24ore.com/art/studio-bocconi-boccia-strade-sicure-militari-presidiano-ma-poteri-limitati-AJT8wwCB][Studio Bocconi boccia “Strade sicure”: i militari presidiano ma con poteri limitati]]
 - [[https://www.ilsole24ore.com/art/acqua-catastrofe-e-meraviglia-nuova-mostra-biblioteca-vaticana-AJB9OtCB][Acqua, «catastrofe e meraviglia»: la nuova mostra della Biblioteca Vaticana]]
 - [[https://www.ilsole24ore.com/art/cgil-l-ingresso-de-palma-filetti-e-sorrentino-ecco-nuova-segreteria-confederale-AJIzfzCB][Cgil, con l’ingresso di De Palma, Filetti e Sorrentino ecco la nuova segreteria confederale]]
 - [[https://www.ilsole24ore.com/art/fisco-niente-stretta-tfr-resta-paracadute-aliquote-piu-basse-AJYcYmCB][Fisco, niente stretta sul Tfr: resta il paracadute delle aliquote più basse]]
-- [[https://www.ilsole24ore.com/art/tax-credit-autotrasporto-prorogata-scadenza-piattaforma-20-settembre-AJqE5tCB][Tax credit autotrasporto, prorogata la scadenza della piattaforma al 20 settembre]]
 
 ** 🇩🇪 Alemania
 
@@ -165,11 +165,11 @@
 
 *** Folha de S.Paulo
 
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/aprovacao-de-trump-sobe-apos-atingir-minima-historica-em-pesquisa-reutersipsos.shtml][Aprovação de Trump sobe após atingir mínima histórica em pesquisa Reuters/Ipsos]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/regras-da-anac-permitem-forca-fisica-contra-passageiros-indisciplinados-e-antecipar-fim-de-viagem.shtml][Regras da Anac permitem força física contra passageiros indisciplinados e antecipar fim de viagem]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/animacao-e-fabula-de-daniel-nolasco-abrem-a-competicao-do-festival-de-brasilia.shtml][Animação e fábula de Daniel Nolasco abrem a competição do Festival de Brasília]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/oprah-winfrey-leva-reflexao-sobre-a-vida-para-espetaculo-imersivo-em-las-vegas.shtml][Oprah Winfrey leva reflexão sobre a vida para espetáculo imersivo em Las Vegas]]
-- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/no-corre/2026/09/a-corrida-nos-anos-80.shtml][A corrida nos anos 80]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/09/a-fazenda-18-jonatas-faro-ator-e-cantor-e-confirmado-no-reality-show.shtml][A Fazenda 18: Jônatas Faro, ator e cantor, é confirmado no reality show]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/09/a-fazenda-18-stephanie-gomes-filha-de-solange-gomes-e-confirmada-no-reality-show.shtml][A Fazenda 18: Stephanie Gomes, filha de Solange Gomes, é confirmada no reality show]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/09/a-fazenda-18-rene-thristan-ator-e-um-dos-visitantes-do-reality-show.shtml][A Fazenda 18: Renê Thristan, ator, é um dos visitantes do reality show]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/09/a-fazenda-18-mayk-leao-influenciador-que-gravou-suposto-ovni-e-confirmado-no-reality-show.shtml][A Fazenda 18: Mayk Leão, influenciador que gravou suposto óvni, é confirmado no reality show]]
+- [[https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/dona-da-johnnie-walker-cria-tecnologia-com-ia-para-combater-falsificacao-de-garrafas-de-destilados.shtml][Dona da Johnnie Walker cria tecnologia com IA para combater falsificação de garrafas de destilados]]
 
 *** O Globo
 
